@@ -1,0 +1,313 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Tunee Brand Colors - Light Theme */
+    --background: 0 0% 100%; /* White */
+    --foreground: 0 0% 10%; /* #191919 */
+
+    --card: 0 0% 100%; /* White */
+    --card-foreground: 0 0% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+
+    /* Primary: Tunee Purple #4D46FE */
+    --primary: 243 99% 64%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Secondary: Light gray #F4F5F7 */
+    --secondary: 220 14% 96%;
+    --secondary-foreground: 0 0% 10%;
+
+    /* Muted text: #666666 */
+    --muted: 220 14% 96%;
+    --muted-foreground: 0 0% 40%;
+
+    /* Accent: Light Purple #8F6CFF */
+    --accent: 255 100% 71%;
+    --accent-foreground: 0 0% 100%;
+
+    /* Light Purple 2: #B592FF */
+    --accent-light: 263 100% 79%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 220 14% 90%;
+    --input: 220 14% 90%;
+    --ring: 243 99% 64%;
+
+    --radius: 0.75rem;
+
+    /* Tunee Gradient */
+    --gradient-start: 243 99% 64%; /* #4D46FE */
+    --gradient-mid: 255 100% 71%; /* #8F6CFF */
+    --gradient-end: 263 100% 79%; /* #B592FF */
+
+    /* Footer dark section */
+    --footer-dark: 0 0% 10%; /* #191919 */
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 243 99% 64%;
+  }
+
+  .dark {
+    /* Dark mode: Black background #191919 */
+    --background: 0 0% 10%;
+    --foreground: 0 0% 98%;
+
+    --card: 0 0% 12%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 0 0% 12%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 243 99% 64%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 0 0% 15%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 60%;
+
+    --accent: 255 100% 71%;
+    --accent-foreground: 0 0% 100%;
+
+    --accent-light: 263 100% 79%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 243 99% 64%;
+
+    --sidebar-background: 0 0% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 243 99% 64%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 0 0% 15%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 0 0% 20%;
+    --sidebar-ring: 243 99% 64%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Poppins', system-ui, sans-serif;
+  }
+
+  /* Tunee Typography: Headings use Barlow Condensed */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    color: hsl(var(--foreground));
+  }
+}
+
+@layer components {
+  /* Tunee Spacing: 120px horizontal padding, 120px vertical section padding */
+  .section-container {
+    @apply max-w-7xl mx-auto;
+    padding-left: 120px;
+    padding-right: 120px;
+  }
+
+  @media (max-width: 1024px) {
+    .section-container {
+      padding-left: 60px;
+      padding-right: 60px;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .section-container {
+      padding-left: 24px;
+      padding-right: 24px;
+    }
+  }
+
+  .section-padding {
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+
+  @media (max-width: 768px) {
+    .section-padding {
+      padding-top: 80px;
+      padding-bottom: 80px;
+    }
+  }
+
+  /* Tunee Typography Sizes */
+  .section-title {
+    @apply text-center mb-6 uppercase tracking-wide;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 1.1;
+  }
+
+  @media (max-width: 768px) {
+    .section-title {
+      font-size: 40px;
+    }
+  }
+
+  .section-subtitle {
+    @apply text-center max-w-2xl mx-auto mb-16 leading-relaxed;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: hsl(var(--muted-foreground));
+  }
+
+  .hero-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 120px;
+    line-height: 1;
+    text-transform: uppercase;
+    letter-spacing: -0.02em;
+  }
+
+  @media (max-width: 1024px) {
+    .hero-title {
+      font-size: 80px;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .hero-title {
+      font-size: 48px;
+    }
+  }
+
+  .card-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 1.2;
+  }
+
+  .body-text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: hsl(var(--muted-foreground));
+  }
+
+  .cta-text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+  }
+
+  /* Tunee Gradient */
+  .gradient-text {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(
+      135deg,
+      hsl(var(--gradient-start)),
+      hsl(var(--gradient-mid)),
+      hsl(var(--gradient-end))
+    );
+  }
+
+  .glass-card {
+    @apply bg-card/50 backdrop-blur-xl border border-border/50 rounded-2xl;
+  }
+
+  .hover-lift {
+    @apply transition-all duration-300 ease-out;
+  }
+
+  .hover-lift:hover {
+    @apply -translate-y-1 shadow-xl;
+  }
+
+  .gradient-border {
+    position: relative;
+    background: hsl(var(--card));
+    border-radius: var(--radius);
+  }
+
+  .gradient-border::before {
+    content: '';
+    position: absolute;
+    inset: -1px;
+    border-radius: inherit;
+    padding: 1px;
+    background: linear-gradient(
+      135deg,
+      hsl(var(--gradient-start) / 0.5),
+      hsl(var(--gradient-mid) / 0.5),
+      hsl(var(--gradient-end) / 0.5)
+    );
+    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+
+  /* Tunee Section Backgrounds */
+  .bg-section-gray {
+    background-color: #F4F5F7;
+  }
+
+  .bg-section-dark {
+    background-color: #191919;
+  }
+
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  .animate-scroll-left {
+    animation: scroll-left 30s linear infinite;
+  }
+
+  .animate-scroll-left:hover {
+    animation-play-state: paused;
+  }
+
+  @keyframes scroll-left-slow {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-33.33%);
+    }
+  }
+
+  .animate-scroll-left-slow {
+    animation: scroll-left-slow 20s linear infinite;
+  }
+}
+
