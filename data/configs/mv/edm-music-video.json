@@ -1,0 +1,31 @@
+{
+  "slug": "edm-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "EDM",
+  "genre_name_zh": "电子舞曲",
+  "keyword_en": "AI EDM music video generator",
+  "visual_keywords": [
+    "rave crowd",
+    "laser grid",
+    "DJ booth",
+    "bass drop visual",
+    "festival stage"
+  ],
+  "mood_words": [
+    "euphoric",
+    "high-energy",
+    "pulsating",
+    "immersive"
+  ],
+  "target_personas": [
+    "EDM producers",
+    "festival DJs",
+    "electronic artists",
+    "club promoters"
+  ],
+  "color_accent": "#00D2FF",
+  "color_secondary": "#3A7BD5",
+  "has_custom_asset": false,
+  "demo_prompt": "Massive festival crowd under laser light show, DJ on floating stage, bass drop synchronized light explosion"
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Bring Your Lyric Video Sound to Life with AI Music Video Creation",
+  "direct_answer": "An AI lyric video generator is a tool that automatically creates professional lyric video-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce engaging visuals featuring automated kinetic typography rendering and multi-style export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished lyric video music video in minutes, no video editing experience required.",
+  "meta_description": "Tunee's AI lyric video generator turns your music into stunning Lyric Video videos in minutes. Try free and export to any platform.",
+  "prompts": [
+    "A engaging scene with kinetic typography and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in animated text, clean energy radiating through every frame and cut of the video",
+    "Abstract lyric sync morphing and flowing in slow motion, capturing the engaging essence of the music perfectly",
+    "Close-up shots of kinetic typography dissolving into background visuals, creating a clean visual journey that follows the song's rhythm",
+    "Wide establishing shot of a dynamic environment with animated text in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between lyric sync and word animation, building tension with engaging color grading and sharp motion graphics",
+    "A clean montage of background visuals and kinetic typography, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring word animation and animated text converging in a engaging explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent artists need Lyric Video music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Youtube music creators use Lyric Video music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Lyric Video music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Lyric Video music video aesthetics to create engaging campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Lyric Video music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Lyric Video style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Lyric Video music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Lyric Video music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "Can I use Tunee's Lyric Video music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Can I generate multiple versions of a Lyric Video music video to compare?",
+      "a": "Yes. You can generate several variations of your Lyric Video music video using different prompts or style settings, then select the version that best fits your vision."
+    },
+    {
+      "q": "Does Tunee's Lyric Video music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Lyric Video music videos from any device without installing software."
+    }
+  ]
+}

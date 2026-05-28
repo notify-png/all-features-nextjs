@@ -1,0 +1,43 @@
+{
+  "h1": "Créez des clips vidéo Synthwave haute qualité avec la technologie IA",
+  "direct_answer": "Un générateur de clips vidéo Synthwave IA est un outil qui crée automatiquement des clips vidéo Synthwave professionnels à partir de votre audio ou vos invites texte. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels nostalgiques avec génération de scènes IA présentant une grille rétro des années 80 et des couchers de soleil néon, adaptés à l'énergie et au style de votre track. Avec Tunee, vous pouvez passer de l'idée à un clip vidéo Synthwave fini en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Créez des clips vidéo Synthwave professionnels avec le générateur de clips vidéo Synthwave IA de Tunee. Visuels nostalgiques, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène nostalgique avec grille rétro des années 80 et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme de la musique",
+    "Artiste immergé dans un coucher de soleil néon, énergie cinématographique rayonnant dans chaque plan et coupe de la vidéo",
+    "Silhouette abstraite de palmier morphing et fluide au ralenti, capturant l'essence nostalgique de la musique parfaitement",
+    "Gros plans sur une grille rétro des années 80 se dissolvant dans une voiture de sport qui roule, créant un voyage visuel cinématographique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement cool avec coucher de soleil néon au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre silhouette de palmier et esthétique VHS, construisant la tension avec étalonnage couleur nostalgique et motion graphics nets",
+    "Un montage cinématographique de voiture de sport qui roule et grille rétro des années 80, avec transitions fluides et beats visuels correspondant au drop",
+    "Séquence finale mettant en vedette l'esthétique VHS et le coucher de soleil néon convergeant dans une explosion nostalgique de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les producteurs Synthwave ont besoin de clips vidéo Synthwave pour définir visuellement leur identité artistique, développer leur fanbase et se démarquer sur les plateformes de streaming.",
+    "creators": "Les artistes Retrowave utilisent l'esthétique des clips vidéo Synthwave pour construire une identité visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production rapide et professionnelle de clips vidéo Synthwave pour promouvoir les nouvelles sorties de manière économique sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des clips vidéo Synthwave pour créer du contenu de campagne nostalgique qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un clip vidéo Synthwave sans expérience en montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère automatiquement toute la production vidéo. Il suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style Synthwave, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'export de clips vidéo Synthwave en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les clips vidéo Synthwave en résolution jusqu'à 4K, les rendant prêts pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement Synthwave ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà de Synthwave. Vous pouvez générer des clips vidéo pour pop, hip-hop, classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon clip vidéo Synthwave ?",
+      "a": "Tunee propose des options intégrées de superposition de paroles et de sous-titres. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement à votre clip vidéo Synthwave."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip vidéo Synthwave pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre clip vidéo Synthwave en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

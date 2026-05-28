@@ -1,0 +1,43 @@
+{
+  "h1": "Dai Vita al Suono della Tua Performance con la Creazione di Video Musicali AI",
+  "direct_answer": "Un video musicale performance AI è uno strumento che crea automaticamente video musicali in stile performance professionale dal tuo audio o dai tuoi prompt di testo. La piattaforma Tunee utilizza machine learning avanzato per produrre visual dal vivo con generazione di performance su palco in tempo reale ed esportazione con un clic, personalizzati in base all'energia e allo stile del tuo brano. Con Tunee, puoi passare dall'idea a un video musicale performance finito in pochi minuti, senza alcuna esperienza di editing video.",
+  "meta_description": "Usa il video musicale performance AI di Tunee per creare visual dal vivo istantaneamente. Nessuna competenza di editing necessaria — esporta in 4K per YouTube, TikTok e altro.",
+  "prompts": [
+    "Una scena dal vivo con performance su palco e movimenti di camera ampi, immersa in un'illuminazione drammatica che pulsa a ritmo della musica",
+    "Artista immerso in una band dal vivo, energia travolgente che irradia da ogni fotogramma e taglio del video",
+    "Illuminazione astratta da concerto che si trasforma e fluisce in slow motion, catturando perfettamente l'essenza dal vivo della musica",
+    "Primi piani di performance su palco che si dissolvono in primi piani di musicisti, creando un percorso visivo energico che segue il ritmo della canzone",
+    "Inquadratura di apertura ampia di un ambiente autentico con band dal vivo in primo piano, evocando una profonda risonanza emotiva",
+    "Tagli dinamici tra illuminazione da concerto e reazione del pubblico, costruendo tensione con color grading dal vivo e grafiche di movimento nitide",
+    "Un montaggio energico di primi piani di musicisti e performance su palco, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale con reazione del pubblico e band dal vivo che convergono in un'esplosione dal vivo di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "Le band hanno bisogno di video musicali performance per definire visivamente la loro identità artistica, far crescere la loro fanbase e distinguersi sulle piattaforme di streaming.",
+    "creators": "I performer dal vivo utilizzano l'estetica dei video musicali performance per costruire un brand visivo distintivo che guida l'engagement e attrae opportunità di collaborazione.",
+    "labels": "Le case discografiche si affidano alla produzione veloce e professionale di video musicali performance per promuovere nuove uscite in modo economico su tutti i canali digitali.",
+    "brands": "I brand e gli inserzionisti utilizzano l'estetica dei video musicali performance per creare contenuti di campagna dal vivo che risuonano emotivamente con il loro pubblico target."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale performance senza alcuna esperienza di editing video?",
+      "a": "Sì — Tunee gestisce automaticamente tutta la produzione video. Basta caricare il tuo audio o inserire un prompt di testo, scegliere uno stile Performance, e l'AI genera il tuo video in pochi minuti."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali performance in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali performance fino a 4K di risoluzione, rendendoli pronti per YouTube, piattaforme di streaming e display a grande schermo."
+    },
+    {
+      "q": "Posso usare il generatore di video musicali performance di Tunee per progetti commerciali?",
+      "a": "Sì. I video creati con Tunee possono essere utilizzati per scopi commerciali inclusi rilasci in streaming, campagne brand e contenuti sui social media."
+    },
+    {
+      "q": "Funziona con qualsiasi genere musicale, o solo con Performance?",
+      "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre Performance. Puoi generare video musicali per pop, hip-hop, musica classica e dozzine di altri stili utilizzando la stessa piattaforma."
+    },
+    {
+      "q": "Il generatore di video musicali performance di Tunee funziona su dispositivi mobili?",
+      "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali performance da qualsiasi dispositivo senza installare software."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-bands",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Bands",
+  "genre_name_zh": "乐队",
+  "keyword_en": "AI music video for bands",
+  "visual_keywords": [
+    "band ensemble shot",
+    "multi-instrument",
+    "group performance",
+    "live energy",
+    "band chemistry"
+  ],
+  "mood_words": [
+    "ensemble",
+    "united",
+    "energetic",
+    "collaborative"
+  ],
+  "target_personas": [
+    "rock bands",
+    "pop groups",
+    "indie bands",
+    "music ensembles"
+  ],
+  "color_accent": "#C0392B",
+  "color_secondary": "#E74C3C",
+  "has_custom_asset": false,
+  "demo_prompt": "Full band performance video capturing group chemistry, each member featured, live-show energy, professional tour-quality"
+}

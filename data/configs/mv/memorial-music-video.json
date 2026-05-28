@@ -1,0 +1,31 @@
+{
+  "slug": "memorial-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Memorial",
+  "genre_name_zh": "纪念",
+  "keyword_en": "AI memorial music video generator",
+  "visual_keywords": [
+    "photo tribute",
+    "candle lighting",
+    "cherished memories",
+    "peaceful imagery",
+    "healing visual"
+  ],
+  "mood_words": [
+    "tender",
+    "healing",
+    "respectful",
+    "loving"
+  ],
+  "target_personas": [
+    "grieving families",
+    "memorial service planners",
+    "tribute video creators",
+    "funeral directors"
+  ],
+  "color_accent": "#5D6D7E",
+  "color_secondary": "#7F8C8D",
+  "has_custom_asset": false,
+  "demo_prompt": "Gentle memorial tribute video, cherished photo memories, soft candlelight, peaceful nature imagery, tender healing atmosphere"
+}

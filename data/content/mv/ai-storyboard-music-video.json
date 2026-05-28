@@ -1,0 +1,43 @@
+{
+  "h1": "AI-Powered AI Storyboard Music Video Generator for Every Artist",
+  "direct_answer": "An AI storyboard for music video is a tool that automatically creates professional ai storyboard-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce planned visuals featuring AI scene generation with scene planning and shot list, tailored to your track's energy and style. With Tunee, you can go from idea to a finished ai storyboard music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional AI Storyboard music videos with Tunee's AI storyboard for music video. Planned visuals, fast export, no experience required.",
+  "prompts": [
+    "A planned scene with scene planning and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in shot list, professional energy radiating through every frame and cut of the video",
+    "Abstract storyboard panels morphing and flowing in slow motion, capturing the planned essence of the music perfectly",
+    "Close-up shots of scene planning dissolving into pre-production, creating a professional visual journey that follows the song's rhythm",
+    "Wide establishing shot of a visual environment with shot list in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between storyboard panels and visual blueprint, building tension with planned color grading and sharp motion graphics",
+    "A professional montage of pre-production and scene planning, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring visual blueprint and shot list converging in a planned explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Musicians use this AI Storyboard workflow to quickly turn raw assets — photos, lyrics, or audio — into polished music videos without needing a production crew.",
+    "creators": "Content creators leverage the AI Storyboard pipeline to automate repetitive video production tasks and focus more time on creative direction.",
+    "labels": "Record labels integrate this AI Storyboard workflow into their release process to produce high-quality visual content for every single and album track.",
+    "brands": "Marketing teams use the AI Storyboard workflow to convert existing brand assets into engaging music-driven video content for campaigns."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a AI Storyboard music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a AI Storyboard style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting AI Storyboard music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports AI Storyboard music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my AI Storyboard music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates scene planning-inspired visuals that match your AI Storyboard aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's AI Storyboard music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my AI Storyboard music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your AI Storyboard music video automatically."
+    }
+  ]
+}

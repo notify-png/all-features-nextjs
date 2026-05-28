@@ -1,0 +1,43 @@
+{
+  "h1": "Produce vídeos musicales de C-pop de alta calidad con tecnología de IA",
+  "direct_answer": "Un generador de vídeos musicales de C-pop con IA es una herramienta que crea automáticamente vídeos musicales profesionales de estilo C-pop a partir de tus pistas de audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales elegantes con generación en tiempo real de elementos tradicionales chinos y exportación con un clic, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un vídeo musical de C-pop terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "El generador de vídeos musicales de C-pop con IA de Tunee transforma tu música en impresionantes vídeos de C-pop en minutos. Pruébalo gratis y exporta a cualquier plataforma.",
+  "prompts": [
+    "Una escena elegante con elementos tradicionales chinos y movimientos de cámara barridos, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en un paisaje urbano moderno, energía dinámica irradiando en cada fotograma y corte del vídeo",
+    "Hanfu abstracto y fluido transformándose en cámara lenta, capturando perfectamente la esencia elegante de la música",
+    "Planos cerrados de elementos tradicionales chinos disolviéndose en motivo de dragón, creando un viaje visual dinámico que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno culturalmente rico con paisaje urbano moderno en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre hanfu fluido y Shanghái de neón, construyendo tensión con color grading elegante y gráficos de movimiento afilados",
+    "Un montaje dinámico de motivo de dragón y elementos tradicionales chinos, estratificados con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con Shanghái de neón y paisaje urbano moderno convergiendo en una explosión elegante de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas de Mandopop necesitan vídeos musicales de C-pop para definir visualmente su identidad artística, hacer crecer su base de seguidores y destacar en plataformas de streaming.",
+    "creators": "Los músicos indie chinos utilizan la estética de vídeos musicales de C-pop para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de vídeos musicales de C-pop para promocionar nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de vídeos musicales de C-pop para crear contenido de campaña elegante que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un vídeo musical de C-pop sin experiencia en edición de vídeo?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de vídeo automáticamente. Solo sube tu audio o introduce una indicación de texto, elige un estilo de C-pop, y la IA genera tu vídeo en minutos."
+    },
+    {
+      "q": "¿Admite exportar vídeos musicales de C-pop en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos musicales de C-pop en resolución de hasta 4K, dejándolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi vídeo musical de C-pop?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y entornos. La IA de Tunee interpreta tu entrada y genera visuales inspirados en elementos tradicionales chinos que coincidan con tu estética de C-pop."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con C-pop?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá del C-pop. Puedes generar vídeos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un vídeo musical de C-pop para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu vídeo musical de C-pop usando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

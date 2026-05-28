@@ -1,0 +1,31 @@
+{
+  "slug": "music-visualizer",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Music Visualizer",
+  "genre_name_zh": "音乐可视化",
+  "keyword_en": "AI music visualizer generator",
+  "visual_keywords": [
+    "waveform animation",
+    "frequency bars",
+    "spectrum analyzer",
+    "reactive visuals",
+    "audio-driven motion"
+  ],
+  "mood_words": [
+    "technical",
+    "dynamic",
+    "reactive",
+    "immersive"
+  ],
+  "target_personas": [
+    "audio engineers",
+    "streaming artists",
+    "podcast creators",
+    "electronic musicians"
+  ],
+  "color_accent": "#1ABC9C",
+  "color_secondary": "#2ECC71",
+  "has_custom_asset": false,
+  "demo_prompt": "Music spectrum visualizer with frequency bars reacting to audio, waveform particles, clean dark background, neon colors"
+}

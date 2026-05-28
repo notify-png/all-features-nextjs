@@ -1,0 +1,31 @@
+{
+  "slug": "comic-book-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Comic Book",
+  "genre_name_zh": "漫画书",
+  "keyword_en": "AI comic book music video generator",
+  "visual_keywords": [
+    "halftone dots",
+    "action panels",
+    "bold outlines",
+    "speech bubbles",
+    "POW effects"
+  ],
+  "mood_words": [
+    "dynamic",
+    "bold",
+    "playful",
+    "action-packed"
+  ],
+  "target_personas": [
+    "pop punk artists",
+    "superhero-themed creators",
+    "indie comic fans",
+    "graphic novel musicians"
+  ],
+  "color_accent": "#FFD700",
+  "color_secondary": "#FFA500",
+  "has_custom_asset": false,
+  "demo_prompt": "Comic book style music video with halftone dots, bold black outlines, action panels POW effects, superhero performer"
+}

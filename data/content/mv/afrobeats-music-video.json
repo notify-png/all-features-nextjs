@@ -1,0 +1,43 @@
+{
+  "h1": "Bring Your Afrobeats Sound to Life with AI Music Video Creation",
+  "direct_answer": "An AI Afrobeats music video generator is a tool that automatically creates professional afrobeats-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce vibrant visuals featuring AI scene generation with Lagos cityscape and colorful fashion, tailored to your track's energy and style. With Tunee, you can go from idea to a finished afrobeats music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI Afrobeats music video generator to create vibrant Afrobeats visuals instantly. No editing skills needed — export in 4K for YouTube, TikTo...",
+  "prompts": [
+    "A vibrant scene with Lagos cityscape and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in colorful fashion, joyful energy radiating through every frame and cut of the video",
+    "Abstract street party morphing and flowing in slow motion, capturing the vibrant essence of the music perfectly",
+    "Close-up shots of Lagos cityscape dissolving into dance energy, creating a joyful visual journey that follows the song's rhythm",
+    "Wide establishing shot of a rhythmic environment with colorful fashion in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between street party and African patterns, building tension with vibrant color grading and sharp motion graphics",
+    "A joyful montage of dance energy and Lagos cityscape, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring African patterns and colorful fashion converging in a vibrant explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Afrobeats artists need Afrobeats music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "African music creators use Afrobeats music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Afrobeats music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Afrobeats music video aesthetics to create vibrant campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Afrobeats music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Afrobeats style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "How do I customize the visual style of my Afrobeats music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates Lagos cityscape-inspired visuals that match your Afrobeats aesthetic."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Afrobeats?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Afrobeats. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Afrobeats music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Afrobeats music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Afrobeats music video to compare?",
+      "a": "Yes. You can generate several variations of your Afrobeats music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

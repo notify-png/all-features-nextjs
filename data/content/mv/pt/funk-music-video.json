@@ -1,0 +1,43 @@
+{
+  "h1": "Traga Seu Som Funk à Vida com Criação de Videoclipes com IA",
+  "direct_answer": "Um gerador de videoclipes de funk com IA é uma ferramenta que cria automaticamente videoclipes profissionais no estilo funk a partir de seu áudio ou prompts de texto. A plataforma Tunee usa machine learning avançado para produzir visuais groovy apresentando geração de cenas com IA, cenários retrô dos anos 70 e penteados afro, adaptados à energia e estilo da sua música. Com Tunee, você pode transformar uma ideia em um videoclipe funk acabado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "O gerador de videoclipes Funk com IA da Tunee transforma sua música em vídeos Funk impressionantes em minutos. Experimente gratuitamente e exporte para qualquer plataforma.",
+  "prompts": [
+    "Uma cena groovy com cenário retrô dos anos 70 e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em penteados afro, energia funky irradiando em cada frame e corte do vídeo",
+    "Close-up de guitarra baixo abstrata morphing e fluindo em câmera lenta, capturando perfeitamente a essência groovy da música",
+    "Planos fechados do cenário retrô dos anos 70 desaparecendo em pista de dança groovy, criando uma jornada visual funky que segue o ritmo da música",
+    "Plano de estabelecimento amplo de um ambiente celebrativo com penteados afro em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre close-up de guitarra baixa e figurinos brilhantes, construindo tensão com color grading groovy e motion graphics afiados",
+    "Uma montagem funky de pista de dança groovy e cenário retrô dos anos 70, em camadas com transições suaves e beats visuais correspondendo ao drop",
+    "Sequência final apresentando figurinos brilhantes e penteados afro convergindo em uma explosão groovy de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Bandas de funk precisam de videoclipes Funk para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Músicos de baixo usam estéticas de videoclipe Funk para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras contam com produção rápida e profissional de videoclipes Funk para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de videoclipe Funk para criar conteúdo de campanha groovy que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe Funk sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee lida com toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo Funk, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "É possível exportar videoclipes Funk em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes Funk em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
+    },
+    {
+      "q": "Como posso personalizar o estilo visual do meu videoclipe Funk?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, humores e ambientes. A IA da Tunee interpreta sua entrada e gera visuais inspirados em cenários retrô dos anos 70 que combinam com sua estética Funk."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipes Funk da Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais incluindo lançamentos em streaming, campanhas de marca e conteúdo em redes sociais."
+    },
+    {
+      "q": "Funciona com qualquer gênero musical, ou apenas Funk?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Funk. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    }
+  ]
+}

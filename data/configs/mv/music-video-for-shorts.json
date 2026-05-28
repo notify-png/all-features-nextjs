@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-shorts",
+  "parent": "/features/music-video-generator",
+  "category": "Platform",
+  "genre_name": "YouTube Shorts",
+  "genre_name_zh": "YouTube Shorts",
+  "keyword_en": "AI music video for YouTube Shorts",
+  "visual_keywords": [
+    "60-second format",
+    "vertical 9:16",
+    "Shorts loop",
+    "bold title card",
+    "subscribe bump"
+  ],
+  "mood_words": [
+    "quick",
+    "punchy",
+    "loopable",
+    "discoverable"
+  ],
+  "target_personas": [
+    "Shorts-first creators",
+    "music clip makers",
+    "YouTube growth artists",
+    "bite-size content musicians"
+  ],
+  "color_accent": "#FF0000",
+  "color_secondary": "#FF4444",
+  "has_custom_asset": false,
+  "demo_prompt": "YouTube Shorts 60-second vertical music clip, bold opening moment, loop-friendly ending, Shorts shelf optimized framing"
+}

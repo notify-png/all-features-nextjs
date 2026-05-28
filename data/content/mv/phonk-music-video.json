@@ -1,0 +1,43 @@
+{
+  "h1": "Generate Professional Phonk Music Videos Instantly with AI",
+  "direct_answer": "An AI phonk music video generator is a tool that automatically creates professional phonk-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce dark visuals featuring real-time drift racing generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished phonk music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI phonk music video generator to create dark Phonk visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok, and more.",
+  "prompts": [
+    "A dark scene with drift racing and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in dark aesthetic, aggressive energy radiating through every frame and cut of the video",
+    "Abstract cowbell rhythm visual morphing and flowing in slow motion, capturing the dark essence of the music perfectly",
+    "Close-up shots of drift racing dissolving into Memphis underground, creating a aggressive visual journey that follows the song's rhythm",
+    "Wide establishing shot of a nostalgic environment with dark aesthetic in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between cowbell rhythm visual and vintage car scene, building tension with dark color grading and sharp motion graphics",
+    "A aggressive montage of Memphis underground and drift racing, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring vintage car scene and dark aesthetic converging in a dark explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Phonk producers need Phonk music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Drift culture creators use Phonk music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Phonk music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Phonk music video aesthetics to create dark campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Phonk music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Phonk style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Phonk music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Phonk music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Phonk music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates drift racing-inspired visuals that match your Phonk aesthetic."
+    },
+    {
+      "q": "Can I generate multiple versions of a Phonk music video to compare?",
+      "a": "Yes. You can generate several variations of your Phonk music video using different prompts or style settings, then select the version that best fits your vision."
+    },
+    {
+      "q": "Does Tunee's Phonk music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Phonk music videos from any device without installing software."
+    }
+  ]
+}

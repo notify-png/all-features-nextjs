@@ -1,0 +1,43 @@
+{
+  "h1": "A Forma Mais Rápida de Criar Videoclipes Surreais com IA",
+  "direct_answer": "Um gerador de videoclipes surreais por IA é uma ferramenta que cria automaticamente videoclipes profissionais com estilo surreal a partir de seu áudio ou prompts de texto. A plataforma Tunee usa machine learning avançado para produzir visuais oníricos com geração de arquitetura impossível em tempo real e exportação em um clique, personalizados para a energia e estilo da sua faixa. Com o Tunee, você pode ir de uma ideia para um videoclipe surreal finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipes surreais por IA do Tunee para criar visuais oníricos instantaneamente. Sem necessidade de habilidades de edição — exporte em 4K para YouTube, TikTok,...",
+  "prompts": [
+    "Uma cena onírica com arquitetura impossível e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em imagens oníricas, energia otherworldly irradiando através de cada frame e corte do vídeo",
+    "Objetos abstratos derretendo e fluindo em câmera lenta, capturando perfeitamente a essência onírica da música",
+    "Planos aproximados de arquitetura impossível se dissolvendo em inspiração Dalí, criando uma jornada visual otherworldly que segue o ritmo da música",
+    "Plano aberto estabelecedor de um ambiente perturbador com imagens oníricas em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre objetos derretendo e figuras flutuantes, construindo tensão com color grading onírico e motion graphics nítidos",
+    "Uma montagem otherworldly de inspiração Dalí e arquitetura impossível, com transições suaves e beats visuais sincronizados com o drop",
+    "Sequência final com figuras flutuantes e imagens oníricas convergindo em uma explosão onírica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas de Art-pop precisam de videoclipes surreais para definir visualmente sua identidade artística, expandir sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Músicos experimentais usam estéticas de videoclipes surreais para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes surreais para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de videoclipes surreais para criar conteúdo de campanha onírico que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe surreal sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee trata toda a produção de vídeo automaticamente. Simplesmente faça upload de seu áudio ou insira um prompt de texto, escolha um estilo surreal, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Como posso personalizar o estilo visual do meu videoclipe surreal?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA do Tunee interpreta sua entrada e gera visuais inspirados em arquitetura impossível que correspondem à sua estética surreal."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipes surreais do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com o Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de redes sociais."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe surreal?",
+      "a": "O Tunee oferece opções integradas de overlay de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA as sincronizará com seu videoclipe surreal automaticamente."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe surreal para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe surreal usando prompts diferentes ou configurações de estilo, e então selecionar a versão que melhor se encaixa em sua visão."
+    }
+  ]
+}

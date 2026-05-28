@@ -1,0 +1,43 @@
+{
+  "h1": "Lleva tu sonido de TikTok a la vida con creación de videos musicales con IA",
+  "direct_answer": "Un video musical con IA para TikTok es una herramienta que crea automáticamente videos musicales profesionales al estilo de TikTok a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales virales con indicaciones de texto a video y visuales verticales 9:16, adaptados a la energía y estilo de tu canción. Con Tunee, puedes pasar de una idea a un video musical de TikTok terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa el generador de videos musicales con IA de Tunee para TikTok y crea visuales virales al instante. Sin habilidades de edición requeridas — exporta en 4K para YouTube, TikTok y más.",
+  "prompts": [
+    "Una escena viral con formato vertical 9:16 y movimientos de cámara barrida, bañada en iluminación dramática que pulsa al ritmo",
+    "Plano vertical de primer plano inmerso en un gancho visual tendencia, energía moderna radiando a través de cada fotograma y corte del video",
+    "Un primer plano abstracto de 3 segundos que se transforma y fluye en cámara lenta, capturando la esencia viral de la música perfectamente",
+    "Planos de primer plano verticales 9:16 que se disuelven en un espacio amigable para stickers, creando un viaje visual moderno que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno impulsado por ganchos visuales con un gancho visual tendencia en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre el primer plano de 3 segundos y formato para duetos, construyendo tensión con color grading viral y gráficos de movimiento nítidos",
+    "Un montaje moderno de espacio amigable para stickers y vertical 9:16, con capas de transiciones suaves y ritmos visuales que coinciden con el drop",
+    "Secuencia final con formato para duetos y gancho visual tendencia convergiendo en una explosión viral de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los músicos independientes usan TikTok para maximizar el alcance en la plataforma, asegurando que su contenido cumpla con los requisitos de formato y capte la atención al instante.",
+    "creators": "Los artistas de TikTok dependen de contenido perfectamente formateado para TikTok para impulsar la visibilidad algorítmica y crecer su seguimiento con cada subida.",
+    "labels": "Las discográficas producen en lotes videos de TikTok optimizados para la plataforma en todo su catálogo, reduciendo el tiempo de entrega de semanas a horas.",
+    "brands": "Las marcas que ejecutan campañas pagadas y orgánicas en esta plataforma usan Tunee para producir anuncios de video de TikTok que generan clics a escala."
+  },
+  "faqs": [
+    {
+      "q": "¿Es compatible la exportación de videos musicales de TikTok en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales de TikTok en resolución de hasta 4K, dejándolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical de TikTok?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y ambientes. La IA de Tunee interpreta tu entrada y genera visuales inspirados en formato vertical 9:16 que coincidan con tu estética de TikTok."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical de TikTok?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video musical de TikTok automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical de TikTok para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical de TikTok usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    },
+    {
+      "q": "¿Funciona el generador de videos musicales de TikTok de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web en computadoras de escritorio y dispositivos móviles, para que puedas crear videos musicales de TikTok desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "anime-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Anime",
+  "genre_name_zh": "动漫",
+  "keyword_en": "AI anime music video generator",
+  "visual_keywords": [
+    "cel-shading",
+    "watercolor",
+    "mecha",
+    "chibi",
+    "Ghibli-inspired"
+  ],
+  "mood_words": [
+    "dreamy",
+    "epic",
+    "nostalgic",
+    "action-packed"
+  ],
+  "target_personas": [
+    "Vocaloid creators",
+    "VTubers",
+    "AMV editors",
+    "J-pop artists"
+  ],
+  "color_accent": "#7F77DD",
+  "color_secondary": "#AFA9EC",
+  "has_custom_asset": false,
+  "demo_prompt": "Cherry blossom garden, a girl playing acoustic guitar, cel-shading style, soft golden hour light"
+}

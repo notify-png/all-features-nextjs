@@ -1,0 +1,31 @@
+{
+  "slug": "christmas-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Christmas",
+  "genre_name_zh": "圣诞节",
+  "keyword_en": "AI Christmas music video generator",
+  "visual_keywords": [
+    "Christmas tree",
+    "snow falling",
+    "festive decorations",
+    "carolers",
+    "fireplace warmth"
+  ],
+  "mood_words": [
+    "festive",
+    "warm",
+    "magical",
+    "traditional"
+  ],
+  "target_personas": [
+    "Christmas song creators",
+    "holiday music makers",
+    "family musicians",
+    "festive content creators"
+  ],
+  "color_accent": "#B22222",
+  "color_secondary": "#006400",
+  "has_custom_asset": false,
+  "demo_prompt": "Christmas music video with snow falling on village, cozy fireplace, Christmas tree lights, carolers in scarves, festive magic"
+}

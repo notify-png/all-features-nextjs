@@ -1,0 +1,43 @@
+{
+  "h1": "Generate Professional YouTube Music Videos Instantly with AI",
+  "direct_answer": "An AI music video for YouTube is a tool that automatically creates professional youtube-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce engaging visuals featuring text-to-video prompts and 16:9 widescreen visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished youtube music video in minutes, no video editing experience required.",
+  "meta_description": "Tunee's AI music video for YouTube turns your music into stunning YouTube videos in minutes. Try free and export to any platform.",
+  "prompts": [
+    "A engaging scene with 16:9 widescreen and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in YouTube thumbnail, shareable energy radiating through every frame and cut of the video",
+    "Abstract mid-roll safe zones morphing and flowing in slow motion, capturing the engaging essence of the music perfectly",
+    "Close-up shots of 16:9 widescreen dissolving into HD 1080p quality, creating a shareable visual journey that follows the song's rhythm",
+    "Wide establishing shot of a high-quality environment with YouTube thumbnail in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between mid-roll safe zones and subscriber hook, building tension with engaging color grading and sharp motion graphics",
+    "A shareable montage of HD 1080p quality and 16:9 widescreen, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring subscriber hook and YouTube thumbnail converging in a engaging explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use YouTube to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "Youtube musicians rely on perfectly formatted YouTube content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized YouTube videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping YouTube video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Can I use Tunee's YouTube music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Does it work with any genre of music, or only YouTube?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond YouTube. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my YouTube music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your YouTube music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a YouTube music video to compare?",
+      "a": "Yes. You can generate several variations of your YouTube music video using different prompts or style settings, then select the version that best fits your vision."
+    },
+    {
+      "q": "Does Tunee's YouTube music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create YouTube music videos from any device without installing software."
+    }
+  ]
+}

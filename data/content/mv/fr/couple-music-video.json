@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie à votre son de couple avec la création de vidéo musicale IA",
+  "direct_answer": "Un générateur de vidéo musicale de couple IA est un outil qui crée automatiquement des vidéos musicales de style couple professionnel à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels romantiques avec rendu automatique de portraits de couple et export multi-styles, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale de couple finie en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de vidéo musicale de couple IA de Tunee pour créer instantanément des visuels de couple romantiques. Aucune compétence en montage requise — exportez en 4K pour YouTube, TikTok, et...",
+  "prompts": [
+    "Une scène romantique avec portraits de couple et mouvements de caméra balayants, baignée dans un éclairage dramatique qui pulse avec le rythme",
+    "Scène de couple immergée dans l'heure dorée ensemble, une énergie intime rayonnant à travers chaque plan et coupe de la vidéo",
+    "Des étapes de relation abstraites se morphant et s'écoulant au ralenti, capturant l'essence romantique de la musique parfaitement",
+    "Des gros plans de portraits de couple se dissolvant en moments intimes, créant un voyage visuel intime qui suit le rythme de la chanson",
+    "Un large plan d'établissement d'un environnement de narration avec l'heure dorée ensemble au premier plan, évoquant une profonde résonance émotionnelle",
+    "Des coupes dynamiques entre les étapes de relation et l'histoire d'amour, créant de la tension avec des dégradés de couleur romantique et des graphiques en mouvement nets",
+    "Un montage intime de moments intimes et de portraits de couple, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Une séquence finale mettant en avant l'histoire d'amour et l'heure dorée ensemble convergeant dans une explosion romantique de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les couples utilisent les vidéos musicales de couple pour commémorer les moments spéciaux et créer des souvenirs visuels durables sur la bande sonore parfaite.",
+    "creators": "Les donateurs de cadeaux d'anniversaire produisent du contenu vidéo musicale de couple pour raconter des histoires émouvantes, élargir leur audience et offrir des services vidéo premium aux clients.",
+    "labels": "Les organisateurs d'événements et les vidéographes utilisent l'IA de Tunee pour livrer rapidement des packages vidéo de couple polis et à une fraction du coût de production traditionnel.",
+    "brands": "Les marques et annonceurs créent du contenu sur le thème du couple pour se connecter avec les audiences lors de moments saisonniers clés et de jalons émotionnels."
+  },
+  "faqs": [
+    {
+      "q": "Supportez-vous l'export de vidéos musicales de couple en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéos musicales de couple en résolution jusqu'à 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Comment puis-je personnaliser le style visuel de ma vidéo musicale de couple ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles décrivant des scènes, des ambiances et des paramètres. L'IA de Tunee interprète votre saisie et génère des visuels inspirés par les portraits de couple qui correspondent à votre esthétique de couple."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéo musicale de couple de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties en streaming, les campagnes de marque et le contenu des médias sociaux."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale de couple ?",
+      "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale de couple."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale de couple à comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale de couple en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

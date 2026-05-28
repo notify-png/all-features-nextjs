@@ -1,0 +1,31 @@
+{
+  "slug": "family-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Family",
+  "genre_name_zh": "家庭",
+  "keyword_en": "AI family music video generator",
+  "visual_keywords": [
+    "family moments",
+    "multi-generational",
+    "home life",
+    "outdoor family fun",
+    "candid family joy"
+  ],
+  "mood_words": [
+    "warm",
+    "loving",
+    "nostalgic",
+    "togetherness"
+  ],
+  "target_personas": [
+    "family memory preservers",
+    "family musicians",
+    "family reunion planners",
+    "multi-gen content creators"
+  ],
+  "color_accent": "#F39C12",
+  "color_secondary": "#F8C471",
+  "has_custom_asset": false,
+  "demo_prompt": "Warm family music video with multi-generational moments, backyard BBQ, holiday traditions, candid laughter and love"
+}

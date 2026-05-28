@@ -1,0 +1,43 @@
+{
+  "h1": "Create Stunning YouTube Shorts Music Videos with AI in Minutes",
+  "direct_answer": "An AI music video for YouTube Shorts is a tool that automatically creates professional youtube shorts-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce quick visuals featuring text-to-video prompts and 60-second format visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished youtube shorts music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI music video for YouTube Shorts to create quick YouTube Shorts visuals instantly. No editing skills needed — export in 4K for YouTube, Tik...",
+  "prompts": [
+    "A quick scene with 60-second format and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in vertical 9:16, punchy energy radiating through every frame and cut of the video",
+    "Abstract Shorts loop morphing and flowing in slow motion, capturing the quick essence of the music perfectly",
+    "Close-up shots of 60-second format dissolving into bold title card, creating a punchy visual journey that follows the song's rhythm",
+    "Wide establishing shot of a loopable environment with vertical 9:16 in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between Shorts loop and subscribe bump, building tension with quick color grading and sharp motion graphics",
+    "A punchy montage of bold title card and 60-second format, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring subscribe bump and vertical 9:16 converging in a quick explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use YouTube Shorts to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "Shorts-first creators rely on perfectly formatted YouTube Shorts content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized YouTube Shorts videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping YouTube Shorts video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Does it support exporting YouTube Shorts music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports YouTube Shorts music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my YouTube Shorts music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates 60-second format-inspired visuals that match your YouTube Shorts aesthetic."
+    },
+    {
+      "q": "Does it work with any genre of music, or only YouTube Shorts?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond YouTube Shorts. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my YouTube Shorts music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your YouTube Shorts music video automatically."
+    },
+    {
+      "q": "Does Tunee's YouTube Shorts music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create YouTube Shorts music videos from any device without installing software."
+    }
+  ]
+}

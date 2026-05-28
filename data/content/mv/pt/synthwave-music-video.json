@@ -1,0 +1,43 @@
+{
+  "h1": "Produza Vídeos de Música Synthwave de Alta Qualidade com Tecnologia IA",
+  "direct_answer": "Um gerador de vídeo de música synthwave com IA é uma ferramenta que cria automaticamente vídeos de música estilo synthwave profissionais a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais nostálgicos com geração de cenas IA, apresentando grid retrô dos anos 80 e pôr do sol neon, personalizados para a energia e estilo da sua faixa. Com Tunee, você pode transformar uma ideia em um vídeo de música synthwave finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Crie vídeos de música Synthwave profissionais com o gerador de vídeo de música synthwave IA do Tunee. Visuais nostálgicos, exportação rápida, sem experiência necessária.",
+  "prompts": [
+    "Uma cena nostálgica com grid retrô dos anos 80 e movimentos de câmera varrendo, imersa em iluminação dramática que pulsa com o beat",
+    "Artista imerso em pôr do sol neon, energia cinemática irradiando através de cada frame e corte do vídeo",
+    "Silhueta abstrata de palmeira se transformando e fluindo em câmera lenta, capturando perfeitamente a essência nostálgica da música",
+    "Close-ups do grid retrô dos anos 80 se dissolvendo em carro esportivo acelerado, criando uma jornada visual cinemática que segue o ritmo da música",
+    "Plano geral amplo de um ambiente legal com pôr do sol neon em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre silhueta de palmeira e estética VHS, construindo tensão com gradação de cor nostálgica e motion graphics nítidos",
+    "Uma montagem cinemática de carro esportivo acelerado e grid retrô dos anos 80, em camadas com transições suaves e beats visuais combinando com o drop",
+    "Sequência final apresentando estética VHS e pôr do sol neon convergindo em uma explosão nostálgica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Produtores de synthwave precisam de vídeos de música Synthwave para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar nas plataformas de streaming.",
+    "creators": "Artistas retrowave usam a estética de vídeos de música Synthwave para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de vídeos de música Synthwave para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam a estética de vídeos de música Synthwave para criar conteúdo de campanhas nostálgicas que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo de música Synthwave sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Basta enviar seu áudio ou inserir um prompt de texto, escolher um estilo Synthwave, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Ele oferece suporte para exportar vídeos de música Synthwave em resolução 4K?",
+      "a": "Com certeza. Tunee exporta vídeos de música Synthwave em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e displays de grande tela."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas com Synthwave?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Synthwave. Você pode gerar vídeos de música para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu vídeo de música Synthwave?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA as sincronizará com seu vídeo de música Synthwave automaticamente."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um vídeo de música Synthwave para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu vídeo de música Synthwave usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

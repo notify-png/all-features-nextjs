@@ -1,0 +1,31 @@
+{
+  "slug": "reggae-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Reggae",
+  "genre_name_zh": "雷鬼",
+  "keyword_en": "AI reggae music video generator",
+  "visual_keywords": [
+    "beach scene",
+    "Rastafarian colors",
+    "tropical flora",
+    "laid-back vibes",
+    "Jamaica setting"
+  ],
+  "mood_words": [
+    "relaxed",
+    "positive",
+    "cultural",
+    "soulful"
+  ],
+  "target_personas": [
+    "reggae artists",
+    "Caribbean musicians",
+    "world music creators",
+    "dancehall producers"
+  ],
+  "color_accent": "#228B22",
+  "color_secondary": "#32CD32",
+  "has_custom_asset": false,
+  "demo_prompt": "Reggae artist performing on Caribbean beach at sunset, Rastafarian colors, palm trees, ocean waves, positive vibes"
+}

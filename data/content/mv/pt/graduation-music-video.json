@@ -1,0 +1,43 @@
+{
+  "h1": "Transforme Sua Música em Vídeos de Formatura Cinematográficos com IA",
+  "direct_answer": "Um gerador de vídeo musical de formatura por IA é uma ferramenta que cria automaticamente vídeos musicais profissionais de formatura a partir do seu áudio ou prompts de texto. A plataforma Tunee utiliza aprendizado de máquina avançado para produzir visuais orgulhosos com prompts de texto para vídeo e visuais de beca e toga, adaptados à energia e estilo da sua faixa. Com Tunee, você consegue ir da ideia ao vídeo musical de formatura finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Crie vídeos musicais de Formatura profissionais com o gerador de vídeo musical de formatura por IA do Tunee. Visuais orgulhosos, exportação rápida, sem experiência necessária.",
+  "prompts": [
+    "Uma cena orgulhosa com beca e toga e movimentos de câmera varridos, banhados em iluminação dramática que pulsa com a batida",
+    "Cena de formatura imersa no momento do diploma, energia nostálgica irradiando através de cada frame e corte do vídeo",
+    "Memórias abstratas do campus se transformando e fluindo em câmera lenta, capturando perfeitamente a essência orgulhosa da música",
+    "Close-ups de beca e toga se dissolvendo em foto de classe, criando uma jornada visual nostálgica que segue o ritmo da música",
+    "Plano geral estabelecedor de um ambiente esperançoso com momento de diploma em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre memórias do campus e celebração de conquista, construindo tensão com grading de cores orgulhoso e motion graphics afiados",
+    "Uma montagem nostálgica de foto de classe e beca e toga, em camadas com transições suaves e beats visuais combinando com o drop",
+    "Sequência final apresentando celebração de conquista e momento de diploma convergindo em uma explosão orgulhosa de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Formandos usam vídeos musicais de Formatura para comemorar momentos especiais e criar memórias visuais duradouras definidas pela trilha sonora perfeita.",
+    "creators": "Pais orgulhosos produzem conteúdo de vídeo musical de Formatura para contar histórias emocionais, crescer seu público e oferecer serviços de vídeo premium aos clientes.",
+    "labels": "Planejadores de eventos e videomakers usam a IA do Tunee para entregar pacotes de vídeo de Formatura polidos mais rapidamente e por uma fração dos custos de produção tradicional.",
+    "brands": "Marcas e anunciantes criam conteúdo temático de Formatura para se conectar com audiências durante momentos sazonais-chave e marcos emocionais."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo musical de Formatura sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo de Formatura, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportação de vídeos musicais de Formatura em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos musicais de Formatura em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e displays de tela grande."
+    },
+    {
+      "q": "Como customizo o estilo visual do meu vídeo musical de Formatura?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, climas e cenários. A IA do Tunee interpreta seu input e gera visuais inspirados em beca e toga que combinam com sua estética de Formatura."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Formatura?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Formatura. Você pode gerar vídeos musicais para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um vídeo musical de Formatura para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu vídeo musical de Formatura usando diferentes prompts ou configurações de estilo, então selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

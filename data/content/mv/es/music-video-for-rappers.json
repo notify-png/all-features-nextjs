@@ -1,0 +1,43 @@
+{
+  "h1": "Da vida a tu sonido de rapero con creación de videoclips con IA",
+  "direct_answer": "Un videoclip de IA para raperos es una herramienta que crea automáticamente videoclips profesionales al estilo de raperos a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales auténticos con renderizado automatizado de credibilidad callejera y exportación multiestilos, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un videoclip de rapero terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "El videoclip de IA para raperos de Tunee convierte tu música en impresionantes vídeos de raperos en minutos. Pruébalo gratis y exporta a cualquier plataforma.",
+  "prompts": [
+    "Una escena auténtica con credibilidad callejera y movimientos de cámara amplios, bañada en iluminación dramática que pulsa al ritmo",
+    "Plano de primer plano vertical inmerso en freestyle, energía cruda irradiando en cada fotograma y corte del vídeo",
+    "Estética de barrio abstracta transformándose y fluyendo en cámara lenta, capturando la esencia auténtica de la música perfectamente",
+    "Planos de primer plano de credibilidad callejera disolviéndose en actuación lírica, creando un viaje visual crudo que sigue el ritmo de la canción",
+    "Plano general amplio de un entorno callejero con freestyle en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre estética de barrio y visuales de rapero, construyendo tensión con grado de color auténtico y gráficos de movimiento nítidos",
+    "Un montaje crudo de actuación lírica y credibilidad callejera, estratificado con transiciones suaves y beats visuales que coinciden con la caída",
+    "Secuencia final con visuales de rapero y freestyle convergiendo en una explosión auténtica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los músicos independientes utilizan Raperos para maximizar el alcance en la plataforma, asegurando que su contenido cumple con los requisitos de formato y captura la atención al instante.",
+    "creators": "Los raperos independientes confían en contenido de Raperos perfectamente formateado para impulsar la visibilidad algorítmica y crecer su audiencia con cada subida.",
+    "labels": "Las discográficas producen en lote vídeos de Raperos optimizados para la plataforma en todo su catálogo, reduciendo el tiempo de entrega de semanas a horas.",
+    "brands": "Las marcas que ejecutan campañas pagadas y orgánicas en esta plataforma utilizan Tunee para producir anuncios de vídeo Raperos que capten la atención a escala."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un videoclip de Raperos sin experiencia en edición de vídeo?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de vídeo automáticamente. Solo sube tu audio o introduce una indicación de texto, elige un estilo de Raperos, y la IA genera tu vídeo en minutos."
+    },
+    {
+      "q": "¿Puedo utilizar el generador de videoclips de Raperos de Tunee para proyectos comerciales?",
+      "a": "Sí. Los vídeos creados con Tunee se pueden utilizar para propósitos comerciales incluyendo lanzamientos en plataformas de streaming, campañas de marca y contenido en redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género musical, o solo con Raperos?",
+      "a": "Tunee es compatible con una amplia gama de géneros y estilos visuales más allá de Raperos. Puedes generar videoclips para pop, hip-hop, música clásica y docenas de otros estilos utilizando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi videoclip de Raperos?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente introduce tus letras y elige un estilo de texto, y la IA las sincronizará con tu videoclip de Raperos automáticamente."
+    },
+    {
+      "q": "¿Funciona el generador de videoclips de Raperos de Tunee en dispositivos móviles?",
+      "a": "Tunee es totalmente accesible a través del navegador web en computadora de escritorio y dispositivos móviles, así que puedes crear videoclips de Raperos desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

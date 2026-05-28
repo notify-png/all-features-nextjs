@@ -1,0 +1,43 @@
+{
+  "h1": "A Maneira Mais Rápida de Criar Videoclipes de Rock com IA",
+  "direct_answer": "Um gerador de videoclipes de rock com IA é uma ferramenta que cria automaticamente videoclipes profissionais de rock a partir do seu áudio ou prompts de texto. A plataforma Tunee usa machine learning avançado para produzir visuais intensos com prompts de texto para vídeo e visuais de palco de concerto, personalizados de acordo com a energia e o estilo da sua faixa. Com Tunee, você sai da ideia para um videoclipe de rock finalizado em minutos, sem nenhuma experiência em edição de vídeo necessária.",
+  "meta_description": "O gerador de videoclipes de rock com IA da Tunee transforma sua música em vídeos Rock incríveis em minutos. Experimente gratuitamente e exporte para qualquer plataforma.",
+  "prompts": [
+    "Uma cena intensa com palco de concerto e movimentos de câmera abrangentes, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em close-up de guitarra, energia poderosa irradiando em cada quadro e corte do vídeo",
+    "Multidão abstrata em mosh morphing e fluindo em câmera lenta, capturando perfeitamente a essência intensa da música",
+    "Planos próximos do palco de concerto se dissolvendo em iluminação dramática, criando uma jornada visual poderosa que segue o ritmo da música",
+    "Plano aberto de estabelecimento de um ambiente rebelde com close-up de guitarra em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre mosh de multidão e efeitos de fumaça, construindo tensão com color grading intenso e motion graphics afiados",
+    "Uma montagem poderosa de iluminação dramática e palco de concerto, em camadas com transições suaves e batidas visuais acompanhando o drop",
+    "Sequência final com efeitos de fumaça e close-up de guitarra convergindo em uma explosão intensa de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Bandas de rock precisam de videoclipes de rock para definir visualmente sua identidade artística, expandir sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Guitarristas usam a estética de videoclipes de rock para construir uma marca visual distintiva que impulsiona o engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem da produção rápida e profissional de videoclipes de rock para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam a estética de videoclipes de rock para criar conteúdo de campanha intenso que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe de rock sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida automaticamente de toda a produção de vídeo. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo Rock e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Rock?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Rock. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe de rock?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras, escolha um estilo de texto e a IA sincronizará automaticamente com seu videoclipe de rock."
+    },
+    {
+      "q": "Posso gerar várias versões de um videoclipe de rock para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe de rock usando diferentes prompts ou configurações de estilo e selecionar a versão que melhor se adequa à sua visão."
+    },
+    {
+      "q": "O gerador de videoclipes de rock do Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes de rock de qualquer dispositivo sem instalar software."
+    }
+  ]
+}

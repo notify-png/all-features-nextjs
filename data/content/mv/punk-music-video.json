@@ -1,0 +1,43 @@
+{
+  "h1": "Make Beautiful Punk Music Videos Effortlessly with Tunee AI",
+  "direct_answer": "An AI punk music video generator is a tool that automatically creates professional punk-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce rebellious visuals featuring AI scene generation with mohawk hair and safety pins, tailored to your track's energy and style. With Tunee, you can go from idea to a finished punk music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Punk music videos with Tunee's AI punk music video generator. Rebellious visuals, fast export, no experience required.",
+  "prompts": [
+    "A rebellious scene with mohawk hair and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in safety pins, chaotic energy radiating through every frame and cut of the video",
+    "Abstract mosh pit morphing and flowing in slow motion, capturing the rebellious essence of the music perfectly",
+    "Close-up shots of mohawk hair dissolving into grimy venue, creating a chaotic visual journey that follows the song's rhythm",
+    "Wide establishing shot of a raw environment with safety pins in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between mosh pit and DIY anarchist aesthetic, building tension with rebellious color grading and sharp motion graphics",
+    "A chaotic montage of grimy venue and mohawk hair, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring DIY anarchist aesthetic and safety pins converging in a rebellious explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Punk bands need Punk music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Hardcore artists use Punk music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Punk music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Punk music video aesthetics to create rebellious campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Punk music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Punk style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "How do I customize the visual style of my Punk music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates mohawk hair-inspired visuals that match your Punk aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Punk music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Punk music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Punk music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Punk music video to compare?",
+      "a": "Yes. You can generate several variations of your Punk music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

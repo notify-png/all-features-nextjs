@@ -1,0 +1,43 @@
+{
+  "h1": "Créez des clips vidéo Punk magnifiques sans effort avec Tunee AI",
+  "direct_answer": "Un générateur de clips vidéo punk alimenté par l'IA est un outil qui crée automatiquement des clips vidéo professionnels de style punk à partir de votre audio ou de vos invites textuelles. La plateforme de Tunee utilise l'apprentissage automatique avancé pour produire des visuels rebelles mettant en vedette la génération de scènes IA avec des cheveux mohawk et des épingles de sûreté, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à un clip vidéo punk fini en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Créez des clips vidéo Punk professionnels avec le générateur de clips vidéo punk IA de Tunee. Visuels rebelles, exportation rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène rebelle avec des cheveux mohawk et des mouvements de caméra dynamiques, baignée dans un éclairage dramatique qui pulse avec le rythme",
+    "Artiste immergé dans des épingles de sûreté, une énergie chaotique rayonnant à travers chaque cadre et chaque coupe du vidéo",
+    "Fosse d'agitation abstraite se morphosant et s'écoulant au ralenti, capturant parfaitement l'essence rebelle de la musique",
+    "Gros plans sur des cheveux mohawk se dissolvant dans un lieu crasseux, créant un parcours visuel chaotique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement brut avec des épingles de sûreté au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre la fosse d'agitation et l'esthétique anarchiste DIY, construisant la tension avec une gradation de couleur rebelle et des animations graphiques nettes",
+    "Un montage chaotique d'un lieu crasseux et de cheveux mohawk, superposé avec des transitions fluides et des rythmes visuels correspondant au drop",
+    "Séquence finale mettant en vedette l'esthétique anarchiste DIY et les épingles de sûreté convergeant dans une explosion rebelle de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les groupes Punk ont besoin de clips vidéo Punk pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les artistes hardcore utilisent l'esthétique des clips vidéo Punk pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur la production rapide et professionnelle de clips vidéo Punk pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des clips vidéo Punk pour créer du contenu de campagne rebelle qui résonne émotionnellement avec leur public cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un clip vidéo Punk sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il vous suffit de télécharger votre audio ou d'entrer une invite textuelle, de choisir un style Punk, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment puis-je personnaliser le style visuel de mon clip vidéo Punk ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par les cheveux mohawk qui correspondent à votre esthétique Punk."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de clips vidéo Punk de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties en streaming, les campagnes de marque et le contenu médias sociaux."
+    },
+    {
+      "q": "Comment puis-je ajouter des paroles ou des sous-titres à mon clip vidéo Punk ?",
+      "a": "Tunee propose des options intégrées de superposition de paroles et de sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre clip vidéo Punk."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip vidéo Punk pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre clip vidéo Punk en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

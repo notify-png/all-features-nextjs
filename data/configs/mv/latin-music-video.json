@@ -1,0 +1,31 @@
+{
+  "slug": "latin-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Latin",
+  "genre_name_zh": "拉丁",
+  "keyword_en": "AI Latin music video generator",
+  "visual_keywords": [
+    "colorful streetscapes",
+    "salsa dancing",
+    "tropical beach",
+    "vibrant costumes",
+    "festive crowd"
+  ],
+  "mood_words": [
+    "passionate",
+    "festive",
+    "sensual",
+    "rhythmic"
+  ],
+  "target_personas": [
+    "Latin pop artists",
+    "reggaeton creators",
+    "salsa musicians",
+    "Latin American content creators"
+  ],
+  "color_accent": "#F39C12",
+  "color_secondary": "#E67E22",
+  "has_custom_asset": false,
+  "demo_prompt": "Latin singer dancing on colorful Caribbean street, tropical flowers, vibrant fiesta crowd, golden hour sun"
+}

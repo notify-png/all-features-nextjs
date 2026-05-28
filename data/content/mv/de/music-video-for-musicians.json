@@ -1,0 +1,43 @@
+{
+  "h1": "Verwandeln Sie Ihre Musik in kinematografische Musikervideos mit KI",
+  "direct_answer": "Ein KI-Musikvideo für Musiker ist ein Tool, das automatisch professionelle Musikvideos aus Ihren Audio- oder Text-Prompts erstellt. Tunees Plattform nutzt fortschrittliches Machine Learning, um professionelle Visuals mit automatisierter Artist-Performance-Rendering und Multi-Style-Export zu produzieren, perfekt auf die Energie und den Stil Ihres Tracks abgestimmt. Mit Tunee entstehen fertige Musikvideos in Minuten – ohne dass Sie Video-Bearbeitungserfahrung benötigen.",
+  "meta_description": "Nutzen Sie Tunees KI-Musikvideo für Musiker, um professionelle Musikervisuals sofort zu erstellen. Keine Bearbeitungskenntnisse nötig — exportieren Sie in 4K für YouTube, TikTok...",
+  "prompts": [
+    "Eine professionelle Szene mit Artist-Performance und schwungvollen Kamerabewegungen, getaucht in dramatisches Licht, das mit dem Beat pulsiert",
+    "Vertikale Nahaufnahme immersiv in Studio-Setup, Markenenergie strahlt durch jeden Frame und Schnitt des Videos",
+    "Abstrakte Musikpromotion morphing und fließend in Zeitlupe, erfasst perfekt die professionelle Essenz der Musik",
+    "Nahaufnahmen von Artist-Performance, aufgelöst in Artist-Branding, schaffen eine markierte visuelle Reise, die dem Song-Rhythmus folgt",
+    "Breite Establishing-Shot einer authentischen Umgebung mit Studio-Setup im Vordergrund, ruft tiefe emotionale Resonanz hervor",
+    "Dynamische Schnitte zwischen Musikpromotion und professioneller Qualität, bauen Spannung auf mit professioneller Farbkalibrierung und scharfer Motion Graphics",
+    "Ein markierter Montage aus Artist-Branding und Artist-Performance, geschichtet mit weichen Übergängen und visuellen Beats, die beim Drop passen",
+    "Finalsequenz mit professioneller Qualität und Studio-Setup konvergierend in einer professionellen Explosion aus Licht, Farbe und Bewegung"
+  ],
+  "personas": {
+    "musicians": "Independent-Musiker nutzen Musicians, um die Reichweite auf der Plattform zu maximieren und sicherzustellen, dass ihre Inhalte die Formatanforderungen erfüllen und sofort Aufmerksamkeit erzeugen.",
+    "creators": "Solo-Musiker verlassen sich auf perfekt formatierte Musicians-Inhalte, um algorithmische Sichtbarkeit zu verbessern und ihr Publikum mit jedem Upload zu vergrößern.",
+    "labels": "Plattenlabels produzieren in Batches plattformoptimierte Musicians-Videos für ihren gesamten Künstlerstab und reduzieren die Bearbeitungszeit von Wochen auf Stunden.",
+    "brands": "Brands, die bezahlte und organische Kampagnen auf dieser Plattform durchführen, nutzen Tunee, um im großen Maßstab auffallende Musicians-Video-Ads zu produzieren."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Musicians-Musikvideo ohne Video-Bearbeitungserfahrung erstellen?",
+      "a": "Ja — Tunees KI führt die gesamte Videoproduktion automatisch durch. Laden Sie einfach Ihr Audio hoch oder geben Sie einen Text-Prompt ein, wählen Sie einen Musicians-Stil, und die KI generiert Ihr Video in Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export von Musicians-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Musicians-Musikvideos in bis zu 4K-Auflösung, bereit für YouTube, Streaming-Plattformen und großflächige Displays."
+    },
+    {
+      "q": "Wie passe ich den visuellen Stil meines Musicians-Musikvideos an?",
+      "a": "Sie können die Visuals mithilfe von Text-Prompts lenken, die Szenen, Stimmungen und Einstellungen beschreiben. Tunees KI interpretiert Ihre Eingabe und generiert Artist-Performance-inspirierte Visuals, die zu Ihrer Musicians-Ästhetik passen."
+    },
+    {
+      "q": "Kann ich Tunees Musicians-Musikvideo-Generator für kommerzielle Projekte nutzen?",
+      "a": "Ja. Videos, die mit Tunee erstellt wurden, können für kommerzielle Zwecke verwendet werden, einschließlich Streaming-Releases, Brand-Kampagnen und Social-Media-Inhalte."
+    },
+    {
+      "q": "Wie füge ich Lyrics oder Untertitel zu meinem Musicians-Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Optionen für Lyrik- und Untertitelüberlagerungen. Geben Sie einfach Ihre Lyrics ein, wählen Sie einen Textstil, und die KI synchronisiert sie automatisch zu Ihrem Musicians-Musikvideo."
+    }
+  ]
+}

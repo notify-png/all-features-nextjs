@@ -1,0 +1,43 @@
+{
+  "h1": "Make Beautiful K-pop Music Videos Effortlessly with Tunee AI",
+  "direct_answer": "An AI K-pop music video generator is a tool that automatically creates professional k-pop-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce polished visuals featuring text-to-video prompts and idol group choreography visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished k-pop music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional K-pop music videos with Tunee's AI K-pop music video generator. Polished visuals, fast export, no experience required.",
+  "prompts": [
+    "A polished scene with idol group choreography and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in pastel set design, cheerful energy radiating through every frame and cut of the video",
+    "Abstract stylized fashion morphing and flowing in slow motion, capturing the polished essence of the music perfectly",
+    "Close-up shots of idol group choreography dissolving into close-up idol shots, creating a cheerful visual journey that follows the song's rhythm",
+    "Wide establishing shot of a dynamic environment with pastel set design in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between stylized fashion and synchronized dance, building tension with polished color grading and sharp motion graphics",
+    "A cheerful montage of close-up idol shots and idol group choreography, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring synchronized dance and pastel set design converging in a polished explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "K-pop producers need K-pop music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Idol group creators use K-pop music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional K-pop music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use K-pop music video aesthetics to create polished campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a K-pop music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a K-pop style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting K-pop music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports K-pop music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my K-pop music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates idol group choreography-inspired visuals that match your K-pop aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's K-pop music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Can I generate multiple versions of a K-pop music video to compare?",
+      "a": "Yes. You can generate several variations of your K-pop music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "performance-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Performance",
+  "genre_name_zh": "演出表演",
+  "keyword_en": "AI performance music video",
+  "visual_keywords": [
+    "stage performance",
+    "live band",
+    "concert lighting",
+    "close-up musician shots",
+    "crowd reaction"
+  ],
+  "mood_words": [
+    "live",
+    "energetic",
+    "authentic",
+    "intimate"
+  ],
+  "target_personas": [
+    "bands",
+    "live performers",
+    "concert tour artists",
+    "music venue promoters"
+  ],
+  "color_accent": "#E74C3C",
+  "color_secondary": "#EC7063",
+  "has_custom_asset": false,
+  "demo_prompt": "Band delivering high-energy live performance, multi-camera cuts, crowd waving, dramatic stage lighting, authentic live feel"
+}

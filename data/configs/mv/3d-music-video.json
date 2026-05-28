@@ -1,0 +1,31 @@
+{
+  "slug": "3d-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "3D",
+  "genre_name_zh": "3D",
+  "keyword_en": "AI 3D music video generator",
+  "visual_keywords": [
+    "CGI render",
+    "abstract 3D shapes",
+    "glass reflections",
+    "volumetric light",
+    "motion graphics"
+  ],
+  "mood_words": [
+    "futuristic",
+    "polished",
+    "technical",
+    "immersive"
+  ],
+  "target_personas": [
+    "electronic music artists",
+    "motion graphics creators",
+    "tech-forward musicians",
+    "commercial artists"
+  ],
+  "color_accent": "#0EA5E9",
+  "color_secondary": "#38BDF8",
+  "has_custom_asset": false,
+  "demo_prompt": "Abstract 3D crystal structures floating in space, volumetric light shafts, smooth camera orbit, glass-like reflections"
+}

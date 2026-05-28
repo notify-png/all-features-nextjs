@@ -1,0 +1,43 @@
+{
+  "h1": "Generador de Videos Musicales para Bodas Impulsado por IA para Todos los Artistas",
+  "direct_answer": "Un generador de videos musicales para bodas con IA es una herramienta que crea automáticamente videos musicales profesionales de estilo de boda a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales románticos con generación de momentos de ceremonia en tiempo real y exportación con un clic, adaptados a la energía y estilo de tu canción. Con Tunee, puedes pasar de una idea a un video musical de boda terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa el generador de videos musicales para bodas con IA de Tunee para crear visuales románticos de boda al instante. Sin habilidades de edición necesarias — exporta en 4K para YouTube, TikTok, ...",
+  "prompts": [
+    "Una escena romántica con momentos de ceremonia y movimientos de cámara panorámicos, bañados en iluminación dramática que pulsa al ritmo",
+    "Escena de boda sumergida en el primer baile, energía sentimental irradiando a través de cada fotograma y corte del video",
+    "Intercambio de votos abstracto transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia romántica de la música",
+    "Primeros planos de momentos de ceremonia disolviéndose en retratos de hora dorada, creando un viaje visual sentimental que sigue el ritmo de la canción",
+    "Plano general amplio de un entorno hermoso con el primer baile en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre intercambio de votos y decoración floral, construyendo tensión con gradación de color romántica y gráficos de movimiento nítido",
+    "Un montaje sentimental de retratos de hora dorada y momentos de ceremonia, en capas con transiciones suaves y ritmos visuales que coinciden con el drop",
+    "Secuencia final presentando decoración floral y primer baile convergiendo en una explosión romántica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los recién casados usan videos musicales de boda para conmemorar momentos especiales y crear recuerdos visuales duraderos establecidos en la banda sonora perfecta.",
+    "creators": "Los videógrafos de bodas producen contenido de video musical de boda para contar historias emocionales, crecer su audiencia y ofrecer servicios de video premium a los clientes.",
+    "labels": "Los planificadores de eventos y videógrafos usan la IA de Tunee para entregar paquetes de videos de boda pulidos más rápido y a una fracción del costo de producción tradicional.",
+    "brands": "Las marcas y anunciantes crean contenido temático de boda para conectar con audiencias durante momentos estacionales clave e hitos emocionales."
+  },
+  "faqs": [
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical de boda?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en momentos de ceremonia que se adapten a tu estética de boda."
+    },
+    {
+      "q": "¿Puedo usar el generador de videos musicales de boda de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee se pueden usar para propósitos comerciales incluyendo lanzamientos en streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con boda?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de boda. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical de boda?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video musical de boda automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical de boda para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical de boda usando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se adapte a tu visión."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-musicians",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Musicians",
+  "genre_name_zh": "音乐人",
+  "keyword_en": "AI music video for musicians",
+  "visual_keywords": [
+    "artist performance",
+    "studio setup",
+    "music promotion",
+    "artist branding",
+    "professional quality"
+  ],
+  "mood_words": [
+    "professional",
+    "branded",
+    "authentic",
+    "promotional"
+  ],
+  "target_personas": [
+    "solo musicians",
+    "performing artists",
+    "music career builders",
+    "self-managed artists"
+  ],
+  "color_accent": "#6C3483",
+  "color_secondary": "#8E44AD",
+  "has_custom_asset": false,
+  "demo_prompt": "Professional artist music video for career promotion, performance footage, branded visual identity, streaming-ready quality"
+}

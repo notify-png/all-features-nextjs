@@ -1,0 +1,31 @@
+{
+  "slug": "ai-storyboard-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Workflow",
+  "genre_name": "AI Storyboard",
+  "genre_name_zh": "AI分镜",
+  "keyword_en": "AI storyboard for music video",
+  "visual_keywords": [
+    "scene planning",
+    "shot list",
+    "storyboard panels",
+    "pre-production",
+    "visual blueprint"
+  ],
+  "mood_words": [
+    "planned",
+    "professional",
+    "visual",
+    "directorial"
+  ],
+  "target_personas": [
+    "music directors",
+    "production-minded artists",
+    "film school musicians",
+    "concept video creators"
+  ],
+  "color_accent": "#5D6D7E",
+  "color_secondary": "#7F8C8D",
+  "has_custom_asset": false,
+  "demo_prompt": "AI generates storyboard panels for music video shot-by-shot, scene descriptions, director's notes, visual blueprint"
+}

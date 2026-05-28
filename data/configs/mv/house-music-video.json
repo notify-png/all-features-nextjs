@@ -1,0 +1,31 @@
+{
+  "slug": "house-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "House",
+  "genre_name_zh": "浩室",
+  "keyword_en": "AI house music video generator",
+  "visual_keywords": [
+    "underground club",
+    "warehouse rave",
+    "disco ball",
+    "dancing crowd",
+    "DJ set close-up"
+  ],
+  "mood_words": [
+    "soulful",
+    "groovy",
+    "underground",
+    "euphoric"
+  ],
+  "target_personas": [
+    "house DJs",
+    "club music producers",
+    "underground music creators",
+    "dance music fans"
+  ],
+  "color_accent": "#FF6B00",
+  "color_secondary": "#FF8C00",
+  "has_custom_asset": false,
+  "demo_prompt": "Underground warehouse rave, disco ball reflections, DJ set illuminated by single spotlight, hundreds of dancers in sync"
+}

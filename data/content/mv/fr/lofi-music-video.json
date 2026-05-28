@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie à votre son Lo-fi avec la création de clips vidéo musicaux IA",
+  "direct_answer": "Un générateur de clips vidéo musicaux lo-fi IA est un outil qui crée automatiquement des clips vidéo musicaux professionnels de style lo-fi à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels relaxants avec rendu de pièce douillette automatisé et exportation multi-styles, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer d'une idée à un clip vidéo musicaux lo-fi terminé en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Créez des clips vidéo musicaux Lo-fi professionnels avec le générateur de clips vidéo musicaux lo-fi IA de Tunee. Visuels relaxants, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène relaxante avec une pièce douillette et des mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans une scène d'étude anime, une énergie douillette rayonnant dans chaque plan et coupe de la vidéo",
+    "Fenêtre pluvieuse abstraite se transformant et coulant au ralenti, capturant parfaitement l'essence relaxante de la musique",
+    "Plans rapprochés d'une pièce douillette se dissolvant dans la lueur chaleureuse d'une lampe, créant un voyage visuel douillet qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement nostalgique avec scène d'étude anime au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre fenêtre pluvieuse et cassette, créant une tension avec un étalonnage des couleurs relaxant et des infographies de mouvement sharp",
+    "Un montage douillet de lueur de lampe chaleureuse et pièce douillette, en couches avec des transitions lisses et des beats visuels correspondant à la chute",
+    "Séquence finale mettant en vedette cassette et scène d'étude anime convergeant dans une explosion relaxante de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les producteurs lo-fi ont besoin de clips vidéo musicaux lo-fi pour définir visuellement leur identité artistique, développer leur fan base et se démarquer sur les plateformes de streaming.",
+    "creators": "Les créateurs de musique d'étude utilisent l'esthétique des clips vidéo musicaux lo-fi pour construire une marque visuelle distinctive qui augmente l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques comptent sur une production rapide et professionnelle de clips vidéo musicaux lo-fi pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des clips vidéo musicaux lo-fi pour créer du contenu de campagne relaxant qui résonne émotionnellement avec leur public cible."
+  },
+  "faqs": [
+    {
+      "q": "Comment personnaliser le style visuel de mon clip vidéo musical Lo-fi ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par la pièce douillette qui correspondent à votre esthétique lo-fi."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement le Lo-fi ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà du lo-fi. Vous pouvez générer des clips vidéo musicaux pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon clip vidéo musical Lo-fi ?",
+      "a": "Tunee propose des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement sur votre clip vidéo musical lo-fi."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip vidéo musical Lo-fi pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variantes de votre clip vidéo musical lo-fi en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de clips vidéo musicaux lo-fi de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur Web sur les appareils de bureau et mobiles, vous pouvez donc créer des clips vidéo musicaux lo-fi depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

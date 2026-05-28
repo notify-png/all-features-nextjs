@@ -1,0 +1,43 @@
+{
+  "h1": "Generador de Videos Musicales Anime Impulsado por IA para Todos los Artistas",
+  "direct_answer": "Un generador de videos musicales anime impulsado por IA es una herramienta que crea automáticamente videos musicales profesionales de estilo anime a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales oníricos con generación de cel-shading en tiempo real y exportación con un clic, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un video musical anime terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa el generador de videos musicales anime de Tunee para crear visuales anime oníricos al instante. Sin necesidad de habilidades de edición — exporta en 4K para YouTube, TikTok y más.",
+  "prompts": [
+    "Una escena onírica con cel-shading y movimientos de cámara arrebatadores, bañada en iluminación dramática que pulsea con el ritmo",
+    "Artista inmerso en acuarela, energía épica irradiando a través de cada fotograma y corte del video",
+    "Mecha abstracta transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia onírica de la música",
+    "Planos cercanos de cel-shading disolviéndose en chibi, creando un viaje visual épico que sigue el ritmo de la canción",
+    "Plano general de un entorno nostálgico con acuarela en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre mecha e inspiración Ghibli, acumulando tensión con grading de color onírico y gráficos de movimiento agudo",
+    "Un montaje épico de chibi y cel-shading, estratificado con transiciones suaves y ritmos visuales que coinciden con el drop",
+    "Secuencia final con inspiración Ghibli y acuarela convergiendo en una explosión onírica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los creadores de Vocaloid necesitan videos musicales anime para definir visualmente su identidad artística, hacer crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los Vtubers utilizan la estética de videos musicales anime para construir una marca visual distintiva que impulsa la participación y atrae oportunidades de colaboración.",
+    "labels": "Las disqueras dependen de la producción rápida y profesional de videos musicales anime para promover nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videos musicales anime para crear contenido de campaña onírico que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical anime sin ninguna experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo anime y la IA generará tu video en minutos."
+    },
+    {
+      "q": "¿Admite exportar videos musicales anime en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales anime en resolución de hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Puedo usar el generador de videos musicales anime de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee pueden usarse para propósitos comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo anime?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá del anime. Puedes generar videos musicales para pop, hip-hop, música clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical anime?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video musical anime automáticamente."
+    }
+  ]
+}

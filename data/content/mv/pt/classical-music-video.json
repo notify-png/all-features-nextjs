@@ -1,0 +1,43 @@
+{
+  "h1": "Transforme Sua Música em Vídeos Clássicos Cinemáticos Usando IA",
+  "direct_answer": "Um gerador de vídeo de música clássica com IA é uma ferramenta que cria automaticamente vídeos de música profissional em estilo clássico a partir de seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais majestosos com geração de cenas com IA, apresentando salas de concerto e performances orquestrais, personalizadas para a energia e estilo da sua faixa. Com o Tunee, você consegue sair da ideia para um vídeo de música clássica finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Crie vídeos de música Clássica profissional com o gerador de vídeo de música clássica com IA da Tunee. Visuais majestosos, exportação rápida, sem experiência necessária.",
+  "prompts": [
+    "Uma cena majestosa com sala de concerto e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com o ritmo",
+    "Artista imerso em performance orquestral, energia elegante irradiando através de cada frame e corte do vídeo",
+    "Grande piano abstrato se transformando e fluindo em câmera lenta, capturando perfeitamente a essência majestosa da música",
+    "Planos fechados de sala de concerto se dissolvendo em iluminação dramática, criando uma jornada visual elegante que segue o ritmo da música",
+    "Plano aberto estabelecendo um ambiente emocional com performance orquestral em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre grande piano e arquitetura barroca, construindo tensão com color grading majestoso e motion graphics afiados",
+    "Uma montagem elegante de iluminação dramática e sala de concerto, em camadas com transições suaves e beats visuais sincronizados com o drop",
+    "Sequência final apresentando arquitetura barroca e performance orquestral convergindo em uma explosão majestosa de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Compositores clássicos precisam de vídeos de música clássica para definir visualmente sua identidade artística, expandir sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Orquestras usam estéticas de vídeo de música clássica para construir uma marca visual distintiva que impulsiona o engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de vídeos de música clássica para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de vídeo de música clássica para criar conteúdo de campanha majestoso que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo de música clássica sem experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload de seu áudio ou inserir um prompt de texto, escolher um estilo clássico, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Ele suporta exportação de vídeos de música clássica em resolução 4K?",
+      "a": "Absolutamente. O Tunee exporta vídeos de música clássica em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e exibição em grandes telas."
+    },
+    {
+      "q": "Posso usar o gerador de vídeo de música clássica do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com o Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Clássica?",
+      "a": "O Tunee suporta uma ampla gama de gêneros e estilos visuais além de Clássica. Você pode gerar vídeos de música para pop, hip-hop, clássica e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu vídeo de música clássica?",
+      "a": "O Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu vídeo de música clássica."
+    }
+  ]
+}

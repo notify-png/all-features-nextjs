@@ -1,0 +1,43 @@
+{
+  "h1": "AI-Powered Pop Music Video Generator for Every Artist",
+  "direct_answer": "An AI pop music video generator is a tool that automatically creates professional pop-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce upbeat visuals featuring automated bright studio rendering and multi-style export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished pop music video in minutes, no video editing experience required.",
+  "meta_description": "The easiest AI pop music video generator for artists. Tunee generates upbeat Pop visuals from your audio — free to try today.",
+  "prompts": [
+    "A upbeat scene with bright studio and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in colorful backdrop, catchy energy radiating through every frame and cut of the video",
+    "Abstract choreography morphing and flowing in slow motion, capturing the upbeat essence of the music perfectly",
+    "Close-up shots of bright studio dissolving into neon lights, creating a catchy visual journey that follows the song's rhythm",
+    "Wide establishing shot of a vibrant environment with colorful backdrop in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between choreography and glossy aesthetic, building tension with upbeat color grading and sharp motion graphics",
+    "A catchy montage of neon lights and bright studio, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring glossy aesthetic and colorful backdrop converging in a upbeat explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent pop artists need Pop music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Label-signed singers use Pop music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Pop music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Pop music video aesthetics to create upbeat campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Pop music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Pop style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Pop music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Pop music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Pop music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates bright studio-inspired visuals that match your Pop aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Pop music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Pop?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Pop. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    }
+  ]
+}

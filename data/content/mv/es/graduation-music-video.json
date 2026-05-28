@@ -1,0 +1,43 @@
+{
+  "h1": "Transforma Tu Música en Videos Musicales de Graduación Cinematográficos con IA",
+  "direct_answer": "Un generador de videos musicales de graduación con IA es una herramienta que crea automáticamente videos musicales profesionales de estilo graduación a partir de tus archivos de audio o solicitudes de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales orgullosos con solicitudes de texto a video y visuales de toga y birrete, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un video musical de graduación terminado en minutos, sin requerir experiencia en edición de video.",
+  "meta_description": "Crea videos musicales profesionales de Graduación con el generador de videos musicales de graduación con IA de Tunee. Visuales orgullosos, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena orgullosa con toga y birrete y movimientos de cámara expansivos, bañada en iluminación dramática que pulsa con el ritmo",
+    "Escena de graduación inmersa en momento de diploma, energía nostálgica irradiando a través de cada fotograma y corte del video",
+    "Recuerdos del campus abstractos transformándose y fluyendo en cámara lenta, capturando la esencia orgullosa de la música perfectamente",
+    "Planos cercanos de toga y birrete disolviéndose en foto de clase, creando un viaje visual nostálgico que sigue el ritmo de la canción",
+    "Plano estableciente amplio de un ambiente esperanzador con momento de diploma en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre recuerdos del campus y celebración de logros, construyendo tensión con coloración orgullosa y gráficos de movimiento agudo",
+    "Un montaje nostálgico de foto de clase y toga y birrete, estratificado con transiciones suaves y ritmos visuales que coinciden con el drop",
+    "Secuencia final que presenta celebración de logros y momento de diploma convergiendo en una explosión orgullosa de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los graduados utilizan videos musicales de Graduación para conmemorar momentos especiales y crear recuerdos visuales duraderos acompañados de la banda sonora perfecta.",
+    "creators": "Padres orgullosos producen contenido de videos musicales de Graduación para contar historias emocionales, crecer su audiencia y ofrecer servicios de video premium a clientes.",
+    "labels": "Planificadores de eventos y videógrafos utilizan la IA de Tunee para entregar paquetes de videos de Graduación pulidos más rápidamente y a una fracción del costo de la producción tradicional.",
+    "brands": "Marcas y anunciantes crean contenido temático de Graduación para conectar con audiencias durante momentos estacionales clave e hitos emocionales."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical de Graduación sin experiencia en edición de video?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa una solicitud de texto, elige un estilo de Graduación, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite exportar videos musicales de Graduación en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales de Graduación en resolución de hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical de Graduación?",
+      "a": "Puedes guiar los visuales usando solicitudes de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en toga y birrete que coincidan con tu estética de Graduación."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo Graduación?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Graduación. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical de Graduación para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical de Graduación usando diferentes solicitudes de texto o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

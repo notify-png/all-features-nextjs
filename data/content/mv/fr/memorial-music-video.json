@@ -1,0 +1,43 @@
+{
+  "h1": "Créez des vidéoclips commémoratifs époustouflants avec l'IA en quelques minutes",
+  "direct_answer": "Un générateur de vidéoclips commémoratifs alimenté par l'IA est un outil qui crée automatiquement des vidéoclips professionnels de style commémoratif à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels tendres avec génération de photos-tributs en temps réel et export en un clic, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à un vidéoclip commémoratif fini en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de vidéoclips commémoratifs IA le plus facile pour les artistes. Tunee génère des visuels commémoratifs tendres à partir de votre audio — essayez gratuitement dès aujourd'hui.",
+  "prompts": [
+    "Une scène tendre avec photo-tribut et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme de la musique",
+    "Scène commémorative immergée dans l'éclairage aux chandelles, une énergie de guérison rayonnant à travers chaque plan et montage de la vidéo",
+    "Souvenirs chéris abstraits se transformant et coulant au ralenti, capturant parfaitement l'essence tendre de la musique",
+    "Plans rapprochés de photos-tributs se dissolvant dans des images paisibles, créant un voyage visuel curatif qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement respectueux avec éclairage aux chandelles au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre souvenirs chéris et visuels curatifs, renforçant la tension avec un étalonnage des couleurs tendre et des effets de mouvement nets",
+    "Un montage curatif d'images paisibles et de photos-tributs, superposé avec des transitions fluides et des beats visuels correspondant à la chute",
+    "Séquence finale présentant des visuels curatifs et l'éclairage aux chandelles convergeant dans une explosion tendre de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les familles en deuil utilisent les vidéoclips commémoratifs pour commémorer des moments spéciaux et créer des souvenirs visuels durables sur la bande sonore parfaite.",
+    "creators": "Les planificateurs de services commémoratifs produisent du contenu de vidéoclips commémoratifs pour raconter des histoires émouvantes, élargir leur audience et offrir des services vidéo premium à leurs clients.",
+    "labels": "Les planificateurs d'événements et vidéographes utilisent l'IA de Tunee pour livrer des packages vidéo commémoratifs polis plus rapidement et à une fraction du coût de production traditionnel.",
+    "brands": "Les marques et annonceurs créent du contenu à thème commémoratif pour se connecter avec les audiences lors des moments saisonniers clés et des jalons émotionnels."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un vidéoclip commémoratif sans aucune expérience en montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il vous suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style commémoratif, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'exportation de vidéoclips commémoratifs en résolution 4K?",
+      "a": "Absolument. Tunee exporte les vidéoclips commémoratifs en résolution jusqu'à 4K, les rendant prêts pour YouTube, les plateformes de streaming et les écrans de grande taille."
+    },
+    {
+      "q": "Comment puis-je personnaliser le style visuel de mon vidéoclip commémoratif?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textes qui décrivent des scènes, des ambiances et des cadres. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par les photos-tributs qui correspondent à votre esthétique commémorative."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéoclips commémoratifs de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement le commémoratif?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà du commémoratif. Vous pouvez générer des vidéoclips pour le pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    }
+  ]
+}

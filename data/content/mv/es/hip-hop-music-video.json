@@ -1,0 +1,43 @@
+{
+  "h1": "Transforma Tu Música en Videos de Hip Hop Cinematográficos Usando IA",
+  "direct_answer": "Un generador de videos musicales de Hip Hop con IA es una herramienta que crea automáticamente videos musicales profesionales de estilo Hip Hop a partir de tu audio o prompts de texto. La plataforma de Tunee utiliza machine learning avanzado para producir visuales crudos con renderizado urbano automatizado y exportación multi-estilo, adaptados a la energía y el estilo de tu pista. Con Tunee, puedes pasar de una idea a un video musical de Hip Hop terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Crea videos musicales profesionales de Hip Hop con el generador de videos de IA de Tunee. Visuales crudos, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena cruda con paisaje urbano y movimientos de cámara barridos, bañados en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en muro de graffiti, energía auténtica irradiando en cada fotograma y corte del video",
+    "Sesión de estudio abstracta morfoSe y fluyendo en cámara lenta, capturando la esencia cruda de la música perfectamente",
+    "Planos cerrados de paisaje urbano disolviéndose en presentación callejera, creando un viaje visual auténtico que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno sin pulir con muro de graffiti en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre sesión de estudio y círculo de cipher, construyendo tensión con grading de color crudo y motion graphics agudos",
+    "Un montaje auténtico de presentación callejera y paisaje urbano, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final presentando círculo de cipher y muro de graffiti convergiendo en una explosión cruda de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los raperos necesitan videos musicales de Hip Hop para definir visualmente su identidad artística, crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los productores de beats usan estéticas de video musical de Hip Hop para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales de Hip Hop para promocionar nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes usan estéticas de video musical de Hip Hop para crear contenido de campaña crudo que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical de Hip Hop sin experiencia en edición de video?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa un prompt de texto, elige un estilo de Hip Hop, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Soporta la exportación de videos musicales de Hip Hop en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales de Hip Hop en resolución de hasta 4K, dejándolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical de Hip Hop?",
+      "a": "Puedes guiar los visuales usando prompts de texto que describan escenas, estados de ánimo y ambientes. La IA de Tunee interpreta tu entrada y genera visuales inspirados en paisajes urbanos que coincidan con tu estética de Hip Hop."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical de Hip Hop?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA sincronizará automáticamente tu video musical de Hip Hop."
+    },
+    {
+      "q": "¿Funciona el generador de videos musicales de Hip Hop de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web en computadora de escritorio y dispositivos móviles, así que puedes crear videos musicales de Hip Hop desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

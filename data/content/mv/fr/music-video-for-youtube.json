@@ -1,0 +1,43 @@
+{
+  "h1": "Générez des vidéos musicales YouTube professionnelles instantanément avec l'IA",
+  "direct_answer": "Une vidéo musicale IA pour YouTube est un outil qui crée automatiquement des vidéos musicales de style YouTube professionnel à partir de vos fichiers audio ou demandes textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels attrayants avec des invites texte-vidéo et des visuels en format 16:9, adaptés à l'énergie et au style de votre titre. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale YouTube terminée en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Tunee transforme votre musique en superbes vidéos YouTube en quelques minutes. Essayez gratuitement et exportez vers n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène captivante en format 16:9 et mouvements de caméra larges, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Plan rapproché vertical immergé dans une miniature YouTube, une énergie partageable rayonnant à travers chaque plan et coupe de la vidéo",
+    "Zones de sécurité mid-roll abstraites se transformant et fluant au ralenti, capturant parfaitement l'essence captivante de la musique",
+    "Plans rapprochés en format 16:9 se dissolvant en qualité HD 1080p, créant un parcours visuel partageable qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement haute qualité avec miniature YouTube au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre zones de sécurité mid-roll et subscriber hook, construisant la tension avec un étalonnage des couleurs captivant et des motion graphics pointus",
+    "Un montage partageable de qualité HD 1080p et format 16:9, superposé avec des transitions fluides et des battements visuels correspondant au drop",
+    "Séquence finale présentant subscriber hook et miniature YouTube convergeant dans une explosion captivante de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent YouTube pour maximiser leur portée sur la plateforme, en s'assurant que leur contenu respecte les exigences de format et capte l'attention instantanément.",
+    "creators": "Les musiciens YouTube s'appuient sur du contenu YouTube parfaitement formaté pour augmenter la visibilité algorithmique et développer leur audience à chaque mise en ligne.",
+    "labels": "Les maisons de disques produisent en lot des vidéos YouTube optimisées pour la plateforme sur l'ensemble de leur catalogue, réduisant les délais de quelques semaines à quelques heures.",
+    "brands": "Les marques menant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire des publicités vidéo YouTube qui arrêtent le défilement à l'échelle."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je utiliser le générateur de vidéos musicales YouTube de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties de streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement YouTube ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà de YouTube. Vous pouvez générer des vidéos musicales pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale YouTube ?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale YouTube."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale YouTube pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale YouTube en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de vidéos musicales YouTube de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur les appareils de bureau et mobiles, vous pouvez donc créer des vidéos musicales YouTube depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

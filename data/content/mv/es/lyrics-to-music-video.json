@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tus letras con creación de videoclips musicales con IA",
+  "direct_answer": "Una IA de letras a videoclip es una herramienta que crea automáticamente videoclips musicales profesionales en estilo MV a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales narrativos con generación de texto de letras en tiempo real y exportación de un clic, adaptados a la energía y estilo de tu canción. Con Tunee, puedes pasar de una idea a un videoclip de letras a MV terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa la IA de letras a videoclip de Tunee para crear visuales narrativos de letras a MV al instante. Sin necesidad de habilidades de edición — exporta en 4K para YouTube, TikTok, y...",
+  "prompts": [
+    "Una escena narrativa con entrada de texto de letras y movimientos de cámara barridos, bañados en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en la interpretación de escenas, energía dirigida por texto irradiando a través de cada fotograma y corte del video",
+    "Metamorfosis de palabra a visual abstracta y fluyendo en cámara lenta, capturando la esencia narrativa de la música perfectamente",
+    "Primeros planos de texto de letras disolviendo en superposición de videoclip de letras, creando un viaje visual dirigido por texto que sigue el ritmo de la canción",
+    "Plano establecedor amplio de un entorno creativo con interpretación de escenas en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre palabra a visual y visualización de historia, construyendo tensión con gradación de color narrativa y motion graphics nítidos",
+    "Un montaje dirigido por texto de superposición de videoclip de letras y entrada de texto de letras, estratificado con transiciones suaves y beats visuales que coinciden con la caída",
+    "Secuencia final que presenta visualización de historia e interpretación de escenas convergiendo en una explosión narrativa de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los músicos usan este flujo de trabajo de letras a MV para convertir rápidamente activos sin procesar — fotos, letras o audio — en videoclips musicales pulidos sin necesidad de un equipo de producción.",
+    "creators": "Los creadores de contenido aprovechan el flujo de letras a MV para automatizar tareas repetitivas de producción de video y enfocarse más tiempo en la dirección creativa.",
+    "labels": "Las discográficas integran este flujo de trabajo de letras a MV en su proceso de lanzamiento para producir contenido visual de alta calidad para cada sencillo y canción de álbum.",
+    "brands": "Los equipos de marketing usan el flujo de trabajo de letras a MV para convertir activos de marca existentes en contenido de video envolvente dirigido por música para campañas."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un videoclip de letras a MV sin ninguna experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo de letras a MV, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi videoclip de letras a MV?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en entrada de texto de letras que coincidan con tu estética de letras a MV."
+    },
+    {
+      "q": "¿Puedo usar el generador de videoclips de letras a MV de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee pueden usarse con propósitos comerciales incluyendo lanzamientos en streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi videoclip de letras a MV?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu videoclip de letras a MV automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un videoclip de letras a MV para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu videoclip de letras a MV usando diferentes indicaciones o configuraciones de estilo, luego selecciona la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

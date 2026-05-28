@@ -1,0 +1,43 @@
+{
+  "h1": "Gere Vídeos de Música Soul Profissional Instantaneamente com IA",
+  "direct_answer": "Um gerador de vídeos de música soul com IA é uma ferramenta que cria automaticamente vídeos musicais profissionais estilo soul a partir do seu áudio ou prompts de texto. A plataforma Tunee usa machine learning avançado para produzir visuais emocionais com renderização automática da era Motown e exportação multi-estilo, adaptada à energia e estilo da sua faixa. Com Tunee, você sai de uma ideia para um vídeo de música soul finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de vídeos de música soul com IA da Tunee para criar visuais Soul emocionais instantaneamente. Sem habilidades de edição necessárias — exporte em 4K para YouTube, TikTok e m...",
+  "prompts": [
+    "Uma cena emocional com era Motown e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em backing singers, energia poderosa irradiando em cada frame e corte do vídeo",
+    "Performance abstrata e emocional se transformando e fluindo em câmera lenta, capturando perfeitamente a essência emocional da música",
+    "Planos fechados da era Motown se dissolvendo em estúdio de gravação vintage, criando uma jornada visual poderosa que segue o ritmo da música",
+    "Plano aberto de um ambiente genuíno com backing singers em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre performance emocional e seção de metais, construindo tensão com grading de cor emocional e motion graphics precisos",
+    "Uma montagem poderosa de estúdio de gravação vintage e era Motown, camadas com transições suaves e beats visuais combinando com o drop",
+    "Sequência final com seção de metais e backing singers convergindo em uma explosão emocional de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Cantores de soul precisam de vídeos de música soul para definir visualmente sua identidade artística, crescer sua fanbase e se destacar em plataformas de streaming.",
+    "creators": "Artistas inspirados em Motown usam estética de vídeos de música soul para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Labels de discos dependem de produção rápida e profissional de vídeos de música soul para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de vídeos de música soul para criar conteúdo de campanhas emocionais que ressoam emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo de música soul sem experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee cuida de toda a produção de vídeo automaticamente. Apenas faça upload do seu áudio ou digite um prompt de texto, escolha um estilo soul e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportar vídeos de música soul em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos de música soul em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e displays em tela grande."
+    },
+    {
+      "q": "Posso usar o gerador de vídeos de música soul da Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de redes sociais."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu vídeo de música soul?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras, escolha um estilo de texto e a IA sincronizará automaticamente com seu vídeo de música soul."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um vídeo de música soul para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu vídeo de música soul usando diferentes prompts ou configurações de estilo e depois selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

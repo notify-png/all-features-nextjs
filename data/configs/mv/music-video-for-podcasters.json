@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-podcasters",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Podcasters",
+  "genre_name_zh": "播客",
+  "keyword_en": "AI music video for podcasters",
+  "visual_keywords": [
+    "microphone setup",
+    "studio recording",
+    "intro visual",
+    "branding motion",
+    "audio-to-video"
+  ],
+  "mood_words": [
+    "professional",
+    "branded",
+    "intimate",
+    "editorial"
+  ],
+  "target_personas": [
+    "podcast hosts",
+    "audio content creators",
+    "YouTube podcasters",
+    "interview show hosts"
+  ],
+  "color_accent": "#7F8C8D",
+  "color_secondary": "#95A5A6",
+  "has_custom_asset": false,
+  "demo_prompt": "Podcast intro music video with microphone close-up, branded motion graphics, professional studio atmosphere"
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tu sonido de pareja con la creación de videoclips con IA",
+  "direct_answer": "Un generador de videoclips de pareja con IA es una herramienta que crea automáticamente videoclips profesionales de estilo pareja a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales románticos con renderizado automatizado de retratos de pareja y exportación multiestilos, adaptados a la energía y estilo de tu canción. Con Tunee, puedes pasar de una idea a un videoclip de pareja terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "Usa el generador de videoclips de pareja con IA de Tunee para crear visuales románticos al instante. Sin necesidad de habilidades de edición — exporta en 4K para YouTube, TikTok, y...",
+  "prompts": [
+    "Una escena romántica con retratos de pareja y movimientos de cámara barridos, bañados en iluminación dramática que pulsa con la música",
+    "Escena de pareja inmersa en la hora dorada juntos, energía íntima irradiando en cada fotograma y corte del vídeo",
+    "Hitos de relación abstractos transformándose y fluyendo en cámara lenta, capturando la esencia romántica de la música perfectamente",
+    "Planos cercanos de retratos de pareja disolviéndose en momentos íntimos, creando un viaje visual íntimo que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno narrativo con la hora dorada juntos en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre hitos de relación e historia de amor, construyendo tensión con gradación de color romántica y gráficos de movimiento agudo",
+    "Un montaje íntimo de momentos íntimos y retratos de pareja, en capas con transiciones suaves y beats visuales que coinciden con la caída",
+    "Secuencia final con historia de amor y hora dorada juntos convergiendo en una explosión romántica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Las parejas usan videoclips de pareja para conmemorar momentos especiales y crear recuerdos visuales duraderos establecidos con la banda sonora perfecta.",
+    "creators": "Los regaladores de aniversario producen contenido de videoclips de pareja para contar historias emocionales, crecer su audiencia y ofrecer servicios de vídeo premium a clientes.",
+    "labels": "Los planificadores de eventos y videógrafos usan la IA de Tunee para entregar paquetes de vídeo de pareja pulidos más rápidamente y a una fracción del costo de producción tradicional.",
+    "brands": "Las marcas y anunciantes crean contenido con temática de pareja para conectar con audiencias durante momentos clave y hitos emocionales."
+  },
+  "faqs": [
+    {
+      "q": "¿Permite exportar videoclips de pareja en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videoclips de pareja en resolución de hasta 4K, listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi videoclip de pareja?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en retratos de pareja que coincidan con tu estética de pareja."
+    },
+    {
+      "q": "¿Puedo usar el generador de videoclips de pareja de Tunee para proyectos comerciales?",
+      "a": "Sí. Los vídeos creados con Tunee pueden usarse con fines comerciales, incluyendo lanzamientos en streaming, campañas de marca y contenido en redes sociales."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi videoclip de pareja?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras, elige un estilo de texto y la IA las sincronizará automáticamente con tu videoclip de pareja."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un videoclip de pareja para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu videoclip de pareja usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

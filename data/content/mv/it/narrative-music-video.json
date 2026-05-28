@@ -1,0 +1,43 @@
+{
+  "h1": "Crea bellissimi video musicali narrativi senza sforzo con Tunee AI",
+  "direct_answer": "Un video musicale narrativo AI è uno strumento che crea automaticamente video musicali professionali in stile narrativo dal tuo audio o dai prompt di testo. La piattaforma di Tunee utilizza l'apprendimento automatico avanzato per produrre visivi narrativi con rendering automatico dell'arco narrativo ed esportazione multi-stile, personalizzati in base all'energia e allo stile della tua traccia. Con Tunee, puoi passare dall'idea a un video musicale narrativo finito in pochi minuti, senza richiedere alcuna esperienza di editing video.",
+  "meta_description": "Crea video musicali narrativi professionali con Tunee's AI narrative music video. Visivi narrativi, esportazione veloce, nessuna esperienza richiesta.",
+  "prompts": [
+    "Una scena narrativa con arco narrativo e movimenti di camera fluidi, immersa in un'illuminazione drammatica che pulsa a ritmo della musica",
+    "Artista immerso nello sviluppo del personaggio, l'energia emotiva che si irradia in ogni fotogramma e taglio del video",
+    "Scene emotive astratte che si trasformano e fluiscono in slow motion, catturando perfettamente l'essenza narrativa della musica",
+    "Primi piani dell'arco narrativo che si dissolvono in tagli cinematografici, creando un viaggio visivo emotivo che segue il ritmo della canzone",
+    "Inquadratura wide di un ambiente cinematografico con sviluppo del personaggio in primo piano, evocando una profonda risonanza emotiva",
+    "Tagli dinamici tra scene emotive e climax drammatico, costruendo tensione con color grading narrativo e sharp motion graphics",
+    "Un montaggio emotivo di tagli cinematografici e arco narrativo, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale con climax drammatico e sviluppo del personaggio convergenti in un'esplosione narrativa di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I cantautori hanno bisogno di video musicali narrativi per definire visivamente la loro identità artistica, far crescere la loro fanbase e distinguersi sulle piattaforme di streaming.",
+    "creators": "Gli artisti di concept album utilizzano l'estetica dei video musicali narrativi per costruire un marchio visivo distintivo che guida l'engagement e attrae opportunità di collaborazione.",
+    "labels": "Le case discografiche si affidano alla produzione veloce e professionale di video musicali narrativi per promuovere le nuove uscite in modo economico su tutti i canali digitali.",
+    "brands": "I brand e gli inserzionisti utilizzano l'estetica dei video musicali narrativi per creare contenuti di campagna narrativi che risuonano emotivamente con il loro pubblico di riferimento."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale narrativo senza alcuna esperienza di editing video?",
+      "a": "Sì — Tunee AI gestisce automaticamente tutta la produzione video. Basta caricare l'audio o inserire un prompt di testo, scegliere uno stile narrativo e l'AI genererà il tuo video in pochi minuti."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali narrativi in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta i video musicali narrativi in risoluzione fino a 4K, rendendoli pronti per YouTube, piattaforme di streaming e display a schermo grande."
+    },
+    {
+      "q": "Come personalizzo lo stile visivo del mio video musicale narrativo?",
+      "a": "Puoi guidare i visivi utilizzando prompt di testo che descrivono scene, atmosfere e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visivi ispirati all'arco narrativo che corrispondono alla tua estetica narrativa."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale narrativo?",
+      "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Basta inserire i tuoi testi e scegliere uno stile di testo, e l'AI sincronizzerà automaticamente il tuo video musicale narrativo."
+    },
+    {
+      "q": "Posso generare più versioni di un video musicale narrativo da confrontare?",
+      "a": "Sì. Puoi generare diverse variazioni del tuo video musicale narrativo utilizzando prompt diversi o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
+    }
+  ]
+}

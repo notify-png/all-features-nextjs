@@ -1,0 +1,43 @@
+{
+  "h1": "Traga Seu Som de Performance à Vida com Criação de Videoclipe IA",
+  "direct_answer": "Um videoclipe de performance IA é uma ferramenta que cria automaticamente videoclipes profissionais estilo performance a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais ao vivo com geração de performance em tempo real no palco e exportação em um clique, adaptados à energia e estilo da sua faixa. Com Tunee, você pode sair da ideia para um videoclipe de performance finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "Use o videoclipe de performance IA da Tunee para criar visuais de performance ao vivo instantaneamente. Sem necessidade de habilidades de edição — exporte em 4K para YouTube, TikTok e muito mais.",
+  "prompts": [
+    "Uma cena ao vivo com performance no palco e movimentos de câmera amplos, envolvida em iluminação dramática que pulsa com a batida",
+    "Artista imerso em banda ao vivo, energia energética irradiando através de cada quadro e corte do vídeo",
+    "Iluminação abstrata de concerto se transformando e fluindo em câmera lenta, capturando perfeitamente a essência ao vivo da música",
+    "Planos próximos de performance no palco se dissolvendo em planos próximos de músicos, criando uma jornada visual energética que acompanha o ritmo da música",
+    "Plano estabelecedor amplo de um ambiente autêntico com banda ao vivo em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre iluminação de concerto e reação do público, construindo tensão com grading de cores ao vivo e motion graphics afiados",
+    "Uma montagem energética de planos próximos de músicos e performance no palco, em camadas com transições suaves e batidas visuais combinando com o drop",
+    "Sequência final apresentando reação do público e banda ao vivo convergindo em uma explosão ao vivo de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Bandas precisam de videoclipes de performance para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Artistas ao vivo usam a estética de videoclipe de performance para construir uma marca visual distintiva que impulsiona o engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem da produção rápida e profissional de videoclipes de performance para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam a estética de videoclipe de performance para criar conteúdo de campanha ao vivo que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe de performance sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee lida com toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo de Performance e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportação de videoclipes de performance em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes de performance em resolução até 4K, deixando-os prontos para YouTube, plataformas de streaming e displays de tela grande."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipe de performance da Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Performance?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Performance. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "O gerador de videoclipe de performance da Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes de performance de qualquer dispositivo sem instalar software."
+    }
+  ]
+}

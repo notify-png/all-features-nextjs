@@ -1,0 +1,43 @@
+{
+  "h1": "Gerador de Vídeos de Música Anime Alimentado por IA para Todos os Artistas",
+  "direct_answer": "Um gerador de vídeos de música anime com IA é uma ferramenta que cria automaticamente vídeos musicais profissionais em estilo anime a partir de seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais oníricos com geração de cel-shading em tempo real e exportação com um clique, personalizado para a energia e estilo da sua faixa. Com Tunee, você pode passar de uma ideia para um vídeo de música anime finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de vídeos de música anime com IA da Tunee para criar visuais anime oníricos instantaneamente. Sem necessidade de habilidades de edição — exporte em 4K para YouTube, TikTok e muito mais.",
+  "prompts": [
+    "Uma cena onírica com cel-shading e movimentos de câmera abrangentes, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em aquarela, energia épica irradiando por cada quadro e corte do vídeo",
+    "Mecha abstrata se transformando e fluindo em câmera lenta, capturando perfeitamente a essência onírica da música",
+    "Planos aproximados de cel-shading se dissolvendo em chibi, criando uma jornada visual épica que segue o ritmo da música",
+    "Plano de abertura amplo de um ambiente nostálgico com aquarela em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre mecha e inspirado em Ghibli, construindo tensão com cor onírica e motion graphics nítidos",
+    "Uma montagem épica de chibi e cel-shading, em camadas com transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando inspiração em Ghibli e aquarela convergindo em uma explosão onírica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Criadores Vocaloid precisam de vídeos de música anime para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Vtubers usam estética de vídeos de música anime para construir uma marca visual distintiva que impulsiona o engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de vídeos de música anime para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de vídeos de música anime para criar conteúdo de campanha onírico que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo de música anime sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo anime e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportação de vídeos de música anime em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos de música anime em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e exibições em tela grande."
+    },
+    {
+      "q": "Posso usar o gerador de vídeos de música anime da Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais, incluindo lançamentos de streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas anime?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de anime. Você pode gerar vídeos musicais para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu vídeo de música anime?",
+      "a": "Tunee oferece opções de sobreposição de letras e legendas integradas. Simplesmente insira suas letras, escolha um estilo de texto e a IA as sincronizará com seu vídeo de música anime automaticamente."
+    }
+  ]
+}

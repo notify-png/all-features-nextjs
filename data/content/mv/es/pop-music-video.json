@@ -1,0 +1,43 @@
+{
+  "h1": "Generador de Videoclips Pop Impulsado por IA para Cada Artista",
+  "direct_answer": "Un generador de videoclips pop impulsado por IA es una herramienta que crea automáticamente videoclips profesionales de estilo pop a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales animados con renderizado de estudio brillante automatizado y exportación multi-estilo, adaptados a la energía y el estilo de tu tema. Con Tunee, puedes pasar de una idea a un videoclip pop terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videoclips pop con IA más fácil para artistas. Tunee genera visuales pop animados a partir de tu audio — pruébalo gratis hoy.",
+  "prompts": [
+    "Una escena animada con estudio brillante y movimientos de cámara barridos, bañados en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en un fondo colorido, energía pegadiza irradiando en cada fotograma y corte del video",
+    "Coreografía abstracta transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia animada de la música",
+    "Planos cercanos de estudio brillante disolviéndose en luces de neón, creando un viaje visual pegadizo que sigue el ritmo de la canción",
+    "Plano general amplio de un entorno vibrante con fondo colorido en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre coreografía y estética brillante, construyendo tensión con clasificación de color animada y gráficos de movimiento afilados",
+    "Un montaje pegadizo de luces de neón y estudio brillante, superpuesto con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con estética brillante y fondo colorido convergiendo en una explosión animada de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas pop independientes necesitan videoclips pop para definir visualmente su identidad artística, crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los cantantes firmados con discográfica utilizan estéticas de videoclips pop para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videoclips pop para promocionar nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y publicistas utilizan estéticas de videoclips pop para crear contenido de campaña animado que resuene emocionalmente con su público objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un videoclip pop sin experiencia en edición de video?",
+      "a": "Sí — Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo pop, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite exportar videoclips pop en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videoclips pop en hasta resolución 4K, dejándolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi videoclip pop?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en estudio brillante que coincidan con tu estética pop."
+    },
+    {
+      "q": "¿Puedo usar el generador de videoclips pop de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee pueden usarse para propósitos comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo pop?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá del pop. Puedes generar videoclips musicales para pop, hip-hop, clásico y docenas de otros estilos usando la misma plataforma."
+    }
+  ]
+}

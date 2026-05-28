@@ -1,0 +1,43 @@
+{
+  "h1": "Crea Vídeos de Música Punk Impresionantes sin Esfuerzo con Tunee AI",
+  "direct_answer": "Un generador de vídeos de música punk con IA es una herramienta que crea automáticamente vídeos musicales profesionales de estilo punk a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales rebeldes con generación de escenas de IA, peinados mohicanos y imperdibles, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un vídeo de música punk terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "Crea vídeos de música Punk profesionales con el generador de vídeos de música punk de IA de Tunee. Visuales rebeldes, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena rebelde con peinado mohicano y movimientos de cámara barridos, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en imperdibles, energía caótica irradiando a través de cada fotograma y corte del vídeo",
+    "Foso de concierto abstracto transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia rebelde de la música",
+    "Planos cercanos de peinado mohicano disolviéndose en un local sucio, creando un viaje visual caótico que sigue el ritmo de la canción",
+    "Plano general amplio de un entorno crudo con imperdibles en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre foso de concierto y estética anarquista DIY, construyendo tensión con grading de color rebelde y gráficos de movimiento agudo",
+    "Un montaje caótico de local sucio y peinado mohicano, capa superpuesta con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final presentando estética anarquista DIY e imperdibles convergiendo en una explosión rebelde de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Las bandas de punk necesitan vídeos de música punk para definir visualmente su identidad artística, hacer crecer su base de seguidores y destacarse en plataformas de streaming.",
+    "creators": "Los artistas hardcore utilizan estéticas de vídeos de música punk para construir una marca visual distintiva que impulsa el engagement y atrae oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de vídeos de música punk para promover nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estéticas de vídeos de música punk para crear contenido de campañas rebeldes que resonance emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un vídeo de música punk sin experiencia en edición de vídeo?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de vídeo automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo punk, y la IA genera tu vídeo en minutos."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi vídeo de música punk?",
+      "a": "Puedes guiar los visuales utilizando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en peinados mohicanos que coincidan con tu estética punk."
+    },
+    {
+      "q": "¿Puedo utilizar el generador de vídeos de música punk de Tunee para proyectos comerciales?",
+      "a": "Sí. Los vídeos creados con Tunee pueden utilizarse para fines comerciales, incluyendo lanzamientos en streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi vídeo de música punk?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará automáticamente con tu vídeo de música punk."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un vídeo de música punk para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu vídeo de música punk utilizando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

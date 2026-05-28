@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tu sonido de visualizador de música con creación de videoclips IA",
+  "direct_answer": "Un generador de visualizador de música IA es una herramienta que crea automáticamente videoclips profesionales de estilo visualizador de música a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales técnicos con indicaciones de texto a video y visuales de animación de forma de onda, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un videoclip de visualizador de música terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de visualizador de música IA más fácil para artistas. Tunee genera visuales técnicos de visualizador de música a partir de tu audio — prueba gratis hoy.",
+  "prompts": [
+    "Una escena técnica con animación de forma de onda y movimientos de cámara barridos, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en barras de frecuencia, energía dinámica irradiando a través de cada fotograma y corte del video",
+    "Analizador de espectro abstracto transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia técnica de la música",
+    "Primeros planos de animación de forma de onda disolviéndose en visuales reactivos, creando un viaje visual dinámico que sigue el ritmo de la canción",
+    "Plano general establecedor de un entorno reactivo con barras de frecuencia en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre analizador de espectro y movimiento impulsado por audio, construyendo tensión con gradación de color técnica y gráficos de movimiento nítidos",
+    "Un montaje dinámico de visuales reactivos y animación de forma de onda, estratificado con transiciones suaves y golpes visuales que coinciden con la caída",
+    "Secuencia final que presenta movimiento impulsado por audio y barras de frecuencia convergiendo en una explosión técnica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los ingenieros de audio necesitan videoclips de visualizador de música para definir visualmente su identidad artística, crecer su base de fans y destacar en plataformas de streaming.",
+    "creators": "Los artistas de streaming utilizan la estética de videoclips de visualizador de música para construir una marca visual distintiva que impulsa el engagement y atrae oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videoclips de visualizador de música para promocionar nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videoclips de visualizador de música para crear contenido de campaña técnico que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Admite la exportación de videoclips de visualizador de música en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videoclips de visualizador de música en resolución de hasta 4K, preparándolos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Puedo usar el generador de videoclips de visualizador de música de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee se pueden utilizar con fines comerciales, incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi videoclip de visualizador de música?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará automáticamente con tu videoclip de visualizador de música."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un videoclip de visualizador de música para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu videoclip de visualizador de música usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    },
+    {
+      "q": "¿Funciona el generador de videoclips de visualizador de música de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web tanto en desktop como en móvil, para que puedas crear videoclips de visualizador de música desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

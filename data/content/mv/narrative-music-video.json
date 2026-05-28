@@ -1,0 +1,43 @@
+{
+  "h1": "Make Beautiful Narrative Music Videos Effortlessly with Tunee AI",
+  "direct_answer": "An AI narrative music video is a tool that automatically creates professional narrative-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce storytelling visuals featuring automated story arc rendering and multi-style export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished narrative music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Narrative music videos with Tunee's AI narrative music video. Storytelling visuals, fast export, no experience required.",
+  "prompts": [
+    "A storytelling scene with story arc and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in character development, emotional energy radiating through every frame and cut of the video",
+    "Abstract emotional scenes morphing and flowing in slow motion, capturing the storytelling essence of the music perfectly",
+    "Close-up shots of story arc dissolving into cinematic cuts, creating a emotional visual journey that follows the song's rhythm",
+    "Wide establishing shot of a cinematic environment with character development in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between emotional scenes and dramatic climax, building tension with storytelling color grading and sharp motion graphics",
+    "A emotional montage of cinematic cuts and story arc, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring dramatic climax and character development converging in a storytelling explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Singer-songwriters need Narrative music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Concept album artists use Narrative music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Narrative music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Narrative music video aesthetics to create storytelling campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Narrative music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Narrative style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Narrative music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Narrative music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Narrative music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates story arc-inspired visuals that match your Narrative aesthetic."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Narrative music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Narrative music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Narrative music video to compare?",
+      "a": "Yes. You can generate several variations of your Narrative music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

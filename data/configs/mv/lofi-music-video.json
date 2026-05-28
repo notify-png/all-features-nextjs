@@ -1,0 +1,31 @@
+{
+  "slug": "lofi-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Lo-fi",
+  "genre_name_zh": "低保真",
+  "keyword_en": "AI lofi music video generator",
+  "visual_keywords": [
+    "cozy room",
+    "anime study scene",
+    "rainy window",
+    "warm lamp glow",
+    "cassette tape"
+  ],
+  "mood_words": [
+    "chill",
+    "cozy",
+    "nostalgic",
+    "relaxing"
+  ],
+  "target_personas": [
+    "lo-fi producers",
+    "study music creators",
+    "chill hop artists",
+    "YouTube beatmakers"
+  ],
+  "color_accent": "#7E9BB5",
+  "color_secondary": "#A8C5D8",
+  "has_custom_asset": false,
+  "demo_prompt": "Anime girl studying at desk by rainy window, warm lamp, vinyl records on shelf, cozy lo-fi atmosphere"
+}

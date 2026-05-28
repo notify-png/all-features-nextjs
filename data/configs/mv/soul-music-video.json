@@ -1,0 +1,31 @@
+{
+  "slug": "soul-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Soul",
+  "genre_name_zh": "灵魂乐",
+  "keyword_en": "AI soul music video generator",
+  "visual_keywords": [
+    "Motown era",
+    "backup singers",
+    "emotional performance",
+    "vintage recording studio",
+    "horn section"
+  ],
+  "mood_words": [
+    "emotional",
+    "powerful",
+    "genuine",
+    "heartfelt"
+  ],
+  "target_personas": [
+    "soul singers",
+    "Motown-inspired artists",
+    "neo-soul creators",
+    "gospel-influenced musicians"
+  ],
+  "color_accent": "#8B4513",
+  "color_secondary": "#A0522D",
+  "has_custom_asset": false,
+  "demo_prompt": "Soul singer in vintage recording studio, three backup singers in harmony, warm golden light, emotional performance, horn section"
+}

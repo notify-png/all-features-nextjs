@@ -1,0 +1,31 @@
+{
+  "slug": "indie-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Indie",
+  "genre_name_zh": "独立音乐",
+  "keyword_en": "AI indie music video generator",
+  "visual_keywords": [
+    "film grain",
+    "natural landscapes",
+    "DIY aesthetic",
+    "vintage tones",
+    "intimate performance"
+  ],
+  "mood_words": [
+    "authentic",
+    "introspective",
+    "raw",
+    "artistic"
+  ],
+  "target_personas": [
+    "indie artists",
+    "bedroom producers",
+    "DIY musicians",
+    "alternative artists"
+  ],
+  "color_accent": "#7D8471",
+  "color_secondary": "#9EA88F",
+  "has_custom_asset": false,
+  "demo_prompt": "Indie singer-songwriter performing in sun-drenched field, film grain texture, soft vintage color grade, intimate handheld camera"
+}

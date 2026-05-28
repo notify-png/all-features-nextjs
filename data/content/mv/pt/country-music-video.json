@@ -1,0 +1,43 @@
+{
+  "h1": "Produza Vídeos de Música Country de Alta Qualidade com Tecnologia IA",
+  "direct_answer": "Um gerador de vídeos de música country com IA é uma ferramenta que cria automaticamente vídeos musicais profissionais no estilo country a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais sinceros com renderização automatizada de campos abertos e exportação multi-estilo, adaptados à energia e estilo da sua faixa. Com Tunee, você sai da ideia para um vídeo de música country finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de vídeos de música country com IA da Tunee para criar visuais Country sinceros instantaneamente. Nenhuma habilidade de edição necessária — exporte em 4K para YouTube, TikTok,...",
+  "prompts": [
+    "Uma cena sincera com campos abertos e movimentos de câmera amplos, banhados em iluminação dramática que pulsa com a batida",
+    "Artista imerso em pickup truck, energia nostálgica irradiando por cada frame e corte do vídeo",
+    "Cenário abstrato de celeiro morfando e fluindo em câmera lenta, capturando perfeitamente a essência sincera da música",
+    "Planos fechados de campos abertos se dissolvendo em pradaria ao pôr do sol, criando uma jornada visual nostálgica que acompanha o ritmo da música",
+    "Plano geral amplo de um ambiente rústico com pickup truck em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre cenário de celeiro e close-up de violão acústico, construindo tensão com color grading sincero e motion graphics afiados",
+    "Uma montagem nostálgica de pradaria ao pôr do sol e campos abertos, em camadas com transições suaves e beats visuais combinando com o drop",
+    "Sequência final com close-up de violão acústico e pickup truck convergindo em uma explosão sincera de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Cantores de country precisam de vídeos de música country para definir visualmente sua identidade artística, crescer sua fanbase e se destacar em plataformas de streaming.",
+    "creators": "Artistas de Americana usam estéticas de vídeos de música country para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de vídeos de música country para promover novos lançamentos com custo-benefício em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de vídeos de música country para criar conteúdo de campanha sincero que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo de música country sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo Country, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportar vídeos de música country em resolução 4K?",
+      "a": "Com certeza. Tunee exporta vídeos de música country em até resolução 4K, tornando-os prontos para YouTube, plataformas de streaming e exibições em tela grande."
+    },
+    {
+      "q": "Como faço para personalizar o estilo visual do meu vídeo de música country?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA do Tunee interpreta sua entrada e gera visuais inspirados em campos abertos que combinam com sua estética Country."
+    },
+    {
+      "q": "Posso usar o gerador de vídeos de música country do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Country?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Country. Você pode gerar vídeos musicais para pop, hip-hop, clássica e dezenas de outros estilos usando a mesma plataforma."
+    }
+  ]
+}

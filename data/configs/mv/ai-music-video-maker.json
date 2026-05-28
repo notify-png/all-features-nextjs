@@ -1,0 +1,31 @@
+{
+  "slug": "ai-music-video-maker",
+  "parent": "/features/music-video-generator",
+  "category": "Workflow",
+  "genre_name": "AI MV Maker",
+  "genre_name_zh": "AI MV制作工具",
+  "keyword_en": "AI music video maker online",
+  "visual_keywords": [
+    "online editor",
+    "template selection",
+    "drag-and-drop",
+    "browser-based",
+    "no download needed"
+  ],
+  "mood_words": [
+    "accessible",
+    "simple",
+    "professional",
+    "instant"
+  ],
+  "target_personas": [
+    "non-technical creators",
+    "budget-conscious artists",
+    "DIY musicians",
+    "online-first creators"
+  ],
+  "color_accent": "#27AE60",
+  "color_secondary": "#2ECC71",
+  "has_custom_asset": false,
+  "demo_prompt": "Online AI music video maker, choose template, upload audio, customize style, download HD video in under 5 minutes"
+}

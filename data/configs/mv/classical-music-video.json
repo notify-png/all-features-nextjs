@@ -1,0 +1,31 @@
+{
+  "slug": "classical-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Classical",
+  "genre_name_zh": "古典",
+  "keyword_en": "AI classical music video generator",
+  "visual_keywords": [
+    "concert hall",
+    "orchestra performance",
+    "grand piano",
+    "dramatic lighting",
+    "baroque architecture"
+  ],
+  "mood_words": [
+    "majestic",
+    "elegant",
+    "emotional",
+    "timeless"
+  ],
+  "target_personas": [
+    "classical composers",
+    "orchestras",
+    "piano soloists",
+    "music conservatories"
+  ],
+  "color_accent": "#8B6914",
+  "color_secondary": "#C4A35A",
+  "has_custom_asset": false,
+  "demo_prompt": "Solo pianist performing on grand stage in ornate concert hall, dramatic spotlight, emotional close-ups, baroque architecture"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "lyric-video",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Lyric Video",
+  "genre_name_zh": "歌词视频",
+  "keyword_en": "AI lyric video generator",
+  "visual_keywords": [
+    "kinetic typography",
+    "animated text",
+    "lyric sync",
+    "background visuals",
+    "word animation"
+  ],
+  "mood_words": [
+    "engaging",
+    "clean",
+    "dynamic",
+    "readable"
+  ],
+  "target_personas": [
+    "independent artists",
+    "YouTube music creators",
+    "lyric-focused songwriters",
+    "budget-conscious musicians"
+  ],
+  "color_accent": "#3498DB",
+  "color_secondary": "#5DADE2",
+  "has_custom_asset": false,
+  "demo_prompt": "Kinetic typography lyric video, words animating to beat, gradient background, clean modern font, word-by-word sync"
+}

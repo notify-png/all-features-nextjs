@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-labels",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Record Labels",
+  "genre_name_zh": "唱片公司",
+  "keyword_en": "AI music video for record labels",
+  "visual_keywords": [
+    "high production value",
+    "multi-artist roster",
+    "label branding",
+    "commercial quality",
+    "industry standard"
+  ],
+  "mood_words": [
+    "commercial",
+    "polished",
+    "industry-grade",
+    "scalable"
+  ],
+  "target_personas": [
+    "A&R managers",
+    "label executives",
+    "music publishers",
+    "artist management teams"
+  ],
+  "color_accent": "#1F3A5C",
+  "color_secondary": "#2E5480",
+  "has_custom_asset": false,
+  "demo_prompt": "Label-quality music video with commercial production value, artist branding integration, industry-standard cinematic quality"
+}

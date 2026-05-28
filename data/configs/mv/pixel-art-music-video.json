@@ -1,0 +1,31 @@
+{
+  "slug": "pixel-art-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Pixel Art",
+  "genre_name_zh": "像素艺术",
+  "keyword_en": "AI pixel art music video generator",
+  "visual_keywords": [
+    "8-bit sprites",
+    "retro game aesthetic",
+    "chiptune visual",
+    "blocky characters",
+    "NES color palette"
+  ],
+  "mood_words": [
+    "nostalgic",
+    "playful",
+    "retro-gaming",
+    "charming"
+  ],
+  "target_personas": [
+    "chiptune artists",
+    "game music composers",
+    "retro gaming creators",
+    "indie game developers"
+  ],
+  "color_accent": "#00AA00",
+  "color_secondary": "#00CC00",
+  "has_custom_asset": false,
+  "demo_prompt": "8-bit pixel art character running through side-scrolling chiptune world, retro NES color palette, coin collect animations"
+}

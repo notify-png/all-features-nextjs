@@ -1,0 +1,31 @@
+{
+  "slug": "cyberpunk-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Cyberpunk",
+  "genre_name_zh": "赛博朋克",
+  "keyword_en": "AI cyberpunk music video generator",
+  "visual_keywords": [
+    "neon-drenched streets",
+    "rain-soaked city",
+    "holographic ads",
+    "augmented reality",
+    "dystopian skyline"
+  ],
+  "mood_words": [
+    "dark",
+    "futuristic",
+    "gritty",
+    "neon"
+  ],
+  "target_personas": [
+    "cyberpunk aesthetic creators",
+    "synthwave artists",
+    "sci-fi music makers",
+    "futuristic pop artists"
+  ],
+  "color_accent": "#00FFFF",
+  "color_secondary": "#FF00FF",
+  "has_custom_asset": false,
+  "demo_prompt": "Neon-drenched cyberpunk city at night, rain-soaked streets, holographic ads in Japanese, lone figure in trench coat"
+}

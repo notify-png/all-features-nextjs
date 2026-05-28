@@ -1,0 +1,43 @@
+{
+  "h1": "Crea Videos Musicales de Dubstep Hermosos sin Esfuerzo con Tunee AI",
+  "direct_answer": "Un generador de videos musicales de dubstep basado en IA es una herramienta que crea automáticamente videos musicales profesionales de estilo dubstep a partir de tus pistas de audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales agresivos con indicaciones de texto a video y visuales robóticos, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un video musical de dubstep terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videos musicales de dubstep basado en IA más fácil para artistas. Tunee genera visuales agresivos de Dubstep desde tu audio — pruébalo gratis hoy.",
+  "prompts": [
+    "Una escena agresiva con visuales robóticos y movimientos de cámara barridos, bañados en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en forma de onda wub, energía heavy bass radiando a través de cada fotograma y corte del video",
+    "Multitud de festival abstracta transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia agresiva de la música",
+    "Planos cerrados de visuales robóticos disolviéndose en cañón de bass, creando un viaje visual heavy bass que sigue el ritmo de la canción",
+    "Plano general de establecimiento amplio de un entorno futurista con forma de onda wub en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre multitud de festival y efectos glitch, construyendo tensión con color grading agresivo y gráficos de movimiento afilados",
+    "Un montaje heavy bass de cañón de bass y visuales robóticos, estratificados con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con efectos glitch y forma de onda wub convergiendo en una explosión agresiva de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los productores de dubstep necesitan videos musicales de Dubstep para definir visualmente su identidad artística, crecer su base de seguidores y destacarse en plataformas de streaming.",
+    "creators": "Los djs de bass music utilizan la estética de videos musicales de Dubstep para construir una marca visual distintiva que impulse la participación y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales de Dubstep para promocionar nuevos lanzamientos de manera económica en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videos musicales de Dubstep para crear contenido de campaña agresivo que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical de Dubstep sin experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo de Dubstep, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite la exportación de videos musicales de Dubstep en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales de Dubstep en resolución hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical de Dubstep?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en visuales robóticos que coincidan con tu estética de Dubstep."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo Dubstep?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá de Dubstep. Puedes generar videos musicales para pop, hip-hop, música clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical de Dubstep?",
+      "a": "Tunee ofrece opciones incorporadas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video musical de Dubstep automáticamente."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Crie Videoclipes Musicais Cinemáticos Impressionantes com IA em Minutos",
+  "direct_answer": "Um gerador de videoclipe musical cinemático com IA é uma ferramenta que cria automaticamente videoclipes musicais de estilo cinemático profissional a partir de seus prompts de áudio ou texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais épicos com renderização automatizada de lens flare anamórfico e exportação multi-estilo, adaptados à energia e estilo da sua faixa. Com Tunee, você pode ir de uma ideia para um videoclipe musical cinemático finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "O gerador de videoclipe musical cinemático com IA mais fácil para artistas. Tunee gera visuais Cinemáticos épicos a partir do seu áudio — experimente gratuitamente hoje.",
+  "prompts": [
+    "Uma cena épica com lens flare anamórfico e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em plano aberto épico, energia dramática irradiando através de cada frame e corte do vídeo",
+    "Profundidade de campo rasa abstrata se transformando e fluindo em câmera lenta, capturando a essência épica da música perfeitamente",
+    "Planos de perto de lens flare anamórfico se dissolvendo em gradação de cor dramática, criando uma jornada visual dramática que segue o ritmo da música",
+    "Plano amplo de estabelecimento de um ambiente emocional com plano aberto épico em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre profundidade de campo rasa e dolly shot, construindo tensão com gradação de cor épica e motion graphics nítidos",
+    "Uma montagem dramática de gradação de cor dramática e lens flare anamórfico, em camadas com transições suaves e batidas visuais acompanhando o drop",
+    "Sequência final apresentando dolly shot e plano aberto épico convergindo em uma explosão épica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Compositores de filmes precisam de videoclipes musicais Cinemáticos para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Artistas pop Cinemáticos usam estética de videoclipe musical Cinemático para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras contam com produção rápida e profissional de videoclipes musicais Cinemáticos para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de videoclipe musical Cinemático para criar conteúdo de campanha épico que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe musical Cinemático?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA da Tunee interpreta sua entrada e gera visuais inspirados em lens flare anamórfico que correspondem ao seu estético Cinemático."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Cinemático?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Cinemático. Você pode gerar videoclipes musicais para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe musical Cinemático?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe musical Cinemático."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe musical Cinemático para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe musical Cinemático usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    },
+    {
+      "q": "O gerador de videoclipe musical Cinemático da Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador da web em desktop e mobile, para que você possa criar videoclipes musicais Cinemáticos em qualquer dispositivo sem instalar software."
+    }
+  ]
+}

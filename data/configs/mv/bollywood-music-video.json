@@ -1,0 +1,31 @@
+{
+  "slug": "bollywood-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Bollywood",
+  "genre_name_zh": "宝莱坞",
+  "keyword_en": "AI Bollywood music video generator",
+  "visual_keywords": [
+    "colorful dance number",
+    "sari costumes",
+    "palace setting",
+    "rain dance",
+    "synchronised ensemble"
+  ],
+  "mood_words": [
+    "colorful",
+    "dramatic",
+    "joyful",
+    "cinematic"
+  ],
+  "target_personas": [
+    "Bollywood artists",
+    "Indian film composers",
+    "South Asian music creators",
+    "desi pop artists"
+  ],
+  "color_accent": "#FF6B00",
+  "color_secondary": "#FFD700",
+  "has_custom_asset": false,
+  "demo_prompt": "Bollywood dance number in ornate palace courtyard, colorful sari costumes, synchronized ensemble, rain effect, vivid colors"
+}

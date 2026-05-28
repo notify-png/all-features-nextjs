@@ -1,0 +1,31 @@
+{
+  "slug": "synthwave-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Synthwave",
+  "genre_name_zh": "合成波",
+  "keyword_en": "AI synthwave music video generator",
+  "visual_keywords": [
+    "retro 80s grid",
+    "neon sunset",
+    "palm tree silhouette",
+    "sports car driving",
+    "VHS aesthetic"
+  ],
+  "mood_words": [
+    "nostalgic",
+    "cinematic",
+    "cool",
+    "retro-futuristic"
+  ],
+  "target_personas": [
+    "synthwave producers",
+    "retrowave artists",
+    "80s nostalgia creators",
+    "outrun music makers"
+  ],
+  "color_accent": "#FF10F0",
+  "color_secondary": "#BC13FE",
+  "has_custom_asset": false,
+  "demo_prompt": "Sports car driving through retro 80s neon grid landscape at sunset, pink and purple sky, VHS scan lines overlay"
+}

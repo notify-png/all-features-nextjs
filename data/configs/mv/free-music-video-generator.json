@@ -1,0 +1,31 @@
+{
+  "slug": "free-music-video-generator",
+  "parent": "/features/music-video-generator",
+  "category": "Workflow",
+  "genre_name": "Free MV Generator",
+  "genre_name_zh": "免费MV生成器",
+  "keyword_en": "Free AI music video generator",
+  "visual_keywords": [
+    "no cost",
+    "free tier",
+    "watermark-free preview",
+    "no credit card",
+    "instant access"
+  ],
+  "mood_words": [
+    "accessible",
+    "free",
+    "no-barrier",
+    "generous"
+  ],
+  "target_personas": [
+    "students",
+    "hobbyist musicians",
+    "emerging artists",
+    "first-time creators"
+  ],
+  "color_accent": "#27AE60",
+  "color_secondary": "#58D68D",
+  "has_custom_asset": false,
+  "demo_prompt": "Free AI music video generator, no sign-up required, instant preview, full HD download with free account"
+}

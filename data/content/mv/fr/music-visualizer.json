@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie à votre visualiseur musical avec la création de clips vidéo musicaux par IA",
+  "direct_answer": "Un générateur de visualiseur musical par IA est un outil qui crée automatiquement des clips vidéo musicaux professionnels de style visualiseur à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels techniques avec des invites texte-vers-vidéo et des animations de forme d'onde, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à un clip vidéo visualiseur musical terminé en quelques minutes, sans expérience en montage vidéo.",
+  "meta_description": "Le générateur de visualiseur musical par IA le plus simple pour les artistes. Tunee génère des visuels de visualiseur musical techniques à partir de votre audio — essayez gratuitement dès aujourd'hui.",
+  "prompts": [
+    "Une scène technique avec animation de forme d'onde et mouvements de caméra balayants, baignée d'un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans des barres de fréquence, l'énergie dynamique rayonnant à travers chaque frame et cut de la vidéo",
+    "Analyseur de spectre abstrait morphing et coulant en ralenti, capturant parfaitement l'essence technique de la musique",
+    "Gros plans d'animation de forme d'onde se dissolvant dans des visuels réactifs, créant un parcours visuel dynamique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement réactif avec des barres de fréquence au premier plan, évoquant une résonance émotionnelle profonde",
+    "Cuts dynamiques entre analyseur de spectre et motion pilotée par l'audio, créant une tension avec un color grading technique et des motion graphics nets",
+    "Un montage dynamique de visuels réactifs et d'animation de forme d'onde, superposés avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant la motion pilotée par l'audio et les barres de fréquence convergeant dans une explosion technique de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les ingénieurs audio ont besoin de clips vidéo musicaux de visualiseur pour définir visuellement leur identité artistique, développer leur fanbase et se démarquer sur les plateformes de streaming.",
+    "creators": "Les artistes en streaming utilisent l'esthétique des clips vidéo musicaux de visualiseur pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les labels discographiques comptent sur la production rapide et professionnelle de clips vidéo musicaux de visualiseur pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des clips vidéo musicaux de visualiseur pour créer du contenu de campagne technique qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Supporte-t-il l'export de clips vidéo musicaux de visualiseur en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les clips vidéo musicaux de visualiseur jusqu'en résolution 4K, les rendant prêts pour YouTube, les plateformes de streaming et les écrans grand format."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de clips vidéo musicaux de visualiseur de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon clip vidéo musical de visualiseur ?",
+      "a": "Tunee propose des options intégrées de superposition de paroles et de sous-titres. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre clip vidéo musical de visualiseur."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip vidéo musical de visualiseur pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre clip vidéo musical de visualiseur en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de clips vidéo musicaux de visualiseur de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur ordinateur et mobile, vous permettant de créer des clips vidéo musicaux de visualiseur depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

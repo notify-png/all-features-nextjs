@@ -1,0 +1,31 @@
+{
+  "slug": "ambient-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Ambient",
+  "genre_name_zh": "氛围",
+  "keyword_en": "AI ambient music video generator",
+  "visual_keywords": [
+    "slow nature timelapse",
+    "misty forest",
+    "ocean waves",
+    "minimal movement",
+    "atmospheric light"
+  ],
+  "mood_words": [
+    "serene",
+    "meditative",
+    "ethereal",
+    "immersive"
+  ],
+  "target_personas": [
+    "ambient producers",
+    "meditation music creators",
+    "film score composers",
+    "sleep music artists"
+  ],
+  "color_accent": "#4A90D9",
+  "color_secondary": "#7EC8E3",
+  "has_custom_asset": false,
+  "demo_prompt": "Slow timelapse of misty mountain valley at dawn, atmospheric light rays through fog, minimal movement, ethereal and serene"
+}

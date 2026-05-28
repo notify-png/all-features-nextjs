@@ -1,0 +1,43 @@
+{
+  "h1": "Bring Your Animated Sound to Life with AI Music Video Creation",
+  "direct_answer": "An AI animated music video generator is a tool that automatically creates professional animated-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce creative visuals featuring real-time 2D animation generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished animated music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI animated music video generator to create creative Animated visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok...",
+  "prompts": [
+    "A creative scene with 2D animation and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in character animation, playful energy radiating through every frame and cut of the video",
+    "Abstract motion design morphing and flowing in slow motion, capturing the creative essence of the music perfectly",
+    "Close-up shots of 2D animation dissolving into frame-by-frame, creating a playful visual journey that follows the song's rhythm",
+    "Wide establishing shot of a imaginative environment with character animation in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between motion design and animated world, building tension with creative color grading and sharp motion graphics",
+    "A playful montage of frame-by-frame and 2D animation, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring animated world and character animation converging in a creative explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Indie artists need Animated music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Children's music creators use Animated music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Animated music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Animated music video aesthetics to create creative campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Animated music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Animated style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Animated music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Animated music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Animated music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Animated music video automatically."
+    },
+    {
+      "q": "Does Tunee's Animated music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Animated music videos from any device without installing software."
+    },
+    {
+      "q": "How do I customize the visual style of my Animated music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates 2D animation-inspired visuals that match your Animated aesthetic."
+    }
+  ]
+}

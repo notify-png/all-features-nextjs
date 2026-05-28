@@ -1,0 +1,43 @@
+{
+  "h1": "Transformez votre musique en vidéos EDM cinématiques avec l'IA",
+  "direct_answer": "Un générateur de vidéos musicales EDM par IA est un outil qui crée automatiquement des vidéos musicales professionnelles de style EDM à partir de votre audio ou de vos invites textuelles. La plateforme de Tunee utilise l'apprentissage automatique avancé pour produire des visuels euphoriques présentant des invites texte-vidéo et des visuels de foule de rave, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer d'une idée à une vidéo musicale EDM terminée en quelques minutes, sans aucune expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de vidéos musicales EDM par IA de Tunee pour créer des visuels EDM euphoriques instantanément. Aucune compétence en montage requise — exportez en 4K pour YouTube, TikTok et bien d'autres.",
+  "prompts": [
+    "Une scène euphorique avec foule de rave et mouvements de caméra panoramiques, baignée dans une lumière dramatique qui pulse au rythme",
+    "Artiste immergé dans une grille laser, une énergie haute intensité rayonnant dans chaque image et coupe de la vidéo",
+    "Cabine DJ abstraite se transformant et s'écoulant au ralenti, capturant parfaitement l'essence euphorique de la musique",
+    "Gros plans de foule de rave se dissolvant dans un visuel de bass drop, créant un parcours visuel haute énergie qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement pulsatile avec grille laser au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre cabine DJ et scène de festival, construisant la tension avec un étalonnage de couleurs euphoriques et des effets de mouvement sharp",
+    "Un montage haute énergie de visuels de bass drop et de foule de rave, en couches avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant scène de festival et grille laser convergeant dans une explosion euphorique de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les producteurs EDM ont besoin de vidéos musicales EDM pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les DJs de festival utilisent l'esthétique des vidéos musicales EDM pour construire une marque visuelle distinctive qui stimule l'engagement et attire des opportunités de collaboration.",
+    "labels": "Les labels discographiques s'appuient sur une production rapide et professionnelle de vidéos musicales EDM pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des vidéos musicales EDM pour créer un contenu de campagne euphorique qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale EDM sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère automatiquement toute la production vidéo. Il vous suffit de télécharger votre audio ou d'entrer une invite textuelle, de choisir un style EDM, et l'IA générera votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo musicale EDM ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés de foules de rave qui correspondent à votre esthétique EDM."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale EDM ?",
+      "a": "Tunee propose des options intégrées de superposition de paroles et de sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale EDM."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale EDM pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variantes de votre vidéo musicale EDM en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de vidéos musicales EDM de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur desktop et mobile, vous pouvez donc créer des vidéos musicales EDM depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

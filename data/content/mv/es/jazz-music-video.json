@@ -1,0 +1,43 @@
+{
+  "h1": "La forma más rápida de crear videoclips de Jazz con IA",
+  "direct_answer": "Un generador de videoclips de Jazz con IA es una herramienta que crea automáticamente videoclips profesionales de estilo Jazz a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales sofisticados con generación de clubes de Jazz en tiempo real y exportación de un clic, adaptados a la energía y estilo de tu pista. Con Tunee, puedes ir desde la idea hasta un videoclip de Jazz terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videoclips de Jazz con IA más fácil para artistas. Tunee genera visuales sofisticados de Jazz a partir de tu audio — pruébalo gratis hoy.",
+  "prompts": [
+    "Una escena sofisticada con club de Jazz humeante y movimientos de cámara barridos, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en solo de trompeta, energía melancólica irradiando a través de cada fotograma y corte del video",
+    "Estética vintage abstracta transformándose y fluyendo en cámara lenta, capturando la esencia sofisticada de la música perfectamente",
+    "Planos cerrados de club de Jazz humeante disolviéndose en iluminación de escenario tenue, creando un viaje visual melancólico que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno improvisacional con solo de trompeta en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre estética vintage y blanco y negro, construyendo tensión con gradación de color sofisticada y gráficos de movimiento agudo",
+    "Un montaje melancólico de iluminación de escenario tenue y club de Jazz humeante, superpuesto con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final que presenta blanco y negro y solo de trompeta convergiendo en una explosión sofisticada de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los músicos de Jazz necesitan videoclips de Jazz para definir visualmente su identidad artística, crecer su fanbase y destacarse en plataformas de streaming.",
+    "creators": "Los clubes de Jazz utilizan estéticas de videoclips de Jazz para construir una marca visual distintiva que impulse la participación y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas se basan en la producción rápida y profesional de videoclips de Jazz para promover nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estéticas de videoclips de Jazz para crear contenido de campañas sofisticado que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un videoclip de Jazz sin experiencia en edición de video?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo de Jazz y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi videoclip de Jazz?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y entornos. La IA de Tunee interpreta tu entrada y genera visuales inspirados en clubes de Jazz humeantes que coincidan con tu estética de Jazz."
+    },
+    {
+      "q": "¿Puedo usar el generador de videoclips de Jazz de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee pueden ser utilizados para propósitos comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con Jazz?",
+      "a": "Tunee es compatible con una amplia gama de géneros y estilos visuales más allá de Jazz. Puedes generar videoclips musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi videoclip de Jazz?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu videoclip de Jazz automáticamente."
+    }
+  ]
+}

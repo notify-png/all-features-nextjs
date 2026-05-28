@@ -1,0 +1,31 @@
+{
+  "slug": "vaporwave-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Vaporwave",
+  "genre_name_zh": "蒸汽波",
+  "keyword_en": "AI vaporwave music video generator",
+  "visual_keywords": [
+    "glitched aesthetics",
+    "classical bust statues",
+    "Windows 95 visuals",
+    "pink and teal palette",
+    "mall footage"
+  ],
+  "mood_words": [
+    "surreal",
+    "nostalgic",
+    "dreamy",
+    "ironic"
+  ],
+  "target_personas": [
+    "vaporwave artists",
+    "internet aesthetic creators",
+    "aesthetic music producers",
+    "lo-fi creators"
+  ],
+  "color_accent": "#FF71CE",
+  "color_secondary": "#01CDFE",
+  "has_custom_asset": false,
+  "demo_prompt": "Classical marble bust glitching in pink and teal digital void, retro computer screens, 90s mall aesthetic, slowed footage"
+}

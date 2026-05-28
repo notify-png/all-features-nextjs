@@ -1,0 +1,43 @@
+{
+  "h1": "Bring Your Lo-fi Sound to Life with AI Music Video Creation",
+  "direct_answer": "An AI lofi music video generator is a tool that automatically creates professional lo-fi-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce chill visuals featuring automated cozy room rendering and multi-style export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished lo-fi music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Lo-fi music videos with Tunee's AI lofi music video generator. Chill visuals, fast export, no experience required.",
+  "prompts": [
+    "A chill scene with cozy room and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in anime study scene, cozy energy radiating through every frame and cut of the video",
+    "Abstract rainy window morphing and flowing in slow motion, capturing the chill essence of the music perfectly",
+    "Close-up shots of cozy room dissolving into warm lamp glow, creating a cozy visual journey that follows the song's rhythm",
+    "Wide establishing shot of a nostalgic environment with anime study scene in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between rainy window and cassette tape, building tension with chill color grading and sharp motion graphics",
+    "A cozy montage of warm lamp glow and cozy room, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring cassette tape and anime study scene converging in a chill explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Lo-fi producers need Lo-fi music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Study music creators use Lo-fi music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Lo-fi music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Lo-fi music video aesthetics to create chill campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "How do I customize the visual style of my Lo-fi music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates cozy room-inspired visuals that match your Lo-fi aesthetic."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Lo-fi?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Lo-fi. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Lo-fi music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Lo-fi music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Lo-fi music video to compare?",
+      "a": "Yes. You can generate several variations of your Lo-fi music video using different prompts or style settings, then select the version that best fits your vision."
+    },
+    {
+      "q": "Does Tunee's Lo-fi music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Lo-fi music videos from any device without installing software."
+    }
+  ]
+}

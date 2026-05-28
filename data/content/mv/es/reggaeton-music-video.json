@@ -1,0 +1,43 @@
+{
+  "h1": "Genera Vídeos de Música Reggaeton Profesionales al Instante con IA",
+  "direct_answer": "Un generador de vídeos de música reggaeton con IA es una herramienta que crea automáticamente vídeos musicales de estilo reggaeton profesional a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales impactantes con generación en tiempo real de fiestas callejeras urbanas y exportación de un clic, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un vídeo de música reggaeton terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "El generador de vídeos de música reggaeton con IA más fácil para artistas. Tunee genera visuales reggaeton impactantes desde tu audio — pruébalo gratis hoy.",
+  "prompts": [
+    "Una escena impactante con fiesta callejera urbana y movimientos de cámara barridos, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en autos de lujo, energía de fiesta radiando en cada fotograma y corte del vídeo",
+    "Club en azotea abstracto morfing y fluyendo en cámara lenta, capturando la esencia impactante de la música perfectamente",
+    "Planos cercanos de fiesta callejera urbana disolviéndose en escena de noche latina, creando un viaje visual de fiesta que sigue el ritmo de la canción",
+    "Plano general establecido de un ambiente urbano con autos de lujo en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre club en azotea y perreo, construyendo tensión con color grading impactante y motion graphics afilados",
+    "Un montaje de fiesta de escena de noche latina y fiesta callejera urbana, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con perreo y autos de lujo convergiendo en una explosión impactante de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas de reggaeton necesitan vídeos de música reggaeton para definir visualmente su identidad artística, crecer su fanbase y destacarse en plataformas de streaming.",
+    "creators": "Los creadores de trap latino utilizan la estética de vídeos musicales reggaeton para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas se basan en la producción rápida y profesional de vídeos musicales reggaeton para promocionar nuevos lanzamientos de manera económica en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de vídeos musicales reggaeton para crear contenido de campaña impactante que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un vídeo de música reggaeton sin experiencia en edición de vídeo?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de vídeo automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo reggaeton y la IA genera tu vídeo en minutos."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi vídeo de música reggaeton?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en fiestas callejeras urbanas que coincidan con tu estética reggaeton."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo reggaeton?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá del reggaeton. Puedes generar vídeos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi vídeo de música reggaeton?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu vídeo de música reggaeton automáticamente."
+    },
+    {
+      "q": "¿Funciona el generador de vídeos de música reggaeton de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en móvil, para que puedas crear vídeos de música reggaeton desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "amapiano-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Amapiano",
+  "genre_name_zh": "阿马皮亚诺",
+  "keyword_en": "AI Amapiano music video generator",
+  "visual_keywords": [
+    "South African township",
+    "log drum close-up",
+    "yano dance",
+    "vibrant street culture",
+    "outdoor party"
+  ],
+  "mood_words": [
+    "soulful",
+    "rhythmic",
+    "joyful",
+    "cultural"
+  ],
+  "target_personas": [
+    "South African artists",
+    "Amapiano producers",
+    "African dance creators",
+    "global house music fans"
+  ],
+  "color_accent": "#FF6B35",
+  "color_secondary": "#FF8C61",
+  "has_custom_asset": false,
+  "demo_prompt": "Amapiano DJ performing at outdoor South African township party, log drum rhythms, energetic dancers, golden afternoon light"
+}

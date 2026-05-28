@@ -1,0 +1,31 @@
+{
+  "slug": "blues-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Blues",
+  "genre_name_zh": "蓝调",
+  "keyword_en": "AI blues music video generator",
+  "visual_keywords": [
+    "Mississippi delta",
+    "worn guitar strings",
+    "dimly lit bar",
+    "soul performer",
+    "aged sepia tones"
+  ],
+  "mood_words": [
+    "melancholic",
+    "soulful",
+    "raw",
+    "emotional"
+  ],
+  "target_personas": [
+    "blues guitarists",
+    "delta blues artists",
+    "roots music creators",
+    "Americana musicians"
+  ],
+  "color_accent": "#1F5F8B",
+  "color_secondary": "#2E86AB",
+  "has_custom_asset": false,
+  "demo_prompt": "Weathered blues guitarist performing in dimly lit Mississippi Delta juke joint, single overhead light, aged sepia tones"
+}

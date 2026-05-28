@@ -1,0 +1,43 @@
+{
+  "h1": "Transform Your Music into Cinematic EDM Videos Using AI",
+  "direct_answer": "An AI EDM music video generator is a tool that automatically creates professional edm-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce euphoric visuals featuring text-to-video prompts and rave crowd visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished edm music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI EDM music video generator to create euphoric EDM visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok, and more.",
+  "prompts": [
+    "A euphoric scene with rave crowd and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in laser grid, high-energy energy radiating through every frame and cut of the video",
+    "Abstract DJ booth morphing and flowing in slow motion, capturing the euphoric essence of the music perfectly",
+    "Close-up shots of rave crowd dissolving into bass drop visual, creating a high-energy visual journey that follows the song's rhythm",
+    "Wide establishing shot of a pulsating environment with laser grid in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between DJ booth and festival stage, building tension with euphoric color grading and sharp motion graphics",
+    "A high-energy montage of bass drop visual and rave crowd, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring festival stage and laser grid converging in a euphoric explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Edm producers need EDM music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Festival djs use EDM music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional EDM music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use EDM music video aesthetics to create euphoric campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a EDM music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a EDM style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "How do I customize the visual style of my EDM music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates rave crowd-inspired visuals that match your EDM aesthetic."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my EDM music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your EDM music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a EDM music video to compare?",
+      "a": "Yes. You can generate several variations of your EDM music video using different prompts or style settings, then select the version that best fits your vision."
+    },
+    {
+      "q": "Does Tunee's EDM music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create EDM music videos from any device without installing software."
+    }
+  ]
+}

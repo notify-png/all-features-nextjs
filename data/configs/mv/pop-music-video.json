@@ -1,0 +1,31 @@
+{
+  "slug": "pop-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Pop",
+  "genre_name_zh": "流行",
+  "keyword_en": "AI pop music video generator",
+  "visual_keywords": [
+    "bright studio",
+    "colorful backdrop",
+    "choreography",
+    "neon lights",
+    "glossy aesthetic"
+  ],
+  "mood_words": [
+    "upbeat",
+    "catchy",
+    "vibrant",
+    "commercial"
+  ],
+  "target_personas": [
+    "independent pop artists",
+    "label-signed singers",
+    "cover artists",
+    "social media musicians"
+  ],
+  "color_accent": "#FF6B9D",
+  "color_secondary": "#FF9EBB",
+  "has_custom_asset": false,
+  "demo_prompt": "Vibrant pop star on neon-lit stage, synchronized dance crew, confetti rain, glossy 4K aesthetic"
+}

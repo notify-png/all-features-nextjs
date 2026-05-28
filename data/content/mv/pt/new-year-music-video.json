@@ -1,0 +1,43 @@
+{
+  "h1": "Traga Seu Som de Ano Novo à Vida com Criação de Videoclipe por IA",
+  "direct_answer": "Um gerador de videoclipe de Ano Novo com IA é uma ferramenta que cria automaticamente videoclipes profissionais temáticos de Ano Novo a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais celebratórios com geração de fogos de artifício em tempo real e exportação de um clique, adaptados à energia e estilo da sua faixa. Com o Tunee, você pode ir de uma ideia para um videoclipe de Ano Novo acabado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "O gerador de videoclipe de Ano Novo com IA mais fácil para artistas. Tunee gera visuais celebratórios de Ano Novo a partir do seu áudio — teste gratuitamente hoje.",
+  "prompts": [
+    "Uma cena celebratória com exibição de fogos de artifício e movimentos de câmera abrangentes, banhada em iluminação dramática que pulsa com a batida",
+    "Cena de Ano Novo imersa em relógio de contagem regressiva, energia esperançosa irradiando por cada frame e corte do vídeo",
+    "Brinde com champanhe abstrato morphing e fluindo em câmera lenta, capturando perfeitamente a essência celebratória da música",
+    "Planos fechados de exibição de fogos de artifício se dissolvendo na energia da Times Square, criando uma jornada visual esperançosa que segue o ritmo da música",
+    "Plano de estabelecimento aberto de um ambiente emocionante com relógio de contagem regressiva em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre brinde com champanhe e celebração da meia-noite, construindo tensão com grading de cores celebratório e motion graphics afiados",
+    "Uma montagem esperançosa de energia da Times Square e exibição de fogos de artifício, em camadas com transições suaves e beats visuais combinando com o drop",
+    "Sequência final apresentando celebração da meia-noite e relógio de contagem regressiva convergindo em uma explosão celebratória de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas de festas de Ano Novo usam videoclipes de Ano Novo para comemorar momentos especiais e criar memórias visuais duradouras definidas pela trilha sonora perfeita.",
+    "creators": "Criadores de conteúdo de música de celebração produzem videoclipes de Ano Novo para contar histórias emocionais, crescer seu público e oferecer serviços de vídeo premium aos clientes.",
+    "labels": "Planejadores de eventos e videógrafos usam a IA do Tunee para entregar pacotes de vídeo de Ano Novo polidos mais rapidamente e por uma fração dos custos de produção tradicionais.",
+    "brands": "Marcas e anunciantes criam conteúdo temático de Ano Novo para se conectar com públicos durante momentos sazonais-chave e marcos emocionais."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe de Ano Novo sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee gerencia toda a produção de vídeo automaticamente. Basta enviar seu áudio ou inserir um prompt de texto, escolher um estilo de Ano Novo, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipe de Ano Novo do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com o Tunee podem ser usados para fins comerciais incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Ano Novo?",
+      "a": "O Tunee suporta uma ampla gama de gêneros e estilos visuais além de Ano Novo. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe de Ano Novo?",
+      "a": "O Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA as sincronizará ao seu videoclipe de Ano Novo automaticamente."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe de Ano Novo para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe de Ano Novo usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se encaixa na sua visão."
+    }
+  ]
+}

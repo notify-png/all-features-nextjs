@@ -1,0 +1,31 @@
+{
+  "slug": "ai-music-video-with-subtitles",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "With Subtitles",
+  "genre_name_zh": "带字幕",
+  "keyword_en": "AI music video with subtitles",
+  "visual_keywords": [
+    "caption overlay",
+    "auto-subtitles",
+    "multi-language text",
+    "accessibility design",
+    "styled captions"
+  ],
+  "mood_words": [
+    "accessible",
+    "clear",
+    "inclusive",
+    "international"
+  ],
+  "target_personas": [
+    "international artists",
+    "language learners",
+    "accessibility-focused creators",
+    "multilingual audiences"
+  ],
+  "color_accent": "#2C3E50",
+  "color_secondary": "#34495E",
+  "has_custom_asset": false,
+  "demo_prompt": "Music video with stylish animated subtitle captions, word-by-word highlight sync, clean readable font, accessibility design"
+}

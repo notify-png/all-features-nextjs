@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tu sonido Lo-fi con la creación de videos musicales con IA",
+  "direct_answer": "Un generador de videos musicales lofi con IA es una herramienta que crea automáticamente videos musicales de estilo lo-fi profesional a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales relajantes con renderizado automático de habitaciones acogedoras y exportación multiestilos, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un video musical lo-fi terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Crea videos musicales Lo-fi profesionales con el generador de videos musicales lofi con IA de Tunee. Visuales relajantes, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena relajante con habitación acogedora y movimientos de cámara amplios, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en una escena de estudio anime, energía acogedora irradiando a través de cada fotograma y corte del video",
+    "Ventana lluviosa abstracta transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia relajante de la música",
+    "Planos cerrados de habitación acogedora disolviéndose en el brillo cálido de una lámpara, creando un viaje visual acogedor que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno nostálgico con escena de estudio anime en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre ventana lluviosa y cinta de casete, construyendo tensión con coloración relajante y gráficos de movimiento nítidos",
+    "Un montaje acogedor de brillo cálido de lámpara y habitación acogedora, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final presentando cinta de casete y escena de estudio anime convergiendo en una explosión relajante de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los productores de lo-fi necesitan videos musicales lo-fi para definir visualmente su identidad artística, crecer su fanbase y destacarse en plataformas de streaming.",
+    "creators": "Los creadores de música de estudio utilizan la estética de videos musicales lo-fi para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales lo-fi para promover nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videos musicales lo-fi para crear contenido de campaña relajante que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical Lo-fi?",
+      "a": "Puedes guiar los visuales utilizando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en habitaciones acogedoras que coincidan con tu estética Lo-fi."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música o solo Lo-fi?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Lo-fi. Puedes generar videos musicales para pop, hip-hop, música clásica y decenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical Lo-fi?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video musical lo-fi automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical Lo-fi para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical lo-fi usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    },
+    {
+      "q": "¿Funciona el generador de videos musicales Lo-fi de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en dispositivos móviles, para que puedas crear videos musicales lo-fi desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "La forma más rápida de crear videos de música Rock con IA",
+  "direct_answer": "Un generador de videos de música Rock con IA es una herramienta que crea automáticamente videos de música profesionales con estilo Rock a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales intensos con indicaciones de texto a video y visuales de escenarios de conciertos, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un video de música Rock terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videos de música Rock con IA de Tunee convierte tu música en videos Rock impresionantes en minutos. Prueba gratis y exporta a cualquier plataforma.",
+  "prompts": [
+    "Una escena intensa con escenario de concierto y movimientos dinámicos de cámara, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en un primer plano de guitarra, energía poderosa irradiando a través de cada fotograma y corte del video",
+    "Multitud abstracta en slam metamorfoseándose y fluyendo en cámara lenta, capturando la esencia intensa de la música perfectamente",
+    "Primeros planos del escenario de concierto disolviéndose en iluminación dramática, creando un viaje visual poderoso que sigue el ritmo de la canción",
+    "Plano general de un ambiente rebelde con primer plano de guitarra en primer término, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre multitud en slam y efectos de humo, acumulando tensión con gradación de color intensa y gráficos de movimiento agudo",
+    "Un montaje poderoso de iluminación dramática y escenario de concierto, estratificado con transiciones suave y beats visuales que coinciden con el drop",
+    "Secuencia final con efectos de humo y primer plano de guitarra converging en una explosión intensa de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Las bandas de Rock necesitan videos de música Rock para definir visualmente su identidad artística, crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los guitarristas utilizan estéticas de videos de música Rock para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas confían en la producción rápida y profesional de videos de música Rock para promover nuevos lanzamientos de forma económica en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estéticas de videos de música Rock para crear contenido de campaña intenso que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video de música Rock sin experiencia en edición de video?",
+      "a": "Sí — Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo Rock y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con Rock?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá de Rock. Puedes generar videos de música para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video de música Rock?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video de música Rock automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video de música Rock para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video de música Rock usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    },
+    {
+      "q": "¿El generador de videos de música Rock de Tunee funciona en dispositivos móviles?",
+      "a": "Tunee es totalmente accesible a través del navegador web en computadora de escritorio y móvil, así que puedes crear videos de música Rock desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

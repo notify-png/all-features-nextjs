@@ -1,0 +1,43 @@
+{
+  "h1": "Produisez des vidéos musicales Instagram Reels de haute qualité avec la technologie IA",
+  "direct_answer": "Une vidéo musicale IA pour Instagram Reels est un outil qui crée automatiquement des vidéos musicales professionnelles au style Instagram Reels à partir de vos fichiers audio ou demandes textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels esthétiques avec des demandes texte-vidéo et des visuels au style Instagram, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale Instagram Reels terminée en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Tunee transforme votre musique en superbes vidéos Instagram Reels en quelques minutes grâce à l'IA. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène esthétique avec style Instagram et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme du beat",
+    "Plan rapproché vertical immergé dans un filtre chaud, énergie aspirationnelle rayonnant à travers chaque image et coupe vidéo",
+    "Narration visuelle abstraite se transformant et s'écoulant au ralenti, capturant parfaitement l'essence esthétique de la musique",
+    "Plans rapprochés au style Instagram se dissolvant dans un partage feed-to-Reels, créant un voyage visuel aspirationnel qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement visuel avec filtre chaud au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre narration visuelle et look de marque, construisant la tension avec un étalonnage des couleurs esthétique et des motion graphics nets",
+    "Un montage aspirationnel de partage feed-to-Reels et style Instagram, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale mettant en vedette le look de marque et le filtre chaud convergeant dans une explosion esthétique de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent Instagram Reels pour maximiser leur portée sur la plateforme, en s'assurant que leur contenu respecte les exigences de format et capte l'attention instantanément.",
+    "creators": "Les artistes Instagram comptent sur un contenu Instagram Reels parfaitement formaté pour augmenter la visibilité algorithmique et développer leur audience à chaque mise en ligne.",
+    "labels": "Les maisons de disques produisent en lot des vidéos Instagram Reels optimisées pour les plateformes destinées à l'ensemble de leur roster, réduisant les délais de quelques semaines à quelques heures.",
+    "brands": "Les marques menant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire des annonces vidéo Instagram Reels accrocheurs à grande échelle."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale Instagram Reels sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il vous suffit de télécharger votre audio ou d'entrer une demande texte, de choisir un style Instagram Reels, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo musicale Instagram Reels ?",
+      "a": "Vous pouvez guider les visuels en utilisant des demandes texte décrivant des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés de l'esthétique Instagram qui correspondent à votre style Instagram Reels."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéos musicales Instagram Reels de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties en streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale Instagram Reels ?",
+      "a": "Tunee offre des options de superposition intégrées pour les paroles et les sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale Instagram Reels."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale Instagram Reels à comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variantes de votre vidéo musicale Instagram Reels en utilisant différentes demandes ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Dê Vida ao Seu Som House com Criação de Videoclipes com IA",
+  "direct_answer": "Um gerador de videoclipes House com IA é uma ferramenta que cria automaticamente videoclipes profissionais no estilo House a partir de seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais envolventes com prompts de texto para vídeo e visuais de clube underground, personalizados de acordo com a energia e o estilo da sua faixa. Com Tunee, você vai de uma ideia para um videoclipe House finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "O gerador de videoclipes House com IA mais fácil para artistas. Tunee gera visuais House envolventes a partir do seu áudio — teste gratuitamente hoje.",
+  "prompts": [
+    "Uma cena envolvente com clube underground e movimentos dinâmicos de câmera, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em rave warehouse, energia groovy irradiando através de cada frame e corte do vídeo",
+    "Bola de discoteca abstrata se transformando e fluindo em câmera lenta, capturando perfeitamente a essência envolvente da música",
+    "Planos próximos de clube underground se dissolvendo em multidão dançante, criando uma jornada visual groovy que segue o ritmo da música",
+    "Plano geral de estabelecimento de um ambiente underground com rave warehouse em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre bola de discoteca e close-up de DJ set, construindo tensão com cor envolvente e motion graphics afiados",
+    "Uma montagem groovy de multidão dançante e clube underground, em camadas com transições suaves e beats visuais que acompanham o drop",
+    "Sequência final apresentando close-up de DJ set e rave warehouse convergindo em uma explosão envolvente de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "DJs de House precisam de videoclipes House para definir visualmente sua identidade artística, crescer sua fanbase e se destacar em plataformas de streaming.",
+    "creators": "Produtores de música de clube usam a estética de videoclipes House para construir uma marca visual distintiva que impulsiona o engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes House para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam a estética de videoclipes House para criar conteúdo de campanhas envolventes que ressoam emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe House sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Apenas faça upload do seu áudio ou insira um prompt de texto, escolha um estilo House, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Como personalizar o estilo visual do meu videoclipe House?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA do Tunee interpreta seu input e gera visuais inspirados em clube underground que combinam com sua estética House."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe House?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe House."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe House para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe House usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    },
+    {
+      "q": "O gerador de videoclipes House do Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes House de qualquer dispositivo sem instalar software."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "drill-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Drill",
+  "genre_name_zh": "Drill",
+  "keyword_en": "AI drill music video generator",
+  "visual_keywords": [
+    "urban estate",
+    "balaclava aesthetic",
+    "knife-edge cuts",
+    "CCTV footage style",
+    "gritty grey palette"
+  ],
+  "mood_words": [
+    "menacing",
+    "gritty",
+    "raw",
+    "street"
+  ],
+  "target_personas": [
+    "UK drill artists",
+    "Chicago drill rappers",
+    "underground hip hop creators",
+    "street music makers"
+  ],
+  "color_accent": "#2E2E2E",
+  "color_secondary": "#4A4A4A",
+  "has_custom_asset": false,
+  "demo_prompt": "Drill rapper on urban estate at dusk, harsh shadows, grainy CCTV-style footage, gritty authentic street aesthetic"
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Make Beautiful Fantasy Music Videos Effortlessly with Tunee AI",
+  "direct_answer": "An AI fantasy music video generator is a tool that automatically creates professional fantasy-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce epic visuals featuring automated dragon flight rendering and multi-style export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished fantasy music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Fantasy music videos with Tunee's AI fantasy music video generator. Epic visuals, fast export, no experience required.",
+  "prompts": [
+    "A epic scene with dragon flight and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in magical forest, magical energy radiating through every frame and cut of the video",
+    "Abstract spell casting morphing and flowing in slow motion, capturing the epic essence of the music perfectly",
+    "Close-up shots of dragon flight dissolving into epic castle, creating a magical visual journey that follows the song's rhythm",
+    "Wide establishing shot of a adventurous environment with magical forest in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between spell casting and glowing runes, building tension with epic color grading and sharp motion graphics",
+    "A magical montage of epic castle and dragon flight, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring glowing runes and magical forest converging in a epic explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Fantasy music composers need Fantasy music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Epic soundtrack creators use Fantasy music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Fantasy music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Fantasy music video aesthetics to create epic campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Does it support exporting Fantasy music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Fantasy music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Fantasy music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates dragon flight-inspired visuals that match your Fantasy aesthetic."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Fantasy?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Fantasy. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Fantasy music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Fantasy music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Fantasy music video to compare?",
+      "a": "Yes. You can generate several variations of your Fantasy music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

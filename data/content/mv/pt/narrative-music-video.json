@@ -1,0 +1,43 @@
+{
+  "h1": "Crie Videoclipes de Música Narrativa Lindos Sem Esforço com Tunee AI",
+  "direct_answer": "Um videoclipe de música narrativa com IA é uma ferramenta que cria automaticamente videoclipes profissionais em estilo narrativo a partir de seus prompts de áudio ou texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais narrativos com renderização automática de arco narrativo e exportação multi-estilo, adaptados à energia e estilo da sua faixa. Com Tunee, você sai da ideia para um videoclipe de música narrativa acabado em minutos, sem nenhuma experiência em edição de vídeo necessária.",
+  "meta_description": "Crie videoclipes profissionais de música Narrativa com o videoclipe de música narrativa com IA da Tunee. Visuais narrativos, exportação rápida, nenhuma experiência necessária.",
+  "prompts": [
+    "Uma cena narrativa com arco narrativo e movimentos dinâmicos de câmera, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso no desenvolvimento de personagem, energia emocional irradiando através de cada frame e corte do vídeo",
+    "Cenas emocionais abstratas se transformando e fluindo em câmera lenta, capturando a essência narrativa da música perfeitamente",
+    "Planos fechados do arco narrativo se dissolvendo em cortes cinematográficos, criando uma jornada visual emocional que segue o ritmo da música",
+    "Plano geral amplo de um ambiente cinematográfico com desenvolvimento de personagem em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre cenas emocionais e clímax dramático, construindo tensão com gradação de cores narrativa e motion graphics afiados",
+    "Uma montagem emocional de cortes cinematográficos e arco narrativo, em camadas com transições suaves e beats visuais combinando com o drop",
+    "Sequência final apresentando clímax dramático e desenvolvimento de personagem convergindo em uma explosão narrativa de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Cantores e compositores precisam de videoclipes de música narrativa para definir visualmente sua identidade artística, expandir sua base de fãs e se destacar nas plataformas de streaming.",
+    "creators": "Artistas de álbuns conceituais usam a estética de videoclipes de música narrativa para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "As gravadoras confiam na produção rápida e profissional de videoclipes de música narrativa para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam a estética de videoclipes de música narrativa para criar conteúdo de campanha narrativo que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe de música narrativa sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — A IA do Tunee gerencia toda a produção de vídeo automaticamente. Apenas envie seu áudio ou insira um prompt de texto, escolha um estilo Narrativo, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Ele suporta exportação de videoclipes de música narrativa em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes de música narrativa em até resolução 4K, deixando-os prontos para YouTube, plataformas de streaming e displays de tela grande."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe de música narrativa?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, humores e configurações. A IA do Tunee interpreta sua entrada e gera visuais inspirados em arco narrativo que combinam com sua estética narrativa."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe de música narrativa?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras, escolha um estilo de texto, e a IA as sincronizará ao seu videoclipe de música narrativa automaticamente."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe de música narrativa para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe de música narrativa usando prompts diferentes ou configurações de estilo, então selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Le moyen le plus rapide de créer des vidéoclips texte en MV avec l'IA",
+  "direct_answer": "Un générateur de vidéoclips texte en MV par IA est un outil qui crée automatiquement des vidéoclips professionnels de style texte en MV à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels créatifs avec génération d'invites en temps réel et export en un clic, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à une vidéoclip texte en MV terminée en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de vidéoclips texte en MV par IA le plus simple pour les artistes. Tunee génère des visuels créatifs texte en MV à partir de votre audio — essayez gratuitement dès aujourd'hui.",
+  "prompts": [
+    "Une scène créative avec entrée d'invite et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans la description de scène, énergie guidée par l'invite rayonnant à travers chaque plan et coupe de la vidéo",
+    "Langage naturel abstrait se transformant et s'écoulant au ralenti, capturant parfaitement l'essence créative de la musique",
+    "Plans rapprochés d'entrée d'invite se dissolvant en invite textuelle, créant un voyage visuel guidé par l'invite qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement dynamique avec description de scène au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre langage naturel et génération par IA, construisant la tension avec gradation de couleur créative et graphiques en mouvement nets",
+    "Un montage guidé par l'invite de invite textuelle et d'entrée d'invite, superposé de transitions fluides et de rythmes visuels correspondant à la chute",
+    "Séquence finale mettant en vedette la génération par IA et la description de scène convergeant dans une explosion créative de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens utilisent ce workflow texte en MV pour transformer rapidement des ressources brutes — photos, paroles ou audio — en vidéoclips soignés sans avoir besoin d'une équipe de production.",
+    "creators": "Les créateurs de contenu exploitent le pipeline texte en MV pour automatiser les tâches répétitives de production vidéo et consacrer plus de temps à la direction créative.",
+    "labels": "Les maisons de disques intègrent ce workflow texte en MV dans leur processus de sortie pour produire du contenu visuel de haute qualité pour chaque single et piste d'album.",
+    "brands": "Les équipes marketing utilisent le workflow texte en MV pour convertir les ressources de marque existantes en contenu vidéo attrayant axé sur la musique pour les campagnes."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéoclip texte en MV sans aucune expérience en montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez une invite textuelle, choisissez un style texte en MV, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'export de vidéoclips texte en MV en résolution 4K?",
+      "a": "Absolument. Tunee exporte les vidéoclips texte en MV jusqu'à une résolution 4K, les rendant prêts pour YouTube, les plateformes de streaming et les grands écrans."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéoclips texte en MV de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties en streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement texte en MV?",
+      "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà du texte en MV. Vous pouvez générer des vidéoclips pour pop, hip-hop, musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Le générateur de vidéoclips texte en MV de Tunee fonctionne-t-il sur les appareils mobiles?",
+      "a": "Tunee est entièrement accessible via navigateur web sur les appareils de bureau et mobiles, vous pouvez donc créer des vidéoclips texte en MV depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

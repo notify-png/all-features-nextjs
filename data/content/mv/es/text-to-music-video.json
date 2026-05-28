@@ -1,0 +1,43 @@
+{
+  "h1": "La forma más rápida de crear videos musicales Text to MV con IA",
+  "direct_answer": "Un Text to music video AI es una herramienta que crea automáticamente videos musicales profesionales de estilo text to mv a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales creativos con generación de entrada de indicaciones en tiempo real y exportación de un clic, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un video musical text to mv terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "La IA Text to music video más sencilla para artistas. Tunee genera visuales Text to MV creativos a partir de tu audio — prueba gratis hoy.",
+  "prompts": [
+    "Una escena creativa con entrada de indicaciones y movimientos de cámara amplios, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en descripción de escena, energía impulsada por indicaciones radiando a través de cada fotograma y corte del video",
+    "Lenguaje natural abstracto transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia creativa de la música",
+    "Tomas cercanas de entrada de indicaciones disolviéndose en indicación de texto, creando un viaje visual impulsado por indicaciones que sigue el ritmo de la canción",
+    "Toma establecida amplia de un entorno dinámico con descripción de escena en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre lenguaje natural y generación de IA, construyendo tensión con gradación de color creativa y gráficos de movimiento agudo",
+    "Un montaje impulsado por indicaciones de indicación de texto y entrada de indicaciones, estratificado con transiciones suaves y ritmos visuales que coinciden con la caída",
+    "Secuencia final que presenta generación de IA y descripción de escena convergiendo en una explosión creativa de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los músicos utilizan este flujo de trabajo Text to MV para convertir rápidamente activos sin procesar —fotos, letras o audio— en videos musicales pulidos sin necesidad de un equipo de producción.",
+    "creators": "Los creadores de contenido aprovechan el flujo de trabajo Text to MV para automatizar tareas repetitivas de producción de video y enfocarse más en la dirección creativa.",
+    "labels": "Las discográficas integran este flujo de trabajo Text to MV en su proceso de lanzamiento para producir contenido visual de alta calidad para cada sencillo y tema de álbum.",
+    "brands": "Los equipos de marketing utilizan el flujo de trabajo Text to MV para convertir activos de marca existentes en contenido de video impulsado por música atractivo para campañas."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical Text to MV sin experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo Text to MV, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite la exportación de videos musicales Text to MV en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales Text to MV en resolución de hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Puedo usar el generador de videos musicales Text to MV de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee se pueden utilizar con fines comerciales, incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo Text to MV?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Text to MV. Puedes generar videos musicales para pop, hip-hop, música clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Funciona el generador de videos musicales Text to MV de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web tanto en desktop como en dispositivos móviles, por lo que puedes crear videos musicales Text to MV desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Transforma tu Música en Vídeos Folk Cinemáticos con IA",
+  "direct_answer": "Un generador de vídeos de música folk con IA es una herramienta que crea automáticamente vídeos de música folk profesionales a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales íntimos con indicaciones de texto a vídeo y visuales de bosque, adaptados a la energía y estilo de tu canción. Con Tunee, puedes pasar de una idea a un vídeo de música folk terminado en minutos, sin requerir experiencia en edición de vídeo.",
+  "meta_description": "Crea vídeos profesionales de música Folk con el generador de vídeos Folk con IA de Tunee. Visuales íntimos, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena íntima con bosque y movimientos de cámara amplios, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en instrumentos acústicos, energía narrativa radiando en cada fotograma y corte del vídeo",
+    "Reunión abstracta alrededor de una hoguera transformándose y fluyendo en cámara lenta, capturando la esencia íntima de la música perfectamente",
+    "Planos detallados del bosque disolviéndose en texturas naturales, creando un viaje visual narrativo que sigue el ritmo de la canción",
+    "Plano general amplio de un ambiente cálido con instrumentos acústicos en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre la reunión de hoguera y tonos terrosos, construyendo tensión con color grading íntimo y motion graphics nítidos",
+    "Un montaje narrativo de texturas naturales y bosque, superpuesto con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con tonos terrosos e instrumentos acústicos convergiendo en una explosión íntima de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los cantantes de Folk necesitan vídeos de música Folk para definir visualmente su identidad artística, hacer crecer su base de fans y destacar en plataformas de streaming.",
+    "creators": "Los artistas acústicos utilizan la estética de vídeos de música Folk para construir una marca visual distintiva que impulsa el engagement y atrae oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de vídeos de música Folk para promover nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de vídeos de música Folk para crear contenido de campaña íntimo que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Soporta la exportación de vídeos de música Folk en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos de música Folk en resolución 4K, lo que los deja listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi vídeo de música Folk?",
+      "a": "Puedes guiar los visuales utilizando indicaciones de texto que describan escenas, estados de ánimo y ambientes. La IA de Tunee interpreta tu entrada y genera visuales inspirados en bosques que coincidan con tu estética Folk."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo Folk?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá del Folk. Puedes generar vídeos musicales para pop, hip-hop, música clásica y decenas de otros estilos utilizando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo añado letras o subtítulos a mi vídeo de música Folk?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu vídeo de música Folk automáticamente."
+    },
+    {
+      "q": "¿Funciona el generador de vídeos de música Folk de Tunee en dispositivos móviles?",
+      "a": "Tunee es totalmente accesible a través del navegador web en ordenadores de escritorio y dispositivos móviles, para que puedas crear vídeos de música Folk desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Créez des clips musicaux K-pop magnifiques sans effort avec Tunee AI",
+  "direct_answer": "Un générateur de clips musicaux K-pop alimenté par l'IA est un outil qui crée automatiquement des clips musicaux professionnels de style K-pop à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels soignés mettant en vedette des invites texte-vidéo et des visuels de chorégraphie de groupes d'idoles, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à un clip musicaux K-pop fini en quelques minutes, sans aucune expérience d'édition vidéo requise.",
+  "meta_description": "Créez des clips musicaux K-pop professionnels avec le générateur de clips musicaux K-pop alimenté par l'IA de Tunee. Visuels soignés, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène soignée avec chorégraphie de groupe d'idoles et mouvements de caméra panoramiques, baignée dans un éclairage dramatique qui pulse au rythme de la musique",
+    "Artiste immergé dans une conception d'ensemble pastel, une énergie joyeuse rayonnant à travers chaque plan et coupe de la vidéo",
+    "Mode stylisée abstraite se transformant et s'écoulant au ralenti, capturant parfaitement l'essence soignée de la musique",
+    "Gros plans de chorégraphie de groupe d'idoles se dissolvant en gros plans de membres d'idoles, créant un parcours visuel joyeux qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement dynamique avec conception d'ensemble pastel au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre la mode stylisée et la danse synchronisée, créant de la tension avec un étalonnage des couleurs soigné et des graphiques de mouvement nets",
+    "Un montage joyeux de gros plans de membres d'idoles et de chorégraphie de groupe d'idoles, stratifié avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant la danse synchronisée et la conception d'ensemble pastel convergeant en une explosion soignée de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les producteurs K-pop ont besoin de clips musicaux K-pop pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les créateurs de groupes d'idoles utilisent l'esthétique des clips musicaux K-pop pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques dépendent d'une production rapide et professionnelle de clips musicaux K-pop pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des clips musicaux K-pop pour créer du contenu de campagne soigné qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un clip musical K-pop sans aucune expérience d'édition vidéo ?",
+      "a": "Oui — L'IA de Tunee gère automatiquement toute la production vidéo. Il vous suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style K-pop, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'export de clips musicaux K-pop en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les clips musicaux K-pop en résolution jusqu'à 4K, les rendant prêts pour YouTube, les plateformes de streaming et les grands écrans."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de mon clip musical K-pop ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites texte qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par la chorégraphie de groupes d'idoles qui correspondent à votre esthétique K-pop."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de clips musicaux K-pop de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu des médias sociaux."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip musical K-pop pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variantes de votre clip musical K-pop en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

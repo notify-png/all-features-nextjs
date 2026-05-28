@@ -1,0 +1,43 @@
+{
+  "h1": "Le moyen le plus rapide de créer des clips musicaux de diaporama avec l'IA",
+  "direct_answer": "Un clip musical photo de diaporama IA est un outil qui crée automatiquement des clips musicaux de style diaporama professionnel à partir de vos invites audio ou texte. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels émouvants avec génération de transitions photo en temps réel et exportation en un clic, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à un clip musical de diaporama terminé en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Créez des clips musicaux de diaporama professionnels avec le générateur de diaporama photo musical IA de Tunee. Visuels émouvants, exportation rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène émouvante avec des transitions photo et des mouvements de caméra amples, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans l'effet Ken Burns, une énergie nostalgique irradiant chaque image et coupe de la vidéo",
+    "Des photos abstraites nostalgiques se transformant et s'écoulant au ralenti, capturant parfaitement l'essence émouvante de la musique",
+    "Plans rapprochés de transitions photo se dissolvant en montage souvenir, créant un voyage visuel nostalgique qui suit le rythme de la chanson",
+    "Plan large d'un environnement chaleureux avec effet Ken Burns au premier plan, évoquant une résonance émotionnelle profonde",
+    "Montages dynamiques entre des photos nostalgiques et un design émouvant, créant de la tension avec un étalonnage des couleurs sentimental et des graphiques en mouvement nets",
+    "Un montage nostalgique de montage de souvenirs et de transitions photo, superposé avec des transitions fluides et des beats visuels correspondant à la descente",
+    "Séquence finale présentant un design sentimental et un effet Ken Burns convergeant dans une explosion émouvante de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens utilisent ce workflow Diaporama pour transformer rapidement les éléments bruts — photos, paroles ou audio — en clips musicaux polis sans avoir besoin d'équipe de production.",
+    "creators": "Les créateurs de contenu exploitent le pipeline Diaporama pour automatiser les tâches répétitives de production vidéo et consacrer plus de temps à la direction créative.",
+    "labels": "Les maisons de disques intègrent ce workflow Diaporama dans leur processus de sortie pour produire du contenu visuel de haute qualité pour chaque single et piste d'album.",
+    "brands": "Les équipes marketing utilisent le workflow Diaporama pour convertir les éléments de marque existants en contenu vidéo engageant basé sur la musique pour les campagnes."
+  },
+  "faqs": [
+    {
+      "q": "Supporte-t-il l'export de clips musicaux de diaporama en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les clips musicaux de diaporama jusqu'en résolution 4K, ce qui les rend prêts pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de clip musical Diaporama de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties en streaming, les campagnes de marque et le contenu des médias sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou uniquement Diaporama ?",
+      "a": "Tunee prend en charge une large gamme de genres et de styles visuels au-delà du Diaporama. Vous pouvez générer des clips musicaux pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip musical de diaporama pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre clip musical de diaporama en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de clip musical Diaporama de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous pouvez donc créer des clips musicaux de diaporama depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Gere Videoclipes de Metal Profissionais Instantaneamente com IA",
+  "direct_answer": "Um gerador de videoclipes de metal com IA é uma ferramenta que cria automaticamente videoclipes de metal profissionais a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais brutais com renderização de palco escuro automatizada e exportação multi-estilo, adaptados à energia e estilo da sua faixa. Com Tunee, você pode ir de uma ideia a um videoclipe de metal acabado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipes de metal com IA da Tunee para criar visuais de Metal brutais instantaneamente. Sem habilidades de edição necessárias — exporte em 4K para YouTube, TikTok e muito mais.",
+  "prompts": [
+    "Uma cena brutal com palco escuro e movimentos de câmera varrendo, imersa em iluminação dramática que pulsa com a batida",
+    "Artista imerso em uma multidão headbanging, energia intensa irradiando através de cada frame e corte do vídeo",
+    "Shred de guitarra abstrato se transformando e fluindo em câmera lenta, capturando perfeitamente a essência brutal da música",
+    "Planos fechados de palco escuro se dissolvendo em neblina dramática, criando uma jornada visual intensa que segue o ritmo da música",
+    "Plano aberto estabelecendo um ambiente escuro com multidão headbanging em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre shred de guitarra e imagética de caveira, construindo tensão com grade de cores brutal e motion graphics afiados",
+    "Uma montagem intensa de neblina dramática e palco escuro, em camadas com transições suaves e batidas visuais combinando com o drop",
+    "Sequência final apresentando imagética de caveira e multidão headbanging convergindo em uma explosão brutal de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Bandas de Metal precisam de videoclipes de Metal para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Artistas de metal pesado usam estéticas de videoclipes de Metal para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes de Metal para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de videoclipes de Metal para criar conteúdo de campanha brutal que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Suporta exportar videoclipes de Metal em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes de Metal em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e displays de grande tela."
+    },
+    {
+      "q": "Como faço para personalizar o estilo visual do meu videoclipe de Metal?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, humores e configurações. A IA da Tunee interpreta sua entrada e gera visuais inspirados em palco escuro que correspondem à sua estética de Metal."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipes de Metal da Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marcas e conteúdo de redes sociais."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Metal?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Metal. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe de Metal para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe de Metal usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se encaixa em sua visão."
+    }
+  ]
+}

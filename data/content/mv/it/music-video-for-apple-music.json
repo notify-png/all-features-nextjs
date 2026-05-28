@@ -1,0 +1,43 @@
+{
+  "h1": "Produci Video Musicali di Alta Qualità per Apple Music con Tecnologia AI",
+  "direct_answer": "Un video musicale AI per Apple Music è uno strumento che crea automaticamente video musicali professionali nello stile di Apple Music a partire da prompt audio o testuali. La piattaforma di Tunee utilizza machine learning avanzato per produrre elementi visivi premium con prompt da testo a video e visivi di qualità superiore, personalizzati in base all'energia e allo stile della tua traccia. Con Tunee, puoi passare dall'idea a un video musicale per Apple Music finito in pochi minuti, senza alcuna esperienza di editing video.",
+  "meta_description": "Tunee trasforma la tua musica in straordinari video per Apple Music in pochi minuti. Prova gratuitamente ed esporta su qualsiasi piattaforma.",
+  "prompts": [
+    "Una scena premium con qualità superiore e movimenti di telecamera ampi, immersa in un'illuminazione drammatica che pulsa con il ritmo",
+    "Primo piano verticale immerso nell'integrazione della copertina dell'album, energia lucida che irradia attraverso ogni fotogramma e taglio del video",
+    "Morfismi astratti in formato 16:9 widescreen che scorrono in slow motion, catturando perfettamente l'essenza premium della musica",
+    "Primi piani di qualità premium che si dissolvono in uno stile visivo editoriale, creando un percorso visivo raffinato che segue il ritmo della canzone",
+    "Inquadratura di apertura ampia di un ambiente editoriale con integrazione della copertina dell'album in primo piano, evocando una profonda risonanza emotiva",
+    "Tagli dinamici tra formato 16:9 widescreen e produzione di alto valore, costruendo tensione con color grading premium e motion graphics nitidi",
+    "Un montaggio raffinato di stile visivo editoriale e qualità premium, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale caratterizzata da valore di produzione elevato e integrazione della copertina dell'album che convergono in un'esplosione premium di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I musicisti indipendenti utilizzano Apple Music per massimizzare la portata sulla piattaforma, garantendo che i loro contenuti soddisfino i requisiti di formato e catturino l'attenzione istantaneamente.",
+    "creators": "Gli artisti distribuiti da etichette si affidano a contenuti Apple Music perfettamente formattati per aumentare la visibilità algoritmica e far crescere il loro seguito con ogni caricamento.",
+    "labels": "Le case discografiche producono in batch video Apple Music ottimizzati per la piattaforma per l'intero roster, riducendo i tempi di consegna da settimane a ore.",
+    "brands": "I brand che gestiscono campagne a pagamento e organiche su questa piattaforma utilizzano Tunee per produrre annunci video per Apple Music che catturano l'attenzione su larga scala."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale per Apple Music senza alcuna esperienza di editing video?",
+      "a": "Sì — Tunee gestisce automaticamente tutta la produzione video. Carica semplicemente il tuo audio o inserisci un prompt testuale, scegli uno stile Apple Music, e l'AI genererà il tuo video in pochi minuti."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali Apple Music in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali Apple Music fino a risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e schermi grandi."
+    },
+    {
+      "q": "Come posso personalizzare lo stile visivo del mio video musicale per Apple Music?",
+      "a": "Puoi guidare gli elementi visivi utilizzando prompt testuali che descrivono scene, atmosfere e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visivi di qualità premium che corrispondono alla tua estetica Apple Music."
+    },
+    {
+      "q": "Posso utilizzare il generatore di video musicali Apple Music di Tunee per progetti commerciali?",
+      "a": "Sì. I video creati con Tunee possono essere utilizzati per scopi commerciali, inclusi i rilasci su streaming, campagne di brand e contenuti social media."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale per Apple Music?",
+      "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi, scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale Apple Music."
+    }
+  ]
+}

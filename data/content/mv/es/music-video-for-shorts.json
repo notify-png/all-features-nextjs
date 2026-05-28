@@ -1,0 +1,43 @@
+{
+  "h1": "Crea videos musicales impresionantes para YouTube Shorts con IA en minutos",
+  "direct_answer": "Un video musical de IA para YouTube Shorts es una herramienta que crea automáticamente videos musicales de estilo YouTube Shorts profesionales a partir de tus prompts de audio o texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales rápidos con prompts de texto a video y visuales en formato de 60 segundos, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un video musical completamente terminado para YouTube Shorts en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa la IA de Tunee para crear videos musicales de YouTube Shorts para generar visuales rápidos de YouTube Shorts al instante. Sin habilidades de edición necesarias — exporta en 4K para YouTube, TikTok...",
+  "prompts": [
+    "Una escena rápida con formato de 60 segundos y movimientos de cámara barridos, bañada en iluminación dramática que pulsa con el ritmo",
+    "Plano de primer plano vertical inmerso en 9:16 vertical, energía punzante irradiando a través de cada fotograma y corte del video",
+    "Loop abstracto de Shorts transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia rápida de la música",
+    "Planos de primer plano en formato de 60 segundos disolviéndose en una tarjeta de título audaz, creando un viaje visual punzante que sigue el ritmo de la canción",
+    "Plano amplio de establecimiento de un entorno repetible con 9:16 vertical en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre loop de Shorts y bumper de suscripción, construyendo tensión con clasificación de color rápida y motion graphics afilados",
+    "Un montaje punzante de tarjeta de título audaz y formato de 60 segundos, estratificado con transiciones suaves y golpes visuales que coinciden con el drop",
+    "Secuencia final que presenta bumper de suscripción y 9:16 vertical convergiendo en una explosión rápida de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los músicos independientes utilizan YouTube Shorts para maximizar el alcance en la plataforma, asegurándose de que su contenido cumpla con los requisitos de formato y capture la atención al instante.",
+    "creators": "Los creadores orientados a Shorts confían en contenido de YouTube Shorts perfectamente formateado para impulsar la visibilidad algorítmica y crecer su audiencia con cada subida.",
+    "labels": "Las discográficas producen en lote videos de YouTube Shorts optimizados para plataforma para todo su catálogo, reduciendo el tiempo de entrega de semanas a horas.",
+    "brands": "Las marcas que ejecutan campañas pagadas y orgánicas en esta plataforma utilizan Tunee para producir anuncios de videos de YouTube Shorts que detienen el scroll a escala."
+  },
+  "faqs": [
+    {
+      "q": "¿Admite la exportación de videos musicales de YouTube Shorts en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales de YouTube Shorts en resolución de hasta 4K, listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical de YouTube Shorts?",
+      "a": "Puedes guiar los visuales usando prompts de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en formato de 60 segundos que coincidan con tu estética de YouTube Shorts."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con YouTube Shorts?",
+      "a": "Tunee admite una amplia variedad de géneros y estilos visuales más allá de YouTube Shorts. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical de YouTube Shorts?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu video musical de YouTube Shorts automáticamente."
+    },
+    {
+      "q": "¿Funciona el generador de videos musicales de YouTube Shorts de Tunee en dispositivos móviles?",
+      "a": "Tunee es totalmente accesible a través del navegador web en computadoras de escritorio y dispositivos móviles, por lo que puedes crear videos musicales de YouTube Shorts desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

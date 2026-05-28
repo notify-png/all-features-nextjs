@@ -1,0 +1,43 @@
+{
+  "h1": "Crie Videoclipes Musicais Minimalistas Lindos sem Esforço com Tunee AI",
+  "direct_answer": "Um gerador de videoclipes minimalistas com IA é uma ferramenta que cria automaticamente videoclipes musicais profissionais em estilo minimalista a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais limpos com geração de cenas de IA, espaço em branco e um único spotlight, personalizados para a energia e estilo da sua faixa. Com Tunee, você sai da ideia para um videoclipe minimalista finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipes minimalistas com IA do Tunee para criar visuais minimalistas limpos instantaneamente. Nenhuma habilidade de edição necessária — exporte em 4K para YouTube, TikTok...",
+  "prompts": [
+    "Uma cena limpa com espaço em branco e movimentos de câmera em varredura, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em um único spotlight, energia focada irradiando através de cada quadro e corte do vídeo",
+    "Geometria abstrata e limpa morfando e fluindo em câmera lenta, capturando perfeitamente a essência limpa da música",
+    "Planos fechados do espaço em branco se dissolvendo em um gradiente monocromático, criando uma jornada visual focada que acompanha o ritmo da música",
+    "Plano geral sofisticado de um ambiente refinado com um único spotlight em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre geometria limpa e espaço negativo, construindo tensão com cor limpa e motion graphics nítidos",
+    "Uma montagem focada de gradiente monocromático e espaço em branco, em camadas com transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando espaço negativo e um único spotlight convergindo em uma explosão limpa de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Compositores ambientes precisam de videoclipes minimalistas para definir visualmente sua identidade artística, expandir sua fanbase e se destacar em plataformas de streaming.",
+    "creators": "Artistas de indie pop usam estética de videoclipes minimalistas para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras contam com produção rápida e profissional de videoclipes minimalistas para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de videoclipes minimalistas para criar conteúdo limpo de campanhas que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe minimalista sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee faz toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo minimalista e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipes minimalistas do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música ou apenas minimalista?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de minimalista. Você pode gerar videoclipes musicais para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe minimalista para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe minimalista usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    },
+    {
+      "q": "O gerador de videoclipes minimalistas do Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador da web em desktop e mobile, para que você possa criar videoclipes minimalistas de qualquer dispositivo sem instalar software."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Le moyen le plus rapide de créer des vidéos musicales de marque avec l'IA",
+  "direct_answer": "Une vidéo musicale IA pour les marques est un outil qui crée automatiquement des vidéos musicales de style professionnel à partir de vos audio ou prompts texte. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels de marque avec génération de scènes IA, intégration de marque et placement de produits, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale de marque finie en minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Tunee transforme votre musique en superbes vidéos de marque en quelques minutes. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène de marque avec intégration de marque et mouvements de caméra panoramiques, baignée dans un éclairage dramatique qui pulse avec le beat",
+    "Plan en gros plan vertical immergé dans le placement de produits, énergie commerciale rayonnant à travers chaque photogramme et coupe de la vidéo",
+    "Environnement de marque abstrait se morphant et s'écoulant au ralenti, capturant parfaitement l'essence de marque de la musique",
+    "Plans en gros plan de l'intégration de marque se dissolvant dans un ton corporatif, créant un parcours visuel commercial qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement professionnel avec placement de produits au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre environnement de marque et alignement marketing, créant de la tension avec un étalonnage des couleurs de marque et des infographies de mouvement pointu",
+    "Un montage commercial de ton corporatif et d'intégration de marque, superposé avec des transitions fluides et des beats visuels correspondant à la chute",
+    "Séquence finale avec alignement marketing et placement de produits convergeant dans une explosion de marque de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent les vidéos de marque pour maximiser la portée sur la plateforme, en s'assurant que leur contenu répond aux exigences de format et capte l'attention instantanément.",
+    "creators": "Les équipes marketing s'appuient sur du contenu de marque parfaitement formaté pour augmenter la visibilité algorithmique et développer leur audience avec chaque publication.",
+    "labels": "Les maisons de disques produisent en lot des vidéos de marque optimisées pour la plateforme pour tout leur catalogue, réduisant le délai d'exécution de semaines à heures.",
+    "brands": "Les marques menant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire des annonces vidéo de marque qui captent l'attention à grande échelle."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale de marque sans aucune expérience en montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez un prompt texte, choisissez un style de marque, et l'IA génère votre vidéo en minutes."
+    },
+    {
+      "q": "Supporte-t-il l'exportation de vidéos musicales de marque en résolution 4K?",
+      "a": "Absolument. Tunee exporte des vidéos musicales de marque jusqu'à 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale de marque?",
+      "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale de marque."
+    },
+    {
+      "q": "Le générateur de vidéo musicale de marque de Tunee fonctionne-t-il sur les appareils mobiles?",
+      "a": "Tunee est entièrement accessible via navigateur web sur ordinateur et mobile, vous permettant de créer des vidéos musicales de marque depuis n'importe quel appareil sans installer de logiciel."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo musicale de marque?",
+      "a": "Vous pouvez guider les visuels en utilisant des prompts texte décrivant des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par l'intégration de marque qui correspondent à votre esthétique de marque."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "La forma más rápida de crear videos musicales de San Valentín con IA",
+  "direct_answer": "Un generador de videos musicales de San Valentín con IA es una herramienta que crea automáticamente videos musicales profesionales de estilo San Valentín a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales románticos con generación de pétalos de rosa en tiempo real y exportación de un clic, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un video musical de San Valentín terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videos musicales de San Valentín con IA más fácil para artistas. Tunee genera visuales románticos de San Valentín a partir de tu audio — prueba gratis hoy.",
+  "prompts": [
+    "Una escena romántica con pétalos de rosa y movimientos de cámara amplios, bañada en iluminación dramática que pulsa al ritmo",
+    "Escena de San Valentín inmersa en una cena a la luz de las velas, energía apasionada radiando a través de cada fotograma y corte del video",
+    "Imágenes abstractas de corazones que se transforman y fluyen en cámara lenta, capturando perfectamente la esencia romántica de la música",
+    "Planos cerrados de pétalos de rosa disolviéndose en momentos de pareja, creando un viaje visual apasionado que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un ambiente amoroso con cena a la luz de las velas en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre imágenes de corazones y paleta de rosa y rojo, construyendo tensión con grado de color romántico y gráficos de movimiento agudo",
+    "Un montaje apasionado de momentos de pareja y pétalos de rosa, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final que presenta paleta de rosa y rojo y cena a la luz de las velas convergiendo en una explosión romántica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los creadores de música romántica utilizan videos musicales de San Valentín para conmemorar momentos especiales y crear recuerdos visuales duraderos establecidos con la banda sonora perfecta.",
+    "creators": "Las parejas producen contenido de videos musicales de San Valentín para contar historias emocionales, crecer su audiencia y ofrecer servicios de video premium a clientes.",
+    "labels": "Los planificadores de eventos y videógrafos utilizan la IA de Tunee para entregar paquetes de video de San Valentín pulidos más rápido y a una fracción de los costos de producción tradicionales.",
+    "brands": "Las marcas y anunciantes crean contenido temático de San Valentín para conectar con audiencias durante momentos estacionales clave e hitos emocionales."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical de San Valentín sin experiencia en edición de video?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo de San Valentín, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical de San Valentín?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y entornos. La IA de Tunee interpreta tu entrada y genera visuales inspirados en pétalos de rosa que coincidan con tu estética de San Valentín."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con San Valentín?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de San Valentín. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical de San Valentín?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará automáticamente con tu video musical de San Valentín."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical de San Valentín para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical de San Valentín usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

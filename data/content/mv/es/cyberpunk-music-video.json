@@ -1,0 +1,43 @@
+{
+  "h1": "Generador de Videos Musicales Cyberpunk Impulsado por IA para Todos los Artistas",
+  "direct_answer": "Un generador de videos musicales cyberpunk con IA es una herramienta que crea automáticamente videos musicales de estilo cyberpunk profesional a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales oscuros con generación de calles bañadas en neón en tiempo real y exportación de un clic, adaptados a la energía y estilo de tu canción. Con Tunee, puedes pasar de una idea a un video musical cyberpunk terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Crea videos musicales Cyberpunk profesionales con el generador de videos musicales cyberpunk con IA de Tunee. Visuales oscuros, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena oscura con calles bañadas en neón y movimientos de cámara barridos, sumergida en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en ciudad mojada por la lluvia, energía futurista radiando en cada fotograma y corte del video",
+    "Anuncios holográficos abstractos transformándose y fluyendo en cámara lenta, capturando la esencia oscura de la música perfectamente",
+    "Tomas cercanas de calles bañadas en neón disolviéndose en realidad aumentada, creando un viaje visual futurista que sigue el ritmo de la canción",
+    "Toma de establecimiento amplio de un entorno áspero con ciudad mojada por la lluvia en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre anuncios holográficos y horizonte distópico, acumulando tensión con gradación de color oscuro y gráficos de movimiento agudo",
+    "Un montaje futurista de realidad aumentada y calles bañadas en neón, superpuesto con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con horizonte distópico y ciudad mojada por la lluvia convergiendo en una explosión oscura de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los creadores con estética cyberpunk necesitan videos musicales Cyberpunk para definir visualmente su identidad artística, crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los artistas de Synthwave utilizan estéticas de videos musicales Cyberpunk para construir una marca visual distintiva que impulsa el engagement y atrae oportunidades de colaboración.",
+    "labels": "Los sellos discográficos dependen de la producción rápida y profesional de videos musicales Cyberpunk para promocionar nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estéticas de videos musicales Cyberpunk para crear contenido de campaña oscuro que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Admite exportar videos musicales Cyberpunk en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales Cyberpunk en resolución de hasta 4K, lo que los hace listos para YouTube, plataformas de streaming y pantallas de gran formato."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical Cyberpunk?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en calles bañadas en neón que coincidan con tu estética Cyberpunk."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música o solo con Cyberpunk?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Cyberpunk. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical Cyberpunk?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video musical Cyberpunk automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical Cyberpunk para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical Cyberpunk utilizando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

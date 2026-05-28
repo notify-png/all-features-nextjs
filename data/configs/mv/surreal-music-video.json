@@ -1,0 +1,31 @@
+{
+  "slug": "surreal-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Surreal",
+  "genre_name_zh": "超现实",
+  "keyword_en": "AI surreal music video generator",
+  "visual_keywords": [
+    "impossible architecture",
+    "dreamlike imagery",
+    "melting objects",
+    "Dalí-inspired",
+    "floating figures"
+  ],
+  "mood_words": [
+    "dreamlike",
+    "otherworldly",
+    "unsettling",
+    "imaginative"
+  ],
+  "target_personas": [
+    "art-pop artists",
+    "experimental musicians",
+    "psychedelic music creators",
+    "dream pop artists"
+  ],
+  "color_accent": "#6B3FA0",
+  "color_secondary": "#9B6CC8",
+  "has_custom_asset": false,
+  "demo_prompt": "Singer floating in impossible dream landscape, melting clocks, inverted staircase, Dalí-inspired surrealist imagery"
+}

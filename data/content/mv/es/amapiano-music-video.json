@@ -1,0 +1,43 @@
+{
+  "h1": "Genera Videos de Música Amapiano Profesionales Instantáneamente con IA",
+  "direct_answer": "Un generador de videos de música Amapiano con IA es una herramienta que crea automáticamente videos de música estilo amapiano profesionales a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales soulful con generación de township sudafricano en tiempo real y exportación con un clic, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un video de música amapiano terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videos de música Amapiano con IA más fácil para artistas. Tunee genera visuales soulful de Amapiano desde tu audio — pruébalo gratis hoy.",
+  "prompts": [
+    "Una escena soulful con township sudafricano y movimientos de cámara amplios, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en primer plano de tambor de tronco, energía rítmica radiando a través de cada fotograma y corte del video",
+    "Danza yano abstracta transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia soulful de la música",
+    "Planos cercanos de township sudafricano disolviéndose en cultura callejera vibrante, creando un viaje visual rítmico que sigue el ritmo de la canción",
+    "Plano general de apertura de un ambiente alegre con primer plano de tambor de tronco en el primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre danza yano y fiesta al aire libre, construyendo tensión con gradación de color soulful y gráficos de movimiento nítidos",
+    "Un montaje rítmico de cultura callejera vibrante y township sudafricano, superpuesto con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final que presenta fiesta al aire libre y primer plano de tambor de tronco convergiendo en una explosión soulful de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas sudafricanos necesitan videos de música Amapiano para definir visualmente su identidad artística, crecer su base de seguidores y destacarse en plataformas de streaming.",
+    "creators": "Los productores de Amapiano utilizan estética de videos de música Amapiano para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos de música Amapiano para promocionar nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estética de videos de música Amapiano para crear contenido de campaña soulful que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video de música Amapiano sin experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo Amapiano, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Puedo usar el generador de videos de música Amapiano de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee se pueden usar para fines comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con Amapiano?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Amapiano. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video de música Amapiano?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video de música Amapiano automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video de música Amapiano para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video de música Amapiano usando diferentes indicaciones o configuraciones de estilo, luego selecciona la versión que mejor se adapte a tu visión."
+    }
+  ]
+}

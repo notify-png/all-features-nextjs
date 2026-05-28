@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-youtube",
+  "parent": "/features/music-video-generator",
+  "category": "Platform",
+  "genre_name": "YouTube",
+  "genre_name_zh": "YouTube",
+  "keyword_en": "AI music video for YouTube",
+  "visual_keywords": [
+    "16:9 widescreen",
+    "YouTube thumbnail",
+    "mid-roll safe zones",
+    "HD 1080p quality",
+    "subscriber hook"
+  ],
+  "mood_words": [
+    "engaging",
+    "shareable",
+    "high-quality",
+    "watch-time"
+  ],
+  "target_personas": [
+    "YouTube musicians",
+    "artist channel owners",
+    "music content creators",
+    "independent artists"
+  ],
+  "color_accent": "#FF0000",
+  "color_secondary": "#FF3333",
+  "has_custom_asset": false,
+  "demo_prompt": "YouTube-optimized 16:9 music video with compelling thumbnail moment, HD quality, audience retention hook in first 5 seconds"
+}

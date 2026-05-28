@@ -1,0 +1,43 @@
+{
+  "h1": "Le moyen le plus rapide de créer des vidéos de musique Trance avec l'IA",
+  "direct_answer": "Un générateur de vidéo de musique Trance basé sur l'IA est un outil qui crée automatiquement des vidéos musicales professionnelles de style Trance à partir de vos fichiers audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels euphoriques avec rendu de fractales automatisées et export multi-styles, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéo de musique Trance terminée en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de vidéo de musique Trance par IA de Tunee pour créer des visuels Trance euphoriques instantanément. Aucune compétence en montage nécessaire — exportez en 4K pour YouTube, TikTok, et...",
+  "prompts": [
+    "Une scène euphorique avec des visuels fractals et des mouvements de caméra balayant, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans des rayons lumineux, l'énergie hypnotique rayonnant à travers chaque plan et coupe de la vidéo",
+    "Foule abstraite euphorique se morphing et coulant au ralenti, capturant parfaitement l'essence euphorique de la musique",
+    "Plans rapprochés de visuels fractals se dissolvant dans une mainstage massive, créant un voyage visuel hypnotique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement transcendant avec des rayons lumineux au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre foule euphorique et arrière-plan cosmique, construisant la tension avec un étalonnage de couleur euphorique et des motions graphics tranchants",
+    "Un montage hypnotique de mainstage massive et de visuels fractals, en couches avec des transitions douces et des beats visuels correspondant au drop",
+    "Séquence finale mettant en vedette un arrière-plan cosmique et des rayons lumineux convergeant dans une explosion euphorique de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les DJ de Trance ont besoin de vidéos de musique Trance pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les artistes de festival EDM utilisent l'esthétique des vidéos de musique Trance pour construire une identité visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production rapide et professionnelle de vidéos de musique Trance pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des vidéos de musique Trance pour créer du contenu de campagne euphorique qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo de musique Trance sans aucune expérience en montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez une invite texte, choisissez un style Trance, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo de musique Trance?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textes décrivant des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par les fractales qui correspondent à votre esthétique Trance."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéo de musique Trance de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo de musique Trance?",
+      "a": "Tunee offre des options intégrées de superposition des paroles et des sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéo de musique Trance."
+    },
+    {
+      "q": "Le générateur de vidéo de musique Trance de Tunee fonctionne-t-il sur les appareils mobiles?",
+      "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous pouvez donc créer des vidéos de musique Trance à partir de n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "halloween-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Halloween",
+  "genre_name_zh": "万圣节",
+  "keyword_en": "AI Halloween music video generator",
+  "visual_keywords": [
+    "jack-o-lanterns",
+    "spooky costumes",
+    "haunted house",
+    "fog machines",
+    "full moon"
+  ],
+  "mood_words": [
+    "spooky",
+    "fun",
+    "dark",
+    "theatrical"
+  ],
+  "target_personas": [
+    "Halloween music creators",
+    "spooky content makers",
+    "party music artists",
+    "horror-themed musicians"
+  ],
+  "color_accent": "#FF6600",
+  "color_secondary": "#FF8800",
+  "has_custom_asset": false,
+  "demo_prompt": "Halloween night music video, jack-o-lanterns glowing, costumed dancers, haunted mansion, full moon, spooky fog effects"
+}

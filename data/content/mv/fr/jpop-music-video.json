@@ -1,0 +1,43 @@
+{
+  "h1": "Générateur de vidéos musicales J-pop alimenté par l'IA pour tous les artistes",
+  "direct_answer": "Un générateur de vidéos musicales J-pop alimenté par l'IA est un outil qui crée automatiquement des vidéos musicales de style J-pop professionnelles à partir de vos fichiers audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels mignons présentant des invites texte-vers-vidéo et des visuels de mode Harajuku, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale J-pop finie en quelques minutes, sans expérience de montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de vidéos musicales J-pop alimenté par l'IA de Tunee pour créer des visuels J-pop mignons instantanément. Aucune compétence de montage requise — exportez en 4K pour YouTube, TikTok, et plus.",
+  "prompts": [
+    "Une scène mignonne avec la mode Harajuku et des mouvements de caméra balayants, baignée d'un éclairage dramatique qui pulse avec la musique",
+    "Un artiste immergé dans les rues néon de Tokyo, une énergie onirique rayonnant à travers chaque plan et cut de la vidéo",
+    "Une esthétique d'uniforme scolaire abstraite se transformant et s'écoulant au ralenti, capturant parfaitement l'essence mignonne de la musique",
+    "Des gros plans de la mode Harajuku se dissolvant dans un décor de fleurs de cerisier, créant un voyage visuel onirique qui suit le rythme de la chanson",
+    "Un plan d'établissement large d'un environnement nostalgique avec les rues néon de Tokyo au premier plan, évoquant une profonde résonance émotionnelle",
+    "Des cuts dynamiques entre l'esthétique d'uniforme scolaire et les gros plans d'idole, construisant la tension avec une grading de couleur mignonne et des effets de mouvement tranchants",
+    "Un montage onirique de décor de fleurs de cerisier et de mode Harajuku, superposé de transitions lisses et de beats visuels correspondant au drop",
+    "La séquence finale présentant les gros plans d'idole et les rues néon de Tokyo convergeant dans une explosion mignonne de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes J-pop ont besoin de vidéos musicales J-pop pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les créateurs de musique anime utilisent l'esthétique des vidéos musicales J-pop pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production de vidéos musicales J-pop rapide et professionnelle pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des vidéos musicales J-pop pour créer du contenu de campagne mignon qui résonne émotionnellement avec leur public cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale J-pop sans aucune expérience de montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style J-pop, et l'IA générera votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment puis-je personnaliser le style visuel de ma vidéo musicale J-pop?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites texte qui décrivent des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés de la mode Harajuku qui correspondent à votre esthétique J-pop."
+    },
+    {
+      "q": "Comment puis-je ajouter des paroles ou des sous-titres à ma vidéo musicale J-pop?",
+      "a": "Tunee propose des options de superposition de paroles et de sous-titres intégrées. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale J-pop."
+    },
+    {
+      "q": "Le générateur de vidéos musicales J-pop de Tunee fonctionne-t-il sur les appareils mobiles?",
+      "a": "Tunee est entièrement accessible via navigateur web sur les appareils de bureau et mobiles, vous permettant de créer des vidéos musicales J-pop depuis n'importe quel appareil sans installer de logiciel."
+    },
+    {
+      "q": "Supporte-t-il l'exportation de vidéos musicales J-pop en résolution 4K?",
+      "a": "Absolument. Tunee exporte les vidéos musicales J-pop jusqu'en résolution 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
+    }
+  ]
+}

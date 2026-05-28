@@ -1,0 +1,31 @@
+{
+  "slug": "vertical-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Vertical",
+  "genre_name_zh": "竖屏视频",
+  "keyword_en": "AI vertical music video generator",
+  "visual_keywords": [
+    "9:16 format",
+    "mobile-first design",
+    "TikTok framing",
+    "portrait orientation",
+    "thumb-stopping"
+  ],
+  "mood_words": [
+    "mobile-native",
+    "trending",
+    "dynamic",
+    "social-ready"
+  ],
+  "target_personas": [
+    "TikTok artists",
+    "Instagram Reels creators",
+    "Shorts-first musicians",
+    "social media musicians"
+  ],
+  "color_accent": "#FF0050",
+  "color_secondary": "#FF4080",
+  "has_custom_asset": false,
+  "demo_prompt": "Vertical 9:16 music video optimized for TikTok, bold close-up framing, text overlays at top, mobile-native composition"
+}

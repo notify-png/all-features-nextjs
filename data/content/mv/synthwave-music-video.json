@@ -1,0 +1,43 @@
+{
+  "h1": "Produce High-Quality Synthwave Music Videos with AI Technology",
+  "direct_answer": "An AI synthwave music video generator is a tool that automatically creates professional synthwave-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce nostalgic visuals featuring AI scene generation with retro 80s grid and neon sunset, tailored to your track's energy and style. With Tunee, you can go from idea to a finished synthwave music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Synthwave music videos with Tunee's AI synthwave music video generator. Nostalgic visuals, fast export, no experience required.",
+  "prompts": [
+    "A nostalgic scene with retro 80s grid and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in neon sunset, cinematic energy radiating through every frame and cut of the video",
+    "Abstract palm tree silhouette morphing and flowing in slow motion, capturing the nostalgic essence of the music perfectly",
+    "Close-up shots of retro 80s grid dissolving into sports car driving, creating a cinematic visual journey that follows the song's rhythm",
+    "Wide establishing shot of a cool environment with neon sunset in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between palm tree silhouette and VHS aesthetic, building tension with nostalgic color grading and sharp motion graphics",
+    "A cinematic montage of sports car driving and retro 80s grid, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring VHS aesthetic and neon sunset converging in a nostalgic explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Synthwave producers need Synthwave music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Retrowave artists use Synthwave music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Synthwave music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Synthwave music video aesthetics to create nostalgic campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Synthwave music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Synthwave style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Synthwave music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Synthwave music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Synthwave?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Synthwave. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Synthwave music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Synthwave music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Synthwave music video to compare?",
+      "a": "Yes. You can generate several variations of your Synthwave music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

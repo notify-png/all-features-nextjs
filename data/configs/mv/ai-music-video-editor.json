@@ -1,0 +1,31 @@
+{
+  "slug": "ai-music-video-editor",
+  "parent": "/features/music-video-generator",
+  "category": "Workflow",
+  "genre_name": "AI MV Editor",
+  "genre_name_zh": "AI MV编辑器",
+  "keyword_en": "AI music video editor",
+  "visual_keywords": [
+    "timeline editing",
+    "AI scene swap",
+    "style transfer",
+    "cut adjustment",
+    "AI enhancement"
+  ],
+  "mood_words": [
+    "precise",
+    "professional",
+    "flexible",
+    "efficient"
+  ],
+  "target_personas": [
+    "video editors",
+    "musicians with existing footage",
+    "post-production creators",
+    "professional artists"
+  ],
+  "color_accent": "#2C3E50",
+  "color_secondary": "#3D5166",
+  "has_custom_asset": false,
+  "demo_prompt": "AI music video editor with timeline interface, swap scenes, adjust cuts, apply style transfer, AI-enhance footage quality"
+}

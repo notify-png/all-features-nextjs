@@ -1,0 +1,43 @@
+{
+  "h1": "Crea Hermosos Videos Musicales Minimalistas sin Esfuerzo con Tunee AI",
+  "direct_answer": "Un generador de videos musicales minimalistas con IA es una herramienta que crea automáticamente videos musicales profesionales de estilo minimalista a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales limpios con generación de escenas de IA, espacio en blanco e iluminación de foco único, personalizados según la energía y el estilo de tu pista. Con Tunee, puedes pasar de una idea a un video musical minimalista terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa el generador de videos musicales minimalistas de Tunee AI para crear visuales minimalistas limpios al instante. Sin habilidades de edición requeridas — exporta en 4K para YouTube, TikTok...",
+  "prompts": [
+    "Una escena limpia con espacio en blanco y movimientos de cámara barrida, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en foco único, energía enfocada irradiando a través de cada fotograma y corte del video",
+    "Geometría abstracta limpia que se transforma y fluye en cámara lenta, capturando la esencia limpia de la música perfectamente",
+    "Tomas de primer plano de espacio en blanco disolviéndose en un gradiente de un solo color, creando un viaje visual enfocado que sigue el ritmo de la canción",
+    "Toma de establecimiento amplia de un entorno sofisticado con foco único en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre geometría limpia y espacio negativo, construyendo tensión con gradación de color limpia y gráficos de movimiento agudo",
+    "Un montaje enfocado de gradiente de un solo color y espacio en blanco, superpuesto con transiciones suaves y ritmos visuales que coinciden con la caída",
+    "Secuencia final con espacio negativo e iluminación de foco único convergiendo en una explosión limpia de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los compositores de música ambiental necesitan videos musicales minimalistas para definir visualmente su identidad artística, hacer crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los artistas de pop indie utilizan la estética de videos musicales minimalistas para construir una marca visual distintiva que impulsa la participación y atrae oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales minimalistas para promocionar nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videos musicales minimalistas para crear contenido de campaña limpio que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical minimalista sin experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo minimalista, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Puedo usar el generador de videos musicales minimalistas de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee se pueden usar para fines comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo minimalismo?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá del minimalismo. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical minimalista para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical minimalista usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    },
+    {
+      "q": "¿Funciona el generador de videos musicales minimalistas de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en dispositivos móviles, para que puedas crear videos musicales minimalistas desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

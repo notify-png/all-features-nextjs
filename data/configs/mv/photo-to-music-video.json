@@ -1,0 +1,31 @@
+{
+  "slug": "photo-to-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Workflow",
+  "genre_name": "Photo to MV",
+  "genre_name_zh": "照片转MV",
+  "keyword_en": "Photo to music video AI",
+  "visual_keywords": [
+    "photo animation",
+    "Ken Burns motion",
+    "AI scene expansion",
+    "photo-to-video",
+    "image to film"
+  ],
+  "mood_words": [
+    "personal",
+    "memory",
+    "cinematic",
+    "transformative"
+  ],
+  "target_personas": [
+    "photographers",
+    "personal occasion creators",
+    "memory video makers",
+    "photo montage artists"
+  ],
+  "color_accent": "#E67E22",
+  "color_secondary": "#F39C12",
+  "has_custom_asset": false,
+  "demo_prompt": "Upload personal photos, AI animates them with cinematic camera movement, scene expansion, and music-sync transitions"
+}

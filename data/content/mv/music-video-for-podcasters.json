@@ -1,0 +1,43 @@
+{
+  "h1": "Transform Your Music into Cinematic Podcasters Videos Using AI",
+  "direct_answer": "An AI music video for podcasters is a tool that automatically creates professional podcasters-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce professional visuals featuring automated microphone setup rendering and multi-style export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished podcasters music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Podcasters music videos with Tunee's AI music video for podcasters. Professional visuals, fast export, no experience required.",
+  "prompts": [
+    "A professional scene with microphone setup and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in studio recording, branded energy radiating through every frame and cut of the video",
+    "Abstract intro visual morphing and flowing in slow motion, capturing the professional essence of the music perfectly",
+    "Close-up shots of microphone setup dissolving into branding motion, creating a branded visual journey that follows the song's rhythm",
+    "Wide establishing shot of a intimate environment with studio recording in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between intro visual and audio-to-video, building tension with professional color grading and sharp motion graphics",
+    "A branded montage of branding motion and microphone setup, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring audio-to-video and studio recording converging in a professional explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use Podcasters to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "Podcast hosts rely on perfectly formatted Podcasters content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized Podcasters videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping Podcasters video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Podcasters music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Podcasters style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Can I use Tunee's Podcasters music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Podcasters?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Podcasters. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Podcasters music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Podcasters music video automatically."
+    },
+    {
+      "q": "Does Tunee's Podcasters music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Podcasters music videos from any device without installing software."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Transform Your Music into Cinematic Graduation Videos Using AI",
+  "direct_answer": "An AI graduation music video generator is a tool that automatically creates professional graduation-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce proud visuals featuring text-to-video prompts and cap and gown visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished graduation music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Graduation music videos with Tunee's AI graduation music video generator. Proud visuals, fast export, no experience required.",
+  "prompts": [
+    "A proud scene with cap and gown and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Graduation scene immersed in diploma moment, nostalgic energy radiating through every frame and cut of the video",
+    "Abstract campus memories morphing and flowing in slow motion, capturing the proud essence of the music perfectly",
+    "Close-up shots of cap and gown dissolving into class photo, creating a nostalgic visual journey that follows the song's rhythm",
+    "Wide establishing shot of a hopeful environment with diploma moment in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between campus memories and achievement celebration, building tension with proud color grading and sharp motion graphics",
+    "A nostalgic montage of class photo and cap and gown, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring achievement celebration and diploma moment converging in a proud explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Graduates use Graduation music videos to commemorate special moments and create lasting visual memories set to the perfect soundtrack.",
+    "creators": "Proud parents produce Graduation music video content to tell emotional stories, grow their audience, and offer premium video services to clients.",
+    "labels": "Event planners and videographers use Tunee's AI to deliver polished Graduation video packages faster and at a fraction of traditional production costs.",
+    "brands": "Brands and advertisers create Graduation-themed content to connect with audiences during key seasonal moments and emotional milestones."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Graduation music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Graduation style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Graduation music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Graduation music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Graduation music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates cap and gown-inspired visuals that match your Graduation aesthetic."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Graduation?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Graduation. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "Can I generate multiple versions of a Graduation music video to compare?",
+      "a": "Yes. You can generate several variations of your Graduation music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-twitter",
+  "parent": "/features/music-video-generator",
+  "category": "Platform",
+  "genre_name": "X / Twitter",
+  "genre_name_zh": "X / 推特",
+  "keyword_en": "AI music video for X / Twitter",
+  "visual_keywords": [
+    "2:20 max length",
+    "attention-grabbing opening",
+    "share-bait moments",
+    "text overlay safe",
+    "mobile-optimized"
+  ],
+  "mood_words": [
+    "shareable",
+    "conversation-starting",
+    "viral",
+    "punchy"
+  ],
+  "target_personas": [
+    "Twitter/X musicians",
+    "viral content creators",
+    "music discussion starters",
+    "trending artists"
+  ],
+  "color_accent": "#000000",
+  "color_secondary": "#1DA1F2",
+  "has_custom_asset": false,
+  "demo_prompt": "Twitter/X music video clip with immediate visual impact, shareable money-shot moment, 2-minute format, text-safe composition"
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Create Stunning R&B Music Videos with AI in Minutes",
+  "direct_answer": "An AI R&B music video generator is a tool that automatically creates professional r&b-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce soulful visuals featuring real-time moody studio generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished r&b music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional R&B music videos with Tunee's AI R&B music video generator. Soulful visuals, fast export, no experience required.",
+  "prompts": [
+    "A soulful scene with moody studio and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in luxury apartment, smooth energy radiating through every frame and cut of the video",
+    "Abstract silhouette choreography morphing and flowing in slow motion, capturing the soulful essence of the music perfectly",
+    "Close-up shots of moody studio dissolving into candlelight, creating a smooth visual journey that follows the song's rhythm",
+    "Wide establishing shot of a intimate environment with luxury apartment in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between silhouette choreography and urban night, building tension with soulful color grading and sharp motion graphics",
+    "A smooth montage of candlelight and moody studio, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring urban night and luxury apartment converging in a soulful explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "R&b singers need R&B music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Soul artists use R&B music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional R&B music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use R&B music video aesthetics to create soulful campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a R&B music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a R&B style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting R&B music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports R&B music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my R&B music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates moody studio-inspired visuals that match your R&B aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's R&B music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my R&B music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your R&B music video automatically."
+    }
+  ]
+}

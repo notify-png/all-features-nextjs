@@ -1,0 +1,31 @@
+{
+  "slug": "concert-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Concert",
+  "genre_name_zh": "音乐会",
+  "keyword_en": "AI live concert music video",
+  "visual_keywords": [
+    "arena concert",
+    "massive stage production",
+    "light show",
+    "crowd scale",
+    "broadcast quality"
+  ],
+  "mood_words": [
+    "epic",
+    "live",
+    "energetic",
+    "massive"
+  ],
+  "target_personas": [
+    "touring artists",
+    "arena bands",
+    "festival performers",
+    "live music promoters"
+  ],
+  "color_accent": "#FF8C00",
+  "color_secondary": "#FFA500",
+  "has_custom_asset": false,
+  "demo_prompt": "Arena concert with 50,000 fans, massive LED stage backdrop, pyrotechnics, confetti cannons, broadcast quality multi-cam"
+}

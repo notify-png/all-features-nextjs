@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-reels",
+  "parent": "/features/music-video-generator",
+  "category": "Platform",
+  "genre_name": "Instagram Reels",
+  "genre_name_zh": "Instagram Reels",
+  "keyword_en": "AI music video for Instagram Reels",
+  "visual_keywords": [
+    "Instagram aesthetic",
+    "warm filter",
+    "visual storytelling",
+    "feed-to-Reels crosspost",
+    "branded look"
+  ],
+  "mood_words": [
+    "aesthetic",
+    "aspirational",
+    "visual",
+    "branded"
+  ],
+  "target_personas": [
+    "Instagram artists",
+    "lifestyle musicians",
+    "brand-forward creators",
+    "aesthetic music makers"
+  ],
+  "color_accent": "#E1306C",
+  "color_secondary": "#833AB4",
+  "has_custom_asset": false,
+  "demo_prompt": "Instagram Reels music video with warm aesthetic filter, beautiful visual composition, lifestyle photography style"
+}

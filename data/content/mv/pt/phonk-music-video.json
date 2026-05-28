@@ -1,0 +1,43 @@
+{
+  "h1": "Gere Vídeos de Phonk Profissionais Instantaneamente com IA",
+  "direct_answer": "Um gerador de vídeos de Phonk com IA é uma ferramenta que cria automaticamente vídeos de música Phonk profissionais a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais escuros com geração de drift racing em tempo real e exportação em um clique, adaptados à energia e estilo da sua faixa. Com Tunee, você pode ir de uma ideia para um vídeo de Phonk finalizado em minutos, sem experiência em edição de vídeo necessária.",
+  "meta_description": "Use o gerador de vídeos de Phonk com IA da Tunee para criar visuais Phonk escuros instantaneamente. Sem necessidade de habilidades de edição — exporte em 4K para YouTube, TikTok e muito mais.",
+  "prompts": [
+    "Uma cena escura com drift racing e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em estética escura, energia agressiva irradiando através de cada frame e corte do vídeo",
+    "Visual abstrato de ritmo de cowbell se transformando e fluindo em câmera lenta, capturando perfeitamente a essência escura da música",
+    "Planos fechados de drift racing se dissolvendo em Memphis underground, criando uma jornada visual agressiva que segue o ritmo da música",
+    "Plano de estabelecimento amplo de um ambiente nostálgico com estética escura em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre visual de ritmo de cowbell e cena de carro vintage, construindo tensão com gradação de cor escura e motion graphics afiados",
+    "Uma montagem agressiva de Memphis underground e drift racing, com transições suaves e batidas visuais combinando com o drop",
+    "Sequência final apresentando cena de carro vintage e estética escura convergindo em uma explosão escura de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Produtores de Phonk precisam de vídeos de Phonk para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar nas plataformas de streaming.",
+    "creators": "Criadores de cultura de drift usam estética de vídeos de Phonk para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de vídeos de Phonk para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de vídeos de Phonk para criar conteúdo de campanhas escuras que ressoam emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo de Phonk sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo de Phonk, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportar vídeos de Phonk em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos de Phonk em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e exibições em tela grande."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu vídeo de Phonk?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, humores e cenários. A IA da Tunee interpreta seu input e gera visuais inspirados em drift racing que combinam com sua estética de Phonk."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um vídeo de Phonk para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu vídeo de Phonk usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se ajusta à sua visão."
+    },
+    {
+      "q": "O gerador de vídeos de Phonk da Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, então você pode criar vídeos de Phonk de qualquer dispositivo sem instalar software."
+    }
+  ]
+}

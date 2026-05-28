@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie à votre son Funk avec la création de vidéoclips IA",
+  "direct_answer": "Un générateur de vidéoclips Funk IA est un outil qui crée automatiquement des vidéoclips professionnels de style Funk à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels groovy avec génération de scènes IA présentant des décors rétro des années 70 et des coiffures afro, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à un vidéoclip Funk fini en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de vidéoclips Funk IA de Tunee transforme votre musique en superbes vidéos Funk en quelques minutes. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène groovy avec décor rétro des années 70 et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans des coiffures afro, l'énergie funky rayonnant à travers chaque image et chaque coupe de la vidéo",
+    "Gros plan abstrait sur une basse qui se transforme et s'écoule en ralenti, capturant parfaitement l'essence groovy de la musique",
+    "Gros plans sur le décor rétro des années 70 se dissolvant dans une piste de danse groovy, créant un voyage visuel funky qui suit le rythme de la chanson",
+    "Large plan d'établissement d'un environnement célébratoire avec des coiffures afro au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre gros plan sur la basse et costumes éclatants, créant de la tension avec un color grading groovy et des motion graphics nets",
+    "Un montage funky de piste de danse groovy et décor rétro des années 70, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant des costumes éclatants et des coiffures afro convergeant dans une explosion groovy de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les groupes Funk ont besoin de vidéoclips Funk pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les musiciens de basse utilisent l'esthétique des vidéoclips Funk pour construire une identité visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur la production rapide et professionnelle de vidéoclips Funk pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des vidéoclips Funk pour créer du contenu de campagne groovy qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un vidéoclip Funk sans aucune expérience en montage vidéo?",
+      "a": "Oui — L'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez une invite textuelle, choisissez un style Funk, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'export de vidéoclips Funk en résolution 4K?",
+      "a": "Absolument. Tunee exporte les vidéoclips Funk jusqu'à la résolution 4K, les rendant prêts pour YouTube, les plateformes de streaming et les grands écrans."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de mon vidéoclip Funk?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés des décors rétro des années 70 qui correspondent à votre esthétique Funk."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéoclips Funk de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu de réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement le Funk?",
+      "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà du Funk. Vous pouvez générer des vidéoclips pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    }
+  ]
+}

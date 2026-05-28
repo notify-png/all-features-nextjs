@@ -1,0 +1,43 @@
+{
+  "h1": "Crie Clipes de K-pop Lindos sem Esforço com Tunee AI",
+  "direct_answer": "Um gerador de clipes de K-pop com IA é uma ferramenta que cria automaticamente clipes de K-pop profissionais a partir de seus prompts de áudio ou texto. A plataforma Tunee utiliza aprendizado de máquina avançado para produzir visuais polidos com prompts de text-to-video e visuais de coreografia de grupos de ídolos, adaptados à energia e estilo de sua faixa. Com Tunee, você pode ir de uma ideia a um clipe de K-pop finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Crie clipes de K-pop profissionais com o gerador de clipes de K-pop com IA do Tunee. Visuais polidos, exportação rápida, nenhuma experiência necessária.",
+  "prompts": [
+    "Uma cena polida com coreografia de grupo de ídolos e movimentos dinâmicos de câmera, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em design de cenário pastel, energia alegre irradiando por cada frame e corte do vídeo",
+    "Moda estilizada abstrata se transformando e fluindo em câmera lenta, capturando perfeitamente a essência polida da música",
+    "Close-ups de coreografia de grupo de ídolos se dissolvendo em planos close-up de ídolos, criando uma jornada visual alegre que segue o ritmo da música",
+    "Plano amplo estabelecedor de um ambiente dinâmico com design de cenário pastel em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre moda estilizada e dança sincronizada, construindo tensão com color grading polido e motion graphics afiados",
+    "Uma montagem alegre de planos close-up de ídolos e coreografia de grupo de ídolos, em camadas com transições suaves e batidas visuais que acompanham o drop",
+    "Sequência final apresentando dança sincronizada e design de cenário pastel convergindo em uma explosão polida de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Produtores de K-pop precisam de clipes de K-pop para definir visualmente sua identidade artística, expandir sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Criadores de grupos de ídolos usam estéticas de clipes de K-pop para construir uma marca visual distintiva que impulsiona o engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de clipes de K-pop para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de clipes de K-pop para criar conteúdo de campanhas polido que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um clipe de K-pop sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — Tunee cuida de toda a produção de vídeo automaticamente. Basta enviar seu áudio ou inserir um prompt de texto, escolher um estilo de K-pop, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "É possível exportar clipes de K-pop em resolução 4K?",
+      "a": "Com certeza. Tunee exporta clipes de K-pop em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu clipe de K-pop?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, humores e ambientes. A IA Tunee interpreta sua entrada e gera visuais inspirados em coreografia de grupos de ídolos que correspondem à sua estética K-pop."
+    },
+    {
+      "q": "Posso usar o gerador de clipes de K-pop Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um clipe de K-pop para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu clipe de K-pop usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

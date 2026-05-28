@@ -1,0 +1,31 @@
+{
+  "slug": "funk-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Funk",
+  "genre_name_zh": "放克",
+  "keyword_en": "AI funk music video generator",
+  "visual_keywords": [
+    "70s retro set",
+    "afro hairstyles",
+    "bass guitar close-up",
+    "groovy dance floor",
+    "bright costumes"
+  ],
+  "mood_words": [
+    "groovy",
+    "funky",
+    "celebratory",
+    "rhythmic"
+  ],
+  "target_personas": [
+    "funk bands",
+    "bass musicians",
+    "retro music creators",
+    "groove-oriented artists"
+  ],
+  "color_accent": "#FF6500",
+  "color_secondary": "#FF8800",
+  "has_custom_asset": false,
+  "demo_prompt": "Funk band in 70s retro outfits on groovy dance floor, bass guitar close-up, afro hairstyles, disco ball, bright colors"
+}

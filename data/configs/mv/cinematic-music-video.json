@@ -1,0 +1,31 @@
+{
+  "slug": "cinematic-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Cinematic",
+  "genre_name_zh": "电影感",
+  "keyword_en": "AI cinematic music video generator",
+  "visual_keywords": [
+    "anamorphic lens flare",
+    "epic wide shot",
+    "shallow depth of field",
+    "dramatic color grade",
+    "dolly shot"
+  ],
+  "mood_words": [
+    "epic",
+    "dramatic",
+    "emotional",
+    "cinematic"
+  ],
+  "target_personas": [
+    "film composers",
+    "cinematic pop artists",
+    "commercial music creators",
+    "director-producers"
+  ],
+  "color_accent": "#1C3A5E",
+  "color_secondary": "#2E5984",
+  "has_custom_asset": false,
+  "demo_prompt": "Epic wide shot of lone figure on mountain cliff, anamorphic lens flare, dramatic teal-orange color grade, orchestral score"
+}

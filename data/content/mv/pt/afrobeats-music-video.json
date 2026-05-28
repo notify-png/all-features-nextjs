@@ -1,0 +1,43 @@
+{
+  "h1": "Dê Vida ao Seu Som Afrobeats com Criação de Videoclipes com IA",
+  "direct_answer": "Um gerador de videoclipes Afrobeats com IA é uma ferramenta que cria automaticamente videoclipes profissionais no estilo afrobeats a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais vibrantes com geração de cenas com paisagem de Lagos e moda colorida, personalizados para a energia e o estilo da sua faixa. Com Tunee, você sai da ideia para um videoclipe afrobeats finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipes Afrobeats com IA da Tunee para criar visuais Afrobeats vibrantes instantaneamente. Sem habilidades de edição — exporte em 4K para YouTube, TikTok...",
+  "prompts": [
+    "Uma cena vibrante com paisagem de Lagos e movimentos dinâmicos de câmera, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em moda colorida, energia alegre irradiando em cada frame e corte do vídeo",
+    "Festa de rua abstrata se transformando e fluindo em câmera lenta, capturando a essência vibrante da música perfeitamente",
+    "Planos fechados da paisagem de Lagos se dissolvendo em energia de dança, criando uma jornada visual alegre que segue o ritmo da música",
+    "Plano geral estabelecedor de um ambiente rítmico com moda colorida em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre festa de rua e padrões africanos, construindo tensão com cor vibrante e motion graphics acentuados",
+    "Uma montagem alegre de energia de dança e paisagem de Lagos, em camadas com transições suaves e beats visuais combinando com o drop",
+    "Sequência final apresentando padrões africanos e moda colorida convergindo em uma explosão vibrante de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas Afrobeats precisam de videoclipes Afrobeats para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Criadores de música africana usam estética de videoclipes Afrobeats para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes Afrobeats para promover novos lançamentos com custo-benefício em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de videoclipes Afrobeats para criar conteúdo de campanha vibrante que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe Afrobeats sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou digitar um prompt de texto, escolher um estilo Afrobeats, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Como faço para personalizar o estilo visual do meu videoclipe Afrobeats?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, humores e cenários. A IA do Tunee interpreta sua entrada e gera visuais inspirados na paisagem de Lagos que combinam com sua estética Afrobeats."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Afrobeats?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Afrobeats. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe Afrobeats?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente digite suas letras e escolha um estilo de texto, e a IA as sincronizará ao seu videoclipe Afrobeats automaticamente."
+    },
+    {
+      "q": "Posso gerar várias versões de um videoclipe Afrobeats para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe Afrobeats usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Générez des vidéos musicales Retro professionnelles instantanément avec l'IA",
+  "direct_answer": "Un générateur de vidéo musicale rétro IA est un outil qui crée automatiquement des vidéos musicales de style rétro professionnel à partir de vos fichiers audio ou invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels nostalgiques dotés d'invites texte-vers-vidéo et d'effets visuels VHS glitch, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale rétro finie en quelques minutes, sans aucune expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de vidéo musicale rétro IA le plus simple pour les artistes. Tunee génère des visuels Retro nostalgiques à partir de votre audio — essayez gratuitement dès aujourd'hui.",
+  "prompts": [
+    "Une scène nostalgique avec glitch VHS et mouvements de caméra balayants, baignée dans un éclairage dramatique qui pulse au rythme de la musique",
+    "Artiste immergé dans du grain de film, une énergie chaude rayonnant à travers chaque plan et coupe de la vidéo",
+    "Dégradés de couleurs vintage abstraites morphing et fluides au ralenti, capturant parfaitement l'essence nostalgique de la musique",
+    "Plans rapprochés du glitch VHS se dissolvant en typographie rétro, créant un voyage visuel chaleureux qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement analogique avec grain de film au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre dégradés de couleurs vintage et mode années 80, construisant la tension avec un étalonnage des couleurs nostalgique et des motion graphics tranchants",
+    "Un montage chaleureux de typographie rétro et glitch VHS, en couches avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale mettant en vedette la mode années 80 et le grain de film convergeant dans une explosion nostalgique de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes pop Retro ont besoin de vidéos musicales Retro pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les musiciens indépendants utilisent l'esthétique des vidéos musicales Retro pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques comptent sur la production rapide et professionnelle de vidéos musicales Retro pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des vidéos musicales Retro pour créer du contenu de campagne nostalgique qui résonne émotionnellement avec leur public cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale Retro sans aucune expérience en montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il vous suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style Retro, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'export de vidéos musicales Retro en résolution 4K?",
+      "a": "Absolument. Tunee exporte les vidéos musicales Retro jusqu'à une résolution 4K, ce qui les rend prêtes pour YouTube, les plateformes de streaming et les écrans grand format."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéo musicale Retro de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement Retro?",
+      "a": "Tunee prend en charge une large gamme de genres et de styles visuels au-delà de Retro. Vous pouvez générer des vidéos musicales pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale Retro?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale Retro."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "The Fastest Way to Create Brands Music Videos with AI",
+  "direct_answer": "An AI music video for brands is a tool that automatically creates professional brands-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce branded visuals featuring AI scene generation with brand integration and product placement, tailored to your track's energy and style. With Tunee, you can go from idea to a finished brands music video in minutes, no video editing experience required.",
+  "meta_description": "Tunee's AI music video for brands turns your music into stunning Brands videos in minutes. Try free and export to any platform.",
+  "prompts": [
+    "A branded scene with brand integration and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in product placement, commercial energy radiating through every frame and cut of the video",
+    "Abstract branded environment morphing and flowing in slow motion, capturing the branded essence of the music perfectly",
+    "Close-up shots of brand integration dissolving into corporate tone, creating a commercial visual journey that follows the song's rhythm",
+    "Wide establishing shot of a professional environment with product placement in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between branded environment and marketing alignment, building tension with branded color grading and sharp motion graphics",
+    "A commercial montage of corporate tone and brand integration, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring marketing alignment and product placement converging in a branded explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use Brands to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "Marketing teams rely on perfectly formatted Brands content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized Brands videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping Brands video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Brands music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Brands style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Brands music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Brands music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Brands music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Brands music video automatically."
+    },
+    {
+      "q": "Does Tunee's Brands music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Brands music videos from any device without installing software."
+    },
+    {
+      "q": "How do I customize the visual style of my Brands music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates brand integration-inspired visuals that match your Brands aesthetic."
+    }
+  ]
+}

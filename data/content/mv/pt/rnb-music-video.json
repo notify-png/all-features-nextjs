@@ -1,0 +1,43 @@
+{
+  "h1": "Crie Videoclipes R&B Incríveis com IA em Minutos",
+  "direct_answer": "Um gerador de videoclipe R&B com IA é uma ferramenta que cria automaticamente videoclipes profissionais em estilo R&B a partir de seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais soulful com geração de estúdio moody em tempo real e exportação com um clique, personalizados para a energia e estilo da sua faixa. Com Tunee, você pode ir de uma ideia para um videoclipe R&B finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Crie videoclipes R&B profissionais com o gerador de videoclipes R&B com IA da Tunee. Visuais soulful, exportação rápida, sem experiência necessária.",
+  "prompts": [
+    "Uma cena soulful com estúdio moody e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em apartamento de luxo, energia suave radiando através de cada frame e corte do vídeo",
+    "Coreografia de silhueta abstrata morphando e fluindo em câmera lenta, capturando perfeitamente a essência soulful da música",
+    "Close-ups de estúdio moody dissolvendo em luz de velas, criando uma jornada visual suave que segue o ritmo da música",
+    "Plano geral estabelecendo um ambiente íntimo com apartamento de luxo em primeiro plano, evocando profunda ressonância emocional",
+    "Cortes dinâmicos entre coreografia de silhueta e noite urbana, construindo tensão com color grading soulful e motion graphics nítidos",
+    "Uma montagem suave de luz de velas e estúdio moody, em camadas com transições suaves e batidas visuais combinando com o drop",
+    "Sequência final apresentando noite urbana e apartamento de luxo convergindo em uma explosão soulful de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Cantores de R&B precisam de videoclipes R&B para definir visualmente sua identidade artística, crescer sua fanbase e se destacar em plataformas de streaming.",
+    "creators": "Artistas soul usam estéticas de videoclipes R&B para construir uma marca visual distintiva que impulsiona engagement e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes R&B para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de videoclipes R&B para criar conteúdo de campanha soulful que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe R&B sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload de seu áudio ou digitar um prompt de texto, escolher um estilo R&B, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportar videoclipes R&B em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes R&B em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e exibições em tela grande."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe R&B?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA da Tunee interpreta seu input e gera visuais inspirados em estúdio moody que combinam com sua estética R&B."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipes R&B da Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais incluindo lançamentos em streaming, campanhas de marca e conteúdo de redes sociais."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe R&B?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente digitar suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe R&B."
+    }
+  ]
+}

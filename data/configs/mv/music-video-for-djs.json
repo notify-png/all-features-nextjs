@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-djs",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "DJs",
+  "genre_name_zh": "DJ",
+  "keyword_en": "AI music video for DJs",
+  "visual_keywords": [
+    "DJ equipment close-up",
+    "crowd reaction",
+    "set performance",
+    "festival stage",
+    "mixing visuals"
+  ],
+  "mood_words": [
+    "energetic",
+    "club-ready",
+    "professional",
+    "exciting"
+  ],
+  "target_personas": [
+    "club DJs",
+    "festival DJs",
+    "electronic music producers",
+    "DJ-producers"
+  ],
+  "color_accent": "#00D2FF",
+  "color_secondary": "#0088CC",
+  "has_custom_asset": false,
+  "demo_prompt": "DJ set music video with equipment close-ups, crowd reactions, festival stage performance, energy-building club atmosphere"
+}

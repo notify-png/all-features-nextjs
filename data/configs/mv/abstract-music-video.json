@@ -1,0 +1,31 @@
+{
+  "slug": "abstract-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Abstract",
+  "genre_name_zh": "抽象",
+  "keyword_en": "AI abstract music video generator",
+  "visual_keywords": [
+    "fluid dynamics",
+    "particle systems",
+    "geometry morphing",
+    "color field painting",
+    "non-representational art"
+  ],
+  "mood_words": [
+    "experimental",
+    "free",
+    "immersive",
+    "artistic"
+  ],
+  "target_personas": [
+    "experimental musicians",
+    "avant-garde artists",
+    "electronic composers",
+    "art-music creators"
+  ],
+  "color_accent": "#9B59B6",
+  "color_secondary": "#8E44AD",
+  "has_custom_asset": false,
+  "demo_prompt": "Morphing abstract color fields in fluid motion, particle systems reacting to music frequency, non-representational art"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-rappers",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Rappers",
+  "genre_name_zh": "说唱歌手",
+  "keyword_en": "AI music video for rappers",
+  "visual_keywords": [
+    "street credibility",
+    "freestyling",
+    "hood aesthetic",
+    "lyric performance",
+    "rapper visuals"
+  ],
+  "mood_words": [
+    "authentic",
+    "raw",
+    "street",
+    "credible"
+  ],
+  "target_personas": [
+    "independent rappers",
+    "underground hip hop artists",
+    "SoundCloud rappers",
+    "battle rap artists"
+  ],
+  "color_accent": "#1A1A1A",
+  "color_secondary": "#2E2E2E",
+  "has_custom_asset": false,
+  "demo_prompt": "Rapper spitting bars in urban environment, authentic street credibility, lyric-performance style, cinematic urban shots"
+}

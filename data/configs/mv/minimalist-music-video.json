@@ -1,0 +1,31 @@
+{
+  "slug": "minimalist-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Minimalist",
+  "genre_name_zh": "极简",
+  "keyword_en": "AI minimalist music video generator",
+  "visual_keywords": [
+    "white space",
+    "single spotlight",
+    "clean geometry",
+    "one-color gradient",
+    "negative space"
+  ],
+  "mood_words": [
+    "clean",
+    "focused",
+    "sophisticated",
+    "serene"
+  ],
+  "target_personas": [
+    "ambient composers",
+    "indie pop artists",
+    "design-conscious musicians",
+    "art-house creators"
+  ],
+  "color_accent": "#F5F5F5",
+  "color_secondary": "#E0E0E0",
+  "has_custom_asset": false,
+  "demo_prompt": "Singer alone in pure white room, single overhead spotlight, minimal shadows, clean geometric floor reflection, silence aesthetic"
+}

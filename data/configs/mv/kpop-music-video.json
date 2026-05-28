@@ -1,0 +1,31 @@
+{
+  "slug": "kpop-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "K-pop",
+  "genre_name_zh": "韩流",
+  "keyword_en": "AI K-pop music video generator",
+  "visual_keywords": [
+    "idol group choreography",
+    "pastel set design",
+    "stylized fashion",
+    "close-up idol shots",
+    "synchronized dance"
+  ],
+  "mood_words": [
+    "polished",
+    "cheerful",
+    "dynamic",
+    "trendy"
+  ],
+  "target_personas": [
+    "K-pop producers",
+    "idol group creators",
+    "Korean music artists",
+    "fan content makers"
+  ],
+  "color_accent": "#FF90BC",
+  "color_secondary": "#FFC0D9",
+  "has_custom_asset": false,
+  "demo_prompt": "K-pop idol group in matching outfits performing synchronized choreography on pastel stage with flower petals"
+}

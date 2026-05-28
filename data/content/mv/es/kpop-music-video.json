@@ -1,0 +1,43 @@
+{
+  "h1": "Crea Videos Musicales K-pop Profesionales sin Esfuerzo con Tunee AI",
+  "direct_answer": "Un generador de videos musicales K-pop con IA es una herramienta que crea automáticamente videos musicales de estilo K-pop profesional a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales pulidos con indicaciones de texto a video y coreografías de grupos de ídolos, adaptadas a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un video musical K-pop terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Crea videos musicales K-pop profesionales con el generador de videos musicales K-pop con IA de Tunee. Visuales pulidos, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena pulida con coreografía de grupos de ídolos y movimientos de cámara amplios, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en diseño de escena en tonos pastel, energía alegre irradiando en cada fotograma y corte del video",
+    "Moda estilizada abstracta transformándose y fluyendo en cámara lenta, capturando la esencia pulida de la música perfectamente",
+    "Planos cercanos de coreografía de grupos de ídolos disolviéndose en planos cercanos de ídolos, creando un viaje visual alegre que sigue el ritmo de la canción",
+    "Plano general dinámico de un entorno dinámico con diseño de escena en tonos pastel en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre moda estilizada y danza sincronizada, construyendo tensión con gradación de color pulida y gráficos de movimiento agudo",
+    "Un montaje alegre de planos cercanos de ídolos y coreografía de grupos de ídolos, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con danza sincronizada y diseño de escena en tonos pastel convergiendo en una explosión pulida de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los productores de K-pop necesitan videos musicales K-pop para definir visualmente su identidad artística, hacer crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los creadores de grupos de ídolos utilizan estética de videos musicales K-pop para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales K-pop para promover nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estética de videos musicales K-pop para crear contenido de campaña pulido que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical K-pop sin experiencia en edición de video?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo K-pop y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite exportar videos musicales K-pop en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales K-pop en resolución hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical K-pop?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en coreografía de grupos de ídolos que coincidan con tu estética K-pop."
+    },
+    {
+      "q": "¿Puedo usar el generador de videos musicales K-pop de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee se pueden usar para propósitos comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical K-pop para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical K-pop usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "neon-noir-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Neon Noir",
+  "genre_name_zh": "霓虹黑色",
+  "keyword_en": "AI neon noir music video generator",
+  "visual_keywords": [
+    "rain-drenched alley",
+    "neon reflections",
+    "film noir shadows",
+    "detective aesthetic",
+    "moody color"
+  ],
+  "mood_words": [
+    "mysterious",
+    "dark",
+    "moody",
+    "atmospheric"
+  ],
+  "target_personas": [
+    "dark pop artists",
+    "film noir enthusiasts",
+    "aesthetic music creators",
+    "lo-fi noir musicians"
+  ],
+  "color_accent": "#1A0A2E",
+  "color_secondary": "#4A1060",
+  "has_custom_asset": false,
+  "demo_prompt": "Lone singer in rain-soaked neon-lit alley, red and blue reflections on wet pavement, film noir shadows, cinematic fog"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "jazz-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Jazz",
+  "genre_name_zh": "爵士",
+  "keyword_en": "AI jazz music video generator",
+  "visual_keywords": [
+    "smoky jazz club",
+    "trumpet solo",
+    "vintage aesthetic",
+    "dim stage lighting",
+    "black and white"
+  ],
+  "mood_words": [
+    "sophisticated",
+    "moody",
+    "improvisational",
+    "timeless"
+  ],
+  "target_personas": [
+    "jazz musicians",
+    "jazz clubs",
+    "instrumental artists",
+    "vintage music creators"
+  ],
+  "color_accent": "#2C3E50",
+  "color_secondary": "#34495E",
+  "has_custom_asset": false,
+  "demo_prompt": "Jazz quartet in smoky underground club, trumpet player in spotlight, warm amber lights, vintage 1950s aesthetic"
+}

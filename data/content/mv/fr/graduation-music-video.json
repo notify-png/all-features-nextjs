@@ -1,0 +1,43 @@
+{
+  "h1": "Transformez Votre Musique en Vidéos Musicales Cinématiques de Remise de Diplômes avec l'IA",
+  "direct_answer": "Un générateur de vidéo musicale de remise de diplômes alimenté par l'IA est un outil qui crée automatiquement des vidéos musicales professionnelles de style remise de diplômes à partir de votre audio ou de vos invites textuelles. La plateforme de Tunee utilise l'apprentissage automatique avancé pour produire des visuels fiers avec des invites texte-vidéo et des visuels de toge et mortier, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale de remise de diplômes finie en quelques minutes, sans expérience de montage vidéo requise.",
+  "meta_description": "Créez des vidéos musicales professionnelles de remise de diplômes avec le générateur IA de Tunee. Visuels fiers, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène fière avec toge et mortier et mouvements de caméra panoramiques, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Scène de remise de diplômes immergée dans un moment de diplôme, une énergie nostalgique rayonnant à travers chaque cadre et coupe de la vidéo",
+    "Souvenirs de campus abstraits se transformant et s'écoulant au ralenti, capturant parfaitement l'essence fière de la musique",
+    "Plans rapprochés de toge et mortier se dissolvant dans une photo de classe, créant un voyage visuel nostalgique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement plein d'espoir avec moment de diplôme au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre les souvenirs de campus et la célébration des réalisations, construisant la tension avec un étalonnage des couleurs fier et des graphiques en mouvement nets",
+    "Un montage nostalgique de photo de classe et toge et mortier, superposés avec des transitions lisses et des beats visuels correspondant au drop",
+    "Séquence finale présentant la célébration des réalisations et le moment du diplôme convergeant dans une explosion fière de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les diplômés utilisent les vidéos musicales de remise de diplômes pour commémorer des moments spéciaux et créer des souvenirs visuels durables définis par la bande sonore parfaite.",
+    "creators": "Les parents fiers produisent du contenu vidéo musical de remise de diplômes pour raconter des histoires émouvantes, développer leur audience et offrir des services vidéo premium aux clients.",
+    "labels": "Les organisateurs d'événements et les vidéographes utilisent l'IA de Tunee pour livrer des packages vidéo de remise de diplômes polis plus rapidement et à une fraction des coûts de production traditionnels.",
+    "brands": "Les marques et les annonceurs créent du contenu à thème de remise de diplômes pour se connecter aux audiences pendant les moments saisonniers clés et les jalons émotionnels."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale de remise de diplômes sans aucune expérience de montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style de remise de diplômes, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Est-ce qu'il support l'export de vidéos musicales de remise de diplômes en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéos musicales de remise de diplômes en résolution jusqu'à 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les écrans grand format."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo musicale de remise de diplômes ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par la toge et le mortier qui correspondent à votre esthétique de remise de diplômes."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement la remise de diplômes ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà de la remise de diplômes. Vous pouvez générer des vidéos musicales pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale de remise de diplômes pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale de remise de diplômes en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

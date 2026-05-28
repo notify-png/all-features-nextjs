@@ -1,0 +1,43 @@
+{
+  "h1": "Transform Your Music into Cinematic Horror Videos Using AI",
+  "direct_answer": "An AI horror music video generator is a tool that automatically creates professional horror-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce terrifying visuals featuring text-to-video prompts and abandoned building visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished horror music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Horror music videos with Tunee's AI horror music video generator. Terrifying visuals, fast export, no experience required.",
+  "prompts": [
+    "A terrifying scene with abandoned building and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in flickering lights, unsettling energy radiating through every frame and cut of the video",
+    "Abstract dark silhouettes morphing and flowing in slow motion, capturing the terrifying essence of the music perfectly",
+    "Close-up shots of abandoned building dissolving into blood splatter, creating a unsettling visual journey that follows the song's rhythm",
+    "Wide establishing shot of a dark environment with flickering lights in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between dark silhouettes and jump scare lighting, building tension with terrifying color grading and sharp motion graphics",
+    "A unsettling montage of blood splatter and abandoned building, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring jump scare lighting and flickering lights converging in a terrifying explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Horror music creators need Horror music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Dark ambient artists use Horror music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Horror music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Horror music video aesthetics to create terrifying campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Horror music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Horror style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Horror?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Horror. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Horror music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Horror music video automatically."
+    },
+    {
+      "q": "Does Tunee's Horror music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Horror music videos from any device without installing software."
+    },
+    {
+      "q": "Does it support exporting Horror music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Horror music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Make Beautiful Vertical Music Videos Effortlessly with Tunee AI",
+  "direct_answer": "An AI vertical music video generator is a tool that automatically creates professional vertical-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce mobile-native visuals featuring AI scene generation with 9:16 format and mobile-first design, tailored to your track's energy and style. With Tunee, you can go from idea to a finished vertical music video in minutes, no video editing experience required.",
+  "meta_description": "Tunee's AI vertical music video generator turns your music into stunning Vertical videos in minutes. Try free and export to any platform.",
+  "prompts": [
+    "A mobile-native scene with 9:16 format and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in mobile-first design, trending energy radiating through every frame and cut of the video",
+    "Abstract TikTok framing morphing and flowing in slow motion, capturing the mobile-native essence of the music perfectly",
+    "Close-up shots of 9:16 format dissolving into portrait orientation, creating a trending visual journey that follows the song's rhythm",
+    "Wide establishing shot of a dynamic environment with mobile-first design in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between TikTok framing and thumb-stopping, building tension with mobile-native color grading and sharp motion graphics",
+    "A trending montage of portrait orientation and 9:16 format, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring thumb-stopping and mobile-first design converging in a mobile-native explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Tiktok artists need Vertical music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Instagram reels creators use Vertical music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Vertical music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Vertical music video aesthetics to create mobile-native campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Vertical music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Vertical style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Vertical music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Vertical music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Vertical?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Vertical. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Vertical music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Vertical music video automatically."
+    },
+    {
+      "q": "Does Tunee's Vertical music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Vertical music videos from any device without installing software."
+    }
+  ]
+}

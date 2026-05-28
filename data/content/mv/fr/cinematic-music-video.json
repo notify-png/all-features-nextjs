@@ -1,0 +1,43 @@
+{
+  "h1": "Créez des clips musicaux cinématographiques époustouflants avec l'IA en quelques minutes",
+  "direct_answer": "Un générateur de clip musical cinématographique IA est un outil qui crée automatiquement des clips musicaux professionnels de style cinématographique à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels épiques avec rendu automatisé d'anamorphose et export multi-styles, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à un clip musical cinématographique fini en quelques minutes, sans aucune expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de clip musical cinématographique IA le plus simple pour les artistes. Tunee génère des visuels cinématographiques épiques à partir de votre audio — essayez gratuitement dès aujourd'hui.",
+  "prompts": [
+    "Une scène épique avec anamorphose et mouvements de caméra amples, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans un plan large épique, une énergie dramatique rayonnant dans chaque image et coupe de la vidéo",
+    "Morphing abstrait avec faible profondeur de champ s'écoulant en slow motion, capturant parfaitement l'essence épique de la musique",
+    "Plans rapprochés d'anamorphose se dissolvant dans une gradation chromatique dramatique, créant un voyage visuel dramatique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement émotionnel avec plan large épique au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre faible profondeur de champ et dolly shot, construisant la tension avec gradation chromatique épique et motion graphics nets",
+    "Un montage dramatique d'anamorphose et de gradation chromatique dramatique, superposés avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant dolly shot et plan large épique convergeant dans une explosion épique de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les compositeurs de films ont besoin de clips musicaux cinématographiques pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les artistes pop cinématographiques utilisent l'esthétique des clips musicaux cinématographiques pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques comptent sur la production rapide et professionnelle de clips musicaux cinématographiques pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des clips musicaux cinématographiques pour créer du contenu de campagne épique qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Comment personnaliser le style visuel de mon clip musical cinématographique ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par l'anamorphose qui correspondent à votre esthétique cinématographique."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement le cinématographique ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà du cinématographique. Vous pouvez générer des clips musicaux pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon clip musical cinématographique ?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre clip musical cinématographique."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip musical cinématographique pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre clip musical cinématographique en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de clip musical cinématographique de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur desktop et mobile, vous pouvez donc créer des clips musicaux cinématographiques depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

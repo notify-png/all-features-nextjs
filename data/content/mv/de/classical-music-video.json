@@ -1,0 +1,43 @@
+{
+  "h1": "Verwandeln Sie Ihre Musik in cinematische klassische Videos mit AI",
+  "direct_answer": "Ein KI-Generator für klassische Musikvideos ist ein Tool, das automatisch professionelle Musikvideos im klassischen Stil aus Ihrer Audio oder Textanfrage erstellt. Die Plattform von Tunee nutzt fortschrittliches Machine Learning, um majestätische Visuals mit KI-Szenengenerierung, Konzertsaal- und Orchesterauftritten zu produzieren – perfekt abgestimmt auf die Energie und den Stil Ihres Tracks. Mit Tunee können Sie in wenigen Minuten von der Idee zum fertigen klassischen Musikvideo gelangen – ohne Videoschnitt-Erfahrung erforderlich.",
+  "meta_description": "Erstellen Sie professionelle Klassik-Musikvideos mit Tunees KI-Generator für klassische Musikvideos. Majestätische Visuals, schneller Export, keine Erfahrung nötig.",
+  "prompts": [
+    "Eine majestätische Szene mit Konzertsaal und schwungvollen Kamerabewegungen, getaucht in dramatisches Licht, das im Rhythmus pulsiert",
+    "Künstler immersiv in Orchesteraufführung, elegante Energie strahlt aus jedem Frame und Schnitt des Videos",
+    "Abstraktes Konzertflügel morpht und fließt in Zeitlupe, erfasst die majestätische Essenz der Musik perfekt",
+    "Nahaufnahmen eines Konzertsaals lösen sich in dramatisches Licht auf und schaffen eine elegante visuelle Reise, die dem Rhythmus des Songs folgt",
+    "Breite Establishing Shot einer emotionalen Umgebung mit Orchesteraufführung im Vordergrund, erzeugt tiefe emotionale Resonanz",
+    "Dynamische Schnitte zwischen Konzertflügel und Barock-Architektur, bauen Spannung mit majestätischer Farbgrading und scharfer Motion Graphics auf",
+    "Eine elegante Montage aus dramatischem Licht und Konzertsaal, überlagert mit sanften Übergängen und visuellen Beats, die zum Drop passen",
+    "Finale Sequenz mit Barock-Architektur und Orchesteraufführung konvergieren in einer majestätischen Explosion aus Licht, Farbe und Bewegung"
+  ],
+  "personas": {
+    "musicians": "Klassische Komponisten benötigen Klassik-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihre Fangemeinde zu vergrößern und sich auf Streaming-Plattformen abzuheben.",
+    "creators": "Orchester nutzen Klassik-Musikvideo-Ästhetik, um eine charakteristische visuelle Marke aufzubauen, die Engagement steigert und Kooperationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle Klassik-Musikvideo-Produktion, um neue Veröffentlichungen kostengünstig über alle digitalen Kanäle zu bewerben.",
+    "brands": "Brands und Werbetreibende nutzen Klassik-Musikvideo-Ästhetik, um majestätische Kampagneninhalte zu erstellen, die emotional bei ihrer Zielgruppe ankommen."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Klassik-Musikvideo ohne Videoschnitt-Erfahrung erstellen?",
+      "a": "Ja – Tunees KI übernimmt die gesamte Videoproduktion automatisch. Laden Sie einfach Ihre Audio hochladen oder geben Sie eine Textanfrage ein, wählen Sie einen Klassik-Stil, und die KI generiert Ihr Video in Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export von Klassik-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Klassik-Musikvideos in bis zu 4K-Auflösung, bereit für YouTube, Streaming-Plattformen und große Bildschirme."
+    },
+    {
+      "q": "Kann ich Tunees Klassik-Musikvideo-Generator für kommerzielle Projekte nutzen?",
+      "a": "Ja. Videos, die mit Tunee erstellt werden, können für kommerzielle Zwecke verwendet werden, einschließlich Streaming-Veröffentlichungen, Brand-Kampagnen und Social-Media-Inhalte."
+    },
+    {
+      "q": "Funktioniert es mit jedem Musikgenre oder nur mit Klassik?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Klassik hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und Dutzende andere Stile auf der gleichen Plattform generieren."
+    },
+    {
+      "q": "Wie füge ich Lyrics oder Untertitel zu meinem Klassik-Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Lyrik- und Untertitel-Overlay-Optionen. Geben Sie einfach Ihre Lyrics ein, wählen Sie einen Textstil, und die KI synchronisiert sie automatisch mit Ihrem Klassik-Musikvideo."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "punk-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Punk",
+  "genre_name_zh": "朋克",
+  "keyword_en": "AI punk music video generator",
+  "visual_keywords": [
+    "mohawk hair",
+    "safety pins",
+    "mosh pit",
+    "grimy venue",
+    "DIY anarchist aesthetic"
+  ],
+  "mood_words": [
+    "rebellious",
+    "chaotic",
+    "raw",
+    "anti-establishment"
+  ],
+  "target_personas": [
+    "punk bands",
+    "hardcore artists",
+    "DIY music creators",
+    "alternative punk musicians"
+  ],
+  "color_accent": "#FF0000",
+  "color_secondary": "#CC0000",
+  "has_custom_asset": false,
+  "demo_prompt": "Punk band performing in cramped sweaty venue, mohawk singer screaming, crowd mosh pit, DIY spray-paint backdrop"
+}

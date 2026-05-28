@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-kids",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Kids",
+  "genre_name_zh": "儿童",
+  "keyword_en": "AI music video for kids",
+  "visual_keywords": [
+    "colorful characters",
+    "simple animation",
+    "child-safe imagery",
+    "playful movement",
+    "bright colors"
+  ],
+  "mood_words": [
+    "playful",
+    "safe",
+    "educational",
+    "cheerful"
+  ],
+  "target_personas": [
+    "children's musicians",
+    "educational content creators",
+    "family-friendly artists",
+    "nursery rhyme creators"
+  ],
+  "color_accent": "#FF6B35",
+  "color_secondary": "#FFD700",
+  "has_custom_asset": false,
+  "demo_prompt": "Colorful kids music video with friendly cartoon characters, bright safe imagery, playful bouncy animation, simple storyline"
+}

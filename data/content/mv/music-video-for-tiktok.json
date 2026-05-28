@@ -1,0 +1,43 @@
+{
+  "h1": "Bring Your TikTok Sound to Life with AI Music Video Creation",
+  "direct_answer": "An AI music video for TikTok is a tool that automatically creates professional tiktok-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce viral visuals featuring text-to-video prompts and 9:16 vertical visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished tiktok music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI music video for TikTok to create viral TikTok visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok, and more.",
+  "prompts": [
+    "A viral scene with 9:16 vertical and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in trending visual hook, trendy energy radiating through every frame and cut of the video",
+    "Abstract first-3-second grab morphing and flowing in slow motion, capturing the viral essence of the music perfectly",
+    "Close-up shots of 9:16 vertical dissolving into sticker-friendly space, creating a trendy visual journey that follows the song's rhythm",
+    "Wide establishing shot of a hook-driven environment with trending visual hook in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between first-3-second grab and duet-ready, building tension with viral color grading and sharp motion graphics",
+    "A trendy montage of sticker-friendly space and 9:16 vertical, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring duet-ready and trending visual hook converging in a viral explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use TikTok to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "Tiktok artists rely on perfectly formatted TikTok content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized TikTok videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping TikTok video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Does it support exporting TikTok music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports TikTok music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my TikTok music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates 9:16 vertical-inspired visuals that match your TikTok aesthetic."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my TikTok music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your TikTok music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a TikTok music video to compare?",
+      "a": "Yes. You can generate several variations of your TikTok music video using different prompts or style settings, then select the version that best fits your vision."
+    },
+    {
+      "q": "Does Tunee's TikTok music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create TikTok music videos from any device without installing software."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Créez des vidéoclips Neon Noir époustouflants avec l'IA en quelques minutes",
+  "direct_answer": "Un générateur de vidéoclip Neon Noir alimenté par l'IA est un outil qui crée automatiquement des vidéoclips professionnels au style Neon Noir à partir de vos fichiers audio ou demandes textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels mystérieux avec génération d'allée inondée de pluie en temps réel et export en un clic, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à un vidéoclip Neon Noir terminé en quelques minutes, aucune expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de vidéoclip Neon Noir alimenté par l'IA de Tunee pour créer instantanément des visuels Neon Noir mystérieux. Aucune compétence en montage requise — exportez en 4K pour YouTube, Ti...",
+  "prompts": [
+    "Une scène mystérieuse avec allée inondée de pluie et mouvements de caméra balayants, baignée dans une lumière dramatique qui pulse au rythme",
+    "Artiste immergé dans les reflets de néon, énergie sombre rayonnant à travers chaque frame et cut de la vidéo",
+    "Ombres abstraites de film noir se morphant et s'écoulant au ralenti, capturant parfaitement l'essence mystérieuse de la musique",
+    "Plans rapprochés d'allée inondée de pluie se dissolvant dans une esthétique de détective, créant un voyage visuel sombre qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement morose avec reflets de néon au premier plan, évoquant une résonance émotionnelle profonde",
+    "Cuts dynamiques entre ombres de film noir et couleur morose, construisant la tension avec grading de couleur mystérieux et graphiques de mouvement nets",
+    "Un montage sombre d'esthétique détective et d'allée inondée de pluie, en couches avec des transitions lisses et des beats visuels correspondant au drop",
+    "Séquence finale présentant la couleur morose et les reflets de néon convergeant dans une explosion mystérieuse de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes de dark pop ont besoin de vidéoclips Neon Noir pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les passionnés de film noir utilisent l'esthétique de vidéoclip Neon Noir pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les labels discographiques s'appuient sur une production de vidéoclip Neon Noir rapide et professionnelle pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique de vidéoclip Neon Noir pour créer du contenu de campagne mystérieux qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Prend-il en charge l'export de vidéoclips Neon Noir en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéoclips Neon Noir en résolution jusqu'à 4K, les rendant prêts pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Comment puis-je personnaliser le style visuel de mon vidéoclip Neon Noir ?",
+      "a": "Vous pouvez guider les visuels en utilisant des demandes textuelles qui décrivent des scènes, des ambiances et des cadres. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par l'allée inondée de pluie qui correspondent à votre esthétique Neon Noir."
+    },
+    {
+      "q": "Fonctionne-t-il avec tous les genres de musique, ou seulement Neon Noir ?",
+      "a": "Tunee prend en charge une large gamme de genres et de styles visuels au-delà de Neon Noir. Vous pouvez générer des vidéoclips pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment puis-je ajouter des paroles ou des sous-titres à mon vidéoclip Neon Noir ?",
+      "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéoclip Neon Noir."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un vidéoclip Neon Noir pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip Neon Noir en utilisant différentes demandes ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

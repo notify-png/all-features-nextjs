@@ -1,0 +1,31 @@
+{
+  "slug": "reggaeton-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Reggaeton",
+  "genre_name_zh": "雷盖顿",
+  "keyword_en": "AI reggaeton music video generator",
+  "visual_keywords": [
+    "urban street party",
+    "luxury cars",
+    "rooftop club",
+    "Latin night scene",
+    "perreo dance"
+  ],
+  "mood_words": [
+    "hot",
+    "party",
+    "urban",
+    "sensual"
+  ],
+  "target_personas": [
+    "reggaeton artists",
+    "Latin trap creators",
+    "urban Latin musicians",
+    "club music producers"
+  ],
+  "color_accent": "#FF4500",
+  "color_secondary": "#FF6A00",
+  "has_custom_asset": false,
+  "demo_prompt": "Reggaeton artist at rooftop party in Miami at night, luxury cars, neon lights, Latin dance crowd, hot summer vibes"
+}

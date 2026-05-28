@@ -1,0 +1,43 @@
+{
+  "h1": "Transformez votre musique en vidéos Reggae cinématographiques avec l'IA",
+  "direct_answer": "Un générateur de vidéos musicales reggae par IA est un outil qui crée automatiquement des vidéos musicales de style reggae professionnel à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels relaxants avec génération de scènes IA mettant en vedette des scènes de plage et des couleurs rastafariennes, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale reggae terminée en quelques minutes, sans aucune expérience de montage vidéo requise.",
+  "meta_description": "Créez des vidéos musicales reggae professionnelles avec le générateur de vidéos musicales reggae par IA de Tunee. Visuels relaxants, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène relaxante avec paysage de plage et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans les couleurs rastafariennes, une énergie positive rayonnant dans chaque plan et coupe de la vidéo",
+    "Flore tropicale abstraite se transformant et s'écoulant au ralenti, capturant parfaitement l'essence relaxante de la musique",
+    "Gros plans de scènes de plage se dissolvant dans une ambiance décontractée, créant un parcours visuel positif qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement culturel avec couleurs rastafariennes au premier plan, évoquant une résonnance émotionnelle profonde",
+    "Coupes dynamiques entre la flore tropicale et l'ambiance jamaïcaine, construisant la tension avec un gradage de couleur relaxant et des graphiques en mouvement acérés",
+    "Un montage positif d'ambiances décontractées et de paysages de plage, en couches avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant l'ambiance jamaïcaine et les couleurs rastafariennes convergeant dans une explosion relaxante de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes reggae ont besoin de vidéos musicales reggae pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les musiciens caribéens utilisent l'esthétique des vidéos musicales reggae pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production rapide et professionnelle de vidéos musicales reggae pour promouvoir les nouvelles sorties de manière économique sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des vidéos musicales reggae pour créer un contenu de campagne relaxant qui résonne émotionnellement avec leur public cible."
+  },
+  "faqs": [
+    {
+      "q": "Supporte-t-il l'export de vidéos musicales reggae en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéos musicales reggae en résolution jusqu'à 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Comment puis-je personnaliser le style visuel de ma vidéo musicale reggae ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent les scènes, les ambiances et les paramètres. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par les scènes de plage qui correspondent à votre esthétique reggae."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement le reggae ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà du reggae. Vous pouvez générer des vidéos musicales pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale reggae ?",
+      "a": "Tunee propose des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale reggae."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale reggae à comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale reggae en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

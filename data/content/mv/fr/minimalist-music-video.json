@@ -1,0 +1,43 @@
+{
+  "h1": "Créez de magnifiques clips musicaux minimalistes sans effort avec Tunee AI",
+  "direct_answer": "Un générateur de clips musicaux minimalistes par IA est un outil qui crée automatiquement des clips musicaux professionnels de style minimaliste à partir de vos fichiers audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels épurés avec génération de scènes IA, espace blanc et projecteur unique, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à un clip musical minimaliste terminé en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de clips musicaux minimalistes par IA de Tunee pour créer des visuels minimalistes épurés à l'instant. Aucune compétence en montage requise — exportez en 4K pour YouTube, TikTok...",
+  "prompts": [
+    "Une scène épurée avec espace blanc et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans un projecteur unique, une énergie concentrée irradiant à chaque frame et coupe de la vidéo",
+    "Géométrie abstraite épurée morphant et coulant au ralenti, capturant l'essence minimaliste de la musique parfaitement",
+    "Plans rapprochés d'espace blanc se dissolvant dans un dégradé monochrome, créant un parcours visuel concentré qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement sophistiqué avec projecteur unique au premier plan, évoquant une résonnance émotionnelle profonde",
+    "Coupes dynamiques entre géométrie épurée et espace négatif, construisant la tension avec un étalonnage des couleurs épuré et des motion graphics nets",
+    "Un montage concentré de dégradé monochrome et espace blanc, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant espace négatif et projecteur unique convergeant dans une explosion épurée de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les compositeurs de musique ambiante ont besoin de clips musicaux minimalistes pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les artistes de pop indépendante utilisent l'esthétique des clips musicaux minimalistes pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur la production rapide et professionnelle de clips musicaux minimalistes pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des clips musicaux minimalistes pour créer un contenu de campagne épuré qui résonne émotionnellement avec leur public cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un clip musical minimaliste sans aucune expérience en montage vidéo?",
+      "a": "Oui — L'IA de Tunee gère toute la production vidéo automatiquement. Il suffit de télécharger votre audio ou d'entrer une invite textuelle, de choisir un style minimaliste, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de clips musicaux minimalistes de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment pour les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement le minimalisme?",
+      "a": "Tunee prend en charge un large éventail de genres et de styles visuels au-delà du minimalisme. Vous pouvez générer des clips musicaux pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles utilisant la même plateforme."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip musical minimaliste à comparer?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre clip musical minimaliste en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de clips musicaux minimalistes de Tunee fonctionne-t-il sur les appareils mobiles?",
+      "a": "Tunee est entièrement accessible via navigateur web sur les ordinateurs de bureau et mobiles, vous pouvez donc créer des clips musicaux minimalistes à partir de n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

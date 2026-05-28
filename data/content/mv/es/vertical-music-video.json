@@ -1,0 +1,43 @@
+{
+  "h1": "Crea Hermosos Videos Musicales Verticales sin Esfuerzo con Tunee AI",
+  "direct_answer": "Un generador de videos musicales verticales con IA es una herramienta que crea automáticamente videos musicales profesionales en formato vertical a partir de tu audio o descripciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir elementos visuales nativos para móvil con generación de escenas con IA, formato 9:16 y diseño mobile-first, adaptados a la energía y estilo de tu canción. Con Tunee, puedes pasar de una idea a un video musical vertical terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videos musicales verticales con IA de Tunee convierte tu música en impresionantes videos verticales en minutos. Prueba gratis y exporta a cualquier plataforma.",
+  "prompts": [
+    "Una escena nativa para móvil con formato 9:16 y movimientos de cámara envolventes, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en diseño mobile-first, energía tendencia irradiando a través de cada fotograma y corte del video",
+    "Marco abstracto de TikTok transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia nativa para móvil de la música",
+    "Planos cercanos del formato 9:16 disolviéndose en orientación vertical, creando un viaje visual tendencia que sigue el ritmo de la canción",
+    "Plano general amplio de un entorno dinámico con diseño mobile-first en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre enmarcado de TikTok y contenido que detiene el dedo, construyendo tensión con color grading nativo para móvil y motion graphics nítidos",
+    "Un montaje tendencia de orientación vertical y formato 9:16, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final que presenta contenido que detiene el dedo y diseño mobile-first convergiendo en una explosión nativa para móvil de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas de TikTok necesitan videos musicales verticales para definir visualmente su identidad artística, crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los creadores de Instagram Reels utilizan estéticas de videos musicales verticales para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales verticales para promocionar nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estéticas de videos musicales verticales para crear contenido de campaña nativo para móvil que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical vertical sin experiencia en edición de video?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una descripción de texto, elige un estilo vertical, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Soporta la exportación de videos musicales verticales en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales verticales en resolución de hasta 4K, listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con vertical?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá de vertical. Puedes generar videos musicales para pop, hip-hop, clásica y decenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical vertical?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu video musical vertical automáticamente."
+    },
+    {
+      "q": "¿Funciona el generador de videos musicales verticales de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web en computadora y móvil, para que puedas crear videos musicales verticales desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "animated-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Animated",
+  "genre_name_zh": "动画",
+  "keyword_en": "AI animated music video generator",
+  "visual_keywords": [
+    "2D animation",
+    "character animation",
+    "motion design",
+    "frame-by-frame",
+    "animated world"
+  ],
+  "mood_words": [
+    "creative",
+    "playful",
+    "imaginative",
+    "artistic"
+  ],
+  "target_personas": [
+    "indie artists",
+    "children's music creators",
+    "animated content makers",
+    "cartoon-style musicians"
+  ],
+  "color_accent": "#F39C12",
+  "color_secondary": "#F1C40F",
+  "has_custom_asset": false,
+  "demo_prompt": "2D animated music video with expressive characters, vibrant cartoon world, fluid motion design, playful frame-by-frame style"
+}

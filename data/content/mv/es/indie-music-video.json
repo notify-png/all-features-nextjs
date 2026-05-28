@@ -1,0 +1,43 @@
+{
+  "h1": "Crea Hermosos Videoclips de Música Indie sin Esfuerzo con Tunee AI",
+  "direct_answer": "Un generador de videoclips de música indie con IA es una herramienta que crea automáticamente videoclips profesionales de estilo indie a partir de tu audio o prompts de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales auténticos con generación de escenas de IA, grano de película y paisajes naturales, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un videoclip de música indie terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa el generador de videoclips de música indie con IA de Tunee para crear visuales Indie auténticos al instante. Sin necesidad de habilidades de edición — exporta en 4K para YouTube, TikTok, y...",
+  "prompts": [
+    "Una escena auténtica con grano de película y movimientos de cámara barridos, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en paisajes naturales, energía introspectiva irradiando a través de cada fotograma y corte del video",
+    "Estética DIY abstracta metamorfoseándose y fluyendo en cámara lenta, capturando la esencia auténtica de la música perfectamente",
+    "Planos cerrados de grano de película disolviéndose en tonos vintage, creando un viaje visual introspectivo que sigue el ritmo de la canción",
+    "Plano general amplio de un entorno crudo con paisajes naturales en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre estética DIY y actuación íntima, construyendo tensión con gradación de color auténtica y gráficos de movimiento nítidos",
+    "Un montaje introspectivo de tonos vintage y grano de película, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final presentando actuación íntima y paisajes naturales convergiendo en una explosión auténtica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas indie necesitan videoclips de música indie para definir visualmente su identidad artística, hacer crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los productores de dormitorio usan estéticas de videoclips de música indie para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videoclips de música indie para promover nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes usan estéticas de videoclips de música indie para crear contenido de campaña auténtico que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Soporta la exportación de videoclips de música indie en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videoclips de música indie en resolución de hasta 4K, listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi videoclip de música indie?",
+      "a": "Puedes guiar los visuales usando prompts de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en grano de película que coincidan con tu estética indie."
+    },
+    {
+      "q": "¿Puedo usar el generador de videoclips de música indie de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee pueden usarse con fines comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi videoclip de música indie?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará automáticamente con tu videoclip de música indie."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un videoclip de música indie para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu videoclip de música indie usando diferentes prompts o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

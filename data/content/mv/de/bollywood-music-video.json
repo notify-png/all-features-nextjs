@@ -1,0 +1,43 @@
+{
+  "h1": "Verwandeln Sie Ihre Musik mit KI in kinematografische Bollywood-Videos",
+  "direct_answer": "Ein KI-Bollywood-Musikvideo-Generator ist ein Tool, das automatisch professionelle Bollywood-Videos aus Ihrem Audio oder Text-Prompts erstellt. Die Plattform von Tunee nutzt fortschrittliches Machine Learning, um farbenfrohe Visuals mit automatisiertem Tanzrenderer und Multi-Style-Export zu produzieren, abgestimmt auf die Energie und den Stil Ihres Tracks. Mit Tunee können Sie von der Idee zu einem fertigen Bollywood-Musikvideo in Minuten gelangen – ohne Video-Bearbeitungserfahrung.",
+  "meta_description": "Der einfachste KI-Bollywood-Musikvideo-Generator für Künstler. Tunee generiert farbenfrohe Bollywood-Visuals aus Ihrem Audio – kostenlos zum Testen.",
+  "prompts": [
+    "Eine farbenfrohe Szene mit farbiger Tanzszene und großflächigen Kamerabewegungen, getaucht in dramatisches Licht, das mit dem Beat pulsiert",
+    "Künstler in Sari-Kostümen, dramatische Energie, die in jedem Frame und Schnitt des Videos strahlt",
+    "Abstrakte Palastszenerie, die morpht und fließt in Zeitlupe, die farbenfrohe Essenz der Musik perfekt einfangend",
+    "Nahaufnahmen von farbigen Tanzbewegungen, die sich in einen Regentanz auflösen und eine dramatische visuelle Reise schaffen, die dem Rhythmus des Songs folgt",
+    "Breite Establishing-Aufnahme einer freudigen Umgebung mit Sari-Kostümen im Vordergrund, die tiefe emotionale Resonanz hervorruft",
+    "Dynamische Schnitte zwischen Palastkulisse und synchronisiertem Ensemble, Spannung aufbauend mit farbiger Farbbearbeitung und scharfen Motion Graphics",
+    "Eine dramatische Montage aus Regentanz und farbiger Tanzszene, geschichtet mit sanften Übergängen und visuellen Beats, die dem Drop entsprechen",
+    "Abschlusssequenz mit synchronisiertem Ensemble und Sari-Kostümen, die in einer farbenfrohen Explosion aus Licht, Farbe und Bewegung verschmelzen"
+  ],
+  "personas": {
+    "musicians": "Bollywood-Künstler benötigen Bollywood-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihre Fanbase zu vergrößern und auf Streaming-Plattformen hervorzustechen.",
+    "creators": "Indische Filmkomponisten nutzen die Ästhetik von Bollywood-Musikvideos, um eine charakteristische visuelle Marke aufzubauen, die das Engagement fördert und Kollaborationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle Bollywood-Musikvideo-Produktion, um neue Releases kostengünstig über alle digitalen Kanäle zu bewerben.",
+    "brands": "Marken und Werbetreibende nutzen die Ästhetik von Bollywood-Musikvideos, um farbenfrohe Kampagneninhalte zu erstellen, die emotional bei ihrem Publikum ankommen."
+  },
+  "faqs": [
+    {
+      "q": "Unterstützt es den Export von Bollywood-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Bollywood-Musikvideos in bis zu 4K-Auflösung und macht sie bereit für YouTube, Streaming-Plattformen und große Displays."
+    },
+    {
+      "q": "Wie passe ich den visuellen Stil meines Bollywood-Musikvideos an?",
+      "a": "Sie können die Visuals mit Text-Prompts steuern, die Szenen, Stimmungen und Einstellungen beschreiben. Die KI von Tunee interpretiert Ihre Eingabe und generiert farbenfrohe, tanzinspirierte Visuals, die Ihrer Bollywood-Ästhetik entsprechen."
+    },
+    {
+      "q": "Kann ich Tunees Bollywood-Musikvideo-Generator für kommerzielle Projekte nutzen?",
+      "a": "Ja. Videos, die mit Tunee erstellt werden, können für kommerzielle Zwecke wie Streaming-Releases, Markenkampagnen und Social-Media-Inhalte verwendet werden."
+    },
+    {
+      "q": "Funktioniert es mit jeder Musikgenre oder nur Bollywood?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Bollywood hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und dutzende andere Stile mit derselben Plattform generieren."
+    },
+    {
+      "q": "Kann ich mehrere Versionen eines Bollywood-Musikvideos generieren, um sie zu vergleichen?",
+      "a": "Ja. Sie können mehrere Variationen Ihres Bollywood-Musikvideos mit verschiedenen Prompts oder Stileinstellungen generieren und dann die Version auswählen, die Ihrer Vision am besten entspricht."
+    }
+  ]
+}

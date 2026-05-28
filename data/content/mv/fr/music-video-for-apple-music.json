@@ -1,0 +1,43 @@
+{
+  "h1": "Produisez des clips musicaux Apple Music de haute qualité avec la technologie IA",
+  "direct_answer": "Un clip musical IA pour Apple Music est un outil qui crée automatiquement des clips musicaux professionnels au style Apple Music à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels premium avec des invites texte-vidéo et des visuels de qualité supérieure, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer d'une idée à un clip musical Apple Music terminé en quelques minutes, sans aucune expérience en montage vidéo requise.",
+  "meta_description": "Tunee transforme votre musique en superbes vidéos Apple Music en quelques minutes avec son IA. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène premium avec une qualité supérieure et des mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Plan rapproché vertical immergé dans l'intégration de l'artwork, une énergie polie rayonnant dans chaque image et coupe de la vidéo",
+    "Morphing abstrait en format 16:9 et flux au ralenti, capturant l'essence premium de la musique parfaitement",
+    "Plans rapprochés de qualité premium se dissolvant dans un style éditorial, créant un parcours visuel poli qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement éditorial avec intégration de l'artwork au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre le format 16:9 et une valeur de production élevée, construisant la tension avec une étalonnage premium et des graphics en mouvement aigus",
+    "Un montage poli de style éditorial et de qualité premium, superposé de transitions fluides et de beats visuels correspondant à la chute",
+    "Séquence finale présentant une valeur de production élevée et l'intégration de l'artwork convergeant dans une explosion premium de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent Apple Music pour maximiser leur portée sur la plateforme, en s'assurant que leur contenu répond aux exigences de format et capture l'attention instantanément.",
+    "creators": "Les artistes distribués par un label s'appuient sur du contenu Apple Music parfaitement formaté pour augmenter la visibilité algorithmique et développer leur audience à chaque upload.",
+    "labels": "Les maisons de disques produisent en masse des vidéos Apple Music optimisées pour les plateformes pour l'ensemble de leur roster, réduisant le délai d'exécution de semaines à heures.",
+    "brands": "Les marques menant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire à grande échelle des publicités vidéo Apple Music qui captivent l'attention."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un clip musical Apple Music sans aucune expérience en montage vidéo ?",
+      "a": "Oui — L'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez une invite textuelle, choisissez un style Apple Music, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'export de clips musicaux Apple Music en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les clips musicaux Apple Music jusqu'à une résolution 4K, les rendant prêts pour YouTube, les plateformes de streaming et les écrans grand format."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de mon clip musical Apple Music ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent des scènes, ambiances et décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés de la qualité premium qui correspondent à votre esthétique Apple Music."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de clips musicaux Apple Music de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties en streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon clip musical Apple Music ?",
+      "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre clip musical Apple Music."
+    }
+  ]
+}

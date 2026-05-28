@@ -1,0 +1,43 @@
+{
+  "h1": "Créez des vidéos musicales de bandes-annonces de jeux magnifiques sans effort avec Tunee AI",
+  "direct_answer": "Une vidéo musicale IA pour bandes-annonces de jeux est un outil qui crée automatiquement des vidéos musicales de style bandes-annonces de jeux professionnelles à partir de vos invites audio ou texte. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels épiques présentant des invites texte-vidéo et des visuels de séquences de jeux, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer d'une idée à une vidéo musicale de bande-annonce de jeu finie en quelques minutes, aucune expérience en montage vidéo requise.",
+  "meta_description": "Créez des vidéos musicales professionnelles de bandes-annonces de jeux avec la vidéo musicale IA Tunee pour bandes-annonces de jeux. Visuels épiques, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène épique avec séquences de jeux et mouvements de caméra balayants, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Plan vertical en gros plan immergé dans des coupes de bandes-annonces épiques, énergie d'action rayonnant à travers chaque image et coupe de la vidéo",
+    "Synchronisation du design sonore abstrait se métamorphosant et s'écoulant au ralenti, capturant parfaitement l'essence épique de la musique",
+    "Plans rapprochés de séquences de jeux se dissolvant dans des moments de révélation, créant un voyage visuel d'action qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement suspenseur avec des coupes de bandes-annonces épiques au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre la synchronisation du design sonore et les scènes cinématographiques de jeux, construisant la tension avec l'étalonnage des couleurs épique et les infographies de mouvement acéré",
+    "Un montage d'action de moments de révélation et de séquences de jeux, superposé de transitions fluides et de beats visuels correspondant au drop",
+    "Séquence finale présentant des scènes cinématographiques de jeux et des coupes de bandes-annonces épiques convergeant dans une explosion épique de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent Game Trailers pour maximiser leur portée sur la plateforme, en veillant à ce que leur contenu respecte les exigences de format et captive l'attention instantanément.",
+    "creators": "Les développeurs de jeux s'appuient sur un contenu Game Trailers parfaitement formaté pour augmenter la visibilité algorithmique et développer leur communauté à chaque téléchargement.",
+    "labels": "Les maisons de disques produisent en masse des vidéos Game Trailers optimisées pour les plateformes pour tout leur catalogue, réduisant le délai d'exécution de semaines à heures.",
+    "brands": "Les marques menant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire des publicités vidéo Game Trailers qui captent l'attention à grande échelle."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale Game Trailers sans aucune expérience en montage vidéo ?",
+      "a": "Oui — L'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez une invite texte, choisissez un style Game Trailers, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'exportation de vidéos musicales Game Trailers en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéos musicales Game Trailers jusqu'à une résolution 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les écrans grand format."
+    },
+    {
+      "q": "Comment puis-je personnaliser le style visuel de ma vidéo musicale Game Trailers ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites texte qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par les séquences de jeux qui correspondent à votre esthétique Game Trailers."
+    },
+    {
+      "q": "Comment puis-je ajouter des paroles ou des sous-titres à ma vidéo musicale Game Trailers ?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale Game Trailers."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale Game Trailers pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variantes de votre vidéo musicale Game Trailers en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Créez facilement de magnifiques vidéoclips musicaux pour DJs avec Tunee AI",
+  "direct_answer": "Une vidéoclip musicale IA pour DJs est un outil qui crée automatiquement des vidéoclips musicaux professionnels de style DJ à partir de votre audio ou vos demandes textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels énergiques avec génération en temps réel des équipements DJ en gros plan et exportation en un clic, adaptée à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéoclip musicale DJ terminée en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de vidéoclips musicales IA pour DJs le plus simple pour les artistes. Tunee génère des visuels énergiques pour DJs à partir de votre audio — essayez gratuitement dès aujourd'hui.",
+  "prompts": [
+    "Une scène énergique avec équipement DJ en gros plan et mouvements de caméra balayants, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Plan vertical en gros plan immergé dans la réaction de la foule, énergie prête pour le club rayonnant à travers chaque plan et montage de la vidéo",
+    "Performance abstraite en set morphing et coulant au ralenti, capturant parfaitement l'essence énergique de la musique",
+    "Plans rapprochés des équipements DJ en gros plan se dissolvant en scène de festival, créant un voyage visuel prêt pour le club qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement professionnel avec réaction de la foule au premier plan, évoquant une profonde résonance émotionnelle",
+    "Montages dynamiques entre performance de set et visuels de mixage, construisant la tension avec un étalonnage des couleurs énergique et des graphiques en mouvement nets",
+    "Un montage prêt pour le club de scène de festival et équipement DJ en gros plan, couché de transitions fluides et de beats visuels correspondant au drop",
+    "Séquence finale présentant des visuels de mixage et une réaction de la foule convergeant en une explosion énergique de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent les DJs pour maximiser leur portée sur la plateforme, en s'assurant que leur contenu répond aux exigences de format et capture l'attention instantanément.",
+    "creators": "Les DJs de club s'appuient sur un contenu DJs parfaitement formaté pour augmenter la visibilité algorithmique et développer leur communauté à chaque téléchargement.",
+    "labels": "Les maisons de disques produisent en masse des vidéos DJs optimisées pour la plateforme pour toute leur discographie, réduisant le délai d'exécution de semaines à heures.",
+    "brands": "Les marques gérant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire à grande échelle des vidéoclips publicitaires DJs qui arrêtent le défilement."
+  },
+  "faqs": [
+    {
+      "q": "Supporte-t-il l'exportation de vidéoclips musicales DJs en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéoclips musicales DJs en résolution jusqu'à 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéoclip musicale DJs ?",
+      "a": "Vous pouvez guider les visuels en utilisant des demandes textuelles qui décrivent des scènes, des ambiances et des paramètres. L'IA Tunee interprète votre entrée et génère des visuels inspirés par les équipements DJ en gros plan qui correspondent à votre esthétique DJs."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéoclips musicales DJs de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéoclip musicale DJs pour comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip musicale DJs en utilisant différentes demandes ou paramètres de style, puis sélectionner la version qui convient le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de vidéoclips musicales DJs de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous permettant de créer des vidéoclips musicales DJs depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

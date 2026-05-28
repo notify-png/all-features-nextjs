@@ -1,0 +1,31 @@
+{
+  "slug": "retro-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Retro",
+  "genre_name_zh": "复古",
+  "keyword_en": "AI retro music video generator",
+  "visual_keywords": [
+    "VHS glitch",
+    "film grain",
+    "vintage color fade",
+    "retro typography",
+    "80s fashion"
+  ],
+  "mood_words": [
+    "nostalgic",
+    "warm",
+    "analog",
+    "timeless"
+  ],
+  "target_personas": [
+    "retro pop artists",
+    "indie musicians",
+    "vintage aesthetic creators",
+    "nostalgia content makers"
+  ],
+  "color_accent": "#E8A45A",
+  "color_secondary": "#F0C070",
+  "has_custom_asset": false,
+  "demo_prompt": "Singer performing at 80s house party, VHS scan lines, vintage orange color grade, retro fashion and hairstyles"
+}

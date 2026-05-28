@@ -1,0 +1,43 @@
+{
+  "h1": "Dê Vida ao Seu Som Animado com Criação de Videoclipes com IA",
+  "direct_answer": "Um gerador de videoclipe animado com IA é uma ferramenta que cria automaticamente videoclipes profissionais em estilo animado a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais criativos com geração de animação 2D em tempo real e exportação em um clique, personalizado para a energia e estilo da sua faixa. Com Tunee, você pode ir de uma ideia a um videoclipe animado finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipe animado com IA da Tunee para criar visuais animados criativos instantaneamente. Sem habilidades de edição necessárias — exporte em 4K para YouTube, TikTok...",
+  "prompts": [
+    "Uma cena criativa com animação 2D e movimentos dinâmicos de câmera, imersa em iluminação dramática que pulsa com a batida",
+    "Artista imerso em animação de personagens, energia lúdica irradiando em cada frame e corte do vídeo",
+    "Design de movimento abstrato morfando e fluindo em câmera lenta, capturando perfeitamente a essência criativa da música",
+    "Planos próximos de animação 2D dissolvendo em quadro a quadro, criando uma jornada visual lúdica que acompanha o ritmo da música",
+    "Plano largo estabelecendo um ambiente imaginativo com animação de personagens em primeiro plano, evocando ressonância emocional profunda",
+    "Cortes dinâmicos entre design de movimento e mundo animado, construindo tensão com gradação de cor criativa e motion graphics nítidos",
+    "Uma montagem lúdica de quadro a quadro e animação 2D, em camadas com transições suaves e batidas visuais sincronizadas com o drop",
+    "Sequência final apresentando mundo animado e animação de personagens convergindo em uma explosão criativa de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas independentes precisam de videoclipes animados para definir visualmente sua identidade artística, expandir sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Criadores de música infantil usam estética de videoclipe animado para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes animados para promover novos lançamentos com eficiência de custos em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de videoclipe animado para criar conteúdo de campanha criativo que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe animado sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee cuida de toda produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo animado, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "É possível exportar videoclipes animados em resolução 4K?",
+      "a": "Com certeza. Tunee exporta videoclipes animados em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e exibições em tela grande."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe animado?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe animado."
+    },
+    {
+      "q": "O gerador de videoclipe animado da Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes animados de qualquer dispositivo sem instalar software."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe animado?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA da Tunee interpreta sua entrada e gera visuais inspirados em animação 2D que correspondem à sua estética animada."
+    }
+  ]
+}

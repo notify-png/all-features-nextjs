@@ -1,0 +1,31 @@
+{
+  "slug": "realistic-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Realistic",
+  "genre_name_zh": "写实",
+  "keyword_en": "AI realistic music video generator",
+  "visual_keywords": [
+    "photorealistic rendering",
+    "hyper-detailed textures",
+    "natural lighting",
+    "skin detail",
+    "environmental realism"
+  ],
+  "mood_words": [
+    "authentic",
+    "grounded",
+    "immersive",
+    "lifelike"
+  ],
+  "target_personas": [
+    "singer-songwriters",
+    "acoustic artists",
+    "narrative music creators",
+    "film-style video makers"
+  ],
+  "color_accent": "#4A4A4A",
+  "color_secondary": "#6A6A6A",
+  "has_custom_asset": false,
+  "demo_prompt": "Hyper-realistic singer performing in natural forest light, photorealistic skin and clothing detail, 8K cinematic quality"
+}

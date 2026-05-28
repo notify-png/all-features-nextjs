@@ -1,0 +1,31 @@
+{
+  "slug": "slideshow-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Slideshow",
+  "genre_name_zh": "照片幻灯片",
+  "keyword_en": "AI photo slideshow music video",
+  "visual_keywords": [
+    "photo transitions",
+    "Ken Burns effect",
+    "nostalgic photos",
+    "memory montage",
+    "sentimental design"
+  ],
+  "mood_words": [
+    "sentimental",
+    "nostalgic",
+    "warm",
+    "personal"
+  ],
+  "target_personas": [
+    "personal occasion creators",
+    "wedding videographers",
+    "family memory makers",
+    "tribute video creators"
+  ],
+  "color_accent": "#C0966B",
+  "color_secondary": "#D4AA8A",
+  "has_custom_asset": false,
+  "demo_prompt": "Beautiful photo slideshow MV with smooth Ken Burns pan-zoom, warm vignette, nostalgic fading transitions, emotional pacing"
+}

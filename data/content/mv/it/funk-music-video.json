@@ -1,0 +1,43 @@
+{
+  "h1": "Dai vita al tuo suono Funk con la creazione di video musicali AI",
+  "direct_answer": "Un generatore di video musicali Funk basato su AI è uno strumento che crea automaticamente video musicali professionali in stile Funk dal tuo audio o da prompt di testo. La piattaforma Tunee utilizza machine learning avanzato per produrre visivi accattivanti con generazione di scene AI, set retrò degli anni 70 e acconciature afro, personalizzati in base all'energia e allo stile del tuo brano. Con Tunee, puoi passare dall'idea a un video musicale Funk finito in pochi minuti, senza alcuna esperienza di editing video.",
+  "meta_description": "Il generatore di video musicali Funk di Tunee trasforma la tua musica in straordinari video Funk in pochi minuti. Prova gratis ed esporta su qualsiasi piattaforma.",
+  "prompts": [
+    "Una scena accattivante con set retrò degli anni 70 e movimenti di camera ampi, immersi in un'illuminazione drammatica che pulsa a ritmo della musica",
+    "Artista immerso in acconciature afro, energia funky che si irradia in ogni fotogramma e taglio del video",
+    "Primo piano di basso che si trasforma e fluisce in slow motion, catturando perfettamente l'essenza accattivante della musica",
+    "Primi piani di set retrò degli anni 70 che si dissolvono in una pista da ballo accattivante, creando un percorso visivo funky che segue il ritmo della canzone",
+    "Inquadratura d'apertura ampia di un ambiente festoso con acconciature afro in primo piano, che evoca una profonda risonanza emotiva",
+    "Tagli dinamici tra primo piano del basso e costumi luminosi, creando tensione con color grading accattivante e motion graphics nitide",
+    "Un montaggio funky di pista da ballo accattivante e set retrò degli anni 70, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale con costumi luminosi e acconciature afro che convergono in un'esplosione accattivante di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "Le band Funk hanno bisogno di video musicali Funk per definire visivamente la loro identità artistica, far crescere la loro fanbase e distinguersi sulle piattaforme di streaming.",
+    "creators": "I musicisti di basso utilizzano l'estetica dei video musicali Funk per costruire un'identità visiva distintiva che guida l'engagement e attrae opportunità di collaborazione.",
+    "labels": "Le case discografiche si affidano alla produzione rapida e professionale di video musicali Funk per promuovere nuove uscite in modo economico su tutti i canali digitali.",
+    "brands": "I brand e gli inserzionisti utilizzano l'estetica dei video musicali Funk per creare contenuti di campagna accattivanti che risuonano emotivamente con il loro pubblico target."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale Funk senza alcuna esperienza di editing video?",
+      "a": "Sì — Tunee gestisce automaticamente l'intera produzione video. Carica semplicemente il tuo audio o inserisci un prompt di testo, scegli uno stile Funk e l'AI genererà il tuo video in pochi minuti."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali Funk in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali Funk fino a una risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e display su schermo grande."
+    },
+    {
+      "q": "Come posso personalizzare lo stile visivo del mio video musicale Funk?",
+      "a": "Puoi guidare i visivi utilizzando prompt di testo che descrivono scene, atmosfere e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visivi ispirati a set retrò degli anni 70 che corrispondono alla tua estetica Funk."
+    },
+    {
+      "q": "Posso usare il generatore di video musicali Funk di Tunee per progetti commerciali?",
+      "a": "Sì. I video creati con Tunee possono essere utilizzati per scopi commerciali, incluse versioni in streaming, campagne di brand e contenuti sui social media."
+    },
+    {
+      "q": "Funziona con qualsiasi genere musicale, o solo con il Funk?",
+      "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre al Funk. Puoi generare video musicali per pop, hip-hop, musica classica e dozzine di altri stili utilizzando la stessa piattaforma."
+    }
+  ]
+}

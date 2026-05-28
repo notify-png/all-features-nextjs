@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tu sonido de actuación con creación de videoclips de música IA",
+  "direct_answer": "Un videoclip de música de actuación IA es una herramienta que crea automáticamente videoclips de música profesionales estilo actuación a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales en directo con generación de actuación en escenario en tiempo real y exportación de un clic, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un videoclip de música de actuación terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa Tunee AI performance music video para crear visuales de actuación en directo al instante. Sin habilidades de edición necesarias — exporta en 4K para YouTube, TikTok y más.",
+  "prompts": [
+    "Una escena en directo con actuación en escenario y movimientos de cámara amplios, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en banda en directo, energía energética radiando a través de cada fotograma y corte del video",
+    "Iluminación de concierto abstracta transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia en directo de la música",
+    "Planos cerrados de actuación en escenario disolviéndose en planos cerrados de músicos, creando un viaje visual energético que sigue el ritmo de la canción",
+    "Plano abierto de un ambiente auténtico con banda en directo en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre iluminación de concierto y reacción de la multitud, generando tensión con colorización en directo y gráficos de movimiento afilados",
+    "Un montaje energético de planos cerrados de músicos y actuación en escenario, estratificado con transiciones suaves y golpes visuales que coinciden con la caída",
+    "Secuencia final con reacción de la multitud y banda en directo convergiendo en una explosión en directo de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Las bandas necesitan videoclips de música de actuación para definir visualmente su identidad artística, crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los artistas en directo usan estética de videoclips de música de actuación para construir una marca visual distintiva que impulsa el engagement y atrae oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videoclips de música de actuación para promocionar lanzamientos nuevos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes usan estética de videoclips de música de actuación para crear contenido de campaña en directo que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un videoclip de música de actuación sin experiencia en edición de video?",
+      "a": "Sí — Tunee IA maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo de actuación, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Soporta exportar videoclips de música de actuación en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videoclips de música de actuación en resolución de hasta 4K, manteniéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Puedo usar el generador de videoclips de música de actuación de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee pueden usarse para propósitos comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido en redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con actuación?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá de la actuación. Puedes generar videoclips de música para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Funciona el generador de videoclips de música de actuación de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible vía navegador web en desktop y móvil, así que puedes crear videoclips de música de actuación desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

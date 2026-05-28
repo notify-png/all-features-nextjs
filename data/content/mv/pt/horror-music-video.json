@@ -1,0 +1,43 @@
+{
+  "h1": "Transforme Sua Música em Vídeos de Horror Cinemáticos Usando IA",
+  "direct_answer": "Um gerador de videoclipe de horror com IA é uma ferramenta que cria automaticamente videoclipes profissionais no estilo horror a partir do seu áudio ou prompts de texto. A plataforma Tunee usa machine learning avançado para produzir visuais aterrorizantes com prompts texto-para-vídeo e visuais de prédios abandonados, adaptados à energia e estilo da sua faixa. Com Tunee, você sai da ideia para um videoclipe de horror finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "Crie videoclipes de Horror profissionais com o gerador de videoclipes de horror com IA da Tunee. Visuais aterrorizantes, exportação rápida, sem experiência necessária.",
+  "prompts": [
+    "Uma cena aterradora com prédio abandonado e movimentos de câmera varrendo, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em luzes piscantes, energia inquietante irradiando através de cada frame e corte do vídeo",
+    "Silhuetas abstratas escuras se transformando e fluindo em câmera lenta, capturando perfeitamente a essência aterradora da música",
+    "Planos fechados de prédio abandonado se dissolvendo em respingos de sangue, criando uma jornada visual perturbadora que segue o ritmo da música",
+    "Plano aberto estabelecendo um ambiente escuro com luzes piscantes em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre silhuetas escuras e iluminação de susto, construindo tensão com gradação de cor aterradora e motion graphics afiados",
+    "Uma montagem perturbadora de respingos de sangue e prédio abandonado, em camadas com transições suaves e batidas visuais que combinam com a queda",
+    "Sequência final com iluminação de susto e luzes piscantes convergindo em uma explosão aterradora de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Criadores de música de horror precisam de videoclipes de horror para definir visualmente sua identidade artística, crescer sua fanbase e se destacar em plataformas de streaming.",
+    "creators": "Artistas de ambient sombrio usam estética de videoclipe de horror para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem da produção rápida e profissional de videoclipes de horror para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de videoclipe de horror para criar conteúdo de campanhas aterradoras que ressoam emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe de horror sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee lida com toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo de horror, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas horror?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de horror. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe de horror?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe de horror."
+    },
+    {
+      "q": "O gerador de videoclipe de horror da Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, então você pode criar videoclipes de horror de qualquer dispositivo sem instalar software."
+    },
+    {
+      "q": "Suporta exportação de videoclipes de horror em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes de horror em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
+    }
+  ]
+}

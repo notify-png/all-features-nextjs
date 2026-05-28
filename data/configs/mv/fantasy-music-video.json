@@ -1,0 +1,31 @@
+{
+  "slug": "fantasy-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Fantasy",
+  "genre_name_zh": "奇幻",
+  "keyword_en": "AI fantasy music video generator",
+  "visual_keywords": [
+    "dragon flight",
+    "magical forest",
+    "spell casting",
+    "epic castle",
+    "glowing runes"
+  ],
+  "mood_words": [
+    "epic",
+    "magical",
+    "adventurous",
+    "mystical"
+  ],
+  "target_personas": [
+    "fantasy music composers",
+    "epic soundtrack creators",
+    "D&D-inspired artists",
+    "medieval fantasy musicians"
+  ],
+  "color_accent": "#2E4057",
+  "color_secondary": "#048A81",
+  "has_custom_asset": false,
+  "demo_prompt": "Hero standing on cliff overlooking magical kingdom, dragon flying overhead, glowing spell runes, epic orchestral landscape"
+}

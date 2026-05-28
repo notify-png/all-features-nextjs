@@ -1,0 +1,31 @@
+{
+  "slug": "rnb-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "R&B",
+  "genre_name_zh": "节奏布鲁斯",
+  "keyword_en": "AI R&B music video generator",
+  "visual_keywords": [
+    "moody studio",
+    "luxury apartment",
+    "silhouette choreography",
+    "candlelight",
+    "urban night"
+  ],
+  "mood_words": [
+    "soulful",
+    "smooth",
+    "intimate",
+    "sultry"
+  ],
+  "target_personas": [
+    "R&B singers",
+    "soul artists",
+    "neo-soul creators",
+    "bedroom pop musicians"
+  ],
+  "color_accent": "#8E44AD",
+  "color_secondary": "#9B59B6",
+  "has_custom_asset": false,
+  "demo_prompt": "R&B singer performing in warmly lit studio with candles, moody shadows, silhouette dance sequence"
+}

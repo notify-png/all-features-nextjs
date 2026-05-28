@@ -1,0 +1,43 @@
+{
+  "h1": "AI-Powered X / Twitter Music Video Generator for Every Artist",
+  "direct_answer": "An AI music video for X / Twitter is a tool that automatically creates professional x / twitter-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce shareable visuals featuring text-to-video prompts and 2:20 max length visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished x / twitter music video in minutes, no video editing experience required.",
+  "meta_description": "Tunee's AI music video for X / Twitter turns your music into stunning X / Twitter videos in minutes. Try free and export to any platform.",
+  "prompts": [
+    "A shareable scene with 2:20 max length and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in attention-grabbing opening, conversation-starting energy radiating through every frame and cut of the video",
+    "Abstract share-bait moments morphing and flowing in slow motion, capturing the shareable essence of the music perfectly",
+    "Close-up shots of 2:20 max length dissolving into text overlay safe, creating a conversation-starting visual journey that follows the song's rhythm",
+    "Wide establishing shot of a viral environment with attention-grabbing opening in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between share-bait moments and mobile-optimized, building tension with shareable color grading and sharp motion graphics",
+    "A conversation-starting montage of text overlay safe and 2:20 max length, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring mobile-optimized and attention-grabbing opening converging in a shareable explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use X / Twitter to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "Twitter/x musicians rely on perfectly formatted X / Twitter content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized X / Twitter videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping X / Twitter video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a X / Twitter music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a X / Twitter style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting X / Twitter music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports X / Twitter music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my X / Twitter music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates 2:20 max length-inspired visuals that match your X / Twitter aesthetic."
+    },
+    {
+      "q": "Does it work with any genre of music, or only X / Twitter?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond X / Twitter. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my X / Twitter music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your X / Twitter music video automatically."
+    }
+  ]
+}

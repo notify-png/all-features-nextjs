@@ -1,0 +1,43 @@
+{
+  "h1": "Il modo più veloce per creare video musicali Spotify Canvas con l'AI",
+  "direct_answer": "Un video musicale AI per Spotify Canvas è uno strumento che crea automaticamente video musicali professionali in stile Spotify Canvas a partire dal tuo audio o da prompt di testo. La piattaforma di Tunee utilizza machine learning avanzato per produrre video atmosferici con rendering automatico di loop da 3-8 secondi ed esportazione multi-stile, personalizzati in base all'energia e allo stile della tua traccia. Con Tunee, puoi passare dall'idea a un video musicale Spotify Canvas finito in pochi minuti, senza necessità di esperienza di editing video.",
+  "meta_description": "Usa l'AI music video di Tunee per Spotify Canvas per creare visivi Spotify Canvas atmosferici istantaneamente. Nessuna competenza di editing necessaria — esporta in 4K per YouTube...",
+  "prompts": [
+    "Una scena atmosferica con loop da 3-8 secondi e movimenti di camera ampi, immersa in un'illuminazione drammatica che pulsa a ritmo della musica",
+    "Inquadratura verticale ravvicinata immersa in formato verticale 9:16, con energia in loop che irradia in ogni frame e taglio del video",
+    "Movimento astratto che si trasforma e scorre al rallentatore, catturando perfettamente l'essenza atmosferica della musica",
+    "Primi piani di loop da 3-8 secondi che si dissolvono in un'atmosfera di mood, creando un viaggio visivo in loop che segue il ritmo della canzone",
+    "Inquadratura ampia e panoramica di un ambiente ambientale con formato verticale 9:16 in primo piano, evocando una profonda risonanza emotiva",
+    "Tagli dinamici tra il movimento astratto e nessuna sovrapposizione di testo, costruendo tensione con color grading atmosferico e sharp motion graphics",
+    "Un montaggio in loop di atmosfera di mood e loop da 3-8 secondi, stratificato con transizioni fluide e visual beat che corrispondono al drop",
+    "Sequenza finale con nessuna sovrapposizione di testo e formato verticale 9:16 che convergono in un'esplosione atmosferica di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I musicisti indipendenti utilizzano Spotify Canvas per massimizzare la portata sulla piattaforma, assicurando che i loro contenuti soddisfino i requisiti di formato e catturino l'attenzione istantaneamente.",
+    "creators": "Gli artisti su Spotify si affidano a contenuti Spotify Canvas perfettamente formattati per potenziare la visibilità algoritmica e far crescere il loro seguito con ogni upload.",
+    "labels": "Le etichette discografiche producono in batch video Spotify Canvas ottimizzati per la piattaforma per l'intera loro rosa di artisti, riducendo i tempi di consegna da settimane a ore.",
+    "brands": "I brand che gestiscono campagne a pagamento e organiche su questa piattaforma usano Tunee per produrre annunci video Spotify Canvas in grado di catturare l'attenzione su larga scala."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale Spotify Canvas senza alcuna esperienza di editing video?",
+      "a": "Sì — l'AI di Tunee gestisce automaticamente tutta la produzione video. Carica semplicemente il tuo audio o inserisci un prompt di testo, scegli uno stile Spotify Canvas e l'AI genera il tuo video in pochi minuti."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali Spotify Canvas in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali Spotify Canvas in risoluzione fino a 4K, rendendoli pronti per YouTube, piattaforme di streaming e display a schermo grande."
+    },
+    {
+      "q": "Come posso personalizzare lo stile visivo del mio video musicale Spotify Canvas?",
+      "a": "Puoi guidare i visivi utilizzando prompt di testo che descrivono scene, atmosfere e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visivi ispirati a loop da 3-8 secondi che corrispondono alla tua estetica Spotify Canvas."
+    },
+    {
+      "q": "Posso generare più versioni di un video musicale Spotify Canvas per confrontarle?",
+      "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Spotify Canvas utilizzando prompt o impostazioni di stile diversi, quindi selezionare la versione che meglio si adatta alla tua visione."
+    },
+    {
+      "q": "Il generatore di video musicali Spotify Canvas di Tunee funziona su dispositivi mobili?",
+      "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali Spotify Canvas da qualsiasi dispositivo senza installare software."
+    }
+  ]
+}

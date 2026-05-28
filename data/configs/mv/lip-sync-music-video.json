@@ -1,0 +1,31 @@
+{
+  "slug": "lip-sync-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Lip Sync",
+  "genre_name_zh": "对口型",
+  "keyword_en": "AI lip sync music video generator",
+  "visual_keywords": [
+    "perfect sync",
+    "lip movement",
+    "expressive performance",
+    "close-up face",
+    "character lip sync"
+  ],
+  "mood_words": [
+    "expressive",
+    "performative",
+    "fun",
+    "engaging"
+  ],
+  "target_personas": [
+    "social media creators",
+    "comedy musicians",
+    "virtual artists",
+    "content creators"
+  ],
+  "color_accent": "#E91E63",
+  "color_secondary": "#F06292",
+  "has_custom_asset": false,
+  "demo_prompt": "AI character lip-syncing perfectly to music, expressive facial animations, close-up performance, studio quality render"
+}

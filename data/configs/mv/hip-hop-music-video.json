@@ -1,0 +1,31 @@
+{
+  "slug": "hip-hop-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Hip Hop",
+  "genre_name_zh": "嘻哈",
+  "keyword_en": "AI hip hop music video generator",
+  "visual_keywords": [
+    "urban landscape",
+    "graffiti wall",
+    "studio session",
+    "street performance",
+    "cypher circle"
+  ],
+  "mood_words": [
+    "gritty",
+    "authentic",
+    "raw",
+    "energetic"
+  ],
+  "target_personas": [
+    "rappers",
+    "beatmakers",
+    "SoundCloud artists",
+    "hip hop producers"
+  ],
+  "color_accent": "#1A1A2E",
+  "color_secondary": "#16213E",
+  "has_custom_asset": false,
+  "demo_prompt": "Rapper performing under a streetlight in rain-soaked Brooklyn alley, graffiti walls, cinematic slow-mo"
+}

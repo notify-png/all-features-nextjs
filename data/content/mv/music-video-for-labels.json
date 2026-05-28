@@ -1,0 +1,43 @@
+{
+  "h1": "Make Beautiful Record Labels Music Videos Effortlessly with Tunee AI",
+  "direct_answer": "An AI music video for record labels is a tool that automatically creates professional record labels-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce commercial visuals featuring real-time high production value generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished record labels music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI music video for record labels to create commercial Record Labels visuals instantly. No editing skills needed — export in 4K for YouTube, ...",
+  "prompts": [
+    "A commercial scene with high production value and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in multi-artist roster, polished energy radiating through every frame and cut of the video",
+    "Abstract label branding morphing and flowing in slow motion, capturing the commercial essence of the music perfectly",
+    "Close-up shots of high production value dissolving into commercial quality, creating a polished visual journey that follows the song's rhythm",
+    "Wide establishing shot of a industry-grade environment with multi-artist roster in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between label branding and industry standard, building tension with commercial color grading and sharp motion graphics",
+    "A polished montage of commercial quality and high production value, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring industry standard and multi-artist roster converging in a commercial explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use Record Labels to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "A&r managers rely on perfectly formatted Record Labels content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized Record Labels videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping Record Labels video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Does it support exporting Record Labels music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Record Labels music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Record Labels music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates high production value-inspired visuals that match your Record Labels aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Record Labels music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Record Labels music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Record Labels music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Record Labels music video to compare?",
+      "a": "Yes. You can generate several variations of your Record Labels music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

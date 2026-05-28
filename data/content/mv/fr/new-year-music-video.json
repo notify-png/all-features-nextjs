@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie à votre son du Nouvel An avec la création de vidéoclips IA",
+  "direct_answer": "Un générateur de vidéoclip IA pour le Nouvel An est un outil qui crée automatiquement des vidéoclips professionnels de style Nouvel An à partir de vos fichiers audio ou invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels festifs comprenant la génération de feux d'artifice en temps réel et l'export en un clic, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à un vidéoclip Nouvel An fini en quelques minutes, sans expérience de montage vidéo requise.",
+  "meta_description": "Le générateur de vidéoclip IA Nouvel An le plus simple pour les artistes. Tunee génère des visuels festifs du Nouvel An à partir de votre audio — essai gratuit dès aujourd'hui.",
+  "prompts": [
+    "Une scène festive avec affichage de feux d'artifice et mouvements de caméra panoramiques, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Scène de Nouvel An immergée dans une horloge de compte à rebours, énergie pleine d'espoir rayonnant à travers chaque image et coupe de la vidéo",
+    "Toast au champagne abstrait se morphant et s'écoulant au ralenti, capturant parfaitement l'essence festive de la musique",
+    "Plans rapprochés de feux d'artifice se dissolvant dans l'énergie de Times Square, créant un voyage visuel plein d'espoir qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement excitant avec horloge de compte à rebours au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre toast au champagne et célébration de minuit, créant de la tension avec étalonnage de couleurs festif et graphiques en mouvement acérés",
+    "Un montage plein d'espoir de l'énergie de Times Square et de l'affichage de feux d'artifice, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale mettant en vedette la célébration de minuit et l'horloge de compte à rebours convergeant en une explosion festive de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes de fêtes du Nouvel An utilisent les vidéoclips du Nouvel An pour commémorer des moments spéciaux et créer des souvenirs visuels durables sur la bande sonore parfaite.",
+    "creators": "Les créateurs de musique de célébration produisent du contenu vidéoclip Nouvel An pour raconter des histoires émouvantes, élargir leur audience et offrir des services vidéo premium aux clients.",
+    "labels": "Les planificateurs d'événements et les vidéographes utilisent l'IA de Tunee pour livrer des forfaits vidéo Nouvel An polis plus rapidement et à une fraction du coût de la production traditionnelle.",
+    "brands": "Les marques et les annonceurs créent du contenu à thème Nouvel An pour se connecter avec les audiences lors de moments saisonniers clés et de jalons émotionnels."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un vidéoclip Nouvel An sans expérience de montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il vous suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style Nouvel An, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéoclip Nouvel An de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement le Nouvel An?",
+      "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà du Nouvel An. Vous pouvez générer des vidéoclips pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon vidéoclip Nouvel An?",
+      "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéoclip Nouvel An."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un vidéoclip Nouvel An à comparer?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip Nouvel An en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-tiktok",
+  "parent": "/features/music-video-generator",
+  "category": "Platform",
+  "genre_name": "TikTok",
+  "genre_name_zh": "TikTok",
+  "keyword_en": "AI music video for TikTok",
+  "visual_keywords": [
+    "9:16 vertical",
+    "trending visual hook",
+    "first-3-second grab",
+    "sticker-friendly space",
+    "duet-ready"
+  ],
+  "mood_words": [
+    "viral",
+    "trendy",
+    "hook-driven",
+    "shareable"
+  ],
+  "target_personas": [
+    "TikTok artists",
+    "viral music creators",
+    "short-form content musicians",
+    "trending artists"
+  ],
+  "color_accent": "#010101",
+  "color_secondary": "#69C9D0",
+  "has_custom_asset": false,
+  "demo_prompt": "TikTok-native vertical music video, viral visual hook in first 2 seconds, trending aesthetic, duet and stitch friendly"
+}

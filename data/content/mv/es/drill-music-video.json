@@ -1,0 +1,43 @@
+{
+  "h1": "Genera Vídeos de Música Drill Profesional al Instante con IA",
+  "direct_answer": "Un generador de vídeos de música Drill con IA es una herramienta que crea automáticamente vídeos de música Drill profesionales a partir de tu audio o prompts de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales amenazantes con renderizado automatizado de entornos urbanos y exportación multi-estilo, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un vídeo de música Drill terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "El generador de vídeos de música Drill con IA de Tunee convierte tu música en impresionantes vídeos Drill en minutos. Prueba gratis y exporta a cualquier plataforma.",
+  "prompts": [
+    "Una escena amenazante con entorno urbano y movimientos de cámara fluidos, bañados en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en estética de pasamontaña, energía cruda radiando a través de cada fotograma y corte del vídeo",
+    "Cortes abstractos de filo de cuchillo transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia amenazante de la música",
+    "Planos cerrados de entorno urbano disolviéndose en estilo de metraje CCTV, creando un viaje visual crudo que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno crudo con estética de pasamontaña en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre cortes de filo de cuchillo y paleta gris cruda, construyendo tensión con color amenazante y gráficos de movimiento agudo",
+    "Un montaje crudo de estilo metraje CCTV y entorno urbano, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final presentando paleta gris cruda y estética de pasamontaña convergiendo en una explosión amenazante de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas de Drill del Reino Unido necesitan vídeos de música Drill para definir visualmente su identidad artística, crecer su base de fans y destacar en plataformas de streaming.",
+    "creators": "Los raperos de Drill de Chicago utilizan estéticas de vídeos de música Drill para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de vídeos de música Drill para promocionar nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estéticas de vídeos de música Drill para crear contenido de campaña amenazante que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un vídeo de música Drill sin experiencia en edición de vídeo?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de vídeo automáticamente. Solo carga tu audio o introduce un prompt de texto, elige un estilo Drill, y la IA genera tu vídeo en minutos."
+    },
+    {
+      "q": "¿Admite exportar vídeos de música Drill en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos de música Drill en resolución de hasta 4K, manteniéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Puedo usar el generador de vídeos de música Drill de Tunee para proyectos comerciales?",
+      "a": "Sí. Los vídeos creados con Tunee pueden usarse para fines comerciales incluyendo lanzamientos en streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi vídeo de música Drill?",
+      "a": "Tunee ofrece opciones de superposición de letras y subtítulos integradas. Simplemente introduce tus letras y elige un estilo de texto, y la IA las sincronizará a tu vídeo de música Drill automáticamente."
+    },
+    {
+      "q": "¿Funciona el generador de vídeos de música Drill de Tunee en dispositivos móviles?",
+      "a": "Tunee es totalmente accesible a través del navegador web tanto en desktop como en móvil, para que puedas crear vídeos de música Drill desde cualquier dispositivo sin instalar software."
+    }
+  ]
+}

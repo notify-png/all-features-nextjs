@@ -1,0 +1,43 @@
+{
+  "h1": "Produzieren Sie hochwertige Synthwave-Musikvideos mit KI-Technologie",
+  "direct_answer": "Ein KI-Synthwave-Musikvideo-Generator ist ein Tool, das automatisch professionelle Synthwave-Musikvideos aus Ihren Audio- oder Textaufforderungen erstellt. Die Plattform von Tunee nutzt fortschrittliches Machine Learning, um nostalgische Visuals mit KI-Szenengenerierung, retro 80er-Gittern und Neon-Sonnenuntergängen zu produzieren, die auf die Energie und den Stil Ihres Tracks abgestimmt sind. Mit Tunee können Sie in wenigen Minuten von einer Idee zu einem fertigen Synthwave-Musikvideo gelangen – ohne Videobearbeitungserfahrung erforderlich.",
+  "meta_description": "Erstellen Sie professionelle Synthwave-Musikvideos mit Tunees KI-Synthwave-Musikvideo-Generator. Nostalgische Visuals, schneller Export, keine Erfahrung erforderlich.",
+  "prompts": [
+    "Eine nostalgische Szene mit retro 80er-Gittern und fließenden Kamerabewegungen, getaucht in dramatisches Licht, das mit dem Beat pulsiert",
+    "Künstler immersed in Neon-Sonnenuntergang, cinematische Energie, die durch jeden Frame und Schnitt des Videos ausstrahlt",
+    "Abstrakte Palmensilhouette, die morpht und in Zeitlupe fließt, die nostalgische Essenz der Musik perfekt erfassend",
+    "Großaufnahmen von retro 80er-Gittern, die in Sportwagen fahren übergehen, eine cinematische visuelle Reise schaffend, die dem Rhythmus des Songs folgt",
+    "Weitwinklige Einstellungsaufnahme einer coolen Umgebung mit Neon-Sonnenuntergang im Vordergrund, tiefe emotionale Resonanz hervorrufend",
+    "Dynamische Schnitte zwischen Palmensilhouette und VHS-Ästhetik, Spannung aufbauend mit nostalgischer Farbkorrektur und scharfen Motion Graphics",
+    "Eine cinematische Montage von Sportwagen fahren und retro 80er-Gittern, überlagert mit glatten Übergängen und visuellen Beats, die dem Drop entsprechen",
+    "Abschließende Sequenz mit VHS-Ästhetik und Neon-Sonnenuntergang, die in einer nostalgischen Explosion von Licht, Farbe und Bewegung konvergieren"
+  ],
+  "personas": {
+    "musicians": "Synthwave-Produzenten benötigen Synthwave-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihre Fanbase zu vergrößern und auf Streaming-Plattformen hervorzustechen.",
+    "creators": "Retrowave-Künstler nutzen Synthwave-Musikvideo-Ästhetik, um eine unterschiedliche visuelle Marke aufzubauen, die Engagement fördert und Zusammenarbeitsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle Synthwave-Musikvideoproduktion, um neue Veröffentlichungen kostengünstig über alle digitalen Kanäle zu bewerben.",
+    "brands": "Marken und Werbetreibende nutzen Synthwave-Musikvideo-Ästhetik, um nostalgische Kampagneninhalte zu erstellen, die emotional mit ihrem Zielpublikum resonieren."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Synthwave-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja – Tunees KI handhabt die gesamte Videoproduktion automatisch. Laden Sie einfach Ihr Audio hoch oder geben Sie eine Textaufforderung ein, wählen Sie einen Synthwave-Stil, und die KI generiert Ihr Video in wenigen Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export von Synthwave-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Synthwave-Musikvideos in bis zu 4K-Auflösung, um sie für YouTube, Streaming-Plattformen und großformatige Displays vorzubereiten."
+    },
+    {
+      "q": "Funktioniert es mit jedem Musikgenre oder nur mit Synthwave?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Synthwave hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und Dutzende andere Stile auf derselben Plattform generieren."
+    },
+    {
+      "q": "Wie füge ich Lyrics oder Untertitel zu meinem Synthwave-Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Lyrik- und Untertitel-Overlay-Optionen. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil, und die KI synchronisiert sie automatisch mit Ihrem Synthwave-Musikvideo."
+    },
+    {
+      "q": "Kann ich mehrere Versionen eines Synthwave-Musikvideos generieren, um sie zu vergleichen?",
+      "a": "Ja. Sie können mehrere Variationen Ihres Synthwave-Musikvideos mit verschiedenen Aufforderungen oder Stileinstellungen generieren und dann die Version auswählen, die am besten zu Ihrer Vision passt."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie au son de vos rappeurs avec la création de clips vidéo IA",
+  "direct_answer": "Une vidéo musicale IA pour rappeurs est un outil qui crée automatiquement des clips vidéo professionnels de style rappeur à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels authentiques dotés d'un rendu de crédibilité de rue automatisé et d'une exportation multi-styles, adaptés à l'énergie et au style de votre titre. Avec Tunee, vous pouvez passer de l'idée à un clip vidéo de rappeur fini en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Tunee transforme votre musique en superbes vidéos de rappeurs en quelques minutes. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène authentique avec crédibilité de rue et mouvements de caméra amples, baignée dans un éclairage dramatique qui pulse au rythme de la musique",
+    "Plan rapproché vertical immergé dans le freestyle, une énergie brute rayonnant à travers chaque image et chaque coupe de la vidéo",
+    "Esthétique abstraite du quartier se morphant et s'écoulant au ralenti, capturant parfaitement l'essence authentique de la musique",
+    "Plans rapprochés de la crédibilité de rue se dissolvant dans la performance des paroles, créant un parcours visuel brut qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement urbain avec freestyle au premier plan, évoquant une résonance émotionnelle profonde",
+    "Montages dynamiques entre esthétique du quartier et visuels de rappeur, créant de la tension avec un étalonnage de couleur authentique et des graphiques de mouvement nets",
+    "Un montage brut de performance de paroles et de crédibilité de rue, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale mettant en vedette les visuels du rappeur et le freestyle convergeant dans une explosion authentique de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent Rappers pour maximiser leur portée sur la plateforme, en veillant à ce que leur contenu réponde aux exigences de format et capture l'attention instantanément.",
+    "creators": "Les rappeurs indépendants s'appuient sur un contenu Rappers parfaitement formaté pour renforcer la visibilité algorithmique et développer leur audience à chaque mise en ligne.",
+    "labels": "Les maisons de disques produisent en masse des vidéos Rappers optimisées pour la plateforme pour leur roster complet, réduisant les délais d'exécution de semaines à heures.",
+    "brands": "Les marques menant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire à grande échelle des publicités vidéo Rappers qui font arrêter le défilement."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un clip vidéo Rappers sans aucune expérience en montage vidéo?",
+      "a": "Oui — Tunee's gère automatiquement toute la production vidéo. Téléchargez simplement votre audio ou entrez une invite texte, choisissez un style Rappers, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéos musicales Rappers de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou uniquement avec Rappers?",
+      "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà de Rappers. Vous pouvez générer des clips vidéo pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon clip vidéo Rappers?",
+      "a": "Tunee propose des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera avec votre clip vidéo Rappers automatiquement."
+    },
+    {
+      "q": "Le générateur de vidéos musicales Rappers de Tunee fonctionne-t-il sur les appareils mobiles?",
+      "a": "Tunee est entièrement accessible via navigateur web sur bureau et mobile, ce qui vous permet de créer des vidéos Rappers à partir de n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

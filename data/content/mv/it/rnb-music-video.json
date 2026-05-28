@@ -1,0 +1,43 @@
+{
+  "h1": "Crea straordinari video musicali R&B con l'AI in pochi minuti",
+  "direct_answer": "Un generatore di video musicali R&B con AI è uno strumento che crea automaticamente video musicali professionali in stile R&B dal tuo audio o da prompt di testo. La piattaforma Tunee utilizza machine learning avanzato per produrre visivi soulful con generazione di studio moody in tempo reale ed esportazione con un click, personalizzati in base all'energia e allo stile della tua traccia. Con Tunee, puoi passare dall'idea a un video musicale R&B finito in pochi minuti, senza richiedere esperienza di editing video.",
+  "meta_description": "Crea video musicali R&B professionali con il generatore AI R&B di Tunee. Visivi soulful, esportazione veloce, nessuna esperienza richiesta.",
+  "prompts": [
+    "Una scena soulful con studio moody e movimenti di camera ampi, immersa in un'illuminazione drammatica che pulsante a ritmo della musica",
+    "Artista immerso in un lussuoso appartamento, con un'energia fluida che irradia in ogni frame e taglio del video",
+    "Coreografia di silhouette astratta che si trasforma e scorre al rallentatore, catturando perfettamente l'essenza soulful della musica",
+    "Primi piani di uno studio moody che si sciolgono in luce di candela, creando un viaggio visivo fluido che segue il ritmo della canzone",
+    "Inquadratura di apertura ampia di un ambiente intimo con lussuoso appartamento in primo piano, che evoca una profonda risonanza emotiva",
+    "Tagli dinamici tra coreografia di silhouette e notte urbana, costruendo tensione con color grading soulful e motion graphics nitide",
+    "Un montaggio fluido di luce di candela e studio moody, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale che presenta notte urbana e lussuoso appartamento che convergono in un'esplosione soulful di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I cantanti R&B hanno bisogno di video musicali R&B per definire visivamente la loro identità artistica, far crescere la loro fanbase e distinguersi sulle piattaforme di streaming.",
+    "creators": "Gli artisti soul utilizzano l'estetica dei video musicali R&B per costruire un brand visivo distintivo che aumenta l'engagement e attrae opportunità di collaborazione.",
+    "labels": "Le case discografiche si affidano a produzione rapida e professionale di video musicali R&B per promuovere nuove uscite in modo conveniente su tutti i canali digitali.",
+    "brands": "Brand e inserzionisti utilizzano l'estetica dei video musicali R&B per creare contenuti soulful per le campagne che risuonano emotivamente con il loro pubblico target."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale R&B senza alcuna esperienza di editing video?",
+      "a": "Sì — L'AI di Tunee gestisce automaticamente tutta la produzione video. Carica semplicemente il tuo audio o inserisci un prompt di testo, scegli uno stile R&B e l'AI genererà il tuo video in pochi minuti."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali R&B in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali R&B fino a risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e display a grande schermo."
+    },
+    {
+      "q": "Come posso personalizzare lo stile visivo del mio video musicale R&B?",
+      "a": "Puoi guidare i visivi utilizzando prompt di testo che descrivono scene, stati d'animo e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visivi ispirati a uno studio moody che corrispondono alla tua estetica R&B."
+    },
+    {
+      "q": "Posso utilizzare il generatore di video musicali R&B di Tunee per progetti commerciali?",
+      "a": "Sì. I video creati con Tunee possono essere utilizzati per scopi commerciali incluse uscite in streaming, campagne brand e contenuti sui social media."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale R&B?",
+      "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà al tuo video musicale R&B automaticamente."
+    }
+  ]
+}

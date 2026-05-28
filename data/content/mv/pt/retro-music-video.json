@@ -1,0 +1,43 @@
+{
+  "h1": "Gere Vídeos de Música Retrô Profissionais Instantaneamente com IA",
+  "direct_answer": "Um gerador de vídeo de música retrô com IA é uma ferramenta que cria automaticamente vídeos de música estilo retrô profissionais a partir de seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais nostálgicos com prompts de texto para vídeo e visuais de glitch VHS, adaptados à energia e ao estilo da sua faixa. Com o Tunee, você pode sair da ideia para um vídeo de música retrô acabado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "O gerador de vídeo de música retrô com IA mais fácil para artistas. O Tunee gera visuais retrô nostálgicos a partir do seu áudio — teste gratuitamente hoje.",
+  "prompts": [
+    "Uma cena nostálgica com glitch VHS e movimentos de câmera varridos, imersa em iluminação dramática que pulsa com a batida",
+    "Artista imerso em grãos de filme, energia quente irradiando através de cada frame e corte do vídeo",
+    "Desbotamento de cor vintage abstrato morfando e fluindo em câmera lenta, capturando perfeitamente a essência nostálgica da música",
+    "Planos close-up de glitch VHS se dissolvendo em tipografia retrô, criando uma jornada visual quente que segue o ritmo da música",
+    "Plano de estabelecimento amplo de um ambiente analógico com grãos de filme em primeiro plano, evocando ressonância emocional profunda",
+    "Cortes dinâmicos entre desbotamento de cor vintage e moda dos anos 80, construindo tensão com graduação de cor nostálgica e motion graphics nítidos",
+    "Uma montagem quente de tipografia retrô e glitch VHS, em camadas com transições suaves e batidas visuais combinando com o drop",
+    "Sequência final apresentando moda dos anos 80 e grãos de filme convergindo em uma explosão nostálgica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas de pop retrô precisam de vídeos de música retrô para definir visualmente sua identidade artística, expandir sua base de fãs e se destacar nas plataformas de streaming.",
+    "creators": "Músicos independentes usam a estética de vídeos de música retrô para construir uma marca visual distinta que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras confiam na produção rápida e profissional de vídeos de música retrô para promover novos lançamentos economicamente em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam a estética de vídeos de música retrô para criar conteúdo nostálgico de campanha que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo de música retrô sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo retrô, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportação de vídeos de música retrô em resolução 4K?",
+      "a": "Absolutamente. O Tunee exporta vídeos de música retrô em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e displays de grande escala."
+    },
+    {
+      "q": "Posso usar o gerador de vídeo de música retrô do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com o Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música ou apenas com retrô?",
+      "a": "O Tunee suporta uma ampla gama de gêneros e estilos visuais além de retrô. Você pode gerar vídeos de música para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu vídeo de música retrô?",
+      "a": "O Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu vídeo de música retrô."
+    }
+  ]
+}

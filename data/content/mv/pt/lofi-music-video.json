@@ -1,0 +1,43 @@
+{
+  "h1": "Traga Seu Som Lo-fi à Vida com Criação de Videoclipe Assistida por IA",
+  "direct_answer": "Um gerador de videoclipe lo-fi com IA é uma ferramenta que cria automaticamente videoclipes profissionais em estilo lo-fi a partir de seu áudio ou prompts de texto. A plataforma Tunee usa machine learning avançado para produzir visuais relaxantes com renderização automatizada de ambientes aconchegantes e exportação em múltiplos estilos, adaptados à energia e estilo da sua faixa. Com a Tunee, você pode ir de uma ideia para um videoclipe lo-fi finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Crie videoclipes lo-fi profissionais com o gerador de videoclipe lo-fi com IA da Tunee. Visuais relaxantes, exportação rápida, nenhuma experiência necessária.",
+  "prompts": [
+    "Uma cena relaxante com ambiente aconchegante e movimentos de câmera amplos, envolvida em iluminação dramática que pulsa com a batida",
+    "Artista imerso em cena de estudo estilo anime, energia aconchegante irradiando através de cada frame e corte do vídeo",
+    "Janela chuvosa abstrata se transformando e fluindo em câmera lenta, capturando perfeitamente a essência relaxante da música",
+    "Planos aproximados de ambiente aconchegante se dissolvendo no brilho quente de uma lâmpada, criando uma jornada visual aconchegante que acompanha o ritmo da música",
+    "Plano geral estabelecedor de um ambiente nostálgico com cena de estudo anime em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre janela chuvosa e fita cassete, construindo tensão com gradação de cores relaxante e motion graphics nítidos",
+    "Uma montagem aconchegante de brilho quente de lâmpada e ambiente aconchegante, em camadas com transições suaves e batidas visuais correspondendo ao drop",
+    "Sequência final mostrando fita cassete e cena de estudo anime convergindo em uma explosão relaxante de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Produtores lo-fi precisam de videoclipes lo-fi para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Criadores de música para estudo usam a estética de videoclipe lo-fi para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes lo-fi para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam a estética de videoclipe lo-fi para criar conteúdo de campanha relaxante que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe lo-fi?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, atmosferas e cenários. A IA da Tunee interpreta sua entrada e gera visuais inspirados em ambientes aconchegantes que correspondem à sua estética lo-fi."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música ou apenas lo-fi?",
+      "a": "A Tunee suporta uma ampla gama de gêneros e estilos visuais além de lo-fi. Você pode gerar videoclipes para pop, hip-hop, clássica e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe lo-fi?",
+      "a": "A Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras, escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe lo-fi."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe lo-fi para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe lo-fi usando diferentes prompts ou configurações de estilo, e então selecionar a versão que melhor se adequa à sua visão."
+    },
+    {
+      "q": "O gerador de videoclipe lo-fi da Tunee funciona em dispositivos móveis?",
+      "a": "A Tunee é totalmente acessível via navegador web em desktop e mobile, então você pode criar videoclipes lo-fi de qualquer dispositivo sem instalar software."
+    }
+  ]
+}

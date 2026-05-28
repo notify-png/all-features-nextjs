@@ -1,0 +1,31 @@
+{
+  "slug": "trance-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Trance",
+  "genre_name_zh": "迷幻舞曲",
+  "keyword_en": "AI trance music video generator",
+  "visual_keywords": [
+    "fractal visuals",
+    "beam lights",
+    "euphoric crowd",
+    "massive mainstage",
+    "cosmic background"
+  ],
+  "mood_words": [
+    "euphoric",
+    "hypnotic",
+    "transcendent",
+    "uplifting"
+  ],
+  "target_personas": [
+    "trance DJs",
+    "EDM festival artists",
+    "progressive music producers",
+    "rave culture creators"
+  ],
+  "color_accent": "#6A0DAD",
+  "color_secondary": "#9B59B6",
+  "has_custom_asset": false,
+  "demo_prompt": "Trance DJ on massive mainstage, fractal light beams, euphoric crowd of thousands, cosmic purple and blue sky"
+}

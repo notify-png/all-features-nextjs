@@ -1,0 +1,43 @@
+{
+  "h1": "Dê Vida ao Som do Seu Casal com Criação de Videoclipes com IA",
+  "direct_answer": "Um gerador de videoclipes de casal com IA é uma ferramenta que cria automaticamente videoclipes profissionais estilo casal a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais românticos com renderização automatizada de retratos de casais e exportação multi-estilo, adaptados à energia e estilo de sua faixa. Com Tunee, você sai da ideia para um videoclipe de casal finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipes de casal com IA do Tunee para criar visuais românticos de casais instantaneamente. Sem necessidade de habilidades de edição — exporte em 4K para YouTube, TikTok e...",
+  "prompts": [
+    "Uma cena romântica com retratos de casais e movimentos de câmera elegantes, imersa em iluminação dramática que pulsa com a batida",
+    "Cena de casal imersa na hora dourada juntos, energia íntima irradiando em cada frame e corte do vídeo",
+    "Marcos de relacionamento abstratos transformando e fluindo em câmera lenta, capturando perfeitamente a essência romântica da música",
+    "Planos próximos de retratos de casais se dissolvendo em momentos íntimos, criando uma jornada visual intensa que segue o ritmo da música",
+    "Plano geral estabelecido de um ambiente narrativo com hora dourada juntos em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre marcos de relacionamento e histórias de amor, construindo tensão com gradação de cor romântica e motion graphics afiados",
+    "Uma montagem intensa de momentos íntimos e retratos de casais, em camadas com transições suaves e batidas visuais combinadas com o drop",
+    "Sequência final apresentando história de amor e hora dourada juntos convergindo em uma explosão romântica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Casais usam videoclipes de casal para comemorar momentos especiais e criar memórias visuais duradouras definidas pela trilha sonora perfeita.",
+    "creators": "Presenteadores de aniversário produzem conteúdo de videoclipes de casal para contar histórias emocionais, crescer sua audiência e oferecer serviços de vídeo premium aos clientes.",
+    "labels": "Planejadores de eventos e videógrafos usam a IA do Tunee para entregar pacotes de vídeos de casal polidos mais rapidamente e por uma fração dos custos de produção tradicional.",
+    "brands": "Marcas e anunciantes criam conteúdo temático de casal para se conectar com audiências durante momentos sazonais-chave e marcos emocionais."
+  },
+  "faqs": [
+    {
+      "q": "Suporta exportação de videoclipes de casal em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes de casal em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e exibições de tela grande."
+    },
+    {
+      "q": "Como faço para personalizar o estilo visual do meu videoclipe de casal?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, moods e ambientes. A IA do Tunee interpreta sua entrada e gera visuais inspirados em retratos de casais que correspondem à sua estética de casal."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipes de casal do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Como faço para adicionar letras ou legendas ao meu videoclipe de casal?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente com seu videoclipe de casal."
+    },
+    {
+      "q": "Posso gerar várias versões de um videoclipe de casal para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe de casal usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "AI-Powered Vaporwave Music Video Generator for Every Artist",
+  "direct_answer": "An AI vaporwave music video generator is a tool that automatically creates professional vaporwave-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce surreal visuals featuring text-to-video prompts and glitched aesthetics visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished vaporwave music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Vaporwave music videos with Tunee's AI vaporwave music video generator. Surreal visuals, fast export, no experience required.",
+  "prompts": [
+    "A surreal scene with glitched aesthetics and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in classical bust statues, nostalgic energy radiating through every frame and cut of the video",
+    "Abstract Windows 95 visuals morphing and flowing in slow motion, capturing the surreal essence of the music perfectly",
+    "Close-up shots of glitched aesthetics dissolving into pink and teal palette, creating a nostalgic visual journey that follows the song's rhythm",
+    "Wide establishing shot of a dreamy environment with classical bust statues in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between Windows 95 visuals and mall footage, building tension with surreal color grading and sharp motion graphics",
+    "A nostalgic montage of pink and teal palette and glitched aesthetics, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring mall footage and classical bust statues converging in a surreal explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Vaporwave artists need Vaporwave music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Internet aesthetic creators use Vaporwave music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Vaporwave music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Vaporwave music video aesthetics to create surreal campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Vaporwave music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Vaporwave style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Vaporwave music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Vaporwave music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Vaporwave music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates glitched aesthetics-inspired visuals that match your Vaporwave aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Vaporwave music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Vaporwave music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Vaporwave music video automatically."
+    }
+  ]
+}

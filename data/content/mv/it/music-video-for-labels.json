@@ -1,0 +1,43 @@
+{
+  "h1": "Crea bellissimi video musicali per etichette discografiche senza sforzo con Tunee AI",
+  "direct_answer": "Un video musicale AI per etichette discografiche è uno strumento che crea automaticamente video musicali in stile etichetta discografica professionali a partire da audio o prompt di testo. La piattaforma di Tunee utilizza machine learning avanzato per produrre contenuti commerciali con generazione video ad alta qualità in tempo reale ed esportazione con un clic, personalizzati in base all'energia e allo stile della tua traccia. Con Tunee, puoi passare da un'idea a un video musicale finito per etichette discografiche in pochi minuti, senza alcuna esperienza di editing video.",
+  "meta_description": "Usa il video musicale AI di Tunee per etichette discografiche per creare contenuti visivi commerciali istantaneamente. Nessuna competenza di editing necessaria — esporta in 4K per YouTube, ...",
+  "prompts": [
+    "Una scena commerciale con alto valore di produzione e movimenti di camera ampi, immersa in illuminazione drammatica che pulsa al ritmo",
+    "Inquadratura verticale ravvicinata immersa in roster multi-artista, energia raffinata che irradia da ogni frame e taglio del video",
+    "Branding astratto dell'etichetta che si trasforma e fluisce in slow motion, catturando perfettamente l'essenza commerciale della musica",
+    "Primi piani di alto valore di produzione che si dissolvono in qualità commerciale, creando un percorso visivo raffinato che segue il ritmo della canzone",
+    "Inquadratura di apertura ampia di un ambiente di livello professionale con roster multi-artista in primo piano, evocando una risonanza emotiva profonda",
+    "Tagli dinamici tra branding dell'etichetta e standard industriale, costruendo tensione con color grading commerciale e motion graphics nitidi",
+    "Un montaggio raffinato di qualità commerciale e alto valore di produzione, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale che presenta standard industriale e roster multi-artista convergenti in un'esplosione commerciale di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I musicisti indipendenti utilizzano Record Labels per massimizzare la portata sulla piattaforma, assicurando che i loro contenuti rispettino i requisiti di formato e catturino l'attenzione istantaneamente.",
+    "creators": "I manager A&R si affidano a contenuti Record Labels perfettamente formattati per potenziare la visibilità algoritmica e far crescere il loro seguito con ogni caricamento.",
+    "labels": "Le etichette discografiche producono in lotti video Record Labels ottimizzati per la piattaforma per l'intero roster, riducendo il tempo di consegna da settimane a ore.",
+    "brands": "I brand che eseguono campagne a pagamento e organiche su questa piattaforma utilizzano Tunee per produrre annunci video Record Labels che catturano l'attenzione a grande scala."
+  },
+  "faqs": [
+    {
+      "q": "Supporta l'esportazione di video musicali Record Labels in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali Record Labels fino a risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e display grande schermo."
+    },
+    {
+      "q": "Come posso personalizzare lo stile visivo del mio video musicale Record Labels?",
+      "a": "Puoi guidare gli elementi visivi utilizzando prompt di testo che descrivono scene, atmosfere e ambientazioni. L'AI di Tunee interpreta il tuo input e genera contenuti visivi di alto valore di produzione che corrispondono alla tua estetica Record Labels."
+    },
+    {
+      "q": "Posso utilizzare il generatore di video musicali Record Labels di Tunee per progetti commerciali?",
+      "a": "Sì. I video creati con Tunee possono essere utilizzati per scopi commerciali, inclusi rilasci in streaming, campagne di brand e contenuti sui social media."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale Record Labels?",
+      "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale Record Labels."
+    },
+    {
+      "q": "Posso generare più versioni di un video musicale Record Labels da confrontare?",
+      "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Record Labels utilizzando diversi prompt o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
+    }
+  ]
+}

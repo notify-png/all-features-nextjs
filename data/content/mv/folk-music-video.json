@@ -1,0 +1,43 @@
+{
+  "h1": "Transform Your Music into Cinematic Folk Videos Using AI",
+  "direct_answer": "An AI folk music video generator is a tool that automatically creates professional folk-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce intimate visuals featuring text-to-video prompts and forest setting visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished folk music video in minutes, no video editing experience required.",
+  "meta_description": "Create professional Folk music videos with Tunee's AI folk music video generator. Intimate visuals, fast export, no experience required.",
+  "prompts": [
+    "A intimate scene with forest setting and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in acoustic instruments, storytelling energy radiating through every frame and cut of the video",
+    "Abstract bonfire gathering morphing and flowing in slow motion, capturing the intimate essence of the music perfectly",
+    "Close-up shots of forest setting dissolving into natural textures, creating a storytelling visual journey that follows the song's rhythm",
+    "Wide establishing shot of a warm environment with acoustic instruments in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between bonfire gathering and earthy tones, building tension with intimate color grading and sharp motion graphics",
+    "A storytelling montage of natural textures and forest setting, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring earthy tones and acoustic instruments converging in a intimate explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Folk singers need Folk music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Acoustic artists use Folk music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Folk music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Folk music video aesthetics to create intimate campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Does it support exporting Folk music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Folk music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Folk music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates forest setting-inspired visuals that match your Folk aesthetic."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Folk?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Folk. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Folk music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Folk music video automatically."
+    },
+    {
+      "q": "Does Tunee's Folk music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Folk music videos from any device without installing software."
+    }
+  ]
+}

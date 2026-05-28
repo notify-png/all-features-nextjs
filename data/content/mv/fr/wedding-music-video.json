@@ -1,0 +1,43 @@
+{
+  "h1": "Générateur de vidéo musicale de mariage alimenté par l'IA pour tous les artistes",
+  "direct_answer": "Un générateur de vidéo musicale de mariage alimenté par l'IA est un outil qui crée automatiquement des vidéos musicales professionnelles de style mariage à partir de vos fichiers audio ou de vos descriptions textuelles. La plateforme de Tunee utilise l'apprentissage automatique avancé pour produire des visuels romantiques avec génération de moments de cérémonie en temps réel et export en un clic, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer d'une idée à une vidéo musicale de mariage finalisée en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de vidéo musicale de mariage alimenté par l'IA de Tunee pour créer des visuels romantiques instantanément. Aucune compétence en montage requise — exportez en 4K pour YouTube, TikTok, ...",
+  "prompts": [
+    "Une scène romantique avec des moments de cérémonie et des mouvements de caméra amples, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Une scène de mariage immergée dans la première danse, une énergie sentimentale rayonnant à travers chaque plan et chaque coupe de la vidéo",
+    "Les vœux échangés abstraits se morphant et s'écoulant au ralenti, capturant l'essence romantique de la musique parfaitement",
+    "Des gros plans des moments de cérémonie se dissolvant en portraits à l'heure dorée, créant un voyage visuel sentimental qui suit le rythme de la chanson",
+    "Un plan d'établissement large d'un bel environnement avec la première danse au premier plan, évoquant une résonance émotionnelle profonde",
+    "Des coupes dynamiques entre l'échange de vœux et la décoration florale, construisant la tension avec un classement de couleurs romantique et des graphiques de mouvement nets",
+    "Un montage sentimental de portraits à l'heure dorée et de moments de cérémonie, superposés avec des transitions fluides et des beats visuels correspondant au drop",
+    "Une séquence finale présentant la décoration florale et la première danse convergeant dans une explosion romantique de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les jeunes mariés utilisent les vidéos musicales de mariage pour commémorer les moments spéciaux et créer des souvenirs visuels durables sur une bande sonore parfaite.",
+    "creators": "Les vidéographes de mariage produisent du contenu vidéo musicale de mariage pour raconter des histoires émouvantes, agrandir leur audience et offrir des services vidéo premium aux clients.",
+    "labels": "Les planificateurs d'événements et les vidéographes utilisent l'IA de Tunee pour livrer des paquets de vidéo de mariage polis plus rapidement et à une fraction des coûts de production traditionnels.",
+    "brands": "Les marques et les annonceurs créent du contenu sur le thème du mariage pour se connecter avec les audiences pendant les moments saisonniers clés et les jalons émotionnels."
+  },
+  "faqs": [
+    {
+      "q": "Comment puis-je personnaliser le style visuel de ma vidéo musicale de mariage ?",
+      "a": "Vous pouvez guider les visuels en utilisant des descriptions textuelles qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par les moments de cérémonie qui correspondent à votre esthétique de mariage."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéo musicale de mariage de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement le mariage ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà du mariage. Vous pouvez générer des vidéos musicales pour le pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale de mariage ?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera avec votre vidéo musicale de mariage automatiquement."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale de mariage à comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale de mariage en utilisant différentes descriptions ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

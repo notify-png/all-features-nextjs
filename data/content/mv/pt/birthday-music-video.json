@@ -1,0 +1,43 @@
+{
+  "h1": "Traga Sua Música de Aniversário para a Vida com Criação de Videoclipe com IA",
+  "direct_answer": "Um gerador de videoclipe de aniversário com IA é uma ferramenta que cria automaticamente videoclipes profissionais de aniversário a partir de seu áudio ou prompts de texto. A plataforma Tunee utiliza aprendizado de máquina avançado para produzir visuais alegres com renderização automática de bolo de aniversário e exportação multi-estilo, adaptados à energia e estilo da sua faixa. Com Tunee, você pode ir de uma ideia para um videoclipe de aniversário finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "O gerador de videoclipe de aniversário com IA da Tunee transforma sua música em vídeos de Aniversário incríveis em minutos. Experimente gratuitamente e exporte para qualquer plataforma.",
+  "prompts": [
+    "Uma cena alegre com bolo de aniversário e movimentos de câmera abrangentes, banhada em iluminação dramática que pulsa com o ritmo",
+    "Cena de aniversário imersa em festa de celebração, energia celebratória irradiando através de cada frame e corte do vídeo",
+    "Balões abstratos transformando-se e fluindo em câmera lenta, capturando perfeitamente a essência alegre da música",
+    "Planos aproximados do bolo de aniversário dissolvendo-se em momento de surpresa, criando uma jornada visual celebratória que segue o ritmo da música",
+    "Plano abrangente de um ambiente pessoal com festa de celebração em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre balões e multidão alegre, construindo tensão com gradação de cor alegre e motion graphics afiados",
+    "Uma montagem celebratória de momento de surpresa e bolo de aniversário, em camadas com transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando multidão alegre e festa de celebração convergindo em uma explosão alegre de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Celebrantes de aniversário usam videoclipes de Aniversário para comemorar momentos especiais e criar memórias visuais duradouras ao som da trilha sonora perfeita.",
+    "creators": "Presenteadores da família produzem conteúdo de videoclipe de Aniversário para contar histórias emocionantes, crescer sua audiência e oferecer serviços de vídeo premium aos clientes.",
+    "labels": "Planejadores de eventos e videógrafos usam a IA da Tunee para entregar pacotes de vídeo de Aniversário polidos mais rapidamente e por uma fração do custo de produção tradicional.",
+    "brands": "Marcas e anunciantes criam conteúdo temático de Aniversário para se conectar com públicos durante momentos sazonais-chave e marcos emocionais."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe de Aniversário sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — A IA do Tunee controla toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo de Aniversário, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Ela suporta exportação de videoclipes de Aniversário em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes de Aniversário em até resolução 4K, deixando-os prontos para YouTube, plataformas de streaming e displays de tela grande."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe de Aniversário?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA da Tunee interpreta sua entrada e gera visuais inspirados em bolo de aniversário que combinam com sua estética de Aniversário."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas Aniversário?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Aniversário. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe de Aniversário?",
+      "a": "Tunee oferece opções de sobreposição de letras e legendas integradas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe de Aniversário."
+    }
+  ]
+}

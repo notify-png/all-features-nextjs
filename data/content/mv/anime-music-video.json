@@ -1,0 +1,43 @@
+{
+  "h1": "AI-Powered Anime Music Video Generator for Every Artist",
+  "direct_answer": "An AI anime music video generator is a tool that automatically creates professional anime-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce dreamy visuals featuring real-time cel-shading generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished anime music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI anime music video generator to create dreamy Anime visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok, and more.",
+  "prompts": [
+    "A dreamy scene with cel-shading and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in watercolor, epic energy radiating through every frame and cut of the video",
+    "Abstract mecha morphing and flowing in slow motion, capturing the dreamy essence of the music perfectly",
+    "Close-up shots of cel-shading dissolving into chibi, creating a epic visual journey that follows the song's rhythm",
+    "Wide establishing shot of a nostalgic environment with watercolor in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between mecha and Ghibli-inspired, building tension with dreamy color grading and sharp motion graphics",
+    "A epic montage of chibi and cel-shading, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring Ghibli-inspired and watercolor converging in a dreamy explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Vocaloid creators need Anime music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Vtubers use Anime music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Anime music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Anime music video aesthetics to create dreamy campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Anime music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Anime style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Anime music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Anime music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "Can I use Tunee's Anime music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Anime?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Anime. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Anime music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Anime music video automatically."
+    }
+  ]
+}

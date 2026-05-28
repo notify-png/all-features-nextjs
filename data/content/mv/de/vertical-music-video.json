@@ -1,0 +1,43 @@
+{
+  "h1": "Erstelle mühelos schöne vertikale Musikvideos mit Tunee AI",
+  "direct_answer": "Ein KI-Generator für vertikale Musikvideos ist ein Tool, das automatisch professionelle vertikale Musikvideos aus deiner Audio oder Text-Eingabe erstellt. Tunee's Plattform nutzt fortschrittliches Machine Learning, um mobile-native Inhalte mit KI-generierter Szenenerzeugung im 9:16-Format und mobilfreundlichem Design zu produzieren, angepasst an die Energie und den Stil deines Tracks. Mit Tunee verwandelst du deine Idee in wenigen Minuten in ein fertiges vertikales Musikvideo – keine Videobearbeitung erforderlich.",
+  "meta_description": "Tunees KI-Generator für vertikale Musikvideos verwandelt deine Musik in wenigen Minuten in atemberaubende vertikale Videos. Kostenlos testen und auf jede Plattform exportieren.",
+  "prompts": [
+    "Eine mobile-native Szene im 9:16-Format mit schwungvollen Kamerabewegungen, getaucht in dramatisches Licht, das zum Beat pulsiert",
+    "Künstler immersiv im mobilfreundlichen Design, trendige Energie strahlt aus jedem Frame und Cut des Videos",
+    "Abstrakte TikTok-Komposition morpht und fließt in Zeitlupe und erfasst perfekt die mobile-native Essenz der Musik",
+    "Großaufnahmen im 9:16-Format lösen sich in Hochformat auf und schaffen eine trendige visuelle Reise, die dem Rhythmus des Songs folgt",
+    "Weite Establishing-Shot einer dynamischen Umgebung mit mobilfreundlichem Design im Vordergrund, die tiefe emotionale Resonanz auslöst",
+    "Dynamische Schnitte zwischen TikTok-Komposition und thumb-stopping, aufbauende Spannung mit mobile-native Farbgrading und scharfen Motion Graphics",
+    "Eine trendige Montage aus Hochformat und 9:16-Format, geschichtet mit sanften Übergängen und visuellen Beats zum Drop",
+    "Abschlusssequenz mit thumb-stopping und mobilfreundlichem Design, die in einer mobile-native Explosion aus Licht, Farbe und Bewegung konvergieren"
+  ],
+  "personas": {
+    "musicians": "TikTok-Künstler benötigen vertikale Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihre Fanbase zu vergrößern und auf Streaming-Plattformen hervorzustechen.",
+    "creators": "Instagram-Reels-Creator nutzen die Ästhetik vertikaler Musikvideos, um eine unverwechselbare visuelle Marke aufzubauen, die Engagement fördert und Kooperationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle vertikale Musikvideooproduktion, um neue Veröffentlichungen kostengünstig über alle digitalen Kanäle zu bewerben.",
+    "brands": "Marken und Werbetreibende nutzen die Ästhetik vertikaler Musikvideos, um mobile-native Kampagneninhalte zu erstellen, die emotional mit ihrer Zielgruppe resonieren."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein vertikales Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja – Tunee übernimmt die gesamte Videoproduktion automatisch. Lade einfach dein Audio hoch oder gib eine Text-Eingabe ein, wähle einen vertikalen Stil und die KI erstellt dein Video in Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export vertikaler Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert vertikale Musikvideos bis zu 4K-Auflösung und macht sie bereit für YouTube, Streaming-Plattformen und großformatige Displays."
+    },
+    {
+      "q": "Funktioniert es mit jedem Musikgenre oder nur mit vertikalen Videos?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen jenseits von vertikalen Videos. Du kannst Musikvideos für Pop, Hip-Hop, Klassik und Dutzende weiterer Stile auf derselben Plattform erstellen."
+    },
+    {
+      "q": "Wie füge ich Texte oder Untertitel zu meinem vertikalen Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitel-Overlays. Gib einfach deine Texte ein, wähle einen Textstil und die KI synchronisiert sie automatisch mit deinem vertikalen Musikvideo."
+    },
+    {
+      "q": "Funktioniert Tunees Generator für vertikale Musikvideos auf mobilen Geräten?",
+      "a": "Tunee ist vollständig über den Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du von jedem Gerät aus vertikale Musikvideos erstellen kannst – ohne Software zu installieren."
+    }
+  ]
+}

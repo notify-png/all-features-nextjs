@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tu sonido acuarela con creación de videoclips musicales con IA",
+  "direct_answer": "Un generador de videoclips musicales acuarela con IA es una herramienta que crea automáticamente videoclips musicales de estilo acuarela profesional a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales suaves con indicaciones de texto a video y efectos de pintura desvanecida, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un videoclip musical acuarela terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "El generador de videoclips musicales acuarela con IA más fácil para artistas. Tunee genera visuales acuarela suaves a partir de tu audio — pruébalo gratis hoy.",
+  "prompts": [
+    "Una escena delicada con desvanecimiento de pintura y movimientos de cámara barridos, bañada en iluminación dramática que palpita con el ritmo",
+    "Artista inmerso en bordes suaves, energía artística irradiando a través de cada fotograma y corte del vídeo",
+    "Paleta pastel abstracta transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia delicada de la música",
+    "Planos cerrados de desvanecimiento de pintura disolviéndose en apariencia pintada a mano, creando un viaje visual artístico que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno delicado con bordes suaves en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre paleta pastel e ilustración botánica, generando tensión con gradación de color suave y gráficos de movimiento nítidos",
+    "Un montaje artístico de apariencia pintada a mano y desvanecimiento de pintura, superpuesto con transiciones suaves y beats visuales que coinciden con la caída",
+    "Secuencia final que presenta ilustración botánica y bordes suaves convergiendo en una explosión suave de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas indie folk necesitan videoclips musicales acuarela para definir visualmente su identidad artística, crecer su base de fans y destacar en plataformas de streaming.",
+    "creators": "Los músicos acústicos utilizan la estética de videoclips musicales acuarela para construir una marca visual distintiva que impulsa el engagement y atrae oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videoclips musicales acuarela para promocionar nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videoclips musicales acuarela para crear contenido de campaña suave que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Soporta exportar videoclips musicales acuarela en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videoclips musicales acuarela en resolución de hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi videoclip musical acuarela?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describen escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en desvanecimiento de pintura que coincidan con tu estética acuarela."
+    },
+    {
+      "q": "¿Puedo usar el generador de videoclips musicales acuarela de Tunee para proyectos comerciales?",
+      "a": "Sí. Los vídeos creados con Tunee pueden utilizarse con fines comerciales incluyendo lanzamientos en streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo acuarela?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá de acuarela. Puedes generar videoclips musicales para pop, hip-hop, música clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo añado letras o subtítulos a mi videoclip musical acuarela?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu videoclip musical acuarela automáticamente."
+    }
+  ]
+}

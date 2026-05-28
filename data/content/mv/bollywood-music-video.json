@@ -1,0 +1,43 @@
+{
+  "h1": "Transform Your Music into Cinematic Bollywood Videos Using AI",
+  "direct_answer": "An AI Bollywood music video generator is a tool that automatically creates professional bollywood-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce colorful visuals featuring automated colorful dance number rendering and multi-style export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished bollywood music video in minutes, no video editing experience required.",
+  "meta_description": "The easiest AI Bollywood music video generator for artists. Tunee generates colorful Bollywood visuals from your audio — free to try today.",
+  "prompts": [
+    "A colorful scene with colorful dance number and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in sari costumes, dramatic energy radiating through every frame and cut of the video",
+    "Abstract palace setting morphing and flowing in slow motion, capturing the colorful essence of the music perfectly",
+    "Close-up shots of colorful dance number dissolving into rain dance, creating a dramatic visual journey that follows the song's rhythm",
+    "Wide establishing shot of a joyful environment with sari costumes in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between palace setting and synchronised ensemble, building tension with colorful color grading and sharp motion graphics",
+    "A dramatic montage of rain dance and colorful dance number, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring synchronised ensemble and sari costumes converging in a colorful explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Bollywood artists need Bollywood music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Indian film composers use Bollywood music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Bollywood music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Bollywood music video aesthetics to create colorful campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Does it support exporting Bollywood music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Bollywood music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Bollywood music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates colorful dance number-inspired visuals that match your Bollywood aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Bollywood music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Bollywood?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Bollywood. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "Can I generate multiple versions of a Bollywood music video to compare?",
+      "a": "Yes. You can generate several variations of your Bollywood music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

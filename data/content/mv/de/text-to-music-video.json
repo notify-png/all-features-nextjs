@@ -1,0 +1,43 @@
+{
+  "h1": "Die schnellste Möglichkeit, Text-zu-MV-Musikvideos mit AI zu erstellen",
+  "direct_answer": "Ein Text-zu-Musikvideo-AI ist ein Tool, das automatisch professionelle Text-zu-MV-Musikvideos aus Ihren Audio- oder Textaufforderungen erstellt. Die Plattform von Tunee nutzt fortschrittliches Machine Learning, um kreative Visuals mit Echtzeit-Prompt-Generierung und One-Click-Export zu produzieren, abgestimmt auf die Energie und den Stil Ihres Tracks. Mit Tunee können Sie in Minuten von der Idee zu einem fertigen Text-zu-MV-Musikvideo gelangen – ohne Videobearbeitungserfahrung erforderlich.",
+  "meta_description": "Die einfachste Text-zu-Musikvideo-AI für Künstler. Tunee generiert kreative Text-zu-MV-Visuals aus Ihrem Audio – kostenlos testen Sie noch heute.",
+  "prompts": [
+    "Eine kreative Szene mit Prompt-Eingabe und fließenden Kamerabewegungen, getaucht in dramatische Beleuchtung, die mit dem Beat pulsiert",
+    "Künstler immersiv in Szenenbeschreibung, Prompt-gesteuerte Energie, die aus jedem Frame und Schnitt des Videos ausstrahlt",
+    "Abstrakte natürliche Sprache morphiert und fließt in Zeitlupe, erfasst perfekt die kreative Essenz der Musik",
+    "Nahaufnahmen von Prompt-Eingabe, die in Text-Prompt aufgelöst wird, schaffen eine Prompt-gesteuerte visuelle Reise, die dem Rhythmus des Songs folgt",
+    "Breite Establishing-Aufnahme einer schnelllebigen Umgebung mit Szenenbeschreibung im Vordergrund, weckt tiefe emotionale Resonanz",
+    "Dynamische Schnitte zwischen natürlicher Sprache und AI-Generierung, bauen Spannung mit kreativer Farbgrading und scharfen Motion Graphics auf",
+    "Eine Prompt-gesteuerte Montage aus Text-Prompt und Prompt-Eingabe, überlagert mit sanften Übergängen und visuellen Beats, die zum Drop passen",
+    "Finale Sequenz, in der AI-Generierung und Szenenbeschreibung in einer kreativen Explosion aus Licht, Farbe und Bewegung verschmelzen"
+  ],
+  "personas": {
+    "musicians": "Musiker nutzen diesen Text-zu-MV-Workflow, um rohe Assets – Fotos, Texte oder Audio – schnell in polierte Musikvideos umzuwandeln, ohne ein Produktionsteam zu benötigen.",
+    "creators": "Content Creator nutzen die Text-zu-MV-Pipeline, um repetitive Videoproduktionsaufgaben zu automatisieren und sich mehr auf kreative Richtung zu konzentrieren.",
+    "labels": "Plattenlabels integrieren diesen Text-zu-MV-Workflow in ihren Release-Prozess, um hochwertige visuelle Inhalte für jeden Single und Album-Track zu produzieren.",
+    "brands": "Marketing-Teams nutzen den Text-zu-MV-Workflow, um bestehende Brand-Assets in ansprechende musikgesteuerte Videoinhalte für Kampagnen umzuwandeln."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Text-zu-MV-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja – Tunees AI übernimmt die gesamte Videoproduktion automatisch. Laden Sie einfach Ihr Audio hoch oder geben Sie einen Text-Prompt ein, wählen Sie einen Text-zu-MV-Stil, und die AI generiert Ihr Video in Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export von Text-zu-MV-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Text-zu-MV-Musikvideos in bis zu 4K-Auflösung, wodurch sie bereit für YouTube, Streaming-Plattformen und großformatige Displays sind."
+    },
+    {
+      "q": "Kann ich Tunees Text-zu-MV-Musikvideo-Generator für kommerzielle Projekte nutzen?",
+      "a": "Ja. Videos, die mit Tunee erstellt werden, können für kommerzielle Zwecke genutzt werden, einschließlich Streaming-Releases, Brand-Kampagnen und Social-Media-Inhalte."
+    },
+    {
+      "q": "Funktioniert es mit jedem Musikgenre oder nur mit Text-zu-MV?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Text-zu-MV hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und dutzende andere Stile auf derselben Plattform generieren."
+    },
+    {
+      "q": "Funktioniert Tunees Text-zu-MV-Musikvideo-Generator auf mobilen Geräten?",
+      "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Text-zu-MV-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-snapchat",
+  "parent": "/features/music-video-generator",
+  "category": "Platform",
+  "genre_name": "Snapchat",
+  "genre_name_zh": "Snapchat",
+  "keyword_en": "AI music video for Snapchat",
+  "visual_keywords": [
+    "AR filter aesthetic",
+    "ephemeral style",
+    "lens-inspired visuals",
+    "Gen Z aesthetic",
+    "snap-native"
+  ],
+  "mood_words": [
+    "playful",
+    "ephemeral",
+    "youthful",
+    "fun"
+  ],
+  "target_personas": [
+    "Gen Z artists",
+    "Snapchat Spotlight creators",
+    "youth music makers",
+    "AR-forward musicians"
+  ],
+  "color_accent": "#FFFC00",
+  "color_secondary": "#FFD700",
+  "has_custom_asset": false,
+  "demo_prompt": "Snapchat-native vertical music video with AR filter aesthetic, bold Gen Z visual style, lens-inspired animations"
+}

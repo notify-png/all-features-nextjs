@@ -1,0 +1,43 @@
+{
+  "h1": "Erwecken Sie Ihren Funk-Sound zum Leben mit AI-Musikvideoerstellung",
+  "direct_answer": "Ein AI-Funk-Musikvideogenerator ist ein Tool, das automatisch professionelle Funk-Musikvideos aus Ihrem Audio oder Text-Prompts erstellt. Tunees Plattform nutzt fortschrittliches Machine Learning, um groovige Visuals mit AI-Szenenerstellung, 70er-Jahre-Retro-Set und Afro-Frisuren zu produzieren, die auf die Energie und den Stil Ihres Tracks abgestimmt sind. Mit Tunee können Sie in wenigen Minuten von einer Idee zu einem fertigen Funk-Musikvideo gelangen – ohne Videobearbeitungserfahrung erforderlich.",
+  "meta_description": "Tunees AI-Funk-Musikvideogenerator verwandelt Ihre Musik in wenigen Minuten in atemberaubende Funk-Videos. Kostenlos testen und auf jede Plattform exportieren.",
+  "prompts": [
+    "Eine groovige Szene mit 70er-Jahre-Retro-Set und schwungvollen Kamerabewegungen, getaucht in dramatisches Licht, das mit dem Beat pulsiert",
+    "Künstler umgeben von Afro-Frisuren, funky Energie strahlt aus jedem Frame und jedem Schnitt des Videos",
+    "Nahaufnahme einer abstrakten Bassgitarre, die sich morpht und fließt in Zeitlupe und die groovige Essenz der Musik perfekt einfängt",
+    "Nahaufnahmen eines 70er-Jahre-Retro-Sets, das in eine groovige Tanzfläche übergeht und eine funky visuelle Reise schafft, die dem Rhythmus des Songs folgt",
+    "Weit angelegte Establishing-Shot einer Feieratmosphäre mit Afro-Frisuren im Vordergrund, die tiefe emotionale Resonanz ausstrahlt",
+    "Dynamische Schnitte zwischen Bassgitarren-Nahaufnahmen und grellen Kostümen, die Spannung mit groovigem Farbgrading und scharfer Motion Graphics aufbauen",
+    "Ein funky Montage aus grooviger Tanzfläche und 70er-Jahre-Retro-Set, überlagert mit sanften Übergängen und visuellen Beats, die mit dem Drop synchronisiert sind",
+    "Abschlusssequenz mit grellen Kostümen und Afro-Frisuren, die in einer groovigen Explosion aus Licht, Farbe und Bewegung zusammentreffen"
+  ],
+  "personas": {
+    "musicians": "Funk-Bands brauchen Funk-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihre Fanbase zu vergrößern und sich auf Streaming-Plattformen hervorzuheben.",
+    "creators": "Bass-Musiker nutzen Funk-Musikvideo-Ästhetik, um eine markante visuelle Marke aufzubauen, die Engagement fördert und Kooperationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle Funk-Musikvideooproduktion, um neue Veröffentlichungen kosteneffektiv über alle digitalen Kanäle zu bewerben.",
+    "brands": "Marken und Werbetreibende nutzen Funk-Musikvideo-Ästhetik, um groovige Kampagneninhalte zu erstellen, die emotional bei ihrer Zielgruppe resonieren."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Funk-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja — Tunee übernimmt die gesamte Videoproduktion automatisch. Laden Sie einfach Ihr Audio hoch oder geben Sie einen Text-Prompt ein, wählen Sie einen Funk-Stil, und die AI generiert Ihr Video in wenigen Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export von Funk-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Funk-Musikvideos in bis zu 4K-Auflösung, sodass sie bereit für YouTube, Streaming-Plattformen und große Bildschirme sind."
+    },
+    {
+      "q": "Wie kann ich den visuellen Stil meines Funk-Musikvideos anpassen?",
+      "a": "Sie können die Visuals mit Text-Prompts steuern, die Szenen, Stimmungen und Einstellungen beschreiben. Tunees AI interpretiert Ihre Eingabe und generiert 70er-Jahre-Retro-Set-inspirierte Visuals, die Ihrer Funk-Ästhetik entsprechen."
+    },
+    {
+      "q": "Kann ich Tunees Funk-Musikvideogenerator für kommerzielle Projekte nutzen?",
+      "a": "Ja. Videos, die mit Tunee erstellt werden, können für kommerzielle Zwecke verwendet werden, einschließlich Streaming-Veröffentlichungen, Markenkampagnen und Social-Media-Inhalte."
+    },
+    {
+      "q": "Funktioniert es mit jedem Musikgenre oder nur mit Funk?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Funk hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und Dutzende andere Stile mit derselben Plattform generieren."
+    }
+  ]
+}

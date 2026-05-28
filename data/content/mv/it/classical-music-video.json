@@ -1,0 +1,43 @@
+{
+  "h1": "Trasforma la Tua Musica in Video Classici Cinematografici Usando l'AI",
+  "direct_answer": "Un generatore di video musicali classici AI è uno strumento che crea automaticamente video musicali professionali in stile classico dal tuo audio o dai tuoi prompt di testo. La piattaforma Tunee utilizza machine learning avanzato per produrre visuals maestosi con generazione di scene AI, esibizioni in sala da concerto e orchestra, personalizzate in base all'energia e allo stile della tua traccia. Con Tunee, puoi passare dall'idea a un video musicale classico finito in pochi minuti, senza esperienza di editing video.",
+  "meta_description": "Crea video musicali Classici professionali con il generatore di video musicali classici AI di Tunee. Visuals maestosi, esportazione veloce, nessuna esperienza richiesta.",
+  "prompts": [
+    "Una scena maestosa con sala da concerto e movimenti di camera fluidi, immersa in illuminazione drammatica che pulsa a ritmo della musica",
+    "Artista immerso in esibizione orchestrale, energia elegante che irradia da ogni frame e taglio del video",
+    "Pianoforte a coda astratto che si trasforma e fluisce in slow motion, catturando perfettamente l'essenza maestosa della musica",
+    "Primi piani della sala da concerto che si dissolvono in illuminazione drammatica, creando un viaggio visivo elegante che segue il ritmo della canzone",
+    "Inquadratura di apertura ampia di un ambiente emotivo con esibizione orchestrale in primo piano, che evoca una risonanza emotiva profonda",
+    "Tagli dinamici tra pianoforte a coda e architettura barocca, costruendo tensione con color grading maestoso e sharp motion graphics",
+    "Un montaggio elegante di illuminazione drammatica e sala da concerto, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale con architettura barocca ed esibizione orchestrale che convergono in un'esplosione maestosa di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I compositori classici hanno bisogno di video musicali Classici per definire visivamente la loro identità artistica, far crescere il loro fanbase e distinguersi sulle piattaforme di streaming.",
+    "creators": "Le orchestre utilizzano l'estetica dei video musicali Classici per costruire un brand visivo distintivo che aumenta l'engagement e attrae opportunità di collaborazione.",
+    "labels": "Le case discografiche si affidano alla produzione veloce e professionale di video musicali Classici per promuovere le nuove uscite in modo economico su tutti i canali digitali.",
+    "brands": "I brand e gli inserzionisti utilizzano l'estetica dei video musicali Classici per creare contenuti di campagna maestosi che risuonano emotivamente con il loro pubblico target."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale Classico senza alcuna esperienza di editing video?",
+      "a": "Sì — l'AI di Tunee gestisce automaticamente tutta la produzione video. Carica semplicemente il tuo audio o inserisci un prompt di testo, scegli uno stile Classico, e l'AI genererà il tuo video in pochi minuti."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali Classici in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali Classici fino a risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e display su schermo grande."
+    },
+    {
+      "q": "Posso usare il generatore di video musicali Classici di Tunee per progetti commerciali?",
+      "a": "Sì. I video creati con Tunee possono essere utilizzati per scopi commerciali inclusi rilasci in streaming, campagne brand e contenuti sui social media."
+    },
+    {
+      "q": "Funziona con qualsiasi genere di musica, o solo con la Classica?",
+      "a": "Tunee supporta una vasta gamma di generi e stili visivi oltre alla Classica. Puoi generare video musicali per pop, hip-hop, classica e dozzine di altri stili utilizzando la stessa piattaforma."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale Classico?",
+      "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi, scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale Classico."
+    }
+  ]
+}

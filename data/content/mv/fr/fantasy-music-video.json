@@ -1,0 +1,43 @@
+{
+  "h1": "Créez des vidéos musicales fantasy magnifiques sans effort avec Tunee AI",
+  "direct_answer": "Un générateur de vidéo musicale fantasy alimenté par l'IA est un outil qui crée automatiquement des vidéos musicales de style fantasy professionnelles à partir de vos fichiers audio ou invites textuelles. La plateforme de Tunee utilise l'apprentissage automatique avancé pour produire des visuels épiques présentant le rendu de vol de dragon automatisé et l'export multi-styles, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale fantasy finie en quelques minutes, aucune expérience d'édition vidéo requise.",
+  "meta_description": "Créez des vidéos musicales fantasy professionnelles avec le générateur de vidéo musicale fantasy de Tunee. Visuels épiques, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène épique avec vol de dragon et mouvements de caméra panoramiques, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans une forêt magique, l'énergie magique rayonnant à travers chaque image et coupe de la vidéo",
+    "Lancement de sort abstrait se morphant et s'écoulant au ralenti, capturant l'essence épique de la musique parfaitement",
+    "Plans rapprochés de vol de dragon se dissolvant dans un château épique, créant un voyage visuel magique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement aventureux avec forêt magique au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre lancement de sort et runes brillantes, créant de la tension avec un étalonnage des couleurs épique et des graphiques en mouvement nets",
+    "Un montage magique de château épique et vol de dragon, en couches avec des transitions fluides et des beats visuels correspondant à la chute",
+    "Séquence finale présentant des runes brillantes et une forêt magique convergeant dans une explosion épique de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les compositeurs de musique fantasy ont besoin de vidéos musicales fantasy pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les créateurs de bandes sonores épiques utilisent l'esthétique vidéo musicale fantasy pour construire une marque visuelle distinctive qui favorise l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur la production rapide et professionnelle de vidéos musicales fantasy pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique vidéo musicale fantasy pour créer du contenu de campagne épique qui résonne émotionnellement avec leur public cible."
+  },
+  "faqs": [
+    {
+      "q": "Supporte-t-il l'export de vidéos musicales fantasy en résolution 4K ?",
+      "a": "Absolument. Tunee exporte des vidéos musicales fantasy jusqu'à 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo musicale fantasy ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés du vol de dragon qui correspondent à votre esthétique fantasy."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement fantasy ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà de fantasy. Vous pouvez générer des vidéos musicales pour pop, hip-hop, classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale fantasy ?",
+      "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale fantasy."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale fantasy à comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale fantasy en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

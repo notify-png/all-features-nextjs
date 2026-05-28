@@ -1,0 +1,43 @@
+{
+  "h1": "Produce High-Quality Apple Music Music Videos with AI Technology",
+  "direct_answer": "An AI music video for Apple Music is a tool that automatically creates professional apple music-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce premium visuals featuring text-to-video prompts and premium quality visuals, tailored to your track's energy and style. With Tunee, you can go from idea to a finished apple music music video in minutes, no video editing experience required.",
+  "meta_description": "Tunee's AI music video for Apple Music turns your music into stunning Apple Music videos in minutes. Try free and export to any platform.",
+  "prompts": [
+    "A premium scene with premium quality and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in album art integration, polished energy radiating through every frame and cut of the video",
+    "Abstract 16:9 widescreen morphing and flowing in slow motion, capturing the premium essence of the music perfectly",
+    "Close-up shots of premium quality dissolving into editorial visual style, creating a polished visual journey that follows the song's rhythm",
+    "Wide establishing shot of a editorial environment with album art integration in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between 16:9 widescreen and high production value, building tension with premium color grading and sharp motion graphics",
+    "A polished montage of editorial visual style and premium quality, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring high production value and album art integration converging in a premium explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use Apple Music to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "Label-distributed artists rely on perfectly formatted Apple Music content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized Apple Music videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping Apple Music video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Apple Music music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Apple Music style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Apple Music music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Apple Music music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Apple Music music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates premium quality-inspired visuals that match your Apple Music aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Apple Music music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Apple Music music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Apple Music music video automatically."
+    }
+  ]
+}

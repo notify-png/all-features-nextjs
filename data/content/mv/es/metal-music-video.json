@@ -1,0 +1,43 @@
+{
+  "h1": "Genera Vídeos de Música Metal Profesionales Instantáneamente con IA",
+  "direct_answer": "Un generador de vídeos de música metal con IA es una herramienta que crea automáticamente vídeos de música profesionales con estilo metal a partir de tu audio o prompts de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales brutales con renderizado de escenario oscuro automatizado y exportación multi-estilo, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un vídeo de música metal terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "Usa el generador de vídeos de música metal con IA de Tunee para crear visuales metal brutales al instante. Sin habilidades de edición requeridas — exporta en 4K para YouTube, TikTok y más.",
+  "prompts": [
+    "Una escena brutal con escenario oscuro y movimientos de cámara barridos, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en una multitud de headbanging, energía intensa radiando a través de cada fotograma y corte del vídeo",
+    "Shred de guitarra abstracto morphing y fluyendo en cámara lenta, capturando la esencia brutal de la música perfectamente",
+    "Tomas de primer plano del escenario oscuro disolviéndose en niebla dramática, creando un viaje visual intenso que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un ambiente oscuro con multitud de headbanging en primer plano, evocando resonancia emocional profunda",
+    "Cortes dinámicos entre shred de guitarra e imágenes de calaveras, construyendo tensión con color grading brutal y motion graphics afilados",
+    "Un montaje intenso de niebla dramática y escenario oscuro, superpuesto con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con imágenes de calaveras y multitud de headbanging convergiendo en una explosión brutal de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Las bandas de metal necesitan vídeos de música metal para definir visualmente su identidad artística, crecer su base de fans y destacar en plataformas de streaming.",
+    "creators": "Los artistas de heavy metal usan estética de vídeos de música metal para construir una marca visual distintiva que impulsa engagement y atrae oportunidades de colaboración.",
+    "labels": "Las discográficas confían en la producción rápida y profesional de vídeos de música metal para promover nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes usan estética de vídeos de música metal para crear contenido de campaña brutal que resuena emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Soporta la exportación de vídeos de música metal en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos de música metal en resolución 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi vídeo de música metal?",
+      "a": "Puedes guiar los visuales usando prompts de texto que describen escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en escenario oscuro que coinciden con tu estética metal."
+    },
+    {
+      "q": "¿Puedo usar el generador de vídeos de música metal de Tunee para proyectos comerciales?",
+      "a": "Sí. Los vídeos creados con Tunee pueden usarse para propósitos comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música o solo Metal?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá del Metal. Puedes generar vídeos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un vídeo de música metal para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu vídeo de música metal usando diferentes prompts o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

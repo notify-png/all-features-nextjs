@@ -1,0 +1,31 @@
+{
+  "slug": "new-year-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "New Year",
+  "genre_name_zh": "新年",
+  "keyword_en": "AI New Year music video generator",
+  "visual_keywords": [
+    "fireworks display",
+    "countdown clock",
+    "champagne toast",
+    "Times Square energy",
+    "midnight celebration"
+  ],
+  "mood_words": [
+    "celebratory",
+    "hopeful",
+    "exciting",
+    "joyful"
+  ],
+  "target_personas": [
+    "New Year party artists",
+    "celebration music creators",
+    "holiday content makers",
+    "party music DJs"
+  ],
+  "color_accent": "#FFD700",
+  "color_secondary": "#FFA500",
+  "has_custom_asset": false,
+  "demo_prompt": "New Year's Eve countdown, fireworks over city skyline, champagne toast at midnight, confetti explosion, crowd celebration"
+}

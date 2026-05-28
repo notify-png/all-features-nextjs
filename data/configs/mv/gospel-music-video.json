@@ -1,0 +1,31 @@
+{
+  "slug": "gospel-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Gospel",
+  "genre_name_zh": "福音",
+  "keyword_en": "AI gospel music video generator",
+  "visual_keywords": [
+    "church choir",
+    "stained glass light",
+    "hands raised worship",
+    "cross silhouette",
+    "divine lighting"
+  ],
+  "mood_words": [
+    "uplifting",
+    "spiritual",
+    "powerful",
+    "emotional"
+  ],
+  "target_personas": [
+    "gospel choirs",
+    "worship leaders",
+    "Christian music creators",
+    "church musicians"
+  ],
+  "color_accent": "#FFD700",
+  "color_secondary": "#FFF0A0",
+  "has_custom_asset": false,
+  "demo_prompt": "Gospel choir performing in cathedral with sunlight through stained glass, hands raised in worship, divine golden light rays"
+}

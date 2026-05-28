@@ -1,0 +1,43 @@
+{
+  "h1": "Produce vídeos musicales de bandas de alta calidad con tecnología AI",
+  "direct_answer": "Un vídeo musical AI para bandas es una herramienta que crea automáticamente vídeos musicales profesionales de estilo banda a partir de tu audio o indicaciones de texto. La plataforma Tunee utiliza aprendizaje automático avanzado para producir visuales de conjunto con indicaciones de texto a vídeo y visuales de tomas de banda, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un vídeo musical de banda terminado en minutos, sin necesidad de experiencia en edición de vídeo.",
+  "meta_description": "Tunee's AI music video for bands transforma tu música en impresionantes vídeos de banda en minutos. Prueba gratis y exporta a cualquier plataforma.",
+  "prompts": [
+    "Una escena de conjunto con toma de banda y movimientos de cámara barridos, bañada en iluminación dramática que pulsea al ritmo",
+    "Plano de primer plano vertical inmerso en energía multi-instrumento, radiando unidad a través de cada fotograma y corte del vídeo",
+    "Interpretación de grupo abstracta que se transforma y fluye en cámara lenta, capturando perfectamente la esencia de conjunto de la música",
+    "Planos cercanos de toma de banda disolviendo en energía en vivo, creando un recorrido visual unido que sigue el ritmo de la canción",
+    "Plano general amplio de un ambiente energético con multi-instrumento en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre interpretación grupal y química de banda, construyendo tensión con gradación de color de conjunto y gráficos de movimiento nítidos",
+    "Un montaje unido de energía en vivo y toma de banda, superpuesto con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con química de banda e instrumento múltiple convergiendo en una explosión de conjunto de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los músicos independientes utilizan vídeos de banda para maximizar el alcance en la plataforma, asegurando que su contenido cumpla los requisitos de formato y capture la atención al instante.",
+    "creators": "Las bandas de rock dependen de contenido de banda perfectamente formateado para aumentar la visibilidad algorítmica y crecer su comunidad con cada subida.",
+    "labels": "Las discográficas producen en lote vídeos de banda optimizados para la plataforma de su elenco completo, reduciendo el tiempo de entrega de semanas a horas.",
+    "brands": "Las marcas que ejecutan campañas pagadas y orgánicas en esta plataforma utilizan Tunee para producir anuncios de vídeo de banda que detienen el scroll a escala."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un vídeo musical de banda sin experiencia en edición de vídeo?",
+      "a": "Sí — Tunee's AI maneja toda la producción de vídeo automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo de banda, y el AI genera tu vídeo en minutos."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi vídeo musical de banda?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, atmósferas y escenarios. El AI de Tunee interpreta tu entrada y genera visuales inspirados en tomas de banda que coincidan con tu estética de banda."
+    },
+    {
+      "q": "¿Puedo usar el generador de vídeos musicales de banda de Tunee para proyectos comerciales?",
+      "a": "Sí. Los vídeos creados con Tunee pueden utilizarse para propósitos comerciales incluyendo lanzamientos en streaming, campañas de marca y contenido en redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con banda?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá de banda. Puedes generar vídeos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi vídeo musical de banda?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y el AI sincronizará automáticamente con tu vídeo musical de banda."
+    }
+  ]
+}

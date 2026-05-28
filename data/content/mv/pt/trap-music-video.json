@@ -1,0 +1,43 @@
+{
+  "h1": "A Forma Mais Rápida de Criar Vídeos de Trap Music com IA",
+  "direct_answer": "Um gerador de vídeos de trap music com IA é uma ferramenta que cria automaticamente vídeos de trap profissionais a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais duros com geração de cenas de IA, trap house e lean pour, personalizados à energia e estilo da sua faixa. Com Tunee, você sai da ideia para um vídeo de trap music finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "O gerador de vídeos de trap music com IA mais fácil para artistas. Tunee gera visuais trap duros a partir do seu áudio — teste gratuitamente hoje.",
+  "prompts": [
+    "Uma cena dura com trap house e movimentos de câmera varrendo, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em lean pour, energia escura irradiando por cada frame e corte do vídeo",
+    "Joias de gelo abstratas se transformando e fluindo em câmera lenta, capturando perfeitamente a essência dura da música",
+    "Planos próximos de trap house se dissolvendo em noite urbana escura, criando uma jornada visual escura que segue o ritmo da música",
+    "Plano de estabelecimento amplo de um ambiente hipnotizante com lean pour em primeiro plano, evocando ressonância emocional profunda",
+    "Cortes dinâmicos entre joias de gelo e visualização de 808, construindo tensão com grading de cor duro e motion graphics afiados",
+    "Uma montagem escura de noite urbana escura e trap house, em camadas com transições suaves e batidas visuais acompanhando o drop",
+    "Sequência final apresentando visualização de 808 e lean pour convergindo em uma explosão dura de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Trap rappers precisam de vídeos de trap music para definir visualmente sua identidade artística, crescer sua fanbase e se destacar em plataformas de streaming.",
+    "creators": "Produtores no estilo Atlanta usam estéticas de vídeo de trap music para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de vídeos de trap music para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de vídeo de trap music para criar conteúdo de campanhas duros que ressoam emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Ele suporta exportação de vídeos de trap music em resolução 4K?",
+      "a": "Com certeza. Tunee exporta vídeos de trap music em resolução de até 4K, deixando-os prontos para YouTube, plataformas de streaming e displays de tela grande."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu vídeo de trap music?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente digite suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente com seu vídeo de trap music."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um vídeo de trap music para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu vídeo de trap music usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se encaixa à sua visão."
+    },
+    {
+      "q": "O gerador de vídeos de trap music Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar vídeos de trap music de qualquer dispositivo sem instalar software."
+    },
+    {
+      "q": "Posso criar um vídeo de trap music sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA Tunee cuida de toda a produção de vídeo automaticamente. Basta enviar seu áudio ou digitar um prompt de texto, escolher um estilo de trap e a IA gerará seu vídeo em minutos."
+    }
+  ]
+}

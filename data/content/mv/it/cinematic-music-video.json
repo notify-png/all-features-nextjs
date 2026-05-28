@@ -1,0 +1,43 @@
+{
+  "h1": "Crea straordinari video musicali cinematografici con l'AI in pochi minuti",
+  "direct_answer": "Un generatore di video musicali cinematografici basato su AI è uno strumento che crea automaticamente video musicali di stile cinematografico professionale dal tuo audio o da prompt di testo. La piattaforma Tunee utilizza il machine learning avanzato per produrre visual epici con rendering automatico di lens flare anamorfici e esportazione multi-stile, personalizzati in base all'energia e allo stile del tuo brano. Con Tunee, puoi passare dall'idea a un video musicale cinematografico finito in pochi minuti, senza richiedere esperienza di editing video.",
+  "meta_description": "Il generatore di video musicali cinematografici AI più semplice per artisti. Tunee genera visual cinematografici epici dal tuo audio — prova gratuitamente oggi.",
+  "prompts": [
+    "Una scena epica con lens flare anamorfici e movimenti di camera panoramici, immersa in un'illuminazione drammatica che pulsa a ritmo della musica",
+    "Artista immerso in un'inquadratura grandangolare epica, energia drammatica che irradia in ogni fotogramma e taglio del video",
+    "Profondità di campo poco profonda astratta che si trasforma e scorre al rallentatore, catturando perfettamente l'essenza epica della musica",
+    "Primi piani di lens flare anamorfici che si dissolvono in una color grade drammatica, creando un viaggio visivo drammatico che segue il ritmo della canzone",
+    "Inquadratura panoramica di un ambiente emotivo con inquadratura grandangolare epica in primo piano, evocando una profonda risonanza emotiva",
+    "Tagli dinamici tra profondità di campo poco profonda e dolly shot, costruendo tensione con color grading epico e motion graphics nitidi",
+    "Un montaggio drammatico di color grade drammatica e lens flare anamorfici, stratificati con transizioni fluide e beat visivi che seguono il drop",
+    "Sequenza finale con dolly shot e inquadratura grandangolare epica che convergono in un'esplosione epica di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I compositori cinematografici hanno bisogno di video musicali cinematografici per definire visivamente la loro identità artistica, far crescere la loro fanbase e distinguersi sulle piattaforme di streaming.",
+    "creators": "Gli artisti pop cinematografici utilizzano l'estetica video musicale cinematografica per costruire un brand visivo distintivo che favorisca l'engagement e attiri opportunità di collaborazione.",
+    "labels": "Le etichette discografiche si affidano alla produzione veloce e professionale di video musicali cinematografici per promuovere nuove uscite in modo economico su tutti i canali digitali.",
+    "brands": "I brand e gli inserzionisti utilizzano l'estetica video musicale cinematografica per creare contenuti campagne epici che risuonino emotivamente con il loro pubblico target."
+  },
+  "faqs": [
+    {
+      "q": "Come posso personalizzare lo stile visivo del mio video musicale cinematografico?",
+      "a": "Puoi guidare i visual utilizzando prompt di testo che descrivono scene, atmosfere e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visual ispirati a lens flare anamorfici che corrispondono alla tua estetica cinematografica."
+    },
+    {
+      "q": "Funziona con qualsiasi genere musicale, o solo con genere cinematografico?",
+      "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre al genere cinematografico. Puoi generare video musicali per pop, hip-hop, classica e decine di altri stili utilizzando la stessa piattaforma."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale cinematografico?",
+      "a": "Tunee offre opzioni di sovrapposizione di testi e sottotitoli integrate. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale cinematografico."
+    },
+    {
+      "q": "Posso generare più versioni di un video musicale cinematografico per confrontarle?",
+      "a": "Sì. Puoi generare diverse variazioni del tuo video musicale cinematografico utilizzando prompt diversi o impostazioni di stile diverse, poi selezionare la versione che si adatta meglio alla tua visione."
+    },
+    {
+      "q": "Il generatore di video musicali cinematografici di Tunee funziona su dispositivi mobili?",
+      "a": "Tunee è completamente accessibile tramite browser web su desktop e dispositivi mobili, così puoi creare video musicali cinematografici da qualsiasi dispositivo senza installare software."
+    }
+  ]
+}

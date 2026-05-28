@@ -1,0 +1,43 @@
+{
+  "h1": "Traga o Som do Seu Concerto à Vida com Criação de Videoclipe com IA",
+  "direct_answer": "Um videoclipe de concerto ao vivo com IA é uma ferramenta que cria automaticamente videoclipes profissionais estilo concerto a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais épicos com prompts de texto para vídeo e visuais de concertos em arena, personalizados à energia e estilo da sua faixa. Com Tunee, você pode passar de uma ideia para um videoclipe de concerto finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Crie videoclipes profissionais de concerto com o videoclipe de concerto ao vivo com IA da Tunee. Visuais épicos, exportação rápida, sem experiência necessária.",
+  "prompts": [
+    "Uma cena épica com concerto em arena e movimentos de câmera abrangentes, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em produção de palco massiva, energia ao vivo irradiando através de cada frame e corte do vídeo",
+    "Show de luzes abstrato transformando e fluindo em câmera lenta, capturando perfeitamente a essência épica da música",
+    "Planos aproximados de concerto em arena se dissolvendo em escala de multidão, criando uma jornada visual ao vivo que segue o ritmo da música",
+    "Plano estabelecedor amplo de um ambiente energético com produção de palco massiva em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre show de luzes e qualidade de transmissão, construindo tensão com grading de cor épico e motion graphics afiados",
+    "Uma montagem ao vivo de escala de multidão e concerto em arena, com camadas de transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando qualidade de transmissão e produção de palco massiva convergindo em uma explosão épica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas em turnê precisam de videoclipes de concerto para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Bandas de arena usam estética de videoclipe de concerto para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes de concerto para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estética de videoclipe de concerto para criar conteúdo épico de campanha que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe de concerto sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee manipula toda a produção de vídeo automaticamente. Apenas envie seu áudio ou insira um prompt de texto, escolha um estilo de concerto, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportação de videoclipes de concerto em resolução 4K?",
+      "a": "Absolutamente. A Tunee exporta videoclipes de concerto em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e displays de grande escala."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas concerto?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de concerto. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe de concerto?",
+      "a": "Tunee oferece opções de sobreposição de letras e legendas integradas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe de concerto."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe de concerto para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe de concerto usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

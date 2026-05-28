@@ -1,0 +1,43 @@
+{
+  "h1": "Erwecken Sie Ihren Geburtstags-Sound mit KI-Musikvideogenerierung zum Leben",
+  "direct_answer": "Ein KI-Geburtstags-Musikvideogenerator ist ein Tool, das automatisch professionelle Geburtstags-Musikvideos aus Ihren Audio- oder Textaufforderungen erstellt. Tunees Plattform nutzt fortschrittliches Machine Learning, um freudige Visuals mit automatisierter Geburtstagskuchen-Darstellung und Multi-Style-Export zu produzieren, zugeschnitten auf die Energie und den Stil Ihres Tracks. Mit Tunee können Sie in Minuten von einer Idee zu einem fertigen Geburtstags-Musikvideo gelangen – keine Videobearbeitungserfahrung erforderlich.",
+  "meta_description": "Tunees KI-Geburtstags-Musikvideogenerator verwandelt Ihre Musik in Minuten in atemberaubende Geburtstagvideos. Kostenlos testen und auf jede Plattform exportieren.",
+  "prompts": [
+    "Eine freudige Szene mit Geburtstagskuchen und fließenden Kamerabewegungen, getaucht in dramatisches Licht, das zum Takt pulsiert",
+    "Geburtstagsszenario voller Feierlichkeiten, festliche Energie strahlt aus jedem Frame und Schnitt des Videos",
+    "Abstrakte Ballons, die in Zeitlupe morphen und fließen, erfassen die freudige Essenz der Musik perfekt",
+    "Nahaufnahmen von Geburtstagskuchen, die in einen Überraschungsmoment auflösen, schaffen eine festliche visuelle Reise, die dem Rhythmus des Songs folgt",
+    "Breiter Establishing Shot einer persönlichen Umgebung mit Feier im Vordergrund, erweckt tiefe emotionale Resonanz",
+    "Dynamische Schnitte zwischen Ballons und freudigem Publikum, bauen Spannung mit festlicher Farbstimmung und scharfen Motion Graphics auf",
+    "Ein festliches Medley aus Überraschungsmoment und Geburtstagskuchen, geschichtet mit glatten Übergängen und visuellen Beats, die zum Drop passen",
+    "Abschließende Sequenz mit freudigem Publikum und Feierlichkeiten, die in einer freudigen Explosion aus Licht, Farbe und Bewegung zusammenlaufen"
+  ],
+  "personas": {
+    "musicians": "Geburtstagsfeiernde nutzen Geburtstags-Musikvideos, um besondere Momente zu würdigen und bleibende visuelle Erinnerungen zu schaffen, unterlegt mit dem perfekten Soundtrack.",
+    "creators": "Geschenkgebende aus der Familie produzieren Geburtstags-Musikvideoinhalte, um emotionale Geschichten zu erzählen, ihre Zielgruppe zu vergrößern und Premium-Videodienste für Kunden anzubieten.",
+    "labels": "Veranstalter und Videografen nutzen Tunees KI, um polierte Geburtstags-Videopakete schneller und zu einem Bruchteil der traditionellen Produktionskosten bereitzustellen.",
+    "brands": "Marken und Werbetreibende erstellen geburtstagsthematische Inhalte, um sich mit Zielgruppen in wichtigen saisonalen Momenten und emotionalen Meilensteinen zu verbinden."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Geburtstags-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja – Tunees KI übernimmt die gesamte Videoproduktion automatisch. Laden Sie einfach Ihre Audio hoch oder geben Sie eine Textaufforderung ein, wählen Sie einen Geburtstags-Stil, und die KI generiert Ihr Video in Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export von Geburtstags-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Geburtstags-Musikvideos in bis zu 4K-Auflösung, perfekt für YouTube, Streaming-Plattformen und großformatige Displays."
+    },
+    {
+      "q": "Wie passe ich den visuellen Stil meines Geburtstags-Musikvideos an?",
+      "a": "Sie können die Visuals mit Textaufforderungen steuern, die Szenen, Stimmungen und Einstellungen beschreiben. Tunees KI interpretiert Ihre Eingabe und generiert Geburtstagskuchen-inspirierte Visuals, die Ihrer Geburtstags-Ästhetik entsprechen."
+    },
+    {
+      "q": "Funktioniert es mit jedem Musikgenre oder nur mit Geburtstag?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Geburtstag hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und Dutzende anderer Stile mit derselben Plattform generieren."
+    },
+    {
+      "q": "Wie füge ich meinem Geburtstags-Musikvideo Lyrics oder Untertitel hinzu?",
+      "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitel-Overlays. Geben Sie einfach Ihre Lyrics ein, wählen Sie einen Textstil, und die KI synchronisiert sie automatisch mit Ihrem Geburtstags-Musikvideo."
+    }
+  ]
+}

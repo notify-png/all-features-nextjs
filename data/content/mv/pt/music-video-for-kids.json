@@ -1,0 +1,43 @@
+{
+  "h1": "Gerador de Videoclipes Infantis Alimentado por IA para Todos os Artistas",
+  "direct_answer": "Um videoclipe infantil com IA é uma ferramenta que cria automaticamente videoclipes profissionais no estilo infantil a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais divertidos com geração de personagens coloridos em tempo real e exportação com um clique, adaptados à energia e ao estilo da sua faixa. Com o Tunee, você pode ir de uma ideia para um videoclipe infantil acabado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "O mais fácil gerador de videoclipes infantis com IA para artistas. O Tunee gera visuais infantis divertidos a partir do seu áudio — teste gratuitamente hoje.",
+  "prompts": [
+    "Uma cena divertida com personagens coloridos e movimentos de câmera amplos, imersa em iluminação dramática que pulsa com a batida",
+    "Plano de close-up vertical imerso em animação simples, energia segura irradiando por cada frame e corte do vídeo",
+    "Imagens abstratas seguras para crianças se transformando e fluindo em câmera lenta, capturando a essência divertida da música perfeitamente",
+    "Planos de close-up de personagens coloridos se dissolvendo em movimento divertido, criando uma jornada visual segura que segue o ritmo da música",
+    "Plano de estabelecimento amplo de um ambiente educacional com animação simples em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre imagens seguras para crianças e cores brilhantes, construindo tensão com gradação de cor divertida e motion graphics nítidos",
+    "Uma montagem segura de movimento divertido e personagens coloridos, em camadas com transições suaves e batidas visuais combinando com o drop",
+    "Sequência final apresentando cores brilhantes e animação simples convergindo em uma explosão divertida de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Músicos independentes usam Kids para maximizar o alcance na plataforma, garantindo que seu conteúdo atenda aos requisitos de formato e capture atenção instantaneamente.",
+    "creators": "Músicos infantis dependem de conteúdo Kids perfeitamente formatado para aumentar a visibilidade algorítmica e crescer seu público a cada upload.",
+    "labels": "As gravadoras produzem em lote vídeos Kids otimizados para plataforma de seu elenco completo, reduzindo o tempo de entrega de semanas para horas.",
+    "brands": "Marcas que executam campanhas pagas e orgânicas nesta plataforma usam o Tunee para produzir anúncios de vídeos Kids que causam impacto em escala."
+  },
+  "faqs": [
+    {
+      "q": "Suporta exportação de videoclipes infantis em resolução 4K?",
+      "a": "Absolutamente. O Tunee exporta videoclipes infantis em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipes infantis do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com o Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marcas e conteúdo de redes sociais."
+    },
+    {
+      "q": "Funciona com qualquer gênero musical ou apenas Kids?",
+      "a": "O Tunee suporta uma ampla variedade de gêneros e estilos visuais além de Kids. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe infantil?",
+      "a": "O Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA as sincronizará com seu videoclipe infantil automaticamente."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe infantil para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe infantil usando diferentes prompts ou configurações de estilo, e então selecionar a versão que melhor se ajusta à sua visão."
+    }
+  ]
+}

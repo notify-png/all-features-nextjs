@@ -1,0 +1,31 @@
+{
+  "slug": "afrobeats-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Afrobeats",
+  "genre_name_zh": "非洲节拍",
+  "keyword_en": "AI Afrobeats music video generator",
+  "visual_keywords": [
+    "Lagos cityscape",
+    "colorful fashion",
+    "street party",
+    "dance energy",
+    "African patterns"
+  ],
+  "mood_words": [
+    "vibrant",
+    "joyful",
+    "rhythmic",
+    "cultural"
+  ],
+  "target_personas": [
+    "Afrobeats artists",
+    "African music creators",
+    "diaspora musicians",
+    "Afropop producers"
+  ],
+  "color_accent": "#FF8C00",
+  "color_secondary": "#FFA500",
+  "has_custom_asset": false,
+  "demo_prompt": "Afrobeats artist in colorful traditional outfit dancing in Lagos street party, vibrant crowd, golden hour light"
+}

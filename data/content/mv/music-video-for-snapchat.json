@@ -1,0 +1,43 @@
+{
+  "h1": "Create Stunning Snapchat Music Videos with AI in Minutes",
+  "direct_answer": "An AI music video for Snapchat is a tool that automatically creates professional snapchat-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce playful visuals featuring AI scene generation with AR filter aesthetic and ephemeral style, tailored to your track's energy and style. With Tunee, you can go from idea to a finished snapchat music video in minutes, no video editing experience required.",
+  "meta_description": "Tunee's AI music video for Snapchat turns your music into stunning Snapchat videos in minutes. Try free and export to any platform.",
+  "prompts": [
+    "A playful scene with AR filter aesthetic and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Vertical close-up shot immersed in ephemeral style, ephemeral energy radiating through every frame and cut of the video",
+    "Abstract lens-inspired visuals morphing and flowing in slow motion, capturing the playful essence of the music perfectly",
+    "Close-up shots of AR filter aesthetic dissolving into Gen Z aesthetic, creating a ephemeral visual journey that follows the song's rhythm",
+    "Wide establishing shot of a youthful environment with ephemeral style in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between lens-inspired visuals and snap-native, building tension with playful color grading and sharp motion graphics",
+    "A ephemeral montage of Gen Z aesthetic and AR filter aesthetic, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring snap-native and ephemeral style converging in a playful explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Independent musicians use Snapchat to maximize reach on the platform, ensuring their content meets format requirements and captures attention instantly.",
+    "creators": "Gen z artists rely on perfectly formatted Snapchat content to boost algorithmic visibility and grow their following with every upload.",
+    "labels": "Record labels batch-produce platform-optimized Snapchat videos for their full roster, cutting turnaround time from weeks to hours.",
+    "brands": "Brands running paid and organic campaigns on this platform use Tunee to produce scroll-stopping Snapchat video ads at scale."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Snapchat music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Snapchat style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting Snapchat music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Snapchat music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Snapchat music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Snapchat music video automatically."
+    },
+    {
+      "q": "Does Tunee's Snapchat music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Snapchat music videos from any device without installing software."
+    },
+    {
+      "q": "How do I customize the visual style of my Snapchat music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates AR filter aesthetic-inspired visuals that match your Snapchat aesthetic."
+    }
+  ]
+}

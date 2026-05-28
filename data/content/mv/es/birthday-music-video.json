@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tu sonido de cumpleaños con la creación de videoclips musicales con IA",
+  "direct_answer": "Un generador de videoclips musicales de cumpleaños con IA es una herramienta que crea automáticamente videoclips musicales profesionales estilo cumpleaños a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales alegres con renderizado automatizado de tortas de cumpleaños y exportación multiestilos, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un videoclip musical de cumpleaños terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videoclips musicales de cumpleaños con IA de Tunee convierte tu música en impresionantes videos de cumpleaños en minutos. Prueba gratis y exporta a cualquier plataforma.",
+  "prompts": [
+    "Una escena alegre con torta de cumpleaños y movimientos de cámara barridos, bañados en iluminación dramática que pulsa al ritmo",
+    "Escena de cumpleaños inmersa en celebración de fiesta, energía festiva radiando a través de cada fotograma y corte del video",
+    "Globos abstractos transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia alegre de la música",
+    "Planos cerrados de torta de cumpleaños disolviéndose en momento sorpresa, creando un viaje visual festivo que sigue el ritmo de la canción",
+    "Plano general estableciendo un ambiente personal con fiesta de celebración en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre globos y multitud alegre, construyendo tensión con gradación de color festiva y gráficos de movimiento nítido",
+    "Un montaje festivo de momento sorpresa y torta de cumpleaños, estratificado con transiciones suaves y beats visuales que coinciden con la caída",
+    "Secuencia final con multitud alegre y fiesta de celebración convergiendo en una explosión alegre de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los celebrantes de cumpleaños utilizan videoclips musicales de cumpleaños para conmemorar momentos especiales y crear recuerdos visuales duraderos acompañados de la banda sonora perfecta.",
+    "creators": "Los regaladores familiares producen contenido de videoclips musicales de cumpleaños para contar historias emocionales, crecer su audiencia y ofrecer servicios de video premium a clientes.",
+    "labels": "Los planificadores de eventos y videógrafos utilizan la IA de Tunee para entregar paquetes de videos de cumpleaños pulidos más rápidamente y a una fracción de los costos de producción tradicional.",
+    "brands": "Las marcas y anunciantes crean contenido temático de cumpleaños para conectar con audiencias durante momentos estacionales clave e hitos emocionales."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un videoclip musical de cumpleaños sin experiencia en edición de video?",
+      "a": "Sí — La IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo de cumpleaños, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Soporta exportar videoclips musicales de cumpleaños en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videoclips musicales de cumpleaños en resolución hasta 4K, dejándolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi videoclip musical de cumpleaños?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en tortas de cumpleaños que coincidan con tu estética de cumpleaños."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con cumpleaños?",
+      "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá de cumpleaños. Puedes generar videoclips musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi videoclip musical de cumpleaños?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará automáticamente con tu videoclip musical de cumpleaños."
+    }
+  ]
+}

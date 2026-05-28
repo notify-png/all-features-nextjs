@@ -1,0 +1,43 @@
+{
+  "h1": "Make Beautiful Indie Music Videos Effortlessly with Tunee AI",
+  "direct_answer": "An AI indie music video generator is a tool that automatically creates professional indie-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce authentic visuals featuring AI scene generation with film grain and natural landscapes, tailored to your track's energy and style. With Tunee, you can go from idea to a finished indie music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI indie music video generator to create authentic Indie visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok, and...",
+  "prompts": [
+    "A authentic scene with film grain and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in natural landscapes, introspective energy radiating through every frame and cut of the video",
+    "Abstract DIY aesthetic morphing and flowing in slow motion, capturing the authentic essence of the music perfectly",
+    "Close-up shots of film grain dissolving into vintage tones, creating a introspective visual journey that follows the song's rhythm",
+    "Wide establishing shot of a raw environment with natural landscapes in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between DIY aesthetic and intimate performance, building tension with authentic color grading and sharp motion graphics",
+    "A introspective montage of vintage tones and film grain, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring intimate performance and natural landscapes converging in a authentic explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Indie artists need Indie music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Bedroom producers use Indie music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Indie music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Indie music video aesthetics to create authentic campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Does it support exporting Indie music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports Indie music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my Indie music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates film grain-inspired visuals that match your Indie aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Indie music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Indie music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Indie music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Indie music video to compare?",
+      "a": "Yes. You can generate several variations of your Indie music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

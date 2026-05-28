@@ -1,0 +1,43 @@
+{
+  "h1": "Crea impresionantes videos musicales conmemorativos con IA en minutos",
+  "direct_answer": "Un generador de videos musicales conmemorativos con IA es una herramienta que crea automáticamente videos musicales de estilo conmemorativo profesional a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales tiernos con generación de tributos fotográficos en tiempo real y exportación de un clic, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un video musical conmemorativo terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videos musicales conmemorativos con IA más fácil de usar para artistas. Tunee genera visuales conmemorativos tiernos a partir de tu audio — pruébalo gratis hoy.",
+  "prompts": [
+    "Una escena tierna con tributo fotográfico y movimientos de cámara amplios, bañada en iluminación dramática que pulsa con el ritmo",
+    "Escena conmemorativa inmersa en iluminación de velas, energía sanadora irradiando a través de cada fotograma y corte del video",
+    "Recuerdos preciados abstractos transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia tierna de la música",
+    "Planos cerrados de tributo fotográfico disolviéndose en imágenes pacíficas, creando un viaje visual sanador que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un ambiente respetuoso con iluminación de velas en primer plano, evocando una profunda resonancia emocional",
+    "Cortes dinámicos entre recuerdos preciados y visual sanador, construyendo tensión con gradación de color tierna y nítidos gráficos en movimiento",
+    "Un montaje sanador de imágenes pacíficas y tributo fotográfico, superpuesto con transiciones suaves y ritmos visuales que coinciden con el drop",
+    "Secuencia final con visual sanador e iluminación de velas convergiendo en una explosión tierna de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Las familias en duelo utilizan videos musicales conmemorativos para conmemorar momentos especiales y crear recuerdos visuales duraderos al ritmo de la banda sonora perfecta.",
+    "creators": "Los planificadores de servicios conmemorativos producen contenido de videos musicales conmemorativos para contar historias emocionales, crecer su audiencia y ofrecer servicios de video premium a clientes.",
+    "labels": "Los planificadores de eventos y videógrafos utilizan IA de Tunee para entregar paquetes de videos conmemorativos pulidos más rápido y a una fracción del costo de producción tradicional.",
+    "brands": "Las marcas y publicistas crean contenido temático conmemorativo para conectar con audiencias durante momentos clave estacionales e hitos emocionales."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical conmemorativo sin experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo conmemorativo, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite exportar videos musicales conmemorativos en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales conmemorativos en resolución de hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical conmemorativo?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en tributos fotográficos que coincidan con tu estética conmemorativa."
+    },
+    {
+      "q": "¿Puedo usar el generador de videos musicales conmemorativos de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee se pueden utilizar con fines comerciales, incluyendo lanzamientos de streaming, campañas de marca y contenido en redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo conmemorativo?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de conmemorativo. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    }
+  ]
+}

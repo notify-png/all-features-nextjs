@@ -1,0 +1,31 @@
+{
+  "slug": "birthday-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Birthday",
+  "genre_name_zh": "生日",
+  "keyword_en": "AI birthday music video generator",
+  "visual_keywords": [
+    "birthday cake",
+    "celebration party",
+    "balloons",
+    "surprise moment",
+    "joyful crowd"
+  ],
+  "mood_words": [
+    "joyful",
+    "celebratory",
+    "personal",
+    "fun"
+  ],
+  "target_personas": [
+    "birthday celebrants",
+    "family gift-givers",
+    "party organizers",
+    "milestone birthday planners"
+  ],
+  "color_accent": "#FF6B9D",
+  "color_secondary": "#FFB3CC",
+  "has_custom_asset": false,
+  "demo_prompt": "Birthday celebration music video, candle blowing moment, surprise party, balloon filled room, joyful dancing family"
+}

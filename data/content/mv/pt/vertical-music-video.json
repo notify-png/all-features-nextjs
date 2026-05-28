@@ -1,0 +1,43 @@
+{
+  "h1": "Crie Clipes de Música Verticais Incríveis sem Esforço com Tunee AI",
+  "direct_answer": "Um gerador de clipes de música vertical com IA é uma ferramenta que cria automaticamente clipes de música profissionais em estilo vertical a partir de seu áudio ou prompts de texto. A plataforma Tunee utiliza aprendizado de máquina avançado para produzir visuais nativos de mobile com geração de cenas por IA em formato 9:16 e design mobile-first, adaptados à energia e estilo da sua faixa. Com Tunee, você pode sair da ideia e chegar a um clipe de música vertical finalizado em minutos, sem exigir experiência em edição de vídeo.",
+  "meta_description": "O gerador de clipes de música vertical da Tunee transforma sua música em vídeos verticais impressionantes em minutos. Teste gratuitamente e exporte para qualquer plataforma.",
+  "prompts": [
+    "Uma cena nativa de mobile com formato 9:16 e movimentos de câmera varridos, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em design mobile-first, energia em tendência irradiando por cada frame e corte do vídeo",
+    "Enquadramento abstrato de TikTok se transformando e fluindo em câmera lenta, capturando perfeitamente a essência nativa de mobile da música",
+    "Planos próximos do formato 9:16 se dissolvendo em orientação de retrato, criando uma jornada visual em tendência que segue o ritmo da canção",
+    "Plano aberto e de estabelecimento de um ambiente dinâmico com design mobile-first em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre enquadramento de TikTok e thumb-stopping, construindo tensão com color grading nativo de mobile e motion graphics aguçados",
+    "Uma montagem em tendência de orientação de retrato e formato 9:16, em camadas com transições suaves e batidas visuais acompanhando o drop",
+    "Sequência final apresentando thumb-stopping e design mobile-first convergindo em uma explosão nativa de mobile de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas do TikTok precisam de clipes de música verticais para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Criadores de reels do Instagram usam a estética de clipes de música verticais para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de clipes de música verticais para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam a estética de clipes de música verticais para criar conteúdo de campanhas nativos de mobile que ressoam emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um clipe de música vertical sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou digitar um prompt de texto, escolher um estilo vertical e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportação de clipes de música verticais em resolução 4K?",
+      "a": "Com certeza. Tunee exporta clipes de música verticais em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
+    },
+    {
+      "q": "Funciona com qualquer gênero de música, ou apenas vertical?",
+      "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de vertical. Você pode gerar clipes de música para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu clipe de música vertical?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Basta digitar suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente com seu clipe de música vertical."
+    },
+    {
+      "q": "O gerador de clipes de música vertical da Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador da web em desktop e mobile, para que você possa criar clipes de música verticais em qualquer dispositivo sem instalar software."
+    }
+  ]
+}

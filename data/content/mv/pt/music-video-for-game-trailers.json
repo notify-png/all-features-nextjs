@@ -1,0 +1,43 @@
+{
+  "h1": "Crie Vídeos Musicais Incríveis para Trailers de Jogos sem Esforço com Tunee AI",
+  "direct_answer": "Um vídeo musical AI para trailers de jogos é uma ferramenta que cria automaticamente vídeos musicais profissionais ao estilo de trailers de jogos a partir de seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais épicos com prompts de texto para vídeo e visuais de gameplay, personalizados de acordo com a energia e o estilo da sua faixa. Com Tunee, você pode ir de uma ideia para um vídeo musical acabado para trailer de jogos em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "Crie vídeos musicais profissionais para Trailers de Jogos com o AI music video for game trailers da Tunee. Visuais épicos, exportação rápida, nenhuma experiência necessária.",
+  "prompts": [
+    "Uma cena épica com gameplay e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com o ritmo",
+    "Plano vertical em close-up imerso em cortes de trailer épico, energia de ação irradiando através de cada quadro e corte do vídeo",
+    "Sincronização de design de som abstrato morfando e fluindo em câmera lenta, capturando perfeitamente a essência épica da música",
+    "Planos em close-up de gameplay se dissolvendo em momentos de revelação, criando uma jornada visual de ação que segue o ritmo da música",
+    "Plano geral estabelecendo um ambiente suspeito com cortes de trailer épico em primeiro plano, evocando uma profunda ressonância emocional",
+    "Cortes dinâmicos entre sincronização de design de som e cenas cinemáticas de jogos, construindo tensão com gradação de cor épica e motion graphics afiados",
+    "Uma montagem de ação com momentos de revelação e gameplay, em camadas com transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando cenas cinemáticas de jogos e cortes de trailer épico convergindo em uma explosão épica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Músicos independentes usam Game Trailers para maximizar o alcance na plataforma, garantindo que seu conteúdo atenda aos requisitos de formato e capture atenção instantaneamente.",
+    "creators": "Desenvolvedores de jogos dependem de conteúdo Game Trailers perfeitamente formatado para aumentar a visibilidade algorítmica e crescer seu público com cada upload.",
+    "labels": "Gravadoras produzem em lote vídeos Game Trailers otimizados para plataforma de todo o seu catálogo, reduzindo o tempo de entrega de semanas para horas.",
+    "brands": "Marcas executando campanhas pagas e orgânicas nesta plataforma usam Tunee para produzir anúncios em vídeo Game Trailers que chamam atenção em escala."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo musical Game Trailers sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — Tunee AI maneja toda a produção de vídeo automaticamente. Apenas envie seu áudio ou insira um prompt de texto, escolha um estilo Game Trailers, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Ele suporta exportação de vídeos musicais Game Trailers em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos musicais Game Trailers em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu vídeo musical Game Trailers?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, humores e ambientes. A IA Tunee interpreta sua entrada e gera visuais inspirados em gameplay que combinam com sua estética Game Trailers."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu vídeo musical Game Trailers?",
+      "a": "Tunee oferece opções built-in de sobreposição de letras e legendas. Simplesmente insira suas letras, escolha um estilo de texto, e a IA sincronizará automaticamente ao seu vídeo musical Game Trailers."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um vídeo musical Game Trailers para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu vídeo musical Game Trailers usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Dale Vida a tu Sonido de Concierto con Creación de Videos Musicales con IA",
+  "direct_answer": "Un video musical de concierto en vivo con IA es una herramienta que crea automáticamente videos musicales profesionales estilo concierto a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir efectos visuales épicos con indicaciones de texto a video y efectos visuales de conciertos en arena, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un video musical de concierto terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Crea videos musicales profesionales de concierto con el generador de videos musicales de concierto en vivo con IA de Tunee. Efectos visuales épicos, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena épica con concierto en arena y movimientos de cámara amplios, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en una producción de escenario masiva, energía en vivo radiando a través de cada fotograma y corte del video",
+    "Espectáculo de luces abstracto transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia épica de la música",
+    "Planos cercanos del concierto en arena disolviéndose en escala de multitud, creando un viaje visual en vivo que sigue el ritmo de la canción",
+    "Plano general establecedor de un ambiente energético con producción de escenario masiva en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre espectáculo de luces y calidad de transmisión, construyendo tensión con gradación de color épica y gráficos de movimiento nítidos",
+    "Un montaje en vivo de escala de multitud y concierto en arena, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final que presenta calidad de transmisión y producción de escenario masiva convergiéndose en una explosión épica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas de gira necesitan videos musicales de concierto para definir visualmente su identidad artística, hacer crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Las bandas de arena utilizan la estética de videos musicales de concierto para construir una marca visual distintiva que impulse el compromiso y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales de concierto para promocionar nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videos musicales de concierto para crear contenido de campaña épico que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical de concierto sin experiencia en edición de video?",
+      "a": "Sí — La IA de Tunee maneja automáticamente toda la producción de video. Solo sube tu audio o ingresa una indicación de texto, elige un estilo de concierto, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite exportar videos musicales de concierto en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales de concierto en resolución de hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo concierto?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá del concierto. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical de concierto?",
+      "a": "Tunee ofrece opciones incorporadas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu video musical de concierto automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical de concierto para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical de concierto usando indicaciones diferentes o configuraciones de estilo, luego selecciona la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

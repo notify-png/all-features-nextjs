@@ -1,0 +1,31 @@
+{
+  "slug": "text-to-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Workflow",
+  "genre_name": "Text to MV",
+  "genre_name_zh": "文字转MV",
+  "keyword_en": "Text to music video AI",
+  "visual_keywords": [
+    "prompt input",
+    "scene description",
+    "natural language",
+    "text prompt",
+    "AI generation"
+  ],
+  "mood_words": [
+    "creative",
+    "prompt-driven",
+    "fast",
+    "versatile"
+  ],
+  "target_personas": [
+    "concept-first creators",
+    "directors without cameras",
+    "prompt engineers",
+    "creative writers"
+  ],
+  "color_accent": "#8E44AD",
+  "color_secondary": "#9B59B6",
+  "has_custom_asset": false,
+  "demo_prompt": "Type text description of your MV vision, AI generates full music video from natural language prompt in 60 seconds"
+}

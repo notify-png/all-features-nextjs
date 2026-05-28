@@ -1,0 +1,43 @@
+{
+  "h1": "Create Stunning Cinematic Music Videos with AI in Minutes",
+  "direct_answer": "An AI cinematic music video generator is a tool that automatically creates professional cinematic-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce epic visuals featuring automated anamorphic lens flare rendering and multi-style export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished cinematic music video in minutes, no video editing experience required.",
+  "meta_description": "The easiest AI cinematic music video generator for artists. Tunee generates epic Cinematic visuals from your audio — free to try today.",
+  "prompts": [
+    "A epic scene with anamorphic lens flare and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in epic wide shot, dramatic energy radiating through every frame and cut of the video",
+    "Abstract shallow depth of field morphing and flowing in slow motion, capturing the epic essence of the music perfectly",
+    "Close-up shots of anamorphic lens flare dissolving into dramatic color grade, creating a dramatic visual journey that follows the song's rhythm",
+    "Wide establishing shot of a emotional environment with epic wide shot in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between shallow depth of field and dolly shot, building tension with epic color grading and sharp motion graphics",
+    "A dramatic montage of dramatic color grade and anamorphic lens flare, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring dolly shot and epic wide shot converging in a epic explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Film composers need Cinematic music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Cinematic pop artists use Cinematic music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Cinematic music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Cinematic music video aesthetics to create epic campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "How do I customize the visual style of my Cinematic music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates anamorphic lens flare-inspired visuals that match your Cinematic aesthetic."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Cinematic?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Cinematic. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Cinematic music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Cinematic music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Cinematic music video to compare?",
+      "a": "Yes. You can generate several variations of your Cinematic music video using different prompts or style settings, then select the version that best fits your vision."
+    },
+    {
+      "q": "Does Tunee's Cinematic music video generator work on mobile devices?",
+      "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Cinematic music videos from any device without installing software."
+    }
+  ]
+}

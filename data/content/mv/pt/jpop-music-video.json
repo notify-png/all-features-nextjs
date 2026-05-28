@@ -1,0 +1,43 @@
+{
+  "h1": "Gerador de Videoclipes J-pop Alimentado por IA para Todos os Artistas",
+  "direct_answer": "Um gerador de videoclipes J-pop com IA é uma ferramenta que cria automaticamente videoclipes profissionais no estilo J-pop a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais adoráveis com prompts de texto para vídeo e visuais de moda Harajuku, personalizados de acordo com a energia e o estilo da sua faixa. Com o Tunee, você pode ir de uma ideia para um videoclipe J-pop finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipes J-pop com IA do Tunee para criar visuais J-pop adoráveis instantaneamente. Sem necessidade de habilidades de edição — exporte em 4K para YouTube, TikTok e muito mais.",
+  "prompts": [
+    "Uma cena fofa com moda Harajuku e movimentos de câmera amplos, imersa em iluminação dramática que pulsa com o ritmo",
+    "Artista imerso nas ruas neon de Tóquio, energia onírica irradiando através de cada frame e corte do vídeo",
+    "Estética de uniforme escolar abstrata se transformando e fluindo em câmera lenta, capturando perfeitamente a essência fofa da música",
+    "Planos fechados da moda Harajuku se dissolvendo em um cenário de flores de cerejeira, criando uma jornada visual onírica que acompanha o ritmo da música",
+    "Plano de estabelecimento amplo de um ambiente nostálgico com ruas neon de Tóquio em primeiro plano, evocando uma profunda ressonância emocional",
+    "Cortes dinâmicos entre estética de uniforme escolar e close-ups de ídolos, construindo tensão com grading de cor fofo e motion graphics afiados",
+    "Uma montagem onírica de cenário de flores de cerejeira e moda Harajuku, em camadas com transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando close-ups de ídolos e ruas neon de Tóquio convergindo em uma explosão fofa de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas J-pop precisam de videoclipes J-pop para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar nas plataformas de streaming.",
+    "creators": "Criadores de música anime usam estéticas de videoclipes J-pop para construir uma marca visual distintiva que impulsiona o engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem da produção rápida e profissional de videoclipes J-pop para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de videoclipes J-pop para criar conteúdo de campanha fofo que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe J-pop sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Apenas envie seu áudio ou insira um prompt de texto, escolha um estilo J-pop e a IA gerará seu vídeo em minutos."
+    },
+    {
+      "q": "Como customizar o estilo visual do meu videoclipe J-pop?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, moods e ambientes. A IA do Tunee interpreta sua entrada e gera visuais inspirados em moda Harajuku que combinam com sua estética J-pop."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe J-pop?",
+      "a": "O Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras, escolher um estilo de texto e a IA sincronizará automaticamente com seu videoclipe J-pop."
+    },
+    {
+      "q": "O gerador de videoclipes J-pop do Tunee funciona em dispositivos móveis?",
+      "a": "O Tunee é totalmente acessível via navegador da web em desktop e móvel, para que você possa criar videoclipes J-pop de qualquer dispositivo sem instalar software."
+    },
+    {
+      "q": "Suporta exportação de videoclipes J-pop em resolução 4K?",
+      "a": "Absolutamente. O Tunee exporta videoclipes J-pop em resolução até 4K, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
+    }
+  ]
+}

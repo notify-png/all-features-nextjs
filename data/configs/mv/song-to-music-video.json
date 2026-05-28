@@ -1,0 +1,31 @@
+{
+  "slug": "song-to-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Workflow",
+  "genre_name": "Song to MV",
+  "genre_name_zh": "歌曲转MV",
+  "keyword_en": "Song to music video AI",
+  "visual_keywords": [
+    "audio upload",
+    "AI scene generation",
+    "automatic sync",
+    "instant MV",
+    "one-click video"
+  ],
+  "mood_words": [
+    "effortless",
+    "fast",
+    "automatic",
+    "intuitive"
+  ],
+  "target_personas": [
+    "musicians with finished tracks",
+    "upload-and-go artists",
+    "busy producers",
+    "independent musicians"
+  ],
+  "color_accent": "#16A085",
+  "color_secondary": "#1ABC9C",
+  "has_custom_asset": false,
+  "demo_prompt": "Upload audio file, AI automatically generates matching cinematic scenes, perfect beat-sync, 60-second export ready"
+}

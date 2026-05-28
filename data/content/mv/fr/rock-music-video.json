@@ -1,0 +1,43 @@
+{
+  "h1": "Le moyen le plus rapide de créer des vidéoclips Rock avec l'IA",
+  "direct_answer": "Un générateur de vidéoclips Rock par IA est un outil qui crée automatiquement des vidéoclips professionnels au style Rock à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels intenses avec des invites texte-vers-vidéo et des visuels de scène de concert, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à un vidéoclip Rock terminé en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de vidéoclips Rock par IA de Tunee transforme votre musique en superbes vidéos Rock en quelques minutes. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène intense avec scène de concert et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans un gros plan de guitare, une énergie puissante rayonnant à travers chaque plan et coupe de la vidéo",
+    "Foule abstraite en mosh morphing et s'écoulant au ralenti, capturant parfaitement l'essence intense de la musique",
+    "Gros plans de scène de concert se dissolvant dans un éclairage dramatique, créant un puissant voyage visuel qui suit le rythme de la chanson",
+    "Plan large et établissant d'un environnement rebelle avec gros plan de guitare au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre foule en mosh et effets de fumée, créant une tension avec un étalonnage des couleurs intense et des graphiques en mouvement tranchants",
+    "Un puissant montage d'éclairage dramatique et de scène de concert, stratifié avec des transitions fluides et des beats visuels correspondant à la chute",
+    "Séquence finale présentant des effets de fumée et un gros plan de guitare convergeant dans une explosion intense de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les groupes Rock ont besoin de vidéoclips Rock pour définir visuellement leur identité artistique, agrandir leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les guitaristes utilisent l'esthétique des vidéoclips Rock pour construire une identité visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production rapide et professionnelle de vidéoclips Rock pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des vidéoclips Rock pour créer du contenu campagne intense qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un vidéoclip Rock sans aucune expérience en montage vidéo ?",
+      "a": "Oui — Tunee gère automatiquement toute la production vidéo. Il suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style Rock, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou uniquement le Rock ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà du Rock. Vous pouvez générer des vidéoclips pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon vidéoclip Rock ?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéoclip Rock."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un vidéoclip Rock à comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip Rock en utilisant des invites ou des paramètres de style différents, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de vidéoclips Rock de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur Web sur ordinateur de bureau et mobile, ce qui vous permet de créer des vidéoclips Rock depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

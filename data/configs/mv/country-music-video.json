@@ -1,0 +1,31 @@
+{
+  "slug": "country-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Country",
+  "genre_name_zh": "乡村",
+  "keyword_en": "AI country music video generator",
+  "visual_keywords": [
+    "open fields",
+    "pickup truck",
+    "barn setting",
+    "sunset prairie",
+    "acoustic guitar close-up"
+  ],
+  "mood_words": [
+    "heartfelt",
+    "nostalgic",
+    "rustic",
+    "authentic"
+  ],
+  "target_personas": [
+    "country singers",
+    "Americana artists",
+    "folk musicians",
+    "Nashville songwriters"
+  ],
+  "color_accent": "#D4855A",
+  "color_secondary": "#E8A87C",
+  "has_custom_asset": false,
+  "demo_prompt": "Country singer with acoustic guitar on sunset prairie, golden wheat fields, old pickup truck, authentic rural Americana"
+}

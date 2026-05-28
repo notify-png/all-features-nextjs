@@ -1,0 +1,43 @@
+{
+  "h1": "A Forma Mais Rápida de Criar Videoclipes 3D com IA",
+  "direct_answer": "Um gerador de videoclipe 3D com IA é uma ferramenta que cria automaticamente videoclipes profissionais em estilo 3D a partir do seu áudio ou prompts de texto. A plataforma Tunee utiliza machine learning avançado para produzir visuais futuristas com geração de renderização CGI em tempo real e exportação com um clique, adaptados à energia e estilo da sua faixa. Com Tunee, você pode sair de uma ideia para um videoclipe 3D finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipe 3D com IA da Tunee para criar visuais 3D futuristas instantaneamente. Sem habilidades de edição necessárias — exporte em 4K para YouTube, TikTok e muito mais.",
+  "prompts": [
+    "Uma cena futurista com renderização CGI e movimentos de câmera abrangentes, envolvida em iluminação dramática que pulsa com o ritmo",
+    "Artista imerso em formas 3D abstratas, energia polida irradiando através de cada quadro e corte do vídeo",
+    "Reflexos de vidro abstrato se transformando e fluindo em câmera lenta, capturando perfeitamente a essência futurista da música",
+    "Planos fechados de renderização CGI se dissolvendo em luz volumétrica, criando uma jornada visual polida que segue o ritmo da música",
+    "Plano aberto de estabelecimento de um ambiente técnico com formas 3D abstratas em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre reflexos de vidro e motion graphics, construindo tensão com color grading futurista e motion graphics nítidos",
+    "Uma montagem polida de luz volumétrica e renderização CGI, em camadas com transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando motion graphics e formas 3D abstratas convergindo em uma explosão futurista de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas de música eletrônica precisam de videoclipes 3D para definir visualmente sua identidade artística, crescer sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "Criadores de motion graphics usam estéticas de videoclipe 3D para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras confiam na produção rápida e profissional de videoclipes 3D para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de videoclipe 3D para criar conteúdo de campanha futurista que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe 3D sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA da Tunee realiza toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou digitar um prompt de texto, escolher um estilo 3D, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Oferece suporte para exportar videoclipes 3D em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes 3D em resolução de até 4K, deixando-os prontos para YouTube, plataformas de streaming e exibições em tela grande."
+    },
+    {
+      "q": "Como personalizarei o estilo visual do meu videoclipe 3D?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, estados de espírito e configurações. A IA da Tunee interpreta sua entrada e gera visuais inspirados em renderização CGI que combinam com sua estética 3D."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe 3D?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente digite suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente com seu videoclipe 3D."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe 3D para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe 3D usando diferentes prompts ou configurações de estilo, e selecionar a versão que melhor se adequa à sua visão."
+    }
+  ]
+}

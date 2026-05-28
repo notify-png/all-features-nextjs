@@ -1,0 +1,43 @@
+{
+  "h1": "Bring Your Lyrics to MV Sound to Life with AI Music Video Creation",
+  "direct_answer": "An Lyrics to music video AI is a tool that automatically creates professional lyrics to mv-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce narrative visuals featuring real-time lyric text input generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished lyrics to mv music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's Lyrics to music video AI to create narrative Lyrics to MV visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok, an...",
+  "prompts": [
+    "A narrative scene with lyric text input and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in scene interpretation, text-driven energy radiating through every frame and cut of the video",
+    "Abstract word-to-visual morphing and flowing in slow motion, capturing the narrative essence of the music perfectly",
+    "Close-up shots of lyric text input dissolving into lyric video overlay, creating a text-driven visual journey that follows the song's rhythm",
+    "Wide establishing shot of a creative environment with scene interpretation in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between word-to-visual and story visualization, building tension with narrative color grading and sharp motion graphics",
+    "A text-driven montage of lyric video overlay and lyric text input, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring story visualization and scene interpretation converging in a narrative explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Musicians use this Lyrics to MV workflow to quickly turn raw assets — photos, lyrics, or audio — into polished music videos without needing a production crew.",
+    "creators": "Content creators leverage the Lyrics to MV pipeline to automate repetitive video production tasks and focus more time on creative direction.",
+    "labels": "Record labels integrate this Lyrics to MV workflow into their release process to produce high-quality visual content for every single and album track.",
+    "brands": "Marketing teams use the Lyrics to MV workflow to convert existing brand assets into engaging music-driven video content for campaigns."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Lyrics to MV music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Lyrics to MV style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "How do I customize the visual style of my Lyrics to MV music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates lyric text input-inspired visuals that match your Lyrics to MV aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Lyrics to MV music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Lyrics to MV music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Lyrics to MV music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Lyrics to MV music video to compare?",
+      "a": "Yes. You can generate several variations of your Lyrics to MV music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

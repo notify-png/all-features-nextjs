@@ -1,0 +1,31 @@
+{
+  "slug": "phonk-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Phonk",
+  "genre_name_zh": "Phonk",
+  "keyword_en": "AI phonk music video generator",
+  "visual_keywords": [
+    "drift racing",
+    "dark aesthetic",
+    "cowbell rhythm visual",
+    "Memphis underground",
+    "vintage car scene"
+  ],
+  "mood_words": [
+    "dark",
+    "aggressive",
+    "nostalgic",
+    "underground"
+  ],
+  "target_personas": [
+    "phonk producers",
+    "drift culture creators",
+    "TikTok music makers",
+    "underground hip hop artists"
+  ],
+  "color_accent": "#2D0A31",
+  "color_secondary": "#5C1169",
+  "has_custom_asset": false,
+  "demo_prompt": "Drift car racing at night under purple neon lights, phonk beat visualization, dark Memphis aesthetic, smoke trails"
+}

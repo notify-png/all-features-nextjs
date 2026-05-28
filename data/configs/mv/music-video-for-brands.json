@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-brands",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Brands",
+  "genre_name_zh": "品牌",
+  "keyword_en": "AI music video for brands",
+  "visual_keywords": [
+    "brand integration",
+    "product placement",
+    "branded environment",
+    "corporate tone",
+    "marketing alignment"
+  ],
+  "mood_words": [
+    "branded",
+    "commercial",
+    "professional",
+    "strategic"
+  ],
+  "target_personas": [
+    "marketing teams",
+    "brand content creators",
+    "ad agencies",
+    "corporate musicians"
+  ],
+  "color_accent": "#1ABC9C",
+  "color_secondary": "#16A085",
+  "has_custom_asset": false,
+  "demo_prompt": "Brand-integrated music video with seamless product placement, corporate brand colors, marketing message alignment"
+}

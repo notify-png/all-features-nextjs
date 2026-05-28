@@ -1,0 +1,31 @@
+{
+  "slug": "rock-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Rock",
+  "genre_name_zh": "摇滚",
+  "keyword_en": "AI rock music video generator",
+  "visual_keywords": [
+    "concert stage",
+    "guitar close-up",
+    "crowd moshing",
+    "dramatic lighting",
+    "smoke effects"
+  ],
+  "mood_words": [
+    "intense",
+    "powerful",
+    "rebellious",
+    "electrifying"
+  ],
+  "target_personas": [
+    "rock bands",
+    "guitarists",
+    "indie rock artists",
+    "metal musicians"
+  ],
+  "color_accent": "#C0392B",
+  "color_secondary": "#E74C3C",
+  "has_custom_asset": false,
+  "demo_prompt": "Band performing on massive festival stage, pyrotechnics, crowd of thousands, dynamic wide-angle lens flare"
+}

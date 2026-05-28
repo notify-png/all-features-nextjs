@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tu sonido animado con creación de videoclips musicales con IA",
+  "direct_answer": "Un generador de videoclips musicales animados con IA es una herramienta que crea automáticamente videoclips musicales profesionales de estilo animado a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales creativos con generación de animación 2D en tiempo real y exportación de un solo clic, adaptados a la energía y estilo de tu tema. Con Tunee, puedes pasar de una idea a un videoclip musical animado terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Utiliza el generador de videoclips musicales animados con IA de Tunee para crear visuales animados creativos al instante. Sin habilidades de edición requeridas — exporta en 4K para YouTube, TikTok...",
+  "prompts": [
+    "Una escena creativa con animación 2D y movimientos de cámara amplios, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en animación de personajes, energía lúdica irradiando en cada fotograma y corte del video",
+    "Diseño de movimiento abstracto transformándose y fluyendo en cámara lenta, capturando la esencia creativa de la música perfectamente",
+    "Planos cerrados de animación 2D disolviéndose fotograma a fotograma, creando un viaje visual lúdico que sigue el ritmo de la canción",
+    "Plano general establecido de un entorno imaginativo con animación de personajes en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre diseño de movimiento y mundo animado, construyendo tensión con color grading creativo y motion graphics afilados",
+    "Un montaje lúdico de fotogramas y animación 2D, en capas con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final mostrando mundo animado y animación de personajes convergiendo en una explosión creativa de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas independientes necesitan videoclips musicales animados para definir visualmente su identidad artística, crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los creadores de música infantil utilizan la estética de videoclips animados para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videoclips animados para promocionar nuevos lanzamientos de forma económica en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videoclips animados para crear contenido de campaña creativo que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un videoclip animado sin experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo animado, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Soporta exportar videoclips animados en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videoclips animados en resolución hasta 4K, listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi videoclip animado?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu videoclip animado automáticamente."
+    },
+    {
+      "q": "¿Funciona el generador de videoclips animados de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web en computadora y móvil, para que puedas crear videoclips animados desde cualquier dispositivo sin instalar software."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi videoclip animado?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en animación 2D que coincidan con tu estética animada."
+    }
+  ]
+}

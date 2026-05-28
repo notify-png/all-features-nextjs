@@ -1,0 +1,43 @@
+{
+  "h1": "AI-Powered Wedding Music Video Generator for Every Artist",
+  "direct_answer": "An AI wedding music video generator is a tool that automatically creates professional wedding-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce romantic visuals featuring real-time ceremony moments generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished wedding music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI wedding music video generator to create romantic Wedding visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok, ...",
+  "prompts": [
+    "A romantic scene with ceremony moments and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Wedding scene immersed in first dance, sentimental energy radiating through every frame and cut of the video",
+    "Abstract vows exchange morphing and flowing in slow motion, capturing the romantic essence of the music perfectly",
+    "Close-up shots of ceremony moments dissolving into golden hour portraits, creating a sentimental visual journey that follows the song's rhythm",
+    "Wide establishing shot of a beautiful environment with first dance in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between vows exchange and floral decoration, building tension with romantic color grading and sharp motion graphics",
+    "A sentimental montage of golden hour portraits and ceremony moments, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring floral decoration and first dance converging in a romantic explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Newlyweds use Wedding music videos to commemorate special moments and create lasting visual memories set to the perfect soundtrack.",
+    "creators": "Wedding videographers produce Wedding music video content to tell emotional stories, grow their audience, and offer premium video services to clients.",
+    "labels": "Event planners and videographers use Tunee's AI to deliver polished Wedding video packages faster and at a fraction of traditional production costs.",
+    "brands": "Brands and advertisers create Wedding-themed content to connect with audiences during key seasonal moments and emotional milestones."
+  },
+  "faqs": [
+    {
+      "q": "How do I customize the visual style of my Wedding music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates ceremony moments-inspired visuals that match your Wedding aesthetic."
+    },
+    {
+      "q": "Can I use Tunee's Wedding music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Wedding?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Wedding. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Wedding music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Wedding music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Wedding music video to compare?",
+      "a": "Yes. You can generate several variations of your Wedding music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

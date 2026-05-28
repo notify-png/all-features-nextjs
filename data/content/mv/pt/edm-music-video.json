@@ -1,0 +1,43 @@
+{
+  "h1": "Transforme Sua Música em Vídeos EDM Cinemáticos Usando IA",
+  "direct_answer": "Um gerador de videoclipe EDM com IA é uma ferramenta que cria automaticamente videoclipes profissionais no estilo EDM a partir de seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais eufóricos com prompts de texto para vídeo e visuais de multidão em raves, personalizados à energia e estilo da sua faixa. Com Tunee, você sai da ideia para um videoclipe EDM completo em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "Use o gerador de videoclipe EDM com IA do Tunee para criar visuais EDM eufóricos instantaneamente. Sem habilidades de edição necessárias — exporte em 4K para YouTube, TikTok e muito mais.",
+  "prompts": [
+    "Uma cena eufórica com multidão de rave e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com a batida",
+    "Artista imerso em grade de laser, energia de alta intensidade irradiando através de cada frame e corte do vídeo",
+    "Booth de DJ abstrato se transformando e fluindo em câmera lenta, capturando perfeitamente a essência eufórica da música",
+    "Planos fechados de multidão de rave se dissolvendo em visual de bass drop, criando uma jornada visual de alta energia que segue o ritmo da música",
+    "Plano de estabelecimento amplo de um ambiente pulsante com grade de laser em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre booth de DJ e palco de festival, construindo tensão com gradação de cor eufórica e motion graphics nítidos",
+    "Uma montagem de alta energia de visual de bass drop e multidão de rave, em camadas com transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando palco de festival e grade de laser convergindo em uma explosão eufórica de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Produtores de EDM precisam de videoclipes EDM para definir visualmente sua identidade artística, expandir sua base de fãs e se destacar em plataformas de streaming.",
+    "creators": "DJs de festival usam estéticas de videoclipes EDM para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem de produção rápida e profissional de videoclipes EDM para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de videoclipes EDM para criar conteúdo de campanhas eufórico que ressoa emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe EDM sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Apenas faça upload de seu áudio ou insira um prompt de texto, escolha um estilo EDM, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe EDM?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA do Tunee interpreta sua entrada e gera visuais inspirados em multidão de rave que combinam com sua estética EDM."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe EDM?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe EDM."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um videoclipe EDM para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu videoclipe EDM usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
+    },
+    {
+      "q": "O gerador de videoclipe EDM do Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador da web em desktop e mobile, para que você possa criar videoclipes EDM de qualquer dispositivo sem instalar software."
+    }
+  ]
+}

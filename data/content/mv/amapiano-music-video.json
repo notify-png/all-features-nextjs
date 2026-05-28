@@ -1,0 +1,43 @@
+{
+  "h1": "Generate Professional Amapiano Music Videos Instantly with AI",
+  "direct_answer": "An AI Amapiano music video generator is a tool that automatically creates professional amapiano-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce soulful visuals featuring real-time South African township generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished amapiano music video in minutes, no video editing experience required.",
+  "meta_description": "The easiest AI Amapiano music video generator for artists. Tunee generates soulful Amapiano visuals from your audio — free to try today.",
+  "prompts": [
+    "A soulful scene with South African township and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in log drum close-up, rhythmic energy radiating through every frame and cut of the video",
+    "Abstract yano dance morphing and flowing in slow motion, capturing the soulful essence of the music perfectly",
+    "Close-up shots of South African township dissolving into vibrant street culture, creating a rhythmic visual journey that follows the song's rhythm",
+    "Wide establishing shot of a joyful environment with log drum close-up in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between yano dance and outdoor party, building tension with soulful color grading and sharp motion graphics",
+    "A rhythmic montage of vibrant street culture and South African township, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring outdoor party and log drum close-up converging in a soulful explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "South african artists need Amapiano music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Amapiano producers use Amapiano music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional Amapiano music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use Amapiano music video aesthetics to create soulful campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a Amapiano music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Amapiano style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Can I use Tunee's Amapiano music video generator for commercial projects?",
+      "a": "Yes. Videos created with Tunee can be used for commercial purposes including streaming releases, brand campaigns, and social media content."
+    },
+    {
+      "q": "Does it work with any genre of music, or only Amapiano?",
+      "a": "Tunee supports a wide range of genres and visual styles beyond Amapiano. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my Amapiano music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Amapiano music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a Amapiano music video to compare?",
+      "a": "Yes. You can generate several variations of your Amapiano music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie à votre son d'anniversaire avec la création de vidéoclips musicaux par IA",
+  "direct_answer": "Un générateur de vidéoclip d'anniversaire par IA est un outil qui crée automatiquement des vidéoclips musicaux professionnels de style anniversaire à partir de votre audio ou de vos invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels joyeux avec rendu automatique de gâteau d'anniversaire et exportation multi-styles, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéoclip d'anniversaire terminée en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de vidéoclip d'anniversaire par IA de Tunee transforme votre musique en superbes vidéos d'anniversaire en quelques minutes. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène joyeuse avec gâteau d'anniversaire et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Scène d'anniversaire immergée dans une fête de célébration, une énergie festive rayonnant à travers chaque plan et montage de la vidéo",
+    "Ballons abstraits se morphant et circulant au ralenti, capturant parfaitement l'essence joyeuse de la musique",
+    "Plans rapprochés du gâteau d'anniversaire se dissolvant dans un moment de surprise, créant un voyage visuel festif qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement personnel avec fête de célébration au premier plan, évoquant une résonance émotionnelle profonde",
+    "Montages dynamiques entre ballons et foule joyeuse, construisant une tension avec correction de couleur joyeuse et des graphiques en mouvement nets",
+    "Un montage festif du moment de surprise et du gâteau d'anniversaire, superposé avec des transitions fluides et des points visuels correspondant à la chute",
+    "Séquence finale présentant une foule joyeuse et une fête de célébration convergeant dans une explosion joyeuse de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les fêtards utilisent les vidéoclips d'anniversaire pour commémorer des moments spéciaux et créer des souvenirs visuels durables sur la bande sonore parfaite.",
+    "creators": "Les donateurs de cadeaux familiaux produisent du contenu vidéoclip d'anniversaire pour raconter des histoires émouvantes, développer leur audience et offrir des services vidéo premium aux clients.",
+    "labels": "Les planificateurs d'événements et les vidéographes utilisent l'IA de Tunee pour livrer des forfaits vidéo d'anniversaire polis plus rapidement et à une fraction des coûts de production traditionnels.",
+    "brands": "Les marques et les annonceurs créent du contenu à thème d'anniversaire pour se connecter avec les audiences lors de moments saisonniers clés et de jalons émotionnels."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéoclip d'anniversaire sans aucune expérience en montage vidéo?",
+      "a": "Oui — L'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez une invite textuelle, choisissez un style d'anniversaire, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'exportation de vidéoclips d'anniversaire en résolution 4K?",
+      "a": "Absolument. Tunee exporte les vidéoclips d'anniversaire en résolution jusqu'à 4K, les rendant prêts pour YouTube, les plateformes de streaming et les grands écrans."
+    },
+    {
+      "q": "Comment puis-je personnaliser le style visuel de ma vidéoclip d'anniversaire?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par le gâteau d'anniversaire qui correspondent à votre esthétique d'anniversaire."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement l'anniversaire?",
+      "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà de l'anniversaire. Vous pouvez générer des vidéoclips pour pop, hip-hop, classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment puis-je ajouter des paroles ou des sous-titres à ma vidéoclip d'anniversaire?",
+      "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre vidéoclip d'anniversaire."
+    }
+  ]
+}

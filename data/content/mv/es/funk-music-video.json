@@ -1,0 +1,43 @@
+{
+  "h1": "Dale vida a tu sonido Funk con generación de videos musicales por IA",
+  "direct_answer": "Un generador de videos musicales Funk por IA es una herramienta que crea automáticamente videos musicales profesionales con estilo Funk a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales groovy con generación de escenas por IA, decorados retro de los 70 y peinados afro, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un video musical Funk terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videos Funk por IA de Tunee convierte tu música en impresionantes videos Funk en minutos. Prueba gratis y exporta a cualquier plataforma.",
+  "prompts": [
+    "Una escena groovy con decorado retro de los 70 y movimientos de cámara amplios, bañados en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en peinados afro, energía funky radiando a través de cada fotograma y corte del video",
+    "Primer plano abstracto de guitarra baja transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia groovy de la música",
+    "Planos cercanos de decorado retro de los 70 disolviéndose en pista de baile groovy, creando un viaje visual funky que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un ambiente de celebración con peinados afro en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre primer plano de guitarra baja y atuendos brillantes, generando tensión con graduación de color groovy y gráficos de movimiento agudo",
+    "Un montaje funky de pista de baile groovy y decorado retro de los 70, en capas con transiciones suaves y beats visuales que coinciden con la caída",
+    "Secuencia final con atuendos brillantes y peinados afro converging en una explosión groovy de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Las bandas Funk necesitan videos musicales Funk para definir visualmente su identidad artística, aumentar su base de fans y destacar en plataformas de streaming.",
+    "creators": "Los músicos de bajo utilizan la estética de videos musicales Funk para construir una marca visual distintiva que impulse engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de producción rápida y profesional de videos musicales Funk para promover nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Marcas y anunciantes utilizan la estética de videos musicales Funk para crear contenido de campaña groovy que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical Funk sin experiencia en edición de video?",
+      "a": "Sí, la IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa una indicación de texto, elige un estilo Funk, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite exportar videos musicales Funk en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales Funk en hasta 4K de resolución, dejándolos listos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical Funk?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en decorados retro de los 70 que coincidan con tu estética Funk."
+    },
+    {
+      "q": "¿Puedo usar el generador de videos musicales Funk de Tunee para proyectos comerciales?",
+      "a": "Sí. Los videos creados con Tunee pueden usarse para propósitos comerciales incluyendo lanzamientos de streaming, campañas de marca y contenido de redes sociales."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música o solo Funk?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Funk. Puedes generar videos musicales para pop, hip-hop, música clásica y docenas de otros estilos usando la misma plataforma."
+    }
+  ]
+}

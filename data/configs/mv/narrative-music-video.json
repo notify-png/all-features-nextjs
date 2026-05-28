@@ -1,0 +1,31 @@
+{
+  "slug": "narrative-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "MV Type",
+  "genre_name": "Narrative",
+  "genre_name_zh": "叙事短片",
+  "keyword_en": "AI narrative music video",
+  "visual_keywords": [
+    "story arc",
+    "character development",
+    "emotional scenes",
+    "cinematic cuts",
+    "dramatic climax"
+  ],
+  "mood_words": [
+    "storytelling",
+    "emotional",
+    "cinematic",
+    "dramatic"
+  ],
+  "target_personas": [
+    "singer-songwriters",
+    "concept album artists",
+    "storytelling musicians",
+    "cinematic pop creators"
+  ],
+  "color_accent": "#8E44AD",
+  "color_secondary": "#9B59B6",
+  "has_custom_asset": false,
+  "demo_prompt": "Short film-style narrative MV, two characters story unfolding, emotional crescendo, cinematic cuts, dramatic final scene"
+}

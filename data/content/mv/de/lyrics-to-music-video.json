@@ -1,0 +1,43 @@
+{
+  "h1": "Bringe deine Lyrics mit AI-Musikvideo-Erstellung zum Leben",
+  "direct_answer": "Ein Lyrics to Music Video AI ist ein Tool, das automatisch professionelle Musikvideos im Lyrics-to-MV-Stil aus deinem Audio oder Text-Prompts erstellt. Tunees Plattform nutzt fortschrittliches Machine Learning, um narrative Visuals mit Echtzeit-Lyrik-Texteingabe und One-Click-Export zu produzieren, perfekt auf die Energie und den Stil deines Tracks abgestimmt. Mit Tunee kannst du in Minuten von der Idee zu einem fertigen Lyrics-to-MV-Musikvideo gelangen – keine Videobearbeitungserfahrung erforderlich.",
+  "meta_description": "Nutze Tunees Lyrics to Music Video AI, um narrative Lyrics-to-MV-Visuals sofort zu erstellen. Keine Bearbeitungsfähigkeiten nötig – exportiere in 4K für YouTube, TikTok und mehr...",
+  "prompts": [
+    "Eine narrative Szene mit Lyrik-Texteingabe und schwungvollen Kamerabewegungen, getaucht in dramatische Beleuchtung, die im Takt pulsiert",
+    "Artist vertieft in Szeneninterpretation, textgetriebene Energie, die in jedem Frame und Schnitt des Videos ausstrahlt",
+    "Abstrakte Wort-zu-Bild-Morphing und fließend in Zeitlupe, das narrative Wesen der Musik perfekt erfassend",
+    "Nahaufnahmen von Lyrik-Texteingabe, die in Lyrik-Video-Overlay auflösen, eine textgetriebene visuelle Reise erschaffend, die dem Rhythmus des Songs folgt",
+    "Breiter Establishing Shot einer kreativen Umgebung mit Szeneninterpretation im Vordergrund, tiefe emotionale Resonanz evozierend",
+    "Dynamische Schnitte zwischen Wort-zu-Bild und Story-Visualisierung, Spannung aufbauend mit narrativer Farbgrading und scharfer Motion Graphics",
+    "Eine textgetriebene Montage von Lyrik-Video-Overlay und Lyrik-Texteingabe, geschichtet mit sanften Übergängen und visuellen Beats, die dem Drop entsprechen",
+    "Abschließende Sequenz, in der Story-Visualisierung und Szeneninterpretation in einer narrativen Explosion aus Licht, Farbe und Bewegung zusammenlaufen"
+  ],
+  "personas": {
+    "musicians": "Musiker nutzen diesen Lyrics-to-MV-Workflow, um Rohstoffe – Fotos, Lyrics oder Audio – schnell in polierte Musikvideos umzuwandeln, ohne ein Produktionsteam zu brauchen.",
+    "creators": "Content Creator nutzen die Lyrics-to-MV-Pipeline, um repetitive Videoproduktionsaufgaben zu automatisieren und sich mehr auf die kreative Leitung zu konzentrieren.",
+    "labels": "Plattenlabels integrieren diesen Lyrics-to-MV-Workflow in ihren Veröffentlichungsprozess, um hochwertige visuelle Inhalte für jeden Single und Album-Track zu produzieren.",
+    "brands": "Marketing-Teams nutzen den Lyrics-to-MV-Workflow, um bestehende Brand-Assets in ansprechende musikgetriebene Videoinhalte für Kampagnen umzuwandeln."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Lyrics-to-MV-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja – Tunees AI übernimmt die gesamte Videoproduktion automatisch. Lade einfach dein Audio hoch oder gib einen Text-Prompt ein, wähle einen Lyrics-to-MV-Stil, und die AI generiert dein Video in Minuten."
+    },
+    {
+      "q": "Wie passe ich den visuellen Stil meines Lyrics-to-MV-Musikvideos an?",
+      "a": "Du kannst die Visuals mit Text-Prompts lenken, die Szenen, Stimmungen und Einstellungen beschreiben. Tunees AI interpretiert deine Eingabe und generiert Lyrik-Texteingabe-inspirierte Visuals, die deiner Lyrics-to-MV-Ästhetik entsprechen."
+    },
+    {
+      "q": "Kann ich Tunees Lyrics-to-MV-Musikvideo-Generator für kommerzielle Projekte nutzen?",
+      "a": "Ja. Videos, die mit Tunee erstellt werden, können für kommerzielle Zwecke verwendet werden, einschließlich Streaming-Releases, Brand-Kampagnen und Social-Media-Inhalte."
+    },
+    {
+      "q": "Wie füge ich Lyrics oder Untertitel zu meinem Lyrics-to-MV-Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Lyrik- und Untertitel-Overlay-Optionen. Gib einfach deine Lyrics ein und wähle einen Textstil, und die AI synchronisiert sie automatisch mit deinem Lyrics-to-MV-Musikvideo."
+    },
+    {
+      "q": "Kann ich mehrere Versionen eines Lyrics-to-MV-Musikvideos generieren, um sie zu vergleichen?",
+      "a": "Ja. Du kannst mehrere Variationen deines Lyrics-to-MV-Musikvideos mit verschiedenen Prompts oder Stileinstellungen generieren und dann die Version wählen, die deiner Vision am besten entspricht."
+    }
+  ]
+}

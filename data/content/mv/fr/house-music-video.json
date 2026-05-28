@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie à votre son House avec la création de vidéos musicales par IA",
+  "direct_answer": "Un générateur de vidéos musicales House par IA est un outil qui crée automatiquement des vidéos musicales professionnelles de style House à partir de votre audio ou de vos demandes textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels soulful featuring des prompts texte-vers-vidéo et des visuels de clubs souterrains, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale House finie en quelques minutes, sans aucune expérience de montage vidéo requise.",
+  "meta_description": "Le générateur de vidéos musicales House par IA le plus simple pour les artistes. Tunee génère des visuels House soulful à partir de votre audio — gratuit à essayer aujourd'hui.",
+  "prompts": [
+    "Une scène soulful avec un club souterrain et des mouvements de caméra amples, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans une rave warehouse, une énergie groovy rayonnant à travers chaque plan et coupe de la vidéo",
+    "Boule à facettes abstraite se métamorphosant et coulant au ralenti, capturant parfaitement l'essence soulful de la musique",
+    "Plans rapprochés d'un club souterrain se dissolvant dans une foule qui danse, créant un voyage visuel groovy qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement souterrain avec une rave warehouse au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre la boule à facettes et un gros plan de platines DJ, créant de la tension avec un étalonnage des couleurs soulful et des graphiques en mouvement nets",
+    "Un montage groovy de foule qui danse et de club souterrain, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale mettant en vedette un gros plan de platines DJ et une rave warehouse convergeant dans une explosion soulful de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les DJs House ont besoin de vidéos musicales House pour définir visuellement leur identité artistique, développer leur fanbase et se démarquer sur les plateformes de streaming.",
+    "creators": "Les producteurs de musique de club utilisent l'esthétique des vidéos musicales House pour construire une marque visuelle distinctive qui booste l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production rapide et professionnelle de vidéos musicales House pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des vidéos musicales House pour créer du contenu de campagne soulful qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale House sans aucune expérience de montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il suffit de télécharger votre audio ou d'entrer une demande texte, de choisir un style House, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo musicale House?",
+      "a": "Vous pouvez guider les visuels en utilisant des demandes textes qui décrivent des scènes, des ambiances et des décors. L'IA de Tunee interprète votre demande et génère des visuels inspirés par les clubs souterrains qui correspondent à votre esthétique House."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale House?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale House."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéo musicale House pour comparer?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale House en utilisant différentes demandes ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    },
+    {
+      "q": "Le générateur de vidéos musicales House de Tunee fonctionne-t-il sur les appareils mobiles?",
+      "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous permettant de créer des vidéos musicales House depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

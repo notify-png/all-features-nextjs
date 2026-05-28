@@ -1,0 +1,43 @@
+{
+  "h1": "Gerador de Vídeos de Música Vaporwave Alimentado por IA para Todos os Artistas",
+  "direct_answer": "Um gerador de vídeos de música vaporwave com IA é uma ferramenta que cria automaticamente vídeos musicais profissionais em estilo vaporwave a partir de seus prompts de áudio ou texto. A plataforma Tunee utiliza aprendizado de máquina avançado para produzir visuais surreais com prompts de texto para vídeo e efeitos de glitch, personalizados para a energia e estilo da sua faixa. Com o Tunee, você pode passar de uma ideia para um vídeo de música vaporwave acabado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "Crie vídeos de música vaporwave profissionais com o gerador de vídeos vaporwave com IA do Tunee. Visuais surreais, exportação rápida, sem experiência necessária.",
+  "prompts": [
+    "Uma cena surreal com efeitos de glitch e movimentos dinâmicos de câmera, banhada em iluminação dramática que pulsa com o beat",
+    "Artista imerso em bustos clássicos, energia nostálgica irradiando em cada frame e corte do vídeo",
+    "Visuais abstratos do Windows 95 se transformando e fluindo em câmera lenta, capturando a essência surreal da música perfeitamente",
+    "Closes de efeitos de glitch se dissolvendo em paleta rosa e teal, criando uma jornada visual nostálgica que segue o ritmo da música",
+    "Plano aberto estabelecedor de um ambiente onírico com bustos clássicos em primeiro plano, evocando uma profunda ressonância emocional",
+    "Cortes dinâmicos entre visuais do Windows 95 e cenas de shopping, construindo tensão com color grading surreal e sharp motion graphics",
+    "Uma montagem nostálgica de paleta rosa e teal e efeitos de glitch, em camadas com transições suaves e beats visuais que acompanham o drop",
+    "Sequência final apresentando cenas de shopping e bustos clássicos convergindo em uma explosão surreal de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Artistas vaporwave precisam de vídeos de música vaporwave para definir visualmente sua identidade artística, crescer sua fanbase e se destacar em plataformas de streaming.",
+    "creators": "Criadores de estética da internet usam estéticas de vídeos de música vaporwave para construir uma marca visual distintiva que impulsiona engajamento e atrai oportunidades de colaboração.",
+    "labels": "Gravadoras dependem da produção rápida e profissional de vídeos de música vaporwave para promover novos lançamentos de forma econômica em todos os canais digitais.",
+    "brands": "Marcas e anunciantes usam estéticas de vídeos de música vaporwave para criar conteúdo de campanhas surreais que ressoam emocionalmente com seu público-alvo."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um vídeo de música vaporwave sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — o IA do Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload de seu áudio ou inserir um prompt de texto, escolher um estilo vaporwave, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Ele suporta exportação de vídeos de música vaporwave em resolução 4K?",
+      "a": "Absolutamente. O Tunee exporta vídeos de música vaporwave em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
+    },
+    {
+      "q": "Como faço para personalizar o estilo visual do meu vídeo de música vaporwave?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA do Tunee interpreta seu input e gera visuais inspirados em efeitos de glitch que combinam com sua estética vaporwave."
+    },
+    {
+      "q": "Posso usar o gerador de vídeos de música vaporwave do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com o Tunee podem ser usados para fins comerciais incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Como faço para adicionar letras ou legendas ao meu vídeo de música vaporwave?",
+      "a": "O Tunee oferece opções integradas de overlay de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu vídeo de música vaporwave."
+    }
+  ]
+}

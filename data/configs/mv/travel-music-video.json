@@ -1,0 +1,31 @@
+{
+  "slug": "travel-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Travel",
+  "genre_name_zh": "旅行",
+  "keyword_en": "AI travel music video generator",
+  "visual_keywords": [
+    "world landmarks",
+    "adventure footage",
+    "sunrise scenery",
+    "cultural exploration",
+    "travel montage"
+  ],
+  "mood_words": [
+    "wanderlust",
+    "adventurous",
+    "inspiring",
+    "free"
+  ],
+  "target_personas": [
+    "travel vloggers",
+    "adventure music creators",
+    "travel brand marketers",
+    "nomadic artists"
+  ],
+  "color_accent": "#16A085",
+  "color_secondary": "#1ABC9C",
+  "has_custom_asset": false,
+  "demo_prompt": "Travel adventure music video montage, world landmark fly-throughs, cultural exploration moments, golden hour landscapes"
+}

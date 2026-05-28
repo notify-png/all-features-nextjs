@@ -1,0 +1,31 @@
+{
+  "slug": "valentines-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Valentine's",
+  "genre_name_zh": "情人节",
+  "keyword_en": "AI Valentine's music video generator",
+  "visual_keywords": [
+    "rose petals",
+    "candlelit dinner",
+    "heart imagery",
+    "couple moments",
+    "pink and red palette"
+  ],
+  "mood_words": [
+    "romantic",
+    "passionate",
+    "loving",
+    "intimate"
+  ],
+  "target_personas": [
+    "romantic music creators",
+    "couples",
+    "Valentine's gift givers",
+    "love song artists"
+  ],
+  "color_accent": "#C0392B",
+  "color_secondary": "#FF6B81",
+  "has_custom_asset": false,
+  "demo_prompt": "Valentine's Day music video with rose petal shower, candlelit dinner for two, heart bokeh lights, romantic couple dance"
+}

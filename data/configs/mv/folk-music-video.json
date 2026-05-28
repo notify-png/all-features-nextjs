@@ -1,0 +1,31 @@
+{
+  "slug": "folk-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Folk",
+  "genre_name_zh": "民谣",
+  "keyword_en": "AI folk music video generator",
+  "visual_keywords": [
+    "forest setting",
+    "acoustic instruments",
+    "bonfire gathering",
+    "natural textures",
+    "earthy tones"
+  ],
+  "mood_words": [
+    "intimate",
+    "storytelling",
+    "warm",
+    "organic"
+  ],
+  "target_personas": [
+    "folk singers",
+    "acoustic artists",
+    "Americana musicians",
+    "singer-songwriters"
+  ],
+  "color_accent": "#8B7355",
+  "color_secondary": "#A89070",
+  "has_custom_asset": false,
+  "demo_prompt": "Folk singer performing by campfire in misty forest, acoustic guitar, warm firelight, natural forest sounds"
+}

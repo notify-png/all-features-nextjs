@@ -1,0 +1,43 @@
+{
+  "h1": "Crea Videos Musicales de Fantasía Hermosos sin Esfuerzo con Tunee AI",
+  "direct_answer": "Un generador de videos musicales de fantasía con IA es una herramienta que crea automáticamente videos musicales de estilo fantasía profesionales a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales épicos con renderizado automatizado de vuelo de dragón y exportación multiestilos, adaptados a la energía y estilo de tu pista. Con Tunee, puedes pasar de una idea a un video musical de fantasía terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Crea videos musicales de Fantasía profesionales con el generador de videos musicales de fantasía con IA de Tunee. Visuales épicos, exportación rápida, sin experiencia requerida.",
+  "prompts": [
+    "Una escena épica con vuelo de dragón y movimientos de cámara expansivos, bañada en iluminación dramática que pulsa al ritmo",
+    "Artista inmerso en bosque mágico, energía mágica radiando a través de cada fotograma y corte del video",
+    "Lanzamiento de hechizos abstractos metamorfoseándose y fluyendo en cámara lenta, capturando perfectamente la esencia épica de la música",
+    "Planos cercanos de vuelo de dragón disolviéndose en castillo épico, creando un viaje visual mágico que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un entorno aventurero con bosque mágico en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre lanzamiento de hechizos y runas brillantes, construyendo tensión con calificación de color épica y gráficos de movimiento afilados",
+    "Un montaje mágico de castillo épico y vuelo de dragón, superpuesto con transiciones suaves y ritmos visuales que coinciden con la caída",
+    "Secuencia final con runas brillantes y bosque mágico convergiendo en una explosión épica de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los compositores de música de fantasía necesitan videos musicales de fantasía para definir visualmente su identidad artística, crecer su base de fans y destacarse en plataformas de streaming.",
+    "creators": "Los creadores de bandas sonoras épicas utilizan la estética de videos musicales de fantasía para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales de fantasía para promocionar nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan la estética de videos musicales de fantasía para crear contenido de campaña épico que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Admite exportar videos musicales de Fantasía en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales de Fantasía en resolución de hasta 4K, haciendo que estén listos para YouTube, plataformas de streaming y pantallas de gran tamaño."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical de Fantasía?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en vuelo de dragón que se alineen con tu estética de Fantasía."
+    },
+    {
+      "q": "¿Funciona con cualquier género de música, o solo con Fantasía?",
+      "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Fantasía. Puedes generar videos musicales para pop, hip-hop, clásica y decenas de otros estilos usando la misma plataforma."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical de Fantasía?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video musical de Fantasía automáticamente."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical de Fantasía para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical de Fantasía usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

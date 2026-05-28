@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-worship",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Worship",
+  "genre_name_zh": "敬拜",
+  "keyword_en": "AI music video for worship",
+  "visual_keywords": [
+    "church setting",
+    "congregation worship",
+    "cross imagery",
+    "heavenly light",
+    "spiritual atmosphere"
+  ],
+  "mood_words": [
+    "spiritual",
+    "uplifting",
+    "reverent",
+    "communal"
+  ],
+  "target_personas": [
+    "worship leaders",
+    "church music teams",
+    "Christian content creators",
+    "ministry organizations"
+  ],
+  "color_accent": "#F1C40F",
+  "color_secondary": "#F7DC6F",
+  "has_custom_asset": false,
+  "demo_prompt": "Worship music video with congregation hands raised, cross silhouette, divine golden light, spiritual atmosphere, reverent"
+}

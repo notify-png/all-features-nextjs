@@ -1,0 +1,31 @@
+{
+  "slug": "pet-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Pet",
+  "genre_name_zh": "宠物",
+  "keyword_en": "AI pet music video generator",
+  "visual_keywords": [
+    "cute pet moments",
+    "dog playing",
+    "cat close-up",
+    "pet and owner bond",
+    "outdoor pet adventure"
+  ],
+  "mood_words": [
+    "adorable",
+    "heartwarming",
+    "playful",
+    "viral"
+  ],
+  "target_personas": [
+    "pet owners",
+    "animal content creators",
+    "pet brand marketers",
+    "viral pet video makers"
+  ],
+  "color_accent": "#8B4513",
+  "color_secondary": "#D2691E",
+  "has_custom_asset": false,
+  "demo_prompt": "Viral pet music video compilation, dog trick performance, cat close-up expressions, pet owner bond moments, outdoor play"
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Produza Videoclipes de Música de Alta Qualidade para Apple Music com Tecnologia AI",
+  "direct_answer": "Um videoclipe AI para Apple Music é uma ferramenta que cria automaticamente videoclipes profissionais no estilo Apple Music a partir de seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais premium apresentando prompts de texto para vídeo e visuais de qualidade superior, adaptados à energia e estilo da sua faixa. Com Tunee, você pode ir de uma ideia para um videoclipe Apple Music finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "O videoclipe AI para Apple Music da Tunee transforma sua música em videoclipes Apple Music deslumbrantes em minutos. Experimente grátis e exporte para qualquer plataforma.",
+  "prompts": [
+    "Uma cena premium com qualidade superior e movimentos de câmera varrendo, envolvida em iluminação dramática que pulsa com a batida",
+    "Plano de close-up vertical imerso em integração de arte de álbum, energia polida irradiando através de cada quadro e corte do vídeo",
+    "Morph abstrato em widescreen 16:9 e fluindo em câmera lenta, capturando a essência premium da música perfeitamente",
+    "Close-ups de qualidade premium dissolvendo em estilo visual editorial, criando uma jornada visual polida que segue o ritmo da música",
+    "Plano aberto de estabelecimento de um ambiente editorial com integração de arte de álbum em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre widescreen 16:9 e valor de produção elevado, construindo tensão com color grading premium e motion graphics aguçados",
+    "Uma montagem polida de estilo visual editorial e qualidade premium, em camadas com transições suaves e batidas visuais que combinam com o drop",
+    "Sequência final apresentando valor de produção elevado e integração de arte de álbum convergindo em uma explosão premium de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Músicos independentes usam Apple Music para maximizar alcance na plataforma, garantindo que seu conteúdo atenda aos requisitos de formato e capture atenção instantaneamente.",
+    "creators": "Artistas distribuídos por label dependem de conteúdo Apple Music perfeitamente formatado para impulsionar visibilidade algorítmica e crescer seu público a cada upload.",
+    "labels": "Gravadoras produzem em lote videoclipes Apple Music otimizados para plataforma para todo seu elenco, reduzindo o tempo de execução de semanas para horas.",
+    "brands": "Marcas executando campanhas pagas e orgânicas nesta plataforma usam Tunee para produzir anúncios de vídeo Apple Music que param a rolagem em escala."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe Apple Music sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — A AI da Tunee gerencia toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo Apple Music, e a AI gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportação de videoclipes Apple Music em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes Apple Music em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e monitores de grande tela."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe Apple Music?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A AI da Tunee interpreta sua entrada e gera visuais inspirados em qualidade premium que combinam com sua estética Apple Music."
+    },
+    {
+      "q": "Posso usar o gerador de videoclipes Apple Music da Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe Apple Music?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a AI sincronizará automaticamente com seu videoclipe Apple Music."
+    }
+  ]
+}

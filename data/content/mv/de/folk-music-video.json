@@ -1,0 +1,43 @@
+{
+  "h1": "Verwandeln Sie Ihre Musik in kinematographische Folk-Videos mit KI",
+  "direct_answer": "Ein KI-Folk-Musikvideo-Generator ist ein Tool, das automatisch professionelle Folk-Musikvideos aus Ihrem Audio oder Text-Prompts erstellt. Tunees Plattform nutzt fortschrittliches Machine Learning, um intime Visuals mit Text-to-Video-Prompts und Waldkulissen-Visuals zu produzieren, die auf die Energie und den Stil Ihres Tracks abgestimmt sind. Mit Tunee können Sie in Minuten von der Idee zu einem fertigen Folk-Musikvideo gelangen – ohne Videobearbeitungserfahrung.",
+  "meta_description": "Erstellen Sie professionelle Folk-Musikvideos mit Tunees KI-Folk-Musikvideo-Generator. Intime Visuals, schneller Export, keine Erfahrung erforderlich.",
+  "prompts": [
+    "Eine intime Szene mit Waldkulisse und fließenden Kamerabewegungen, durchflutet von dramatischem Licht, das im Rhythmus pulsiert",
+    "Künstler, vertieft in akustische Instrumente, Storytelling-Energie, die aus jedem Frame und Schnitt des Videos ausstrahlt",
+    "Abstrakte Lagerfeuer-Szenerie, die sich in Zeitlupe morpht und fließt, um die intime Essenz der Musik perfekt einzufangen",
+    "Nahaufnahmen von Waldkulisse, die sich in natürliche Texturen auflösen und eine erzählende visuelle Reise schaffen, die dem Rhythmus des Songs folgt",
+    "Breiter Establishing Shot einer warmen Umgebung mit akustischen Instrumenten im Vordergrund, der tiefe emotionale Resonanz ausstrahlt",
+    "Dynamische Schnitte zwischen Lagerfeuer-Szenerie und erdigen Tönen, die mit intimer Farbabstimmung und scharfen Motion Graphics Spannung aufbauen",
+    "Ein erzählendes Montage aus natürlichen Texturen und Waldkulisse, überlagert mit sanften Übergängen und visuellen Beats, die dem Drop entsprechen",
+    "Letzte Sequenz mit erdigen Tönen und akustischen Instrumenten, die in einer intimen Explosion aus Licht, Farbe und Bewegung konvergieren"
+  ],
+  "personas": {
+    "musicians": "Folk-Sänger benötigen Folk-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihren Fankreis zu vergrößern und sich auf Streaming-Plattformen hervorzuheben.",
+    "creators": "Akustische Künstler nutzen Folk-Musikvideo-Ästhetik, um eine eigenständige visuelle Marke aufzubauen, die Engagement vorantreibt und Kollaborationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle Folk-Musikvideooproduktion, um Neuveröffentlichungen kostengünstig über alle digitalen Kanäle zu bewerben.",
+    "brands": "Marken und Werbetreibende nutzen Folk-Musikvideo-Ästhetik, um intime Kampagneninhalte zu erstellen, die emotional mit ihrer Zielgruppe resonieren."
+  },
+  "faqs": [
+    {
+      "q": "Unterstützt es den Export von Folk-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Folk-Musikvideos in bis zu 4K-Auflösung, sodass sie für YouTube, Streaming-Plattformen und großformatige Displays bereit sind."
+    },
+    {
+      "q": "Wie kann ich den visuellen Stil meines Folk-Musikvideos anpassen?",
+      "a": "Sie können die Visuals mit Text-Prompts steuern, die Szenen, Stimmungen und Einstellungen beschreiben. Tunees KI interpretiert Ihre Eingabe und generiert Waldkulissen-inspirierte Visuals, die Ihrer Folk-Ästhetik entsprechen."
+    },
+    {
+      "q": "Funktioniert es mit jedem Musikgenre oder nur mit Folk?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen jenseits von Folk. Sie können Musikvideos für Pop, Hip-Hop, klassische Musik und Dutzende anderer Stile mit derselben Plattform generieren."
+    },
+    {
+      "q": "Wie füge ich Lyrics oder Untertitel zu meinem Folk-Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Lyrics- und Untertitel-Overlay-Optionen. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil aus, und die KI synchronisiert sie automatisch mit Ihrem Folk-Musikvideo."
+    },
+    {
+      "q": "Funktioniert Tunees Folk-Musikvideo-Generator auf Mobilgeräten?",
+      "a": "Tunee ist vollständig über den Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Folk-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
+    }
+  ]
+}

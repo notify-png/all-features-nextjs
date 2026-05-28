@@ -1,0 +1,31 @@
+{
+  "slug": "watercolor-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Watercolor",
+  "genre_name_zh": "水彩",
+  "keyword_en": "AI watercolor music video generator",
+  "visual_keywords": [
+    "paint bleed",
+    "soft edges",
+    "pastel palette",
+    "hand-painted feel",
+    "botanical illustration"
+  ],
+  "mood_words": [
+    "gentle",
+    "artistic",
+    "delicate",
+    "dreamy"
+  ],
+  "target_personas": [
+    "indie folk artists",
+    "acoustic musicians",
+    "children's music creators",
+    "peaceful music makers"
+  ],
+  "color_accent": "#87CEEB",
+  "color_secondary": "#B0E0E6",
+  "has_custom_asset": false,
+  "demo_prompt": "Watercolor painter's hands creating music visualizer, paint bleeds forming landscapes, soft pastel botanical style"
+}

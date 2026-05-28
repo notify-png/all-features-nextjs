@@ -1,0 +1,31 @@
+{
+  "slug": "metal-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Metal",
+  "genre_name_zh": "金属",
+  "keyword_en": "AI metal music video generator",
+  "visual_keywords": [
+    "dark stage",
+    "headbanging crowd",
+    "guitar shred",
+    "dramatic fog",
+    "skull imagery"
+  ],
+  "mood_words": [
+    "brutal",
+    "intense",
+    "dark",
+    "powerful"
+  ],
+  "target_personas": [
+    "metal bands",
+    "heavy metal artists",
+    "death metal musicians",
+    "prog metal creators"
+  ],
+  "color_accent": "#1A1A1A",
+  "color_secondary": "#333333",
+  "has_custom_asset": false,
+  "demo_prompt": "Metal band performing on dark stage with dramatic fog, pyrotechnics, guitarist shredding in spotlight, headbanging crowd"
+}

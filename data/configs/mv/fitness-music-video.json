@@ -1,0 +1,31 @@
+{
+  "slug": "fitness-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Fitness",
+  "genre_name_zh": "健身",
+  "keyword_en": "AI fitness music video generator",
+  "visual_keywords": [
+    "workout footage",
+    "gym aesthetic",
+    "athletic performance",
+    "transformation montage",
+    "energy movement"
+  ],
+  "mood_words": [
+    "motivating",
+    "energetic",
+    "powerful",
+    "inspiring"
+  ],
+  "target_personas": [
+    "fitness content creators",
+    "gym music curators",
+    "personal trainers",
+    "workout brand marketers"
+  ],
+  "color_accent": "#E74C3C",
+  "color_secondary": "#F1948A",
+  "has_custom_asset": false,
+  "demo_prompt": "High-energy fitness music video, gym workout clips, athlete performance, transformation montage, motivational energy"
+}

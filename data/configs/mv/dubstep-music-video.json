@@ -1,0 +1,31 @@
+{
+  "slug": "dubstep-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Dubstep",
+  "genre_name_zh": "顿步舞曲",
+  "keyword_en": "AI dubstep music video generator",
+  "visual_keywords": [
+    "robotic visuals",
+    "wub waveform",
+    "festival crowd",
+    "bass cannon",
+    "glitch effects"
+  ],
+  "mood_words": [
+    "aggressive",
+    "bass-heavy",
+    "futuristic",
+    "chaotic"
+  ],
+  "target_personas": [
+    "dubstep producers",
+    "bass music DJs",
+    "festival artists",
+    "electronic music creators"
+  ],
+  "color_accent": "#00FF88",
+  "color_secondary": "#00CC66",
+  "has_custom_asset": false,
+  "demo_prompt": "Dubstep DJ dropping bass cannon at festival, crowd going wild, glitch visual effects, green laser grid, massive speakers"
+}

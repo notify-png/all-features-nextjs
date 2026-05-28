@@ -1,0 +1,43 @@
+{
+  "h1": "La forma más rápida de crear videos musicales 3D con IA",
+  "direct_answer": "Un generador de videos musicales 3D con IA es una herramienta que crea automáticamente videos musicales profesionales en estilo 3D a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales futuristas con generación de renderizado CGI en tiempo real y exportación con un clic, adaptados a la energía y estilo de tu canción. Con Tunee, puedes pasar de una idea a un video musical 3D terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "Usa el generador de videos musicales 3D con IA de Tunee para crear visuales 3D futuristas al instante. Sin necesidad de habilidades de edición — exporta en 4K para YouTube, TikTok y más.",
+  "prompts": [
+    "Una escena futurista con renderizado CGI y movimientos de cámara amplios, bañada en iluminación dramática que pulsa con el ritmo",
+    "Artista inmerso en formas 3D abstractas, energía pulida que irradia a través de cada fotograma y corte del video",
+    "Reflejos de vidrio abstracto transformándose y fluyendo en cámara lenta, capturando perfectamente la esencia futurista de la música",
+    "Tomas de cerca del renderizado CGI disolviéndose en luz volumétrica, creando un viaje visual pulido que sigue el ritmo de la canción",
+    "Toma de establecimiento amplio de un entorno técnico con formas 3D abstractas en primer plano, evocando una profunda resonancia emocional",
+    "Cortes dinámicos entre reflejos de vidrio y motion graphics, construyendo tensión con color grading futurista y motion graphics afilados",
+    "Un montaje pulido de luz volumétrica y renderizado CGI, superpuesto con transiciones suaves y ritmos visuales que coinciden con el drop",
+    "Secuencia final con motion graphics y formas 3D abstractas convergiendo en una explosión futurista de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los artistas de música electrónica necesitan videos musicales 3D para definir visualmente su identidad artística, hacer crecer su base de fans y destacar en plataformas de streaming.",
+    "creators": "Los creadores de motion graphics utilizan estéticas de videos musicales 3D para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Las discográficas dependen de la producción rápida y profesional de videos musicales 3D para promocionar nuevos lanzamientos de manera rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estéticas de videos musicales 3D para crear contenido de campaña futurista que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Puedo crear un video musical 3D sin experiencia en edición de video?",
+      "a": "Sí — Tunee maneja automáticamente toda la producción de video. Solo carga tu audio o ingresa una indicación de texto, elige un estilo 3D, y la IA genera tu video en minutos."
+    },
+    {
+      "q": "¿Admite exportar videos musicales 3D en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos musicales 3D en resolución de hasta 4K, lo que los hace listos para YouTube, plataformas de streaming y pantallas de gran tamaño."
+    },
+    {
+      "q": "¿Cómo personalizo el estilo visual de mi video musical 3D?",
+      "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en renderizado CGI que coincidan con tu estética 3D."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video musical 3D?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará automáticamente con tu video musical 3D."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video musical 3D para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video musical 3D usando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
+    }
+  ]
+}

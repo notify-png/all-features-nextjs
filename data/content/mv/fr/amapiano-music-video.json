@@ -1,0 +1,43 @@
+{
+  "h1": "Générez des clips vidéo Amapiano professionnels instantanément avec l'IA",
+  "direct_answer": "Un générateur de clips vidéo Amapiano par IA est un outil qui crée automatiquement des clips vidéo de style Amapiano professionnel à partir de vos fichiers audio ou invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels soulful mettant en avant la génération de townships sud-africains en temps réel et l'export en un clic, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à un clip vidéo Amapiano fini en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de clips vidéo Amapiano par IA le plus facile pour les artistes. Tunee génère des visuels Amapiano soulful à partir de votre audio — essayez gratuitement dès aujourd'hui.",
+  "prompts": [
+    "Une scène soulful avec township sud-africain et mouvements de caméra balayants, baignée d'un éclairage dramatique pulsant au rythme de la musique",
+    "Artiste immergé dans un gros plan de tambour log, une énergie rythmique rayonnant à chaque frame et coupe de la vidéo",
+    "Danse yano abstraite se transformant et coulant en ralenti, capturant parfaitement l'essence soulful de la musique",
+    "Plans rapprochés de township sud-africain se dissolvant dans une culture urbaine vibrante, créant un parcours visuel rythmique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement joyeux avec gros plan de tambour log au premier plan, évoquant une résonnance émotionnelle profonde",
+    "Montages dynamiques entre danse yano et fête en plein air, construisant la tension avec une notation de couleur soulful et des graphiques de mouvement nets",
+    "Un montage rythmique de culture urbaine vibrante et township sud-africain, couche avec des transitions fluides et des beats visuels correspondant à la chute",
+    "Séquence finale mettant en vedette fête en plein air et gros plan de tambour log convergeant dans une explosion soulful de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes sud-africains ont besoin de clips vidéo Amapiano pour définir visuellement leur identité artistique, développer leur fanbase et se démarquer sur les plateformes de streaming.",
+    "creators": "Les producteurs Amapiano utilisent l'esthétique des clips vidéo Amapiano pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production de clips vidéo Amapiano rapide et professionnelle pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des clips vidéo Amapiano pour créer du contenu de campagne soulful qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un clip vidéo Amapiano sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style Amapiano, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de clips vidéo Amapiano de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties de streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou uniquement Amapiano ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà d'Amapiano. Vous pouvez générer des clips vidéo pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon clip vidéo Amapiano ?",
+      "a": "Tunee propose des options de superposition de paroles et de sous-titres intégrées. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre clip vidéo Amapiano."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un clip vidéo Amapiano pour les comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre clip vidéo Amapiano en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

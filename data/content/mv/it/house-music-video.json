@@ -1,0 +1,43 @@
+{
+  "h1": "Dai Vita al Tuo Sound House con la Creazione di Video Musicali AI",
+  "direct_answer": "Un generatore AI di video musicali house è uno strumento che crea automaticamente video musicali professionali in stile house dal tuo audio o da prompt di testo. La piattaforma Tunee utilizza machine learning avanzato per produrre visual affascinanti con prompt text-to-video e visual da club underground, personalizzati in base all'energia e allo stile della tua traccia. Con Tunee, puoi passare dall'idea a un video musicale house finito in pochi minuti, senza alcuna esperienza di editing video.",
+  "meta_description": "Il generatore AI di video musicali house più facile per gli artisti. Tunee genera visual House affascinanti dal tuo audio — prova gratis oggi.",
+  "prompts": [
+    "Una scena affascinante con club underground e movimenti di camera fluidi, immersa in un'illuminazione drammatica che pulsa con il beat",
+    "Artista immerso in rave warehouse, energia groovy che irradia da ogni fotogramma e taglio del video",
+    "Palla da discoteca astratta che si trasforma e fluisce in slow motion, catturando perfettamente l'essenza affascinante della musica",
+    "Primi piani di club underground che si dissolvono in una folla che balla, creando un viaggio visivo groovy che segue il ritmo della canzone",
+    "Inquadratura d'apertura ampia di un ambiente underground con rave warehouse in primo piano, che evoca una profonda risonanza emotiva",
+    "Tagli dinamici tra palla da discoteca e primo piano di DJ set, costruendo tensione con color grading affascinante e sharp motion graphics",
+    "Un montaggio groovy di folla che balla e club underground, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale con primo piano di DJ set e rave warehouse che convergono in un'esplosione affascinante di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I DJ house hanno bisogno di video musicali house per definire visivamente la loro identità artistica, far crescere il loro fanbase e distinguersi sulle piattaforme di streaming.",
+    "creators": "I produttori di musica club utilizzano l'estetica dei video house per costruire un brand visivo distintivo che aumenta l'engagement e attrae opportunità di collaborazione.",
+    "labels": "Le etichette discografiche si affidano a una produzione veloce e professionale di video house per promuovere nuove uscite in modo conveniente su tutti i canali digitali.",
+    "brands": "Marchi e inserzionisti utilizzano l'estetica dei video house per creare contenuti per campagne affascinanti che risuonano emotivamente con il loro target audience."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale house senza alcuna esperienza di video editing?",
+      "a": "Sì — Tunee AI gestisce automaticamente tutta la produzione video. Carica semplicemente il tuo audio o inserisci un prompt di testo, scegli uno stile house e l'AI genera il tuo video in pochi minuti."
+    },
+    {
+      "q": "Come posso personalizzare lo stile visivo del mio video musicale house?",
+      "a": "Puoi guidare i visual utilizzando prompt di testo che descrivono scene, mood e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visual ispirati ai club underground che corrispondono alla tua estetica house."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale house?",
+      "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale house."
+    },
+    {
+      "q": "Posso generare più versioni di un video musicale house per confrontarle?",
+      "a": "Sì. Puoi generare diverse variazioni del tuo video musicale house utilizzando prompt o impostazioni di stile diversi, quindi selezionare la versione che meglio si adatta alla tua visione."
+    },
+    {
+      "q": "Il generatore AI di video house di Tunee funziona su dispositivi mobile?",
+      "a": "Tunee è completamente accessibile tramite browser web sia su desktop che mobile, quindi puoi creare video musicali house da qualsiasi dispositivo senza installare software."
+    }
+  ]
+}

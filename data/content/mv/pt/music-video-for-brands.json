@@ -1,0 +1,43 @@
+{
+  "h1": "A Forma Mais Rápida de Criar Videoclipes de Marcas com IA",
+  "direct_answer": "Um videoclipe de IA para marcas é uma ferramenta que cria automaticamente videoclipes profissionais no estilo de marcas a partir de seus prompts de áudio ou texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais de marca com geração de cenas de IA, integração de marca e product placement, adaptados à energia e estilo da sua faixa. Com o Tunee, você sai da ideia para um videoclipe de marca finalizado em minutos, sem precisar de experiência em edição de vídeo.",
+  "meta_description": "Tunee transforma sua música em vídeos de Marcas impressionantes em minutos. Experimente gratuitamente e exporte para qualquer plataforma.",
+  "prompts": [
+    "Uma cena de marca com integração de marca e movimentos de câmera expansivos, envolvida em iluminação dramática que pulsa com a batida",
+    "Plano fechado vertical imerso em product placement, energia comercial irradiando através de cada frame e corte do vídeo",
+    "Ambiente de marca abstrato morphing e fluindo em câmera lenta, capturando perfeitamente a essência de marca da música",
+    "Planos fechados da integração de marca dissolvendo em tom corporativo, criando uma jornada visual comercial que segue o ritmo da música",
+    "Plano aberto estabelecendo um ambiente profissional com product placement em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre ambiente de marca e alinhamento de marketing, construindo tensão com grading de cor de marca e motion graphics afiados",
+    "Uma montagem comercial de tom corporativo e integração de marca, em camadas com transições suaves e beats visuais acompanhando o drop",
+    "Sequência final apresentando alinhamento de marketing e product placement convergindo em uma explosão de marca de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Músicos independentes usam Marcas para maximizar o alcance na plataforma, garantindo que seu conteúdo atenda aos requisitos de formato e capture atenção instantaneamente.",
+    "creators": "Equipes de marketing dependem de conteúdo de Marcas perfeitamente formatado para impulsionar visibilidade algorítmica e crescer seu seguimento a cada upload.",
+    "labels": "Gravadoras produzem em lote vídeos de Marcas otimizados para plataforma do seu elenco completo, reduzindo o tempo de execução de semanas para horas.",
+    "brands": "Marcas executando campanhas pagas e orgânicas nesta plataforma usam Tunee para produzir anúncios de vídeo de Marcas que param a rolagem em escala."
+  },
+  "faqs": [
+    {
+      "q": "Posso criar um videoclipe de Marcas sem nenhuma experiência em edição de vídeo?",
+      "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Basta fazer upload do seu áudio ou inserir um prompt de texto, escolher um estilo de Marcas, e a IA gera seu vídeo em minutos."
+    },
+    {
+      "q": "Suporta exportação de videoclipes de Marcas em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta videoclipes de Marcas em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e exibições em tela grande."
+    },
+    {
+      "q": "Como adiciono letras ou legendas ao meu videoclipe de Marcas?",
+      "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe de Marcas."
+    },
+    {
+      "q": "O gerador de videoclipes de Marcas do Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, então você pode criar videoclipes de Marcas de qualquer dispositivo sem instalar software."
+    },
+    {
+      "q": "Como personalizo o estilo visual do meu videoclipe de Marcas?",
+      "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA do Tunee interpreta sua entrada e gera visuais inspirados em integração de marca que combinam com sua estética de Marcas."
+    }
+  ]
+}

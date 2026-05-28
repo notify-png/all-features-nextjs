@@ -1,0 +1,31 @@
+{
+  "slug": "cpop-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "C-pop",
+  "genre_name_zh": "华语流行",
+  "keyword_en": "AI C-pop music video generator",
+  "visual_keywords": [
+    "traditional Chinese elements",
+    "modern cityscape",
+    "flowing hanfu",
+    "dragon motif",
+    "neon Shanghai"
+  ],
+  "mood_words": [
+    "elegant",
+    "dynamic",
+    "culturally rich",
+    "modern"
+  ],
+  "target_personas": [
+    "Mandopop artists",
+    "Chinese indie musicians",
+    "Taiwanese pop creators",
+    "Chinese diaspora artists"
+  ],
+  "color_accent": "#C0392B",
+  "color_secondary": "#E8A44A",
+  "has_custom_asset": false,
+  "demo_prompt": "C-pop singer in flowing hanfu against modern Shanghai skyline at night, fusion of traditional and neon modern"
+}

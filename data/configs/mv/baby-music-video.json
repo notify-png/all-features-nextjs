@@ -1,0 +1,31 @@
+{
+  "slug": "baby-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Baby",
+  "genre_name_zh": "婴儿",
+  "keyword_en": "AI baby music video generator",
+  "visual_keywords": [
+    "baby first moments",
+    "nursery setting",
+    "first steps",
+    "cute baby expressions",
+    "family warmth"
+  ],
+  "mood_words": [
+    "adorable",
+    "heartwarming",
+    "tender",
+    "joyful"
+  ],
+  "target_personas": [
+    "new parents",
+    "baby shower organizers",
+    "family memory makers",
+    "children's music creators"
+  ],
+  "color_accent": "#87CEEB",
+  "color_secondary": "#B0E0FF",
+  "has_custom_asset": false,
+  "demo_prompt": "Adorable baby milestone moments, first steps, nursery cuddles, family love, soft pastel colors, heartwarming montage"
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Le moyen le plus rapide de créer des vidéos musicales Gospel avec l'IA",
+  "direct_answer": "Un générateur de vidéos musicales Gospel par IA est un outil qui crée automatiquement des vidéos musicales de style Gospel professionnelles à partir de votre audio ou de vos invites texte. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels inspirants avec un rendu de chœur d'église automatisé et une exportation multi-style, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale Gospel terminée en quelques minutes, sans expérience requise en montage vidéo.",
+  "meta_description": "Le générateur de vidéos musicales Gospel par IA le plus simple pour les artistes. Tunee génère des visuels Gospel inspirants à partir de votre audio — essayez gratuitement dès aujourd'hui.",
+  "prompts": [
+    "Une scène inspirante avec chœur d'église et mouvements de caméra fluides, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans la lumière du vitrail, l'énergie spirituelle rayonnant à travers chaque image et cut de la vidéo",
+    "Mains levées en adoration abstraites se transformant et coulant en ralenti, capturant l'essence inspirante de la musique parfaitement",
+    "Plans rapprochés du chœur d'église se dissolvant en silhouette de croix, créant un parcours visuel spirituel qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement puissant avec lumière de vitrail au premier plan, évoquant une résonance émotionnelle profonde",
+    "Cuts dynamiques entre mains levées en adoration et éclairage divin, créant de la tension avec étalonnage des couleurs inspirant et des graphiques de mouvement nets",
+    "Un montage spirituel de silhouette de croix et chœur d'église, en couches avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant un éclairage divin et une lumière de vitrail convergeant dans une explosion inspirante de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les chœurs Gospel ont besoin de vidéos musicales Gospel pour définir visuellement leur identité artistique, développer leur fanbase et se démarquer sur les plateformes de streaming.",
+    "creators": "Les leaders du culte utilisent l'esthétique des vidéos musicales Gospel pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques dépendent d'une production rapide et professionnelle de vidéos musicales Gospel pour promouvoir les nouvelles sorties de manière économique sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des vidéos musicales Gospel pour créer du contenu de campagne inspirant qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale Gospel sans expérience en montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il vous suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style Gospel, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo musicale Gospel?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites texte qui décrivent les scènes, les ambiances et les décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés du chœur d'église qui correspondent à votre esthétique Gospel."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéos musicales Gospel de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales incluant les sorties en streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement Gospel?",
+      "a": "Tunee prend en charge une large gamme de genres et de styles visuels au-delà du Gospel. Vous pouvez générer des vidéos musicales pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale Gospel?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale Gospel."
+    }
+  ]
+}

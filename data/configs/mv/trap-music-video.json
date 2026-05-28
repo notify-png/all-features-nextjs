@@ -1,0 +1,31 @@
+{
+  "slug": "trap-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "Trap",
+  "genre_name_zh": "Trap",
+  "keyword_en": "AI trap music video generator",
+  "visual_keywords": [
+    "trap house",
+    "lean pour",
+    "ice jewelry",
+    "dark urban night",
+    "808 visualization"
+  ],
+  "mood_words": [
+    "hard",
+    "dark",
+    "hypnotic",
+    "street"
+  ],
+  "target_personas": [
+    "trap rappers",
+    "Atlanta-style producers",
+    "SoundCloud rappers",
+    "drill artists"
+  ],
+  "color_accent": "#0D0D0D",
+  "color_secondary": "#1A1A1A",
+  "has_custom_asset": false,
+  "demo_prompt": "Trap rapper in dark studio surrounded by icy jewelry, slow-motion lean pour, atmospheric fog, purple uplighting"
+}

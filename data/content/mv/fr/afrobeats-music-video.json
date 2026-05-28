@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie à votre son Afrobeats avec la création de vidéoclips musicaux par IA",
+  "direct_answer": "Un générateur de vidéoclips Afrobeats par IA est un outil qui crée automatiquement des vidéoclips musicaux professionnels au style Afrobeats à partir de votre audio ou vos invites textuelles. La plateforme de Tunee utilise l'apprentissage automatique avancé pour produire des visuels vibrants avec génération de scènes IA présentant des paysages urbains de Lagos et une mode colorée, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez transformer votre idée en un vidéoclip Afrobeats fini en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de vidéoclips Afrobeats par IA de Tunee pour créer des visuels Afrobeats vibrants instantanément. Aucune compétence en montage requise — exportez en 4K pour YouTube, TikTok...",
+  "prompts": [
+    "Une scène vibrante avec paysage urbain de Lagos et mouvements de caméra panoramiques, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans une mode colorée, une énergie joyeuse rayonnant dans chaque image et cut de la vidéo",
+    "Fête de rue abstraite se morphant et s'écoulant au ralenti, capturant l'essence vibrant de la musique parfaitement",
+    "Plans rapprochés du paysage urbain de Lagos se dissolvant dans une énergie de danse, créant un voyage visuel joyeux qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement rythmique avec mode colorée au premier plan, évoquant une profonde résonance émotionnelle",
+    "Cuts dynamiques entre fête de rue et motifs africains, construisant la tension avec un étalonnage des couleurs vibrant et des graphiques en mouvement nets",
+    "Un montage joyeux d'énergie de danse et de paysage urbain de Lagos, en couches avec des transitions lisses et des beats visuels correspondant au drop",
+    "Séquence finale présentant des motifs africains et une mode colorée convergeant en une explosion vibrante de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes Afrobeats ont besoin de vidéoclips Afrobeats pour définir visuellement leur identité artistique, développer leur fanbase et se démarquer sur les plateformes de streaming.",
+    "creators": "Les créateurs de musique africaine utilisent l'esthétique des vidéoclips Afrobeats pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production de vidéoclips Afrobeats rapide et professionnelle pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des vidéoclips Afrobeats pour créer du contenu de campagne vibrant qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un vidéoclip Afrobeats sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style Afrobeats, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de mon vidéoclip Afrobeats ?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites textuelles qui décrivent des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par le paysage urbain de Lagos qui correspondent à votre esthétique Afrobeats."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre musical, ou uniquement Afrobeats ?",
+      "a": "Tunee prend en charge une large gamme de genres et de styles visuels au-delà d'Afrobeats. Vous pouvez générer des vidéoclips musicaux pour pop, hip-hop, classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à mon vidéoclip Afrobeats ?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéoclip Afrobeats."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'un vidéoclip Afrobeats à comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variantes de votre vidéoclip Afrobeats en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

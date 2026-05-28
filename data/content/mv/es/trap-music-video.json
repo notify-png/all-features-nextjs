@@ -1,0 +1,43 @@
+{
+  "h1": "La forma más rápida de crear videos de música Trap con IA",
+  "direct_answer": "Un generador de videos de música Trap con IA es una herramienta que crea automáticamente videos de música tipo Trap profesionales a partir de tu audio o indicaciones de texto. La plataforma de Tunee utiliza aprendizaje automático avanzado para producir visuales duros con generación de escenas de IA, trap house y lean pour, adaptados a la energía y el estilo de tu tema. Con Tunee, puedes pasar de una idea a un video de música Trap terminado en minutos, sin necesidad de experiencia en edición de video.",
+  "meta_description": "El generador de videos de música Trap con IA más fácil para artistas. Tunee genera visuales Trap duros a partir de tu audio — pruébalo gratis hoy.",
+  "prompts": [
+    "Una escena dura con trap house y movimientos de cámara barridos, bañada en iluminación dramática que pulsa con el beat",
+    "Artista inmerso en lean pour, energía oscura irradiando a través de cada fotograma y corte del video",
+    "Joyas de hielo abstractas morfoseando y fluyendo en cámara lenta, capturando perfectamente la esencia dura de la música",
+    "Planos cercanos de trap house disolviéndose en la noche urbana oscura, creando un viaje visual oscuro que sigue el ritmo de la canción",
+    "Plano de establecimiento amplio de un ambiente hipnótico con lean pour en primer plano, evocando una resonancia emocional profunda",
+    "Cortes dinámicos entre joyas de hielo y visualización de 808, construyendo tensión con color grading duro y motion graphics agudos",
+    "Un montaje oscuro de noche urbana oscura y trap house, estratificado con transiciones suaves y beats visuales que coinciden con el drop",
+    "Secuencia final con visualización de 808 y lean pour convergiendo en una explosión dura de luz, color y movimiento"
+  ],
+  "personas": {
+    "musicians": "Los raperos Trap necesitan videos de música Trap para definir visualmente su identidad artística, crecer su fanbase y destacarse en plataformas de streaming.",
+    "creators": "Los productores de estilo Atlanta utilizan estéticas de videos de música Trap para construir una marca visual distintiva que impulse el engagement y atraiga oportunidades de colaboración.",
+    "labels": "Los sellos discográficos dependen de la producción rápida y profesional de videos de música Trap para promocionar nuevos lanzamientos de forma rentable en todos los canales digitales.",
+    "brands": "Las marcas y anunciantes utilizan estéticas de videos de música Trap para crear contenido de campaña duro que resuene emocionalmente con su audiencia objetivo."
+  },
+  "faqs": [
+    {
+      "q": "¿Soporta la exportación de videos de música Trap en resolución 4K?",
+      "a": "Absolutamente. Tunee exporta videos de música Trap en resolución hasta 4K, preparándolos para YouTube, plataformas de streaming y pantallas grandes."
+    },
+    {
+      "q": "¿Cómo agrego letras o subtítulos a mi video de música Trap?",
+      "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras, elige un estilo de texto y la IA sincronizará automáticamente tu video de música Trap."
+    },
+    {
+      "q": "¿Puedo generar múltiples versiones de un video de música Trap para comparar?",
+      "a": "Sí. Puedes generar varias variaciones de tu video de música Trap utilizando diferentes indicaciones o configuraciones de estilo, luego selecciona la versión que mejor se adapte a tu visión."
+    },
+    {
+      "q": "¿Funciona el generador de videos de música Trap de Tunee en dispositivos móviles?",
+      "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en móvil, para que puedas crear videos de música Trap desde cualquier dispositivo sin instalar software."
+    },
+    {
+      "q": "¿Puedo crear un video de música Trap sin experiencia en edición de video?",
+      "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo Trap y la IA generará tu video en minutos."
+    }
+  ]
+}

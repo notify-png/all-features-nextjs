@@ -1,0 +1,43 @@
+{
+  "h1": "Bringen Sie Ihren Performance-Sound mit AI-Musikvideoerstellung zum Leben",
+  "direct_answer": "Ein AI-Performance-Musikvideo ist ein Tool, das automatisch professionelle Performance-Style-Musikvideos aus Ihrem Audio oder Text-Prompts erstellt. Tunees Plattform nutzt fortschrittliches Machine Learning, um Live-Visuals mit Live-Stage-Performance-Generierung und One-Click-Export zu produzieren, perfekt auf die Energie und den Stil Ihres Tracks abgestimmt. Mit Tunee können Sie in Minuten von einer Idee zu einem fertigen Performance-Musikvideo gelangen – keine Videoschnitt-Erfahrung erforderlich.",
+  "meta_description": "Nutzen Sie Tunees AI-Performance-Musikvideo, um Live-Performance-Visuals sofort zu erstellen. Keine Bearbeitungskenntnisse nötig – exportieren Sie in 4K für YouTube, TikTok und mehr.",
+  "prompts": [
+    "Eine Live-Szene mit Stage-Performance und schwungvollen Kamerabewegungen, getaucht in dramatische Beleuchtung, die mit dem Beat pulsiert",
+    "Künstler immersed in Live-Band, energetische Energie strahlt aus jedem Frame und Cut des Videos",
+    "Abstrakte Konzertbeleuchtung morpht und fließt in Zeitlupe, erfasst perfekt die Live-Essenz der Musik",
+    "Nahaufnahmen von Stage-Performance lösen sich in Nahaufnahmen von Musikern auf, schaffen eine energetische visuelle Reise, die dem Rhythmus des Songs folgt",
+    "Breite etablierende Aufnahme einer authentischen Umgebung mit Live-Band im Vordergrund, evoziert tiefe emotionale Resonanz",
+    "Dynamische Schnitte zwischen Konzertbeleuchtung und Publikumsreaktion, bauen Spannung mit Live-Farbgrading und scharfen Motion Graphics auf",
+    "Eine energetische Montage von Nahaufnahmen von Musikern und Stage-Performance, geschichtet mit sanften Übergängen und visuellen Beats, die auf den Drop abgestimmt sind",
+    "Finale Sequenz mit Publikumsreaktion und Live-Band verschmelzend in einer Live-Explosion aus Licht, Farbe und Bewegung"
+  ],
+  "personas": {
+    "musicians": "Bands benötigen Performance-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihre Fanbasis zu vergrößern und auf Streaming-Plattformen hervorzustechen.",
+    "creators": "Live-Performer nutzen Performance-Musikvideo-Ästhetik, um eine einzigartige visuelle Marke aufzubauen, die Engagement antreibt und Kooperationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle Performance-Musikvideooproduktion, um neue Releases kostengünstig über alle digitalen Kanäle zu bewerben.",
+    "brands": "Brands und Werbetreibende nutzen Performance-Musikvideo-Ästhetik, um Live-Kampagneninhalte zu erstellen, die emotional mit ihrer Zielgruppe resonieren."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Performance-Musikvideo ohne Videoschnitt-Erfahrung erstellen?",
+      "a": "Ja – Tunee übernimmt die gesamte Videoproduktion automatisch. Laden Sie einfach Ihr Audio hoch oder geben Sie einen Text-Prompt ein, wählen Sie einen Performance-Stil, und die AI generiert Ihr Video in Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export von Performance-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Performance-Musikvideos in bis zu 4K-Auflösung, perfekt für YouTube, Streaming-Plattformen und große Display-Bildschirme."
+    },
+    {
+      "q": "Kann ich Tunees Performance-Musikvideo-Generator für kommerzielle Projekte nutzen?",
+      "a": "Ja. Videos, die mit Tunee erstellt wurden, können für kommerzielle Zwecke genutzt werden, einschließlich Streaming-Releases, Brand-Kampagnen und Social-Media-Inhalte."
+    },
+    {
+      "q": "Funktioniert es mit allen Musikgenres oder nur Performance?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Performance hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und Dutzende andere Stile mit derselben Plattform generieren."
+    },
+    {
+      "q": "Funktioniert Tunees Performance-Musikvideo-Generator auf mobilen Geräten?",
+      "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Performance-Musikvideos von jedem Gerät aus ohne Softwareinstallation erstellen können."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "h1": "Erstellen Sie beeindruckende R&B-Musikvideos mit KI in Minuten",
+  "direct_answer": "Ein KI-R&B-Musikvideo-Generator ist ein Tool, das automatisch professionelle R&B-Musikvideos aus Ihrem Audio oder Text-Prompts erstellt. Die Plattform von Tunee nutzt fortschrittliches Machine Learning, um gefühlvolle Visuals mit Echtzeit-Studioatmosphäre und One-Click-Export zu produzieren, abgestimmt auf die Energie und den Stil Ihres Tracks. Mit Tunee können Sie in wenigen Minuten von der Idee zu einem fertigen R&B-Musikvideo gelangen – keine Videobearbeitung erforderlich.",
+  "meta_description": "Erstellen Sie professionelle R&B-Musikvideos mit Tunees KI-R&B-Musikvideo-Generator. Gefühlvolle Visuals, schneller Export, keine Erfahrung erforderlich.",
+  "prompts": [
+    "Eine gefühlvolle Szene mit stimmungsvollem Studio und ausholenden Kamerabewegungen, getaucht in dramatische Beleuchtung, die zum Beat pulsiert",
+    "Künstler im luxuriösen Apartment vertieft, sanfte Energie strahlt aus jedem Frame und Schnitt des Videos",
+    "Abstrakte Silhouetten-Choreografie morpht und fließt in Zeitlupe, erfasst perfekt die gefühlvolle Essenz der Musik",
+    "Nahaufnahmen von stimmungsvollem Studio lösen sich in Kerzenlicht auf, schaffen eine sanfte visuelle Reise, die dem Rhythmus des Songs folgt",
+    "Weite Establishing Shot einer intimen Umgebung mit luxuriösem Apartment im Vordergrund, erweckt tiefe emotionale Resonanz",
+    "Dynamische Schnitte zwischen Silhouetten-Choreografie und urbaner Nacht, bauen Spannung mit gefühlvoller Farbabstimmung und scharfen Motion Graphics auf",
+    "Eine sanfte Montage aus Kerzenlicht und stimmungsvollem Studio, geschichtet mit sanften Übergängen und visuellen Beats, die zum Drop passen",
+    "Abschließende Sequenz mit urbaner Nacht und luxuriösem Apartment, die in einer gefühlvollen Explosion aus Licht, Farbe und Bewegung zusammenfließen"
+  ],
+  "personas": {
+    "musicians": "R&B-Sänger benötigen R&B-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihre Fangemeinde zu vergrößern und auf Streaming-Plattformen hervorzustechen.",
+    "creators": "Soul-Künstler nutzen R&B-Musikvideo-Ästhetik, um eine eigene visuelle Marke aufzubauen, die Engagement treibt und Kollaborationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle R&B-Musikvideo-Produktion, um neue Veröffentlichungen kostengünstig über alle digitalen Kanäle zu bewerben.",
+    "brands": "Marken und Werbetreibende nutzen R&B-Musikvideo-Ästhetik, um gefühlvolle Kampagneninhalte zu erstellen, die emotional bei ihrer Zielgruppe ankommen."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein R&B-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja – Tunees KI übernimmt die gesamte Videoproduktion automatisch. Laden Sie einfach Ihr Audio hoch oder geben Sie einen Text-Prompt ein, wählen Sie einen R&B-Stil, und die KI generiert Ihr Video in wenigen Minuten."
+    },
+    {
+      "q": "Unterstützt es den Export von R&B-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert R&B-Musikvideos in bis zu 4K-Auflösung, sodass sie für YouTube, Streaming-Plattformen und große Displays bereit sind."
+    },
+    {
+      "q": "Wie passe ich den visuellen Stil meines R&B-Musikvideos an?",
+      "a": "Sie können die Visuals mit Text-Prompts lenken, die Szenen, Stimmungen und Einstellungen beschreiben. Tunees KI interpretiert Ihre Eingabe und generiert stimmungsvolle Studio-inspirierte Visuals, die Ihrer R&B-Ästhetik entsprechen."
+    },
+    {
+      "q": "Kann ich Tunees R&B-Musikvideo-Generator für kommerzielle Projekte nutzen?",
+      "a": "Ja. Videos, die mit Tunee erstellt wurden, können für kommerzielle Zwecke genutzt werden, einschließlich Streaming-Veröffentlichungen, Brandkampagnen und Social-Media-Inhalte."
+    },
+    {
+      "q": "Wie füge ich Texte oder Untertitel zu meinem R&B-Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Optionen für Lyrik- und Untertitel-Overlays. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil, und die KI synchronisiert sie automatisch zu Ihrem R&B-Musikvideo."
+    }
+  ]
+}

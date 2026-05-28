@@ -1,0 +1,43 @@
+{
+  "h1": "The Fastest Way to Create 3D Music Videos with AI",
+  "direct_answer": "An AI 3D music video generator is a tool that automatically creates professional 3d-style music videos from your audio or text prompts. Tunee's platform uses advanced machine learning to produce futuristic visuals featuring real-time CGI render generation and one-click export, tailored to your track's energy and style. With Tunee, you can go from idea to a finished 3d music video in minutes, no video editing experience required.",
+  "meta_description": "Use Tunee's AI 3D music video generator to create futuristic 3D visuals instantly. No editing skills needed — export in 4K for YouTube, TikTok, and more.",
+  "prompts": [
+    "A futuristic scene with CGI render and sweeping camera movements, bathed in dramatic lighting that pulses with the beat",
+    "Artist immersed in abstract 3D shapes, polished energy radiating through every frame and cut of the video",
+    "Abstract glass reflections morphing and flowing in slow motion, capturing the futuristic essence of the music perfectly",
+    "Close-up shots of CGI render dissolving into volumetric light, creating a polished visual journey that follows the song's rhythm",
+    "Wide establishing shot of a technical environment with abstract 3D shapes in the foreground, evoking a deep emotional resonance",
+    "Dynamic cuts between glass reflections and motion graphics, building tension with futuristic color grading and sharp motion graphics",
+    "A polished montage of volumetric light and CGI render, layered with smooth transitions and visual beats matching the drop",
+    "Final sequence featuring motion graphics and abstract 3D shapes converging in a futuristic explosion of light, color, and movement"
+  ],
+  "personas": {
+    "musicians": "Electronic music artists need 3D music videos to visually define their artistic identity, grow their fanbase, and stand out on streaming platforms.",
+    "creators": "Motion graphics creators use 3D music video aesthetics to build a distinctive visual brand that drives engagement and attracts collaboration opportunities.",
+    "labels": "Record labels rely on fast, professional 3D music video production to promote new releases cost-effectively across all digital channels.",
+    "brands": "Brands and advertisers use 3D music video aesthetics to create futuristic campaign content that resonates emotionally with their target audience."
+  },
+  "faqs": [
+    {
+      "q": "Can I create a 3D music video without any video editing experience?",
+      "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a 3D style, and the AI generates your video in minutes."
+    },
+    {
+      "q": "Does it support exporting 3D music videos in 4K resolution?",
+      "a": "Absolutely. Tunee exports 3D music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
+    },
+    {
+      "q": "How do I customize the visual style of my 3D music video?",
+      "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates CGI render-inspired visuals that match your 3D aesthetic."
+    },
+    {
+      "q": "How do I add lyrics or subtitles to my 3D music video?",
+      "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your 3D music video automatically."
+    },
+    {
+      "q": "Can I generate multiple versions of a 3D music video to compare?",
+      "a": "Yes. You can generate several variations of your 3D music video using different prompts or style settings, then select the version that best fits your vision."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-apple-music",
+  "parent": "/features/music-video-generator",
+  "category": "Platform",
+  "genre_name": "Apple Music",
+  "genre_name_zh": "Apple Music",
+  "keyword_en": "AI music video for Apple Music",
+  "visual_keywords": [
+    "premium quality",
+    "album art integration",
+    "16:9 widescreen",
+    "editorial visual style",
+    "high production value"
+  ],
+  "mood_words": [
+    "premium",
+    "polished",
+    "editorial",
+    "high-end"
+  ],
+  "target_personas": [
+    "label-distributed artists",
+    "premium music creators",
+    "Apple Music editorial targets",
+    "high-quality producers"
+  ],
+  "color_accent": "#FC3C44",
+  "color_secondary": "#FC6570",
+  "has_custom_asset": false,
+  "demo_prompt": "Apple Music premium quality music video, editorial visual style, album art color integration, high production value cinematic"
+}

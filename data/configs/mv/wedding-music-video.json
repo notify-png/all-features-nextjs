@@ -1,0 +1,31 @@
+{
+  "slug": "wedding-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Wedding",
+  "genre_name_zh": "婚礼",
+  "keyword_en": "AI wedding music video generator",
+  "visual_keywords": [
+    "ceremony moments",
+    "first dance",
+    "vows exchange",
+    "golden hour portraits",
+    "floral decoration"
+  ],
+  "mood_words": [
+    "romantic",
+    "sentimental",
+    "beautiful",
+    "timeless"
+  ],
+  "target_personas": [
+    "newlyweds",
+    "wedding videographers",
+    "wedding planners",
+    "wedding musicians"
+  ],
+  "color_accent": "#F8F0E3",
+  "color_secondary": "#E8D5B0",
+  "has_custom_asset": false,
+  "demo_prompt": "Wedding day highlights, ceremony vows, golden hour portrait, first dance, floral arch, emotional family moments"
+}

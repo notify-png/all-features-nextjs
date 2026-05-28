@@ -1,0 +1,31 @@
+{
+  "slug": "music-video-for-game-trailers",
+  "parent": "/features/music-video-generator",
+  "category": "For Who",
+  "genre_name": "Game Trailers",
+  "genre_name_zh": "游戏预告片",
+  "keyword_en": "AI music video for game trailers",
+  "visual_keywords": [
+    "game footage",
+    "epic trailer cuts",
+    "sound design sync",
+    "reveal moments",
+    "cinematic game scenes"
+  ],
+  "mood_words": [
+    "epic",
+    "action",
+    "suspenseful",
+    "cinematic"
+  ],
+  "target_personas": [
+    "game developers",
+    "indie game studios",
+    "gaming content creators",
+    "game soundtrack composers"
+  ],
+  "color_accent": "#2C3E50",
+  "color_secondary": "#3498DB",
+  "has_custom_asset": false,
+  "demo_prompt": "Epic game trailer music video with cinematic gameplay footage, dramatic reveal moments, score-sync cuts, AAA game quality"
+}

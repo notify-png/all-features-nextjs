@@ -1,0 +1,43 @@
+{
+  "h1": "Verwandle deine Musik in cineastische Horror-Musikvideos mit KI",
+  "direct_answer": "Ein KI-Horror-Musikvideo-Generator ist ein Tool, das automatisch professionelle Horror-Musikvideos aus deinem Audio oder Text-Prompts erstellt. Tunees Plattform nutzt fortschrittliches Machine Learning, um verstörende Visuals mit Text-to-Video-Prompts und Aufnahmen verlassener Gebäude zu produzieren, die auf die Energie und den Stil deines Tracks abgestimmt sind. Mit Tunee kannst du von der Idee zu einem fertigen Horror-Musikvideo in Minuten gelangen – ohne Videobearbeitungserfahrung.",
+  "meta_description": "Erstelle professionelle Horror-Musikvideos mit Tunees KI-Horror-Musikvideo-Generator. Verstörende Visuals, schneller Export, keine Erfahrung erforderlich.",
+  "prompts": [
+    "Eine verstörende Szene mit verlassenem Gebäude und schwenkenden Kamerabewegungen, getränkt in dramatischer Beleuchtung, die im Rhythmus pulsiert",
+    "Künstler umgeben von flackerndem Licht, verstörendes Energiegefühl strahlt aus jedem Frame und Schnitt des Videos",
+    "Abstrakte dunkle Silhouetten morphen und fließen in Zeitlupe, fangen die verstörende Essenz der Musik perfekt ein",
+    "Großaufnahmen verlassener Gebäude lösen sich in Blutspritzern auf und schaffen eine verstörende visuelle Reise, die dem Rhythmus des Songs folgt",
+    "Weite Etablierungsaufnahme einer dunklen Umgebung mit flackerndem Licht im Vordergrund, das tiefe emotionale Resonanz evoziiert",
+    "Dynamische Schnitte zwischen dunklen Silhouetten und Jump-Scare-Beleuchtung, bauen Spannung mit verstörender Farbgebung und scharfen Motion Graphics auf",
+    "Eine verstörende Montage von Blutspritzern und verlassenem Gebäude, geschichtet mit glatten Übergängen und visuellen Beats, die den Drop begleiten",
+    "Finale Sequenz mit Jump-Scare-Beleuchtung und flackerndem Licht, die in einer verstörenden Explosion aus Licht, Farbe und Bewegung konvergieren"
+  ],
+  "personas": {
+    "musicians": "Horror-Musikschaffende brauchen Horror-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihr Fanpublikum zu vergrößern und auf Streaming-Plattformen hervorzustechen.",
+    "creators": "Dark-Ambient-Künstler nutzen Horror-Musikvideo-Ästhetik, um eine markante visuelle Marke aufzubauen, die Engagement fördert und Kooperationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle Horror-Musikvideooproduktion, um neue Veröffentlichungen kostengünstig über alle digitalen Kanäle zu bewerben.",
+    "brands": "Marken und Werbetreibende nutzen Horror-Musikvideo-Ästhetik, um verstörendes Kampagnenmaterial zu schaffen, das emotional mit ihrer Zielgruppe resoniert."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein Horror-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja – Tunees KI übernimmt die gesamte Videoproduktion automatisch. Lade einfach dein Audio hoch oder gib einen Text-Prompt ein, wähle einen Horror-Stil, und die KI generiert dein Video in wenigen Minuten."
+    },
+    {
+      "q": "Funktioniert es mit allen Musikgenres oder nur mit Horror?",
+      "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen jenseits von Horror. Du kannst Musikvideos für Pop, Hip-Hop, klassische Musik und Dutzende andere Stile mit derselben Plattform generieren."
+    },
+    {
+      "q": "Wie füge ich Lyrics oder Untertitel zu meinem Horror-Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitel-Overlays. Gib einfach deine Lyrics ein und wähle einen Textstil, und die KI synchronisiert sie automatisch zu deinem Horror-Musikvideo."
+    },
+    {
+      "q": "Funktioniert Tunees Horror-Musikvideo-Generator auf mobilen Geräten?",
+      "a": "Tunee ist über Webbrowser vollständig auf Desktop und Mobilgeräten zugänglich, sodass du Horror-Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
+    },
+    {
+      "q": "Unterstützt es den Export von Horror-Musikvideos in 4K-Auflösung?",
+      "a": "Absolut. Tunee exportiert Horror-Musikvideos in bis zu 4K-Auflösung und macht sie bereit für YouTube, Streaming-Plattformen und großformatige Displays."
+    }
+  ]
+}

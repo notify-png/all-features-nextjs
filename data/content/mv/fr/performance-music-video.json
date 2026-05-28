@@ -1,0 +1,43 @@
+{
+  "h1": "Donnez vie au son de votre performance avec la création de clips musicaux IA",
+  "direct_answer": "Un clip musical de performance IA est un outil qui crée automatiquement des clips musicaux de style performance professionnels à partir de vos fichiers audio ou de texte. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels en direct mettant en scène la génération de performance sur scène en temps réel et l'export en un clic, adaptés à l'énergie et au style de votre piste. Avec Tunee, vous pouvez passer de l'idée à un clip musical de performance terminé en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le clip musical de performance IA de Tunee pour créer des visuels de performance en direct instantanément. Aucune compétence en montage requise — exportez en 4K pour YouTube, TikTok et plus.",
+  "prompts": [
+    "Une scène en direct avec performance sur scène et mouvements de caméra panoramiques, baignée dans un éclairage dramatique qui pulse avec le rythme",
+    "Artiste immergé dans un groupe en direct, l'énergie rayonnant à travers chaque image et coupure de la vidéo",
+    "L'éclairage de concert abstrait se transformant et s'écoulant au ralenti, capturant parfaitement l'essence vivante de la musique",
+    "Plans rapprochés de la performance sur scène se dissolvant en plans rapprochés de musiciens, créant un voyage visuel énergique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement authentique avec groupe en direct au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre l'éclairage de concert et les réactions du public, construisant la tension avec l'étalonnage des couleurs en direct et des effets graphiques nets",
+    "Un montage énergique de plans rapprochés de musiciens et de performances sur scène, stratifiés avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale mettant en scène la réaction du public et le groupe en direct convergeant dans une explosion vivante de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les groupes ont besoin de clips musicaux de performance pour définir visuellement leur identité artistique, développer leur fanbase et se démarquer sur les plateformes de streaming.",
+    "creators": "Les artistes en direct utilisent l'esthétique des clips musicaux de performance pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur la production rapide et professionnelle de clips musicaux de performance pour promouvoir les nouvelles sorties de façon rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des clips musicaux de performance pour créer du contenu de campagne en direct qui résonne émotionnellement avec leur public cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer un clip musical de performance sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère automatiquement toute la production vidéo. Téléchargez simplement votre audio ou entrez un texte, choisissez un style de performance, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'export des clips musicaux de performance en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les clips musicaux de performance jusqu'à la résolution 4K, les rendant prêts pour YouTube, les plateformes de streaming et les écrans grand format."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de clips musicaux de performance de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales incluant les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement la performance ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà de la performance. Vous pouvez générer des clips musicaux pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Le générateur de clips musicaux de performance de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur ordinateur et mobile, vous pouvez donc créer des clips musicaux de performance à partir de n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

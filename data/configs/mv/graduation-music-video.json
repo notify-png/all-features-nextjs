@@ -1,0 +1,31 @@
+{
+  "slug": "graduation-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Graduation",
+  "genre_name_zh": "毕业",
+  "keyword_en": "AI graduation music video generator",
+  "visual_keywords": [
+    "cap and gown",
+    "diploma moment",
+    "campus memories",
+    "class photo",
+    "achievement celebration"
+  ],
+  "mood_words": [
+    "proud",
+    "nostalgic",
+    "hopeful",
+    "celebratory"
+  ],
+  "target_personas": [
+    "graduates",
+    "proud parents",
+    "school music directors",
+    "university event planners"
+  ],
+  "color_accent": "#1F5C8B",
+  "color_secondary": "#FFD700",
+  "has_custom_asset": false,
+  "demo_prompt": "Graduation ceremony highlights, cap toss in the air, diploma moment, campus memories montage, emotional family hugs"
+}

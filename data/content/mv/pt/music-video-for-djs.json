@@ -1,0 +1,43 @@
+{
+  "h1": "Crie Vídeos de Música para DJs Lindos sem Esforço com Tunee AI",
+  "direct_answer": "Um vídeo de música AI para DJs é uma ferramenta que cria automaticamente vídeos de música profissionais no estilo de DJs a partir do seu áudio ou prompts de texto. A plataforma Tunee usa aprendizado de máquina avançado para produzir visuais energéticos com geração em tempo real de close-ups de equipamento de DJ e exportação com um clique, personalizados para a energia e estilo da sua faixa. Com Tunee, você pode ir de uma ideia a um vídeo de música para DJs finalizado em minutos, sem necessidade de experiência em edição de vídeo.",
+  "meta_description": "O gerador de vídeos de música AI para DJs mais fácil para artistas. Tunee gera visuais energéticos para DJs a partir do seu áudio — experimente grátis hoje.",
+  "prompts": [
+    "Uma cena energética com close-up de equipamento de DJ e movimentos de câmera amplos, banhada em iluminação dramática que pulsa com a batida",
+    "Plano vertical de close-up imerso na reação da multidão, energia pronta para clube irradiando através de cada quadro e corte do vídeo",
+    "Desempenho abstrato em set transformando-se e fluindo em câmera lenta, capturando perfeitamente a essência energética da música",
+    "Planos de close-up de equipamento de DJ dissolvendo-se em palco de festival, criando uma jornada visual pronta para clube que segue o ritmo da música",
+    "Plano de estabelecimento amplo de um ambiente profissional com reação da multidão em primeiro plano, evocando uma ressonância emocional profunda",
+    "Cortes dinâmicos entre desempenho em set e visuais de mixing, construindo tensão com gradação de cores energética e motion graphics afiados",
+    "Uma montagem pronta para clube de palco de festival e close-up de equipamento de DJ, em camadas com transições suaves e beats visuais combinando o drop",
+    "Sequência final apresentando visuais de mixing e reação da multidão convergindo em uma explosão energética de luz, cor e movimento"
+  ],
+  "personas": {
+    "musicians": "Músicos independentes usam DJs para maximizar o alcance na plataforma, garantindo que seu conteúdo atenda aos requisitos de formato e capture atenção instantaneamente.",
+    "creators": "DJs de clube dependem de conteúdo para DJs perfeitamente formatado para aumentar a visibilidade algorítmica e crescer seu público com cada upload.",
+    "labels": "Gravadoras produzem em lote vídeos para DJs otimizados para plataforma para seu elenco completo, reduzindo o tempo de execução de semanas para horas.",
+    "brands": "Marcas executando campanhas pagas e orgânicas nesta plataforma usam Tunee para produzir anúncios de vídeos para DJs que interrompem a rolagem em escala."
+  },
+  "faqs": [
+    {
+      "q": "Ele suporta exportação de vídeos de música para DJs em resolução 4K?",
+      "a": "Absolutamente. Tunee exporta vídeos de música para DJs em até resolução 4K, deixando-os prontos para YouTube, plataformas de streaming e exibições em tela grande."
+    },
+    {
+      "q": "Como faço para personalizar o estilo visual do meu vídeo de música para DJs?",
+      "a": "Você pode guiar os visuais usando prompts de texto que descrevem cenas, humores e cenários. A IA do Tunee interpreta seu input e gera visuais inspirados em close-ups de equipamento de DJ que combinam com sua estética para DJs."
+    },
+    {
+      "q": "Posso usar o gerador de vídeos de música para DJs do Tunee para projetos comerciais?",
+      "a": "Sim. Vídeos criados com Tunee podem ser usados para fins comerciais, incluindo lançamentos em streaming, campanhas de marca e conteúdo de mídia social."
+    },
+    {
+      "q": "Posso gerar múltiplas versões de um vídeo de música para DJs para comparar?",
+      "a": "Sim. Você pode gerar várias variações do seu vídeo de música para DJs usando diferentes prompts ou configurações de estilo, e então selecionar a versão que melhor se encaixa em sua visão."
+    },
+    {
+      "q": "O gerador de vídeos de música para DJs do Tunee funciona em dispositivos móveis?",
+      "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar vídeos de música para DJs de qualquer dispositivo sem instalar software."
+    }
+  ]
+}

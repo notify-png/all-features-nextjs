@@ -1,0 +1,31 @@
+{
+  "slug": "lyrics-to-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Workflow",
+  "genre_name": "Lyrics to MV",
+  "genre_name_zh": "歌词转MV",
+  "keyword_en": "Lyrics to music video AI",
+  "visual_keywords": [
+    "lyric text input",
+    "scene interpretation",
+    "word-to-visual",
+    "lyric video overlay",
+    "story visualization"
+  ],
+  "mood_words": [
+    "narrative",
+    "text-driven",
+    "creative",
+    "interpretive"
+  ],
+  "target_personas": [
+    "songwriters",
+    "lyric-first creators",
+    "spoken word artists",
+    "concept-driven musicians"
+  ],
+  "color_accent": "#2980B9",
+  "color_secondary": "#3498DB",
+  "has_custom_asset": false,
+  "demo_prompt": "Paste song lyrics, AI interprets each line into matching visual scenes, automatic lyric overlay text, narrative music video"
+}

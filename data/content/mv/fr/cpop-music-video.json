@@ -1,0 +1,43 @@
+{
+  "h1": "Produisez des vidéoclips C-pop de haute qualité avec la technologie IA",
+  "direct_answer": "Un générateur de vidéoclips C-pop IA est un outil qui crée automatiquement des vidéoclips professionnels de style C-pop à partir de vos fichiers audio ou invites textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels élégants avec génération d'éléments traditionnels chinois en temps réel et export en un clic, adapté à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéoclip C-pop finie en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Le générateur de vidéoclips C-pop IA de Tunee transforme votre musique en superbes vidéos C-pop en quelques minutes. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène élégante avec des éléments traditionnels chinois et des mouvements de caméra fluides, baignée d'un éclairage dramatique qui pulse au rythme de la musique",
+    "Artiste immergé dans un paysage urbain moderne, une énergie dynamique rayonnant à travers chaque plan et montage de la vidéo",
+    "Hanfu abstrait et fluide se transformant au ralenti, capturant l'essence élégante de la musique parfaitement",
+    "Plans rapprochés d'éléments traditionnels chinois se dissolvant dans un motif de dragon, créant un parcours visuel dynamique qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement culturellement riche avec paysage urbain moderne au premier plan, évoquant une résonance émotionnelle profonde",
+    "Montage dynamique entre hanfu fluide et Shanghai néon, construisant la tension avec un étalonnage des couleurs élégant et des graphiques de mouvement nets",
+    "Un montage dynamique de motif de dragon et d'éléments traditionnels chinois, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant Shanghai néon et paysage urbain moderne convergeant dans une explosion élégante de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes de Mandopop ont besoin de vidéoclips C-pop pour définir visuellement leur identité artistique, développer leur base de fans et se démarquer sur les plateformes de streaming.",
+    "creators": "Les musiciens indépendants chinois utilisent l'esthétique des vidéoclips C-pop pour construire une identité visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques s'appuient sur une production rapide et professionnelle de vidéoclips C-pop pour promouvoir les nouvelles sorties de manière rentable sur tous les canaux numériques.",
+    "brands": "Les marques et annonceurs utilisent l'esthétique des vidéoclips C-pop pour créer du contenu de campagne élégant qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéoclip C-pop sans expérience en montage vidéo ?",
+      "a": "Oui — L'IA de Tunee gère toute la production vidéo automatiquement. Il vous suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style C-pop, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'export de vidéoclips C-pop en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéoclips C-pop jusqu'à 4K, les rendant prêts pour YouTube, les plateformes de streaming et les écrans grands formats."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéoclip C-pop ?",
+      "a": "Vous pouvez guider les visuels à l'aide d'invites textes décrivant les scènes, les ambiances et les paramètres. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par les éléments traditionnels chinois qui correspondent à votre esthétique C-pop."
+    },
+    {
+      "q": "Fonctionne-t-il avec tous les genres de musique ou seulement avec le C-pop ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà du C-pop. Vous pouvez générer des vidéoclips pour le pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéoclip C-pop à comparer ?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip C-pop en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui convient le mieux à votre vision."
+    }
+  ]
+}

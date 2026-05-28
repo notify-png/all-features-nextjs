@@ -1,0 +1,43 @@
+{
+  "h1": "Produisez des vidéos musicales familiales de haute qualité avec la technologie IA",
+  "direct_answer": "Un générateur de vidéos musicales familiales IA est un outil qui crée automatiquement des vidéos musicales de style familial professionnel à partir de vos fichiers audio ou invites texte. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels chaleureux avec génération de scènes IA mettant en vedette des moments en famille et multi-générations, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer d'une idée à une vidéo musicale familiale finie en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Créez des vidéos musicales familiales professionnelles avec le générateur de vidéos musicales familiales IA de Tunee. Visuels chaleureux, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène chaleureuse avec des moments en famille et des mouvements de caméra panoramiques, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Scène familiale immergée dans une énergie multi-générations pleine d'amour qui rayonne à travers chaque plan et coupe de la vidéo",
+    "La vie à la maison abstraite morphing et coulant au ralenti, capturant parfaitement l'essence chaleureuse de la musique",
+    "Plans rapprochés de moments en famille se dissolvant dans des divertissements en plein air en famille, créant un voyage visuel affectueux qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement nostalgique avec multi-générations au premier plan, évoquant une profonde résonnance émotionnelle",
+    "Coupes dynamiques entre la vie à la maison et la joie familiale spontanée, créant de la tension avec une gradation de couleurs chaleureuses et des graphiques en mouvement nets",
+    "Un montage affectueux de divertissements en plein air en famille et de moments en famille, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale mettant en vedette la joie familiale spontanée et les générations multiples convergeant dans une explosion chaleureuse de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les conservateurs de souvenirs familiaux utilisent les vidéos musicales familiales pour commémorer des moments spéciaux et créer des souvenirs visuels durables mis en musique parfaitement.",
+    "creators": "Les musiciens familiaux produisent du contenu de vidéos musicales familiales pour raconter des histoires émouvantes, développer leur audience et offrir des services vidéo premium aux clients.",
+    "labels": "Les planificateurs d'événements et les vidéographes utilisent l'IA Tunee pour livrer des packages de vidéos familiales polis plus rapidement et à une fraction des coûts de production traditionnels.",
+    "brands": "Les marques et annonceurs créent du contenu sur le thème familial pour se connecter avec les audiences lors de moments saisonniers clés et de jalons émotionnels."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale familiale sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre fichier audio ou entrez une invite texte, choisissez un style familial, et l'IA générera votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'exportation de vidéos musicales familiales en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéos musicales familiales jusqu'à une résolution 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéos musicales familiales Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties en streaming, les campagnes de marque et le contenu des médias sociaux."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale familiale ?",
+      "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale familiale."
+    },
+    {
+      "q": "Le générateur de vidéos musicales familiales Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur bureau et mobile, vous permettant de créer des vidéos musicales familiales depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "horror-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Visual Style",
+  "genre_name": "Horror",
+  "genre_name_zh": "恐怖",
+  "keyword_en": "AI horror music video generator",
+  "visual_keywords": [
+    "abandoned building",
+    "flickering lights",
+    "dark silhouettes",
+    "blood splatter",
+    "jump scare lighting"
+  ],
+  "mood_words": [
+    "terrifying",
+    "unsettling",
+    "dark",
+    "intense"
+  ],
+  "target_personas": [
+    "horror music creators",
+    "dark ambient artists",
+    "Halloween music makers",
+    "metal horror musicians"
+  ],
+  "color_accent": "#8B0000",
+  "color_secondary": "#B22222",
+  "has_custom_asset": false,
+  "demo_prompt": "Abandoned hospital corridor, flickering fluorescent light, dark shadowy figure at the end, dripping water, horror atmosphere"
+}

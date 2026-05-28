@@ -1,0 +1,43 @@
+{
+  "h1": "Transformez Votre Musique en Vidéos Podcasters Cinématographiques avec l'IA",
+  "direct_answer": "Une vidéo musicale IA pour podcasters est un outil qui crée automatiquement des vidéos musicales professionnelles de style podcasters à partir de votre audio ou de vos descriptions textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels professionnels avec rendu de configuration de microphone automatisé et export multi-styles, adaptés à l'énergie et au style de votre titre. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale podcasters finie en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Créez des vidéos musicales Podcasters professionnelles avec Tunee. Visuels professionnels, export rapide, aucune expérience requise.",
+  "prompts": [
+    "Une scène professionnelle avec configuration de microphone et mouvements de caméra balayants, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Plan vertical en gros plan immergé dans l'enregistrement en studio, une énergie de marque rayonnant à travers chaque image et coupe de la vidéo",
+    "Visuel d'intro abstrait se morphant et s'écoulant au ralenti, capturant l'essence professionnelle de la musique parfaitement",
+    "Plans rapprochés de la configuration du microphone se dissolvant en motion branding, créant un voyage visuel de marque qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement intime avec enregistrement en studio en avant-plan, évoquant une résonnance émotionnelle profonde",
+    "Coupes dynamiques entre le visuel d'intro et l'audio-vers-vidéo, créant de la tension avec un étalonnage de couleur professionnel et des graphiques animés nets",
+    "Un montage de marque combinant motion branding et configuration de microphone, superposés avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant l'audio-vers-vidéo et l'enregistrement en studio convergeant dans une explosion professionnelle de lumière, de couleur et de mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent Podcasters pour maximiser leur portée sur la plateforme, en s'assurant que leur contenu respecte les exigences de format et capture l'attention instantanément.",
+    "creators": "Les animateurs de podcasts comptent sur un contenu Podcasters parfaitement formaté pour augmenter la visibilité algorithmique et développer leur audience à chaque mise en ligne.",
+    "labels": "Les maisons de disques produisent en masse des vidéos Podcasters optimisées pour la plateforme pour tout leur catalogue, réduisant le délai de réalisation de semaines à heures.",
+    "brands": "Les marques exécutant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire des annonces vidéo Podcasters qui captent l'attention à grande échelle."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale Podcasters sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez une description textuelle, choisissez un style Podcasters, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéos musicales Podcasters de Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, notamment les sorties de streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Fonctionne-t-il avec tous les genres musicaux, ou seulement Podcasters ?",
+      "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà de Podcasters. Vous pouvez générer des vidéos musicales pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale Podcasters ?",
+      "a": "Tunee propose des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles, choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale Podcasters."
+    },
+    {
+      "q": "Le générateur de vidéos musicales Podcasters de Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur Web sur desktop et mobile, vous permettant de créer des vidéos musicales Podcasters depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

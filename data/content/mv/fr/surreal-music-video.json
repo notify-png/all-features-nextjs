@@ -1,0 +1,43 @@
+{
+  "h1": "Le moyen le plus rapide de créer des vidéoclips de musique surréaliste avec l'IA",
+  "direct_answer": "Un générateur de vidéoclips de musique surréaliste basé sur l'IA est un outil qui crée automatiquement des vidéoclips professionnels de style surréaliste à partir de votre audio ou de vos invites texte. La plateforme de Tunee utilise l'apprentissage automatique avancé pour produire des visuels oniériques avec génération d'architecture impossible en temps réel et export en un clic, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéoclip de musique surréaliste finie en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Utilisez le générateur de vidéoclips de musique surréaliste IA de Tunee pour créer des visuels surréalistes oniériques instantanément. Aucune compétence en montage requise — exportez en 4K pour YouTube, TikTok,...",
+  "prompts": [
+    "Une scène oniérique avec architecture impossible et mouvements de caméra balayants, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Artiste immergé dans une imagerie oniérique, une énergie surnaturelle rayonnant à travers chaque plan et coupe de la vidéo",
+    "Objets abstraits fondants se morphant et s'écoulant au ralenti, capturant parfaitement l'essence oniérique de la musique",
+    "Plans rapprochés d'architecture impossible se dissolvant en inspiration Dalí, créant un voyage visuel surnaturel qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement inquiétant avec imagerie oniérique au premier plan, évoquant une profonde résonance émotionnelle",
+    "Coupes dynamiques entre objets fondants et figures flottantes, construisant la tension avec gradation de couleur oniérique et graphiques animés acérés",
+    "Un montage surnaturel d'inspirations Dalí et architecture impossible, superposé avec des transitions fluides et des rythmes visuels correspondant au drop",
+    "Séquence finale mettant en scène des figures flottantes et une imagerie oniérique convergeant dans une explosion oniérique de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les artistes art-pop ont besoin de vidéoclips surréalistes pour définir visuellement leur identité artistique, développer leur fanbase et se démarquer sur les plateformes de streaming.",
+    "creators": "Les musiciens expérimentaux utilisent l'esthétique des vidéoclips surréalistes pour construire une marque visuelle distinctive qui stimule l'engagement et attire les opportunités de collaboration.",
+    "labels": "Les maisons de disques dépendent d'une production rapide et professionnelle de vidéoclips surréalistes pour promouvoir les nouvelles sorties de façon rentable sur tous les canaux numériques.",
+    "brands": "Les marques et les annonceurs utilisent l'esthétique des vidéoclips surréalistes pour créer du contenu de campagne oniérique qui résonne émotionnellement avec leur audience cible."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéoclip de musique surréaliste sans aucune expérience en montage vidéo?",
+      "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Il suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style surréaliste, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéoclip de musique surréaliste?",
+      "a": "Vous pouvez guider les visuels en utilisant des invites texte décrivant des scènes, des ambiances et des décors. L'IA de Tunee interprète votre saisie et génère des visuels inspirés par l'architecture impossible qui correspondent à votre esthétique surréaliste."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéoclips de musique surréaliste de Tunee pour des projets commerciaux?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties en streaming, les campagnes de marque et le contenu des réseaux sociaux."
+    },
+    {
+      "q": "Comment ajouter des paroles ou des sous-titres à ma vidéoclip de musique surréaliste?",
+      "a": "Tunee offre des options intégrées d'incrustation de paroles et de sous-titres. Il suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéoclip de musique surréaliste."
+    },
+    {
+      "q": "Puis-je générer plusieurs versions d'une vidéoclip de musique surréaliste pour les comparer?",
+      "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip de musique surréaliste en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
+    }
+  ]
+}

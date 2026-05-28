@@ -1,0 +1,43 @@
+{
+  "h1": "Transformez Votre Musique en Vidéos de Culte Cinématiques Grâce à l'IA",
+  "direct_answer": "Une vidéo musicale de culte générée par IA est un outil qui crée automatiquement des vidéos musicales de culte professionnelles à partir de votre audio ou vos indications textuelles. La plateforme Tunee utilise l'apprentissage automatique avancé pour produire des visuels spirituels avec génération de scènes IA, décors d'église et adoration en congrégation, adaptés à l'énergie et au style de votre morceau. Avec Tunee, vous pouvez passer de l'idée à une vidéo musicale de culte terminée en quelques minutes, sans expérience en montage vidéo requise.",
+  "meta_description": "Tunee transforme votre musique en magnifiques vidéos de Culte en quelques minutes grâce à l'IA. Essayez gratuitement et exportez sur n'importe quelle plateforme.",
+  "prompts": [
+    "Une scène spirituelle avec décor d'église et mouvements de caméra amples, baignée dans un éclairage dramatique qui pulse au rythme",
+    "Plan rapproché vertical immergé dans l'adoration en congrégation, une énergie inspirante rayonnant à travers chaque plan et coupe de la vidéo",
+    "Imagerie abstraite de croix se morphant et s'écoulant en ralenti, capturant parfaitement l'essence spirituelle de la musique",
+    "Plans rapprochés du décor d'église se dissolvant dans la lumière céleste, créant un voyage visuel inspirant qui suit le rythme de la chanson",
+    "Plan d'établissement large d'un environnement révérencieux avec adoration en congrégation au premier plan, évoquant une résonance émotionnelle profonde",
+    "Coupes dynamiques entre imagerie de croix et atmosphère spirituelle, construisant la tension avec étalonnage des couleurs spirituelles et des graphiques en mouvement acérés",
+    "Un montage inspirant de lumière céleste et décor d'église, superposé avec des transitions fluides et des beats visuels correspondant au drop",
+    "Séquence finale présentant l'atmosphère spirituelle et l'adoration en congrégation convergeant en une explosion spirituelle de lumière, couleur et mouvement"
+  ],
+  "personas": {
+    "musicians": "Les musiciens indépendants utilisent Culte pour maximiser leur portée sur la plateforme, en s'assurant que leur contenu répond aux exigences de format et capte l'attention instantanément.",
+    "creators": "Les leaders de culte s'appuient sur un contenu Culte parfaitement formaté pour augmenter la visibilité algorithmique et développer leur audience à chaque téléchargement.",
+    "labels": "Les maisons de disques produisent en lot des vidéos Culte optimisées pour la plateforme pour l'ensemble de leur catalogue, réduisant le délai d'exécution de semaines à heures.",
+    "brands": "Les marques gérant des campagnes payantes et organiques sur cette plateforme utilisent Tunee pour produire des vidéos publicitaires Culte qui arrêtent le scroll à grande échelle."
+  },
+  "faqs": [
+    {
+      "q": "Puis-je créer une vidéo musicale de Culte sans aucune expérience en montage vidéo ?",
+      "a": "Oui — l'IA Tunee gère automatiquement toute la production vidéo. Il suffit de télécharger votre audio ou d'entrer une indication texte, de choisir un style Culte, et l'IA génère votre vidéo en quelques minutes."
+    },
+    {
+      "q": "Supporte-t-il l'exportation de vidéos musicales de Culte en résolution 4K ?",
+      "a": "Absolument. Tunee exporte les vidéos musicales de Culte en résolution jusqu'à 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
+    },
+    {
+      "q": "Comment personnaliser le style visuel de ma vidéo musicale de Culte ?",
+      "a": "Vous pouvez guider les visuels en utilisant des indications textes qui décrivent des scènes, des ambiances et des décors. L'IA Tunee interprète votre entrée et génère des visuels inspirés par le décor d'église qui correspondent à votre esthétique Culte."
+    },
+    {
+      "q": "Puis-je utiliser le générateur de vidéos musicales de Culte Tunee pour des projets commerciaux ?",
+      "a": "Oui. Les vidéos créées avec Tunee peuvent être utilisées à des fins commerciales, y compris les sorties en streaming, les campagnes de marque et le contenu sur les réseaux sociaux."
+    },
+    {
+      "q": "Le générateur de vidéos musicales de Culte Tunee fonctionne-t-il sur les appareils mobiles ?",
+      "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous permettant de créer des vidéos musicales de Culte depuis n'importe quel appareil sans installer de logiciel."
+    }
+  ]
+}

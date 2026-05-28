@@ -1,0 +1,31 @@
+{
+  "slug": "couple-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Occasion / Viral",
+  "genre_name": "Couple",
+  "genre_name_zh": "情侣",
+  "keyword_en": "AI couple music video generator",
+  "visual_keywords": [
+    "couple portraits",
+    "golden hour together",
+    "relationship milestones",
+    "intimate moments",
+    "love story"
+  ],
+  "mood_words": [
+    "romantic",
+    "intimate",
+    "storytelling",
+    "emotional"
+  ],
+  "target_personas": [
+    "couples",
+    "anniversary gift givers",
+    "wedding proposal creators",
+    "romantic music artists"
+  ],
+  "color_accent": "#E91E63",
+  "color_secondary": "#F48FB1",
+  "has_custom_asset": false,
+  "demo_prompt": "Couple love story music video, golden hour portraits, anniversary milestones, intimate candid moments, romantic narrative arc"
+}

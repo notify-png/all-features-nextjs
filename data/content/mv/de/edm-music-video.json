@@ -1,0 +1,43 @@
+{
+  "h1": "Verwandle deine Musik in cinematische EDM-Videos mit KI",
+  "direct_answer": "Ein KI-EDM-Musikvideo-Generator ist ein Tool, das automatisch professionelle EDM-stilisierte Musikvideos aus deinen Audio- oder Text-Eingaben erstellt. Tunees Plattform nutzt fortschrittliches Machine Learning, um euphorische Visuals mit Text-to-Video-Prompts und Rave-Crowd-Visuals zu erzeugen, die auf die Energie und den Stil deines Tracks abgestimmt sind. Mit Tunee wandelst du deine Idee in wenigen Minuten in ein fertiges EDM-Musikvideo um – ohne Videobearbeitungserfahrung.",
+  "meta_description": "Nutze Tunees KI-EDM-Musikvideo-Generator, um euphorische EDM-Visuals sofort zu erstellen. Keine Bearbeitungsfähigkeiten nötig – exportiere in 4K für YouTube, TikTok und mehr.",
+  "prompts": [
+    "Eine euphorische Szene mit Rave-Crowd und schwungvollen Kamerabewegungen, getaucht in dramatisches Licht, das mit dem Beat pulsiert",
+    "Künstler immersed in Laser-Gitter, hochenergetische Energie, die aus jedem Frame und Schnitt des Videos strahlt",
+    "Abstraktes DJ-Booth, das sich in Zeitlupe morpht und fließt, die euphorische Essenz der Musik perfekt einfangend",
+    "Nahaufnahmen der Rave-Crowd, die sich in Bass-Drop-Visuals auflösen, eine hochenergetische visuelle Reise, die dem Rhythmus des Songs folgt",
+    "Weitwinkel-Establishing-Shot einer pulsierenden Umgebung mit Laser-Gitter im Vordergrund, das tiefe emotionale Resonanz hervorruft",
+    "Dynamische Schnitte zwischen DJ-Booth und Festival-Stage, Spannung aufbauend mit euphorischer Farbgraduation und scharfen Motion Graphics",
+    "Ein hochenergetisches Montage aus Bass-Drop-Visuals und Rave-Crowd, geschichtet mit sanften Übergängen und visuellen Beats, die dem Drop entsprechen",
+    "Abschlusssequenz mit Festival-Stage und Laser-Gitter, die in einer euphorischen Explosion aus Licht, Farbe und Bewegung zusammenlaufen"
+  ],
+  "personas": {
+    "musicians": "EDM-Produzenten benötigen EDM-Musikvideos, um ihre künstlerische Identität visuell zu definieren, ihre Fanbase zu vergrößern und auf Streaming-Plattformen hervorzustechen.",
+    "creators": "Festival-DJs nutzen EDM-Musikvideo-Ästhetik, um eine charakteristische visuelle Marke aufzubauen, die Engagement antreibt und Kooperationsmöglichkeiten anzieht.",
+    "labels": "Plattenlabels verlassen sich auf schnelle, professionelle EDM-Musikvideoproduktion, um neue Veröffentlichungen kostengünstig über alle digitalen Kanäle zu promoten.",
+    "brands": "Marken und Werbetreibende nutzen EDM-Musikvideo-Ästhetik, um euphorische Kampagneninhalte zu erstellen, die emotional bei ihrem Zielpublikum ankommen."
+  },
+  "faqs": [
+    {
+      "q": "Kann ich ein EDM-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
+      "a": "Ja – Tunees KI übernimmt die gesamte Videoproduktion automatisch. Lade einfach dein Audio hoch oder gebe einen Text-Prompt ein, wähle einen EDM-Stil, und die KI generiert dein Video in wenigen Minuten."
+    },
+    {
+      "q": "Wie passe ich den visuellen Stil meines EDM-Musikvideos an?",
+      "a": "Du kannst die Visuals mit Text-Prompts steuern, die Szenen, Stimmungen und Einstellungen beschreiben. Tunees KI interpretiert deine Eingabe und generiert Rave-Crowd-inspirierte Visuals, die deiner EDM-Ästhetik entsprechen."
+    },
+    {
+      "q": "Wie füge ich Lyrics oder Untertitel zu meinem EDM-Musikvideo hinzu?",
+      "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitel-Overlays. Gebe einfach deine Lyrics ein und wähle einen Textstil – die KI synchronisiert sie automatisch mit deinem EDM-Musikvideo."
+    },
+    {
+      "q": "Kann ich mehrere Versionen eines EDM-Musikvideos generieren und vergleichen?",
+      "a": "Ja. Du kannst mehrere Variationen deines EDM-Musikvideos mit unterschiedlichen Prompts oder Stileinstellungen generieren und dann die Version wählen, die deiner Vision am besten entspricht."
+    },
+    {
+      "q": "Funktioniert Tunees EDM-Musikvideo-Generator auf mobilen Geräten?",
+      "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du EDM-Musikvideos von jedem Gerät aus erstellen kannst – ohne Software zu installieren."
+    }
+  ]
+}

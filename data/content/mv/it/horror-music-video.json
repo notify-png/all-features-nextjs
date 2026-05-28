@@ -1,0 +1,43 @@
+{
+  "h1": "Trasforma la Tua Musica in Video Musicali Horror Cinematografici Usando l'AI",
+  "direct_answer": "Un generatore di video musicali horror basato su AI è uno strumento che crea automaticamente video musicali professionali in stile horror dal tuo audio o dai prompt di testo. La piattaforma Tunee utilizza machine learning avanzato per produrre visivi terrificanti con prompt da testo a video e visive di edifici abbandonati, personalizzati in base all'energia e allo stile della tua traccia. Con Tunee, puoi passare dall'idea a un video musicale horror finito in pochi minuti, senza alcuna esperienza di montaggio video.",
+  "meta_description": "Crea video musicali Horror professionali con il generatore di video musicali horror di Tunee. Visivi terrificanti, esportazione veloce, nessuna esperienza richiesta.",
+  "prompts": [
+    "Una scena terrificante con edificio abbandonato e movimenti di camera dinamici, immersa in un'illuminazione drammatica che pulsa a ritmo della beat",
+    "Artista immerso in luci tremolanti, energia inquietante che irradia attraverso ogni fotogramma e taglio del video",
+    "Sagome scure astratte che si trasformano e fluiscono in slow motion, catturando perfettamente l'essenza terrificante della musica",
+    "Primi piani di edificio abbandonato che si dissolvono in schizzi di sangue, creando un percorso visivo inquietante che segue il ritmo della canzone",
+    "Ripresa di apertura ampia di un ambiente scuro con luci tremolanti in primo piano, evocando una profonda risonanza emotiva",
+    "Tagli dinamici tra sagome scure e illuminazione jump scare, costruendo tensione con color grading terrificante e grafiche in movimento netto",
+    "Un montaggio inquietante di schizzi di sangue e edificio abbandonato, stratificato con transizioni morbide e beat visivi che corrispondono al drop",
+    "Sequenza finale con illuminazione jump scare e luci tremolanti che convergono in un'esplosione terrificante di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I creatori di musica Horror hanno bisogno di video musicali Horror per definire visivamente la loro identità artistica, far crescere il loro fanbase e distinguersi sulle piattaforme di streaming.",
+    "creators": "Gli artisti di dark ambient utilizzano l'estetica dei video musicali Horror per costruire un brand visivo distintivo che guida l'engagement e attira opportunità di collaborazione.",
+    "labels": "Le etichette discografiche si affidano alla produzione rapida e professionale di video musicali Horror per promuovere nuove uscite in modo economico su tutti i canali digitali.",
+    "brands": "I brand e gli inserzionisti utilizzano l'estetica dei video musicali Horror per creare contenuti di campagne terrificanti che risuonano emotivamente con il loro pubblico target."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale Horror senza alcuna esperienza di montaggio video?",
+      "a": "Sì — Tunee gestisce automaticamente tutta la produzione video. Basta caricare il tuo audio o inserire un prompt di testo, scegliere uno stile Horror, e l'AI genererà il tuo video in pochi minuti."
+    },
+    {
+      "q": "Funziona con qualsiasi genere musicale, o solo con Horror?",
+      "a": "Tunee supporta una vasta gamma di generi e stili visivi oltre a Horror. Puoi generare video musicali per pop, hip-hop, musica classica e dozzine di altri stili utilizzando la stessa piattaforma."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale Horror?",
+      "a": "Tunee offre opzioni integrate di overlay per testi e sottotitoli. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale Horror."
+    },
+    {
+      "q": "Il generatore di video musicali Horror di Tunee funziona su dispositivi mobili?",
+      "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali Horror da qualsiasi dispositivo senza installare software."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali Horror in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali Horror fino a risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e display a grande schermo."
+    }
+  ]
+}

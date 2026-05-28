@@ -1,0 +1,43 @@
+{
+  "h1": "Trasforma la Tua Musica in Video Musicali Cinematografici Usando l'AI",
+  "direct_answer": "Un video musicale AI per musicisti è uno strumento che crea automaticamente video musicali di stile professionale da prompt audio o testuali. La piattaforma Tunee utilizza machine learning avanzato per produrre visual professionali con rendering automatico delle performance artistiche ed esportazione multi-stile, personalizzata in base all'energia e allo stile del tuo brano. Con Tunee, puoi passare dall'idea a un video musicale professionista finito in pochi minuti, senza necessità di esperienza di video editing.",
+  "meta_description": "Usa Tunee AI music video per musicisti per creare video visual professionali istantaneamente. Nessuna competenza di editing richiesta — esporta in 4K per YouTube, TikTok...",
+  "prompts": [
+    "Una scena professionale con performance artistica e movimenti di camera ampi, immersa in un'illuminazione drammatica che pulsa con il beat",
+    "Inquadratura in primo piano verticale immersa nella configurazione dello studio, energia brandizzata che irradia da ogni frame e taglio del video",
+    "Promozione musicale astratta che si trasforma e fluisce in slow motion, catturando perfettamente l'essenza professionale della musica",
+    "Inquadrature in primo piano della performance artistica che si dissolvono nel branding artistico, creando un percorso visivo brandizzato che segue il ritmo della canzone",
+    "Inquadratura di apertura ampia di un ambiente autentico con configurazione dello studio in primo piano, evocando una profonda risonanza emotiva",
+    "Tagli dinamici tra promozione musicale e qualità professionale, costruendo tensione con color grading professionale e motion graphics nitidi",
+    "Un montaggio brandizzato di branding artistico e performance artistica, stratificato con transizioni fluide e beat visivi che corrispondono al drop",
+    "Sequenza finale che presenta qualità professionale e configurazione dello studio converging in un'esplosione professionale di luce, colore e movimento"
+  ],
+  "personas": {
+    "musicians": "I musicisti indipendenti usano Musicians per massimizzare la portata sulla piattaforma, garantendo che i loro contenuti rispettino i requisiti di formato e catturino l'attenzione istantaneamente.",
+    "creators": "I musicisti solisti si affidano a contenuti Musicians perfettamente formattati per aumentare la visibilità algoritmica e far crescere il loro seguito con ogni caricamento.",
+    "labels": "Le case discografiche producono in batch video Musicians ottimizzati per la piattaforma per l'intero roster, riducendo i tempi di consegna da settimane a ore.",
+    "brands": "I brand che gestiscono campagne a pagamento e organiche su questa piattaforma usano Tunee per produrre annunci video Musicians che catturano l'attenzione a grande scala."
+  },
+  "faqs": [
+    {
+      "q": "Posso creare un video musicale Musicians senza alcuna esperienza di video editing?",
+      "a": "Sì — l'AI di Tunee gestisce automaticamente tutta la produzione video. Carica il tuo audio o inserisci un prompt testuale, scegli uno stile Musicians, e l'AI genera il tuo video in pochi minuti."
+    },
+    {
+      "q": "Supporta l'esportazione di video musicali Musicians in risoluzione 4K?",
+      "a": "Assolutamente. Tunee esporta video musicali Musicians fino a risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e display a grande schermo."
+    },
+    {
+      "q": "Come personalizzazione lo stile visivo del mio video musicale Musicians?",
+      "a": "Puoi guidare i visual usando prompt testuali che descrivono scene, mood e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visual ispirati alla performance artistica che corrispondono alla tua estetica Musicians."
+    },
+    {
+      "q": "Posso usare il generatore di video musicali Musicians di Tunee per progetti commerciali?",
+      "a": "Sì. I video creati con Tunee possono essere usati per scopi commerciali inclusi rilasci in streaming, campagne brand e contenuti per social media."
+    },
+    {
+      "q": "Come aggiungo testi o sottotitoli al mio video musicale Musicians?",
+      "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI sincronizzerà automaticamente il tuo video musicale Musicians."
+    }
+  ]
+}

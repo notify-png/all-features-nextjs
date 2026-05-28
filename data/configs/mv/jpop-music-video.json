@@ -1,0 +1,31 @@
+{
+  "slug": "jpop-music-video",
+  "parent": "/features/music-video-generator",
+  "category": "Genre",
+  "genre_name": "J-pop",
+  "genre_name_zh": "日流",
+  "keyword_en": "AI J-pop music video generator",
+  "visual_keywords": [
+    "Harajuku fashion",
+    "neon Tokyo streets",
+    "school uniform aesthetic",
+    "cherry blossom backdrop",
+    "idol close-ups"
+  ],
+  "mood_words": [
+    "cute",
+    "dreamy",
+    "nostalgic",
+    "energetic"
+  ],
+  "target_personas": [
+    "J-pop artists",
+    "anime music creators",
+    "Vocaloid producers",
+    "Japanese indie musicians"
+  ],
+  "color_accent": "#FF6B9D",
+  "color_secondary": "#FFA0C0",
+  "has_custom_asset": false,
+  "demo_prompt": "J-pop singer in Harajuku outfit on Tokyo rooftop at sunset, cherry blossoms drifting, pastel neon bokeh"
+}
