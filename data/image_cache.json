@@ -2719,38 +2719,6 @@
       "id": 7520351
     }
   ],
-  "music-video-for-kids": [
-    {
-      "hero": "https://images.pexels.com/photos/5393654/pexels-photo-5393654.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5393654/pexels-photo-5393654.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "photographer": "Bruno Bueno",
-      "id": 5393654
-    },
-    {
-      "hero": "https://images.pexels.com/photos/14210326/pexels-photo-14210326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/14210326/pexels-photo-14210326.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "photographer": "Roderick Salatan",
-      "id": 14210326
-    },
-    {
-      "hero": "https://images.pexels.com/photos/15246276/pexels-photo-15246276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/15246276/pexels-photo-15246276.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "photographer": "Marlo Alvin Alamo Vinluan",
-      "id": 15246276
-    },
-    {
-      "hero": "https://images.pexels.com/photos/5790179/pexels-photo-5790179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/5790179/pexels-photo-5790179.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "photographer": "chantika febriani",
-      "id": 5790179
-    },
-    {
-      "hero": "https://images.pexels.com/photos/764681/pexels-photo-764681.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "thumb": "https://images.pexels.com/photos/764681/pexels-photo-764681.jpeg?auto=compress&cs=tinysrgb&h=350",
-      "photographer": "Rebecca Zaal",
-      "id": 764681
-    }
-  ],
   "music-video-for-podcasters": [
     {
       "hero": "https://images.pexels.com/photos/36917956/pexels-photo-36917956.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
