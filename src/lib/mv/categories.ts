@@ -9,6 +9,7 @@
 //   Occasion / Viral    → "moments"    "For every moment"      (14)
 //   For Who             → "craft"      "Built for your craft"  (10)
 import { getAllSlugs, getConfig } from "@/lib/mv/data";
+import { getSlugDisplayName } from "@/lib/mv/slugNames";
 
 export type MvCategoryId = "tools" | "sound" | "look" | "platforms" | "moments" | "craft";
 
@@ -36,7 +37,7 @@ export const MV_CATEGORY_ORDER: MvCategoryId[] = [
 
 export interface MvSlugInfo {
   slug: string;
-  name: string; // genre_name (kept English — per user convention)
+  name: string; // localised display name (falls back to English cfg.genre_name)
   accent: string; // hex color for the dot in front of the chip
 }
 
@@ -45,10 +46,12 @@ export interface MvCategoryData {
   slugs: MvSlugInfo[];
 }
 
-let _cached: MvCategoryData[] | null = null;
+// Per-locale cache so SSG (11 locales × build) reuses work
+const _cache = new Map<string, MvCategoryData[]>();
 
-export function getMvCategories(): MvCategoryData[] {
-  if (_cached) return _cached;
+export function getMvCategories(locale: string = "en"): MvCategoryData[] {
+  const cached = _cache.get(locale);
+  if (cached) return cached;
 
   const slugs = getAllSlugs();
   const grouped: Record<MvCategoryId, MvSlugInfo[]> = {
@@ -61,16 +64,17 @@ export function getMvCategories(): MvCategoryData[] {
     if (!newCat) continue;
     grouped[newCat].push({
       slug,
-      name: cfg.genre_name,
+      name: getSlugDisplayName(slug, locale, cfg.genre_name),
       accent: cfg.color_accent,
     });
   }
 
-  // Alphabetical inside each category for predictable layout / scan-ability
+  // Alphabetical inside each category by the displayed (localised) name
   for (const id of MV_CATEGORY_ORDER) {
-    grouped[id].sort((a, b) => a.name.localeCompare(b.name));
+    grouped[id].sort((a, b) => a.name.localeCompare(b.name, locale));
   }
 
-  _cached = MV_CATEGORY_ORDER.map((id) => ({ id, slugs: grouped[id] }));
-  return _cached;
+  const result = MV_CATEGORY_ORDER.map((id) => ({ id, slugs: grouped[id] }));
+  _cache.set(locale, result);
+  return result;
 }

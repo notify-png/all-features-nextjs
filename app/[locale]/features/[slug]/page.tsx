@@ -192,7 +192,7 @@ const JSON_LD_BY_SLUG: Record<Slug, Record<string, unknown>> = {
 
 const FeatureBySlug = ({ slug, locale }: { slug: Slug; locale: string }) => {
   if (slug === "music-video-generator") {
-    const mvCategories = getMvCategories();
+    const mvCategories = getMvCategories(locale);
     return (
       <>
         <FeatureHeroSection />
