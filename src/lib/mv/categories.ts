@@ -22,13 +22,15 @@ const OLD_TO_NEW: Record<string, MvCategoryId> = {
   "For Who": "craft",
 };
 
-// Display order on the page (top → bottom). Entry-point flow first, niche last.
+// Display order — used by the Quick Jump strip (left→right) so the chip
+// order mirrors the row layout in MvExploreSection (top→down).
+// Row 1: moments + platforms · Row 2: sound · Row 3: look · Row 4: tools + craft
 export const MV_CATEGORY_ORDER: MvCategoryId[] = [
-  "tools",
+  "moments",
+  "platforms",
   "sound",
   "look",
-  "platforms",
-  "moments",
+  "tools",
   "craft",
 ];
 

@@ -20,15 +20,15 @@ const DOT_KEYFRAMES = `
 `;
 
 // Visual rows on desktop:
-//   1) Tools (8) + Platforms (8)              ← small, paired
+//   1) Moments (14) + Platforms (8)            ← small, paired
 //   2) Sound (35)                              ← solo full-width
 //   3) Look (25)                               ← solo full-width
-//   4) Moments (14) + Craft (10)              ← small, paired
+//   4) Tools (8) + Craft (10)                  ← small, paired
 const ROW_GROUPS: MvCategoryId[][] = [
-  ["tools", "platforms"],
+  ["moments", "platforms"],
   ["sound"],
   ["look"],
-  ["moments", "craft"],
+  ["tools", "craft"],
 ];
 
 interface CategoryBlockProps {
@@ -52,9 +52,6 @@ const CategoryBlock = ({ cat, idx, localePrefix, t }: CategoryBlockProps) => {
       <div className="mb-5 max-w-2xl mx-auto">
         <h3 className="text-xl sm:text-2xl font-display font-bold text-foreground mb-2 tracking-tight">
           {t(`${idKey}Label`)}
-          <span className="ml-2 text-sm font-normal text-muted-foreground align-middle">
-            · {cat.slugs.length}
-          </span>
         </h3>
         <p className="text-sm sm:text-[15px] text-muted-foreground leading-relaxed">
           {t(`${idKey}Sub`)}
