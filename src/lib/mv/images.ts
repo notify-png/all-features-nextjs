@@ -1,3 +1,5 @@
+import fs from 'fs'
+import path from 'path'
 import { MvConfig, PexelsPhoto } from '@/lib/mv/data'
 
 const PICSUM_SLUGS = new Set([
@@ -91,6 +93,44 @@ function simpleHash(s: string): number {
   return h
 }
 
+/**
+ * Per-slug custom gallery overrides.
+ *
+ * Drop files at `public/mv-gallery/<slug>/1.{webp,png,jpg,jpeg,gif}` (and 2.*, 3.*)
+ * and they'll be used in the Gallery section in place of Pexels/LoremFlickr.
+ * Indexes that don't have a custom file fall back to the normal flickrUrl pipeline,
+ * so partial overrides work.
+ *
+ * Probed once per build per slug — cheap because it's run at SSG time.
+ */
+const _customCache = new Map<string, Map<number, string | null>>();
+const CUSTOM_EXTS = ['webp', 'png', 'jpg', 'jpeg', 'gif'] as const;
+
+function getCustomGalleryImage(slug: string, idx: number): string | null {
+  let slugMap = _customCache.get(slug);
+  if (!slugMap) {
+    slugMap = new Map();
+    _customCache.set(slug, slugMap);
+  }
+  if (slugMap.has(idx)) return slugMap.get(idx)!;
+
+  const dir = path.join(process.cwd(), 'public', 'mv-gallery', slug);
+  if (!fs.existsSync(dir)) {
+    slugMap.set(idx, null);
+    return null;
+  }
+  for (const ext of CUSTOM_EXTS) {
+    const abs = path.join(dir, `${idx}.${ext}`);
+    if (fs.existsSync(abs)) {
+      const url = `/mv-gallery/${slug}/${idx}.${ext}`;
+      slugMap.set(idx, url);
+      return url;
+    }
+  }
+  slugMap.set(idx, null);
+  return null;
+}
+
 export function flickrUrl(
   cfg: MvConfig,
   w: number,
@@ -98,6 +138,11 @@ export function flickrUrl(
   idx: number = 0,
   imageCache: Record<string, PexelsPhoto[]> = {}
 ): string {
+  // 0) Custom per-slug override (e.g. real Tunee output screenshots)
+  const custom = getCustomGalleryImage(cfg.slug, idx);
+  if (custom) return custom;
+
+
   const slug = cfg.slug
   const vk = cfg.visual_keywords || []
   const seed = simpleHash(slug + String(idx)) % 9999
