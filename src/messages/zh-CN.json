@@ -107,7 +107,6 @@
     "whyCard2Desc": "创造完全属于你的 AI 声音。在流行、摇滚、R&B、古典等任何风格上训练，拥有歌手的专属标志性音色。",
     "whyCard3Title": "瞬时歌曲生成",
     "whyCard3Desc": "从歌词到完整的人声演唱不到 3 分钟。无需预约录音棚即可生成原创歌曲、翻唱或和声。",
-
     "howTitlePrefix": "工作",
     "howTitleAccent": "原理",
     "howSubtitle": "三步轻松创建你的 AI 歌手,开始制作音乐。",
@@ -118,7 +117,6 @@
     "howStep3Title": "生成与发布",
     "howStep3Desc": "无限创作歌曲，下载录音室品质，直接发布到流媒体平台。",
     "howCta": "立即免费试用",
-
     "inputTitlePrefix": "多种",
     "inputTitleAccent": "创作方式",
     "inputSubtitle": "选择最适合你创作流程的输入方式。",
@@ -130,7 +128,6 @@
     "input3Desc": "提供旋律和歌词,你的 AI 歌手将以自然的表现力演唱。",
     "input4Title": "声音克隆",
     "input4Desc": "上传声音样本,创建任何声音的 AI 版本（需具备相应权利）。",
-
     "whoTitle": "谁在使用我们的 AI 歌手",
     "whoSubtitle": "从卧室制作人到大型唱片公司，创作者们信赖 Tunee 提供专业的 AI 人声。",
     "whoTab1": "音乐人",
@@ -146,7 +143,6 @@
     "who4Title": "VTuber & 虚拟主播",
     "who4Desc": "赋予你的虚拟形象歌喉。直播表演、创作原创歌曲，用音乐内容吸引你的观众。",
     "whoCta": "开始创作",
-
     "compareTitlePrefix": "传统 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "看看为何创作者正在切换到 AI 人声生成。",
@@ -162,7 +158,6 @@
     "compareAi3": "任何风格、语言、任何时间",
     "compareAi4": "即时编辑与变体生成",
     "compareAi5": "完全拥有所有输出",
-
     "exportTitlePrefix": "导出为",
     "exportTitleAccent": "任意",
     "exportTitleSuffix": "格式",
@@ -174,7 +169,6 @@
     "exportStemsLabel": "分轨",
     "exportStemsDesc": "用于混音的分离轨道",
     "exportRoyaltyFree": "商业使用免版税",
-
     "faqTitlePrefix": "常见",
     "faqTitleAccent": "问题",
     "faq1Q": "什么是 Tunee AI 歌手？",
@@ -191,12 +185,10 @@
     "faq6A": "Tunee AI 歌手支持 AI 模型可生成的所有语言,包括英语、日语、韩语、中文、西班牙语、法语、德语等 —— 发音自然、口音地道。",
     "faq7Q": "我能用 Tunee 创建自己的 AI 版本吗？",
     "faq7A": "当然！将你的照片和声音样本上传到 Tunee,即可创建拥有你形象与声音的数字孪生 —— 用于 demo、虚拟表演或创意实验,同时保留完整所有权。",
-
     "ctaTitle": "今天就开始创作",
     "ctaBody": "已有 500,000+ 位创作者使用 Tunee 在几分钟内制作专业的音乐和视频。",
     "ctaPrimary": "免费开始",
     "ctaSecondary": "查看价格方案",
-
     "tech1": "语音合成",
     "tech2": "神经网络音频",
     "tech3": "实时生成",
@@ -211,7 +203,6 @@
     "why2Desc": "只需上传你的音乐并描述你的愿景。AI 自动处理同步和视觉效果。",
     "why3Title": "支持商业使用",
     "why3Desc": "所有生成的音乐视频均为免版税。可在任何平台发布、内容变现，并保留完整所有权。",
-
     "howTitlePrefix": "工作",
     "howTitleAccent": "原理",
     "howSubtitle": "三步将你的音频转化为电影级视觉效果。",
@@ -222,7 +213,6 @@
     "howStep3Title": "完美同步",
     "howStep3Desc": "每一个转场、色彩变化和运动效果都精准对齐音乐的节拍。",
     "howCta": "立即免费试用",
-
     "inputTitlePrefix": "多种",
     "inputTitleAccent": "创作方式",
     "inputSubtitle": "选择最适合你工作流程的输入方式。",
@@ -234,7 +224,6 @@
     "input3Desc": "从专辑封面或任意图像开始。AI 将静态视觉与你的音乐完美同步并动画化。",
     "input4Title": "文本引导",
     "input4Desc": "用自然语言描述你想要的视觉风格。AI 解读你的创意方向。",
-
     "whoTitle": "谁在使用我们的音乐视频生成器",
     "whoSubtitle": "从独立艺人到大型唱片公司,创作者们都信赖 Tunee 制作专业视频内容。",
     "whoTab1": "音乐人",
@@ -250,7 +239,6 @@
     "who4Title": "品牌 & 代理商",
     "who4Desc": "为营销活动打造引人入胜的视听内容。完美适合广告、社媒推广和品牌叙事,定制音乐视频契合你的品牌形象。",
     "whoCta": "开始创作",
-
     "compareTitlePrefix": "传统 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "看看为何创作者正在切换到 AI 驱动的音乐视频生成。",
@@ -266,7 +254,6 @@
     "compareAi3": "AI 全自动处理一切",
     "compareAi4": "无限次修订与变体",
     "compareAi5": "包含商用免版税",
-
     "exportTitlePrefix": "导出为",
     "exportTitleAccent": "任意",
     "exportTitleSuffix": "格式",
@@ -278,7 +265,6 @@
     "exportFormatsLabel": "格式",
     "exportFormatsDesc": "通用兼容",
     "exportRoyaltyFree": "商业使用免版税",
-
     "faqTitlePrefix": "常见",
     "faqTitleAccent": "问题",
     "faq1Q": "什么是 Tunee AI 音乐视频生成器？",
@@ -308,7 +294,6 @@
     "why3Desc": "创建最长 60 秒的口型同步视频,含完整人声音轨。",
     "why4Title": "几分钟搞定",
     "why4Desc": "无需动作捕捉、无需实拍 —— 上传即可生成。",
-
     "howTitlePrefix": "工作",
     "howTitleAccent": "原理",
     "howSubtitle": "三步让任何肖像活起来。",
@@ -319,7 +304,6 @@
     "howStep3Title": "获得口型同步视频",
     "howStep3Desc": "几分钟内完美同步的口型动作",
     "howCta": "立即免费试用",
-
     "useTitlePrefix": "完美适合",
     "useTitleAccent": "用于",
     "useSubtitle": "选择适合你创作需求的用例。",
@@ -331,7 +315,6 @@
     "use3Desc": "打造你自己的虚拟偶像或 vtuber 内容",
     "use4Title": "广告 & 营销",
     "use4Desc": "制作令人难忘、脱颖而出的品牌视频",
-
     "whoTitle": "谁在使用 Tunee 口型同步",
     "whoSubtitle": "从音乐人到 VTuber,创作者们都信赖 Tunee 制作专业口型同步内容。",
     "whoTab1": "音乐人",
@@ -347,7 +330,6 @@
     "who4Title": "品牌 & 代理商",
     "who4Desc": "用会说话或唱歌的角色制作令人难忘的广告内容。非常适合品牌吉祥物、产品演示,以及吸引注意、提升互动的病毒式营销活动。",
     "whoCta": "开始创作",
-
     "compareTitlePrefix": "传统 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "看看为何创作者正在切换到 AI 驱动的口型同步生成。",
@@ -363,7 +345,6 @@
     "compareAi3": "2-5 分钟内完成",
     "compareAi4": "适用于任何脸或角色",
     "compareAi5": "免费开始,价格实惠",
-
     "faqTitlePrefix": "常见",
     "faqTitleAccent": "问题",
     "faq1Q": "什么是 Tunee AI 口型同步？",
@@ -389,7 +370,6 @@
     "why2Desc": "上传任意肖像照片,见证它在逼真的舞蹈动作中活起来。也支持插画和虚拟形象。",
     "why3Title": "完整商用权利",
     "why3Desc": "所有生成的舞蹈视频均为免版税。可用于社交媒体、营销、娱乐和变现。",
-
     "howTitlePrefix": "工作",
     "howTitleAccent": "原理",
     "howSubtitle": "三步让任何图像跳起舞来。",
@@ -400,7 +380,6 @@
     "howStep3Title": "生成 & 分享",
     "howStep3Desc": "见证你的图像在流畅、逼真的舞蹈动作中活起来。下载并在任何地方分享。",
     "howCta": "立即免费试用",
-
     "inputTitlePrefix": "多种",
     "inputTitleAccent": "创作方式",
     "inputSubtitle": "选择最适合你创意愿景的输入方式。",
@@ -412,7 +391,6 @@
     "input3Desc": "上传舞蹈视频作为参考。我们的 AI 会学习编舞并应用到你的图像上。",
     "input4Title": "文字描述",
     "input4Desc": "用自然语言描述你想要的舞蹈风格。AI 解读并生成匹配的动作。",
-
     "whoTitle": "谁在使用 AI 舞蹈",
     "whoSubtitle": "从社交媒体明星到企业品牌,创作者们都信赖 Tunee 制作爆款舞蹈内容。",
     "whoTab1": "网红",
@@ -428,7 +406,6 @@
     "who4Title": "游戏 & 应用开发者",
     "who4Desc": "为游戏角色、应用虚拟形象和虚拟助手生成舞蹈动画。快速原型化角色动作、制作宣传内容、为应用增添动态元素。",
     "whoCta": "开始跳舞",
-
     "compareTitlePrefix": "传统 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "看看为何创作者正在切换到 AI 驱动的舞蹈视频生成。",
@@ -444,7 +421,6 @@
     "compareAi3": "1-3 分钟生成视频",
     "compareAi4": "想象得到的任何舞蹈风格",
     "compareAi5": "18 美元/月起 —— 无限次生成",
-
     "exportTitlePrefix": "导出为",
     "exportTitleAccent": "任意",
     "exportTitleSuffix": "格式",
@@ -456,7 +432,6 @@
     "exportFormatsLabel": "格式",
     "exportFormatsDesc": "随时随地即时分享",
     "exportRoyaltyFree": "商业使用免版税",
-
     "faqTitlePrefix": "常见",
     "faqTitleAccent": "问题",
     "faq1Q": "什么是 Tunee AI 舞蹈？",
@@ -486,7 +461,6 @@
     "why3Desc": "打造电影级镜头运动 —— 摇摄、缩放、环绕和复杂跟踪镜头。",
     "why4Title": "实时预览",
     "why4Desc": "用我们的实时预览引擎,在最终渲染前即时看到动作变化。",
-
     "howTitlePrefix": "工作",
     "howTitleAccent": "原理",
     "howSubtitle": "三步掌握 AI 动作控制。",
@@ -497,7 +471,6 @@
     "howStep3Title": "生成 & 优化",
     "howStep3Desc": "AI 渲染你的动作控制视频,可直接导出",
     "howCta": "立即免费试用",
-
     "useTitlePrefix": "完美适合",
     "useTitleAccent": "用于",
     "useSubtitle": "选择适合你创作需求的用例。",
@@ -509,7 +482,6 @@
     "use3Desc": "用精准控制打造史诗级过场和预告片",
     "use4Title": "广告 & 营销",
     "use4Desc": "为社交活动打造吸睛的动态图形",
-
     "whoTitle": "谁在使用 Tunee 动作控制",
     "whoSubtitle": "从电影制作人到工作室,创作者们都信赖 Tunee 提供专业的动作控制。",
     "whoTab1": "电影制作人",
@@ -525,7 +497,6 @@
     "who4Title": "品牌 & 代理商",
     "who4Desc": "用顶级动作设计打造令人停下滑动的视频广告。产品展示、Logo 动画和动态字体 —— 全部以让品牌脱颖而出的精准与精致打造。",
     "whoCta": "开始创作",
-
     "compareTitlePrefix": "传统 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "看看为何创作者正在切换到 AI 驱动的动作控制。",
@@ -541,7 +512,6 @@
     "compareAi3": "几分钟内设置复杂运动",
     "compareAi4": "无限虚拟镜头可能性",
     "compareAi5": "适合所有创作者的实惠方案",
-
     "faqTitlePrefix": "常见",
     "faqTitleAccent": "问题",
     "faq1Q": "什么是 Tunee AI 动作控制？",
@@ -566,7 +536,6 @@
     "featuredModels": "精选 AI 模型",
     "allFeatures": "全部功能",
     "learnMore": "了解更多",
-
     "feature1Name": "音乐生成",
     "feature1Desc": "包含 AI 人声、歌词和伴奏的完整歌曲",
     "feature2Name": "纯音乐生成",
@@ -587,13 +556,11 @@
     "feature9Desc": "生成 AI 驱动的动感舞蹈视频",
     "feature10Name": "动作控制",
     "feature10Desc": "精准的 AI 动作控制,打造动感视频",
-
     "statsCount": "500,000+",
     "statsText": "位创作者已信赖 Tunee 让创意成真。",
     "stat1Label": "聊天即创作",
     "stat2Label": "一站式平台",
     "stat3Label": "无限创意",
-
     "faqTitlePrefix": "常见",
     "faqTitleAccent": "问题",
     "faq1Q": "什么是 Tunee？",
@@ -606,5 +573,23 @@
     "faq4A": "是的,你可以免费开始使用 Tunee 创作。我们为专业创作者提供高级方案,包含额外功能、更高品质导出和更多生成额度。",
     "faq5Q": "Tunee 的内容可以商用吗？",
     "faq5A": "可以！通过我们的证书许可功能,你可以获得 AI 生成音乐的商业权利。你创建的所有虚拟艺人内容也可用于商业用途。"
+  },
+  "MvExplore": {
+    "exploreEyebrow": "探索",
+    "exploreH2": "找到 Tunee 为你打造的音乐视频",
+    "exploreSub": "100+ 即用模板，按\"怎么开始、想做什么、做给谁\"分类整理。",
+    "quickJumpLabel": "跳到：",
+    "toolsLabel": "用你的方式开始",
+    "toolsSub": "照片、歌词、文字或一键 — 任何输入都变成精致的音乐视频。",
+    "soundLabel": "为你的声音而生",
+    "soundSub": "视觉针对 35+ 种音乐风格调校，让画面跟节奏一样有力 — 从 Phonk 到古典、K-pop 到乡村。",
+    "lookLabel": "挑你想要的样子",
+    "lookSub": "所有美学风格与视频格式 — 动画、电影感、歌词视频、Slideshow、竖向，全部由你选。",
+    "platformsLabel": "一键发每个平台",
+    "platformsSub": "一次渲染，所有比例。原生支持 TikTok、Reels、YouTube Shorts、Spotify Canvas 等等。",
+    "momentsLabel": "每个重要时刻",
+    "momentsSub": "婚礼、生日、节日 — 把歌曲变成大家会记住的画面。",
+    "craftLabel": "为你的工作打造",
+    "craftSub": "为 Rapper、乐团、品牌、敬拜团、播客与游戏工作室定制化的 MV。"
   }
 }

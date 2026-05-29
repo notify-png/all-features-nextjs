@@ -107,7 +107,6 @@
     "whyCard2Desc": "あなただけのオリジナルAIボイスを作成。ポップ、ロック、R&B、クラシックなど、どんなスタイルでもトレーニング可能。シンガーのシグネチャーサウンドを所有できます。",
     "whyCard3Title": "瞬時の楽曲生成",
     "whyCard3Desc": "歌詞から完成版のボーカルパフォーマンスまで3分以内。スタジオ予約なしでオリジナル曲、カバー、ハーモニーを生成できます。",
-
     "howTitlePrefix": "仕組み",
     "howTitleAccent": "について",
     "howSubtitle": "3つのシンプルなステップでAIシンガーを作成し、音楽制作を始めましょう。",
@@ -118,7 +117,6 @@
     "howStep3Title": "生成 & リリース",
     "howStep3Desc": "無制限に楽曲を制作し、スタジオ品質でダウンロード。配信プラットフォームへ直接公開できます。",
     "howCta": "今すぐ無料で試す",
-
     "inputTitlePrefix": "複数の",
     "inputTitleAccent": "作成方法",
     "inputSubtitle": "あなたのクリエイティブワークフローに最適な入力方法を選択してください。",
@@ -130,7 +128,6 @@
     "input3Desc": "メロディと歌詞を提供すると、AIシンガーが自然な表現で歌い上げます。",
     "input4Title": "ボイスクローン",
     "input4Desc": "音声サンプルをアップロードして、任意の声のAIバージョンを作成（適切な権利が必要）。",
-
     "whoTitle": "AIシンガーの利用者",
     "whoSubtitle": "ベッドルームプロデューサーから大手レーベルまで、プロフェッショナルなAIボーカルにTuneeが選ばれています。",
     "whoTab1": "ミュージシャン",
@@ -146,7 +143,6 @@
     "who4Title": "VTuber & バーチャルストリーマー",
     "who4Desc": "バーチャルペルソナに歌声を与えましょう。ライブ配信、オリジナル曲制作、音楽コンテンツでファンとつながれます。",
     "whoCta": "作成を始める",
-
     "compareTitlePrefix": "従来 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "なぜクリエイターがAIボーカル生成に切り替えているのかを見てみましょう。",
@@ -162,7 +158,6 @@
     "compareAi3": "どんなジャンル、言語、時間でも",
     "compareAi4": "瞬時の編集とバリエーション生成",
     "compareAi5": "すべての成果物の完全所有権",
-
     "exportTitlePrefix": "あらゆる",
     "exportTitleAccent": "形式",
     "exportTitleSuffix": "で書き出し",
@@ -174,7 +169,6 @@
     "exportStemsLabel": "ステム",
     "exportStemsDesc": "ミキシング用の分離トラック",
     "exportRoyaltyFree": "商用利用ロイヤリティフリー",
-
     "faqTitlePrefix": "よくある",
     "faqTitleAccent": "ご質問",
     "faq1Q": "Tunee AIシンガーとは何ですか？",
@@ -191,12 +185,10 @@
     "faq6A": "Tunee AIシンガーは英語、日本語、韓国語、中国語、スペイン語、フランス語、ドイツ語など、AIモデルが生成できるすべての言語に対応 — 自然な発音と本物のアクセントで歌唱できます。",
     "faq7Q": "Tuneeで自分自身のAIバージョンを作成できますか？",
     "faq7A": "もちろんです！自分の写真と音声サンプルをTuneeにアップロードすることで、見た目と声を完全に再現したデジタルツインを作成できます — デモ、バーチャルパフォーマンス、創作実験などで利用でき、完全な所有権を保持できます。",
-
     "ctaTitle": "今日から制作を始めよう",
     "ctaBody": "Tuneeを使って数分でプロ品質の音楽と動画を制作する50万人以上のクリエイターに参加しよう。",
     "ctaPrimary": "無料で始める",
     "ctaSecondary": "料金プランを見る",
-
     "tech1": "音声合成",
     "tech2": "ニューラルオーディオ",
     "tech3": "リアルタイム生成",
@@ -211,7 +203,6 @@
     "why2Desc": "音楽をアップロードしてビジョンを記述するだけ。AIが同期とビジュアルエフェクトを自動処理します。",
     "why3Title": "商用利用も可能",
     "why3Desc": "生成されたミュージックビデオはすべてロイヤリティフリー。どんなプラットフォームでも公開・収益化でき、完全な所有権を保持できます。",
-
     "howTitlePrefix": "仕組み",
     "howTitleAccent": "について",
     "howSubtitle": "3つのシンプルなステップで、あなたの音楽を映画的なビジュアルに変換。",
@@ -222,7 +213,6 @@
     "howStep3Title": "完璧な同期",
     "howStep3Desc": "あらゆるトランジション、カラーシフト、モーションエフェクトを音楽のビートに正確に同期させます。",
     "howCta": "今すぐ無料で試す",
-
     "inputTitlePrefix": "複数の",
     "inputTitleAccent": "作成方法",
     "inputSubtitle": "あなたのワークフローに最適な入力方法を選択してください。",
@@ -234,7 +224,6 @@
     "input3Desc": "アルバムアートワークや任意の画像からスタート。AIが静止画を音楽に完璧に同期したアニメーションに変換。",
     "input4Title": "テキストガイド",
     "input4Desc": "ご希望のビジュアルスタイルを自然言語で記述。AIがクリエイティブな方向性を解釈します。",
-
     "whoTitle": "ミュージックビデオ生成の利用者",
     "whoSubtitle": "インディーアーティストから大手レーベルまで、プロ品質の映像制作にクリエイターがTuneeを信頼しています。",
     "whoTab1": "ミュージシャン",
@@ -250,7 +239,6 @@
     "who4Title": "ブランド & エージェンシー",
     "who4Desc": "マーケティングキャンペーン向けの魅力的なオーディオビジュアルコンテンツを制作。広告、SNSキャンペーン、ブランドストーリーテリングに、ブランドアイデンティティに合うカスタムミュージックビデオで対応。",
     "whoCta": "作成を始める",
-
     "compareTitlePrefix": "従来 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "なぜクリエイターがAIによるミュージックビデオ生成に切り替えているのかを見てみましょう。",
@@ -266,7 +254,6 @@
     "compareAi3": "AIがすべてを自動処理",
     "compareAi4": "無制限の修正とバリエーション",
     "compareAi5": "商用利用ロイヤリティフリー込み",
-
     "exportTitlePrefix": "あらゆる",
     "exportTitleAccent": "形式",
     "exportTitleSuffix": "で書き出し",
@@ -278,7 +265,6 @@
     "exportFormatsLabel": "フォーマット",
     "exportFormatsDesc": "ユニバーサル互換",
     "exportRoyaltyFree": "商用利用ロイヤリティフリー",
-
     "faqTitlePrefix": "よくある",
     "faqTitleAccent": "ご質問",
     "faq1Q": "Tunee AIミュージックビデオジェネレーターとは？",
@@ -308,7 +294,6 @@
     "why3Desc": "最大60秒、完全なボーカルトラック付きのリップシンク動画を制作可能。",
     "why4Title": "数分で完成",
     "why4Desc": "モーションキャプチャ不要、撮影不要 — アップロードして生成するだけ。",
-
     "howTitlePrefix": "仕組み",
     "howTitleAccent": "について",
     "howSubtitle": "3つのシンプルなステップで、どんなポートレートにも命を吹き込みます。",
@@ -319,7 +304,6 @@
     "howStep3Title": "リップシンク動画を取得",
     "howStep3Desc": "数分で完璧に同期した口の動きを生成",
     "howCta": "今すぐ無料で試す",
-
     "useTitlePrefix": "こんな用途に",
     "useTitleAccent": "最適",
     "useSubtitle": "あなたのクリエイティブニーズに合うユースケースを選択してください。",
@@ -331,7 +315,6 @@
     "use3Desc": "自分だけのバーチャルアイドルやVTuberコンテンツを構築",
     "use4Title": "広告 & マーケティング",
     "use4Desc": "印象に残るブランド動画で差をつける",
-
     "whoTitle": "Tuneeリップシンクの利用者",
     "whoSubtitle": "ミュージシャンからVTuberまで、プロ品質のリップシンクコンテンツにTuneeが選ばれています。",
     "whoTab1": "ミュージシャン",
@@ -347,7 +330,6 @@
     "who4Title": "ブランド & エージェンシー",
     "who4Desc": "話したり歌ったりするキャラクターで印象に残る広告コンテンツを制作。ブランドマスコット、製品デモ、注目を集めエンゲージメントを高めるバイラルマーケティングキャンペーンに最適。",
     "whoCta": "作成を始める",
-
     "compareTitlePrefix": "従来 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "なぜクリエイターがAIリップシンク生成に切り替えているのかを見てみましょう。",
@@ -363,7 +345,6 @@
     "compareAi3": "2〜5分で完成",
     "compareAi4": "どんな顔やキャラクターでも対応",
     "compareAi5": "無料スタート、リーズナブルなプラン",
-
     "faqTitlePrefix": "よくある",
     "faqTitleAccent": "ご質問",
     "faq1Q": "Tunee AIリップシンクとは？",
@@ -389,7 +370,6 @@
     "why2Desc": "ポートレート写真をアップロードするだけで、リアルなダンスムーブメントで動き出します。イラストやアバターにも対応。",
     "why3Title": "完全な商業利用権",
     "why3Desc": "生成されたすべてのダンス動画はロイヤリティフリー。SNS、マーケティング、エンタメ、収益化に使えます。",
-
     "howTitlePrefix": "仕組み",
     "howTitleAccent": "について",
     "howSubtitle": "3つのシンプルなステップで、どんな画像も踊らせます。",
@@ -400,7 +380,6 @@
     "howStep3Title": "生成 & 共有",
     "howStep3Desc": "あなたの画像がスムーズでリアルなダンスムーブメントで動き出します。ダウンロードしてどこでもシェア。",
     "howCta": "今すぐ無料で試す",
-
     "inputTitlePrefix": "複数の",
     "inputTitleAccent": "作成方法",
     "inputSubtitle": "あなたのクリエイティブビジョンに最適な入力方法を選択してください。",
@@ -412,7 +391,6 @@
     "input3Desc": "ダンス動画を参考としてアップロード。AIが振付を学習し、あなたの画像に適用します。",
     "input4Title": "テキスト記述",
     "input4Desc": "ご希望のダンススタイルを自然言語で記述。AIが解釈してマッチするムーブメントを生成します。",
-
     "whoTitle": "AIダンスの利用者",
     "whoSubtitle": "SNSスターから大手ブランドまで、バズるダンスコンテンツにTuneeが選ばれています。",
     "whoTab1": "インフルエンサー",
@@ -428,7 +406,6 @@
     "who4Title": "ゲーム & アプリ開発者",
     "who4Desc": "ゲームキャラクター、アプリアバター、バーチャルアシスタント用のダンスアニメーションを生成。キャラクターの動きを素早くプロトタイプ化、プロモコンテンツ制作、アプリに動的要素を追加。",
     "whoCta": "ダンスを始める",
-
     "compareTitlePrefix": "従来 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "なぜクリエイターがAIダンス動画生成に切り替えているのかを見てみましょう。",
@@ -444,7 +421,6 @@
     "compareAi3": "1〜3分で動画を生成",
     "compareAi4": "想像できるあらゆるダンススタイル",
     "compareAi5": "月18ドルから — 無制限生成",
-
     "exportTitlePrefix": "あらゆる",
     "exportTitleAccent": "形式",
     "exportTitleSuffix": "で書き出し",
@@ -456,7 +432,6 @@
     "exportFormatsLabel": "フォーマット",
     "exportFormatsDesc": "どこでも瞬時にシェア",
     "exportRoyaltyFree": "商用利用ロイヤリティフリー",
-
     "faqTitlePrefix": "よくある",
     "faqTitleAccent": "ご質問",
     "faq1Q": "Tunee AIダンスとは？",
@@ -486,7 +461,6 @@
     "why3Desc": "映画的なカメラワーク — パン、ズーム、オービット、複雑なトラッキングショットを作成。",
     "why4Title": "リアルタイムプレビュー",
     "why4Desc": "最終レンダリング前にリアルタイムプレビューエンジンでモーション変更を即座に確認。",
-
     "howTitlePrefix": "仕組み",
     "howTitleAccent": "について",
     "howSubtitle": "3つのシンプルなステップでAIモーションコントロールをマスターしましょう。",
@@ -497,7 +471,6 @@
     "howStep3Title": "生成 & リファイン",
     "howStep3Desc": "AIがモーションコントロール動画をレンダリング、エクスポート可能",
     "howCta": "今すぐ無料で試す",
-
     "useTitlePrefix": "こんな用途に",
     "useTitleAccent": "最適",
     "useSubtitle": "あなたのクリエイティブニーズに合うユースケースを選択してください。",
@@ -509,7 +482,6 @@
     "use3Desc": "精密制御で壮大なカットシーンとトレーラーを構築",
     "use4Title": "広告 & マーケティング",
     "use4Desc": "SNSキャンペーン向けの目を引くモーショングラフィック",
-
     "whoTitle": "Tuneeモーションコントロールの利用者",
     "whoSubtitle": "映画監督からスタジオまで、プロのモーションコントロールにTuneeが選ばれています。",
     "whoTab1": "映像作家",
@@ -525,7 +497,6 @@
     "who4Title": "ブランド & エージェンシー",
     "who4Desc": "プレミアムモーションデザインでスクロール停止級の動画広告を制作。プロダクトリビール、ロゴアニメーション、キネティックタイポグラフィー — ブランドが際立つ精密さと洗練。",
     "whoCta": "作成を始める",
-
     "compareTitlePrefix": "従来 vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "なぜクリエイターがAIモーションコントロールに切り替えているのかを見てみましょう。",
@@ -541,7 +512,6 @@
     "compareAi3": "複雑なモーションを数分でセットアップ",
     "compareAi4": "無限のバーチャルカメラの可能性",
     "compareAi5": "すべてのクリエイターに手頃なプラン",
-
     "faqTitlePrefix": "よくある",
     "faqTitleAccent": "ご質問",
     "faq1Q": "Tunee AIモーションコントロールとは？",
@@ -566,7 +536,6 @@
     "featuredModels": "注目のAIモデル",
     "allFeatures": "すべての機能",
     "learnMore": "詳しく見る",
-
     "feature1Name": "音楽生成",
     "feature1Desc": "AIボーカル、歌詞、伴奏が揃った完全な楽曲",
     "feature2Name": "インストゥルメンタル生成",
@@ -587,13 +556,11 @@
     "feature9Desc": "AIで生成するダイナミックなダンス動画",
     "feature10Name": "モーションコントロール",
     "feature10Desc": "ダイナミックな動画制作のための精密なAIモーションコントロール",
-
     "statsCount": "50万人以上",
     "statsText": "のクリエイターがTuneeでアイデアを形にしています。",
     "stat1Label": "チャットするだけで制作",
     "stat2Label": "オールインワン・プラットフォーム",
     "stat3Label": "無限のクリエイティビティ",
-
     "faqTitlePrefix": "よくある",
     "faqTitleAccent": "ご質問",
     "faq1Q": "Tuneeとは何ですか？",
@@ -606,5 +573,23 @@
     "faq4A": "はい、無料でTuneeで制作を始められます。プロのクリエイター向けに追加機能、高品質出力、より多くの生成クレジットを提供するプレミアムプランも用意しています。",
     "faq5Q": "Tuneeのコンテンツを商用利用できますか？",
     "faq5A": "はい！証明書ライセンス機能で、AI生成音楽の商用権利を取得できます。作成したすべてのバーチャルアーティストコンテンツも商用利用可能です。"
+  },
+  "MvExplore": {
+    "exploreEyebrow": "見つける",
+    "exploreH2": "あなたのために Tunee が作るミュージックビデオを見つける",
+    "exploreSub": "100 を超えるすぐ使えるテンプレート — どう始めるか、何を作るか、誰のためかで整理。",
+    "quickJumpLabel": "ジャンプ:",
+    "toolsLabel": "あなたのやり方で始める",
+    "toolsSub": "写真、歌詞、テキスト、ワンクリック — どんな入力もポリッシュされたミュージックビデオに。",
+    "soundLabel": "あなたのサウンドのために作られた",
+    "soundSub": "ビートと同じくらいビジュアルをハードに仕上げる、35 以上のジャンルに調整された AI — Phonk からクラシック、K-pop からカントリーまで。",
+    "lookLabel": "見た目を選ぶ",
+    "lookSub": "アニメ、シネマティック、リリックビデオ、スライドショー、縦型など、あなたの動画が取り得るすべての美学とフォーマット。",
+    "platformsLabel": "すべてのフィードへ",
+    "platformsSub": "一度のレンダーですべてのアスペクト比。TikTok、Reels、YouTube Shorts、Spotify Canvas などへのネイティブ書き出し。",
+    "momentsLabel": "すべての瞬間のために",
+    "momentsSub": "結婚式、誕生日、ホリデー — サウンドトラックを、みんなが覚えるビジュアルに。",
+    "craftLabel": "あなたの仕事のために",
+    "craftSub": "ラッパー、バンド、ブランド、ワーシップチーム、ポッドキャスター、ゲームスタジオのために調整された MV。"
   }
 }

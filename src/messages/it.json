@@ -567,5 +567,23 @@
     "faq4A": "Sì, puoi iniziare a creare con Tunee gratis. Offriamo piani premium con funzioni aggiuntive.",
     "faq5Q": "Posso usare i contenuti Tunee commercialmente?",
     "faq5A": "Sì! Con la nostra funzione di licenza con certificato, puoi ottenere diritti commerciali per la tua musica generata dall'IA."
+  },
+  "MvExplore": {
+    "exploreEyebrow": "ESPLORA",
+    "exploreH2": "Trova il video musicale che Tunee costruisce per te",
+    "exploreSub": "Più di 100 template pronti, organizzati per come inizi, cosa crei e per chi è.",
+    "quickJumpLabel": "Vai a:",
+    "toolsLabel": "Inizia a modo tuo",
+    "toolsSub": "Foto, testi, prompt o un clic — qualsiasi input diventa un video musicale rifinito.",
+    "soundLabel": "Fatto per il tuo suono",
+    "soundSub": "Visual calibrati su 35+ generi così la grafica colpisce come il beat — dal Phonk al classico, dal K-pop al country.",
+    "lookLabel": "Scegli l'estetica",
+    "lookSub": "Ogni estetica e ogni formato che il tuo video può assumere — anime, cinematografico, lyric video, slideshow, verticale e altro.",
+    "platformsLabel": "Pronto per ogni feed",
+    "platformsSub": "Un render, ogni rapporto. Esportazioni native per TikTok, Reels, YouTube Shorts, Spotify Canvas e altri.",
+    "momentsLabel": "Per ogni momento",
+    "momentsSub": "Matrimoni, compleanni, festività — trasforma la colonna sonora nel visual che resta.",
+    "craftLabel": "Fatto per il tuo mestiere",
+    "craftSub": "Video musicali calibrati per rapper, band, brand, team di worship, podcaster e game studio."
   }
 }

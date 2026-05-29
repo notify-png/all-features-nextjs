@@ -567,5 +567,23 @@
     "faq4A": "Oui, vous pouvez commencer à créer avec Tunee gratuitement. Nous proposons des forfaits premium avec des fonctionnalités supplémentaires, des exports de meilleure qualité et plus de crédits de génération pour les créateurs professionnels.",
     "faq5Q": "Puis-je utiliser le contenu Tunee commercialement ?",
     "faq5A": "Oui ! Avec notre fonction de licence certificat, vous pouvez obtenir des droits commerciaux pour votre musique générée par IA. Tout le contenu d'artiste virtuel que vous créez est également disponible pour usage commercial."
+  },
+  "MvExplore": {
+    "exploreEyebrow": "EXPLORER",
+    "exploreH2": "Trouvez le clip que Tunee construit pour vous",
+    "exploreSub": "100+ modèles prêts à l'emploi, organisés par comment vous commencez, ce que vous créez et pour qui.",
+    "quickJumpLabel": "Aller à :",
+    "toolsLabel": "Démarrez à votre manière",
+    "toolsSub": "Photo, paroles, texte ou un clic — toute entrée devient un clip soigné.",
+    "soundLabel": "Fait pour votre son",
+    "soundSub": "Visuels calibrés pour 35+ genres pour que l'image frappe aussi fort que le beat — du Phonk au classique, du K-pop à la country.",
+    "lookLabel": "Choisissez le look",
+    "lookSub": "Chaque esthétique et chaque format que votre clip peut prendre — anime, cinématique, lyric video, slideshow, vertical et plus.",
+    "platformsLabel": "Prêt pour chaque feed",
+    "platformsSub": "Un rendu, chaque ratio. Exports natifs pour TikTok, Reels, YouTube Shorts, Spotify Canvas et plus.",
+    "momentsLabel": "Pour chaque moment",
+    "momentsSub": "Mariages, anniversaires, fêtes — transformez la BO en visuel dont on se souvient.",
+    "craftLabel": "Fait pour votre métier",
+    "craftSub": "Clips calibrés pour les rappeurs, groupes, marques, équipes de louange, podcasteurs et studios de jeux."
   }
 }

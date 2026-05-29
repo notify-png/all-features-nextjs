@@ -107,7 +107,6 @@
     "whyCard2Desc": "Create a one-of-a-kind AI voice that's exclusively yours. Train on any style — pop, rock, R&B, or classical — and own your singer's signature sound.",
     "whyCard3Title": "Instant Song Generation",
     "whyCard3Desc": "From lyrics to full vocal performance in under 3 minutes. Generate original songs, covers, or harmonies without booking studio time.",
-
     "howTitlePrefix": "How it",
     "howTitleAccent": "works",
     "howSubtitle": "Three simple steps to create your AI singer and start producing music.",
@@ -118,7 +117,6 @@
     "howStep3Title": "Generate & Release",
     "howStep3Desc": "Create unlimited songs, download in studio quality, and publish directly to streaming platforms.",
     "howCta": "Try It Now - Free",
-
     "inputTitlePrefix": "Multiple ways to",
     "inputTitleAccent": "create",
     "inputSubtitle": "Choose the input method that works best for your creative workflow.",
@@ -130,7 +128,6 @@
     "input3Desc": "Provide melody and lyrics, and your AI singer performs them with natural expression.",
     "input4Title": "Voice Clone",
     "input4Desc": "Upload voice samples to create an AI version of any voice (with proper rights).",
-
     "whoTitle": "Who Uses Our AI Singer",
     "whoSubtitle": "From bedroom producers to major labels, creators trust Tunee for professional AI vocals.",
     "whoTab1": "Musicians",
@@ -146,7 +143,6 @@
     "who4Title": "VTubers & Virtual Streamers",
     "who4Desc": "Give your virtual persona a singing voice. Perform live, create original songs, and engage your audience with musical content.",
     "whoCta": "Start Creating",
-
     "compareTitlePrefix": "Traditional vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "See why creators are switching to AI-powered vocal generation.",
@@ -162,7 +158,6 @@
     "compareAi3": "Any genre, any language, any time",
     "compareAi4": "Instant edits and variations",
     "compareAi5": "Full ownership of all outputs",
-
     "exportTitlePrefix": "Export in",
     "exportTitleAccent": "any",
     "exportTitleSuffix": "format",
@@ -174,7 +169,6 @@
     "exportStemsLabel": "STEMS",
     "exportStemsDesc": "Separate tracks for mixing",
     "exportRoyaltyFree": "Royalty-free for commercial use",
-
     "faqTitlePrefix": "Frequently asked",
     "faqTitleAccent": "questions",
     "faq1Q": "What is Tunee AI Singer?",
@@ -191,12 +185,10 @@
     "faq6A": "Tunee AI Singer supports all languages that the AI model can generate, including English, Japanese, Korean, Chinese, Spanish, French, German, and many more — with natural pronunciation and authentic accents.",
     "faq7Q": "Can I create an AI version of myself with Tunee?",
     "faq7A": "Absolutely! Upload your photos and vocal samples to Tunee to create a digital twin of yourself — complete with your likeness and voice — for demos, virtual performances, or creative experimentation while retaining full ownership.",
-
     "ctaTitle": "Start Creating Today",
     "ctaBody": "Join 500,000+ creators who use Tunee to produce professional music and videos in minutes.",
     "ctaPrimary": "Get Started Free",
     "ctaSecondary": "View Pricing Plans",
-
     "tech1": "Voice Synthesis",
     "tech2": "Neural Audio",
     "tech3": "Real-time Generation",
@@ -211,7 +203,6 @@
     "why2Desc": "Simply upload your music and describe your vision. The AI handles synchronization and visual effects automatically.",
     "why3Title": "Commercial Use Included",
     "why3Desc": "All generated music videos are royalty-free. Publish on any platform, monetize your content, and retain full ownership.",
-
     "howTitlePrefix": "How it",
     "howTitleAccent": "works",
     "howSubtitle": "Three simple steps to transform your audio into cinematic visuals.",
@@ -222,7 +213,6 @@
     "howStep3Title": "Perfect Sync",
     "howStep3Desc": "Every transition, color shift, and motion effect aligns precisely with your music's beats.",
     "howCta": "Try It Now - Free",
-
     "inputTitlePrefix": "Multiple ways to",
     "inputTitleAccent": "create",
     "inputSubtitle": "Choose the input method that works best for your workflow.",
@@ -234,7 +224,6 @@
     "input3Desc": "Start with album artwork or any image. Our AI animates static visuals in perfect sync with your music.",
     "input4Title": "Text-Guided",
     "input4Desc": "Describe your desired visual style in natural language. The AI interprets your creative direction.",
-
     "whoTitle": "Who Uses Our Music Video Generator",
     "whoSubtitle": "From independent artists to major labels, creators trust Tunee for professional video content.",
     "whoTab1": "Musicians",
@@ -250,7 +239,6 @@
     "who4Title": "Brands & Agencies",
     "who4Desc": "Create compelling audio-visual content for marketing campaigns. Perfect for advertisements, social media campaigns, and brand storytelling with custom music videos that align with your brand identity.",
     "whoCta": "Start Creating",
-
     "compareTitlePrefix": "Traditional vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "See why creators are switching to AI-powered music video generation.",
@@ -266,7 +254,6 @@
     "compareAi3": "AI handles everything automatically",
     "compareAi4": "Unlimited revisions and variations",
     "compareAi5": "Royalty-free commercial use included",
-
     "exportTitlePrefix": "Export in",
     "exportTitleAccent": "any",
     "exportTitleSuffix": "format",
@@ -278,7 +265,6 @@
     "exportFormatsLabel": "Formats",
     "exportFormatsDesc": "Universal compatibility",
     "exportRoyaltyFree": "Royalty-free for commercial use",
-
     "faqTitlePrefix": "Frequently asked",
     "faqTitleAccent": "questions",
     "faq1Q": "What is Tunee AI Music Video Generator?",
@@ -308,7 +294,6 @@
     "why3Desc": "Create up to 60-second lip sync videos with complete vocal tracks.",
     "why4Title": "Ready in Minutes",
     "why4Desc": "No motion capture, no filming — just upload and generate.",
-
     "howTitlePrefix": "How it",
     "howTitleAccent": "works",
     "howSubtitle": "Three simple steps to bring any portrait to life.",
@@ -319,7 +304,6 @@
     "howStep3Title": "Get Lip Sync Video",
     "howStep3Desc": "Perfectly synced mouth movements in minutes",
     "howCta": "Try It Now - Free",
-
     "useTitlePrefix": "Perfect",
     "useTitleAccent": "for",
     "useSubtitle": "Choose the use case that fits your creative needs.",
@@ -331,7 +315,6 @@
     "use3Desc": "Build your own virtual idol or vtuber content",
     "use4Title": "Ads & Marketing",
     "use4Desc": "Make memorable brand videos that stand out",
-
     "whoTitle": "Who Uses Tunee Lip Sync",
     "whoSubtitle": "From musicians to VTubers, creators trust Tunee for professional lip sync content.",
     "whoTab1": "Musicians",
@@ -347,7 +330,6 @@
     "who4Title": "Brands & Agencies",
     "who4Desc": "Create memorable advertising content with speaking or singing characters. Perfect for brand mascots, product demonstrations, and viral marketing campaigns that capture attention and drive engagement.",
     "whoCta": "Start Creating",
-
     "compareTitlePrefix": "Traditional vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "See why creators are switching to AI-powered lip sync generation.",
@@ -363,7 +345,6 @@
     "compareAi3": "Ready in 2-5 minutes",
     "compareAi4": "Works with any face or character",
     "compareAi5": "Free to start, affordable plans",
-
     "faqTitlePrefix": "Frequently asked",
     "faqTitleAccent": "questions",
     "faq1Q": "What is Tunee AI Lip Sync?",
@@ -389,7 +370,6 @@
     "why2Desc": "Upload any portrait photo and watch it come alive with realistic dance movements. Works with illustrations and avatars too.",
     "why3Title": "Full Commercial Rights",
     "why3Desc": "All generated dance videos are royalty-free. Use them for social media, marketing, entertainment, and monetization.",
-
     "howTitlePrefix": "How it",
     "howTitleAccent": "works",
     "howSubtitle": "Three simple steps to make any image dance.",
@@ -400,7 +380,6 @@
     "howStep3Title": "Generate & Share",
     "howStep3Desc": "Watch your image come alive with smooth, realistic dance movements. Download and share anywhere.",
     "howCta": "Try It Now - Free",
-
     "inputTitlePrefix": "Multiple ways to",
     "inputTitleAccent": "create",
     "inputSubtitle": "Choose the input method that works best for your creative vision.",
@@ -412,7 +391,6 @@
     "input3Desc": "Upload a dance video as reference. Our AI learns the choreography and applies it to your image.",
     "input4Title": "Text Description",
     "input4Desc": "Describe the dance style you want in natural language. The AI interprets and generates matching movements.",
-
     "whoTitle": "Who Uses AI Dancing",
     "whoSubtitle": "From social media stars to enterprise brands, creators trust Tunee for viral dance content.",
     "whoTab1": "Influencers",
@@ -428,7 +406,6 @@
     "who4Title": "Game & App Developers",
     "who4Desc": "Generate dance animations for game characters, app avatars, and virtual assistants. Prototype character movements quickly, create promotional content, or add dynamic elements to your applications.",
     "whoCta": "Start Dancing",
-
     "compareTitlePrefix": "Traditional vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "See why creators are switching to AI-powered dance video generation.",
@@ -444,7 +421,6 @@
     "compareAi3": "Generate videos in 1-3 minutes",
     "compareAi4": "Any dance style imaginable",
     "compareAi5": "From $18/month - unlimited generations",
-
     "exportTitlePrefix": "Export in",
     "exportTitleAccent": "any",
     "exportTitleSuffix": "format",
@@ -456,7 +432,6 @@
     "exportFormatsLabel": "Formats",
     "exportFormatsDesc": "Share anywhere instantly",
     "exportRoyaltyFree": "Royalty-free for commercial use",
-
     "faqTitlePrefix": "Frequently asked",
     "faqTitleAccent": "questions",
     "faq1Q": "What is Tunee AI Dancing?",
@@ -486,7 +461,6 @@
     "why3Desc": "Create cinematic camera movements — pans, zooms, orbits, and complex tracking shots.",
     "why4Title": "Real-time Preview",
     "why4Desc": "See motion changes instantly with our real-time preview engine before final rendering.",
-
     "howTitlePrefix": "How it",
     "howTitleAccent": "works",
     "howSubtitle": "Three simple steps to master AI motion control.",
@@ -497,7 +471,6 @@
     "howStep3Title": "Generate & refine",
     "howStep3Desc": "AI renders your motion-controlled video, ready for export",
     "howCta": "Try It Now - Free",
-
     "useTitlePrefix": "Perfect",
     "useTitleAccent": "for",
     "useSubtitle": "Choose the use case that fits your creative needs.",
@@ -509,7 +482,6 @@
     "use3Desc": "Build epic cutscenes and trailers with precise control",
     "use4Title": "Ads & Marketing",
     "use4Desc": "Eye-catching motion graphics for social campaigns",
-
     "whoTitle": "Who Uses Tunee Motion Control",
     "whoSubtitle": "From filmmakers to studios, creators trust Tunee for professional motion control.",
     "whoTab1": "Filmmakers",
@@ -525,7 +497,6 @@
     "who4Title": "Brands & Agencies",
     "who4Desc": "Create scroll-stopping video ads with premium motion design. Product reveals, logo animations, and kinetic typography — all with the precision and polish that makes brands stand out.",
     "whoCta": "Start Creating",
-
     "compareTitlePrefix": "Traditional vs",
     "compareTitleAccent": "AI",
     "compareSubtitle": "See why creators are switching to AI-powered motion control.",
@@ -541,7 +512,6 @@
     "compareAi3": "Set up complex motion in minutes",
     "compareAi4": "Unlimited virtual camera possibilities",
     "compareAi5": "Affordable plans for all creators",
-
     "faqTitlePrefix": "Frequently asked",
     "faqTitleAccent": "questions",
     "faq1Q": "What is Tunee AI Motion Control?",
@@ -566,7 +536,6 @@
     "featuredModels": "Featured AI models",
     "allFeatures": "All Features",
     "learnMore": "Learn more",
-
     "feature1Name": "Music Generation",
     "feature1Desc": "Complete songs with AI vocals, lyrics and instrumentals",
     "feature2Name": "Instrumental Generation",
@@ -587,13 +556,11 @@
     "feature9Desc": "Generate dynamic dancing videos powered by AI",
     "feature10Name": "Motion Control",
     "feature10Desc": "Precise AI motion control for dynamic video creation",
-
     "statsCount": "500,000+",
     "statsText": "creators already trust Tunee to bring their ideas to life.",
     "stat1Label": "Just Chat & Create",
     "stat2Label": "All-in-One Platform",
     "stat3Label": "Limitless Creativity",
-
     "faqTitlePrefix": "Frequently Asked",
     "faqTitleAccent": "Questions",
     "faq1Q": "What is Tunee?",
@@ -606,5 +573,23 @@
     "faq4A": "Yes, you can start creating with Tunee for free. We offer premium plans with additional features, higher quality exports, and more generation credits for professional creators.",
     "faq5Q": "Can I use Tunee content commercially?",
     "faq5A": "Yes! With our Certificate License feature, you can obtain commercial rights for your AI-generated music. All virtual artist content you create is also available for commercial use."
+  },
+  "MvExplore": {
+    "exploreEyebrow": "EXPLORE",
+    "exploreH2": "Find the music video Tunee builds for you",
+    "exploreSub": "100+ ready-to-use templates organised by how you start, what you make, and who it's for.",
+    "quickJumpLabel": "Jump to:",
+    "toolsLabel": "Start your way",
+    "toolsSub": "Photo, lyrics, text or one-click — any input becomes a polished music video.",
+    "soundLabel": "Made for your sound",
+    "soundSub": "Visuals tuned to 35+ genres so the look hits as hard as the beat — Phonk to Classical, K-pop to Country.",
+    "lookLabel": "Pick the look",
+    "lookSub": "Every aesthetic and every format your video can take — anime, cinematic, lyric video, slideshow, vertical, and more.",
+    "platformsLabel": "Ship to every feed",
+    "platformsSub": "One render, every aspect ratio. Native exports for TikTok, Reels, YouTube Shorts, Spotify Canvas and more.",
+    "momentsLabel": "For every moment",
+    "momentsSub": "Weddings, birthdays, holidays — turn the soundtrack into the visual people remember.",
+    "craftLabel": "Built for your craft",
+    "craftSub": "Purpose-tuned MVs for rappers, bands, brands, worship teams, podcasters and game studios."
   }
 }
