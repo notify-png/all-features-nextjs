@@ -24,7 +24,7 @@ const MvQuickJumpStrip = ({ categoryIds }: Props) => {
       className="border-y border-border bg-secondary/40"
     >
       <div className="section-container py-5">
-        <div className="flex flex-wrap items-center gap-2 sm:gap-2.5">
+        <div className="flex flex-wrap items-center justify-center gap-2 sm:gap-2.5">
           <span className="text-xs sm:text-sm font-medium text-muted-foreground mr-1 sm:mr-2">
             {t("quickJumpLabel")}
           </span>
