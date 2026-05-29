@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
 import { setRequestLocale } from 'next-intl/server'
 import { LOCALES } from '@/i18n/routing'
 import { getAllSlugs, getConfig, getContent, getImageCache } from '@/lib/mv/data'
@@ -477,12 +478,12 @@ export default async function LocaleSlugPage(
   const vk = cfg.visual_keywords || []
   const mw = cfg.mood_words || []
 
-  const h1 = getH1(cfg)
-  const lead = getLead(cfg, content)
-  const medPrompts = getMediumPrompts(cfg)
-  const personaBlocks = getPersonaBlocks(cfg, content)
-  const whoTitle = getWhoUsesTitle(cfg)
-  const useCases = getUseCases(cfg)
+  const h1 = getH1(cfg, t)
+  const lead = getLead(cfg, content, t)
+  const medPrompts = getMediumPrompts(cfg, t)
+  const personaBlocks = getPersonaBlocks(cfg, content, t)
+  const whoTitle = getWhoUsesTitle(cfg, t)
+  const useCases = getUseCases(cfg, t)
   const siblings = getSiblings(slug, allSlugs)
   const h = strHash(slug)
   const champ = CHAMPION[h % CHAMPION.length]
@@ -511,7 +512,7 @@ export default async function LocaleSlugPage(
     var text=btn.dataset.copy||'';
     var orig=btn.innerHTML;
     function flash(){
-      btn.innerHTML='✓ Copied!';btn.classList.add('done');
+      btn.innerHTML='${t.copied}';btn.classList.add('done');
       setTimeout(function(){btn.innerHTML=orig;btn.classList.remove('done');},2000);
     }
     if(navigator.clipboard&&navigator.clipboard.writeText){
@@ -547,7 +548,7 @@ export default async function LocaleSlugPage(
         <div className="wrap">
           {/* Breadcrumb */}
           <nav className="bc">
-            <a href={`/${locale}`}>Home</a>
+            <Link href={locale === 'en' ? '/' : `/${locale}`}>{t.breadcrumbHome}</Link>
             <span>›</span>
             <a href={MV_PARENT}>{t.breadcrumbMvGen}</a>
             <span>›</span>
@@ -591,7 +592,7 @@ export default async function LocaleSlugPage(
                 </div>
               </div>
               <div className="hero-right">
-                <GenProcess cfg={cfg} />
+                <GenProcess cfg={cfg} t={t} />
               </div>
             </div>
           </section>

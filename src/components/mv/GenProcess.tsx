@@ -1,21 +1,23 @@
 import { MvConfig } from '@/lib/mv/data'
+import { UIStrings } from '@/lib/mv/i18n'
 
 interface Props {
   cfg: MvConfig
+  t: UIStrings
 }
 
-export default function GenProcess({ cfg }: Props) {
+export default function GenProcess({ cfg, t }: Props) {
   const { genre_name: g, color_accent: accent, demo_prompt: demo, category: cat, slug } = cfg
 
   const preview = demo.length > 58 ? demo.slice(0, 58) + '…' : demo
 
-  let step2Sub = 'Or go One-Click — AI writes the brief'
+  let step2Sub = t.gpDescribeSubDefault
   if (cat?.includes('Platform') || slug.startsWith('music-video-for-')) {
-    step2Sub = 'Pick format, ratio & platform style'
+    step2Sub = t.gpDescribeSubPlatform
   } else if (cat?.includes('Occasion') || cat?.includes('Viral')) {
-    step2Sub = 'Describe the moment — AI writes the story'
+    step2Sub = t.gpDescribeSubOccasion
   } else if (cat?.includes('Workflow')) {
-    step2Sub = 'Paste lyrics, photos, or a text prompt'
+    step2Sub = t.gpDescribeSubWorkflow
   }
 
   const eqBars = Array.from({ length: 14 }, (_, i) => (
@@ -54,8 +56,8 @@ export default function GenProcess({ cfg }: Props) {
         <div className="gp-step">
           <div className="gp-step-num" style={{ color: accent }}>01</div>
           <div>
-            <div className="gp-step-title">Upload your track</div>
-            <div className="gp-step-sub">MP3 · WAV · AAC · AIFF · up to 20 MB</div>
+            <div className="gp-step-title">{t.gpUploadTitle}</div>
+            <div className="gp-step-sub">{t.gpUploadSub}</div>
             <div className="gp-file">
               <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                 <path d="M9 18V5l12-2v13"/>
@@ -71,7 +73,7 @@ export default function GenProcess({ cfg }: Props) {
         <div className="gp-step">
           <div className="gp-step-num" style={{ color: accent }}>02</div>
           <div>
-            <div className="gp-step-title">Describe your vision</div>
+            <div className="gp-step-title">{t.gpDescribeTitle}</div>
             <div className="gp-step-sub">{step2Sub}</div>
             <div className="gp-prompt-box" style={{ borderLeftColor: accent }}>
               &ldquo;{preview}&rdquo;
@@ -83,12 +85,12 @@ export default function GenProcess({ cfg }: Props) {
         <div className="gp-step">
           <div className="gp-step-num" style={{ color: accent }}>03</div>
           <div style={{ minWidth: 0, flex: 1 }}>
-            <div className="gp-step-title">Your video is ready</div>
-            <div className="gp-step-sub">AI generates in ~90 s · every format included</div>
+            <div className="gp-step-title">{t.gpReadyTitle}</div>
+            <div className="gp-step-sub">{t.gpReadySub}</div>
 
             <div className="gp-gen">
               <div className="gp-gen-dot" style={{ background: accent }} />
-              <div className="gp-gen-label">Generating…</div>
+              <div className="gp-gen-label">{t.gpGenerating}</div>
               <div className="gp-prog-track">
                 <div className="gp-prog-fill" style={{ background: accent }} />
               </div>

@@ -77,6 +77,67 @@ export interface UIStrings {
   faqA3: string
   allStylesLink: string
   breadcrumbGenre: (genre: string) => string
+
+  // GenProcess card
+  gpUploadTitle: string
+  gpUploadSub: string
+  gpDescribeTitle: string
+  gpDescribeSubDefault: string
+  gpDescribeSubPlatform: string
+  gpDescribeSubOccasion: string
+  gpDescribeSubWorkflow: string
+  gpReadyTitle: string
+  gpReadySub: string
+  gpGenerating: string
+
+  // H1 templates
+  h1Platform: (platform: string) => string
+  h1Occasion: (genre: string) => string
+  h1Workflow: (wf: string) => string
+  h1ForWho: (target: string) => string
+  h1Default: (genre: string) => string
+  h1MVType: (genre: string) => string
+
+  // Lead templates
+  leadPlatform: (platform: string) => string
+  leadOccasion: (genre: string) => string
+  leadWorkflow: (wf: string) => string
+  leadForWho: (target: string) => string
+  leadDefault: (genre: string, v0: string) => string
+
+  // Who uses section heading variants
+  whoUsesOccasion: string
+  whoUsesWorkflow: string
+  whoUsesForWho: string
+  whoUsesPlatform: (platform: string) => string
+
+  // Persona labels
+  personaLabelMusicians: string
+  personaLabelCreators: string
+  personaLabelLabels: string
+  personaLabelBrands: string
+  personaLabelSolo: string
+  personaLabelProduction: string
+  personaLabelMarketing: string
+
+  // Use case tags and titles
+  ucTag1: string; ucTitle1: string; ucDesc1: (genre: string) => string
+  ucTag2: string; ucTitle2: string; ucDesc2: (genre: string) => string
+  ucTag3: string; ucTitle3: string; ucDesc3: (genre: string) => string
+
+  // Medium prompt labels
+  mpLabelScene: string
+  mpLabelPerformance: string
+  mpLabelAbstract: string
+  mpLabelHeroMoment: string
+  mpLabelMontage: string
+  mpLabelDocumentary: string
+  mpLabelSignature: string
+  mpLabelContentSeries: string
+  mpLabelReleaseDay: string
+
+  // Copy button feedback
+  copied: string
 }
 
 export const T: Record<string, UIStrings> = {
@@ -155,6 +216,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: 'Default export is 720P MP4. Paid plans unlock 1080P, 2K, and 4K upscaling. All exports include the original audio mixed in, with options for 16:9, 9:16, and 1:1 aspect ratios.',
     allStylesLink: '← All Music Video Styles',
     breadcrumbGenre: (genre) => `${genre} Music Video`,
+
+    gpUploadTitle: 'Upload your track',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · up to 20 MB',
+    gpDescribeTitle: 'Describe your vision',
+    gpDescribeSubDefault: 'Or go One-Click — AI writes the brief',
+    gpDescribeSubPlatform: 'Pick format, ratio & platform style',
+    gpDescribeSubOccasion: 'Describe the moment — AI writes the story',
+    gpDescribeSubWorkflow: 'Paste lyrics, photos, or a text prompt',
+    gpReadyTitle: 'Your video is ready',
+    gpReadySub: 'AI generates in ~90 s · every format included',
+    gpGenerating: 'Generating…',
+
+    h1Platform: (platform) => `Make AI Music Videos for ${platform}`,
+    h1Occasion: (genre) => `Make a ${genre} Music Video from Your Song`,
+    h1Workflow: (wf) => `Turn Your ${wf} into a Music Video`,
+    h1ForWho: (target) => `AI Music Videos for ${target}`,
+    h1Default: (genre) => `Create ${genre} Music Videos with AI`,
+    h1MVType: (genre) => `Create ${genre} with AI`,
+
+    leadPlatform: (platform) => `Upload your track, pick a style, and Tunee generates a perfectly formatted ${platform} music video — ready to upload in minutes.`,
+    leadOccasion: (genre) => `Upload your song, describe the moment, and Tunee turns it into a cinematic ${genre} music video — no camera, no crew, no editing skills needed.`,
+    leadWorkflow: (wf) => `Upload your audio, run the ${wf} workflow, and Tunee produces a polished music video in minutes — no editing experience required.`,
+    leadForWho: (target) => `Tunee gives ${target} a fast, professional way to create music videos from any track.`,
+    leadDefault: (genre, v0) => `Upload your audio and Tunee generates ${genre}-style music videos with ${v0} — no design tools, no rendering software needed.`,
+
+    whoUsesOccasion: 'Who makes this kind of video',
+    whoUsesWorkflow: 'Who uses this workflow',
+    whoUsesForWho: 'Who is this made for',
+    whoUsesPlatform: (platform) => `Who creates ${platform} content with Tunee`,
+
+    personaLabelMusicians: 'Musicians & Artists',
+    personaLabelCreators: 'Content Creators',
+    personaLabelLabels: 'Labels & Managers',
+    personaLabelBrands: 'Brands & Advertisers',
+    personaLabelSolo: 'Solo Artists',
+    personaLabelProduction: 'Production Teams',
+    personaLabelMarketing: 'Marketing Departments',
+
+    ucTag1: 'Zero lead time', ucTitle1: 'Release day', ucDesc1: (genre) => `Upload your single, describe the ${genre} aesthetic, and have a visual ready before the drop.`,
+    ucTag2: 'Post more, spend less', ucTitle2: 'Content calendar', ucDesc2: (genre) => `Turn every track into a ${genre} visual — build a consistent catalog without a production budget.`,
+    ucTag3: 'All platforms at once', ucTitle3: 'Social formats', ucDesc3: (genre) => `Export 9:16 for TikTok, 16:9 for YouTube, 1:1 for Instagram — one generation, every format covered.`,
+
+    mpLabelScene: 'Opening Scene',
+    mpLabelPerformance: 'Performance Section',
+    mpLabelAbstract: 'Abstract Outro',
+    mpLabelHeroMoment: 'The Hero Moment',
+    mpLabelMontage: 'Memory Montage',
+    mpLabelDocumentary: 'Candid Documentary Style',
+    mpLabelSignature: 'Signature Visual Identity',
+    mpLabelContentSeries: 'Content Series Starter',
+    mpLabelReleaseDay: 'Release Day Video',
+
+    copied: '✓ Copied!',
   },
   es: {
     startFree: 'Comenzar gratis',
@@ -231,6 +345,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: 'La exportación predeterminada es MP4 720P. Los planes de pago desbloquean 1080P, 2K y escalado a 4K. Todas las exportaciones incluyen el audio original mezclado, con opciones de relación de aspecto 16:9, 9:16 y 1:1.',
     allStylesLink: '← Todos los estilos',
     breadcrumbGenre: (genre) => `Vídeo musical de ${genre}`,
+
+    gpUploadTitle: 'Sube tu pista',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · hasta 20 MB',
+    gpDescribeTitle: 'Describe tu visión',
+    gpDescribeSubDefault: 'O usa un clic — la IA escribe el guión',
+    gpDescribeSubPlatform: 'Elige formato, proporción y estilo de plataforma',
+    gpDescribeSubOccasion: 'Describe el momento — la IA escribe la historia',
+    gpDescribeSubWorkflow: 'Pega letras, fotos o un prompt de texto',
+    gpReadyTitle: 'Tu video está listo',
+    gpReadySub: 'La IA genera en ~90 s · todos los formatos incluidos',
+    gpGenerating: 'Generando…',
+
+    h1Platform: (platform) => `Crea videos musicales con IA para ${platform}`,
+    h1Occasion: (genre) => `Crea un video musical de ${genre} desde tu canción`,
+    h1Workflow: (wf) => `Convierte tu ${wf} en un video musical`,
+    h1ForWho: (target) => `Videos musicales con IA para ${target}`,
+    h1Default: (genre) => `Crea videos musicales de ${genre} con IA`,
+    h1MVType: (genre) => `Crea ${genre} con IA`,
+
+    leadPlatform: (platform) => `Sube tu pista, elige un estilo y Tunee genera un video musical de ${platform} perfectamente formateado — listo para subir en minutos.`,
+    leadOccasion: (genre) => `Sube tu canción, describe el momento y Tunee lo convierte en un cinematográfico video musical de ${genre} — sin cámara, sin equipo ni habilidades de edición.`,
+    leadWorkflow: (wf) => `Sube tu audio, ejecuta el flujo de trabajo de ${wf} y Tunee produce un video musical pulido en minutos — sin experiencia de edición.`,
+    leadForWho: (target) => `Tunee ofrece a ${target} una forma rápida y profesional de crear videos musicales desde cualquier pista.`,
+    leadDefault: (genre, v0) => `Sube tu audio y Tunee genera videos musicales de ${genre} con ${v0} — sin herramientas de diseño ni software de renderizado.`,
+
+    whoUsesOccasion: 'Quién hace este tipo de video',
+    whoUsesWorkflow: 'Quién usa este flujo de trabajo',
+    whoUsesForWho: 'Para quién está hecho',
+    whoUsesPlatform: (platform) => `Quién crea contenido de ${platform} con Tunee`,
+
+    personaLabelMusicians: 'Músicos y artistas',
+    personaLabelCreators: 'Creadores de contenido',
+    personaLabelLabels: 'Sellos y managers',
+    personaLabelBrands: 'Marcas y anunciantes',
+    personaLabelSolo: 'Artistas independientes',
+    personaLabelProduction: 'Equipos de producción',
+    personaLabelMarketing: 'Departamentos de marketing',
+
+    ucTag1: 'Cero tiempo de entrega', ucTitle1: 'Día de lanzamiento', ucDesc1: (genre) => `Sube tu sencillo, describe la estética de ${genre} y ten un visual listo antes del lanzamiento.`,
+    ucTag2: 'Publica más, gasta menos', ucTitle2: 'Calendario de contenido', ucDesc2: (genre) => `Convierte cada pista en un visual de ${genre} — crea un catálogo sin presupuesto de producción.`,
+    ucTag3: 'Todos los formatos a la vez', ucTitle3: 'Formatos sociales', ucDesc3: (genre) => `Exporta 9:16 para TikTok, 16:9 para YouTube, 1:1 para Instagram — una generación, todos los formatos.`,
+
+    mpLabelScene: 'Escena inicial',
+    mpLabelPerformance: 'Sección de actuación',
+    mpLabelAbstract: 'Outro abstracto',
+    mpLabelHeroMoment: 'El momento héroe',
+    mpLabelMontage: 'Montaje de recuerdos',
+    mpLabelDocumentary: 'Estilo documental',
+    mpLabelSignature: 'Identidad visual',
+    mpLabelContentSeries: 'Serie de contenido',
+    mpLabelReleaseDay: 'Video de lanzamiento',
+
+    copied: '✓ Copiado!',
   },
   ja: {
     startFree: '無料で始める',
@@ -307,6 +474,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: 'デフォルトのエクスポートは720P MP4です。有料プランでは1080P、2K、4Kアップスケーリングが利用可能です。すべてのエクスポートには元のオーディオがミックスされており、16:9、9:16、1:1のアスペクト比オプションがあります。',
     allStylesLink: '← すべてのスタイル',
     breadcrumbGenre: (genre) => `${genre}ミュージックビデオ`,
+
+    gpUploadTitle: 'トラックをアップロード',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · 最大20MB',
+    gpDescribeTitle: 'ビジョンを説明する',
+    gpDescribeSubDefault: 'ワンクリックでAIがブリーフを作成',
+    gpDescribeSubPlatform: 'フォーマット、比率、プラットフォームスタイルを選択',
+    gpDescribeSubOccasion: 'シーンを説明するとAIがストーリーを作成',
+    gpDescribeSubWorkflow: '歌詞、写真、またはテキストプロンプトを貼り付ける',
+    gpReadyTitle: '動画の準備ができました',
+    gpReadySub: 'AIが約90秒で生成・全フォーマット対応',
+    gpGenerating: '生成中…',
+
+    h1Platform: (platform) => `${platform}向けAIミュージックビデオを作成`,
+    h1Occasion: (genre) => `${genre}ミュージックビデオを楽曲から作成`,
+    h1Workflow: (wf) => `${wf}をミュージックビデオに変換`,
+    h1ForWho: (target) => `${target}向けAIミュージックビデオ`,
+    h1Default: (genre) => `${genre}ミュージックビデオをAIで作成`,
+    h1MVType: (genre) => `AIで${genre}を作成`,
+
+    leadPlatform: (platform) => `トラックをアップロードし、スタイルを選ぶだけで、TuneeがあなたのためのAI ${platform}ミュージックビデオを数分で生成します。`,
+    leadOccasion: (genre) => `曲をアップロードし、シーンを説明するだけで、Tuneeが${genre}のシネマティックなミュージックビデオを作成します。カメラ不要、編集スキル不要。`,
+    leadWorkflow: (wf) => `オーディオをアップロードし、${wf}ワークフローを実行すると、Tuneeが数分でプロ品質のミュージックビデオを生成します。`,
+    leadForWho: (target) => `TuneeはAI ${target}に、どんなトラックからでも素早くプロのミュージックビデオを作成する手段を提供します。`,
+    leadDefault: (genre, v0) => `オーディオをアップロードするとTuneeが${genre}スタイルのミュージックビデオを${v0}で生成します。`,
+
+    whoUsesOccasion: 'このビデオを作るのは誰か',
+    whoUsesWorkflow: 'このワークフローを使うのは誰か',
+    whoUsesForWho: '誰のためのものか',
+    whoUsesPlatform: (platform) => `TuneeでAI ${platform}コンテンツを作るのは誰か`,
+
+    personaLabelMusicians: 'ミュージシャンとアーティスト',
+    personaLabelCreators: 'コンテンツクリエイター',
+    personaLabelLabels: 'レーベルとマネージャー',
+    personaLabelBrands: 'ブランドと広告主',
+    personaLabelSolo: 'ソロアーティスト',
+    personaLabelProduction: '制作チーム',
+    personaLabelMarketing: 'マーケティング部門',
+
+    ucTag1: '即時対応', ucTitle1: 'リリース日', ucDesc1: (genre) => `シングルをアップロードし、${genre}の美学を説明するだけで、リリース前にビジュアルが完成。`,
+    ucTag2: '多く投稿、少なく支出', ucTitle2: 'コンテンツカレンダー', ucDesc2: (genre) => `すべてのトラックを${genre}ビジュアルに変換 — 制作予算なしでカタログを構築。`,
+    ucTag3: '全プラットフォーム同時', ucTitle3: 'ソーシャルフォーマット', ucDesc3: (genre) => `TikTok用9:16、YouTube用16:9、Instagram用1:1 — 1回の生成で全フォーマット対応。`,
+
+    mpLabelScene: 'オープニングシーン',
+    mpLabelPerformance: 'パフォーマンスセクション',
+    mpLabelAbstract: 'アブストラクトアウトロ',
+    mpLabelHeroMoment: 'ヒーローの瞬間',
+    mpLabelMontage: 'メモリーモンタージュ',
+    mpLabelDocumentary: 'ドキュメンタリースタイル',
+    mpLabelSignature: 'シグネチャービジュアル',
+    mpLabelContentSeries: 'コンテンツシリーズ',
+    mpLabelReleaseDay: 'リリースデービデオ',
+
+    copied: '✓ コピーしました!',
   },
   ko: {
     startFree: '무료로 시작',
@@ -383,6 +603,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: '기본 내보내기는 720P MP4입니다. 유료 요금제에서 1080P, 2K, 4K 업스케일링을 이용할 수 있습니다. 모든 내보내기에는 원본 오디오가 믹싱되어 있으며, 16:9, 9:16, 1:1 화면 비율 옵션이 있습니다.',
     allStylesLink: '← 모든 스타일',
     breadcrumbGenre: (genre) => `${genre} 뮤직비디오`,
+
+    gpUploadTitle: '트랙 업로드',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · 최대 20MB',
+    gpDescribeTitle: '비전을 설명하세요',
+    gpDescribeSubDefault: '원클릭으로 AI가 브리프 작성',
+    gpDescribeSubPlatform: '포맷, 비율 및 플랫폼 스타일 선택',
+    gpDescribeSubOccasion: '순간을 설명하면 AI가 스토리 작성',
+    gpDescribeSubWorkflow: '가사, 사진 또는 텍스트 프롬프트 붙여넣기',
+    gpReadyTitle: '영상이 준비되었습니다',
+    gpReadySub: 'AI가 약 90초 내 생성 · 모든 포맷 포함',
+    gpGenerating: '생성 중…',
+
+    h1Platform: (platform) => `${platform}용 AI 뮤직비디오 만들기`,
+    h1Occasion: (genre) => `${genre} 뮤직비디오를 내 음악으로 만들기`,
+    h1Workflow: (wf) => `${wf}을 뮤직비디오로 변환`,
+    h1ForWho: (target) => `${target}를 위한 AI 뮤직비디오`,
+    h1Default: (genre) => `AI로 ${genre} 뮤직비디오 만들기`,
+    h1MVType: (genre) => `AI로 ${genre} 만들기`,
+
+    leadPlatform: (platform) => `트랙을 업로드하고 스타일을 선택하면 Tunee가 ${platform}에 완벽하게 포맷된 뮤직비디오를 몇 분 안에 생성합니다.`,
+    leadOccasion: (genre) => `음악을 업로드하고 순간을 설명하면 Tunee가 카메라, 스태프, 편집 기술 없이 ${genre} 뮤직비디오를 만들어 드립니다.`,
+    leadWorkflow: (wf) => `오디오를 업로드하고 ${wf} 워크플로를 실행하면 Tunee가 몇 분 안에 완성된 뮤직비디오를 제작합니다.`,
+    leadForWho: (target) => `Tunee는 ${target}에게 모든 트랙에서 빠르고 전문적인 뮤직비디오를 만드는 방법을 제공합니다.`,
+    leadDefault: (genre, v0) => `오디오를 업로드하면 Tunee가 ${v0}으로 ${genre} 스타일 뮤직비디오를 생성합니다.`,
+
+    whoUsesOccasion: '누가 이런 영상을 만드나요',
+    whoUsesWorkflow: '누가 이 워크플로를 사용하나요',
+    whoUsesForWho: '누구를 위한 것인가요',
+    whoUsesPlatform: (platform) => `누가 Tunee로 ${platform} 콘텐츠를 만드나요`,
+
+    personaLabelMusicians: '뮤지션과 아티스트',
+    personaLabelCreators: '콘텐츠 크리에이터',
+    personaLabelLabels: '레이블과 매니저',
+    personaLabelBrands: '브랜드와 광고주',
+    personaLabelSolo: '솔로 아티스트',
+    personaLabelProduction: '제작 팀',
+    personaLabelMarketing: '마케팅 부서',
+
+    ucTag1: '즉시 제작', ucTitle1: '발매일', ucDesc1: (genre) => `싱글을 업로드하고 ${genre} 비주얼을 설명하면 발매 전에 영상 완성.`,
+    ucTag2: '더 많이 게시, 덜 소비', ucTitle2: '콘텐츠 캘린더', ucDesc2: (genre) => `모든 트랙을 ${genre} 비주얼로 변환 — 제작 예산 없이 카탈로그 구축.`,
+    ucTag3: '모든 플랫폼 동시', ucTitle3: '소셜 포맷', ucDesc3: (genre) => `TikTok용 9:16, YouTube용 16:9, Instagram용 1:1 — 한 번 생성으로 모든 포맷 완성.`,
+
+    mpLabelScene: '오프닝 장면',
+    mpLabelPerformance: '퍼포먼스 섹션',
+    mpLabelAbstract: '추상 아웃트로',
+    mpLabelHeroMoment: '영웅의 순간',
+    mpLabelMontage: '추억 몽타주',
+    mpLabelDocumentary: '다큐멘터리 스타일',
+    mpLabelSignature: '시그니처 비주얼',
+    mpLabelContentSeries: '콘텐츠 시리즈',
+    mpLabelReleaseDay: '발매일 영상',
+
+    copied: '✓ 복사됨!',
   },
   ru: {
     startFree: 'Начать бесплатно',
@@ -459,6 +732,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: 'По умолчанию экспорт в 720P MP4. Платные планы открывают 1080P, 2K и апскейлинг до 4K. Все экспорты включают исходный аудио, с вариантами соотношения сторон 16:9, 9:16 и 1:1.',
     allStylesLink: '← Все стили',
     breadcrumbGenre: (genre) => `Клип ${genre}`,
+
+    gpUploadTitle: 'Загрузите трек',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · до 20 МБ',
+    gpDescribeTitle: 'Опишите свой видеоряд',
+    gpDescribeSubDefault: 'Или одним кликом — ИИ составит бриф',
+    gpDescribeSubPlatform: 'Выберите формат, соотношение и стиль платформы',
+    gpDescribeSubOccasion: 'Опишите момент — ИИ напишет историю',
+    gpDescribeSubWorkflow: 'Вставьте текст, фото или промпт',
+    gpReadyTitle: 'Ваше видео готово',
+    gpReadySub: 'ИИ генерирует за ~90 с · все форматы включены',
+    gpGenerating: 'Генерация…',
+
+    h1Platform: (platform) => `Создавайте AI клипы для ${platform}`,
+    h1Occasion: (genre) => `Создайте ${genre} клип из своей песни`,
+    h1Workflow: (wf) => `Превратите ${wf} в музыкальный клип`,
+    h1ForWho: (target) => `AI клипы для ${target}`,
+    h1Default: (genre) => `Создавайте ${genre} клипы с помощью ИИ`,
+    h1MVType: (genre) => `Создайте ${genre} с помощью ИИ`,
+
+    leadPlatform: (platform) => `Загрузите трек, выберите стиль, и Tunee создаст идеально отформатированный ${platform} клип за минуты.`,
+    leadOccasion: (genre) => `Загрузите песню, опишите момент, и Tunee создаст кинематографичный ${genre} клип — без камеры, команды и навыков монтажа.`,
+    leadWorkflow: (wf) => `Загрузите аудио, запустите рабочий процесс ${wf}, и Tunee создаст готовый клип за минуты.`,
+    leadForWho: (target) => `Tunee даёт ${target} быстрый и профессиональный способ создавать клипы из любого трека.`,
+    leadDefault: (genre, v0) => `Загрузите аудио, и Tunee создаст ${genre}-клипы с ${v0} — без инструментов дизайна и рендеринга.`,
+
+    whoUsesOccasion: 'Кто снимает такие видео',
+    whoUsesWorkflow: 'Кто использует этот рабочий процесс',
+    whoUsesForWho: 'Для кого это создано',
+    whoUsesPlatform: (platform) => `Кто создаёт ${platform} контент с Tunee`,
+
+    personaLabelMusicians: 'Музыканты и артисты',
+    personaLabelCreators: 'Контент-криейторы',
+    personaLabelLabels: 'Лейблы и менеджеры',
+    personaLabelBrands: 'Бренды и рекламодатели',
+    personaLabelSolo: 'Сольные артисты',
+    personaLabelProduction: 'Производственные команды',
+    personaLabelMarketing: 'Отделы маркетинга',
+
+    ucTag1: 'Мгновенный запуск', ucTitle1: 'День релиза', ucDesc1: (genre) => `Загрузите сингл, опишите ${genre}-эстетику и получите визуал до релиза.`,
+    ucTag2: 'Больше контента, меньше затрат', ucTitle2: 'Контент-план', ucDesc2: (genre) => `Превращайте каждый трек в ${genre}-визуал — создавайте каталог без производственного бюджета.`,
+    ucTag3: 'Все платформы сразу', ucTitle3: 'Социальные форматы', ucDesc3: (genre) => `9:16 для TikTok, 16:9 для YouTube, 1:1 для Instagram — один запуск, все форматы.`,
+
+    mpLabelScene: 'Вступительная сцена',
+    mpLabelPerformance: 'Перформанс',
+    mpLabelAbstract: 'Абстрактное аутро',
+    mpLabelHeroMoment: 'Ключевой момент',
+    mpLabelMontage: 'Монтаж воспоминаний',
+    mpLabelDocumentary: 'Документальный стиль',
+    mpLabelSignature: 'Фирменный стиль',
+    mpLabelContentSeries: 'Контент-серия',
+    mpLabelReleaseDay: 'Видео к релизу',
+
+    copied: '✓ Скопировано!',
   },
   fr: {
     startFree: 'Commencer gratuitement',
@@ -535,6 +861,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: "L'export par défaut est en MP4 720P. Les plans payants débloquent le 1080P, 2K et l'upscaling 4K. Tous les exports incluent l'audio original mixé, avec des options de ratio 16:9, 9:16 et 1:1.",
     allStylesLink: '← Tous les styles',
     breadcrumbGenre: (genre) => `Clip ${genre}`,
+
+    gpUploadTitle: 'Téléchargez votre piste',
+    gpUploadSub: "MP3 · WAV · AAC · AIFF · jusqu'à 20 Mo",
+    gpDescribeTitle: 'Décrivez votre vision',
+    gpDescribeSubDefault: "Ou en un clic — l'IA rédige le brief",
+    gpDescribeSubPlatform: 'Choisissez format, ratio et style de plateforme',
+    gpDescribeSubOccasion: "Décrivez le moment — l'IA écrit l'histoire",
+    gpDescribeSubWorkflow: 'Collez des paroles, des photos ou un prompt',
+    gpReadyTitle: 'Votre vidéo est prête',
+    gpReadySub: "L'IA génère en ~90 s · tous les formats inclus",
+    gpGenerating: 'Génération…',
+
+    h1Platform: (platform) => `Créez des clips IA pour ${platform}`,
+    h1Occasion: (genre) => `Créez un clip ${genre} depuis votre chanson`,
+    h1Workflow: (wf) => `Transformez votre ${wf} en clip musical`,
+    h1ForWho: (target) => `Clips IA pour ${target}`,
+    h1Default: (genre) => `Créez des clips ${genre} avec l'IA`,
+    h1MVType: (genre) => `Créez ${genre} avec l'IA`,
+
+    leadPlatform: (platform) => `Téléchargez votre piste, choisissez un style et Tunee génère un clip ${platform} parfaitement formaté — prêt à publier en quelques minutes.`,
+    leadOccasion: (genre) => `Téléchargez votre chanson, décrivez le moment et Tunee crée un clip ${genre} cinématographique — sans caméra, sans équipe, sans compétences en montage.`,
+    leadWorkflow: (wf) => `Téléchargez l'audio, exécutez le flux ${wf} et Tunee produit un clip soigné en quelques minutes.`,
+    leadForWho: (target) => `Tunee offre aux ${target} un moyen rapide et professionnel de créer des clips depuis n'importe quelle piste.`,
+    leadDefault: (genre, v0) => `Téléchargez l'audio et Tunee génère des clips de style ${genre} avec ${v0} — sans outils de design ni logiciel de rendu.`,
+
+    whoUsesOccasion: 'Qui crée ce type de vidéo',
+    whoUsesWorkflow: 'Qui utilise ce flux de travail',
+    whoUsesForWho: 'Pour qui est-ce fait',
+    whoUsesPlatform: (platform) => `Qui crée du contenu ${platform} avec Tunee`,
+
+    personaLabelMusicians: 'Musiciens et artistes',
+    personaLabelCreators: 'Créateurs de contenu',
+    personaLabelLabels: 'Labels et managers',
+    personaLabelBrands: 'Marques et annonceurs',
+    personaLabelSolo: 'Artistes indépendants',
+    personaLabelProduction: 'Équipes de production',
+    personaLabelMarketing: 'Services marketing',
+
+    ucTag1: 'Prêt immédiatement', ucTitle1: 'Jour de sortie', ucDesc1: (genre) => `Téléchargez votre single, décrivez l'esthétique ${genre} et ayez un visuel prêt avant la sortie.`,
+    ucTag2: 'Plus de posts, moins de budget', ucTitle2: 'Calendrier de contenu', ucDesc2: (genre) => `Transformez chaque piste en visuel ${genre} — construisez un catalogue sans budget de production.`,
+    ucTag3: 'Toutes les plateformes en même temps', ucTitle3: 'Formats sociaux', ucDesc3: (genre) => `9:16 pour TikTok, 16:9 pour YouTube, 1:1 pour Instagram — une génération, tous les formats.`,
+
+    mpLabelScene: "Scène d'ouverture",
+    mpLabelPerformance: 'Section performance',
+    mpLabelAbstract: 'Outro abstrait',
+    mpLabelHeroMoment: 'Le moment clé',
+    mpLabelMontage: 'Montage de souvenirs',
+    mpLabelDocumentary: 'Style documentaire',
+    mpLabelSignature: 'Identité visuelle',
+    mpLabelContentSeries: 'Série de contenu',
+    mpLabelReleaseDay: 'Vidéo de sortie',
+
+    copied: '✓ Copié !',
   },
   de: {
     startFree: 'Kostenlos starten',
@@ -611,6 +990,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: 'Der Standard-Export ist 720P MP4. Bezahlpläne schalten 1080P, 2K und 4K-Upscaling frei. Alle Exporte enthalten das Original-Audio eingemischt, mit Optionen für 16:9, 9:16 und 1:1 Seitenverhältnisse.',
     allStylesLink: '← Alle Stile',
     breadcrumbGenre: (genre) => `${genre}-Musikvideo`,
+
+    gpUploadTitle: 'Track hochladen',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · bis 20 MB',
+    gpDescribeTitle: 'Beschreibe deine Vision',
+    gpDescribeSubDefault: 'Oder per Klick — KI erstellt das Briefing',
+    gpDescribeSubPlatform: 'Format, Seitenverhältnis und Plattformstil wählen',
+    gpDescribeSubOccasion: 'Beschreibe den Moment — KI schreibt die Geschichte',
+    gpDescribeSubWorkflow: 'Text, Fotos oder Prompt einfügen',
+    gpReadyTitle: 'Dein Video ist fertig',
+    gpReadySub: 'KI generiert in ~90 Sek. · alle Formate inklusive',
+    gpGenerating: 'Wird generiert…',
+
+    h1Platform: (platform) => `KI-Musikvideos für ${platform} erstellen`,
+    h1Occasion: (genre) => `Ein ${genre} Musikvideo aus deinem Song erstellen`,
+    h1Workflow: (wf) => `${wf} in ein Musikvideo verwandeln`,
+    h1ForWho: (target) => `KI-Musikvideos für ${target}`,
+    h1Default: (genre) => `${genre} Musikvideos mit KI erstellen`,
+    h1MVType: (genre) => `${genre} mit KI erstellen`,
+
+    leadPlatform: (platform) => `Lade deinen Track hoch, wähle einen Stil und Tunee erstellt in Minuten ein perfekt formatiertes ${platform} Musikvideo.`,
+    leadOccasion: (genre) => `Lade dein Lied hoch, beschreibe den Moment und Tunee verwandelt es in ein cineastisches ${genre} Musikvideo — ohne Kamera, Crew oder Schnittkenntisse.`,
+    leadWorkflow: (wf) => `Lade das Audio hoch, starte den ${wf} Workflow und Tunee produziert in Minuten ein fertiges Musikvideo.`,
+    leadForWho: (target) => `Tunee gibt ${target} eine schnelle, professionelle Möglichkeit, Musikvideos aus jedem Track zu erstellen.`,
+    leadDefault: (genre, v0) => `Lade das Audio hoch und Tunee erstellt ${genre}-Musikvideos mit ${v0} — ohne Designtools oder Renderingsoftware.`,
+
+    whoUsesOccasion: 'Wer erstellt solche Videos',
+    whoUsesWorkflow: 'Wer nutzt diesen Workflow',
+    whoUsesForWho: 'Für wen ist das gedacht',
+    whoUsesPlatform: (platform) => `Wer erstellt ${platform}-Inhalte mit Tunee`,
+
+    personaLabelMusicians: 'Musiker und Künstler',
+    personaLabelCreators: 'Content Creator',
+    personaLabelLabels: 'Labels und Manager',
+    personaLabelBrands: 'Marken und Werbetreibende',
+    personaLabelSolo: 'Solokünstler',
+    personaLabelProduction: 'Produktionsteams',
+    personaLabelMarketing: 'Marketingabteilungen',
+
+    ucTag1: 'Sofort einsatzbereit', ucTitle1: 'Veröffentlichungstag', ucDesc1: (genre) => `Single hochladen, ${genre}-Ästhetik beschreiben und vor dem Release einen Clip haben.`,
+    ucTag2: 'Mehr posten, weniger ausgeben', ucTitle2: 'Content-Kalender', ucDesc2: (genre) => `Jeden Track in einen ${genre}-Clip verwandeln — Katalog ohne Produktionsbudget aufbauen.`,
+    ucTag3: 'Alle Plattformen gleichzeitig', ucTitle3: 'Social-Formate', ucDesc3: (genre) => `9:16 für TikTok, 16:9 für YouTube, 1:1 für Instagram — eine Generierung, alle Formate.`,
+
+    mpLabelScene: 'Eröffnungsszene',
+    mpLabelPerformance: 'Performanceabschnitt',
+    mpLabelAbstract: 'Abstraktes Outro',
+    mpLabelHeroMoment: 'Der Held-Moment',
+    mpLabelMontage: 'Erinnerungsmontage',
+    mpLabelDocumentary: 'Dokumentarstil',
+    mpLabelSignature: 'Visuelle Identität',
+    mpLabelContentSeries: 'Content-Serie',
+    mpLabelReleaseDay: 'Release-Video',
+
+    copied: '✓ Kopiert!',
   },
   pt: {
     startFree: 'Começar grátis',
@@ -687,6 +1119,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: 'A exportação padrão é MP4 720P. Os planos pagos desbloqueiam 1080P, 2K e upscaling 4K. Todas as exportações incluem o áudio original mixado, com opções de proporção 16:9, 9:16 e 1:1.',
     allStylesLink: '← Todos os estilos',
     breadcrumbGenre: (genre) => `Videoclipe de ${genre}`,
+
+    gpUploadTitle: 'Faça upload da sua faixa',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · até 20 MB',
+    gpDescribeTitle: 'Descreva sua visão',
+    gpDescribeSubDefault: 'Ou com um clique — a IA escreve o briefing',
+    gpDescribeSubPlatform: 'Escolha formato, proporção e estilo da plataforma',
+    gpDescribeSubOccasion: 'Descreva o momento — a IA escreve a história',
+    gpDescribeSubWorkflow: 'Cole letras, fotos ou um prompt de texto',
+    gpReadyTitle: 'Seu vídeo está pronto',
+    gpReadySub: 'A IA gera em ~90 s · todos os formatos incluídos',
+    gpGenerating: 'Gerando…',
+
+    h1Platform: (platform) => `Crie clipes de IA para ${platform}`,
+    h1Occasion: (genre) => `Crie um clipe ${genre} a partir da sua música`,
+    h1Workflow: (wf) => `Transforme seu ${wf} em um clipe musical`,
+    h1ForWho: (target) => `Clipes de IA para ${target}`,
+    h1Default: (genre) => `Crie clipes ${genre} com IA`,
+    h1MVType: (genre) => `Crie ${genre} com IA`,
+
+    leadPlatform: (platform) => `Faça upload da faixa, escolha um estilo e o Tunee gera um clipe ${platform} perfeitamente formatado em minutos.`,
+    leadOccasion: (genre) => `Faça upload da música, descreva o momento e o Tunee transforma em um clipe ${genre} cinematográfico — sem câmera, sem equipe, sem habilidades de edição.`,
+    leadWorkflow: (wf) => `Faça upload do áudio, execute o fluxo ${wf} e o Tunee produz um clipe profissional em minutos.`,
+    leadForWho: (target) => `O Tunee oferece a ${target} uma forma rápida e profissional de criar clipes musicais de qualquer faixa.`,
+    leadDefault: (genre, v0) => `Faça upload do áudio e o Tunee gera clipes estilo ${genre} com ${v0} — sem ferramentas de design ou software de renderização.`,
+
+    whoUsesOccasion: 'Quem cria este tipo de vídeo',
+    whoUsesWorkflow: 'Quem usa este fluxo de trabalho',
+    whoUsesForWho: 'Para quem é feito',
+    whoUsesPlatform: (platform) => `Quem cria conteúdo ${platform} com o Tunee`,
+
+    personaLabelMusicians: 'Músicos e artistas',
+    personaLabelCreators: 'Criadores de conteúdo',
+    personaLabelLabels: 'Selos e managers',
+    personaLabelBrands: 'Marcas e anunciantes',
+    personaLabelSolo: 'Artistas independentes',
+    personaLabelProduction: 'Equipes de produção',
+    personaLabelMarketing: 'Departamentos de marketing',
+
+    ucTag1: 'Zero tempo de espera', ucTitle1: 'Dia de lançamento', ucDesc1: (genre) => `Faça upload do single, descreva a estética ${genre} e tenha um visual antes do lançamento.`,
+    ucTag2: 'Publique mais, gaste menos', ucTitle2: 'Calendário de conteúdo', ucDesc2: (genre) => `Transforme cada faixa em um visual ${genre} — crie um catálogo sem orçamento de produção.`,
+    ucTag3: 'Todos os formatos de uma vez', ucTitle3: 'Formatos sociais', ucDesc3: (genre) => `9:16 para TikTok, 16:9 para YouTube, 1:1 para Instagram — uma geração, todos os formatos.`,
+
+    mpLabelScene: 'Cena de abertura',
+    mpLabelPerformance: 'Seção de performance',
+    mpLabelAbstract: 'Outro abstrato',
+    mpLabelHeroMoment: 'O momento herói',
+    mpLabelMontage: 'Montagem de memórias',
+    mpLabelDocumentary: 'Estilo documentário',
+    mpLabelSignature: 'Identidade visual',
+    mpLabelContentSeries: 'Série de conteúdo',
+    mpLabelReleaseDay: 'Vídeo de lançamento',
+
+    copied: '✓ Copiado!',
   },
   it: {
     startFree: 'Inizia gratis',
@@ -763,6 +1248,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: "L'export predefinito è MP4 720P. I piani a pagamento sbloccano 1080P, 2K e upscaling 4K. Tutti gli export includono l'audio originale mixato, con opzioni per proporzioni 16:9, 9:16 e 1:1.",
     allStylesLink: '← Tutti gli stili',
     breadcrumbGenre: (genre) => `Video musicale ${genre}`,
+
+    gpUploadTitle: 'Carica la tua traccia',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · fino a 20 MB',
+    gpDescribeTitle: 'Descrivi la tua visione',
+    gpDescribeSubDefault: "O con un clic — l'IA scrive il brief",
+    gpDescribeSubPlatform: 'Scegli formato, proporzioni e stile piattaforma',
+    gpDescribeSubOccasion: "Descrivi il momento — l'IA scrive la storia",
+    gpDescribeSubWorkflow: 'Incolla testi, foto o un prompt',
+    gpReadyTitle: 'Il tuo video è pronto',
+    gpReadySub: "L'IA genera in ~90 s · tutti i formati inclusi",
+    gpGenerating: 'Generazione…',
+
+    h1Platform: (platform) => `Crea video musicali IA per ${platform}`,
+    h1Occasion: (genre) => `Crea un video musicale ${genre} dalla tua canzone`,
+    h1Workflow: (wf) => `Trasforma il tuo ${wf} in un video musicale`,
+    h1ForWho: (target) => `Video musicali IA per ${target}`,
+    h1Default: (genre) => `Crea video musicali ${genre} con l'IA`,
+    h1MVType: (genre) => `Crea ${genre} con l'IA`,
+
+    leadPlatform: (platform) => `Carica la traccia, scegli uno stile e Tunee genera un video musicale ${platform} perfettamente formattato in pochi minuti.`,
+    leadOccasion: (genre) => `Carica la canzone, descrivi il momento e Tunee crea un video musicale ${genre} cinematografico — senza telecamera, troupe o competenze di montaggio.`,
+    leadWorkflow: (wf) => `Carica l'audio, esegui il workflow ${wf} e Tunee produce un video musicale professionale in pochi minuti.`,
+    leadForWho: (target) => `Tunee offre a ${target} un modo rapido e professionale per creare video musicali da qualsiasi traccia.`,
+    leadDefault: (genre, v0) => `Carica l'audio e Tunee genera video musicali in stile ${genre} con ${v0} — senza strumenti di design o software di rendering.`,
+
+    whoUsesOccasion: 'Chi crea questo tipo di video',
+    whoUsesWorkflow: 'Chi usa questo flusso di lavoro',
+    whoUsesForWho: 'Per chi è pensato',
+    whoUsesPlatform: (platform) => `Chi crea contenuti ${platform} con Tunee`,
+
+    personaLabelMusicians: 'Musicisti e artisti',
+    personaLabelCreators: 'Creatori di contenuti',
+    personaLabelLabels: 'Label e manager',
+    personaLabelBrands: 'Brand e inserzionisti',
+    personaLabelSolo: 'Artisti solisti',
+    personaLabelProduction: 'Team di produzione',
+    personaLabelMarketing: 'Reparti marketing',
+
+    ucTag1: 'Zero attesa', ucTitle1: 'Giorno di uscita', ucDesc1: (genre) => `Carica il singolo, descrivi l'estetica ${genre} e avrai un visual prima del lancio.`,
+    ucTag2: 'Più post, meno spesa', ucTitle2: 'Calendario contenuti', ucDesc2: (genre) => `Trasforma ogni traccia in un visual ${genre} — costruisci un catalogo senza budget di produzione.`,
+    ucTag3: 'Tutte le piattaforme in una volta', ucTitle3: 'Formati social', ucDesc3: (genre) => `9:16 per TikTok, 16:9 per YouTube, 1:1 per Instagram — una generazione, tutti i formati.`,
+
+    mpLabelScene: 'Scena iniziale',
+    mpLabelPerformance: 'Sezione performance',
+    mpLabelAbstract: 'Outro astratto',
+    mpLabelHeroMoment: 'Il momento chiave',
+    mpLabelMontage: 'Montaggio di ricordi',
+    mpLabelDocumentary: 'Stile documentario',
+    mpLabelSignature: 'Identità visiva',
+    mpLabelContentSeries: 'Serie di contenuti',
+    mpLabelReleaseDay: 'Video di uscita',
+
+    copied: '✓ Copiato!',
   },
   'zh-HK': {
     startFree: '免費開始',
@@ -839,6 +1377,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: '預設匯出為 720P MP4。付費方案可解鎖 1080P、2K 和 4K 升頻。所有匯出均包含原始音頻混音，提供 16:9、9:16 和 1:1 的畫面比例選項。',
     allStylesLink: '← 所有風格',
     breadcrumbGenre: (genre) => `${genre} 音樂視頻`,
+
+    gpUploadTitle: '上傳你的曲目',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · 最大 20 MB',
+    gpDescribeTitle: '描述你的想法',
+    gpDescribeSubDefault: '或一鍵生成 — AI 撰寫創意說明',
+    gpDescribeSubPlatform: '選擇格式、比例和平台風格',
+    gpDescribeSubOccasion: '描述場景 — AI 撰寫故事',
+    gpDescribeSubWorkflow: '貼上歌詞、照片或文字提示',
+    gpReadyTitle: '你的影片已就緒',
+    gpReadySub: 'AI 約 90 秒完成生成 · 包含所有格式',
+    gpGenerating: '生成中…',
+
+    h1Platform: (platform) => `製作 ${platform} 的 AI 音樂影片`,
+    h1Occasion: (genre) => `將你的歌曲製作成 ${genre} 音樂影片`,
+    h1Workflow: (wf) => `將你的 ${wf} 轉化為音樂影片`,
+    h1ForWho: (target) => `為 ${target} 打造的 AI 音樂影片`,
+    h1Default: (genre) => `用 AI 製作 ${genre} 音樂影片`,
+    h1MVType: (genre) => `用 AI 製作 ${genre}`,
+
+    leadPlatform: (platform) => `上傳曲目，選擇風格，Tunee 即可在幾分鐘內生成完美格式的 ${platform} 音樂影片，隨時可上傳發布。`,
+    leadOccasion: (genre) => `上傳你的歌曲，描述場景，Tunee 將其轉化為電影感的 ${genre} 音樂影片 — 無需攝影機、團隊或剪輯技能。`,
+    leadWorkflow: (wf) => `上傳音頻，執行 ${wf} 工作流，Tunee 即可在幾分鐘內製作出精緻的音樂影片。`,
+    leadForWho: (target) => `Tunee 為 ${target} 提供快速、專業的方式，從任何曲目創作音樂影片。`,
+    leadDefault: (genre, v0) => `上傳音頻，Tunee 即可生成帶有 ${v0} 的 ${genre} 風格音樂影片 — 無需設計工具或渲染軟件。`,
+
+    whoUsesOccasion: '誰會製作這類影片',
+    whoUsesWorkflow: '誰使用這個工作流',
+    whoUsesForWho: '為誰而設',
+    whoUsesPlatform: (platform) => `誰在使用 Tunee 創作 ${platform} 內容`,
+
+    personaLabelMusicians: '音樂人與藝術家',
+    personaLabelCreators: '內容創作者',
+    personaLabelLabels: '唱片公司與經紀人',
+    personaLabelBrands: '品牌與廣告商',
+    personaLabelSolo: '獨立藝術家',
+    personaLabelProduction: '製作團隊',
+    personaLabelMarketing: '市場營銷部門',
+
+    ucTag1: '即時製作', ucTitle1: '發行日', ucDesc1: (genre) => `上傳單曲，描述 ${genre} 美學，在發行前就擁有精彩視覺。`,
+    ucTag2: '多發布，少花費', ucTitle2: '內容日曆', ucDesc2: (genre) => `將每首曲目轉化為 ${genre} 視覺 — 無需製作預算，打造完整作品集。`,
+    ucTag3: '同步覆蓋所有平台', ucTitle3: '社交格式', ucDesc3: (genre) => `TikTok 用 9:16，YouTube 用 16:9，Instagram 用 1:1 — 一次生成，所有格式齊備。`,
+
+    mpLabelScene: '開場場景',
+    mpLabelPerformance: '表演段落',
+    mpLabelAbstract: '抽象結尾',
+    mpLabelHeroMoment: '英雄時刻',
+    mpLabelMontage: '記憶蒙太奇',
+    mpLabelDocumentary: '紀錄片風格',
+    mpLabelSignature: '個性化視覺',
+    mpLabelContentSeries: '系列內容',
+    mpLabelReleaseDay: '發行日影片',
+
+    copied: '✓ 已複製!',
   },
   'zh-CN': {
     startFree: '免费开始',
@@ -915,6 +1506,59 @@ export const T: Record<string, UIStrings> = {
     faqA3: '默认导出为 720P MP4。付费方案可解锁 1080P、2K 和 4K 升频。所有导出均包含原始音频混音，提供 16:9、9:16 和 1:1 的画面比例选项。',
     allStylesLink: '← 所有风格',
     breadcrumbGenre: (genre) => `${genre} 音乐视频`,
+
+    gpUploadTitle: '上传你的曲目',
+    gpUploadSub: 'MP3 · WAV · AAC · AIFF · 最大 20 MB',
+    gpDescribeTitle: '描述你的想法',
+    gpDescribeSubDefault: '或一键生成 — AI 撰写创意说明',
+    gpDescribeSubPlatform: '选择格式、比例和平台风格',
+    gpDescribeSubOccasion: '描述场景 — AI 撰写故事',
+    gpDescribeSubWorkflow: '粘贴歌词、照片或文字提示',
+    gpReadyTitle: '你的视频已就绪',
+    gpReadySub: 'AI 约 90 秒完成生成 · 包含所有格式',
+    gpGenerating: '生成中…',
+
+    h1Platform: (platform) => `制作 ${platform} 的 AI 音乐视频`,
+    h1Occasion: (genre) => `将你的歌曲制作成 ${genre} 音乐视频`,
+    h1Workflow: (wf) => `将你的 ${wf} 转化为音乐视频`,
+    h1ForWho: (target) => `为 ${target} 打造的 AI 音乐视频`,
+    h1Default: (genre) => `用 AI 制作 ${genre} 音乐视频`,
+    h1MVType: (genre) => `用 AI 制作 ${genre}`,
+
+    leadPlatform: (platform) => `上传曲目，选择风格，Tunee 即可在几分钟内生成完美格式的 ${platform} 音乐视频，随时可上传发布。`,
+    leadOccasion: (genre) => `上传你的歌曲，描述场景，Tunee 将其转化为电影感的 ${genre} 音乐视频 — 无需摄影机、团队或剪辑技能。`,
+    leadWorkflow: (wf) => `上传音频，执行 ${wf} 工作流，Tunee 即可在几分钟内制作出精致的音乐视频。`,
+    leadForWho: (target) => `Tunee 为 ${target} 提供快速、专业的方式，从任何曲目创作音乐视频。`,
+    leadDefault: (genre, v0) => `上传音频，Tunee 即可生成带有 ${v0} 的 ${genre} 风格音乐视频 — 无需设计工具或渲染软件。`,
+
+    whoUsesOccasion: '谁会制作这类视频',
+    whoUsesWorkflow: '谁使用这个工作流',
+    whoUsesForWho: '为谁而设',
+    whoUsesPlatform: (platform) => `谁在使用 Tunee 创作 ${platform} 内容`,
+
+    personaLabelMusicians: '音乐人与艺术家',
+    personaLabelCreators: '内容创作者',
+    personaLabelLabels: '唱片公司与经纪人',
+    personaLabelBrands: '品牌与广告商',
+    personaLabelSolo: '独立艺术家',
+    personaLabelProduction: '制作团队',
+    personaLabelMarketing: '市场营销部门',
+
+    ucTag1: '即时制作', ucTitle1: '发行日', ucDesc1: (genre) => `上传单曲，描述 ${genre} 美学，在发行前就拥有精彩视觉。`,
+    ucTag2: '多发布，少花费', ucTitle2: '内容日历', ucDesc2: (genre) => `将每首曲目转化为 ${genre} 视觉 — 无需制作预算，打造完整作品集。`,
+    ucTag3: '同步覆盖所有平台', ucTitle3: '社交格式', ucDesc3: (genre) => `TikTok 用 9:16，YouTube 用 16:9，Instagram 用 1:1 — 一次生成，所有格式齐备。`,
+
+    mpLabelScene: '开场场景',
+    mpLabelPerformance: '表演段落',
+    mpLabelAbstract: '抽象结尾',
+    mpLabelHeroMoment: '英雄时刻',
+    mpLabelMontage: '记忆蒙太奇',
+    mpLabelDocumentary: '纪录片风格',
+    mpLabelSignature: '个性化视觉',
+    mpLabelContentSeries: '系列内容',
+    mpLabelReleaseDay: '发行日视频',
+
+    copied: '✓ 已复制!',
   },
 }
 

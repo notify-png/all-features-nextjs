@@ -1,4 +1,5 @@
 import { MvConfig, MvContent } from '@/lib/mv/data'
+import type { UIStrings } from './i18n'
 
 // djb2 hash — deterministic equivalent to Python hash for simple string picking
 export function strHash(s: string): number {
@@ -9,18 +10,18 @@ export function strHash(s: string): number {
   return h
 }
 
-export function getH1(cfg: MvConfig): string {
+export function getH1(cfg: MvConfig, t: UIStrings): string {
   const g = cfg.genre_name
   const cat = cfg.category || ''
   const slug = cfg.slug
 
   if (cat.includes('Platform') || slug.startsWith('music-video-for-')) {
     const platform = g.replace('For ', '').replace('for ', '')
-    return `Make AI Music Videos for ${platform}`
+    return t.h1Platform(platform)
   }
 
   if (cat.includes('Occasion') || cat.includes('Viral')) {
-    return `Make a ${g} Music Video from Your Song`
+    return t.h1Occasion(g)
   }
 
   if (cat.includes('Workflow')) {
@@ -30,27 +31,27 @@ export function getH1(cfg: MvConfig): string {
       .replace(' Editor', '')
       .replace(' Maker', '')
       .trim()
-    return `Turn Your ${wf} into a Music Video`
+    return t.h1Workflow(wf)
   }
 
   if (cat.includes('For Who')) {
     const target = g.replace('for ', '').replace('For ', '').trim()
-    return `AI Music Videos for ${target}`
+    return t.h1ForWho(target)
   }
 
   if (cat.includes('Visual Style')) {
-    return `Create ${g} Music Videos with AI`
+    return t.h1Default(g)
   }
 
   if (cat.includes('MV Type')) {
-    return `Create ${g} with AI`
+    return t.h1MVType(g)
   }
 
   // Genre default
-  return `Create ${g} Music Videos with AI`
+  return t.h1Default(g)
 }
 
-export function getLead(cfg: MvConfig, content: MvContent): string {
+export function getLead(cfg: MvConfig, content: MvContent, t: UIStrings): string {
   const g = cfg.genre_name
   const cat = cfg.category || ''
   const slug = cfg.slug
@@ -59,11 +60,11 @@ export function getLead(cfg: MvConfig, content: MvContent): string {
 
   if (cat.includes('Platform') || slug.startsWith('music-video-for-')) {
     const platform = g.replace('For ', '').replace('for ', '')
-    return `Upload your track, pick a style, and Tunee generates a perfectly formatted ${platform} music video — ready to upload in minutes.`
+    return t.leadPlatform(platform)
   }
 
   if (cat.includes('Occasion') || cat.includes('Viral')) {
-    return `Upload your song, describe the moment, and Tunee turns it into a cinematic ${g.toLowerCase()} music video — no camera, no crew, no editing skills needed.`
+    return t.leadOccasion(g)
   }
 
   if (cat.includes('Workflow')) {
@@ -73,22 +74,20 @@ export function getLead(cfg: MvConfig, content: MvContent): string {
       .replace(' Editor', '')
       .replace(' Maker', '')
       .trim()
-      .toLowerCase()
-    return `Upload your audio, run the ${wf} workflow, and Tunee produces a polished music video in minutes — no editing experience required.`
+    return t.leadWorkflow(wf)
   }
 
   if (cat.includes('For Who')) {
-    const target = g.replace('for ', '').replace('For ', '').trim().toLowerCase()
-    return `Tunee gives ${target} a fast, professional way to create music videos from any track — upload, prompt, export in minutes.`
+    const target = g.replace('for ', '').replace('For ', '').trim()
+    return t.leadForWho(target)
   }
 
   if (cat.includes('Visual Style')) {
-    return `Upload your audio and Tunee generates ${g.toLowerCase()}-style music videos with ${v0} — no design tools, no rendering software needed.`
+    return t.leadDefault(g, v0)
   }
 
   // Genre / MV Type default
-  const firstSentence = content.direct_answer.split('.')[0]
-  return firstSentence + '.'
+  return t.leadDefault(g, v0)
 }
 
 export function getSiblings(slug: string, allSlugs: string[], n = 3): string[] {
@@ -113,7 +112,7 @@ export interface MediumPrompt {
   text: string
 }
 
-export function getMediumPrompts(cfg: MvConfig): MediumPrompt[] {
+export function getMediumPrompts(cfg: MvConfig, t: UIStrings): MediumPrompt[] {
   const g = cfg.genre_name
   const cat = cfg.category || ''
   const slug = cfg.slug
@@ -134,15 +133,15 @@ export function getMediumPrompts(cfg: MvConfig): MediumPrompt[] {
     const occasion = g.toLowerCase()
     return [
       {
-        label: 'The Hero Moment',
+        label: t.mpLabelHeroMoment,
         text: `Slow-motion close-up of ${v0} as the opening notes play. ${cap(m0)} warmth, soft depth of field. Camera drifts forward to reveal the full ${occasion} scene. First chorus: cut to ${v1}, emotion visible in every detail. No dialogue — pure feeling.`,
       },
       {
-        label: 'Memory Montage',
+        label: t.mpLabelMontage,
         text: `Quick-cut montage of ${occasion} details — ${v0}, ${v1}, ${v2} — each cut on the beat. ${cap(m1)} color grade throughout. Bridge slows to a single held frame, then the final chorus opens wide with ${m0} energy. Ends on a quiet freeze as the last note fades.`,
       },
       {
-        label: 'Candid Documentary Style',
+        label: t.mpLabelDocumentary,
         text: `Fly-on-the-wall: unscripted ${occasion} moments in natural light. ${v0} captured candidly, intercutting with close-ups of ${v1}. ${cap(m2)} tone — warm, real, not staged. Wide establishing shot bookends the piece.`,
       },
     ]
@@ -174,15 +173,15 @@ export function getMediumPrompts(cfg: MvConfig): MediumPrompt[] {
     const target = g.replace('for ', '').replace('For ', '')
     return [
       {
-        label: 'Signature Visual Identity',
+        label: t.mpLabelSignature,
         text: `A look built for ${target}: ${v0} as the recurring motif, ${m0} color science consistent throughout. Tight close-ups alternate with wides. Every frame is a potential still for press or social.`,
       },
       {
-        label: 'Content Series Starter',
+        label: t.mpLabelContentSeries,
         text: `Episode one of a visual series for ${target}. Opens with ${v0} animation, into the main section. ${cap(m0)} transitions to ${m2} by the outro — leaving room for escalation. Same grammar repeated: ${v1} texture, ${m1} palette.`,
       },
       {
-        label: 'Release Day Video',
+        label: t.mpLabelReleaseDay,
         text: `Launch energy: ${v0} builds from static to kinetic over 30 seconds. Three-act arc — intro (${m0}), build (${m1}), payoff (${m2}). Track title appears top-frame at 0 s, minimal lower-third. ${v2} throughout.`,
       },
     ]
@@ -226,15 +225,15 @@ export function getMediumPrompts(cfg: MvConfig): MediumPrompt[] {
 
   return [
     {
-      label: 'Opening Scene',
+      label: t.mpLabelScene,
       text: `${demo}. Wide establishing shot, slow push-in. ${cap(m0)} lighting — golden edges, deep contrast centre. ${cap(v0)} fills the background. Beat drop triggers a hard cut to a new angle.`,
     },
     {
-      label: 'Performance Section',
+      label: t.mpLabelPerformance,
       text: perf[h % 3],
     },
     {
-      label: 'Abstract Outro',
+      label: t.mpLabelAbstract,
       text: abstract[(h + 1) % 3],
     },
   ]
@@ -245,7 +244,7 @@ export interface PersonaBlock {
   desc: string
 }
 
-export function getPersonaBlocks(cfg: MvConfig, content: MvContent): PersonaBlock[] {
+export function getPersonaBlocks(cfg: MvConfig, content: MvContent, t: UIStrings): PersonaBlock[] {
   const cat = cfg.category || ''
   const slug = cfg.slug
   const g = cfg.genre_name
@@ -291,27 +290,27 @@ export function getPersonaBlocks(cfg: MvConfig, content: MvContent): PersonaBloc
     const target = g.replace('for ', '').replace('For ', '')
     labels = [target, 'Music Producers & Collaborators', 'Managers & Labels', 'Brands Partnering with Music']
   } else if (isWf) {
-    labels = ['Solo Artists', 'Content Creators', 'Production Teams', 'Marketing Departments']
+    labels = [t.personaLabelSolo, t.personaLabelCreators, t.personaLabelProduction, t.personaLabelMarketing]
   } else {
-    labels = ['Musicians & Artists', 'Content Creators', 'Labels & Managers', 'Brands & Advertisers']
+    labels = [t.personaLabelMusicians, t.personaLabelCreators, t.personaLabelLabels, t.personaLabelBrands]
   }
 
   const descs = [p.musicians, p.creators, p.labels, p.brands]
   return labels.map((label, i) => ({ label, desc: descs[i] }))
 }
 
-export function getWhoUsesTitle(cfg: MvConfig): string {
+export function getWhoUsesTitle(cfg: MvConfig, t: UIStrings): string {
   const cat = cfg.category || ''
   const slug = cfg.slug
   const g = cfg.genre_name
 
-  if (cat.includes('Occasion') || cat.includes('Viral')) return 'Who makes this kind of video'
+  if (cat.includes('Occasion') || cat.includes('Viral')) return t.whoUsesOccasion
   if (cat.includes('Platform') || slug.startsWith('music-video-for-')) {
-    return `Who creates ${g.replace('For ', '').replace('for ', '')} content with Tunee`
+    return t.whoUsesPlatform(g.replace('For ', '').replace('for ', ''))
   }
-  if (cat.includes('For Who')) return 'Who is this made for'
-  if (cat.includes('Workflow')) return 'Who uses this workflow'
-  return 'Who creates with Tunee'
+  if (cat.includes('For Who')) return t.whoUsesForWho
+  if (cat.includes('Workflow')) return t.whoUsesWorkflow
+  return t.whoUsesTitle
 }
 
 export interface UseCase {
@@ -320,7 +319,7 @@ export interface UseCase {
   desc: string
 }
 
-export function getUseCases(cfg: MvConfig): UseCase[] {
+export function getUseCases(cfg: MvConfig, t: UIStrings): UseCase[] {
   const g = cfg.genre_name
   const cat = cfg.category || ''
   const slug = cfg.slug
@@ -370,9 +369,9 @@ export function getUseCases(cfg: MvConfig): UseCase[] {
 
   // Genre / Visual Style / MV Type
   return [
-    { tag: 'Zero lead time', title: 'Release day', desc: `Upload your single, describe the ${glo} aesthetic, and have a visual ready before the drop. Under 2 minutes to first draft.` },
-    { tag: 'Post more, spend less', title: 'Content calendar', desc: `Turn every track into a ${glo} visual — build a consistent catalog without a production budget or a creative team.` },
-    { tag: 'All platforms at once', title: 'Social formats', desc: `Export 9:16 for TikTok and Reels, 16:9 for YouTube, 1:1 for Instagram — one generation, every format covered automatically.` },
+    { tag: t.ucTag1, title: t.ucTitle1, desc: t.ucDesc1(glo) },
+    { tag: t.ucTag2, title: t.ucTitle2, desc: t.ucDesc2(glo) },
+    { tag: t.ucTag3, title: t.ucTitle3, desc: t.ucDesc3(glo) },
   ]
 }
 

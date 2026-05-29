@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
@@ -13,6 +13,20 @@ import tuneeLogo from "@/assets/tunee-logo.png";
 const LOCALE_PREFIXES = new Set<string>(
   LOCALES.filter((l) => l !== DEFAULT_LOCALE),
 );
+
+const LANGUAGE_OPTIONS: { key: string; name: string }[] = [
+  { key: "en", name: "English" },
+  { key: "ja", name: "日本語" },
+  { key: "es", name: "Español" },
+  { key: "pt", name: "Português" },
+  { key: "fr", name: "Français" },
+  { key: "de", name: "Deutsch" },
+  { key: "it", name: "Italiano" },
+  { key: "ko", name: "한국어" },
+  { key: "ru", name: "Русский" },
+  { key: "zh-CN", name: "简体中文" },
+  { key: "zh-HK", name: "繁體中文" },
+];
 
 const localizePath = (href: string, locale: string) => {
   if (!href.startsWith("/") || locale === DEFAULT_LOCALE) return href;
@@ -30,10 +44,18 @@ const stripLocale = (pathname: string) => {
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
+  const [langOpen, setLangOpen] = useState(false);
   const pathname = usePathname();
   const locale = useLocale();
   const t = useTranslations("Nav");
   const canonicalPath = stripLocale(pathname);
+  const langRef = useRef<HTMLDivElement>(null);
+
+  // Build URL for a target locale, preserving current canonical path
+  const getLangUrl = (langKey: string) =>
+    langKey === DEFAULT_LOCALE
+      ? canonicalPath || "/"
+      : `/${langKey}${canonicalPath === "/" ? "" : canonicalPath}`;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -42,6 +64,16 @@ const Header = () => {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
+
+  useEffect(() => {
+    const onClickOutside = (e: MouseEvent) => {
+      if (langRef.current && !langRef.current.contains(e.target as Node)) {
+        setLangOpen(false);
+      }
+    };
+    if (langOpen) document.addEventListener("mousedown", onClickOutside);
+    return () => document.removeEventListener("mousedown", onClickOutside);
+  }, [langOpen]);
 
   return (
     <header
@@ -122,22 +154,128 @@ const Header = () => {
             })}
           </nav>
 
-          {/* Right side placeholder */}
-          <div className="hidden lg:flex items-center gap-3" />
+          {/* Right side: language switcher (desktop) */}
+          <div className="hidden lg:flex items-center gap-3">
+            <div className="relative" ref={langRef}>
+              <button
+                onClick={() => setLangOpen(!langOpen)}
+                className="p-2 rounded-md text-foreground hover:bg-foreground/10 transition-colors"
+                aria-label="Change language"
+              >
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <circle cx="12" cy="12" r="10" />
+                  <line x1="2" y1="12" x2="22" y2="12" />
+                  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+                </svg>
+              </button>
+              <AnimatePresence>
+                {langOpen && (
+                  <motion.div
+                    initial={{ opacity: 0, y: -6 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0, y: -6 }}
+                    transition={{ duration: 0.15 }}
+                    className="absolute right-0 top-full mt-2 w-44 bg-background border border-border rounded-xl shadow-lg z-50 overflow-hidden py-1"
+                  >
+                    {LANGUAGE_OPTIONS.map((lang) => (
+                      <a
+                        key={lang.key}
+                        href={getLangUrl(lang.key)}
+                        className={`block px-4 py-2 text-sm transition-colors ${
+                          lang.key === locale
+                            ? "text-foreground bg-foreground/5 font-medium"
+                            : "text-foreground/80 hover:bg-foreground/10 hover:text-foreground"
+                        }`}
+                        onClick={() => setLangOpen(false)}
+                      >
+                        {lang.name}
+                      </a>
+                    ))}
+                  </motion.div>
+                )}
+              </AnimatePresence>
+            </div>
+          </div>
 
-          {/* Mobile Menu Button */}
-          <motion.button
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            className="lg:hidden p-2 rounded-lg hover:bg-foreground/10 transition-colors"
-            onClick={() => setIsOpen(!isOpen)}
-          >
-            {isOpen ? (
-              <X className="w-5 h-5 text-foreground" />
-            ) : (
-              <Menu className="w-5 h-5 text-foreground" />
-            )}
-          </motion.button>
+          {/* Mobile right side: lang button + menu button */}
+          <div className="lg:hidden flex items-center gap-1">
+            <div className="relative" ref={langOpen && !isOpen ? langRef : undefined}>
+              <button
+                onClick={() => {
+                  setLangOpen(!langOpen);
+                  setIsOpen(false);
+                }}
+                className="p-2 rounded-md text-foreground hover:bg-foreground/10 transition-colors"
+                aria-label="Change language"
+              >
+                <svg
+                  width="18"
+                  height="18"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <circle cx="12" cy="12" r="10" />
+                  <line x1="2" y1="12" x2="22" y2="12" />
+                  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+                </svg>
+              </button>
+              <AnimatePresence>
+                {langOpen && !isOpen && (
+                  <motion.div
+                    initial={{ opacity: 0, y: -6 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0, y: -6 }}
+                    transition={{ duration: 0.15 }}
+                    className="absolute right-0 top-full mt-2 w-44 bg-background border border-border rounded-xl shadow-lg z-50 overflow-hidden py-1"
+                  >
+                    {LANGUAGE_OPTIONS.map((lang) => (
+                      <a
+                        key={lang.key}
+                        href={getLangUrl(lang.key)}
+                        className={`block px-4 py-2 text-sm transition-colors ${
+                          lang.key === locale
+                            ? "text-foreground bg-foreground/5 font-medium"
+                            : "text-foreground/80 hover:bg-foreground/10 hover:text-foreground"
+                        }`}
+                        onClick={() => setLangOpen(false)}
+                      >
+                        {lang.name}
+                      </a>
+                    ))}
+                  </motion.div>
+                )}
+              </AnimatePresence>
+            </div>
+
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              className="p-2 rounded-lg hover:bg-foreground/10 transition-colors"
+              onClick={() => {
+                setIsOpen(!isOpen);
+                setLangOpen(false);
+              }}
+            >
+              {isOpen ? (
+                <X className="w-5 h-5 text-foreground" />
+              ) : (
+                <Menu className="w-5 h-5 text-foreground" />
+              )}
+            </motion.button>
+          </div>
         </div>
       </div>
 
@@ -183,6 +321,29 @@ const Header = () => {
                   </motion.div>
                 );
               })}
+
+              {/* Language list in mobile menu */}
+              <div className="mt-4 pt-4 border-t border-border">
+                <p className="px-4 mb-2 text-xs font-semibold text-muted-foreground/70 uppercase tracking-[0.12em]">
+                  Language
+                </p>
+                <div className="grid grid-cols-2 gap-1">
+                  {LANGUAGE_OPTIONS.map((lang) => (
+                    <a
+                      key={lang.key}
+                      href={getLangUrl(lang.key)}
+                      className={`block py-2 px-4 text-sm rounded-lg transition-colors font-poppins ${
+                        lang.key === locale
+                          ? "text-foreground bg-foreground/5 font-medium"
+                          : "text-muted-foreground hover:text-foreground hover:bg-secondary"
+                      }`}
+                      onClick={() => setIsOpen(false)}
+                    >
+                      {lang.name}
+                    </a>
+                  ))}
+                </div>
+              </div>
             </nav>
           </motion.div>
         )}
