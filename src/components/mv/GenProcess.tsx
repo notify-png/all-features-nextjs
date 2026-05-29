@@ -4,10 +4,13 @@ import { UIStrings } from '@/lib/mv/i18n'
 interface Props {
   cfg: MvConfig
   t: UIStrings
+  /** Pre-computed, category-aware badge text. Falls back to "{g} Music Video" if not provided. */
+  badge?: string
 }
 
-export default function GenProcess({ cfg, t }: Props) {
+export default function GenProcess({ cfg, t, badge }: Props) {
   const { genre_name: g, color_accent: accent, demo_prompt: demo, category: cat, slug } = cfg
+  const badgeText = badge ?? `${g} ${t.gpBadgeMvSuffix}`
 
   const preview = demo.length > 58 ? demo.slice(0, 58) + '…' : demo
 
@@ -50,7 +53,7 @@ export default function GenProcess({ cfg, t }: Props) {
             color: accent,
           }}
         >
-          {g} Music Video
+          {badgeText}
         </div>
 
         <div className="gp-step">

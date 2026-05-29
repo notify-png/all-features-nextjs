@@ -1,6 +1,8 @@
 export const LOCALES = ['en', 'es', 'ja', 'ko', 'ru', 'fr', 'de', 'pt', 'it', 'zh-HK', 'zh-CN'] as const
 export type Locale = typeof LOCALES[number]
 
+const cap = (s: string): string => s ? s.charAt(0).toUpperCase() + s.slice(1) : s
+
 export interface UIStrings {
   startFree: string
   generateVideo: string
@@ -93,7 +95,8 @@ export interface UIStrings {
   // H1 templates
   h1Platform: (platform: string) => string
   h1Occasion: (genre: string) => string
-  h1Workflow: (wf: string) => string
+  // h1Workflow takes the full genre_name (e.g. "Free MV Generator") and produces e.g. "Free MV Generator — Your AI Music Video Producer"
+  h1Workflow: (g: string) => string
   h1ForWho: (target: string) => string
   h1Default: (genre: string) => string
   h1MVType: (genre: string) => string
@@ -101,7 +104,8 @@ export interface UIStrings {
   // Lead templates
   leadPlatform: (platform: string) => string
   leadOccasion: (genre: string) => string
-  leadWorkflow: (wf: string) => string
+  // leadWorkflow is a fixed SaaS LP lead — no per-workflow injection
+  leadWorkflow: () => string
   leadForWho: (target: string) => string
   leadDefault: (genre: string, v0: string) => string
 
@@ -135,6 +139,32 @@ export interface UIStrings {
   mpLabelSignature: string
   mpLabelContentSeries: string
   mpLabelReleaseDay: string
+
+  // ── NEW: Workflow page rewrite (positions Tunee as "AI Music Video Producer") ──
+  // Medium prompt labels & body for Workflow category
+  mpLabelSceneByScene: string
+  mpLabelAbstractAudioReactive: string
+  mpLabelThreeChapter: string
+  mpTextSceneByScene: (v0: string, m0: string) => string
+  mpTextAbstractAudioReactive: (v0: string, v1: string, v2: string, m0: string, m1: string, m2: string) => string
+  mpTextThreeChapter: (v0: string, v1: string, v2: string, m0: string, m1: string, m2: string) => string
+  // Workflow use cases (no genre injection — keep clean SaaS LP copy)
+  ucTagWf1: string; ucTitleWf1: string; ucDescWf1: string
+  ucTagWf2: string; ucTitleWf2: string; ucDescWf2: string
+  ucTagWf3: string; ucTitleWf3: string; ucDescWf3: string
+  // GenProcess card badge — category-aware
+  gpBadgeWorkflow: string
+  gpBadgeMvSuffix: string
+
+  // ── "How Tunee builds your music video" section (non-genre pages only) ──
+  // Maps to public/workflow/{MV_mode,choose_clips,three thenes,visual assets,storyboard}
+  producerEyebrow: string
+  producerH2: string
+  producerSub: string
+  producerStep1Title: string; producerStep1Desc: string
+  producerStep2Title: string; producerStep2Desc: string
+  producerStep3Title: string; producerStep3Desc: string
+  producerStep4Title: string; producerStep4Desc: string
 
   // Copy button feedback
   copied: string
@@ -230,19 +260,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `Make AI Music Videos for ${platform}`,
     h1Occasion: (genre) => `Make a ${genre} Music Video from Your Song`,
-    h1Workflow: (wf) => `Turn Your ${wf} into a Music Video`,
+    h1Workflow: (g) => `${g} — Your AI Music Video Producer`,
     h1ForWho: (target) => `AI Music Videos for ${target}`,
     h1Default: (genre) => `Create ${genre} Music Videos with AI`,
     h1MVType: (genre) => `Create ${genre} with AI`,
 
     leadPlatform: (platform) => `Upload your track, pick a style, and Tunee generates a perfectly formatted ${platform} music video — ready to upload in minutes.`,
     leadOccasion: (genre) => `Upload your song, describe the moment, and Tunee turns it into a cinematic ${genre} music video — no camera, no crew, no editing skills needed.`,
-    leadWorkflow: (wf) => `Upload your audio, run the ${wf} workflow, and Tunee produces a polished music video in minutes — no editing experience required.`,
+    leadWorkflow: () => `Tunee is your AI music video producer. Upload a track and our AI handles characters, scenes, storyboard, and shots — every format ready to share in minutes.`,
     leadForWho: (target) => `Tunee gives ${target} a fast, professional way to create music videos from any track.`,
     leadDefault: (genre, v0) => `Upload your audio and Tunee generates ${genre}-style music videos with ${v0} — no design tools, no rendering software needed.`,
 
     whoUsesOccasion: 'Who makes this kind of video',
-    whoUsesWorkflow: 'Who uses this workflow',
+    whoUsesWorkflow: "Who Tunee's AI music video producer helps",
     whoUsesForWho: 'Who is this made for',
     whoUsesPlatform: (platform) => `Who creates ${platform} content with Tunee`,
 
@@ -267,6 +297,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: 'Signature Visual Identity',
     mpLabelContentSeries: 'Content Series Starter',
     mpLabelReleaseDay: 'Release Day Video',
+
+    mpLabelSceneByScene: 'Scene-by-Scene Storyboard',
+    mpLabelAbstractAudioReactive: 'Abstract Audio-Reactive Visuals',
+    mpLabelThreeChapter: 'Three-Chapter Music Video Narrative',
+    mpTextSceneByScene: (v0, m0) => `Each lyric phrase becomes its own scene — Tunee's AI matches every line to a ${v0} visual. ${cap(m0)} transitions between stanzas (dissolve on the verse, hard cut on the chorus). The final frame mirrors the opening. Built for a tight, narrative-driven music video.`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `No literal imagery — pure ${v0} and ${v1} responding to audio energy. Low frequencies shift ${m0} color; highs trigger ${v2} particle bursts. The arc mirrors emotion: ${m1} in the verse, explosive ${m2} at the drop, calm in the outro. Perfect when the song should carry the visual.`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `Three chapters synced to song structure. Ch.1 (${m0}): ${v0} wide shot, slow push-in. Ch.2 (${m1}): medium close-ups of ${v1}, energy rising. Ch.3 (${m2}): full-frame ${v2}, maximum intensity. Title card at 0 s, clean credit at the end — release-ready in one render.`,
+    ucTagWf1: 'Fast turnaround', ucTitleWf1: 'Demo in minutes', ucDescWf1: 'Go from rough idea to shareable music video in under 5 minutes. Show your sound before the release drops, no editor required.',
+    ucTagWf2: 'Full catalog', ucTitleWf2: 'Album rollout', ucDescWf2: 'Produce one music video per track in the same visual style. Tunee handles every track consistently — no re-briefing, no creative team on payroll.',
+    ucTagWf3: 'Pitch-ready', ucTitleWf3: 'Send to labels & brands', ucDescWf3: 'Create a moving demo for labels, sync agents, or brand partners. A music video lands harder than a SoundCloud link.',
+
+    gpBadgeWorkflow: 'AI Music Video · Workflow',
+    gpBadgeMvSuffix: 'Music Video',
+
+    producerEyebrow: 'How It Builds',
+    producerH2: "How Tunee's AI music video producer works",
+    producerSub: 'Four AI agents collaborate to turn your audio into a finished music video — you pick the moment and the direction, Tunee handles the rest.',
+    producerStep1Title: 'Pick the moment',
+    producerStep1Desc: 'Drop your track and trim the segment that becomes your video. Tunee detects energy, key, and tempo automatically.',
+    producerStep2Title: 'Choose a creative direction',
+    producerStep2Desc: "Browse three AI-suggested visual treatments. Pick a vibe, lock the aspect ratio, and you're set.",
+    producerStep3Title: 'AI generates the visuals',
+    producerStep3Desc: "Tunee's Visual Designer Nova spins up the cast and the scenes that fit your sound.",
+    producerStep4Title: 'AI builds the storyboard',
+    producerStep4Desc: 'Story Director Sage cuts the timeline shot-by-shot and renders every format you need.',
 
     copied: '✓ Copied!',
   },
@@ -359,19 +414,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `Crea videos musicales con IA para ${platform}`,
     h1Occasion: (genre) => `Crea un video musical de ${genre} desde tu canción`,
-    h1Workflow: (wf) => `Convierte tu ${wf} en un video musical`,
+    h1Workflow: (g) => `${g} — Tu productor de videos musicales con IA`,
     h1ForWho: (target) => `Videos musicales con IA para ${target}`,
     h1Default: (genre) => `Crea videos musicales de ${genre} con IA`,
     h1MVType: (genre) => `Crea ${genre} con IA`,
 
     leadPlatform: (platform) => `Sube tu pista, elige un estilo y Tunee genera un video musical de ${platform} perfectamente formateado — listo para subir en minutos.`,
     leadOccasion: (genre) => `Sube tu canción, describe el momento y Tunee lo convierte en un cinematográfico video musical de ${genre} — sin cámara, sin equipo ni habilidades de edición.`,
-    leadWorkflow: (wf) => `Sube tu audio, ejecuta el flujo de trabajo de ${wf} y Tunee produce un video musical pulido en minutos — sin experiencia de edición.`,
+    leadWorkflow: () => `Tunee es tu productor de videos musicales con IA. Sube una pista y nuestra IA se encarga de personajes, escenas, storyboard y tomas — todos los formatos listos en minutos.`,
     leadForWho: (target) => `Tunee ofrece a ${target} una forma rápida y profesional de crear videos musicales desde cualquier pista.`,
     leadDefault: (genre, v0) => `Sube tu audio y Tunee genera videos musicales de ${genre} con ${v0} — sin herramientas de diseño ni software de renderizado.`,
 
     whoUsesOccasion: 'Quién hace este tipo de video',
-    whoUsesWorkflow: 'Quién usa este flujo de trabajo',
+    whoUsesWorkflow: 'A quién ayuda el productor de videos musicales de Tunee',
     whoUsesForWho: 'Para quién está hecho',
     whoUsesPlatform: (platform) => `Quién crea contenido de ${platform} con Tunee`,
 
@@ -396,6 +451,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: 'Identidad visual',
     mpLabelContentSeries: 'Serie de contenido',
     mpLabelReleaseDay: 'Video de lanzamiento',
+
+    mpLabelSceneByScene: 'Storyboard escena por escena',
+    mpLabelAbstractAudioReactive: 'Visuales abstractos reactivos al audio',
+    mpLabelThreeChapter: 'Narrativa en tres capítulos',
+    mpTextSceneByScene: (v0, m0) => `Cada frase de la letra se convierte en su propia escena — la IA de Tunee asocia cada línea con un visual ${v0}. Transiciones ${m0} entre estrofas (disolvencia en el verso, corte directo en el estribillo). El último plano refleja el primero. Diseñado para un videoclip narrativo y ajustado.`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `Sin imágenes literales — puro ${v0} y ${v1} respondiendo a la energía del audio. Las frecuencias bajas cambian el color ${m0}; las altas activan ráfagas de ${v2}. El arco refleja la emoción: ${m1} en el verso, ${m2} explosivo en el drop, calma en el outro. Perfecto cuando el sonido debe llevar lo visual.`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `Tres capítulos sincronizados con la estructura del tema. Cap.1 (${m0}): plano abierto de ${v0}, push-in lento. Cap.2 (${m1}): primeros planos medios de ${v1}, energía en aumento. Cap.3 (${m2}): ${v2} en pantalla completa, intensidad máxima. Título a 0 s, créditos limpios al final — listo para publicar en un solo render.`,
+    ucTagWf1: 'Entrega rápida', ucTitleWf1: 'Demo en minutos', ucDescWf1: 'De idea aproximada a videoclip compartible en menos de 5 minutos. Muestra tu sonido antes del lanzamiento, sin editor.',
+    ucTagWf2: 'Catálogo completo', ucTitleWf2: 'Lanzamiento de álbum', ucDescWf2: 'Produce un videoclip por canción con el mismo estilo visual. Tunee mantiene la coherencia en todo — sin re-briefings, sin equipo creativo en nómina.',
+    ucTagWf3: 'Listo para pitchear', ucTitleWf3: 'Envíalo a sellos y marcas', ucDescWf3: 'Crea una demo en movimiento para sellos, sync agents o socios de marca. Un videoclip llega más fuerte que un enlace de SoundCloud.',
+
+    gpBadgeWorkflow: 'Video musical IA · Workflow',
+    gpBadgeMvSuffix: 'Video musical',
+
+    producerEyebrow: 'Cómo lo construye',
+    producerH2: 'Cómo funciona el productor de videos musicales con IA de Tunee',
+    producerSub: 'Cuatro agentes de IA colaboran para convertir tu audio en un videoclip terminado — tú eliges el momento y la dirección, Tunee hace el resto.',
+    producerStep1Title: 'Elige el momento',
+    producerStep1Desc: 'Sube tu pista, recorta el segmento que será tu video. Tunee detecta energía, tonalidad y tempo automáticamente.',
+    producerStep2Title: 'Elige una dirección creativa',
+    producerStep2Desc: 'Explora tres tratamientos visuales sugeridos por IA. Elige un vibe, fija la proporción y listo.',
+    producerStep3Title: 'La IA genera los visuales',
+    producerStep3Desc: 'La diseñadora visual Nova de Tunee crea el reparto y las escenas que encajan con tu sonido.',
+    producerStep4Title: 'La IA construye el storyboard',
+    producerStep4Desc: 'El director de historia Sage corta la línea de tiempo plano a plano y renderiza todos los formatos que necesitas.',
 
     copied: '✓ Copiado!',
   },
@@ -488,19 +568,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `${platform}向けAIミュージックビデオを作成`,
     h1Occasion: (genre) => `${genre}ミュージックビデオを楽曲から作成`,
-    h1Workflow: (wf) => `${wf}をミュージックビデオに変換`,
+    h1Workflow: (g) => `${g} — あなたの AI ミュージックビデオプロデューサー`,
     h1ForWho: (target) => `${target}向けAIミュージックビデオ`,
     h1Default: (genre) => `${genre}ミュージックビデオをAIで作成`,
     h1MVType: (genre) => `AIで${genre}を作成`,
 
     leadPlatform: (platform) => `トラックをアップロードし、スタイルを選ぶだけで、TuneeがあなたのためのAI ${platform}ミュージックビデオを数分で生成します。`,
     leadOccasion: (genre) => `曲をアップロードし、シーンを説明するだけで、Tuneeが${genre}のシネマティックなミュージックビデオを作成します。カメラ不要、編集スキル不要。`,
-    leadWorkflow: (wf) => `オーディオをアップロードし、${wf}ワークフローを実行すると、Tuneeが数分でプロ品質のミュージックビデオを生成します。`,
+    leadWorkflow: () => `Tunee はあなたの AI ミュージックビデオプロデューサー。トラックをアップロードすれば、AI がキャラクター、シーン、絵コンテ、ショットを処理 — 数分ですべてのフォーマットを共有可能に。`,
     leadForWho: (target) => `TuneeはAI ${target}に、どんなトラックからでも素早くプロのミュージックビデオを作成する手段を提供します。`,
     leadDefault: (genre, v0) => `オーディオをアップロードするとTuneeが${genre}スタイルのミュージックビデオを${v0}で生成します。`,
 
     whoUsesOccasion: 'このビデオを作るのは誰か',
-    whoUsesWorkflow: 'このワークフローを使うのは誰か',
+    whoUsesWorkflow: 'Tunee の AI ミュージックビデオプロデューサーが助ける人',
     whoUsesForWho: '誰のためのものか',
     whoUsesPlatform: (platform) => `TuneeでAI ${platform}コンテンツを作るのは誰か`,
 
@@ -525,6 +605,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: 'シグネチャービジュアル',
     mpLabelContentSeries: 'コンテンツシリーズ',
     mpLabelReleaseDay: 'リリースデービデオ',
+
+    mpLabelSceneByScene: 'シーン・バイ・シーンの絵コンテ',
+    mpLabelAbstractAudioReactive: 'オーディオに反応する抽象ビジュアル',
+    mpLabelThreeChapter: '3 章構成のミュージックビデオ',
+    mpTextSceneByScene: (v0, m0) => `各歌詞フレーズが独自のシーンに — Tunee の AI が各行を ${v0} のビジュアルにマッチング。スタンザ間で ${m0} なトランジション（バースでディゾルブ、コーラスでハードカット）。最終フレームは冒頭をミラー。ナラティブに引き締まったミュージックビデオのために設計。`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `具象的なイメージなし — オーディオエネルギーに反応する純粋な ${v0} と ${v1}。低音は ${m0} の色を変化させ、高音は ${v2} のパーティクルバーストをトリガー。アークは感情を反映：バースで ${m1}、ドロップで爆発的な ${m2}、アウトロで静寂。サウンドがビジュアルを引っ張るべき時に最適。`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `楽曲構造に同期した 3 章構成。Ch.1（${m0}）: ${v0} のワイドショット、スローなプッシュイン。Ch.2（${m1}）: ${v1} のミディアムクローズアップ、エネルギー上昇。Ch.3（${m2}）: フルフレームの ${v2}、最大強度。0 秒にタイトル、最後にクリーンなクレジット — 1 回のレンダーでリリース可能。`,
+    ucTagWf1: '高速ターンアラウンド', ucTitleWf1: '数分でデモ', ucDescWf1: 'ラフなアイデアから共有可能なミュージックビデオまで 5 分以内。リリース前にサウンドを見せる、編集者不要。',
+    ucTagWf2: 'カタログ全体', ucTitleWf2: 'アルバムロールアウト', ucDescWf2: '同じビジュアルスタイルで 1 トラック 1 ミュージックビデオを制作。Tunee が一貫して全トラックを処理 — 再ブリーフ不要、クリエイティブチーム不要。',
+    ucTagWf3: 'ピッチ準備完了', ucTitleWf3: 'レーベル＆ブランドに送る', ucDescWf3: 'レーベル、シンクエージェント、ブランドパートナー向けに動くデモを作成。ミュージックビデオは SoundCloud リンクより強く届く。',
+
+    gpBadgeWorkflow: 'AI ミュージックビデオ · ワークフロー',
+    gpBadgeMvSuffix: 'ミュージックビデオ',
+
+    producerEyebrow: '構築の仕組み',
+    producerH2: 'Tunee の AI ミュージックビデオプロデューサーの仕組み',
+    producerSub: '4 つの AI エージェントが連携して、あなたのオーディオを完成したミュージックビデオに変換 — あなたが瞬間と方向を選び、残りは Tunee が処理。',
+    producerStep1Title: '瞬間を選ぶ',
+    producerStep1Desc: 'トラックをドロップし、ビデオになるセグメントをトリミング。Tunee がエネルギー、キー、テンポを自動検出。',
+    producerStep2Title: 'クリエイティブの方向性を選ぶ',
+    producerStep2Desc: 'AI が提案する 3 つのビジュアル処理を閲覧。雰囲気を選び、アスペクト比を固定すれば準備完了。',
+    producerStep3Title: 'AI がビジュアルを生成',
+    producerStep3Desc: 'Tunee のビジュアルデザイナー Nova が、サウンドに合うキャストとシーンを生み出します。',
+    producerStep4Title: 'AI がストーリーボードを構築',
+    producerStep4Desc: 'ストーリーディレクター Sage がショットごとにタイムラインをカットし、必要なすべてのフォーマットをレンダリング。',
 
     copied: '✓ コピーしました!',
   },
@@ -617,19 +722,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `${platform}용 AI 뮤직비디오 만들기`,
     h1Occasion: (genre) => `${genre} 뮤직비디오를 내 음악으로 만들기`,
-    h1Workflow: (wf) => `${wf}을 뮤직비디오로 변환`,
+    h1Workflow: (g) => `${g} — 당신의 AI 뮤직비디오 프로듀서`,
     h1ForWho: (target) => `${target}를 위한 AI 뮤직비디오`,
     h1Default: (genre) => `AI로 ${genre} 뮤직비디오 만들기`,
     h1MVType: (genre) => `AI로 ${genre} 만들기`,
 
     leadPlatform: (platform) => `트랙을 업로드하고 스타일을 선택하면 Tunee가 ${platform}에 완벽하게 포맷된 뮤직비디오를 몇 분 안에 생성합니다.`,
     leadOccasion: (genre) => `음악을 업로드하고 순간을 설명하면 Tunee가 카메라, 스태프, 편집 기술 없이 ${genre} 뮤직비디오를 만들어 드립니다.`,
-    leadWorkflow: (wf) => `오디오를 업로드하고 ${wf} 워크플로를 실행하면 Tunee가 몇 분 안에 완성된 뮤직비디오를 제작합니다.`,
+    leadWorkflow: () => `Tunee는 당신의 AI 뮤직비디오 프로듀서입니다. 트랙을 업로드하면 AI가 캐릭터, 씬, 스토리보드, 샷을 처리합니다 — 모든 포맷이 몇 분 안에 공유 준비됨.`,
     leadForWho: (target) => `Tunee는 ${target}에게 모든 트랙에서 빠르고 전문적인 뮤직비디오를 만드는 방법을 제공합니다.`,
     leadDefault: (genre, v0) => `오디오를 업로드하면 Tunee가 ${v0}으로 ${genre} 스타일 뮤직비디오를 생성합니다.`,
 
     whoUsesOccasion: '누가 이런 영상을 만드나요',
-    whoUsesWorkflow: '누가 이 워크플로를 사용하나요',
+    whoUsesWorkflow: 'Tunee의 AI 뮤직비디오 프로듀서가 돕는 사람들',
     whoUsesForWho: '누구를 위한 것인가요',
     whoUsesPlatform: (platform) => `누가 Tunee로 ${platform} 콘텐츠를 만드나요`,
 
@@ -654,6 +759,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: '시그니처 비주얼',
     mpLabelContentSeries: '콘텐츠 시리즈',
     mpLabelReleaseDay: '발매일 영상',
+
+    mpLabelSceneByScene: '씬 바이 씬 스토리보드',
+    mpLabelAbstractAudioReactive: '오디오 반응형 추상 비주얼',
+    mpLabelThreeChapter: '3장 구성 뮤직비디오 내러티브',
+    mpTextSceneByScene: (v0, m0) => `각 가사 구절이 자체 씬으로 — Tunee의 AI가 모든 라인을 ${v0} 비주얼에 매칭. 스탠자 사이의 ${m0} 트랜지션 (버스에서 디졸브, 코러스에서 하드 컷). 마지막 프레임은 오프닝을 미러링. 내러티브 중심의 단단한 뮤직비디오를 위해 설계.`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `문자 그대로의 이미지 없음 — 오디오 에너지에 반응하는 순수한 ${v0}와 ${v1}. 저주파는 ${m0} 색을 변화시키고, 고주파는 ${v2} 파티클 버스트를 트리거. 아크는 감정을 미러링: 버스에서 ${m1}, 드롭에서 폭발적인 ${m2}, 아웃트로에서 차분함. 사운드가 비주얼을 이끌어야 할 때 완벽.`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `곡 구조에 동기화된 3개 장. Ch.1 (${m0}): ${v0} 와이드 샷, 슬로 푸시-인. Ch.2 (${m1}): ${v1}의 미디엄 클로즈업, 에너지 상승. Ch.3 (${m2}): 풀 프레임 ${v2}, 최대 강도. 0초에 타이틀 카드, 끝에 클린 크레딧 — 한 번의 렌더로 릴리스 준비.`,
+    ucTagWf1: '빠른 작업', ucTitleWf1: '몇 분 만에 데모', ucDescWf1: '대략적인 아이디어에서 공유 가능한 뮤직비디오까지 5분 이내. 발매 전에 사운드 보여주기, 에디터 불필요.',
+    ucTagWf2: '전체 카탈로그', ucTitleWf2: '앨범 출시', ucDescWf2: '동일한 비주얼 스타일로 트랙당 뮤직비디오 한 개 제작. Tunee가 모든 트랙을 일관되게 처리 — 재브리핑 불필요, 크리에이티브 팀 불필요.',
+    ucTagWf3: '피칭 준비 완료', ucTitleWf3: '레이블 & 브랜드에 전송', ucDescWf3: '레이블, 싱크 에이전트 또는 브랜드 파트너를 위한 움직이는 데모 제작. 뮤직비디오는 SoundCloud 링크보다 강하게 도착.',
+
+    gpBadgeWorkflow: 'AI 뮤직비디오 · 워크플로',
+    gpBadgeMvSuffix: '뮤직비디오',
+
+    producerEyebrow: '구축 방식',
+    producerH2: 'Tunee의 AI 뮤직비디오 프로듀서가 작동하는 방식',
+    producerSub: '4명의 AI 에이전트가 협력하여 오디오를 완성된 뮤직비디오로 — 당신은 순간과 방향을 선택하고, 나머지는 Tunee가 처리합니다.',
+    producerStep1Title: '순간 선택',
+    producerStep1Desc: '트랙을 드롭하고 비디오가 될 세그먼트를 트림. Tunee가 에너지, 키, 템포를 자동 감지.',
+    producerStep2Title: '크리에이티브 방향 선택',
+    producerStep2Desc: 'AI가 제안한 3가지 비주얼 트리트먼트를 둘러보세요. 분위기를 선택하고 화면비를 잠그면 준비 완료.',
+    producerStep3Title: 'AI가 비주얼 생성',
+    producerStep3Desc: 'Tunee의 비주얼 디자이너 Nova가 사운드에 맞는 캐스트와 씬을 만들어냅니다.',
+    producerStep4Title: 'AI가 스토리보드 구축',
+    producerStep4Desc: '스토리 디렉터 Sage가 타임라인을 샷별로 컷하고 필요한 모든 포맷을 렌더링.',
 
     copied: '✓ 복사됨!',
   },
@@ -746,19 +876,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `Создавайте AI клипы для ${platform}`,
     h1Occasion: (genre) => `Создайте ${genre} клип из своей песни`,
-    h1Workflow: (wf) => `Превратите ${wf} в музыкальный клип`,
+    h1Workflow: (g) => `${g} — ваш AI продюсер клипов`,
     h1ForWho: (target) => `AI клипы для ${target}`,
     h1Default: (genre) => `Создавайте ${genre} клипы с помощью ИИ`,
     h1MVType: (genre) => `Создайте ${genre} с помощью ИИ`,
 
     leadPlatform: (platform) => `Загрузите трек, выберите стиль, и Tunee создаст идеально отформатированный ${platform} клип за минуты.`,
     leadOccasion: (genre) => `Загрузите песню, опишите момент, и Tunee создаст кинематографичный ${genre} клип — без камеры, команды и навыков монтажа.`,
-    leadWorkflow: (wf) => `Загрузите аудио, запустите рабочий процесс ${wf}, и Tunee создаст готовый клип за минуты.`,
+    leadWorkflow: () => `Tunee — ваш AI продюсер клипов. Загрузите трек, и наш ИИ возьмёт на себя персонажей, сцены, раскадровку и съёмки — все форматы готовы к публикации за минуты.`,
     leadForWho: (target) => `Tunee даёт ${target} быстрый и профессиональный способ создавать клипы из любого трека.`,
     leadDefault: (genre, v0) => `Загрузите аудио, и Tunee создаст ${genre}-клипы с ${v0} — без инструментов дизайна и рендеринга.`,
 
     whoUsesOccasion: 'Кто снимает такие видео',
-    whoUsesWorkflow: 'Кто использует этот рабочий процесс',
+    whoUsesWorkflow: 'Кому помогает AI продюсер клипов от Tunee',
     whoUsesForWho: 'Для кого это создано',
     whoUsesPlatform: (platform) => `Кто создаёт ${platform} контент с Tunee`,
 
@@ -783,6 +913,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: 'Фирменный стиль',
     mpLabelContentSeries: 'Контент-серия',
     mpLabelReleaseDay: 'Видео к релизу',
+
+    mpLabelSceneByScene: 'Раскадровка сцена за сценой',
+    mpLabelAbstractAudioReactive: 'Абстрактные визуалы, реагирующие на звук',
+    mpLabelThreeChapter: 'Клип в трёх главах',
+    mpTextSceneByScene: (v0, m0) => `Каждая лирическая фраза становится отдельной сценой — ИИ Tunee сопоставляет каждую строку с визуалом ${v0}. ${cap(m0)} переходы между куплетами (растворение на куплете, жёсткий монтаж на припеве). Финальный кадр зеркалит вступление. Создано для плотного, нарративного клипа.`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `Без буквальных образов — чистый ${v0} и ${v1} реагирующие на энергию звука. Низкие частоты сдвигают цвет ${m0}; высокие — запускают всплески ${v2}. Дуга отражает эмоцию: ${m1} в куплете, взрывной ${m2} на дропе, спокойствие в аутро. Идеально, когда звук должен вести визуал.`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `Три главы, синхронизированные со структурой трека. Гл.1 (${m0}): широкий план ${v0}, медленный наезд. Гл.2 (${m1}): средние крупные планы ${v1}, энергия растёт. Гл.3 (${m2}): полный кадр ${v2}, максимальная интенсивность. Титул на 0 с, чистые титры в конце — готово к релизу за один рендер.`,
+    ucTagWf1: 'Быстрая работа', ucTitleWf1: 'Демо за минуты', ucDescWf1: 'От грубой идеи до готового к публикации клипа меньше чем за 5 минут. Покажите звук до релиза, монтажёр не нужен.',
+    ucTagWf2: 'Полный каталог', ucTitleWf2: 'Запуск альбома', ucDescWf2: 'Один клип на каждый трек в едином визуальном стиле. Tunee стабильно ведёт весь каталог — без повторных брифов и креативной команды в штате.',
+    ucTagWf3: 'Готово к питчингу', ucTitleWf3: 'Отправьте лейблам и брендам', ucDescWf3: 'Создайте движущуюся демку для лейблов, sync-агентов или бренд-партнёров. Клип бьёт сильнее, чем ссылка на SoundCloud.',
+
+    gpBadgeWorkflow: 'AI клип · Workflow',
+    gpBadgeMvSuffix: 'Клип',
+
+    producerEyebrow: 'Как это собирается',
+    producerH2: 'Как работает AI продюсер клипов от Tunee',
+    producerSub: 'Четыре AI-агента сотрудничают, превращая ваш звук в готовый клип — вы выбираете момент и направление, Tunee делает остальное.',
+    producerStep1Title: 'Выберите момент',
+    producerStep1Desc: 'Загрузите трек, обрежьте отрезок, который станет видео. Tunee автоматически определит энергию, тональность и темп.',
+    producerStep2Title: 'Выберите творческое направление',
+    producerStep2Desc: 'Просмотрите три варианта визуального оформления, предложенных ИИ. Выберите настроение, зафиксируйте соотношение сторон — готово.',
+    producerStep3Title: 'ИИ генерирует визуал',
+    producerStep3Desc: 'Визуальный дизайнер Tunee Nova создаёт каст и сцены, которые подходят вашему звуку.',
+    producerStep4Title: 'ИИ собирает раскадровку',
+    producerStep4Desc: 'Сторителлер Sage режет таймлайн кадр за кадром и рендерит все нужные форматы.',
 
     copied: '✓ Скопировано!',
   },
@@ -875,19 +1030,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `Créez des clips IA pour ${platform}`,
     h1Occasion: (genre) => `Créez un clip ${genre} depuis votre chanson`,
-    h1Workflow: (wf) => `Transformez votre ${wf} en clip musical`,
+    h1Workflow: (g) => `${g} — votre producteur de clips IA`,
     h1ForWho: (target) => `Clips IA pour ${target}`,
     h1Default: (genre) => `Créez des clips ${genre} avec l'IA`,
     h1MVType: (genre) => `Créez ${genre} avec l'IA`,
 
     leadPlatform: (platform) => `Téléchargez votre piste, choisissez un style et Tunee génère un clip ${platform} parfaitement formaté — prêt à publier en quelques minutes.`,
     leadOccasion: (genre) => `Téléchargez votre chanson, décrivez le moment et Tunee crée un clip ${genre} cinématographique — sans caméra, sans équipe, sans compétences en montage.`,
-    leadWorkflow: (wf) => `Téléchargez l'audio, exécutez le flux ${wf} et Tunee produit un clip soigné en quelques minutes.`,
+    leadWorkflow: () => `Tunee est votre producteur de clips IA. Importez une piste et notre IA s'occupe des personnages, des scènes, du storyboard et des plans — tous les formats prêts à partager en minutes.`,
     leadForWho: (target) => `Tunee offre aux ${target} un moyen rapide et professionnel de créer des clips depuis n'importe quelle piste.`,
     leadDefault: (genre, v0) => `Téléchargez l'audio et Tunee génère des clips de style ${genre} avec ${v0} — sans outils de design ni logiciel de rendu.`,
 
     whoUsesOccasion: 'Qui crée ce type de vidéo',
-    whoUsesWorkflow: 'Qui utilise ce flux de travail',
+    whoUsesWorkflow: "À qui s'adresse le producteur de clips IA de Tunee",
     whoUsesForWho: 'Pour qui est-ce fait',
     whoUsesPlatform: (platform) => `Qui crée du contenu ${platform} avec Tunee`,
 
@@ -912,6 +1067,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: 'Identité visuelle',
     mpLabelContentSeries: 'Série de contenu',
     mpLabelReleaseDay: 'Vidéo de sortie',
+
+    mpLabelSceneByScene: 'Storyboard scène par scène',
+    mpLabelAbstractAudioReactive: 'Visuels abstraits réactifs au son',
+    mpLabelThreeChapter: 'Clip narratif en trois chapitres',
+    mpTextSceneByScene: (v0, m0) => `Chaque phrase de paroles devient sa propre scène — l'IA de Tunee associe chaque ligne à un visuel ${v0}. Transitions ${m0} entre les strophes (fondu sur le couplet, cut net sur le refrain). Le dernier plan reflète le premier. Conçu pour un clip narratif et serré.`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `Aucune imagerie littérale — pur ${v0} et ${v1} répondant à l'énergie audio. Les basses fréquences décalent la couleur ${m0} ; les aiguës déclenchent des bursts de ${v2}. L'arc reflète l'émotion : ${m1} dans le couplet, ${m2} explosif au drop, calme dans l'outro. Parfait quand le son doit porter le visuel.`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `Trois chapitres synchronisés avec la structure du morceau. Ch.1 (${m0}) : plan large de ${v0}, push-in lent. Ch.2 (${m1}) : gros plans moyens de ${v1}, énergie qui monte. Ch.3 (${m2}) : ${v2} plein cadre, intensité max. Titre à 0 s, générique propre à la fin — prêt à sortir en un rendu.`,
+    ucTagWf1: 'Livraison rapide', ucTitleWf1: 'Démo en minutes', ucDescWf1: "De l'idée brute au clip partageable en moins de 5 minutes. Montrez votre son avant la sortie, sans monteur.",
+    ucTagWf2: 'Catalogue complet', ucTitleWf2: "Sortie d'album", ucDescWf2: 'Produisez un clip par titre dans le même style visuel. Tunee garde la cohérence sur tout — sans rebriefing, sans équipe créative à plein temps.',
+    ucTagWf3: 'Prêt à pitcher', ucTitleWf3: 'Envoyez aux labels & marques', ucDescWf3: "Créez une démo animée pour les labels, sync agents ou partenaires marques. Un clip pèse plus qu'un lien SoundCloud.",
+
+    gpBadgeWorkflow: 'Clip IA · Workflow',
+    gpBadgeMvSuffix: 'Clip',
+
+    producerEyebrow: 'Comment ça se construit',
+    producerH2: 'Comment fonctionne le producteur de clips IA de Tunee',
+    producerSub: "Quatre agents IA collaborent pour transformer votre audio en clip fini — vous choisissez le moment et la direction, Tunee s'occupe du reste.",
+    producerStep1Title: 'Choisissez le moment',
+    producerStep1Desc: "Déposez votre piste, coupez le segment qui deviendra votre vidéo. Tunee détecte l'énergie, la tonalité et le tempo automatiquement.",
+    producerStep2Title: 'Choisissez une direction créative',
+    producerStep2Desc: "Parcourez trois traitements visuels suggérés par l'IA. Choisissez un vibe, fixez le ratio et c'est prêt.",
+    producerStep3Title: "L'IA génère les visuels",
+    producerStep3Desc: "La Visual Designer Nova de Tunee crée le casting et les scènes qui collent à votre son.",
+    producerStep4Title: "L'IA construit le storyboard",
+    producerStep4Desc: 'Le Story Director Sage coupe la timeline plan par plan et rend tous les formats dont vous avez besoin.',
 
     copied: '✓ Copié !',
   },
@@ -1004,19 +1184,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `KI-Musikvideos für ${platform} erstellen`,
     h1Occasion: (genre) => `Ein ${genre} Musikvideo aus deinem Song erstellen`,
-    h1Workflow: (wf) => `${wf} in ein Musikvideo verwandeln`,
+    h1Workflow: (g) => `${g} — dein AI Music-Video-Producer`,
     h1ForWho: (target) => `KI-Musikvideos für ${target}`,
     h1Default: (genre) => `${genre} Musikvideos mit KI erstellen`,
     h1MVType: (genre) => `${genre} mit KI erstellen`,
 
     leadPlatform: (platform) => `Lade deinen Track hoch, wähle einen Stil und Tunee erstellt in Minuten ein perfekt formatiertes ${platform} Musikvideo.`,
     leadOccasion: (genre) => `Lade dein Lied hoch, beschreibe den Moment und Tunee verwandelt es in ein cineastisches ${genre} Musikvideo — ohne Kamera, Crew oder Schnittkenntisse.`,
-    leadWorkflow: (wf) => `Lade das Audio hoch, starte den ${wf} Workflow und Tunee produziert in Minuten ein fertiges Musikvideo.`,
+    leadWorkflow: () => `Tunee ist dein AI Music-Video-Producer. Lade einen Track hoch und unsere KI übernimmt Charaktere, Szenen, Storyboard und Shots — alle Formate in Minuten teilbar.`,
     leadForWho: (target) => `Tunee gibt ${target} eine schnelle, professionelle Möglichkeit, Musikvideos aus jedem Track zu erstellen.`,
     leadDefault: (genre, v0) => `Lade das Audio hoch und Tunee erstellt ${genre}-Musikvideos mit ${v0} — ohne Designtools oder Renderingsoftware.`,
 
     whoUsesOccasion: 'Wer erstellt solche Videos',
-    whoUsesWorkflow: 'Wer nutzt diesen Workflow',
+    whoUsesWorkflow: 'Wem Tunees AI Music-Video-Producer hilft',
     whoUsesForWho: 'Für wen ist das gedacht',
     whoUsesPlatform: (platform) => `Wer erstellt ${platform}-Inhalte mit Tunee`,
 
@@ -1041,6 +1221,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: 'Visuelle Identität',
     mpLabelContentSeries: 'Content-Serie',
     mpLabelReleaseDay: 'Release-Video',
+
+    mpLabelSceneByScene: 'Szene-für-Szene-Storyboard',
+    mpLabelAbstractAudioReactive: 'Abstrakte audio-reaktive Visuals',
+    mpLabelThreeChapter: 'Drei-Kapitel-Musikvideo',
+    mpTextSceneByScene: (v0, m0) => `Jede Lyric-Phrase wird zu einer eigenen Szene — Tunees KI matcht jede Zeile mit einem ${v0} Visual. ${cap(m0)} Übergänge zwischen Strophen (Auflösung im Vers, harter Schnitt im Refrain). Der Schlussframe spiegelt den Anfang. Für ein erzählerisch dichtes Musikvideo gemacht.`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `Keine wörtliche Bildsprache — pures ${v0} und ${v1}, das auf Audio-Energie reagiert. Tiefe Frequenzen verschieben die Farbe ${m0}; Höhen lösen ${v2}-Partikelbursts aus. Der Bogen spiegelt Emotion: ${m1} in der Strophe, explosives ${m2} im Drop, Ruhe im Outro. Perfekt, wenn der Sound das Visuelle tragen soll.`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `Drei Kapitel synchronisiert zur Songstruktur. Kap.1 (${m0}): ${v0}-Weitwinkel, langsamer Push-in. Kap.2 (${m1}): mittlere Close-ups von ${v1}, Energie steigt. Kap.3 (${m2}): vollformatiges ${v2}, maximale Intensität. Titelkarte bei 0 s, sauberes Credit am Ende — release-fertig in einem Render.`,
+    ucTagWf1: 'Schneller Turnaround', ucTitleWf1: 'Demo in Minuten', ucDescWf1: 'Von der groben Idee zum teilbaren Musikvideo in unter 5 Minuten. Zeig deinen Sound vor dem Release, ohne Editor.',
+    ucTagWf2: 'Voller Katalog', ucTitleWf2: 'Album-Rollout', ucDescWf2: 'Ein Musikvideo pro Track im gleichen Visualstil. Tunee hält jeden Track konsistent — kein Re-Briefing, kein festes Kreativteam.',
+    ucTagWf3: 'Pitch-bereit', ucTitleWf3: 'An Labels & Marken senden', ucDescWf3: 'Erstelle eine bewegte Demo für Labels, Sync-Agents oder Markenpartner. Ein Musikvideo landet stärker als ein SoundCloud-Link.',
+
+    gpBadgeWorkflow: 'KI-Musikvideo · Workflow',
+    gpBadgeMvSuffix: 'Musikvideo',
+
+    producerEyebrow: 'So entsteht es',
+    producerH2: 'Wie Tunees AI Music-Video-Producer arbeitet',
+    producerSub: 'Vier KI-Agenten arbeiten zusammen, um deine Audio in ein fertiges Musikvideo zu verwandeln — du wählst Moment und Richtung, Tunee macht den Rest.',
+    producerStep1Title: 'Wähle den Moment',
+    producerStep1Desc: 'Lade deinen Track hoch, schneide das Segment für dein Video. Tunee erkennt Energie, Tonart und Tempo automatisch.',
+    producerStep2Title: 'Wähle eine kreative Richtung',
+    producerStep2Desc: 'Durchstöbere drei KI-vorgeschlagene Visual-Treatments. Wähle eine Stimmung, lege das Seitenverhältnis fest — fertig.',
+    producerStep3Title: 'KI generiert die Visuals',
+    producerStep3Desc: 'Tunees Visual Designer Nova erstellt Cast und Szenen, die zu deinem Sound passen.',
+    producerStep4Title: 'KI baut das Storyboard',
+    producerStep4Desc: 'Story Director Sage schneidet die Timeline Shot für Shot und rendert jedes Format, das du brauchst.',
 
     copied: '✓ Kopiert!',
   },
@@ -1133,19 +1338,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `Crie clipes de IA para ${platform}`,
     h1Occasion: (genre) => `Crie um clipe ${genre} a partir da sua música`,
-    h1Workflow: (wf) => `Transforme seu ${wf} em um clipe musical`,
+    h1Workflow: (g) => `${g} — Seu produtor de videoclipes com IA`,
     h1ForWho: (target) => `Clipes de IA para ${target}`,
     h1Default: (genre) => `Crie clipes ${genre} com IA`,
     h1MVType: (genre) => `Crie ${genre} com IA`,
 
     leadPlatform: (platform) => `Faça upload da faixa, escolha um estilo e o Tunee gera um clipe ${platform} perfeitamente formatado em minutos.`,
     leadOccasion: (genre) => `Faça upload da música, descreva o momento e o Tunee transforma em um clipe ${genre} cinematográfico — sem câmera, sem equipe, sem habilidades de edição.`,
-    leadWorkflow: (wf) => `Faça upload do áudio, execute o fluxo ${wf} e o Tunee produz um clipe profissional em minutos.`,
+    leadWorkflow: () => `O Tunee é o seu produtor de videoclipes com IA. Faça upload de uma faixa e nossa IA cuida de personagens, cenas, storyboard e tomadas — todos os formatos prontos para compartilhar em minutos.`,
     leadForWho: (target) => `O Tunee oferece a ${target} uma forma rápida e profissional de criar clipes musicais de qualquer faixa.`,
     leadDefault: (genre, v0) => `Faça upload do áudio e o Tunee gera clipes estilo ${genre} com ${v0} — sem ferramentas de design ou software de renderização.`,
 
     whoUsesOccasion: 'Quem cria este tipo de vídeo',
-    whoUsesWorkflow: 'Quem usa este fluxo de trabalho',
+    whoUsesWorkflow: 'Quem o produtor de videoclipes com IA da Tunee ajuda',
     whoUsesForWho: 'Para quem é feito',
     whoUsesPlatform: (platform) => `Quem cria conteúdo ${platform} com o Tunee`,
 
@@ -1170,6 +1375,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: 'Identidade visual',
     mpLabelContentSeries: 'Série de conteúdo',
     mpLabelReleaseDay: 'Vídeo de lançamento',
+
+    mpLabelSceneByScene: 'Storyboard cena a cena',
+    mpLabelAbstractAudioReactive: 'Visuais abstratos reativos ao áudio',
+    mpLabelThreeChapter: 'Videoclipe em três capítulos',
+    mpTextSceneByScene: (v0, m0) => `Cada frase da letra vira sua própria cena — a IA da Tunee combina cada linha com um visual ${v0}. Transições ${m0} entre estrofes (dissolução no verso, corte seco no refrão). O frame final espelha a abertura. Feito para um videoclipe narrativo e enxuto.`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `Sem imagens literais — puro ${v0} e ${v1} respondendo à energia do áudio. Baixas frequências mudam a cor ${m0}; altas disparam rajadas de ${v2}. O arco espelha a emoção: ${m1} no verso, ${m2} explosivo no drop, calma no outro. Perfeito quando o som deve carregar o visual.`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `Três capítulos sincronizados à estrutura da música. Cap.1 (${m0}): plano aberto de ${v0}, push-in lento. Cap.2 (${m1}): closes médios de ${v1}, energia subindo. Cap.3 (${m2}): ${v2} em tela cheia, intensidade máxima. Cartela de título a 0 s, crédito limpo no fim — pronto para lançar em uma renderização.`,
+    ucTagWf1: 'Entrega rápida', ucTitleWf1: 'Demo em minutos', ucDescWf1: 'Da ideia bruta ao videoclipe compartilhável em menos de 5 minutos. Mostre seu som antes do lançamento, sem editor.',
+    ucTagWf2: 'Catálogo completo', ucTitleWf2: 'Lançamento de álbum', ucDescWf2: 'Produza um videoclipe por faixa no mesmo estilo visual. O Tunee mantém todas as faixas consistentes — sem rebriefings, sem equipe criativa fixa.',
+    ucTagWf3: 'Pronto para pitch', ucTitleWf3: 'Envie a selos e marcas', ucDescWf3: 'Crie uma demo em movimento para selos, sync agents ou parceiros de marca. Um videoclipe chega mais forte que um link de SoundCloud.',
+
+    gpBadgeWorkflow: 'Videoclipe IA · Workflow',
+    gpBadgeMvSuffix: 'Videoclipe',
+
+    producerEyebrow: 'Como ele constrói',
+    producerH2: 'Como funciona o produtor de videoclipes com IA da Tunee',
+    producerSub: 'Quatro agentes de IA colaboram para transformar seu áudio em um videoclipe pronto — você escolhe o momento e a direção, o Tunee faz o resto.',
+    producerStep1Title: 'Escolha o momento',
+    producerStep1Desc: 'Solte sua faixa, corte o segmento que será seu vídeo. O Tunee detecta energia, tom e tempo automaticamente.',
+    producerStep2Title: 'Escolha uma direção criativa',
+    producerStep2Desc: 'Explore três tratamentos visuais sugeridos pela IA. Escolha um vibe, fixe a proporção e pronto.',
+    producerStep3Title: 'A IA gera os visuais',
+    producerStep3Desc: 'A Visual Designer Nova da Tunee cria o elenco e as cenas que combinam com o seu som.',
+    producerStep4Title: 'A IA constrói o storyboard',
+    producerStep4Desc: 'O Story Director Sage corta a timeline shot a shot e renderiza todos os formatos que você precisa.',
 
     copied: '✓ Copiado!',
   },
@@ -1262,19 +1492,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `Crea video musicali IA per ${platform}`,
     h1Occasion: (genre) => `Crea un video musicale ${genre} dalla tua canzone`,
-    h1Workflow: (wf) => `Trasforma il tuo ${wf} in un video musicale`,
+    h1Workflow: (g) => `${g} — Il tuo producer di video musicali AI`,
     h1ForWho: (target) => `Video musicali IA per ${target}`,
     h1Default: (genre) => `Crea video musicali ${genre} con l'IA`,
     h1MVType: (genre) => `Crea ${genre} con l'IA`,
 
     leadPlatform: (platform) => `Carica la traccia, scegli uno stile e Tunee genera un video musicale ${platform} perfettamente formattato in pochi minuti.`,
     leadOccasion: (genre) => `Carica la canzone, descrivi il momento e Tunee crea un video musicale ${genre} cinematografico — senza telecamera, troupe o competenze di montaggio.`,
-    leadWorkflow: (wf) => `Carica l'audio, esegui il workflow ${wf} e Tunee produce un video musicale professionale in pochi minuti.`,
+    leadWorkflow: () => `Tunee è il tuo producer di video musicali AI. Carica una traccia e la nostra AI gestisce personaggi, scene, storyboard e riprese — tutti i formati pronti da condividere in pochi minuti.`,
     leadForWho: (target) => `Tunee offre a ${target} un modo rapido e professionale per creare video musicali da qualsiasi traccia.`,
     leadDefault: (genre, v0) => `Carica l'audio e Tunee genera video musicali in stile ${genre} con ${v0} — senza strumenti di design o software di rendering.`,
 
     whoUsesOccasion: 'Chi crea questo tipo di video',
-    whoUsesWorkflow: 'Chi usa questo flusso di lavoro',
+    whoUsesWorkflow: 'Chi aiuta il producer di video musicali AI di Tunee',
     whoUsesForWho: 'Per chi è pensato',
     whoUsesPlatform: (platform) => `Chi crea contenuti ${platform} con Tunee`,
 
@@ -1299,6 +1529,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: 'Identità visiva',
     mpLabelContentSeries: 'Serie di contenuti',
     mpLabelReleaseDay: 'Video di uscita',
+
+    mpLabelSceneByScene: 'Storyboard scena per scena',
+    mpLabelAbstractAudioReactive: 'Visual astratti audio-reattivi',
+    mpLabelThreeChapter: 'Video musicale in tre capitoli',
+    mpTextSceneByScene: (v0, m0) => `Ogni frase del testo diventa una scena a sé — l'AI di Tunee abbina ogni linea a un visual ${v0}. Transizioni ${m0} tra le strofe (dissolvenza sulla strofa, taglio netto sul ritornello). Il frame finale rispecchia l'apertura. Pensato per un video musicale narrativo e compatto.`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `Nessuna immagine letterale — puro ${v0} e ${v1} che rispondono all'energia dell'audio. Le basse frequenze spostano il colore ${m0}; le alte attivano burst di ${v2}. L'arco rispecchia l'emozione: ${m1} nella strofa, ${m2} esplosivo sul drop, calma nell'outro. Perfetto quando il suono deve trascinare il visivo.`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `Tre capitoli sincronizzati alla struttura del brano. Cap.1 (${m0}): campo largo di ${v0}, push-in lento. Cap.2 (${m1}): primi piani medi di ${v1}, energia in crescita. Cap.3 (${m2}): ${v2} a tutto schermo, massima intensità. Titolo a 0 s, credit pulito alla fine — pronto da pubblicare in un render.`,
+    ucTagWf1: 'Consegna veloce', ucTitleWf1: 'Demo in pochi minuti', ucDescWf1: "Dall'idea grezza al video musicale condivisibile in meno di 5 minuti. Mostra il tuo sound prima dell'uscita, senza editor.",
+    ucTagWf2: 'Catalogo completo', ucTitleWf2: 'Rollout di un album', ucDescWf2: 'Produci un video musicale per ogni traccia con lo stesso stile visivo. Tunee mantiene tutto coerente — niente re-briefing, niente team creativo fisso.',
+    ucTagWf3: 'Pronto per il pitch', ucTitleWf3: 'Invia a etichette e brand', ucDescWf3: 'Crea una demo in movimento per etichette, sync agent o brand partner. Un video musicale arriva più forte di un link SoundCloud.',
+
+    gpBadgeWorkflow: 'Video musicale AI · Workflow',
+    gpBadgeMvSuffix: 'Video musicale',
+
+    producerEyebrow: 'Come si costruisce',
+    producerH2: 'Come funziona il producer di video musicali AI di Tunee',
+    producerSub: 'Quattro agenti AI collaborano per trasformare il tuo audio in un video musicale finito — tu scegli il momento e la direzione, Tunee fa il resto.',
+    producerStep1Title: 'Scegli il momento',
+    producerStep1Desc: 'Carica la tua traccia, ritaglia il segmento che diventerà il tuo video. Tunee rileva energia, tonalità e tempo automaticamente.',
+    producerStep2Title: 'Scegli una direzione creativa',
+    producerStep2Desc: "Esplora tre trattamenti visivi suggeriti dall'AI. Scegli un'atmosfera, fissa il rapporto e sei pronto.",
+    producerStep3Title: "L'AI genera i visual",
+    producerStep3Desc: 'La Visual Designer Nova di Tunee crea il cast e le scene che si adattano al tuo suono.',
+    producerStep4Title: "L'AI costruisce lo storyboard",
+    producerStep4Desc: 'Lo Story Director Sage taglia la timeline shot per shot e renderizza ogni formato di cui hai bisogno.',
 
     copied: '✓ Copiato!',
   },
@@ -1391,19 +1646,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `製作 ${platform} 的 AI 音樂影片`,
     h1Occasion: (genre) => `將你的歌曲製作成 ${genre} 音樂影片`,
-    h1Workflow: (wf) => `將你的 ${wf} 轉化為音樂影片`,
+    h1Workflow: (g) => `${g} — 你的 AI 音樂影片製片人`,
     h1ForWho: (target) => `為 ${target} 打造的 AI 音樂影片`,
     h1Default: (genre) => `用 AI 製作 ${genre} 音樂影片`,
     h1MVType: (genre) => `用 AI 製作 ${genre}`,
 
     leadPlatform: (platform) => `上傳曲目，選擇風格，Tunee 即可在幾分鐘內生成完美格式的 ${platform} 音樂影片，隨時可上傳發布。`,
     leadOccasion: (genre) => `上傳你的歌曲，描述場景，Tunee 將其轉化為電影感的 ${genre} 音樂影片 — 無需攝影機、團隊或剪輯技能。`,
-    leadWorkflow: (wf) => `上傳音頻，執行 ${wf} 工作流，Tunee 即可在幾分鐘內製作出精緻的音樂影片。`,
+    leadWorkflow: () => `Tunee 就是你的 AI 音樂影片製片人。上傳音樂，AI 處理角色、場景、分鏡和鏡頭 — 所有格式幾分鐘內就能分享。`,
     leadForWho: (target) => `Tunee 為 ${target} 提供快速、專業的方式，從任何曲目創作音樂影片。`,
     leadDefault: (genre, v0) => `上傳音頻，Tunee 即可生成帶有 ${v0} 的 ${genre} 風格音樂影片 — 無需設計工具或渲染軟件。`,
 
     whoUsesOccasion: '誰會製作這類影片',
-    whoUsesWorkflow: '誰使用這個工作流',
+    whoUsesWorkflow: 'Tunee AI 音樂影片製片人幫助哪些人',
     whoUsesForWho: '為誰而設',
     whoUsesPlatform: (platform) => `誰在使用 Tunee 創作 ${platform} 內容`,
 
@@ -1428,6 +1683,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: '個性化視覺',
     mpLabelContentSeries: '系列內容',
     mpLabelReleaseDay: '發行日影片',
+
+    mpLabelSceneByScene: '逐場景分鏡腳本',
+    mpLabelAbstractAudioReactive: '音頻反應抽象視覺',
+    mpLabelThreeChapter: '三章節音樂影片敘事',
+    mpTextSceneByScene: (v0, m0) => `每句歌詞都變成獨立場景 — Tunee 的 AI 為每一行匹配 ${v0} 視覺。段落間 ${m0} 過渡（主歌處溶接，副歌處硬切）。結尾鏡頭呼應開場。為敘事緊湊的音樂影片而設。`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `沒有具象畫面 — 純粹的 ${v0} 與 ${v1}，隨音頻能量反應。低頻轉變 ${m0} 色彩；高頻觸發 ${v2} 粒子爆發。情緒弧線：主歌 ${m1}、Drop 處爆發 ${m2}、結尾沉靜。當聲音應該主導畫面時，最適合。`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `三章節與歌曲結構同步。Ch.1（${m0}）：${v0} 廣角鏡頭，緩慢推進。Ch.2（${m1}）：${v1} 中近景，能量上升。Ch.3（${m2}）：${v2} 全畫面，最高強度。0 秒置標題卡，結尾乾淨字幕 — 一次渲染就能上線。`,
+    ucTagWf1: '快速交付', ucTitleWf1: '幾分鐘出 Demo', ucDescWf1: '從粗略想法到可分享音樂影片只需 5 分鐘內。發布前先讓聽眾看到聲音，無需剪輯師。',
+    ucTagWf2: '整張專輯', ucTitleWf2: '專輯發布', ucDescWf2: '每首歌一支音樂影片，視覺風格統一。Tunee 維持整張作品集一致性 — 不用重複 brief，不用養創意團隊。',
+    ucTagWf3: '提案就緒', ucTitleWf3: '寄給廠牌與品牌', ucDescWf3: '為唱片公司、Sync 代理或品牌夥伴製作動態 Demo。音樂影片比 SoundCloud 連結更有衝擊力。',
+
+    gpBadgeWorkflow: 'AI 音樂影片 · 工作流',
+    gpBadgeMvSuffix: '音樂影片',
+
+    producerEyebrow: '製作流程',
+    producerH2: 'Tunee AI 音樂影片製片人如何運作',
+    producerSub: '四個 AI 代理協作，將你的音頻變成完整的音樂影片 — 你選擇瞬間與方向，Tunee 處理其餘的一切。',
+    producerStep1Title: '選擇瞬間',
+    producerStep1Desc: '上傳你的曲目，剪出將成為影片的段落。Tunee 自動偵測能量、調性與節奏。',
+    producerStep2Title: '選擇創意方向',
+    producerStep2Desc: '瀏覽 AI 建議的三種視覺處理。選個氛圍，鎖定畫面比例，準備就緒。',
+    producerStep3Title: 'AI 生成視覺資源',
+    producerStep3Desc: 'Tunee 的視覺設計師 Nova 創造與你的聲音契合的角色和場景。',
+    producerStep4Title: 'AI 建構分鏡',
+    producerStep4Desc: '故事導演 Sage 逐鏡剪輯時間軸，並渲染你需要的每種格式。',
 
     copied: '✓ 已複製!',
   },
@@ -1520,19 +1800,19 @@ export const T: Record<string, UIStrings> = {
 
     h1Platform: (platform) => `制作 ${platform} 的 AI 音乐视频`,
     h1Occasion: (genre) => `将你的歌曲制作成 ${genre} 音乐视频`,
-    h1Workflow: (wf) => `将你的 ${wf} 转化为音乐视频`,
+    h1Workflow: (g) => `${g} — 你的 AI 音乐视频制片人`,
     h1ForWho: (target) => `为 ${target} 打造的 AI 音乐视频`,
     h1Default: (genre) => `用 AI 制作 ${genre} 音乐视频`,
     h1MVType: (genre) => `用 AI 制作 ${genre}`,
 
     leadPlatform: (platform) => `上传曲目，选择风格，Tunee 即可在几分钟内生成完美格式的 ${platform} 音乐视频，随时可上传发布。`,
     leadOccasion: (genre) => `上传你的歌曲，描述场景，Tunee 将其转化为电影感的 ${genre} 音乐视频 — 无需摄影机、团队或剪辑技能。`,
-    leadWorkflow: (wf) => `上传音频，执行 ${wf} 工作流，Tunee 即可在几分钟内制作出精致的音乐视频。`,
+    leadWorkflow: () => `Tunee 就是你的 AI 音乐视频制片人。上传音乐，AI 处理角色、场景、分镜和镜头 — 所有格式几分钟内就能分享。`,
     leadForWho: (target) => `Tunee 为 ${target} 提供快速、专业的方式，从任何曲目创作音乐视频。`,
     leadDefault: (genre, v0) => `上传音频，Tunee 即可生成带有 ${v0} 的 ${genre} 风格音乐视频 — 无需设计工具或渲染软件。`,
 
     whoUsesOccasion: '谁会制作这类视频',
-    whoUsesWorkflow: '谁使用这个工作流',
+    whoUsesWorkflow: 'Tunee AI 音乐视频制片人帮助哪些人',
     whoUsesForWho: '为谁而设',
     whoUsesPlatform: (platform) => `谁在使用 Tunee 创作 ${platform} 内容`,
 
@@ -1557,6 +1837,31 @@ export const T: Record<string, UIStrings> = {
     mpLabelSignature: '个性化视觉',
     mpLabelContentSeries: '系列内容',
     mpLabelReleaseDay: '发行日视频',
+
+    mpLabelSceneByScene: '逐场景分镜脚本',
+    mpLabelAbstractAudioReactive: '音频反应抽象视觉',
+    mpLabelThreeChapter: '三章节音乐视频叙事',
+    mpTextSceneByScene: (v0, m0) => `每句歌词都变成独立场景 — Tunee 的 AI 为每一行匹配 ${v0} 视觉。段落间 ${m0} 过渡（主歌处溶接，副歌处硬切）。结尾镜头呼应开场。为叙事紧凑的音乐视频而设。`,
+    mpTextAbstractAudioReactive: (v0, v1, v2, m0, m1, m2) => `没有具象画面 — 纯粹的 ${v0} 与 ${v1}，随音频能量反应。低频转变 ${m0} 色彩；高频触发 ${v2} 粒子爆发。情绪弧线：主歌 ${m1}、Drop 处爆发 ${m2}、结尾沉静。当声音应该主导画面时，最适合。`,
+    mpTextThreeChapter: (v0, v1, v2, m0, m1, m2) => `三章节与歌曲结构同步。Ch.1（${m0}）：${v0} 广角镜头，缓慢推进。Ch.2（${m1}）：${v1} 中近景，能量上升。Ch.3（${m2}）：${v2} 全画面，最高强度。0 秒置标题卡，结尾干净字幕 — 一次渲染就能上线。`,
+    ucTagWf1: '快速交付', ucTitleWf1: '几分钟出 Demo', ucDescWf1: '从粗略想法到可分享音乐视频只需 5 分钟内。发布前先让听众看到声音，无需剪辑师。',
+    ucTagWf2: '整张专辑', ucTitleWf2: '专辑发布', ucDescWf2: '每首歌一支音乐视频，视觉风格统一。Tunee 维持整张作品集一致性 — 不用重复 brief，不用养创意团队。',
+    ucTagWf3: '提案就绪', ucTitleWf3: '寄给厂牌与品牌', ucDescWf3: '为唱片公司、Sync 代理或品牌伙伴制作动态 Demo。音乐视频比 SoundCloud 链接更有冲击力。',
+
+    gpBadgeWorkflow: 'AI 音乐视频 · 工作流',
+    gpBadgeMvSuffix: '音乐视频',
+
+    producerEyebrow: '制作流程',
+    producerH2: 'Tunee AI 音乐视频制片人如何运作',
+    producerSub: '四个 AI 代理协作，将你的音频变成完整的音乐视频 — 你选择瞬间与方向，Tunee 处理其余的一切。',
+    producerStep1Title: '选择瞬间',
+    producerStep1Desc: '上传你的曲目，剪出将成为视频的段落。Tunee 自动检测能量、调性与节奏。',
+    producerStep2Title: '选择创意方向',
+    producerStep2Desc: '浏览 AI 建议的三种视觉处理。选个氛围，锁定画面比例，准备就绪。',
+    producerStep3Title: 'AI 生成视觉资源',
+    producerStep3Desc: 'Tunee 的视觉设计师 Nova 创造与你的声音契合的角色和场景。',
+    producerStep4Title: 'AI 构建分镜',
+    producerStep4Desc: '故事导演 Sage 逐镜剪辑时间轴，并渲染你需要的每种格式。',
 
     copied: '✓ 已复制!',
   },

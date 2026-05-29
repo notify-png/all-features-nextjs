@@ -12,6 +12,7 @@ import {
   getPersonaBlocks,
   getWhoUsesTitle,
   getUseCases,
+  getGpBadge,
   strHash,
 } from '@/lib/mv/slugHelpers'
 import { getT } from '@/lib/mv/i18n'
@@ -58,10 +59,11 @@ const PAGE_CSS = `
 }
 
 /* ── LAYOUT ── */
+.mvs { padding-top: 72px; } /* clear fixed 72px Header */
 .mvs .wrap { max-width: 1100px; margin: 0 auto; padding: 0 clamp(20px,4vw,48px); }
 
 /* ── HERO ── */
-.mvs .hero { position: relative; padding: 144px 0 80px; overflow: hidden; }
+.mvs .hero { position: relative; padding: 56px 0 80px; overflow: hidden; }
 .mvs .hero-inner { display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center; }
 @media (max-width: 820px) { .mvs .hero-inner { grid-template-columns: 1fr; } }
 
@@ -406,6 +408,43 @@ const PAGE_CSS = `
 .mvs .rv-1 { transition-delay: .06s; }
 .mvs .rv-2 { transition-delay: .13s; }
 .mvs .rv-3 { transition-delay: .21s; }
+.mvs .rv-4 { transition-delay: .28s; }
+
+/* ── HERO-RIGHT IMAGE (non-genre pages — Workflow/Platform/Occasion/For Who) ── */
+.mvs .hero-shot {
+  background: #fff; border-radius: var(--r-xl); border: 1px solid var(--line);
+  box-shadow: var(--el-2); overflow: hidden; position: relative;
+}
+.mvs .hero-shot img {
+  display: block; width: 100%; height: auto; object-fit: cover;
+}
+
+/* ── "How Tunee builds your video" section ── */
+.mvs .producer-grid {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;
+}
+@media (max-width: 980px) { .mvs .producer-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .mvs .producer-grid { grid-template-columns: 1fr; } }
+.mvs .producer-card {
+  background: var(--surface); border-radius: var(--r-lg); border: 1px solid var(--line);
+  overflow: hidden; display: flex; flex-direction: column;
+  transition: transform .25s var(--ease), box-shadow .25s var(--ease);
+}
+.mvs .producer-card:hover { transform: translateY(-2px); box-shadow: var(--el-2); }
+.mvs .producer-shot {
+  aspect-ratio: 4 / 3; background: var(--surface-2); overflow: hidden;
+  border-bottom: 1px solid var(--line);
+}
+.mvs .producer-shot img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+}
+.mvs .producer-body { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.mvs .producer-num {
+  font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--ac);
+}
+.mvs .producer-card-title { font-size: 15px; font-weight: 600; color: var(--t1); letter-spacing: -.01em; line-height: 1.3; }
+.mvs .producer-card-desc { font-size: 13px; color: var(--t2); line-height: 1.55; }
 `
 
 // generateStaticParams — 11 locales × 100 slugs = 1100 pages
@@ -484,7 +523,20 @@ export default async function LocaleSlugPage(
   const personaBlocks = getPersonaBlocks(cfg, content, t)
   const whoTitle = getWhoUsesTitle(cfg, t)
   const useCases = getUseCases(cfg, t)
+  const gpBadge = getGpBadge(cfg, t)
   const siblings = getSiblings(slug, allSlugs)
+
+  // Non-genre pages (Workflow / Platform / Occasion-Viral / For Who) get the
+  // Tunee workflow screenshot in hero-right and a new "How it builds" section
+  // — these are positioned as the AI music video producer landing page.
+  // Genre / Visual Style / MV Type pages keep the GenProcess card with genre coloring.
+  const isNonGenre =
+    cat.includes('Workflow') ||
+    cat.includes('Platform') ||
+    cat.includes('Occasion') ||
+    cat.includes('Viral') ||
+    cat.includes('For Who') ||
+    slug.startsWith('music-video-for-')
   const h = strHash(slug)
   const champ = CHAMPION[h % CHAMPION.length]
 
@@ -592,10 +644,102 @@ export default async function LocaleSlugPage(
                 </div>
               </div>
               <div className="hero-right">
-                <GenProcess cfg={cfg} t={t} />
+                {isNonGenre ? (
+                  <div className="hero-shot">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src="/workflow/MV_mode.webp"
+                      alt="Tunee AI music video producer — pick One-Click MV, Freestyle MV, Motion Control, or Shorts"
+                      loading="eager"
+                      width={1200}
+                      height={720}
+                    />
+                  </div>
+                ) : (
+                  <GenProcess cfg={cfg} t={t} badge={gpBadge} />
+                )}
               </div>
             </div>
           </section>
+
+          {/* ── HOW TUNEE BUILDS YOUR VIDEO (non-genre pages only) ── */}
+          {isNonGenre && (
+            <section className="section">
+              <div className="eyebrow-sm">{t.producerEyebrow}</div>
+              <h2 className="sec-title rv">{t.producerH2}</h2>
+              <p className="sec-sub rv rv-1">{t.producerSub}</p>
+              <div className="producer-grid">
+                <div className="producer-card rv rv-1">
+                  <div className="producer-shot">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src="/workflow/choose_clips.webp"
+                      alt={t.producerStep1Title}
+                      loading="lazy"
+                      width={800}
+                      height={600}
+                    />
+                  </div>
+                  <div className="producer-body">
+                    <div className="producer-num">01</div>
+                    <div className="producer-card-title">{t.producerStep1Title}</div>
+                    <div className="producer-card-desc">{t.producerStep1Desc}</div>
+                  </div>
+                </div>
+                <div className="producer-card rv rv-2">
+                  <div className="producer-shot">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src="/workflow/three-themes.webp"
+                      alt={t.producerStep2Title}
+                      loading="lazy"
+                      width={800}
+                      height={600}
+                    />
+                  </div>
+                  <div className="producer-body">
+                    <div className="producer-num">02</div>
+                    <div className="producer-card-title">{t.producerStep2Title}</div>
+                    <div className="producer-card-desc">{t.producerStep2Desc}</div>
+                  </div>
+                </div>
+                <div className="producer-card rv rv-3">
+                  <div className="producer-shot">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src="/workflow/visual-assets.gif"
+                      alt={t.producerStep3Title}
+                      loading="lazy"
+                      width={800}
+                      height={600}
+                    />
+                  </div>
+                  <div className="producer-body">
+                    <div className="producer-num">03</div>
+                    <div className="producer-card-title">{t.producerStep3Title}</div>
+                    <div className="producer-card-desc">{t.producerStep3Desc}</div>
+                  </div>
+                </div>
+                <div className="producer-card rv rv-4">
+                  <div className="producer-shot">
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src="/workflow/storyboard.gif"
+                      alt={t.producerStep4Title}
+                      loading="lazy"
+                      width={800}
+                      height={600}
+                    />
+                  </div>
+                  <div className="producer-body">
+                    <div className="producer-num">04</div>
+                    <div className="producer-card-title">{t.producerStep4Title}</div>
+                    <div className="producer-card-desc">{t.producerStep4Desc}</div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          )}
 
           {/* ── VISUAL EXAMPLES ── */}
           <section className="section">

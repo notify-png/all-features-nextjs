@@ -25,13 +25,9 @@ export function getH1(cfg: MvConfig, t: UIStrings): string {
   }
 
   if (cat.includes('Workflow')) {
-    const wf = g
-      .replace('AI ', '')
-      .replace(' Generator', '')
-      .replace(' Editor', '')
-      .replace(' Maker', '')
-      .trim()
-    return t.h1Workflow(wf)
+    // Use the full genre_name (e.g. "Free MV Generator", "AI MV Editor", "Photo to MV")
+    // rather than the stripped wf — keeps SEO keyword intact and avoids "Turn Your MV into a Music Video"
+    return t.h1Workflow(g)
   }
 
   if (cat.includes('For Who')) {
@@ -68,13 +64,8 @@ export function getLead(cfg: MvConfig, content: MvContent, t: UIStrings): string
   }
 
   if (cat.includes('Workflow')) {
-    const wf = g
-      .replace('AI ', '')
-      .replace(' Generator', '')
-      .replace(' Editor', '')
-      .replace(' Maker', '')
-      .trim()
-    return t.leadWorkflow(wf)
+    // Workflow lead is a fixed SaaS-LP style hook positioning Tunee as the AI music video producer
+    return t.leadWorkflow()
   }
 
   if (cat.includes('For Who')) {
@@ -187,27 +178,12 @@ export function getMediumPrompts(cfg: MvConfig, t: UIStrings): MediumPrompt[] {
     ]
   }
 
-  // Workflow
+  // Workflow — labels & body fully localised; positions Tunee as the AI music video producer
   if (cat.includes('Workflow')) {
-    const wf = g
-      .replace('AI ', '')
-      .replace(' Generator', '')
-      .replace(' Editor', '')
-      .replace(' Maker', '')
-      .trim()
     return [
-      {
-        label: `${wf} — Scene by Scene`,
-        text: `Text-to-scene: each lyric phrase generates a ${v0} visual match. ${cap(m0)} transitions between stanzas — dissolve on the verse, hard cut on the chorus. Final frame mirrors the opening. Font: clean sans-serif, 60% opacity, bottom third.`,
-      },
-      {
-        label: `${wf} — Abstract Audio-Visual`,
-        text: `No literal imagery — pure ${v0} and ${v1} responding to audio energy. Low frequencies shift ${m0} colour; highs trigger ${v2} particle bursts. The arc mirrors emotion: ${m1} in the verse, explosive ${m2} at the drop, calm in the outro.`,
-      },
-      {
-        label: `${wf} — Three-Chapter Narrative`,
-        text: `Three chapters synced to song structure. Ch.1 (${m0}): ${v0} wide shot, slow motion. Ch.2 (${m1}): medium close-ups of ${v1}, energy rising. Ch.3 (${m2}): full-frame ${v2}, maximum intensity. Title card at 0 s, clean credit at the end.`,
-      },
+      { label: t.mpLabelSceneByScene, text: t.mpTextSceneByScene(v0, m0) },
+      { label: t.mpLabelAbstractAudioReactive, text: t.mpTextAbstractAudioReactive(v0, v1, v2, m0, m1, m2) },
+      { label: t.mpLabelThreeChapter, text: t.mpTextThreeChapter(v0, v1, v2, m0, m1, m2) },
     ]
   }
 
@@ -359,11 +335,11 @@ export function getUseCases(cfg: MvConfig, t: UIStrings): UseCase[] {
   }
 
   if (isWf) {
-    const wf = g.replace('AI ', '').replace(' Generator', '').replace(' Editor', '').replace(' Maker', '').trim().toLowerCase()
+    // Workflow uses fixed translated SaaS-LP copy — no wf injection
     return [
-      { tag: 'Fast turnaround', title: 'Quick demo', desc: `Go from rough idea to shareable video using the ${wf} workflow in under 5 minutes. Show your sound before the full release.` },
-      { tag: 'Full catalog', title: 'Album rollout', desc: `Produce one video per track in the same visual style. Schedule the whole rollout — Tunee handles each one consistently.` },
-      { tag: 'Professional pitch', title: 'Collab pitch', desc: `Create a visual to send to collaborators, labels, or sync agents. A moving demo lands harder than a SoundCloud link.` },
+      { tag: t.ucTagWf1, title: t.ucTitleWf1, desc: t.ucDescWf1 },
+      { tag: t.ucTagWf2, title: t.ucTitleWf2, desc: t.ucDescWf2 },
+      { tag: t.ucTagWf3, title: t.ucTitleWf3, desc: t.ucDescWf3 },
     ]
   }
 
@@ -377,4 +353,17 @@ export function getUseCases(cfg: MvConfig, t: UIStrings): UseCase[] {
 
 function cap(s: string): string {
   return s.charAt(0).toUpperCase() + s.slice(1)
+}
+
+// Category-aware badge text shown in the GenProcess card top pill.
+// Workflow → fixed translated badge (e.g. "AI Music Video · Workflow").
+// MV Type genre_name already contains "Video"/"音樂影片" → just show genre_name to avoid "Lyric Video Music Video".
+// Everything else (Genre / Platform / Occasion / For Who / Visual Style): "{g} {Music Video}".
+export function getGpBadge(cfg: MvConfig, t: UIStrings): string {
+  const cat = cfg.category || ''
+  const g = cfg.genre_name
+
+  if (cat.includes('Workflow')) return t.gpBadgeWorkflow
+  if (cat.includes('MV Type')) return g
+  return `${g} ${t.gpBadgeMvSuffix}`
 }

@@ -65,7 +65,7 @@ const DIRECT: Record<string, string> = {
   'music-video-for-brands':         'brand,marketing,creative',
   'music-video-for-musicians':      'musician,guitar,concert',
   'music-video-for-worship':        'church,light,choir',
-  'music-video-for-kids':           'children,colorful,playful',
+  'music-video-for-kids':           'cartoon,animation,colorful',
   'music-video-for-podcasters':     'podcast,microphone,studio',
   'music-video-for-game-trailers':  'gaming,controller,dramatic',
   'horror-music-video':             'dark,dramatic,moody',
