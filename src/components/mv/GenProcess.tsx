@@ -1,5 +1,6 @@
 import { MvConfig } from '@/lib/mv/data'
 import { UIStrings } from '@/lib/mv/i18n'
+import GpTypewriter from '@/components/mv/GpTypewriter'
 
 interface Props {
   cfg: MvConfig
@@ -33,15 +34,6 @@ export default function GenProcess({ cfg, t, badge }: Props) {
       }}
     />
   ))
-
-  const typewriterScript = `
-(function(){
-  var t=${JSON.stringify(demo)},i=0,el=document.getElementById('gpText');
-  if(!el)return;
-  function tick(){if(i<=t.length){el.textContent=t.slice(0,i++)+(i<t.length?'|':'');setTimeout(tick,36);}}
-  setTimeout(tick,700);
-})();
-`
 
   return (
     <>
@@ -139,8 +131,7 @@ export default function GenProcess({ cfg, t, badge }: Props) {
           </div>
         </div>
       </div>
-      {/* eslint-disable-next-line @next/next/no-sync-scripts */}
-      <script dangerouslySetInnerHTML={{ __html: typewriterScript }} />
+      <GpTypewriter demoPrompt={demo} />
     </>
   )
 }

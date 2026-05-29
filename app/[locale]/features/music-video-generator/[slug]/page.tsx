@@ -20,6 +20,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import GenProcess from '@/components/mv/GenProcess'
 import SchemaScripts from '@/components/mv/SchemaScripts'
+import SlugPageEffects from '@/components/mv/SlugPageEffects'
 
 const BASE_URL = 'https://www.tunee.ai'
 const ALL_LOCALES = ['en', 'es', 'ja', 'ko', 'ru', 'fr', 'de', 'pt', 'it', 'zh-HK', 'zh-CN']
@@ -547,40 +548,6 @@ export default async function LocaleSlugPage(
   const img2 = flickrUrl(cfg, 400, 220, 2, imageCache)
   const img3 = flickrUrl(cfg, 400, 220, 3, imageCache)
 
-  const clientScript = `
-(function(){
-  // Scroll-reveal
-  var io=new IntersectionObserver(function(es){es.forEach(function(e){
-    if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}
-  });},{threshold:.1,rootMargin:'0px 0px -8% 0px'});
-  document.querySelectorAll('.rv').forEach(function(el){io.observe(el);});
-  // Failsafe: reveal anything still hidden after 800ms
-  setTimeout(function(){document.querySelectorAll('.rv:not(.in)').forEach(function(el){el.classList.add('in');});},800);
-
-  // Copy helper
-  document.addEventListener('click',function(e){
-    var btn=e.target.closest('[data-copy]');
-    if(!btn)return;
-    var text=btn.dataset.copy||'';
-    var orig=btn.innerHTML;
-    function flash(){
-      btn.innerHTML='${t.copied}';btn.classList.add('done');
-      setTimeout(function(){btn.innerHTML=orig;btn.classList.remove('done');},2000);
-    }
-    if(navigator.clipboard&&navigator.clipboard.writeText){
-      navigator.clipboard.writeText(text).then(flash).catch(function(){legacyCopy(text,flash);});
-    }else{legacyCopy(text,flash);}
-  });
-  function legacyCopy(text,cb){
-    var ta=document.createElement('textarea');
-    ta.value=text;ta.style.cssText='position:fixed;opacity:0;top:0;left:0';
-    document.body.appendChild(ta);ta.select();
-    try{document.execCommand('copy');if(cb)cb();}catch(e){}
-    document.body.removeChild(ta);
-  }
-})();
-`
-
   return (
     <>
       <style dangerouslySetInnerHTML={{ __html: PAGE_CSS }} />
@@ -965,8 +932,10 @@ export default async function LocaleSlugPage(
       {/* Schema JSON-LD */}
       <SchemaScripts cfg={cfg} content={content} />
 
-      {/* Client-side scripts */}
-      <script dangerouslySetInnerHTML={{ __html: clientScript }} />
+      {/* Client-side effects — runs on mount AND on every Next.js client-side navigation.
+          Replaces what used to be an inline <script>, which didn't fire on Link navigations
+          and left every .rv-animated section invisibly stuck at opacity:0. */}
+      <SlugPageEffects copiedLabel={t.copied} />
     </>
   )
 }
