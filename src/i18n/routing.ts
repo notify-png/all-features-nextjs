@@ -22,6 +22,9 @@ export const routing = defineRouting({
   locales: LOCALES as unknown as string[],
   defaultLocale: DEFAULT_LOCALE,
   localePrefix: "as-needed",
+  // Don't auto-redirect based on Accept-Language / NEXT_LOCALE cookie.
+  // The language switcher in Header sets the cookie explicitly on click.
+  localeDetection: false,
 });
 
 export const isAppLocale = (value: string): value is AppLocale =>

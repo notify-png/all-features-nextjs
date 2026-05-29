@@ -195,7 +195,10 @@ const Header = () => {
                             ? "text-foreground bg-foreground/5 font-medium"
                             : "text-foreground/80 hover:bg-foreground/10 hover:text-foreground"
                         }`}
-                        onClick={() => setLangOpen(false)}
+                        onClick={() => {
+                          document.cookie = `NEXT_LOCALE=${lang.key}; Path=/; Max-Age=31536000; SameSite=Lax`;
+                          setLangOpen(false);
+                        }}
                       >
                         {lang.name}
                       </a>
@@ -250,7 +253,10 @@ const Header = () => {
                             ? "text-foreground bg-foreground/5 font-medium"
                             : "text-foreground/80 hover:bg-foreground/10 hover:text-foreground"
                         }`}
-                        onClick={() => setLangOpen(false)}
+                        onClick={() => {
+                          document.cookie = `NEXT_LOCALE=${lang.key}; Path=/; Max-Age=31536000; SameSite=Lax`;
+                          setLangOpen(false);
+                        }}
                       >
                         {lang.name}
                       </a>
@@ -337,7 +343,10 @@ const Header = () => {
                           ? "text-foreground bg-foreground/5 font-medium"
                           : "text-muted-foreground hover:text-foreground hover:bg-secondary"
                       }`}
-                      onClick={() => setIsOpen(false)}
+                      onClick={() => {
+                        document.cookie = `NEXT_LOCALE=${lang.key}; Path=/; Max-Age=31536000; SameSite=Lax`;
+                        setIsOpen(false);
+                      }}
                     >
                       {lang.name}
                     </a>
