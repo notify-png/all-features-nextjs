@@ -847,29 +847,11 @@ export default async function LocaleSlugPage(
             </section>
           )}
 
-          {/* ── HOW IT WORKS ── */}
-          <section className="section">
-            <div className="eyebrow-sm">{t.howItWorks}</div>
-            <h2 className="sec-title rv">{t.howItWorksH2(genre)}</h2>
-            <p className="sec-sub rv rv-1">{t.howItWorksSub}</p>
-            <div className="steps">
-              <div className="step-card rv rv-1">
-                <div className="step-num">{t.stepUpload}</div>
-                <div className="step-title">{t.step1Title}</div>
-                <div className="step-desc">{t.step1Desc}</div>
-              </div>
-              <div className="step-card rv rv-2">
-                <div className="step-num">{t.stepConfigure}</div>
-                <div className="step-title">{t.step2Title}</div>
-                <div className="step-desc">{t.step2Desc}</div>
-              </div>
-              <div className="step-card rv rv-3">
-                <div className="step-num">{t.stepExport}</div>
-                <div className="step-title">{t.step3Title}</div>
-                <div className="step-desc">{t.step3Desc}</div>
-              </div>
-            </div>
-          </section>
+          {/* HOW IT WORKS — removed. Same 3-step "Upload / Configure /
+              Export" text on 100 pages was templated boilerplate. Genre
+              pages already show the same 3 steps in the Hero GenProcess
+              card; non-genre pages show a richer 4-card 'How Tunee
+              builds your video' section above with real screenshots. */}
 
           {/* ── MEDIUM PROMPTS ── */}
           <section className="section" id="prompts">
