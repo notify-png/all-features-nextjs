@@ -17,12 +17,34 @@ export interface MvConfig {
   demo_prompt: string
 }
 
+export interface MvNarrativeSection {
+  heading: string
+  body: string
+}
+
+export interface MvNarrative {
+  /** Optional eyebrow line above the h2 (defaults rendered without one). */
+  eyebrow?: string
+  /** Main heading for the narrative section. */
+  h2: string
+  /** 2-4 sub-sections of long-form prose, each with its own h3 heading. */
+  sections: MvNarrativeSection[]
+}
+
 export interface MvContent {
   direct_answer: string
   meta_description: string
   prompts: string[]
   personas: { musicians: string; creators: string; labels: string; brands: string }
   faqs: { q: string; a: string }[]
+  /**
+   * Optional slug-specific long-form prose injected as the page's content
+   * spine (between Hero and Gallery). When absent the section is silently
+   * skipped — populate it gradually per slug. For top-priority slugs the
+   * per-locale content file gets a culturally-rewritten narrative instead
+   * of a translation.
+   */
+  narrative?: MvNarrative
 }
 
 export interface PexelsPhoto {

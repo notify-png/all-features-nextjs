@@ -222,6 +222,25 @@ const PAGE_CSS = `
 /* ── SECTIONS ── */
 .mvs .section { padding: clamp(64px,8vw,112px) 0; }
 .mvs .section + .mvs .section { padding-top: 0; }
+
+/* ── NARRATIVE — slug-unique long-form content (the SEO content spine).
+   Centered prose column, generous line-height, slightly understated to
+   stay focused on the writing not the design. ── */
+.mvs .narrative { padding: clamp(56px,8vw,104px) 0; }
+.mvs .narrative-inner { max-width: 720px; margin: 0 auto; }
+.mvs .narrative h2 {
+  font-size: clamp(28px,3.3vw,40px); font-weight: 700; letter-spacing: -.03em;
+  color: var(--t1); line-height: 1.15; margin-bottom: 14px;
+}
+.mvs .narrative-lead { font-size: 16px; color: var(--t3); margin-bottom: 36px; }
+.mvs .narrative-sub { margin-top: 32px; }
+.mvs .narrative-sub h3 {
+  font-size: 19px; font-weight: 600; color: var(--t1); letter-spacing: -.01em;
+  margin-bottom: 10px;
+}
+.mvs .narrative-sub p {
+  font-size: 16px; line-height: 1.75; color: var(--t2); letter-spacing: -.005em;
+}
 .mvs .eyebrow-sm {
   font-size: 11px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase;
   color: var(--ac); margin-bottom: 10px;
@@ -711,6 +730,29 @@ export default async function LocaleSlugPage(
             </section>
           )}
 
+          {/* ── NARRATIVE (per-slug unique long-form prose) — silently
+                    skipped when content.narrative is absent so we can roll
+                    it out gradually. Sits between Hero and Gallery so it's
+                    the SEO content spine of the page. ── */}
+          {content.narrative && (
+            <section className="narrative">
+              <div className="narrative-inner">
+                {content.narrative.eyebrow && (
+                  <div className="eyebrow-sm" style={{ marginBottom: 12 }}>
+                    {content.narrative.eyebrow}
+                  </div>
+                )}
+                <h2 className="rv">{content.narrative.h2}</h2>
+                {content.narrative.sections.map((s, i) => (
+                  <div key={i} className={`narrative-sub rv rv-${Math.min(i + 1, 3)}`}>
+                    <h3>{s.heading}</h3>
+                    <p>{s.body}</p>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
+
           {/* ── VISUAL EXAMPLES ── */}
           <section className="section">
             <div className="eyebrow-sm">{t.galleryEyebrow}</div>
@@ -846,55 +888,28 @@ export default async function LocaleSlugPage(
             </div>
           </section>
 
-          {/* ── COMPARISON ── */}
-          <section className="section">
-            <div className="eyebrow-sm">{t.whyAiEyebrow}</div>
-            <h2 className="sec-title rv">{t.compareH2(genre)}</h2>
-            <div className="compare-wrap rv rv-1">
-              <table>
-                <thead>
-                  <tr>
-                    <th>{t.compareFactor}</th>
-                    <th>{t.compareTraditional}</th>
-                    <th>{t.compareTuneeAI}</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr><td>{t.compareRow1Label}</td><td>{t.compareRow1Trad}</td><td className="chk">{t.compareRow1AI}</td></tr>
-                  <tr><td>{t.compareRow2Label}</td><td>{t.compareRow2Trad}</td><td className="chk">{t.compareRow2AI}</td></tr>
-                  <tr><td>{t.compareRow3Label}</td><td>{t.compareRow3Trad}</td><td className="chk">{t.compareRow3AI}</td></tr>
-                  <tr><td>{t.compareRow4Label}</td><td>{t.compareRow4Trad}</td><td className="chk">{t.compareRow4AI}</td></tr>
-                  <tr><td>{t.compareRow5Label}</td><td>{t.compareRow5Trad}</td><td className="chk">{t.compareRow5AI}</td></tr>
-                </tbody>
-              </table>
-            </div>
-          </section>
+          {/* Comparison Table — removed: same 5-row table appearing on 100 pages
+              is a Google boilerplate signal. The AI-vs-traditional pitch lives
+              once on /features/music-video-generator. */}
 
-          {/* ── FAQ ── */}
-          <section className="section">
-            <div className="eyebrow-sm">{t.faqEyebrow}</div>
-            <h2 className="sec-title rv">{t.faqH2(genre)}</h2>
-            <div className="faq-list">
-              <details className="faq-item rv">
-                <summary className="faq-q">{t.faqQ1}</summary>
-                <div className="faq-a">{t.faqA1}</div>
-              </details>
-              <details className="faq-item rv">
-                <summary className="faq-q">{t.faqQ2}</summary>
-                <div className="faq-a">{t.faqA2}</div>
-              </details>
-              <details className="faq-item rv">
-                <summary className="faq-q">{t.faqQ3(genre)}</summary>
-                <div className="faq-a">{t.faqA3}</div>
-              </details>
-              {content.faqs.map((faq, i) => (
-                <details key={i} className="faq-item rv">
-                  <summary className="faq-q">{faq.q}</summary>
-                  <div className="faq-a">{faq.a}</div>
-                </details>
-              ))}
-            </div>
-          </section>
+          {/* ── FAQ — only slug-specific Q&A from content.faqs; the 3 generic
+                    questions (audio formats / MV modes / export resolution)
+                    were removed because they were word-for-word identical on
+                    all 100 slug pages, which hurts thin-content scoring. ── */}
+          {content.faqs.length > 0 && (
+            <section className="section">
+              <div className="eyebrow-sm">{t.faqEyebrow}</div>
+              <h2 className="sec-title rv">{t.faqH2(genre)}</h2>
+              <div className="faq-list">
+                {content.faqs.map((faq, i) => (
+                  <details key={i} className="faq-item rv">
+                    <summary className="faq-q">{faq.q}</summary>
+                    <div className="faq-a">{faq.a}</div>
+                  </details>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* ── INTERNAL LINKS ── */}
           <div className="il-section">
