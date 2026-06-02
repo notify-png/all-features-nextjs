@@ -600,7 +600,7 @@ export default async function LocaleSlugPage(
                 <h1>{h1}</h1>
                 <p className="hero-lead">{lead}</p>
                 <div className="hero-actions">
-                  <a href="https://app.tunee.ai" className="btn-primary">
+                  <a href="https://www.tunee.ai/sign-up" className="btn-primary">
                     {t.startFree} ↗
                   </a>
                   <a href="#prompts" className="btn-ghost">{t.seePromptExamples}</a>
@@ -921,7 +921,7 @@ export default async function LocaleSlugPage(
             />
             <h2>{t.ctaBannerTitle}</h2>
             <p>{t.ctaBannerSub}</p>
-            <a href="https://app.tunee.ai" className="btn-white" style={{ color: accent }}>
+            <a href="https://www.tunee.ai/sign-up" className="btn-white" style={{ color: accent }}>
               {t.tryNow} ↗
             </a>
           </div>

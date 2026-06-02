@@ -30,7 +30,7 @@ const AiSingerHeroContent = () => {
           </p>
 
           <div className="mb-16">
-            <a href="https://www.tunee.ai/create">
+            <a href="https://www.tunee.ai/sign-up">
               <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-12 py-6 text-base font-poppins font-medium h-auto">
                 {t("aiSingerCta")}
               </Button>

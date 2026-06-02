@@ -83,7 +83,7 @@ const AiSingerHeroSection = () => {
               >
                 Log in
               </a>
-              <a href="https://www.tunee.ai/signup">
+              <a href="https://www.tunee.ai/sign-up">
                 <Button className="bg-foreground text-background hover:bg-foreground/90 rounded-full px-6 font-poppins font-medium">
                   Sign up
                 </Button>
@@ -147,7 +147,7 @@ const AiSingerHeroSection = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.3 }}
           >
-            <a href="https://www.tunee.ai/create">
+            <a href="https://www.tunee.ai/sign-up">
               <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-12 py-6 text-base font-poppins font-medium h-auto">
                 {t("aiSingerCta")}
               </Button>

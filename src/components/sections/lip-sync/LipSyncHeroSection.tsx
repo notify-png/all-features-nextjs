@@ -88,7 +88,7 @@ const LipSyncHeroSection = () => {
                 className="h-20 px-16 text-2xl font-display rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 shadow-2xl"
                 asChild
               >
-                <a href="https://www.tunee.ai" target="_blank" rel="noopener noreferrer">{t("lipSyncCta")}</a>
+                <a href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">{t("lipSyncCta")}</a>
               </Button>
             </motion.div>
           </motion.div>

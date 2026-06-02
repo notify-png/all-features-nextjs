@@ -21,7 +21,7 @@ const AiSingerCTASection = () => {
           <p className="body-text text-lg mb-10">{t("ctaBody")}</p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <a href="https://www.tunee.ai/create">
+            <a href="https://www.tunee.ai/sign-up">
               <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-8 py-6 text-base font-poppins font-medium h-auto">
                 {t("ctaPrimary")}
                 <ArrowRight className="w-4 h-4 ml-2" />

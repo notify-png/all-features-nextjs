@@ -137,7 +137,7 @@ const AiSingerFooter = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.tunee.ai/signup"
+                    href="https://www.tunee.ai/sign-up"
                     className="text-white/60 text-sm hover:text-white transition-colors font-poppins"
                   >
                     Sign up

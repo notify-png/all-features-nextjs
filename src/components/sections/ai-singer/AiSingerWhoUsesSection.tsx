@@ -107,7 +107,7 @@ const AiSingerWhoUsesSection = () => {
                         damping: 17,
                       }}
                     >
-                      <a href="https://www.tunee.ai/create">
+                      <a href="https://www.tunee.ai/sign-up">
                         <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-8">
                           {t("whoCta")}
                         </Button>

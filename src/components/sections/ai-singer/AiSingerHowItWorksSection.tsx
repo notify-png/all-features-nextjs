@@ -88,7 +88,7 @@ const AiSingerHowItWorksSection = () => {
             whileTap={{ scale: 0.98 }}
             transition={{ type: "spring", stiffness: 400, damping: 17 }}
           >
-            <a href="https://www.tunee.ai/create">
+            <a href="https://www.tunee.ai/sign-up">
               <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-10 py-6 text-base font-poppins font-medium h-auto gap-2 group">
                 {t("howCta")}
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />

@@ -90,7 +90,7 @@ const WhoUsesSection = () => {
                       transition={{ type: "spring", stiffness: 400, damping: 17 }}
                     >
                       <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-8" asChild>
-                        <a href="https://www.tunee.ai">{t("whoCta")}</a>
+                        <a href="https://www.tunee.ai/sign-up">{t("whoCta")}</a>
                       </Button>
                     </motion.div>
                   </div>
