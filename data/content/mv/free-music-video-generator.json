@@ -39,5 +39,23 @@
       "q": "Does Tunee's Free MV Generator music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Free MV Generator music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "GETTING STARTED",
+    "h2": "What 'free music video generator' actually means with Tunee",
+    "sections": [
+      {
+        "heading": "Free here means try-before-you-buy, not crippled",
+        "body": "The free MV generators that show up on a Google search usually fall into two camps: trial-locked outputs that watermark every frame, or 'free' tools that demand a credit card on signup. Tunee is the third option — generate complete music videos at standard quality without paying, watermark-free preview, no card on file. The paid tiers exist for higher resolution (4K), longer durations, and faster queue priority. The aesthetic, the AI director, and the storyboarding agent are the same on day one."
+      },
+      {
+        "heading": "What 'a music video' includes here",
+        "body": "When Tunee hands you a free MV, the deliverable is not a placeholder. You get an audio-synced video with cut points landing on actual beats, scene-level coherence — a character that stays consistent across shots, not a slideshow of unrelated frames — and an aspect ratio you choose: 9:16 for TikTok, 16:9 for YouTube, 1:1 for Instagram. The same upload, three renders, no extra credits. Most 'free generators' are one-format-or-pay; this isn't that."
+      },
+      {
+        "heading": "What's actually behind the button",
+        "body": "Four AI agents coordinate under the hood: the audio analyst tags tempo, key, and emotional contour; the visual designer Nova drafts characters and scene plates; the story director Sage cuts those plates into a timed shot list; the renderer produces the final video. The free tier runs all four — what you don't get is the priority queue and the upscaler. For drafts, comparisons, and 'is this idea worth pursuing?', that's plenty."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Synthwave music video to compare?",
       "a": "Yes. You can generate several variations of your Synthwave music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT SYNTHWAVE",
+    "h2": "Synthwave is a sound that needs to be seen",
+    "sections": [
+      {
+        "heading": "What synthwave looks like",
+        "body": "Synthwave is the one genre with its visual identity baked in. Born from the 2010s obsession with 1980s sci-fi and neon-drenched nostalgia — Drive, Stranger Things, Hotline Miami — its aesthetic is more codified than the music itself. The non-negotiables: deep purple-to-magenta gradients, retro grid horizons receding into vapor, palm-tree silhouettes against gradient sunsets, chrome cars, lightning-cracked skies. If the viewer doesn't feel the warm hum of an analog VHS within three seconds, something is off."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "When directors brief synthwave MVs they cite the same touchstones: The Midnight's Sunset, FM-84's Outatime, Carpenter Brut's live visuals, the Kung Fury short film. The thread isn't the artist — it's the frame language: wide horizons, slow zoom on receding grid lines, character silhouettes never lit full, type set in chrome with a subtle bevel. Tunee's synthwave model is trained on this exact vocabulary, so prompts like 'analog VHS scan-lines over a neon city skyline' land where directors would point a real camera crew."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Don't fight synthwave's clichés — lean in. Specify the layer order: foreground subject (artist, car, palm tree), middle ground (neon grid or sunset), background (cracked-purple sky with distant lightning). Pair colors explicitly: 'magenta and cyan, no warm tones'. Then add one anachronism that breaks the spell — a crashed satellite, a glitching billboard — to keep the loop interesting beyond the first chorus. The result reads as composed, not generated."
+      }
+    ]
+  }
 }

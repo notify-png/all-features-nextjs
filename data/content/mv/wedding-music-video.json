@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Wedding music video to compare?",
       "a": "Yes. You can generate several variations of your Wedding music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE WEDDING MV",
+    "h2": "Turn your wedding song into a keepsake that doesn't sit in a drawer",
+    "sections": [
+      {
+        "heading": "Why a wedding MV beats a slideshow",
+        "body": "Wedding video has a quiet problem: the official film is too long for friends to share, the photographer's reel is too generic to feel personal, and the slideshow your aunt makes is unwatchable past the second slide. A 60–90 second AI music video sits exactly in the gap — short enough to post on Instagram the morning after, scored to your first dance, and visualized around moments that mattered (the ring, the toast, the quiet glance during the vows) rather than stock B-roll."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Wedding videographers know the canon: ring close-up with depth-of-field collapse, dress detail in golden-hour light, the bride's reveal from a parent's POV, the first kiss from the back of the aisle, a long-lens crowd shot during the ovation. Tunee's wedding model knows them too. Drop your processional or first-dance track, mention three of these shots in plain English, and the MV is half-storyboarded before you write another word."
+      },
+      {
+        "heading": "Make it the gift",
+        "body": "The most useful wedding MV is the one couples figure out a week late: send it to the people who couldn't fly in. A 9:16 vertical of your reception, the song that defined the night, exported the day after, in their inbox before they remember to text congratulations. Tunee renders 9:16, 16:9, and 1:1 from one generation — one prompt, every format the inbox or feed expects."
+      }
+    ]
+  }
 }
