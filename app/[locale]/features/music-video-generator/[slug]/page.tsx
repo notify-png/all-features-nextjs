@@ -21,6 +21,7 @@ import Footer from '@/components/Footer'
 import GenProcess from '@/components/mv/GenProcess'
 import SchemaScripts from '@/components/mv/SchemaScripts'
 import SlugPageEffects from '@/components/mv/SlugPageEffects'
+import { publicAssetUrl } from '@/lib/publicAssetUrl'
 
 const BASE_URL = 'https://www.tunee.ai'
 const ALL_LOCALES = ['en', 'es', 'ja', 'ko', 'ru', 'fr', 'de', 'pt', 'it', 'zh-HK', 'zh-CN']
@@ -615,7 +616,7 @@ export default async function LocaleSlugPage(
                   <div className="hero-shot">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
-                      src="/workflow/MV_mode.webp"
+                      src={publicAssetUrl("/workflow/MV_mode.webp")}
                       alt="Tunee AI music video producer — pick One-Click MV, Freestyle MV, Motion Control, or Shorts"
                       loading="eager"
                       width={1200}
@@ -640,7 +641,7 @@ export default async function LocaleSlugPage(
                   <div className="producer-shot">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
-                      src="/workflow/choose_clips.webp"
+                      src={publicAssetUrl("/workflow/choose_clips.webp")}
                       alt={t.producerStep1Title}
                       loading="lazy"
                       width={800}
@@ -657,7 +658,7 @@ export default async function LocaleSlugPage(
                   <div className="producer-shot">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
-                      src="/workflow/three-themes.webp"
+                      src={publicAssetUrl("/workflow/three-themes.webp")}
                       alt={t.producerStep2Title}
                       loading="lazy"
                       width={800}
@@ -674,7 +675,7 @@ export default async function LocaleSlugPage(
                   <div className="producer-shot">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
-                      src="/workflow/visual-assets.gif"
+                      src={publicAssetUrl("/workflow/visual-assets.gif")}
                       alt={t.producerStep3Title}
                       loading="lazy"
                       width={800}
@@ -691,7 +692,7 @@ export default async function LocaleSlugPage(
                   <div className="producer-shot">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
                     <img
-                      src="/workflow/storyboard.gif"
+                      src={publicAssetUrl("/workflow/storyboard.gif")}
                       alt={t.producerStep4Title}
                       loading="lazy"
                       width={800}

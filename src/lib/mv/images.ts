@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import { MvConfig, PexelsPhoto } from '@/lib/mv/data'
+import { publicAssetUrl } from '@/lib/publicAssetUrl'
 
 const PICSUM_SLUGS = new Set([
   '3d-music-video', 'abstract-music-video', 'surreal-music-video',
@@ -122,7 +123,7 @@ function getCustomGalleryImage(slug: string, idx: number): string | null {
   for (const ext of CUSTOM_EXTS) {
     const abs = path.join(dir, `${idx}.${ext}`);
     if (fs.existsSync(abs)) {
-      const url = `/mv-gallery/${slug}/${idx}.${ext}`;
+      const url = publicAssetUrl(`/mv-gallery/${slug}/${idx}.${ext}`);
       slugMap.set(idx, url);
       return url;
     }
