@@ -100,13 +100,14 @@ const PAGE_CSS = `
   display: inline-flex; align-items: center; gap: 8px;
   padding: 14px 28px; border-radius: var(--r-pill);
   font-size: 15px; font-weight: 600; line-height: 1; letter-spacing: -.01em;
-  background: var(--ac); color: #fff; border: none; cursor: pointer; text-decoration: none;
+  /* --ac-deep equals --ac on saturated accents; only darkens on pastel slugs */
+  background: var(--ac-deep); color: #fff; border: none; cursor: pointer; text-decoration: none;
   transition: transform .15s var(--ease), filter .2s, box-shadow .2s var(--ease);
-  box-shadow: 0 4px 16px -4px color-mix(in srgb, var(--ac) 50%, transparent);
+  box-shadow: 0 4px 16px -4px color-mix(in srgb, var(--ac-deep) 50%, transparent);
 }
 .mvs .btn-primary:hover {
   transform: translateY(-1px); filter: brightness(1.08);
-  box-shadow: 0 10px 28px -8px color-mix(in srgb, var(--ac) 60%, transparent);
+  box-shadow: 0 10px 28px -8px color-mix(in srgb, var(--ac-deep) 60%, transparent);
 }
 .mvs .btn-ghost {
   display: inline-flex; align-items: center; gap: 8px;
@@ -223,27 +224,56 @@ const PAGE_CSS = `
 .mvs .section { padding: clamp(64px,8vw,112px) 0; }
 .mvs .section + .mvs .section { padding-top: 0; }
 
-/* ── NARRATIVE — slug-unique long-form content (the SEO content spine).
-   Centered prose column, generous line-height, slightly understated to
-   stay focused on the writing not the design. ── */
-.mvs .narrative { padding: clamp(56px,8vw,104px) 0; }
+/* ── NARRATIVE — the SEO content spine. Editorial layout: a centered
+   prose column with numbered sub-sections, the slug's accent color used
+   for the section numbers + the eyebrow tag. Soft tinted background
+   visually sets the block apart from neighbouring section grids so it
+   reads as "the chapter, not the marketing". ── */
+.mvs .narrative {
+  padding: clamp(72px,9vw,120px) 0;
+  background: var(--surface-2);
+  /* Extend background beyond the wrap's max-width without restructuring */
+  box-shadow: 0 0 0 100vmax var(--surface-2);
+  clip-path: inset(0 -100vmax);
+}
 .mvs .narrative-inner { max-width: 720px; margin: 0 auto; }
-.mvs .narrative h2 {
-  font-size: clamp(28px,3.3vw,40px); font-weight: 700; letter-spacing: -.03em;
-  color: var(--t1); line-height: 1.15; margin-bottom: 14px;
+.mvs .narrative-eyebrow {
+  font-size: 11px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase;
+  color: var(--ac-deep); margin-bottom: 16px;
 }
-.mvs .narrative-lead { font-size: 16px; color: var(--t3); margin-bottom: 36px; }
-.mvs .narrative-sub { margin-top: 32px; }
-.mvs .narrative-sub h3 {
-  font-size: 19px; font-weight: 600; color: var(--t1); letter-spacing: -.01em;
-  margin-bottom: 10px;
+.mvs .narrative-title {
+  font-size: clamp(28px,3.6vw,44px); font-weight: 700; letter-spacing: -.035em;
+  color: var(--t1); line-height: 1.1; margin: 0;
 }
-.mvs .narrative-sub p {
-  font-size: 16px; line-height: 1.75; color: var(--t2); letter-spacing: -.005em;
+.mvs .narrative-divider {
+  width: 56px; height: 2px; background: var(--ac-deep);
+  margin: 28px 0 48px; border-radius: 1px;
+}
+.mvs .narrative-section {
+  display: grid; grid-template-columns: 64px 1fr; gap: 28px;
+  padding: 36px 0 40px;
+  border-bottom: 1px solid var(--line);
+}
+.mvs .narrative-section:last-child { border-bottom: none; padding-bottom: 0; }
+@media (max-width: 640px) {
+  .mvs .narrative-section { grid-template-columns: 1fr; gap: 12px; padding: 28px 0; }
+}
+.mvs .narrative-num {
+  font-size: 30px; font-weight: 700; line-height: 1; padding-top: 4px;
+  color: var(--ac-deep); letter-spacing: -.02em;
+  font-feature-settings: "tnum" 1;
+}
+.mvs .narrative-section h3 {
+  font-size: clamp(20px,2vw,24px); font-weight: 600; color: var(--t1);
+  letter-spacing: -.015em; line-height: 1.25; margin: 0 0 14px;
+}
+.mvs .narrative-section p {
+  font-size: clamp(16px,1.2vw,17.5px); line-height: 1.8; color: var(--t2);
+  letter-spacing: -.005em; margin: 0;
 }
 .mvs .eyebrow-sm {
   font-size: 11px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase;
-  color: var(--ac); margin-bottom: 10px;
+  color: var(--ac-deep); margin-bottom: 10px;
 }
 .mvs .sec-title {
   font-size: clamp(24px,3vw,38px); font-weight: 700; letter-spacing: -.03em;
@@ -259,7 +289,7 @@ const PAGE_CSS = `
   box-shadow: var(--el-1); transition: transform .25s var(--ease), box-shadow .25s var(--ease);
 }
 .mvs .step-card:hover { transform: translateY(-2px); box-shadow: var(--el-2); }
-.mvs .step-num { font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--ac); margin-bottom: 10px; }
+.mvs .step-num { font-size: 12px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--ac-deep); margin-bottom: 10px; }
 .mvs .step-title { font-size: 16px; font-weight: 600; margin-bottom: 6px; letter-spacing: -.01em; }
 .mvs .step-desc { font-size: 14px; color: var(--t2); line-height: 1.6; }
 
@@ -269,18 +299,18 @@ const PAGE_CSS = `
   background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg);
   padding: 24px 28px; transition: border-color .2s, box-shadow .2s var(--ease); position: relative;
 }
-.mvs .mp-card:hover { border-color: var(--ac); box-shadow: 0 0 0 3px color-mix(in srgb, var(--ac) 10%, transparent); }
-.mvs .mp-label { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ac); margin-bottom: 10px; }
+.mvs .mp-card:hover { border-color: var(--ac-deep); box-shadow: 0 0 0 3px color-mix(in srgb, var(--ac-deep) 10%, transparent); }
+.mvs .mp-label { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ac-deep); margin-bottom: 10px; }
 .mvs .mp-text { font-size: 15px; color: var(--t1); line-height: 1.7; margin-bottom: 16px; }
 .mvs .mp-copy {
   display: inline-flex; align-items: center; gap: 6px;
   padding: 7px 14px; border-radius: var(--r-pill);
-  font-size: 13px; font-weight: 600; line-height: 1; color: var(--ac);
-  background: color-mix(in srgb, var(--ac) 8%, transparent);
-  border: 1px solid color-mix(in srgb, var(--ac) 20%, transparent);
+  font-size: 13px; font-weight: 600; line-height: 1; color: var(--ac-deep);
+  background: color-mix(in srgb, var(--ac-deep) 8%, transparent);
+  border: 1px solid color-mix(in srgb, var(--ac-deep) 25%, transparent);
   cursor: pointer; transition: all .15s;
 }
-.mvs .mp-copy:hover { background: color-mix(in srgb, var(--ac) 15%, transparent); }
+.mvs .mp-copy:hover { background: color-mix(in srgb, var(--ac-deep) 15%, transparent); }
 .mvs .mp-copy.done { color: #059669; background: rgba(5,150,105,.08); border-color: rgba(5,150,105,.2); }
 
 /* ── QUICK PROMPTS ── */
@@ -290,14 +320,14 @@ const PAGE_CSS = `
   padding: 16px; display: flex; justify-content: space-between; align-items: flex-start; gap: 12px;
   transition: border-color .2s;
 }
-.mvs .qp-card:hover { border-color: var(--ac); }
+.mvs .qp-card:hover { border-color: var(--ac-deep); }
 .mvs .qp-text { font-size: 13px; color: var(--t2); line-height: 1.55; flex: 1; }
 .mvs .copy-btn {
-  flex-shrink: 0; font-size: 11px; font-weight: 600; color: var(--ac);
-  background: none; border: 1px solid color-mix(in srgb, var(--ac) 30%, transparent);
+  flex-shrink: 0; font-size: 11px; font-weight: 600; color: var(--ac-deep);
+  background: none; border: 1px solid color-mix(in srgb, var(--ac-deep) 35%, transparent);
   border-radius: 6px; padding: 5px 10px; cursor: pointer; transition: all .15s;
 }
-.mvs .copy-btn:hover, .mvs .copy-btn.done { background: var(--ac); color: #fff; border-color: var(--ac); }
+.mvs .copy-btn:hover, .mvs .copy-btn.done { background: var(--ac-deep); color: #fff; border-color: var(--ac-deep); }
 
 /* ── PERSONAS ── */
 .mvs .personas-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 16px; }
@@ -307,7 +337,7 @@ const PAGE_CSS = `
   box-shadow: var(--el-1); transition: transform .25s var(--ease), box-shadow .25s var(--ease);
 }
 .mvs .persona-card:hover { transform: translateY(-2px); box-shadow: var(--el-2); }
-.mvs .persona-role { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ac); margin-bottom: 8px; }
+.mvs .persona-role { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ac-deep); margin-bottom: 8px; }
 .mvs .persona-desc { font-size: 15px; color: var(--t2); line-height: 1.65; }
 
 /* ── USE CASES ── */
@@ -323,8 +353,8 @@ const PAGE_CSS = `
 .mvs .uc-tag {
   display: inline-block; font-size: 11px; font-weight: 600; letter-spacing: .08em;
   text-transform: uppercase; padding: 4px 10px; border-radius: var(--r-pill);
-  background: color-mix(in srgb, var(--ac) 10%, transparent);
-  color: color-mix(in srgb, var(--ac) 80%, var(--t1));
+  background: color-mix(in srgb, var(--ac-deep) 10%, transparent);
+  color: color-mix(in srgb, var(--ac-deep) 80%, var(--t1));
   width: fit-content;
 }
 .mvs .uc-title { font-size: 17px; font-weight: 600; color: var(--t1); letter-spacing: -.02em; line-height: 1.3; }
@@ -342,7 +372,7 @@ const PAGE_CSS = `
 .mvs tr:last-child td { border-bottom: none; }
 .mvs td:first-child { color: var(--t2); font-weight: 500; width: 26%; }
 .mvs td:nth-child(3) { color: var(--t1); font-weight: 500; }
-.mvs .chk { color: var(--ac); }
+.mvs .chk { color: var(--ac-deep); }
 
 /* ── FAQ ── */
 .mvs .faq-list { border: 1px solid var(--line); border-radius: var(--r-lg); overflow: hidden; background: var(--surface); }
@@ -391,7 +421,7 @@ const PAGE_CSS = `
   padding: 7px 16px; background: var(--surface);
   transition: border-color .15s, color .15s;
 }
-.mvs .il-pill:hover { border-color: var(--ac); color: var(--ac); }
+.mvs .il-pill:hover { border-color: var(--ac-deep); color: var(--ac-deep); }
 
 /* ── CTA BANNER ── */
 .mvs .cta-banner {
@@ -405,14 +435,16 @@ const PAGE_CSS = `
   pointer-events: none;
 }
 .mvs .cta-banner h2 {
-  font-size: clamp(24px,3.5vw,42px); font-weight: 700; color: #fff;
+  font-size: clamp(24px,3.5vw,42px); font-weight: 700;
+  /* Text color comes from inline style on the banner — defaults to white
+     for saturated accents, switches to near-black for pastel accents. */
   margin-bottom: 12px; letter-spacing: -.035em; line-height: 1.1;
 }
-.mvs .cta-banner p { color: rgba(255,255,255,.8); font-size: 17px; margin-bottom: 28px; }
+.mvs .cta-banner p { font-size: 17px; margin-bottom: 28px; }
 .mvs .cta-banner .btn-white {
   display: inline-flex; align-items: center; gap: 8px;
   padding: 15px 32px; border-radius: var(--r-pill);
-  font-size: 16px; font-weight: 700; line-height: 1; background: #fff; color: var(--ac);
+  font-size: 16px; font-weight: 700; line-height: 1; background: #fff; color: var(--ac-deep);
   text-decoration: none; border: none; cursor: pointer;
   transition: transform .15s var(--ease), box-shadow .2s;
   box-shadow: 0 8px 24px rgba(0,0,0,.15);
@@ -540,6 +572,17 @@ export default async function LocaleSlugPage(
   const vk = cfg.visual_keywords || []
   const mw = cfg.mood_words || []
 
+  // Some slugs (Wedding, Baby, Valentine's) use very light/pastel accents
+  // (#F8F0E3 cream, #87CEEB sky-blue, etc). White text on those bgs
+  // disappears. Compute a darker derivative for any spot that needs
+  // contrast (button text, copy buttons, section numbers, CTA banner text)
+  // while keeping the original accent for gradients/dots/backgrounds.
+  const accentLum = hexLuminance(accent)
+  const isPastelAccent = accentLum > 0.65
+  const accentDeep = isPastelAccent ? darkenHex(accent, 0.55) : accent
+  const ctaTextColor = isPastelAccent ? '#1a1a1a' : '#fff'
+  const ctaSubTextColor = isPastelAccent ? 'rgba(0,0,0,.65)' : 'rgba(255,255,255,.85)'
+
   const h1 = getH1(cfg, t)
   const lead = getLead(cfg, content, t)
   const medPrompts = getMediumPrompts(cfg, t)
@@ -581,6 +624,9 @@ export default async function LocaleSlugPage(
           {
             '--ac': accent,
             '--ac2': sec,
+            // Deep variant used for text/buttons that need contrast against
+            // light backgrounds. On saturated accents it equals --ac.
+            '--ac-deep': accentDeep,
             '--hero-grad-1': `color-mix(in srgb, ${accent} 12%, transparent)`,
             '--hero-grad-2': `color-mix(in srgb, ${sec} 8%, transparent)`,
           } as React.CSSProperties
@@ -730,29 +776,6 @@ export default async function LocaleSlugPage(
             </section>
           )}
 
-          {/* ── NARRATIVE (per-slug unique long-form prose) — silently
-                    skipped when content.narrative is absent so we can roll
-                    it out gradually. Sits between Hero and Gallery so it's
-                    the SEO content spine of the page. ── */}
-          {content.narrative && (
-            <section className="narrative">
-              <div className="narrative-inner">
-                {content.narrative.eyebrow && (
-                  <div className="eyebrow-sm" style={{ marginBottom: 12 }}>
-                    {content.narrative.eyebrow}
-                  </div>
-                )}
-                <h2 className="rv">{content.narrative.h2}</h2>
-                {content.narrative.sections.map((s, i) => (
-                  <div key={i} className={`narrative-sub rv rv-${Math.min(i + 1, 3)}`}>
-                    <h3>{s.heading}</h3>
-                    <p>{s.body}</p>
-                  </div>
-                ))}
-              </div>
-            </section>
-          )}
-
           {/* ── VISUAL EXAMPLES ── */}
           <section className="section">
             <div className="eyebrow-sm">{t.galleryEyebrow}</div>
@@ -796,6 +819,37 @@ export default async function LocaleSlugPage(
               </div>
             </div>
           </section>
+
+          {/* ── NARRATIVE — per-slug long-form content. Sits AFTER the
+                    Gallery so viewers see what an MV frame looks like
+                    first, then read the "why this style matters" context.
+                    Silently skipped when content.narrative is absent —
+                    rolling out slug by slug. Numbered editorial layout
+                    on tinted surface to distinguish it from neighbouring
+                    grid-based sections. ── */}
+          {content.narrative && (
+            <section className="narrative">
+              <div className="narrative-inner">
+                {content.narrative.eyebrow && (
+                  <div className="narrative-eyebrow">{content.narrative.eyebrow}</div>
+                )}
+                <h2 className="narrative-title rv">{content.narrative.h2}</h2>
+                <div className="narrative-divider rv rv-1" aria-hidden="true" />
+                {content.narrative.sections.map((s, i) => (
+                  <div
+                    key={i}
+                    className={`narrative-section rv rv-${Math.min(i + 1, 3)}`}
+                  >
+                    <div className="narrative-num">{String(i + 1).padStart(2, '0')}</div>
+                    <div>
+                      <h3>{s.heading}</h3>
+                      <p>{s.body}</p>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* ── HOW IT WORKS ── */}
           <section className="section">
@@ -925,20 +979,34 @@ export default async function LocaleSlugPage(
             </div>
           </div>
 
-          {/* ── CTA BANNER ── */}
-          <div className="cta-banner" style={{ background: `linear-gradient(135deg, ${accent}, ${sec})` }}>
+          {/* ── CTA BANNER — text color flips to dark on pastel-accent slugs
+                                 (Wedding cream, Baby sky-blue, etc) so the
+                                 headline + sub aren't white-on-cream. ── */}
+          <div
+            className="cta-banner"
+            style={{
+              background: `linear-gradient(135deg, ${accent}, ${sec})`,
+              color: ctaTextColor,
+            }}
+          >
             <div
               aria-hidden="true"
               style={{
                 position: 'absolute',
                 inset: 0,
-                background: 'radial-gradient(700px 400px at 80% -20%, rgba(255,255,255,.15), transparent 60%)',
+                background: isPastelAccent
+                  ? 'radial-gradient(700px 400px at 80% -20%, rgba(0,0,0,.06), transparent 60%)'
+                  : 'radial-gradient(700px 400px at 80% -20%, rgba(255,255,255,.15), transparent 60%)',
                 pointerEvents: 'none',
               }}
             />
-            <h2>{t.ctaBannerTitle}</h2>
-            <p>{t.ctaBannerSub}</p>
-            <a href="https://www.tunee.ai/sign-up" className="btn-white" style={{ color: accent }}>
+            <h2 style={{ color: ctaTextColor }}>{t.ctaBannerTitle}</h2>
+            <p style={{ color: ctaSubTextColor }}>{t.ctaBannerSub}</p>
+            <a
+              href="https://www.tunee.ai/sign-up"
+              className="btn-white"
+              style={{ color: accentDeep }}
+            >
               {t.tryNow} ↗
             </a>
           </div>
@@ -964,4 +1032,25 @@ function titleCase(s: string): string {
 
 function toTitleCase(s: string): string {
   return s.replace(/\w\S*/g, w => w.charAt(0).toUpperCase() + w.slice(1))
+}
+
+// Relative luminance per WCAG sRGB definition (no gamma correction — close enough
+// for our pastel-vs-saturated bucketing on the 100 slug pages).
+function hexLuminance(hex: string): number {
+  const m = hex.replace('#', '').match(/.{2}/g)
+  if (!m || m.length < 3) return 0.5
+  const [r, g, b] = m.slice(0, 3).map((v) => parseInt(v, 16) / 255)
+  return 0.2126 * r + 0.7152 * g + 0.0722 * b
+}
+
+// Multiply RGB channels by (1 - amount). amount=0.55 turns #F8F0E3 cream
+// into a tan ~#6E6866 — readable on white but still in the same hue family.
+function darkenHex(hex: string, amount: number): string {
+  const m = hex.replace('#', '').match(/.{2}/g)
+  if (!m || m.length < 3) return hex
+  const out = m.slice(0, 3).map((v) => {
+    const n = Math.max(0, Math.round(parseInt(v, 16) * (1 - amount)))
+    return n.toString(16).padStart(2, '0')
+  })
+  return '#' + out.join('')
 }
