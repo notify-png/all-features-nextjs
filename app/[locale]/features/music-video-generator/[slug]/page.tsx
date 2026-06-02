@@ -226,15 +226,11 @@ const PAGE_CSS = `
 
 /* ── NARRATIVE — the SEO content spine. Editorial layout: a centered
    prose column with numbered sub-sections, the slug's accent color used
-   for the section numbers + the eyebrow tag. Soft tinted background
-   visually sets the block apart from neighbouring section grids so it
-   reads as "the chapter, not the marketing". ── */
+   for the section numbers + the eyebrow tag. No tinted background — sits
+   on the page bg like every other section to avoid the "band across the
+   page" feeling that the previous surface-2 + full-bleed version had. ── */
 .mvs .narrative {
   padding: clamp(72px,9vw,120px) 0;
-  background: var(--surface-2);
-  /* Extend background beyond the wrap's max-width without restructuring */
-  box-shadow: 0 0 0 100vmax var(--surface-2);
-  clip-path: inset(0 -100vmax);
 }
 .mvs .narrative-inner { max-width: 720px; margin: 0 auto; }
 .mvs .narrative-eyebrow {
