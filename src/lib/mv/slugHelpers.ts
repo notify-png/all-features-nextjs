@@ -145,15 +145,15 @@ export function getMediumPrompts(cfg: MvConfig, t: UIStrings): MediumPrompt[] {
     const ratio = isVert ? '9:16 vertical' : '16:9 landscape'
     return [
       {
-        label: `Platform Hook — ${platform}`,
+        label: t.mpLabelPlatformHook(platform),
         text: `${cap(ratio)} frame. Hook in the first 3 seconds: tight close-up of ${v0}, hard cut to the artist on the beat drop. ${cap(m0)} grade, high contrast. Text overlay at the chorus — clean sans-serif, bottom third. Runtime: 30–45 s.`,
       },
       {
-        label: `Trending ${platform} Aesthetic`,
+        label: t.mpLabelPlatformTrending(platform),
         text: `${cap(m1)} visual style built for ${platform} — ${v1} in the background, transitions locked to every 4-beat phrase. Fast cuts on the hook, one slow-motion beat mid-song for emotional impact. Designed to hold watch-time past 50%.`,
       },
       {
-        label: `Performance Cut for ${platform}`,
+        label: t.mpLabelPlatformPerf(platform),
         text: `Artist-forward ${ratio} — ${v0} surrounding the performer, camera movement synced to rhythm. ${cap(m2)} lighting, no overlays — pure energy. Optimised for full-screen mobile, shareable to Stories and Reels.`,
       },
     ]
@@ -234,37 +234,13 @@ export function getPersonaBlocks(cfg: MvConfig, content: MvContent, t: UIStrings
   let labels: string[]
 
   if (isOcc) {
-    if (slug.includes('valentines')) {
-      labels = ['Couples & Partners', 'Friends Making Gifts', 'Wedding & Event Planners', 'Brands & Florists']
-    } else if (slug.includes('wedding') || slug.includes('couple')) {
-      labels = ['Couples & Newlyweds', 'Wedding Videographers', 'Wedding Planners', 'Wedding Brands']
-    } else if (slug.includes('birthday')) {
-      labels = ['Friends & Family', 'Party Planners', 'Celebration Creators', 'Event Businesses']
-    } else if (slug.includes('christmas') || slug.includes('new-year')) {
-      labels = ['Families & Friends', 'Lifestyle Creators', 'Event Organizers', 'Holiday Brands']
-    } else if (slug.includes('graduation')) {
-      labels = ['Graduates & Their Families', 'Schools & Universities', 'Event Planners', 'Education Brands']
-    } else if (slug.includes('memorial')) {
-      labels = ['Families & Loved Ones', 'Memorial Service Providers', 'Tribute Creators', 'Non-profits']
-    } else if (slug.includes('baby')) {
-      labels = ['New Parents', 'Family Photographers', 'Baby Brands', 'Grandparents & Relatives']
-    } else if (slug.includes('pet')) {
-      labels = ['Pet Owners & Animal Lovers', 'Pet Content Creators', 'Vet Clinics & Pet Shops', 'Animal Shelters']
-    } else if (slug.includes('travel')) {
-      labels = ['Travelers & Adventurers', 'Travel Creators', 'Travel Agencies', 'Tourism Brands']
-    } else if (slug.includes('fitness')) {
-      labels = ['Fitness Enthusiasts', 'Personal Trainers', 'Gym & Studio Owners', 'Fitness Brands']
-    } else if (slug.includes('halloween')) {
-      labels = ['Party Hosts & Fans', 'Horror Content Creators', 'Event Planners', 'Entertainment Brands']
-    } else {
-      labels = ['Individuals & Families', 'Memory Keepers', 'Event Planners', 'Celebration Brands']
-    }
+    labels = [t.personaLabelOccasionA, t.personaLabelOccasionB, t.personaLabelOccasionC, t.personaLabelOccasionD]
   } else if (isPlat) {
     const platform = g.replace('For ', '').replace('for ', '')
-    labels = ['Independent Artists', `${platform} Content Creators`, 'Labels & Management', 'Marketing Teams']
+    labels = [t.personaLabelIndependentArtists, t.personaLabelPlatformCreators(platform), t.personaLabelLabelsManagement, t.personaLabelMarketingTeams]
   } else if (isWho) {
     const target = g.replace('for ', '').replace('For ', '')
-    labels = [target, 'Music Producers & Collaborators', 'Managers & Labels', 'Brands Partnering with Music']
+    labels = [target, t.personaLabelMusicProducers, t.personaLabelManagersLabels, t.personaLabelBrandsPartneringMusic]
   } else if (isWf) {
     labels = [t.personaLabelSolo, t.personaLabelCreators, t.personaLabelProduction, t.personaLabelMarketing]
   } else {
@@ -312,25 +288,25 @@ export function getUseCases(cfg: MvConfig, t: UIStrings): UseCase[] {
 
   if (isOcc) {
     return [
-      { tag: 'Personal keepsake', title: 'The memory video', desc: `Upload the song that defined your ${glo} moment. Describe what happened — Tunee turns it into a cinematic narrative you'll keep forever.` },
-      { tag: 'Meaningful present', title: 'A gift for someone', desc: `Create a personalized music video as a gift. Combine their favorite track with visuals that tell their story — no film crew needed.` },
-      { tag: 'Social & shareable', title: 'Share the moment', desc: `Post a ${glo} music video before or after the event — as an announcement, thank-you, or highlight that moves.` },
+      { tag: t.ucTagOcc1, title: t.ucTitleOcc1, desc: t.ucDescOcc1(glo) },
+      { tag: t.ucTagOcc2, title: t.ucTitleOcc2, desc: t.ucDescOcc2 },
+      { tag: t.ucTagOcc3, title: t.ucTitleOcc3, desc: t.ucDescOcc3(glo) },
     ]
   }
 
   if (isPlat) {
     return [
-      { tag: 'Release day ready', title: 'Promote a new release', desc: `Turn your single into a ${gClean}-ready visual in minutes. Upload, prompt, export — formatted perfectly for the platform.` },
-      { tag: 'Content at scale', title: 'Grow your presence', desc: `Consistent music video content without a production budget. More posts, more reach, same quality every time.` },
-      { tag: 'Recognizable identity', title: 'Build a visual brand', desc: `Give your music a signature look on ${gClean}. Fans recognize your style before they see your name.` },
+      { tag: t.ucTagPlat1, title: t.ucTitlePlat1, desc: t.ucDescPlat1(gClean) },
+      { tag: t.ucTagPlat2, title: t.ucTitlePlat2, desc: t.ucDescPlat2 },
+      { tag: t.ucTagPlat3, title: t.ucTitlePlat3, desc: t.ucDescPlat3(gClean) },
     ]
   }
 
   if (isWho) {
     return [
-      { tag: 'Release-day visual', title: 'Single release', desc: `Upload your new track and have a professional-looking ${glo} music video ready for the drop date. No editor, no waiting.` },
-      { tag: 'Catalog coverage', title: 'Content series', desc: `Turn every track into a visual. Build a consistent aesthetic across your catalog without a creative team on payroll.` },
-      { tag: 'Industry-ready demo', title: 'Pitch & promo', desc: `Create a visual to pitch your track to labels, sync agents, or brand partners. Show your sound before they hear it.` },
+      { tag: t.ucTagWho1, title: t.ucTitleWho1, desc: t.ucDescWho1(glo) },
+      { tag: t.ucTagWho2, title: t.ucTitleWho2, desc: t.ucDescWho2 },
+      { tag: t.ucTagWho3, title: t.ucTitleWho3, desc: t.ucDescWho3 },
     ]
   }
 

@@ -166,6 +166,43 @@ export interface UIStrings {
   producerStep3Title: string; producerStep3Desc: string
   producerStep4Title: string; producerStep4Desc: string
 
+  // Platform medium prompt labels
+  mpLabelPlatformHook: (platform: string) => string
+  mpLabelPlatformTrending: (platform: string) => string
+  mpLabelPlatformPerf: (platform: string) => string
+
+  // Platform persona labels
+  personaLabelIndependentArtists: string
+  personaLabelPlatformCreators: (platform: string) => string
+  personaLabelLabelsManagement: string
+  personaLabelMarketingTeams: string
+
+  // Platform use cases
+  ucTagPlat1: string; ucTitlePlat1: string; ucDescPlat1: (gClean: string) => string
+  ucTagPlat2: string; ucTitlePlat2: string; ucDescPlat2: string
+  ucTagPlat3: string; ucTitlePlat3: string; ucDescPlat3: (gClean: string) => string
+
+  // Occasion persona labels (generic)
+  personaLabelOccasionA: string
+  personaLabelOccasionB: string
+  personaLabelOccasionC: string
+  personaLabelOccasionD: string
+
+  // Occasion use cases
+  ucTagOcc1: string; ucTitleOcc1: string; ucDescOcc1: (glo: string) => string
+  ucTagOcc2: string; ucTitleOcc2: string; ucDescOcc2: string
+  ucTagOcc3: string; ucTitleOcc3: string; ucDescOcc3: (glo: string) => string
+
+  // For Who persona labels
+  personaLabelMusicProducers: string
+  personaLabelManagersLabels: string
+  personaLabelBrandsPartneringMusic: string
+
+  // For Who use cases
+  ucTagWho1: string; ucTitleWho1: string; ucDescWho1: (glo: string) => string
+  ucTagWho2: string; ucTitleWho2: string; ucDescWho2: string
+  ucTagWho3: string; ucTitleWho3: string; ucDescWho3: string
+
   // Copy button feedback
   copied: string
 }
@@ -323,6 +360,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'AI builds the storyboard',
     producerStep4Desc: 'Story Director Sage cuts the timeline shot-by-shot and renders every format you need.',
 
+    mpLabelPlatformHook: (platform) => `Platform Hook — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `Trending ${platform} Aesthetic`,
+    mpLabelPlatformPerf: (platform) => `Performance Cut for ${platform}`,
+    personaLabelIndependentArtists: 'Independent Artists',
+    personaLabelPlatformCreators: (platform) => `${platform} Content Creators`,
+    personaLabelLabelsManagement: 'Labels & Management',
+    personaLabelMarketingTeams: 'Marketing Teams',
+    ucTagPlat1: 'Release day ready', ucTitlePlat1: 'Promote a new release', ucDescPlat1: (gClean) => `Turn your single into a ${gClean}-ready visual in minutes. Upload, prompt, export — formatted perfectly for the platform.`,
+    ucTagPlat2: 'Content at scale', ucTitlePlat2: 'Grow your presence', ucDescPlat2: 'Consistent music video content without a production budget. More posts, more reach, same quality every time.',
+    ucTagPlat3: 'Recognizable identity', ucTitlePlat3: 'Build a visual brand', ucDescPlat3: (gClean) => `Give your music a signature look on ${gClean}. Fans recognize your style before they see your name.`,
+    personaLabelOccasionA: 'Individuals & Families',
+    personaLabelOccasionB: 'Memory Creators',
+    personaLabelOccasionC: 'Event Planners',
+    personaLabelOccasionD: 'Celebration Brands',
+    ucTagOcc1: 'Personal keepsake', ucTitleOcc1: 'The memory video', ucDescOcc1: (glo) => `Upload the song that defined your ${glo} moment. Describe what happened — Tunee turns it into a cinematic narrative you'll keep forever.`,
+    ucTagOcc2: 'Meaningful present', ucTitleOcc2: 'A gift for someone', ucDescOcc2: 'Create a personalized music video as a gift. Combine their favorite track with visuals that tell their story — no film crew needed.',
+    ucTagOcc3: 'Social & shareable', ucTitleOcc3: 'Share the moment', ucDescOcc3: (glo) => `Post a ${glo} music video before or after the event — as an announcement, thank-you, or highlight that moves.`,
+    personaLabelMusicProducers: 'Music Producers & Collaborators',
+    personaLabelManagersLabels: 'Managers & Labels',
+    personaLabelBrandsPartneringMusic: 'Brands Partnering with Music',
+    ucTagWho1: 'Release-day visual', ucTitleWho1: 'Single release', ucDescWho1: (glo) => `Upload your new track and have a professional-looking ${glo} music video ready for the drop date. No editor, no waiting.`,
+    ucTagWho2: 'Catalog coverage', ucTitleWho2: 'Content series', ucDescWho2: 'Turn every track into a visual. Build a consistent aesthetic across your catalog without a creative team on payroll.',
+    ucTagWho3: 'Industry-ready demo', ucTitleWho3: 'Pitch & promo', ucDescWho3: 'Create a visual to pitch your track to labels, sync agents, or brand partners. Show your sound before they hear it.',
     copied: '✓ Copied!',
   },
   es: {
@@ -477,6 +537,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'La IA construye el storyboard',
     producerStep4Desc: 'El director de historia Sage corta la línea de tiempo plano a plano y renderiza todos los formatos que necesitas.',
 
+    mpLabelPlatformHook: (platform) => `Gancho de Plataforma — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `Estética Tendencia de ${platform}`,
+    mpLabelPlatformPerf: (platform) => `Corte de Actuación para ${platform}`,
+    personaLabelIndependentArtists: 'Artistas independientes',
+    personaLabelPlatformCreators: (platform) => `Creadores de ${platform}`,
+    personaLabelLabelsManagement: 'Sellos y management',
+    personaLabelMarketingTeams: 'Equipos de marketing',
+    ucTagPlat1: 'Listo para el lanzamiento', ucTitlePlat1: 'Promociona un nuevo lanzamiento', ucDescPlat1: (gClean) => `Convierte tu sencillo en un visual listo para ${gClean} en minutos. Sube, crea el prompt, exporta — perfectamente formateado.`,
+    ucTagPlat2: 'Contenido a escala', ucTitlePlat2: 'Haz crecer tu presencia', ucDescPlat2: 'Contenido de videoclip consistente sin presupuesto de producción. Más publicaciones, más alcance, la misma calidad.',
+    ucTagPlat3: 'Identidad reconocible', ucTitlePlat3: 'Crea una marca visual', ucDescPlat3: (gClean) => `Dale a tu música una imagen de marca en ${gClean}. Los fans reconocen tu estilo antes de ver tu nombre.`,
+    personaLabelOccasionA: 'Personas y familias',
+    personaLabelOccasionB: 'Creadores de recuerdos',
+    personaLabelOccasionC: 'Planificadores de eventos',
+    personaLabelOccasionD: 'Marcas y celebraciones',
+    ucTagOcc1: 'Recuerdo personal', ucTitleOcc1: 'El video del recuerdo', ucDescOcc1: (glo) => `Sube la canción que definió tu momento de ${glo}. Describe lo que pasó — Tunee lo convierte en una narrativa cinematográfica que guardarás para siempre.`,
+    ucTagOcc2: 'Regalo significativo', ucTitleOcc2: 'Un regalo para alguien', ucDescOcc2: 'Crea un videoclip personalizado como regalo. Combina su canción favorita con visuales que cuentan su historia — sin equipo de filmación.',
+    ucTagOcc3: 'Social y compartible', ucTitleOcc3: 'Comparte el momento', ucDescOcc3: (glo) => `Publica un video de ${glo} antes o después del evento — como anuncio, agradecimiento o recuerdo que emociona.`,
+    personaLabelMusicProducers: 'Productores y colaboradores',
+    personaLabelManagersLabels: 'Managers y sellos',
+    personaLabelBrandsPartneringMusic: 'Marcas que colaboran con música',
+    ucTagWho1: 'Visual de lanzamiento', ucTitleWho1: 'Lanzamiento de sencillo', ucDescWho1: (glo) => `Sube tu nuevo tema y ten un videoclip de ${glo} de aspecto profesional listo para el día del lanzamiento. Sin editor, sin esperas.`,
+    ucTagWho2: 'Cobertura de catálogo', ucTitleWho2: 'Serie de contenido', ucDescWho2: 'Convierte cada pista en un visual. Construye una estética consistente en tu catálogo sin un equipo creativo en plantilla.',
+    ucTagWho3: 'Demo listo para la industria', ucTitleWho3: 'Pitch y promo', ucDescWho3: 'Crea un visual para presentar tu pista a sellos, agentes de sync o socios de marca. Muestra tu sonido antes de que lo escuchen.',
     copied: '✓ Copiado!',
   },
   ja: {
@@ -631,6 +714,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'AI がストーリーボードを構築',
     producerStep4Desc: 'ストーリーディレクター Sage がショットごとにタイムラインをカットし、必要なすべてのフォーマットをレンダリング。',
 
+    mpLabelPlatformHook: (platform) => `プラットフォームフック — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `${platform} のトレンド美学`,
+    mpLabelPlatformPerf: (platform) => `${platform} 向けパフォーマンスカット`,
+    personaLabelIndependentArtists: 'インディーズアーティスト',
+    personaLabelPlatformCreators: (platform) => `${platform} コンテンツクリエイター`,
+    personaLabelLabelsManagement: 'レーベルとマネジメント',
+    personaLabelMarketingTeams: 'マーケティングチーム',
+    ucTagPlat1: 'リリース準備完了', ucTitlePlat1: '新リリースを宣伝', ucDescPlat1: (gClean) => `シングルを${gClean}対応のビジュアルに数分で変換。アップロード、プロンプト、エクスポート — プラットフォームに最適化。`,
+    ucTagPlat2: 'コンテンツを量産', ucTitlePlat2: 'プレゼンスを拡大', ucDescPlat2: '制作予算なしで安定したMVコンテンツを提供。より多くの投稿、より広いリーチ、同じ品質。',
+    ucTagPlat3: '認識できるアイデンティティ', ucTitlePlat3: 'ビジュアルブランドを構築', ucDescPlat3: (gClean) => `${gClean}であなたの音楽に独自のスタイルを。ファンは名前を見る前にあなたのスタイルを認識します。`,
+    personaLabelOccasionA: '個人と家族',
+    personaLabelOccasionB: '思い出を作る人たち',
+    personaLabelOccasionC: 'イベントプランナー',
+    personaLabelOccasionD: 'ブランドと祝賀企業',
+    ucTagOcc1: '個人の思い出', ucTitleOcc1: '思い出のビデオ', ucDescOcc1: (glo) => `あなたの${glo}の瞬間を定義した曲をアップロード。何があったかを説明すれば — Tuneeが永遠に保存したくなるシネマティックな物語に変換。`,
+    ucTagOcc2: '心のこもったプレゼント', ucTitleOcc2: '誰かへの贈り物', ucDescOcc2: 'ギフトとしてパーソナライズされたMVを作成。お気に入りの曲と物語を語るビジュアルを組み合わせる — 撮影クルー不要。',
+    ucTagOcc3: 'ソーシャル＆シェアラブル', ucTitleOcc3: '瞬間をシェア', ucDescOcc3: (glo) => `イベントの前後に${glo}のMVを投稿 — お知らせ、感謝、または感動するハイライトとして。`,
+    personaLabelMusicProducers: '音楽プロデューサーとコラボレーター',
+    personaLabelManagersLabels: 'マネージャーとレーベル',
+    personaLabelBrandsPartneringMusic: '音楽と提携するブランド',
+    ucTagWho1: 'リリース日ビジュアル', ucTitleWho1: 'シングルリリース', ucDescWho1: (glo) => `新曲をアップロードして、リリース日にプロ仕上げの${glo} MVを用意。編集者不要、待ち時間なし。`,
+    ucTagWho2: 'カタログ全体のカバー', ucTitleWho2: 'コンテンツシリーズ', ucDescWho2: 'すべてのトラックをビジュアルに変換。クリエイティブチームなしでカタログ全体に一貫した美学を構築。',
+    ucTagWho3: '業界対応デモ', ucTitleWho3: 'ピッチ＆プロモ', ucDescWho3: 'レーベル、シンクエージェント、またはブランドパートナーにトラックをピッチするためのビジュアルを作成。聴かれる前にサウンドを見せる。',
     copied: '✓ コピーしました!',
   },
   ko: {
@@ -785,6 +891,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'AI가 스토리보드 구축',
     producerStep4Desc: '스토리 디렉터 Sage가 타임라인을 샷별로 컷하고 필요한 모든 포맷을 렌더링.',
 
+    mpLabelPlatformHook: (platform) => `플랫폼 훅 — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `${platform} 트렌드 미학`,
+    mpLabelPlatformPerf: (platform) => `${platform} 퍼포먼스 컷`,
+    personaLabelIndependentArtists: '인디 아티스트',
+    personaLabelPlatformCreators: (platform) => `${platform} 콘텐츠 크리에이터`,
+    personaLabelLabelsManagement: '레이블 및 매니지먼트',
+    personaLabelMarketingTeams: '마케팅 팀',
+    ucTagPlat1: '출시 준비 완료', ucTitlePlat1: '신곡 홍보', ucDescPlat1: (gClean) => `몇 분 안에 싱글을 ${gClean} 비주얼로 전환. 업로드, 프롬프트, 내보내기 — 플랫폼에 완벽하게 포맷됨.`,
+    ucTagPlat2: '대규모 콘텐츠', ucTitlePlat2: '존재감 키우기', ucDescPlat2: '제작 예산 없이 일관된 MV 콘텐츠. 더 많은 게시물, 더 넓은 도달, 동일한 품질.',
+    ucTagPlat3: '인식 가능한 정체성', ucTitlePlat3: '비주얼 브랜드 구축', ucDescPlat3: (gClean) => `${gClean}에서 음악에 시그니처 스타일을. 팬들은 이름을 보기 전에 당신의 스타일을 알아봅니다.`,
+    personaLabelOccasionA: '개인 및 가족',
+    personaLabelOccasionB: '추억 크리에이터',
+    personaLabelOccasionC: '이벤트 플래너',
+    personaLabelOccasionD: '브랜드 및 기념 비즈니스',
+    ucTagOcc1: '개인 기념품', ucTitleOcc1: '추억 영상', ucDescOcc1: (glo) => `${glo} 순간을 정의한 곡을 업로드하세요. 어떤 일이 있었는지 설명하면 — Tunee가 영원히 간직할 시네마틱 이야기로 만들어줍니다.`,
+    ucTagOcc2: '의미 있는 선물', ucTitleOcc2: '누군가를 위한 선물', ucDescOcc2: '선물로 개인화된 뮤직비디오를 만드세요. 좋아하는 트랙과 이야기를 담은 비주얼을 결합 — 촬영팀 필요 없음.',
+    ucTagOcc3: '소셜 & 공유 가능', ucTitleOcc3: '순간을 공유', ucDescOcc3: (glo) => `이벤트 전후로 ${glo} 뮤직비디오를 게시 — 공지, 감사 인사, 또는 감동적인 하이라이트로.`,
+    personaLabelMusicProducers: '음악 프로듀서 및 협업자',
+    personaLabelManagersLabels: '매니저 및 레이블',
+    personaLabelBrandsPartneringMusic: '음악과 협력하는 브랜드',
+    ucTagWho1: '출시일 비주얼', ucTitleWho1: '싱글 출시', ucDescWho1: (glo) => `새 트랙을 업로드하고 출시일에 전문적인 ${glo} MV를 준비. 에디터도, 기다림도 없음.`,
+    ucTagWho2: '카탈로그 전체 커버리지', ucTitleWho2: '콘텐츠 시리즈', ucDescWho2: '모든 트랙을 비주얼로 전환. 크리에이티브 팀 없이 카탈로그 전반에 일관된 미학 구축.',
+    ucTagWho3: '업계 준비 데모', ucTitleWho3: '피치 & 프로모', ucDescWho3: '레이블, 싱크 에이전트, 브랜드 파트너에게 트랙을 피치할 비주얼 제작. 듣기 전에 사운드를 보여주세요.',
     copied: '✓ 복사됨!',
   },
   ru: {
@@ -939,6 +1068,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'ИИ собирает раскадровку',
     producerStep4Desc: 'Сторителлер Sage режет таймлайн кадр за кадром и рендерит все нужные форматы.',
 
+    mpLabelPlatformHook: (platform) => `Хук для платформы — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `Трендовая эстетика ${platform}`,
+    mpLabelPlatformPerf: (platform) => `Перформанс-версия для ${platform}`,
+    personaLabelIndependentArtists: 'Независимые артисты',
+    personaLabelPlatformCreators: (platform) => `Контент-мейкеры ${platform}`,
+    personaLabelLabelsManagement: 'Лейблы и менеджмент',
+    personaLabelMarketingTeams: 'Маркетинговые команды',
+    ucTagPlat1: 'Готово к релизу', ucTitlePlat1: 'Продвижение новинки', ucDescPlat1: (gClean) => `Превратите сингл в визуал для ${gClean} за минуты. Загрузите, составьте промпт, экспортируйте — идеально отформатировано.`,
+    ucTagPlat2: 'Контент в масштабе', ucTitlePlat2: 'Развивайте присутствие', ucDescPlat2: 'Стабильный MV-контент без производственного бюджета. Больше публикаций, шире охват, то же качество.',
+    ucTagPlat3: 'Узнаваемая идентичность', ucTitlePlat3: 'Создайте визуальный бренд', ucDescPlat3: (gClean) => `Подарите своей музыке фирменный стиль на ${gClean}. Фанаты узнают вас раньше, чем увидят имя.`,
+    personaLabelOccasionA: 'Частные лица и семьи',
+    personaLabelOccasionB: 'Создатели воспоминаний',
+    personaLabelOccasionC: 'Организаторы мероприятий',
+    personaLabelOccasionD: 'Бренды и праздничный бизнес',
+    ucTagOcc1: 'Личный памятный момент', ucTitleOcc1: 'Видео-воспоминание', ucDescOcc1: (glo) => `Загрузите песню, которая стала символом вашего ${glo}. Опишите, что произошло — Tunee превратит это в кинематографическую историю, которую вы сохраните навсегда.`,
+    ucTagOcc2: 'Значимый подарок', ucTitleOcc2: 'Подарок для кого-то', ucDescOcc2: 'Создайте персональный музыкальный клип в подарок. Объедините любимый трек с визуалом, рассказывающим их историю — без съёмочной группы.',
+    ucTagOcc3: 'Для соцсетей', ucTitleOcc3: 'Поделитесь моментом', ucDescOcc3: (glo) => `Опубликуйте MV ко дню ${glo} до или после события — как анонс, благодарность или трогательный хайлайт.`,
+    personaLabelMusicProducers: 'Продюсеры и соавторы',
+    personaLabelManagersLabels: 'Менеджеры и лейблы',
+    personaLabelBrandsPartneringMusic: 'Бренды, партнёрящие с музыкантами',
+    ucTagWho1: 'Визуал к релизу', ucTitleWho1: 'Релиз сингла', ucDescWho1: (glo) => `Загрузите новый трек и получите профессиональный ${glo}-клип к дате релиза. Без редактора, без ожидания.`,
+    ucTagWho2: 'Покрытие каталога', ucTitleWho2: 'Серия контента', ucDescWho2: 'Превратите каждый трек в визуал. Выстройте единую эстетику по всему каталогу без штатной креативной команды.',
+    ucTagWho3: 'Демо для индустрии', ucTitleWho3: 'Питч и промо', ucDescWho3: 'Создайте визуал для питча трека лейблам, синк-агентам или брендовым партнёрам. Покажите звучание прежде, чем его услышат.',
     copied: '✓ Скопировано!',
   },
   fr: {
@@ -1093,6 +1245,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: "L'IA construit le storyboard",
     producerStep4Desc: 'Le Story Director Sage coupe la timeline plan par plan et rend tous les formats dont vous avez besoin.',
 
+    mpLabelPlatformHook: (platform) => `Accroche Plateforme — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `Esthétique Tendance ${platform}`,
+    mpLabelPlatformPerf: (platform) => `Clip Performance pour ${platform}`,
+    personaLabelIndependentArtists: 'Artistes indépendants',
+    personaLabelPlatformCreators: (platform) => `Créateurs ${platform}`,
+    personaLabelLabelsManagement: 'Labels et management',
+    personaLabelMarketingTeams: 'Équipes marketing',
+    ucTagPlat1: 'Prêt pour la sortie', ucTitlePlat1: 'Promouvoir une nouvelle sortie', ucDescPlat1: (gClean) => `Transformez votre single en visuel prêt pour ${gClean} en quelques minutes. Importez, créez le prompt, exportez — formaté parfaitement.`,
+    ucTagPlat2: "Contenu à l'échelle", ucTitlePlat2: 'Développez votre présence', ucDescPlat2: 'Contenu MV constant sans budget de production. Plus de publications, plus de portée, même qualité à chaque fois.',
+    ucTagPlat3: 'Identité reconnaissable', ucTitlePlat3: 'Construisez une marque visuelle', ucDescPlat3: (gClean) => `Donnez à votre musique un look signature sur ${gClean}. Les fans reconnaissent votre style avant de voir votre nom.`,
+    personaLabelOccasionA: 'Particuliers et familles',
+    personaLabelOccasionB: 'Créateurs de souvenirs',
+    personaLabelOccasionC: "Organisateurs d'événements",
+    personaLabelOccasionD: 'Marques et entreprises festives',
+    ucTagOcc1: 'Souvenir personnel', ucTitleOcc1: 'La vidéo souvenir', ucDescOcc1: (glo) => `Importez la chanson qui a défini votre moment de ${glo}. Décrivez ce qui s'est passé — Tunee le transforme en récit cinématographique que vous garderez pour toujours.`,
+    ucTagOcc2: 'Cadeau significatif', ucTitleOcc2: "Un cadeau pour quelqu'un", ucDescOcc2: "Créez un clip personnalisé en guise de cadeau. Combinez le morceau préféré avec des visuels qui racontent leur histoire — sans équipe de tournage.",
+    ucTagOcc3: 'Social et partageable', ucTitleOcc3: 'Partagez le moment', ucDescOcc3: (glo) => `Publiez un clip de ${glo} avant ou après l'événement — comme annonce, remerciement ou moment fort émouvant.`,
+    personaLabelMusicProducers: 'Producteurs et collaborateurs',
+    personaLabelManagersLabels: 'Managers et labels',
+    personaLabelBrandsPartneringMusic: 'Marques partenaires de la musique',
+    ucTagWho1: 'Visuel de sortie', ucTitleWho1: 'Sortie de single', ucDescWho1: (glo) => `Importez votre nouveau titre et ayez un clip de ${glo} d'apparence professionnelle prêt pour la date de sortie. Sans éditeur, sans attente.`,
+    ucTagWho2: 'Couverture du catalogue', ucTitleWho2: 'Série de contenu', ucDescWho2: "Transformez chaque piste en visuel. Construisez une esthétique cohérente sur l'ensemble de votre catalogue sans équipe créative salariée.",
+    ucTagWho3: "Démo prête pour l'industrie", ucTitleWho3: 'Pitch et promo', ucDescWho3: "Créez un visuel pour présenter votre piste à des labels, agents de sync ou partenaires de marque. Montrez votre son avant qu'ils ne l'entendent.",
     copied: '✓ Copié !',
   },
   de: {
@@ -1247,6 +1422,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'KI baut das Storyboard',
     producerStep4Desc: 'Story Director Sage schneidet die Timeline Shot für Shot und rendert jedes Format, das du brauchst.',
 
+    mpLabelPlatformHook: (platform) => `Plattform-Hook — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `Trending ${platform} Ästhetik`,
+    mpLabelPlatformPerf: (platform) => `Performance-Cut für ${platform}`,
+    personaLabelIndependentArtists: 'Unabhängige Künstler',
+    personaLabelPlatformCreators: (platform) => `${platform}-Content-Creator`,
+    personaLabelLabelsManagement: 'Labels & Management',
+    personaLabelMarketingTeams: 'Marketing-Teams',
+    ucTagPlat1: 'Bereit für den Release', ucTitlePlat1: 'Eine neue Veröffentlichung bewerben', ucDescPlat1: (gClean) => `Verwandeln Sie Ihre Single in ein ${gClean}-taugliches Visual in Minuten. Hochladen, Prompt erstellen, exportieren — perfekt für die Plattform formatiert.`,
+    ucTagPlat2: 'Content in großem Maßstab', ucTitlePlat2: 'Präsenz ausbauen', ucDescPlat2: 'Konsistenter MV-Content ohne Produktionsbudget. Mehr Beiträge, mehr Reichweite, gleiche Qualität.',
+    ucTagPlat3: 'Wiedererkennbare Identität', ucTitlePlat3: 'Visuelle Marke aufbauen', ucDescPlat3: (gClean) => `Geben Sie Ihrer Musik einen Signature-Look auf ${gClean}. Fans erkennen Ihren Stil, bevor sie Ihren Namen sehen.`,
+    personaLabelOccasionA: 'Einzelpersonen & Familien',
+    personaLabelOccasionB: 'Erinnerungs-Creator',
+    personaLabelOccasionC: 'Eventplaner',
+    personaLabelOccasionD: 'Marken & Eventunternehmen',
+    ucTagOcc1: 'Persönliches Andenken', ucTitleOcc1: 'Das Erinnerungsvideo', ucDescOcc1: (glo) => `Laden Sie den Song hoch, der Ihren ${glo}-Moment definiert hat. Beschreiben Sie, was passierte — Tunee macht daraus eine cinematische Geschichte, die Sie für immer behalten.`,
+    ucTagOcc2: 'Bedeutungsvolles Geschenk', ucTitleOcc2: 'Ein Geschenk für jemanden', ucDescOcc2: 'Erstellen Sie ein personalisiertes Musikvideo als Geschenk. Kombinieren Sie den Lieblingssong mit Visuals, die ihre Geschichte erzählen — kein Filmteam erforderlich.',
+    ucTagOcc3: 'Social & teilbar', ucTitleOcc3: 'Den Moment teilen', ucDescOcc3: (glo) => `Posten Sie ein ${glo}-Musikvideo vor oder nach dem Event — als Ankündigung, Dankeschön oder bewegendes Highlight.`,
+    personaLabelMusicProducers: 'Musikproduzenten & Kollaboratoren',
+    personaLabelManagersLabels: 'Manager & Labels',
+    personaLabelBrandsPartneringMusic: 'Marken, die mit Musik kooperieren',
+    ucTagWho1: 'Release-Visual', ucTitleWho1: 'Single-Release', ucDescWho1: (glo) => `Laden Sie Ihren neuen Track hoch und haben Sie ein professionell wirkendes ${glo}-Musikvideo zum Release-Datum bereit. Kein Editor, kein Warten.`,
+    ucTagWho2: 'Katalog-Abdeckung', ucTitleWho2: 'Content-Reihe', ucDescWho2: 'Verwandeln Sie jeden Track in ein Visual. Bauen Sie eine konsistente Ästhetik über Ihren gesamten Katalog auf — ohne kreatives Team auf der Gehaltsliste.',
+    ucTagWho3: 'Industrie-fertiges Demo', ucTitleWho3: 'Pitch & Promo', ucDescWho3: 'Erstellen Sie ein Visual, um Ihren Track bei Labels, Sync-Agenten oder Markenpartnern einzureichen. Zeigen Sie Ihren Sound, bevor er gehört wird.',
     copied: '✓ Kopiert!',
   },
   pt: {
@@ -1401,6 +1599,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'A IA constrói o storyboard',
     producerStep4Desc: 'O Story Director Sage corta a timeline shot a shot e renderiza todos os formatos que você precisa.',
 
+    mpLabelPlatformHook: (platform) => `Gancho de Plataforma — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `Estética Tendência de ${platform}`,
+    mpLabelPlatformPerf: (platform) => `Corte de Performance para ${platform}`,
+    personaLabelIndependentArtists: 'Artistas independentes',
+    personaLabelPlatformCreators: (platform) => `Criadores de ${platform}`,
+    personaLabelLabelsManagement: 'Selos e gerenciamento',
+    personaLabelMarketingTeams: 'Equipes de marketing',
+    ucTagPlat1: 'Pronto para o lançamento', ucTitlePlat1: 'Promova um novo lançamento', ucDescPlat1: (gClean) => `Transforme seu single em um visual pronto para ${gClean} em minutos. Faça upload, escreva o prompt, exporte — formatado perfeitamente.`,
+    ucTagPlat2: 'Conteúdo em escala', ucTitlePlat2: 'Expanda sua presença', ucDescPlat2: 'Conteúdo de MV consistente sem orçamento de produção. Mais publicações, mais alcance, mesma qualidade.',
+    ucTagPlat3: 'Identidade reconhecível', ucTitlePlat3: 'Construa uma marca visual', ucDescPlat3: (gClean) => `Dê à sua música um visual signature no ${gClean}. Os fãs reconhecem seu estilo antes de ver seu nome.`,
+    personaLabelOccasionA: 'Indivíduos e famílias',
+    personaLabelOccasionB: 'Criadores de memórias',
+    personaLabelOccasionC: 'Organizadores de eventos',
+    personaLabelOccasionD: 'Marcas e empresas de celebração',
+    ucTagOcc1: 'Lembrança pessoal', ucTitleOcc1: 'O vídeo da memória', ucDescOcc1: (glo) => `Faça upload da música que definiu seu momento de ${glo}. Descreva o que aconteceu — Tunee transforma isso em uma narrativa cinematográfica que você vai guardar para sempre.`,
+    ucTagOcc2: 'Presente significativo', ucTitleOcc2: 'Um presente para alguém', ucDescOcc2: 'Crie um videoclipe personalizado como presente. Combine a música favorita com visuais que contam sua história — sem equipe de filmagem.',
+    ucTagOcc3: 'Social e compartilhável', ucTitleOcc3: 'Compartilhe o momento', ucDescOcc3: (glo) => `Publique um MV de ${glo} antes ou após o evento — como anúncio, agradecimento ou destaque emocionante.`,
+    personaLabelMusicProducers: 'Produtores e colaboradores musicais',
+    personaLabelManagersLabels: 'Managers e selos',
+    personaLabelBrandsPartneringMusic: 'Marcas em parceria com músicos',
+    ucTagWho1: 'Visual de lançamento', ucTitleWho1: 'Lançamento de single', ucDescWho1: (glo) => `Faça upload da sua nova faixa e tenha um MV de ${glo} com visual profissional pronto para a data de lançamento. Sem editor, sem espera.`,
+    ucTagWho2: 'Cobertura de catálogo', ucTitleWho2: 'Série de conteúdo', ucDescWho2: 'Transforme cada faixa em um visual. Construa uma estética consistente em todo o catálogo sem uma equipe criativa na folha de pagamento.',
+    ucTagWho3: 'Demo pronto para a indústria', ucTitleWho3: 'Pitch e promo', ucDescWho3: 'Crie um visual para apresentar sua faixa a selos, agentes de sync ou parceiros de marca. Mostre seu som antes de eles ouvirem.',
     copied: '✓ Copiado!',
   },
   it: {
@@ -1555,6 +1776,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: "L'AI costruisce lo storyboard",
     producerStep4Desc: 'Lo Story Director Sage taglia la timeline shot per shot e renderizza ogni formato di cui hai bisogno.',
 
+    mpLabelPlatformHook: (platform) => `Gancio Piattaforma — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `Estetica Trend ${platform}`,
+    mpLabelPlatformPerf: (platform) => `Performance Cut per ${platform}`,
+    personaLabelIndependentArtists: 'Artisti indipendenti',
+    personaLabelPlatformCreators: (platform) => `Creator di ${platform}`,
+    personaLabelLabelsManagement: 'Label e management',
+    personaLabelMarketingTeams: 'Team marketing',
+    ucTagPlat1: 'Pronto per il lancio', ucTitlePlat1: 'Promuovi una nuova uscita', ucDescPlat1: (gClean) => `Trasforma il tuo singolo in un visual per ${gClean} in pochi minuti. Carica, crea il prompt, esporta — formattato perfettamente.`,
+    ucTagPlat2: 'Contenuto su scala', ucTitlePlat2: 'Aumenta la tua presenza', ucDescPlat2: 'Contenuto MV coerente senza budget di produzione. Più post, più portata, stessa qualità ogni volta.',
+    ucTagPlat3: 'Identità riconoscibile', ucTitlePlat3: 'Costruisci un brand visivo', ucDescPlat3: (gClean) => `Dai alla tua musica uno stile riconoscibile su ${gClean}. I fan riconoscono il tuo stile prima di vedere il tuo nome.`,
+    personaLabelOccasionA: 'Individui e famiglie',
+    personaLabelOccasionB: 'Creatori di ricordi',
+    personaLabelOccasionC: 'Organizzatori di eventi',
+    personaLabelOccasionD: 'Brand e aziende per celebrazioni',
+    ucTagOcc1: 'Ricordo personale', ucTitleOcc1: 'Il video dei ricordi', ucDescOcc1: (glo) => `Carica la canzone che ha definito il tuo momento di ${glo}. Descrivi cosa è successo — Tunee lo trasforma in una narrazione cinematografica che conserverai per sempre.`,
+    ucTagOcc2: 'Regalo significativo', ucTitleOcc2: 'Un regalo per qualcuno', ucDescOcc2: 'Crea un video musicale personalizzato come regalo. Combina il brano preferito con visual che raccontano la loro storia — nessuna troupe necessaria.',
+    ucTagOcc3: 'Social e condivisibile', ucTitleOcc3: 'Condividi il momento', ucDescOcc3: (glo) => `Pubblica un MV di ${glo} prima o dopo l'evento — come annuncio, ringraziamento o highlight emozionante.`,
+    personaLabelMusicProducers: 'Produttori e collaboratori musicali',
+    personaLabelManagersLabels: 'Manager e label',
+    personaLabelBrandsPartneringMusic: 'Brand in partnership con artisti',
+    ucTagWho1: 'Visual per il lancio', ucTitleWho1: 'Lancio del singolo', ucDescWho1: (glo) => `Carica il tuo nuovo brano e avrai un MV di ${glo} dall'aspetto professionale pronto per la data di lancio. Nessun editor, nessuna attesa.`,
+    ucTagWho2: 'Copertura del catalogo', ucTitleWho2: 'Serie di contenuti', ucDescWho2: "Trasforma ogni brano in un visual. Costruisci un'estetica coerente su tutto il catalogo senza un team creativo in organico.",
+    ucTagWho3: "Demo pronto per l'industria", ucTitleWho3: 'Pitch & promo', ucDescWho3: "Crea un visual per presentare il tuo brano a label, agenti di sync o partner brand. Mostra il tuo suono prima che lo ascoltino.",
     copied: '✓ Copiato!',
   },
   'zh-HK': {
@@ -1709,6 +1953,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'AI 建構分鏡',
     producerStep4Desc: '故事導演 Sage 逐鏡剪輯時間軸，並渲染你需要的每種格式。',
 
+    mpLabelPlatformHook: (platform) => `平台鉤子 — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `${platform} 趨勢美學`,
+    mpLabelPlatformPerf: (platform) => `${platform} 表演剪輯`,
+    personaLabelIndependentArtists: '獨立音樂人',
+    personaLabelPlatformCreators: (platform) => `${platform} 創作者`,
+    personaLabelLabelsManagement: '唱片公司與經紀人',
+    personaLabelMarketingTeams: '市場推廣團隊',
+    ucTagPlat1: '發行日準備就緒', ucTitlePlat1: '推廣新作品', ucDescPlat1: (gClean) => `數分鐘內將單曲轉為 ${gClean} 視覺內容。上傳、輸入提示、匯出 — 完美適配平台格式。`,
+    ucTagPlat2: '大規模內容', ucTitlePlat2: '擴大影響力', ucDescPlat2: '無需製作預算，持續輸出 MV 內容。發佈更多，觸及更廣，品質如一。',
+    ucTagPlat3: '獨特品牌形象', ucTitlePlat3: '建立視覺品牌', ucDescPlat3: (gClean) => `在 ${gClean} 上打造音樂的專屬風格。粉絲在看到名字之前就能認出你的風格。`,
+    personaLabelOccasionA: '個人與家庭',
+    personaLabelOccasionB: '記憶創作者',
+    personaLabelOccasionC: '活動策劃師',
+    personaLabelOccasionD: '品牌與慶典企業',
+    ucTagOcc1: '個人紀念', ucTitleOcc1: '記憶影片', ucDescOcc1: (glo) => `上傳定義你 ${glo} 時刻的歌曲。描述發生了什麼 — Tunee 將其轉化為你永久珍藏的電影式敘事。`,
+    ucTagOcc2: '心意禮物', ucTitleOcc2: '送給某人的禮物', ucDescOcc2: '製作個人化音樂影片作為禮物。將最愛的歌曲與講述故事的視覺結合 — 無需攝影團隊。',
+    ucTagOcc3: '社交分享', ucTitleOcc3: '分享這一刻', ucDescOcc3: (glo) => `在活動前後發布 ${glo} 音樂影片 — 作為公告、感謝或動人的精彩片段。`,
+    personaLabelMusicProducers: '音樂製作人與合作者',
+    personaLabelManagersLabels: '經紀人與唱片公司',
+    personaLabelBrandsPartneringMusic: '與音樂合作的品牌',
+    ucTagWho1: '發行日視覺', ucTitleWho1: '單曲發行', ucDescWho1: (glo) => `上傳新歌曲，在發行日前準備好專業水準的 ${glo} 音樂影片。無需編輯師，無需等待。`,
+    ucTagWho2: '作品目錄覆蓋', ucTitleWho2: '內容系列', ucDescWho2: '將每首歌都轉化為視覺作品。無需專職創意團隊，在整個作品目錄中建立一致的美學風格。',
+    ucTagWho3: '業界就緒示範', ucTitleWho3: '提案與推廣', ucDescWho3: '製作視覺內容向唱片公司、同步授權代理或品牌合作夥伴推介你的音軌。讓他們在聆聽之前先看見你的聲音。',
     copied: '✓ 已複製!',
   },
   'zh-CN': {
@@ -1863,6 +2130,29 @@ export const T: Record<string, UIStrings> = {
     producerStep4Title: 'AI 构建分镜',
     producerStep4Desc: '故事导演 Sage 逐镜剪辑时间轴，并渲染你需要的每种格式。',
 
+    mpLabelPlatformHook: (platform) => `平台钩子 — ${platform}`,
+    mpLabelPlatformTrending: (platform) => `${platform} 趋势美学`,
+    mpLabelPlatformPerf: (platform) => `${platform} 表演剪辑`,
+    personaLabelIndependentArtists: '独立音乐人',
+    personaLabelPlatformCreators: (platform) => `${platform} 创作者`,
+    personaLabelLabelsManagement: '唱片公司与经纪人',
+    personaLabelMarketingTeams: '市场推广团队',
+    ucTagPlat1: '发行日准备就绪', ucTitlePlat1: '推广新作品', ucDescPlat1: (gClean) => `几分钟内将单曲转为 ${gClean} 视觉内容。上传、输入提示、导出 — 完美适配平台格式。`,
+    ucTagPlat2: '大规模内容', ucTitlePlat2: '扩大影响力', ucDescPlat2: '无需制作预算，持续输出 MV 内容。发布更多，触达更广，品质如一。',
+    ucTagPlat3: '独特品牌形象', ucTitlePlat3: '建立视觉品牌', ucDescPlat3: (gClean) => `在 ${gClean} 上打造音乐的专属风格。粉丝在看到名字之前就能认出你的风格。`,
+    personaLabelOccasionA: '个人与家庭',
+    personaLabelOccasionB: '记忆创作者',
+    personaLabelOccasionC: '活动策划师',
+    personaLabelOccasionD: '品牌与庆典企业',
+    ucTagOcc1: '个人纪念', ucTitleOcc1: '记忆视频', ucDescOcc1: (glo) => `上传定义你 ${glo} 时刻的歌曲。描述发生了什么 — Tunee 将其转化为你永久珍藏的电影式叙事。`,
+    ucTagOcc2: '心意礼物', ucTitleOcc2: '送给某人的礼物', ucDescOcc2: '制作个性化音乐视频作为礼物。将最爱的歌曲与讲述故事的视觉结合 — 无需摄影团队。',
+    ucTagOcc3: '社交分享', ucTitleOcc3: '分享这一刻', ucDescOcc3: (glo) => `在活动前后发布 ${glo} 音乐视频 — 作为公告、感谢或动人的精彩片段。`,
+    personaLabelMusicProducers: '音乐制作人与合作者',
+    personaLabelManagersLabels: '经纪人与唱片公司',
+    personaLabelBrandsPartneringMusic: '与音乐合作的品牌',
+    ucTagWho1: '发行日视觉', ucTitleWho1: '单曲发行', ucDescWho1: (glo) => `上传新歌曲，在发行日前准备好专业水准的 ${glo} 音乐视频。无需编辑师，无需等待。`,
+    ucTagWho2: '作品目录覆盖', ucTitleWho2: '内容系列', ucDescWho2: '将每首歌都转化为视觉作品。无需专职创意团队，在整个作品目录中建立一致的美学风格。',
+    ucTagWho3: '行业就绪示范', ucTitleWho3: '提案与推广', ucDescWho3: '制作视觉内容向唱片公司、同步授权代理或品牌合作伙伴推介你的音轨。让他们在聆听之前先看见你的声音。',
     copied: '✓ 已复制!',
   },
 }
