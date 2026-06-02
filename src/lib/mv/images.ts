@@ -95,19 +95,36 @@ function simpleHash(s: string): number {
 }
 
 /**
- * Per-slug custom gallery overrides.
+ * Gallery asset overrides — supports BOTH images and video clips.
  *
- * Drop files at `public/mv-gallery/<slug>/1.{webp,png,jpg,jpeg,gif}` (and 2.*, 3.*)
- * and they'll be used in the Gallery section in place of Pexels/LoremFlickr.
- * Indexes that don't have a custom file fall back to the normal flickrUrl pipeline,
- * so partial overrides work.
+ * Per-slug: drop files at `public/mv-gallery/<slug>/{1,2,3}.<ext>` where
+ *   image: webp / png / jpg / jpeg / gif
+ *   video: mp4  / webm / mov
+ * They'll replace the Pexels/LoremFlickr placeholder for that slot. Mix
+ * freely (e.g. `1.mp4 + 2.webp + 3.jpg`).
  *
- * Probed once per build per slug — cheap because it's run at SSG time.
+ * Pool fallback (for slot 1 only — the prominent hero/large slot):
+ *   `public/mv-gallery/_pool/{1..N}.mp4` (or webm/webp/gif)
+ *   Picked deterministically by slug hash so each slug consistently shows
+ *   the same MV clip. Keeps thumb slots as static images to limit bandwidth.
+ *
+ * Probed once per build per slug.
  */
-const _customCache = new Map<string, Map<number, string | null>>();
-const CUSTOM_EXTS = ['webp', 'png', 'jpg', 'jpeg', 'gif'] as const;
+const VIDEO_EXTS = ['mp4', 'webm', 'mov'] as const;
+const IMAGE_EXTS = ['webp', 'png', 'jpg', 'jpeg', 'gif'] as const;
+const CUSTOM_EXTS = [...VIDEO_EXTS, ...IMAGE_EXTS] as const;
 
-function getCustomGalleryImage(slug: string, idx: number): string | null {
+export type AssetType = 'image' | 'video';
+export interface GalleryAsset { url: string; type: AssetType }
+
+function detectType(ext: string): AssetType {
+  return (VIDEO_EXTS as readonly string[]).includes(ext) ? 'video' : 'image';
+}
+
+const _customCache = new Map<string, Map<number, GalleryAsset | null>>();
+let _poolCache: { files: string[] } | null = null;
+
+function getCustomGalleryAsset(slug: string, idx: number): GalleryAsset | null {
   let slugMap = _customCache.get(slug);
   if (!slugMap) {
     slugMap = new Map();
@@ -123,13 +140,58 @@ function getCustomGalleryImage(slug: string, idx: number): string | null {
   for (const ext of CUSTOM_EXTS) {
     const abs = path.join(dir, `${idx}.${ext}`);
     if (fs.existsSync(abs)) {
-      const url = publicAssetUrl(`/mv-gallery/${slug}/${idx}.${ext}`);
-      slugMap.set(idx, url);
-      return url;
+      const asset: GalleryAsset = {
+        url: publicAssetUrl(`/mv-gallery/${slug}/${idx}.${ext}`),
+        type: detectType(ext),
+      };
+      slugMap.set(idx, asset);
+      return asset;
     }
   }
   slugMap.set(idx, null);
   return null;
+}
+
+function getPoolAsset(seed: number): GalleryAsset | null {
+  if (!_poolCache) {
+    const poolDir = path.join(process.cwd(), 'public', 'mv-gallery', '_pool');
+    if (!fs.existsSync(poolDir)) {
+      _poolCache = { files: [] };
+    } else {
+      _poolCache = {
+        files: fs.readdirSync(poolDir).filter((f) =>
+          (CUSTOM_EXTS as readonly string[]).some((ext) => f.toLowerCase().endsWith(`.${ext}`))
+        ).sort(),
+      };
+    }
+  }
+  if (_poolCache.files.length === 0) return null;
+  const pick = _poolCache.files[seed % _poolCache.files.length];
+  const ext = pick.split('.').pop()!.toLowerCase();
+  return { url: publicAssetUrl(`/mv-gallery/_pool/${pick}`), type: detectType(ext) };
+}
+
+/**
+ * Public API: get the gallery asset for a slug at slot idx (1-3).
+ * Slot 1 (large/hero) prefers video; slots 2-3 stay images unless overridden.
+ */
+export function getGalleryAsset(
+  cfg: MvConfig,
+  w: number,
+  h: number,
+  idx: number,
+  imageCache: Record<string, PexelsPhoto[]> = {}
+): GalleryAsset {
+  // 1) per-slug override (any extension)
+  const custom = getCustomGalleryAsset(cfg.slug, idx);
+  if (custom) return custom;
+  // 2) pool fallback — only for slot 1 (the prominent hero spot)
+  if (idx === 1) {
+    const pool = getPoolAsset(simpleHash(cfg.slug));
+    if (pool) return pool;
+  }
+  // 3) existing image pipeline (Pexels → Picsum → LoremFlickr)
+  return { url: flickrUrl(cfg, w, h, idx, imageCache), type: 'image' };
 }
 
 export function flickrUrl(
@@ -139,11 +201,8 @@ export function flickrUrl(
   idx: number = 0,
   imageCache: Record<string, PexelsPhoto[]> = {}
 ): string {
-  // 0) Custom per-slug override (e.g. real Tunee output screenshots)
-  const custom = getCustomGalleryImage(cfg.slug, idx);
-  if (custom) return custom;
-
-
+  // (overrides + pool are now handled by getGalleryAsset which calls this
+  // function as its image fallback — don't re-check overrides here)
   const slug = cfg.slug
   const vk = cfg.visual_keywords || []
   const seed = simpleHash(slug + String(idx)) % 9999

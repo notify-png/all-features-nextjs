@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { setRequestLocale } from 'next-intl/server'
 import { LOCALES } from '@/i18n/routing'
 import { getAllSlugs, getConfig, getContent, getImageCache } from '@/lib/mv/data'
-import { flickrUrl } from '@/lib/mv/images'
+import { getGalleryAsset } from '@/lib/mv/images'
 import {
   getH1,
   getLead,
@@ -348,11 +348,13 @@ const PAGE_CSS = `
   .mvs .gallery-grid .rv:first-child { grid-row: span 1; }
 }
 .mvs .gallery-item { position: relative; border-radius: var(--r-lg); overflow: hidden; background: var(--surface-2); }
-.mvs .gallery-item img {
+.mvs .gallery-item img,
+.mvs .gallery-item video {
   width: 100%; height: 100%; object-fit: cover; display: block;
   transition: transform .5s var(--ease-out);
 }
-.mvs .gallery-item:hover img { transform: scale(1.04); }
+.mvs .gallery-item:hover img,
+.mvs .gallery-item:hover video { transform: scale(1.04); }
 .mvs .gallery-label {
   position: absolute; bottom: 0; left: 0; right: 0;
   padding: 24px 16px 14px;
@@ -544,10 +546,11 @@ export default async function LocaleSlugPage(
 
   const tagWords = [...vk.slice(0, 4), ...mw.slice(0, 2)]
 
-  // Gallery images
-  const img1 = flickrUrl(cfg, 600, 420, 1, imageCache)
-  const img2 = flickrUrl(cfg, 400, 220, 2, imageCache)
-  const img3 = flickrUrl(cfg, 400, 220, 3, imageCache)
+  // Gallery: slot 1 prefers MV video clip (per-slug override or _pool fallback);
+  // slots 2-3 stay as images (per-slug override or Pexels/LoremFlickr).
+  const asset1 = getGalleryAsset(cfg, 600, 420, 1, imageCache)
+  const asset2 = getGalleryAsset(cfg, 400, 220, 2, imageCache)
+  const asset3 = getGalleryAsset(cfg, 400, 220, 3, imageCache)
 
   return (
     <>
@@ -718,36 +721,56 @@ export default async function LocaleSlugPage(
             </p>
             <div className="gallery-grid">
               <div className="gallery-item rv rv-1" style={{ gridRow: 'span 2' }}>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={img1}
-                  alt={`${vk[0] || genre} aesthetic — AI ${genre} music video`}
-                  loading="lazy"
-                  width={600}
-                  height={420}
-                />
+                {asset1.type === 'video' ? (
+                  <video
+                    src={asset1.url}
+                    autoPlay
+                    muted
+                    loop
+                    playsInline
+                    preload="metadata"
+                    aria-label={`AI-generated ${genre} music video sample`}
+                  />
+                ) : (
+                  /* eslint-disable-next-line @next/next/no-img-element */
+                  <img
+                    src={asset1.url}
+                    alt={`${vk[0] || genre} aesthetic — AI ${genre} music video`}
+                    loading="lazy"
+                    width={600}
+                    height={420}
+                  />
+                )}
                 <div className="gallery-label">{vk[0] ? titleCase(vk[0]) : t.galleryLabel1}</div>
               </div>
               <div className="gallery-item rv rv-2">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={img2}
-                  alt={`${genre} music video scene — ${vk[1] || vk[0] || genre} visual`}
-                  loading="lazy"
-                  width={400}
-                  height={220}
-                />
+                {asset2.type === 'video' ? (
+                  <video src={asset2.url} autoPlay muted loop playsInline preload="metadata" />
+                ) : (
+                  /* eslint-disable-next-line @next/next/no-img-element */
+                  <img
+                    src={asset2.url}
+                    alt={`${genre} music video scene — ${vk[1] || vk[0] || genre} visual`}
+                    loading="lazy"
+                    width={400}
+                    height={220}
+                  />
+                )}
                 <div className="gallery-label">{vk[1] ? titleCase(vk[1]) : t.galleryLabel2}</div>
               </div>
               <div className="gallery-item rv rv-3">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={img3}
-                  alt={`${genre} music video mood — ${mw[0] || 'cinematic'} atmosphere`}
-                  loading="lazy"
-                  width={400}
-                  height={220}
-                />
+                {asset3.type === 'video' ? (
+                  <video src={asset3.url} autoPlay muted loop playsInline preload="metadata" />
+                ) : (
+                  /* eslint-disable-next-line @next/next/no-img-element */
+                  <img
+                    src={asset3.url}
+                    alt={`${genre} music video mood — ${mw[0] || 'cinematic'} atmosphere`}
+                    loading="lazy"
+                    width={400}
+                    height={220}
+                  />
+                )}
                 <div className="gallery-label">{mw[0] ? titleCase(mw[0]) : t.galleryLabel3}</div>
               </div>
             </div>
