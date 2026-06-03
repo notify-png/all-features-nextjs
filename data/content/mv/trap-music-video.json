@@ -39,5 +39,23 @@
       "q": "Can I create a Trap music video without any video editing experience?",
       "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Trap style, and the AI generates your video in minutes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT TRAP",
+    "h2": "Trap video is Atlanta after midnight, regardless of where it was shot",
+    "sections": [
+      {
+        "heading": "What trap looks like",
+        "body": "Trap MVs operate in a specific nocturnal palette: streetlight orange, gas-station fluorescent, headlights, the blue of phone screens. Locations are gas stations, strip mall parking lots, trap house interiors, foreign-car interiors. The rapper is usually in tight frame with one or two crew members visible behind. Wardrobe is current — designer hoodies, layered chains, fresh sneakers. The hi-hat dictates the cut rate. Smoke is in frame more often than not. Faces stay partially shadowed even in close-up."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Future's Mask Off built the modern trap MV vocabulary — night scenes, foreign cars, crew shots. Migos' Bad and Boujee codified the choreographed-but-not-dance trap visual. 21 Savage's Bank Account brings the minimal, controlled-frame approach. Young Thug, Gunna, and Lil Baby fill out the current visual register. Older references — Three 6 Mafia, OutKast's Atlanta-grounded videos — remain the source material. The constant: Atlanta as either real location or invoked spirit."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Lock down your time of day before anything else. 'Two AM, parking lot lit by sodium streetlight and one car's headlights, foreground subject in shadow with rim light only' gives Tunee a base that reads as trap immediately. Specify the car: 'matte-black foreign coupe, doors up'. Add hi-hat-timed cuts in the chorus — three quick frames in a row, then a held wide. Resist clean key light. Trap lives in the half-shadow."
+      }
+    ]
+  }
 }

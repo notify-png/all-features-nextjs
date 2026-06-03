@@ -39,5 +39,23 @@
       "q": "Does it support exporting J-pop music videos in 4K resolution?",
       "a": "Absolutely. Tunee exports J-pop music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT J-POP",
+    "h2": "J-pop video moves at the speed of attention itself",
+    "sections": [
+      {
+        "heading": "What j-pop looks like",
+        "body": "J-pop MV pacing is faster than almost any Western pop equivalent — three-second average shot length, sometimes less. Sets are graphic and color-coded by section, often shifting completely between verse and chorus. Choreography is precise but expressive, not military like K-pop. Anime influence shows up in framing: speed lines, impact frames, sudden zoom-ins on a single eye. Wardrobe leans either streetwear-coded or theatrically styled, rarely in between."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Yoasobi's Idol shows the current peak — fast cuts, anime tie-in, color-coded scene blocks. Vaundy's Kaiju no Hanauta proves a single performer in shifting environments can carry it. Ado's vocal videos lean fully animated. King Gnu's Hakujitsu uses muted palette and slow burn to break the rules. Mrs. GREEN APPLE and Official HIGE DANdism fill out the modern reference set. The constant is precision — every frame is composed, never accidental."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Block the song into sections before you prompt. Verse one might be a pastel bedroom; pre-chorus a hallway in cool blue; chorus a saturated red soundstage with the full dance crew. Tell Tunee to switch palette on each section break. Specify shot length: 'two-second cuts throughout the chorus, hold the bridge for six'. Add one anime-grammar element per chorus — a sudden close-up on hands, a freeze frame, a screen-shake. The genre rewards visual ambition."
+      }
+    ]
+  }
 }

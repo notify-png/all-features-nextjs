@@ -39,5 +39,23 @@
       "q": "Does it work with any genre of music, or only Latin?",
       "a": "Tunee supports a wide range of genres and visual styles beyond Latin. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT LATIN",
+    "h2": "Latin video carries fashion, geography, and rhythm at the same weight",
+    "sections": [
+      {
+        "heading": "What latin looks like",
+        "body": "Latin MVs blur reggaeton's club energy with flamenco's drama and the open-air shoots of Mexican regional pop. Wardrobe is the loudest channel — couture mixed with streetwear, gold detail, cultural reference points worn deliberately. Settings move between coastal landscapes, urban rooftops, and constructed dreamscapes. The camera rarely sits still; it circles, cranes, swings. Edits ride the percussion, which means tight cuts on the dembow rhythm and breaths held during the melodic moments."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Bad Bunny's Tití Me Preguntó shows how to mix Puerto Rican neighborhood reality with fashion-film polish. Rosalía's Motomami era is a masterclass in stripped staging — white walls, motorcycles, full commitment to the concept. Karol G's PROVENZA defined a softer, golden-hour Latin pop palette. Maluma, Peso Pluma, and Feid carry the genre forward in different lanes. The shared rule: culture appears as setting, never as costume."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Anchor in a real place before anything else. 'Rooftop in San Juan at sunset, palms visible, distant ocean' gives Tunee a foundation that fashion and choreography can sit on top of. Specify wardrobe details — 'gold chains, white tank, baggy linen pants' — at the same level of detail as the location. Cut tight to the dembow on choruses, then let one long shot run during a verse for contrast. The genre rewards both density and breath."
+      }
+    ]
+  }
 }

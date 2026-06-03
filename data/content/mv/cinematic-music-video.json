@@ -39,5 +39,23 @@
       "q": "Does Tunee's Cinematic music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Cinematic music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT CINEMATIC MV",
+    "h2": "What 'cinematic' actually means when a director says it",
+    "sections": [
+      {
+        "heading": "The cinematic checklist",
+        "body": "Cinematic is the most abused word in video briefs. Strip it down and it means a specific set of choices: anamorphic 2.39:1 or 2.4:1 framing with oval bokeh and horizontal lens flares, 24fps motion cadence with a 180-degree shutter, color graded toward teal-and-orange or a custom LUT, film grain at the level you'd see in a 35mm print scan. Get any one of those wrong and a viewer who watches movies will feel it before they can name it."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Directors of photography people actually cite: Roger Deakins (1917, Blade Runner 2049), Emmanuel Lubezki (Children of Men, The Revenant), Hoyte van Hoytema (Interstellar, Oppenheimer). Music-video specific cinematic references: Hiro Murai's work for Childish Gambino (This Is America, Sober), Spike Jonze's Weapon of Choice, anything Jonas Akerlund cut for Madonna. The vocabulary is shared with feature film - Tunee's cinematic model trains on the same DP language so 'Deakins-style backlit silhouette' resolves correctly."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Lock the aspect ratio in the prompt: 'anamorphic 2.39:1, oval bokeh, horizontal lens flare'. Specify the film stock: 'Kodak Vision3 500T, fine grain' or 'Fuji Eterna, muted contrast'. Name one DP as a reference rather than describing the look in adjectives - 'lit like Deakins in 1917' communicates more than three sentences of color description. Skip 'cinematic' as a standalone word; it's too vague to steer anything."
+      }
+    ]
+  }
 }

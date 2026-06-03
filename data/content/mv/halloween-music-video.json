@@ -39,5 +39,23 @@
       "q": "Does it work with any genre of music, or only Halloween?",
       "a": "Tunee supports a wide range of genres and visual styles beyond Halloween. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE HALLOWEEN MV",
+    "h2": "A Halloween video that earns its scares instead of borrowing them",
+    "sections": [
+      {
+        "heading": "Why Halloween MVs work",
+        "body": "Halloween is the rare holiday where a music video is part of the canon — Thriller still defines the genre 40 years later. The format rewards effort: costume parties, haunted-house walkthroughs, pumpkin patches, and trick-or-treat runs all benefit from a scored cut more than a raw clip. The October 31st post is going to compete with thousands of others, so a 60-second MV with a coherent visual through-line outperforms a phone dump."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Horror cinematographers lean on a stable kit: low-angle porch shot with jack-o'-lantern glow, candle-only interiors with hard shadows, fog through bare trees, slow dolly-in on a mask, the over-the-shoulder hallway shot. Color grade is teal-and-orange for kid-friendly, desaturated with green push for actual horror. Specify which tier you want — costume-party fun or genuine creep — and the visual register locks in."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "The mistake is asking for 'spooky Halloween scene' — too vague, you get generic pumpkins. Instead, name a specific horror reference (Sinister opening, It Follows pool scene, Hereditary kitchen) and a costume specific to your shoot. Tunee's model has the visual grammar of the genre; give it a director-style brief and it returns frames worth posting."
+      }
+    ]
+  }
 }

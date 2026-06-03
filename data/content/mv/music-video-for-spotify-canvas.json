@@ -39,5 +39,23 @@
       "q": "Does Tunee's Spotify Canvas music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Spotify Canvas music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR SPOTIFY CANVAS",
+    "h2": "Canvas is 3 to 8 seconds. It has to loop. And it can't have audio of its own",
+    "sections": [
+      {
+        "heading": "What Canvas actually is",
+        "body": "Spotify Canvas is the looping vertical video that plays behind a track on the Now Playing screen — 3 to 8 seconds, 9:16, no native audio (the song is the audio). The format is a loop, which means the first and last frame need to match cleanly or the user sees a hard cut every 8 seconds. Most labels still upload a static album cover because nailing a seamless 8-second loop without an editor is more work than they want to do."
+      },
+      {
+        "heading": "What works in 8 seconds",
+        "body": "Three formats dominate: a slow-motion portrait that loops on a held expression, an abstract texture (smoke, water, ink in milk) where the loop point is invisible, or a single repeating motion (a record spinning, a hand drumming, a curtain breathing) that's already cyclical. Anything narrative is wrong for the format — the viewer has no audio context and only 8 seconds. Mood, not story."
+      },
+      {
+        "heading": "How Tunee renders for Canvas",
+        "body": "Pick the Canvas preset and the generator constrains itself to a single coherent shot, 8 seconds max, with the first and last frame forced to match. No cuts inside the clip. Output is 9:16 at 720p (Canvas spec), MP4, under 8MB. The same source generation produces a static album-cover frame grab so you can update the artwork alongside the Canvas in one upload to Spotify for Artists."
+      }
+    ]
+  }
 }

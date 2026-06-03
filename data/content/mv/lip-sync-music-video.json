@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Lip Sync music video to compare?",
       "a": "Yes. You can generate several variations of your Lip Sync music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT LIP-SYNC MV",
+    "h2": "Lip sync is the most quietly difficult MV format",
+    "sections": [
+      {
+        "heading": "What lip-sync video requires",
+        "body": "Lip sync sounds simple - performer mouths the words on camera - but it's the format with the least margin for error. The audience tracks lip-vocal alignment unconsciously and any drift past a few frames pulls them out completely. The mouth has to match consonant placement (B/P/M close completely, F/V tuck lip under teeth, vowels open differently). Beyond sync, the format needs visual interest from one subject for a full song duration, which is mostly about lighting, framing changes, and performer energy."
+      },
+      {
+        "heading": "When to use it",
+        "body": "Lip-sync MV is the right call when the artist's face and presence carry the song (Lana Del Rey, The Weeknd, Adele), when budget is small and one location plus one performer is the constraint, when releasing a single where the focus is the vocal melody, or for TikTok-bait where short clips need close-up face content. Lip-sync content also dominates RuPaul's Drag Race-adjacent reference culture, and any fashion-house mood-film tradition. It's underrated because directors call it 'just a performance video'."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "When generating lip-sync with Tunee, lock the performer position and add lighting variation across the song: 'medium close-up, performer center frame; lighting changes from cool blue on verse to warm amber on chorus'. Specify mouth-shape priority: 'precise consonant alignment, B/P/M closed lips on those phonemes'. Add one prop or wardrobe change per section to give visual chapters. Keep the camera distance consistent - switching between wide and tight on lip-sync breaks the spell."
+      }
+    ]
+  }
 }

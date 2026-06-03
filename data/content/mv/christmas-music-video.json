@@ -39,5 +39,23 @@
       "q": "Does Tunee's Christmas music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Christmas music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE CHRISTMAS MV",
+    "h2": "A Christmas video that outlives the wrapping paper",
+    "sections": [
+      {
+        "heading": "Why a Christmas MV is worth making",
+        "body": "The family Christmas video is usually either a 20-minute home movie nobody finishes or a flurry of unconnected phone clips. An MV cut to a single Christmas track — Mariah, Bublé, Wham!, or the carol your grandmother always sang — gives the day a spine. It becomes the artifact you pull up next December to remember who was at the table this year, the year someone got engaged at dessert, or the year the dog opened a present first."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Christmas has the strongest visual canon of any holiday: tree lights pulled out of focus into bokeh, the morning-of stocking reveal, the hands-passing-a-dish across the table, the snow-through-the-window static, the wrapping paper close-up. Warm-tungsten interiors against cool-blue exteriors is the look every Hallmark film leans on. Specify those two color temperatures and your MV will read as Christmas from frame one."
+      },
+      {
+        "heading": "Make it the gift",
+        "body": "Send it as your New Year's card. A 60-second MV in a text message lands harder than a paper card with a stock photo. Tunee renders 9:16 for the Story replay, 16:9 for the smart TV at next year's gathering, and 1:1 for the post — one generation covers all three."
+      }
+    ]
+  }
 }

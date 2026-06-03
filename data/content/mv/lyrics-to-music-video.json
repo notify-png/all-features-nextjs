@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Lyrics to MV music video to compare?",
       "a": "Yes. You can generate several variations of your Lyrics to MV music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LYRICS TO MV",
+    "h2": "When the lyrics are the script, the video writes itself",
+    "sections": [
+      {
+        "heading": "Why the lyric IS the storyboard",
+        "body": "Songwriters already know this — a good lyric is shot-listed before it's a song. 'I drove through the desert in a car with no name' is a wide. 'She turned around slow' is a medium with a head-turn. Lyric videos that just float text over an abstract background ignore the fact that every line is already a visual instruction. A lyrics-to-MV pipeline should read those instructions, not paste the words on a gradient."
+      },
+      {
+        "heading": "What Tunee does with your lyric sheet",
+        "body": "Paste lyrics with rough timestamps (or just the full text — Tunee aligns it to the audio automatically) and Sage maps each line to a shot. Concrete nouns become establishing visuals, action verbs become camera moves, repeated chorus lines reuse the hero plate so the chorus reads as a chorus visually. You can still get on-screen typography if you want it — but the typography sits inside a scene, not on top of one."
+      },
+      {
+        "heading": "The prompting tip that changes the output",
+        "body": "Don't paraphrase your lyrics into a separate prompt. The lyric is already specific; the prompt should be the aesthetic frame around it. Try this: lyrics in the lyric field, then one prompt line for world ('1970s Tokyo, rainy, neon reflections in puddles'), one for camera ('handheld, 35mm, shallow depth'), one for character ('mid-30s, leather jacket, never shown full-face'). Tunee handles the line-by-line cuts; you handle the look."
+      }
+    ]
+  }
 }

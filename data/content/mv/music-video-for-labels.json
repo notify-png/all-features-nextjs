@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Record Labels music video to compare?",
       "a": "Yes. You can generate several variations of your Record Labels music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR LABELS",
+    "h2": "Labels need visual content at album-rollout volume, not single-video pace",
+    "sections": [
+      {
+        "heading": "The actual label-side problem",
+        "body": "A modern album rollout needs 30 to 50 video assets: the lead single's MV, 11 lyric videos for the album tracks, 11 Spotify Canvases, vertical cuts of every chorus for TikTok promo, a tour announcement piece, behind-the-scenes content, interview cutdowns. Even a mid-size indie label has 8 to 12 artists on roster running this cycle simultaneously. The video team's bandwidth is the bottleneck — not the budget, the calendar. Most labels just don't deliver the assets, and the algorithm penalizes accordingly."
+      },
+      {
+        "heading": "What labels can actually delegate to AI",
+        "body": "The lead single's primary MV — still a directed shoot. Everything else — the supplementary content layer — is exactly what AI MV pipelines are built for. Lyric videos with the album's visual identity, Spotify Canvases that match the artwork, TikTok cuts that re-use the directed MV's color palette, animated tour posters. The album's visual identity (set by the lead-single shoot) becomes a prompt template that produces the other 49 assets in days, not months."
+      },
+      {
+        "heading": "How Tunee fits a label's pipeline",
+        "body": "Upload the album's color reference and key visuals, lock the artist's character consistency across the roster, and Tunee generates the supplementary asset stack per release. The team controls the directed MV and the visual identity; Tunee delivers the long tail. For a mid-size label running 15 releases a year, that's the difference between full visual rollouts on every artist and the current reality of half the roster going dark between singles."
+      }
+    ]
+  }
 }

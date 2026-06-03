@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Watercolor music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Watercolor music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT WATERCOLOR MV",
+    "h2": "Watercolor on screen requires keeping the paper visible",
+    "sections": [
+      {
+        "heading": "What watercolor actually looks like",
+        "body": "Real watercolor has three signatures: visible paper texture under the wash, hard-edge color pooling where pigment dried at the boundary, and the soft bleed of wet-on-wet where colors meet while still damp. AI watercolor fails when it smooths these into a generic painted look - same with motion: real watercolor frames don't tween smoothly, they boil between hand-painted cels at 12fps. The Loving Vincent film proved how powerful this looks when committed to fully."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Reference canon: Loving Vincent for full-paint animation, the Studio Ghibli watercolor backgrounds (Kazuo Oga's work specifically), J.M.W. Turner's seascapes for atmospheric wash, Hayao Miyazaki's own concept-art watercolors. Children's-book illustrators: Quentin Blake's loose ink-and-wash, Maurice Sendak's cross-hatched paint. Music-video adjacent: the Glen Keane / Disney hand-drawn era, Cartoon Saloon's Secret of Kells. Tunee's watercolor model trains on real paper texture and boil animation, not digital paint filters."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Always include paper texture in the prompt: 'cold-press watercolor paper visible through wash, hard-edge pigment pooling, wet-on-wet bleed at color borders'. Specify the boil rate: 'hand-painted boil, 12fps frame replacement, not smooth tween'. Pick a palette of three to five colors max - real watercolor is constrained by what's wet on the palette. Reference one painter: 'Turner sky wash' or 'Kazuo Oga forest background' steers the model precisely."
+      }
+    ]
+  }
 }

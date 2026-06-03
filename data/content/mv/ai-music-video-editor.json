@@ -39,5 +39,23 @@
       "q": "Does Tunee's AI MV Editor music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create AI MV Editor music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "AI MV EDITOR",
+    "h2": "An AI editor that thinks in cuts, not just clips",
+    "sections": [
+      {
+        "heading": "What an AI MV editor actually replaces",
+        "body": "Premiere and DaVinci are built for narrative film — every cut is a manual decision against a waveform. For a music video, that's overkill: 80% of the editing is just matching shot length to beat. An AI MV editor flips that. You drop the track, the system tags downbeats, transient hits, and energy changes, and the timeline arrives pre-cut. You're left doing what actually matters — swapping a weak shot, nudging a transition, choosing which take of the chorus lands harder."
+      },
+      {
+        "heading": "What you can actually do in the editor",
+        "body": "Tunee's editor isn't a render-and-pray pipeline. After the first generation, every clip on the timeline is editable: regenerate a single shot with a new prompt, lock a character's appearance across cuts, change the aspect ratio without re-cutting, swap a B-roll plate while keeping the beat sync intact. The waveform sits under every shot so you can see exactly which transient a cut is landing on, and drag it one frame if needed."
+      },
+      {
+        "heading": "Why the cuts land on the beat",
+        "body": "Under the hood, the audio analyst agent runs first — tempo grid, downbeat detection, energy envelope, vocal vs instrumental segmentation. Sage, the story director, then snaps shot boundaries to those markers before the renderer touches a frame. That's why Tunee MVs feel cut, not slideshowed: the AI didn't pick durations randomly and hope they synced. It read the song the way an editor reads a track on first listen."
+      }
+    ]
+  }
 }

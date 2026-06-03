@@ -39,5 +39,23 @@
       "q": "Does it support exporting Realistic music videos in 4K resolution?",
       "a": "Absolutely. Tunee exports Realistic music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT REALISTIC MV",
+    "h2": "Photoreal video is about restraint, not detail",
+    "sections": [
+      {
+        "heading": "What realistic actually means",
+        "body": "Realistic music video means the viewer doesn't think about whether it's real - which is harder than it sounds. The tells of generated video that fail at realism: too-clean skin (no pores, no asymmetry), eyes that don't have correct catchlights, hands with subtle finger-count drift, fabric that doesn't fold under gravity, motion that's too smooth (real human movement has micro-jitter). Documentary-feel realism specifically means natural light, available-source audio cues in the visual, and unposed body language."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "References that DPs and music-video directors actually cite: Emmanuel Lubezki's natural-light work, the Dogme 95 movement's hand-held discipline, Andrea Arnold's American Honey, Sean Baker's The Florida Project for available-light realism. Music-video specific: Hiro Murai's Childish Gambino work, anything Spike Jonze shot for Beastie Boys. Documentary photography: Alec Soth, Stephen Shore. Tunee's realistic model is trained on natural-light frames with imperfect, lived-in subjects - not glossy commercial polish."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Add imperfection explicitly: 'natural skin texture with pores, slight asymmetry, available light only, no fill'. Specify time-of-day and weather: 'overcast afternoon, soft window light, no direct sun'. Hand-held motion: 'shoulder-mounted camera, subtle handheld sway'. Avoid 'photorealistic' as a bare prompt - it pushes toward CGI realism. Use 'documentary-style natural realism' instead. Real reads as imperfect; smoothness reads as rendered."
+      }
+    ]
+  }
 }

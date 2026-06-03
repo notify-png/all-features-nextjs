@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my With Subtitles music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your With Subtitles music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT MV WITH SUBTITLES",
+    "h2": "Burned-in captions are now table stakes, not an accessibility add-on",
+    "sections": [
+      {
+        "heading": "Why subtitles became the default",
+        "body": "Burned-in captions on music video are no longer an accessibility option - they're the default for any release that hopes to land on social. Eighty-plus percent of TikTok and Reels video gets watched on mute in feed. Subtitles increase completion rate, save rate, and share rate measurably. The format also serves accessibility (deaf and hard-of-hearing viewers, non-native English speakers using the lyrics to follow along) which is the original reason captions exist. The intersection makes captions a must-have, not nice-to-have."
+      },
+      {
+        "heading": "When to use it",
+        "body": "Subtitled MV is the right call for every social-first release, for lyric-forward songs where the words are the hook, for non-English-language releases targeting global audiences, for educational or message-driven music (kids' songs, protest songs, narrative rap), and for any release where the artist wants accessibility built in from the start. K-pop has used burned-in captions for international fans for a decade. Hip-hop with dense wordplay benefits from captions on every release - the bars are too fast to catch on first listen."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "Treat captions as a design element, not an overlay: 'subtitles bottom-third, Inter Bold 32pt, white text with subtle drop shadow, one line at a time, line break on phrase boundary'. Specify timing alignment: 'captions appear on syllable, not at end of phrase'. Pick a caption color that holds across the video's lighting changes - white with shadow beats colored text every time. Tunee generates time-aligned captions from the lyrics input automatically, so the burn-in matches the vocal phrasing precisely."
+      }
+    ]
+  }
 }

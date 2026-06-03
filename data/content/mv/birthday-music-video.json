@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Birthday music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Birthday music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE BIRTHDAY MV",
+    "h2": "A birthday video that isn't just shaky candle footage",
+    "sections": [
+      {
+        "heading": "Why bother with a birthday MV",
+        "body": "The standard birthday video is 47 seconds of someone holding a phone sideways while the room sings off-key. Useful for the moment, useless after. A scored 60-second MV cut to the guest of honor's actual favorite song travels much further — it ends up replayed on the drive home, posted on their wall the next morning, and pulled up again at the next milestone birthday as a reference point."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Event videographers know the canon: the candle close-up with the wish-face just before the blow, the over-the-shoulder reveal of the cake, the friends-singing wide, the gift unwrap reaction, the toast clink. For milestone birthdays — 1, 18, 30, 50 — a photo-aging montage of the same person across years lands harder than any single shot. Mention these moments in your prompt and Tunee assembles around them."
+      },
+      {
+        "heading": "Make it the gift",
+        "body": "The best birthday MV isn't shown at the party — it's sent to the person three days later when the high has worn off and the texts have stopped. Tunee exports vertical for the Story, square for the post, and widescreen for the family thread, all from one render."
+      }
+    ]
+  }
 }

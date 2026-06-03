@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Anime music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Anime music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT ANIME MV",
+    "h2": "Anime MVs that don't look like a Stable Diffusion accident",
+    "sections": [
+      {
+        "heading": "What anime actually looks like",
+        "body": "Anime isn't one style - it's a dozen schools with different rules. Ghibli's painterly backgrounds and limited animation. Makoto Shinkai's hyper-detailed god rays and lens flares in Your Name and Weathering With You. Kyoto Animation's character acting in Violet Evergarden. Trigger's sakuga bursts in Kill la Kill. The cel-shaded line, the flat color fills, the three-frame walk cycles - these are choices, not defaults. AMV pages full of generic 'anime girl' are made by people who didn't pick one."
+      },
+      {
+        "heading": "Reference points that work",
+        "body": "Briefing anime MV: name the studio and the show. 'Shinkai-style sky, Your Name palette' tells the model exactly where to land - saturated cyan-to-orange gradient, volumetric god rays through cloud breaks, painted cumulus. 'Trigger sakuga, Kill la Kill action frames' pulls energetic line boil and impact frames. 'Ghibli watercolor background' pulls Kazuo Oga's hand-painted forests. Tunee's anime model is trained on these distinct schools as separate vocabularies, not melted together."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Always name a studio reference. Then specify whether you want still composition with limited animation (Ghibli) or full sakuga motion (Trigger, Bones). Add 'cel-shaded, hard shadow edges, no soft gradient on skin' to prevent the model drifting into 3D-rendered anime adjacency. For backgrounds use 'painted background, hand-drawn texture' - without that you get 3D renders with anime characters pasted on top, which always looks wrong."
+      }
+    ]
+  }
 }

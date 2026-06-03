@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a K-pop music video to compare?",
       "a": "Yes. You can generate several variations of your K-pop music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT K-POP",
+    "h2": "K-pop video is the most engineered visual format in music",
+    "sections": [
+      {
+        "heading": "What k-pop looks like",
+        "body": "K-pop MVs are built like architecture. Every set is custom, every wardrobe change is mapped to a song section, every camera move is choreographed alongside the dance. The mix is always at least three layers: choreography on a set, narrative cutaways with story beats, and concept shots where members appear in stylized solo environments. Color worlds shift dramatically across the four-minute runtime. Symmetry is law during the chorus. Asymmetry returns in the verses to keep the eye moving."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "NewJeans' Super Shy and Ditto define the current naturalistic wave — softer palettes, less spectacle, more character. Aespa's Drama goes the opposite direction: maximalist set design, world-building, dense edits. BTS' Blood Sweat and Tears remains the bar for narrative ambition. BLACKPINK's How You Like That demonstrates how to make four members and a set feel like a global event. (G)I-DLE and Stray Kids round out the current vocabulary."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Plan four worlds, not one. Sketch the chorus set, the verse environment, the bridge concept room, and the outro space — then prompt Tunee for each with explicit color palette and wardrobe shift. Symmetric framing on the hook drop is non-negotiable. For the dance section, name the formation: 'V-shape opening to a line, four-count snap into a diamond'. Solo concept shots should read like fashion editorials, not stills from the group scenes."
+      }
+    ]
+  }
 }

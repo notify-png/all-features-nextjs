@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Fantasy music video to compare?",
       "a": "Yes. You can generate several variations of your Fantasy music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT FANTASY MV",
+    "h2": "Fantasy video that earns the comparison to LOTR",
+    "sections": [
+      {
+        "heading": "What fantasy demands",
+        "body": "Fantasy video lives or dies on landscape and scale. The Lord of the Rings sold its world with one wide shot - the Fellowship walking single-file across a ridge, dwarfed by mountain. The rule: every establishing frame needs a human figure for scale, and the environment has to do most of the storytelling. Painted matte-painting depth, atmospheric perspective fading to misted blue, naturalistic costume materials (wool, leather, hammered metal, not plastic-looking armor). Get the scale wrong and it reads as cosplay."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Visual canon: Peter Jackson's LOTR trilogy and the John Howe / Alan Lee concept art behind it, HBO's Game of Thrones (the early seasons before the rush), The Witcher 3's Velen and Skellige, Studio Ghibli's Princess Mononoke for the more painterly end, Frank Frazetta's Conan covers for the heavier metal end. Tunee's fantasy model trains on these references as separate dialects - 'Howe-style matte painting' versus 'Frazetta low-angle warrior' versus 'Ghibli forest spirit' resolve to clearly different outputs."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Always include a human figure for scale even in landscape-first prompts: 'lone rider on ridge, mountain backdrop, atmospheric perspective'. Specify lighting time-of-day with cardinal direction: 'golden hour, sun from camera-right, long shadows pulling left'. Material specificity matters - 'oiled leather, brushed steel, undyed wool' beats 'medieval clothes'. Avoid 'epic' as an adjective; describe the scale relationship instead ('figure occupies bottom-tenth of frame')."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Does Tunee's YouTube music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create YouTube music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR YOUTUBE",
+    "h2": "YouTube is the one platform where the full-length MV still wins",
+    "sections": [
+      {
+        "heading": "Why 16:9 and longer-form still matter here",
+        "body": "Outside YouTube, the music video has been compressed into vertical 60-second clips. On YouTube, the original format is still the dominant one — 16:9, 3-to-5 minutes, watched on a TV or laptop in the background. The platform's algorithm rewards watch time in minutes, not retention in seconds, which means a 4-minute MV that holds 60% is worth more than ten 30-second cuts that hold 90%. The math favors letting the song breathe."
+      },
+      {
+        "heading": "What the YouTube MV canon looks like",
+        "body": "Open with a cold intro (Hiro Murai's Childish Gambino videos, Dave Meyers' 21 Savage cuts, anything Cole Bennett directs for Lyrical Lemonade) — 5 to 15 seconds of scene-setting before the first downbeat. Hold establishing wides longer than you would on TikTok. Earn the close-up. End with a tag, an outro card, or a smash cut to credits — the YouTube viewer is conditioned to watch through the end card."
+      },
+      {
+        "heading": "Tunee's YouTube preset, specifically",
+        "body": "Pick YouTube and the renderer outputs 16:9 at 4K, with a longer intro window, slower average cut length (1.8 seconds versus 0.9 for the TikTok preset), and a chaptered timeline if your song has clear sections. Upload-ready MP4, H.264, audio at 320 kbps AAC. Thumbnail-frame grabs at the visual peaks are auto-generated so you're not scrubbing the timeline trying to find the moment that sells the click."
+      }
+    ]
+  }
 }

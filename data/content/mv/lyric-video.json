@@ -39,5 +39,23 @@
       "q": "Does Tunee's Lyric Video music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Lyric Video music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT LYRIC VIDEOS",
+    "h2": "Lyric videos earn their place when the typography is the show",
+    "sections": [
+      {
+        "heading": "What a real lyric video is",
+        "body": "Lyric video used to be the cheap option labels released first while the 'real' MV finished post. That's no longer true - Bob Dylan's Subterranean Homesick Blues (1965) was the original kinetic-text video, and modern lyric videos from Taylor Swift, Olivia Rodrigo, and the Genius vertical have become primary releases. The format's discipline is type: kerning, weight, transition timing on every word, type-as-image where the word becomes the visual. Anything less is a karaoke screen."
+      },
+      {
+        "heading": "When to use it",
+        "body": "Lyric video is the right format when the lyrics carry the song (storytelling singer-songwriter, rap with dense wordplay, pop hooks built on phrasing), when the artist isn't filming themselves (debut releases, anonymous projects), when the goal is sing-along virality on TikTok, or as a Day 1 release while a narrative MV finishes. Genius's vertical lyric content has trained an entire generation to expect word-by-word visual emphasis. Hip-hop especially benefits - the visual makes dense bars legible on first listen."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "Pick a single typographic system per video: one typeface, two weights, one accent color. 'Helvetica Neue Bold, white on black, single magenta accent for hook words'. Specify motion language: 'words appear word-by-word on syllable, fade out on next phrase' versus 'whole lines slide in left-to-right'. Reference a director if you have one: 'Kyle Cooper title-sequence energy' or 'David Carson collage layout'. Avoid generic 'animated text' - type direction is the whole craft here."
+      }
+    ]
+  }
 }

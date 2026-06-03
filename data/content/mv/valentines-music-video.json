@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Valentine's music video to compare?",
       "a": "Yes. You can generate several variations of your Valentine's music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE VALENTINE'S MV",
+    "h2": "A Valentine's video that isn't a card with a worse photo",
+    "sections": [
+      {
+        "heading": "Why a Valentine's MV out-performs flowers",
+        "body": "The Valentine's gift economy is fatigued — flowers, chocolate, dinner reservation, repeat. A 60-second MV scored to your shared song breaks that pattern without being expensive or showy. It's the gift that gets re-watched in March, sent again on the anniversary, and saved to a private folder rather than thrown out with the wrapping. For long-distance couples it's especially strong — it does the work of being there when you can't."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Romantic videographers stick to a small vocabulary: hands meeting across a table, the back-lit silhouette in a window, the half-eaten breakfast in bed wide, handwritten-note close-up, slow-zoom on a smile mid-laugh. The cliché shots (red roses, candles, hearts) work better when they're peripheral than central — the candle is in the bokeh, not the subject. Specify that hierarchy and the MV reads as intimate rather than greeting-card."
+      },
+      {
+        "heading": "Make it the gift",
+        "body": "Send it at 6am on February 14th, before the day starts crowding in with deliveries and reservations. Tunee renders vertical for the morning text, square for the optional public post, and widescreen for the eventual living-room rewatch on the anniversary."
+      }
+    ]
+  }
 }

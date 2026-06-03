@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Fitness music video to compare?",
       "a": "Yes. You can generate several variations of your Fitness music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE FITNESS MV",
+    "h2": "A transformation video that doesn't look like a Bowflex ad",
+    "sections": [
+      {
+        "heading": "Why fitness MVs are worth doing right",
+        "body": "The before/after slideshow is dead — the format has been gamed so hard on TikTok that audiences scroll past instantly. What still works is the training-process MV: 60 seconds scored to a high-BPM track, weighted toward the daily grind rather than the reveal. Gym owners use them for member spotlights, coaches use them for client recaps, and individuals use them as personal markers of a 12-week block worth more than a scale photo."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Sports cinematographers know the canon: chalk-on-hands close-up, the bar bend on a heavy rep, the towel-over-the-face exhale, the empty gym morning wide shot, the watch-check between sets. Color grade is almost always desaturated with crushed blacks and one accent — red plates, neon EXIT sign, sunrise through a window. Specify that palette and a track tempo, and the cut will sync to lifts naturally."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Don't ask for 'motivational gym shots' — that gives you stock footage. Instead, name the lift (deadlift, clean, push press), the time of day, and the equipment specifically. 'Empty 5am garage gym, single bar loaded with rusted plates, desaturated grade, one warm tungsten overhead' lands where a real DP would point a camera."
+      }
+    ]
+  }
 }

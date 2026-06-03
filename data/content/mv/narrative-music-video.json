@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Narrative music video to compare?",
       "a": "Yes. You can generate several variations of your Narrative music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT NARRATIVE MV",
+    "h2": "Narrative MVs are mini-films, and the rules of film apply",
+    "sections": [
+      {
+        "heading": "What narrative MV requires",
+        "body": "Narrative music video tells a story across the song's duration - characters with at least one arc, a setting that means something, beats that pay off by the bridge or outro. The format treats the song as the score and the visual as a 3-4 minute short film. The discipline borrowed from film: a clear premise in the first 15 seconds, a turn around the halfway point, an image at the end that recontextualizes what came before. Music videos that win at this read like trailers for a movie that doesn't exist."
+      },
+      {
+        "heading": "When to use it",
+        "body": "Narrative MV is the right call for songs that already tell a story (Bruce Springsteen, country, story-rap), for album-cycle anchor singles where budget concentrates on one statement piece, for artists building a cinematic brand (Childish Gambino's This Is America, Lana Del Rey's Ride, anything Hiro Murai directs). It's also the format awards take seriously - the VMA for Video of the Year skews narrative. The trade-off is cost and time, both of which Tunee compresses dramatically."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "Structure the prompt by song section, not by shot: 'verse 1: protagonist alone in apartment, morning light, slow handheld; pre-chorus: leaves the building, color shifts cooler; chorus: wide-shot on empty highway, golden hour'. Tunee can interpret song-section prompting. Reference one director for unified language: 'Hiro Murai for the whole video' beats mixed reference per section. Plan the final image first and work backward - narrative MV is judged on the ending."
+      }
+    ]
+  }
 }

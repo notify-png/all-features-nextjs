@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Game Trailers music video to compare?",
       "a": "Yes. You can generate several variations of your Game Trailers music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR GAME TRAILERS",
+    "h2": "A game trailer scored to a custom song hits harder than gameplay with a library track",
+    "sections": [
+      {
+        "heading": "Why music-driven game trailers work",
+        "body": "The genre that defined this is well-known: the Halo 3 'Believe' trailer, the Witcher 3 'A Night to Remember' cinematic, every Bethesda E3 piece. The pattern is consistent — a strong piece of music, cinematic visuals that aren't gameplay, lore-forward without spelling the plot out. The trailer functions as a music video for the game's world, which is a fundamentally different ask than a gameplay sizzle reel. Indie studios skip this because the music budget and the cinematic budget feel out of reach."
+      },
+      {
+        "heading": "The cinematic-trailer canon",
+        "body": "Slow build into the title card, a single hero character introduced in silhouette, a wide that sells the world's scale, a montage cut to the rising musical phrase, a beat of silence before the final hit, the game's title and release date as the resolution. The pacing is operatic — closer to a film trailer than a music video, but the music is doing the same structural work a vocal would in a normal MV. The trailer is shaped by the song, not the other way around."
+      },
+      {
+        "heading": "Where Tunee earns the slot in the pipeline",
+        "body": "Generate the score from the game's mood brief (orchestral, dark synth, choral, post-rock — whatever the world calls for), generate the cinematic visuals from concept art uploads and a prompt describing the world, cut the trailer to the song's structure. Indie studios go from no trailer to a watchable announce piece in days instead of months. AAA studios use Tunee for early pitch decks and internal demos before the real cinematic team gets greenlit."
+      }
+    ]
+  }
 }

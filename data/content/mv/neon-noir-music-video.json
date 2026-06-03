@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Neon Noir music video to compare?",
       "a": "Yes. You can generate several variations of your Neon Noir music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT NEON-NOIR MV",
+    "h2": "Neon noir is cyberpunk's quieter, more dangerous cousin",
+    "sections": [
+      {
+        "heading": "The neon-noir distinction",
+        "body": "Neon noir overlaps with cyberpunk on color palette but the framing is opposite: tight, slow, character-driven rather than wide and city-scale. Think a lone figure in a parked car, magenta neon bleeding through the windshield, rain rolling down glass in long takes. The rule is one light source per shot, usually colored, holding the frame in deep shadow. The pace is funeral. The story is implied, never told. It's Edward Hopper paintings if Hopper used a Cooke Anamorphic."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "The canon is small and specific: Nicolas Winding Refn's Drive, Only God Forgives, The Neon Demon. Michael Mann's Heat and Collateral for nighttime LA. Wong Kar-wai's In the Mood for Love and Chungking Express for color and longing. Music videos: The Weeknd's Out of Time, Lana Del Rey's National Anthem. Tunee's neon-noir model is trained on slow holds, single-source lighting, and shallow-DOF portraiture - distinct from cyberpunk's wide-shot density."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify slow camera: 'static frame' or 'slow dolly in, 3 seconds per movement'. Lock to one light source: 'single magenta neon from frame-right, rest of scene deep shadow'. Add 'rain on glass, foreground' for the genre's signature texture. Frame tight: 'medium close-up, shoulders in frame, head slightly cropped'. Avoid wide city shots - that's cyberpunk's territory. Neon noir is a portrait genre wearing cyberpunk colors."
+      }
+    ]
+  }
 }

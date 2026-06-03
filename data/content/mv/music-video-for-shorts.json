@@ -39,5 +39,23 @@
       "q": "Does Tunee's YouTube Shorts music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create YouTube Shorts music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR SHORTS",
+    "h2": "YouTube Shorts isn't TikTok with a different logo — the audience watches differently",
+    "sections": [
+      {
+        "heading": "What Shorts actually rewards",
+        "body": "Shorts retention curves are flatter than TikTok's — viewers will give you 5-7 seconds before swiping, not 3. The Shorts shelf also leans more music-discovery-heavy than TikTok's For You, which skews toward dialogue and meme formats. For musicians, this is the more forgiving short-form platform: a cold open with the song's hook still works, but you don't need to front-load as aggressively. 60 seconds is the hard ceiling; 30-45 is the most-watched band."
+      },
+      {
+        "heading": "Conventions that translate from YouTube",
+        "body": "Because Shorts viewers often arrive from a creator's long-form channel, branding consistency matters more than on TikTok. The colorist's palette from your main video, the same character or location, the same on-screen typography — these create a visual through-line between the Short and the 4-minute MV it's promoting. Treat the Short as a trailer for the full video, not a separate piece of content with its own visual identity."
+      },
+      {
+        "heading": "How Tunee handles the Shorts vs YouTube split",
+        "body": "Generate the full MV once, then pick the Shorts export and Tunee re-cuts it to 60 seconds, re-frames to 9:16 (with subject-tracked recomposition, not a center-crop), and picks the strongest hook segment automatically. The audio sync stays intact. You get a Short that genuinely came from the same video, which is exactly what the Shorts shelf is built to reward."
+      }
+    ]
+  }
 }

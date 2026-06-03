@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Reggae music video to compare?",
       "a": "Yes. You can generate several variations of your Reggae music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT REGGAE",
+    "h2": "Reggae video sits in golden hour and refuses to leave",
+    "sections": [
+      {
+        "heading": "What reggae looks like",
+        "body": "Reggae MVs lean into warm color, slow camera movement, and outdoor light. Beach at sunset, mountain road, market street — landscape is co-lead with the artist. Smoke is almost always in frame, soft and diffused. Wardrobe is loose and natural-fiber: linen, denim, Rasta colors used as accent rather than uniform. The pace is patient; reggae videos rarely cut faster than the snare's off-beat. Community is visible — friends, family, neighbors appear without staging."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Bob Marley's Redemption Song performance footage remains the emotional standard. Damian Marley's Welcome to Jamrock built the modern documentary-style reggae MV vocabulary. Chronixx's Skankin' Sweet brings the lover's rock visual tradition into the current era. Protoje, Koffee, and the Easy Star All-Stars round out the current reference set. The thread is location authenticity — videos that don't feel rooted in a real place, ideally Jamaica or somewhere that respects the lineage, ring hollow."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Set your time of day in the first sentence and never break it. 'Late afternoon, hour before sunset, warm orange light, long shadows from palms' gives Tunee a base it can hold across multiple scenes. Add community details — children playing on the edge of frame, an older couple on a porch — to ground the visual. Camera moves should be slow dollies or handheld walks, never crane swoops. Cut on the off-beat skank, not the downbeat."
+      }
+    ]
+  }
 }

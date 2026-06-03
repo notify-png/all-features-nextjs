@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Soul music video to compare?",
       "a": "Yes. You can generate several variations of your Soul music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT SOUL",
+    "h2": "Soul video carries warmth the way a record carries grain",
+    "sections": [
+      {
+        "heading": "What soul looks like",
+        "body": "Soul MVs sit in the visual register of late-night live recording. Warm tungsten light, real instruments, vintage clothing that doesn't feel costume. The singer is usually in tight frame for verses, then pulled back to reveal a band during choruses. Color skews amber, brown, ochre, with the occasional jewel-tone accent. Texture is everything: velvet, vinyl, wood grain, brass. The camera moves slowly when it moves at all. Audience is implied but rarely shown — these feel like sessions, not concerts."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "D'Angelo's Untitled (How Does It Feel) is the form's highest achievement — single shot, single subject, single light. Erykah Badu's Tyrone live setup proved performance video could feel sacred. Leon Bridges' Coming Home built the modern soul revival visual language: 1960s tonal palette without literal period costume. Tank and the Bangas bring theatrical, group-energy soul to the current moment. The connective tissue: warmth, restraint, and a refusal to look digital."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify the era of warmth you want. 'Late-60s Stax Records studio aesthetic — warm tungsten, wood-paneled walls, vintage RCA mic in frame' gives Tunee a reference period without forcing pastiche. Keep wardrobe one notch contemporary so it doesn't feel like cosplay. Long takes on the singer's verses, slightly wider frames for the choruses to show the band. Avoid cool blue tones entirely — soul lives in the warm half of the spectrum and gets confused when forced cold."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Metal music video to compare?",
       "a": "Yes. You can generate several variations of your Metal music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT METAL",
+    "h2": "Metal video earns its weight through physical commitment",
+    "sections": [
+      {
+        "heading": "What metal looks like",
+        "body": "Metal MVs are usually built around live performance — the band actually playing, sweat actually flying, the kick drum visibly moving the camera. Lighting is hard and contrasted: a single shaft of white on the vocalist against a black void, red wash across the rhythm section. Locations skew to abandoned industrial, forest at night, or pure black soundstage. Slow motion is used surgically, almost always on the drummer or a single jump. The frame is usually crowded, not minimal."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Sleep Token's Chokehold redefined modern metal MV aesthetics with masked anonymity and ritual staging. Bring Me the Horizon's DiE4u carries the cinematic narrative ambition. Gojira's Amazonia uses landscape as scale. Spiritbox, Lorna Shore, and Knocked Loose round out the current vocabulary. Older touchstones — Tool's Schism, Slipknot's Duality — still teach the genre how to make the abstract feel physical. The constant: the band is the frame, not the decoration."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify the venue before the visual treatment. 'Empty concrete warehouse, single overhead bulb, band in a tight semicircle, drummer center back' gives Tunee something to render with intent. Then layer atmosphere: 'heavy haze, hard rim light from stage left, no fill'. Ask for slow motion only at impact points — the breakdown, the final scream. Tunee handles dark scenes better when you name the few light sources explicitly, rather than asking for 'moody lighting'."
+      }
+    ]
+  }
 }

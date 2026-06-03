@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my AI Storyboard music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your AI Storyboard music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "AI STORYBOARD",
+    "h2": "The storyboard is where the music video is actually directed",
+    "sections": [
+      {
+        "heading": "Why directors storyboard before they shoot",
+        "body": "On a real MV shoot, the storyboard is the most expensive document in the project — it's what the director, DP, and label all sign off on before a single light gets rigged. Skip it and you burn day-rates on shots that don't cut together. AI MV pipelines that go straight from prompt to render skip this step too, which is why so many of them produce four pretty clips that don't tell a story. A storyboard pass forces the decision: what is this video about, shot by shot."
+      },
+      {
+        "heading": "What the storyboard view shows",
+        "body": "In Tunee, the storyboard isn't a slideshow of stills — it's a timed shot list. Each frame has a duration locked to the song's beat grid, a one-line shot description (wide, medium, close, insert), a character or location tag, and a thumbnail preview. You can rearrange, delete, regenerate, or rewrite a single shot before committing to a full render. It's the cheap step where you find out the chorus needs a wide, not another close-up."
+      },
+      {
+        "heading": "How Tunee's storyboard agent thinks",
+        "body": "Sage, the story director agent, drafts the board against three inputs: the audio analyst's structural map (verse / pre / chorus / bridge), Nova's character and location sheet, and the lyrics if provided. It applies basic editorial rules — don't cut on the same axis twice, save the widest shot for the biggest moment, hold a close-up through emotional vocal lines — then hands you a board you can argue with. That argument is where the video actually gets directed."
+      }
+    ]
+  }
 }

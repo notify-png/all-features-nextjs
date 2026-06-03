@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Jazz music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Jazz music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT JAZZ",
+    "h2": "Jazz on screen asks the camera to listen first",
+    "sections": [
+      {
+        "heading": "What jazz looks like",
+        "body": "Jazz videos are often shot in black and white not for nostalgia but because color competes with the music. The camera tends to find one player at a time — the saxophonist mid-solo, the upright bassist's left hand walking — and stay. Smoke, low ceilings, the back of a packed room. When color appears it's amber tungsten on dark wood. The audience is usually visible but never the subject. Movement is patient, often a single slow dolly across the bandstand."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Robert Glasper's live cuts at the Blue Note set the modern bar for intimate jazz capture. Esperanza Spalding's videos balance composition with character. Snarky Puppy's We Like It Here recording films changed how people film bands by putting the audience inside the studio. Kamasi Washington's longform performance pieces work as both concert film and visual essay. The shared instinct: trust the players. The music does not need help."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Build the room before the band. 'Basement club, low ceiling, brick wall behind the stage, two table candles, one spot on the piano' gives Tunee the right base. Then specify what to follow: 'camera holds the trumpet during the solo, racks focus to the drummer at the end of the phrase'. Ask for long takes and resist the urge to cut on every change. Black-and-white prompts work especially well — Tunee handles tonal range better than complex color in low light."
+      }
+    ]
+  }
 }

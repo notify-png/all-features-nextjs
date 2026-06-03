@@ -39,5 +39,23 @@
       "q": "Does it work with any genre of music, or only Blues?",
       "a": "Tunee supports a wide range of genres and visual styles beyond Blues. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT BLUES",
+    "h2": "Blues MVs live in tungsten light and worn instruments",
+    "sections": [
+      {
+        "heading": "What blues looks like",
+        "body": "Blues video has a settled aesthetic because the music has a settled audience — nobody is reinventing the form, and that's the point. The visual canon: tungsten-lit club interior with hard shadows, close-ups on hands working a fretboard, the steel guitar slide, sweat-on-brow under a single key light, smoke in the air (real or hazer), tube amplifiers warm-glowing in the background. Color grade pushes amber and crushed black. The framing respects the player rather than cutting around them."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "The references are direct and named: B.B. King's late-career live films, Buddy Guy's Legends club footage, Gary Clark Jr.'s 'Bright Lights' video, Joe Bonamassa's Royal Albert Hall film, Christone 'Kingfish' Ingram's recent clips. Wim Wenders' The Soul of a Man documentary set the visual template for serious blues filmmaking. Tunee's blues model is trained on this — small venues, real gear, hands and instruments as primary subject."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Name the gear and the venue type, not just the genre. 'Vintage Gibson ES-335 through a tweed Fender amp, smoke-filled basement club, single bare bulb overhead, hands close-up on bend' produces a credible frame; 'blues musician playing guitar' produces a stock photo. Blues audiences notice when the equipment is wrong, so specify."
+      }
+    ]
+  }
 }

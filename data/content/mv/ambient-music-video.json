@@ -39,5 +39,23 @@
       "q": "Does Tunee's Ambient music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Ambient music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT AMBIENT",
+    "h2": "Ambient MVs work when nothing happens and everything breathes",
+    "sections": [
+      {
+        "heading": "What ambient looks like",
+        "body": "Ambient music resists the music-video format by design — there's no drop to cut to, no chorus to crescendo into. The genre's visual tradition responds with extreme patience: a single Hokkaido mountain shot held for two minutes, fog crossing a valley in real time, a black screen with a single drifting particle, water surface from above. The reference frame is Bill Viola installations and Andrei Tarkovsky's long takes rather than MTV editing."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Directors cite the same lineage: Brian Eno's 77 Million Paintings, Tim Hecker's Ravedeath 1972 album visuals, Stars of the Lid's live projections, William Basinski's Disintegration Loops paired with the 9/11 NYC skyline footage, Ryuichi Sakamoto's async film. The throughline isn't subject matter — it's the refusal to cut. Two or three shots over four minutes is a feature, not a constraint. Tunee's ambient model is calibrated for that pacing rather than fighting it."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify duration in your prompt, not just subject. 'Single drone shot of pine forest in fog, no cuts, slow drift forward over 60 seconds' produces what you want; 'beautiful ambient nature montage' produces stock B-roll. Name one element of slow change — light shifting, mist moving, snow accumulating — so the frame has time inside it rather than just composition."
+      }
+    ]
+  }
 }

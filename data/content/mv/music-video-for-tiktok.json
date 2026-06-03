@@ -39,5 +39,23 @@
       "q": "Does Tunee's TikTok music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create TikTok music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR TIKTOK",
+    "h2": "On TikTok, the first three seconds decide if there's a fourth",
+    "sections": [
+      {
+        "heading": "What the algorithm actually rewards",
+        "body": "TikTok's For You page doesn't care about your video's full duration — it cares about retention curve. The watch-through at 3 seconds and the rewatch rate are the two metrics that decide whether your video stops at 200 views or pushes to 200,000. Which means the conventional MV opening — slow build, atmospheric wide, artist walks in at 0:20 — is algorithmic suicide. The hook has to land before the viewer's thumb gets bored."
+      },
+      {
+        "heading": "The 15-60 second sweet spot, structured",
+        "body": "Creators who post music on TikTok have converged on a shape: cold-open with the chorus (or the catchiest hook), 5 seconds of visual identity, return to the hook, end on a loop-point that drives a rewatch. 30 seconds total is the most-shared length; 60 is the ceiling before retention falls off. Vertical 9:16 is non-negotiable — letterboxed content gets penalized in the feed."
+      },
+      {
+        "heading": "How Tunee exports for TikTok specifically",
+        "body": "Pick the TikTok preset and Tunee restructures the cut: chorus-first, vocals up in the first second, hook re-stated at the 15-second mark, loop-friendly final frame. You get 9:16 native (not cropped from 16:9 — re-composed), 1080p, MP4 under TikTok's upload cap, and the audio track exported separately so you can also upload it as a TikTok sound and let creators duet it. Two assets, one generation."
+      }
+    ]
+  }
 }

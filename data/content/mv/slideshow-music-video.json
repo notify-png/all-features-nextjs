@@ -39,5 +39,23 @@
       "q": "Does Tunee's Slideshow music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Slideshow music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT SLIDESHOW MV",
+    "h2": "The slideshow has a place - when the photos are the point",
+    "sections": [
+      {
+        "heading": "What a slideshow MV is",
+        "body": "Slideshow music video is a sequence of stills (photos, scanned film, screenshots) cut to a song with simple transitions - fade, push, Ken Burns pan-and-zoom. The format gets dismissed because most are made badly with auto-generated transitions over thirty random phone photos. Made well, it's powerful: the Up opening montage is a slideshow in motion, This Is Us episode-end photo sequences, the Vimeo Staff Picks tribute reels people make for funerals and weddings. The discipline is curation - fewer images held longer."
+      },
+      {
+        "heading": "When to use it",
+        "body": "Slideshow MV is the right format for memorial videos, wedding recaps, baby's-first-year compilations, travel reels, school-year highlight reels, anniversary gifts. It also works for artists who have a strong archive of photo content but minimal video - heritage acts releasing legacy material, photographers releasing music, anyone whose visual archive is photographic. The format suits emotional pop, acoustic singer-songwriter, and ambient scoring better than high-energy genres that need motion match-cuts."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "Tell Tunee the source and the pacing: 'twelve photographs total across 90 seconds, Ken Burns slow zoom on each, soft cross-fade transitions, no kinetic motion'. Specify the photo treatment: 'subtle film grain overlay, slight desaturation for older feel, no Instagram-style filters'. Add transition timing to song structure: 'photo change on every chord change, hold longer on chorus'. Curate down hard - twelve right photos beat fifty random ones."
+      }
+    ]
+  }
 }

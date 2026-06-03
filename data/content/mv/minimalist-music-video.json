@@ -39,5 +39,23 @@
       "q": "Does Tunee's Minimalist music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Minimalist music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT MINIMALIST MV",
+    "h2": "Minimalism is the hardest brief to actually pull off",
+    "sections": [
+      {
+        "heading": "What minimalism really is",
+        "body": "Minimal video isn't 'less stuff' - it's intentional negative space holding a single subject with rigorous composition. Apple's product films are the benchmark: one object, infinity-curve background, one light direction, micro-movements that reward sustained attention. The traps are obvious only after you fall into them: empty space without compositional rhythm reads as cheap, not refined. The subject has to earn the negative space around it through compositional framing, edge lighting, and motion that's deliberately small."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Visual canon: Apple's product launches and Jony Ive-era films, Dieter Rams' Braun design photography, Hiroshi Sugimoto's seascapes, Wes Anderson's symmetrical centering (the minimalist end of his work), James Turrell's light installations. Music videos: Sigur Ros' Glosoli, Bon Iver's Holocene visualizations, anything from the Erased Tapes label's roster. Tunee's minimalist model knows that 'minimalist' means compositional restraint, not removed detail - surfaces still need real material response."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify the negative-space ratio: 'subject occupies center-third, surrounding 80% empty'. Lock the palette to two values: 'off-white background, single object in matte black'. Name the light direction precisely: 'rim light from camera-left only, no fill'. Add motion language: 'subject rotates 5 degrees, no camera movement'. The temptation is to add 'one more thing' - resist it. Every added element costs the composition more than it adds."
+      }
+    ]
+  }
 }

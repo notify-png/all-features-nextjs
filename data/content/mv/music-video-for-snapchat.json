@@ -39,5 +39,23 @@
       "q": "How do I customize the visual style of my Snapchat music video?",
       "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates AR filter aesthetic-inspired visuals that match your Snapchat aesthetic."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR SNAPCHAT",
+    "h2": "On Snapchat Spotlight, fast cuts and faces win",
+    "sections": [
+      {
+        "heading": "What Spotlight actually surfaces",
+        "body": "Snapchat's Spotlight feed is closer to a Gen-Z TikTok than to the rest of Snapchat — it's algorithmic, vertical, and rewards rewatches. The audience is younger, the average watch time is shorter than TikTok's, and the visual canon is more chaotic: fast cuts, face-forward content, AR-filter aesthetics, text overlays in Snapchat's native sans-serif. Polished cinematic MVs underperform here. Raw, kinetic, character-led content overperforms."
+      },
+      {
+        "heading": "Conventions creators figured out",
+        "body": "Sub-second cuts in the first 5 seconds. The artist's face in the first frame, not a logo or a title card. Vertical 9:16 with the subject framed center (Snapchat's UI eats the bottom 15% of the screen on most phones — keep the lower third clean). On-screen text in short bursts, not lyric crawls. Snapchat's 60-second cap is enforced; most viral Spotlight music clips are 20-30 seconds."
+      },
+      {
+        "heading": "Tunee's Snapchat preset, specifically",
+        "body": "Pick Snapchat and the renderer leans into the platform's grammar: faster cut frequency (0.6 second average versus 1.8 on the YouTube preset), face-forward subject framing, the lower third reserved for UI safety, and the hook re-stated at the 15-second mark to drive a rewatch loop. Output is 9:16 1080p MP4 under Spotlight's 60-second ceiling. The same generation also exports a vertical 1:1 for Snapchat Discover if you're running paid placement."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Does it support exporting Horror music videos in 4K resolution?",
       "a": "Absolutely. Tunee exports Horror music videos in up to 4K resolution, making them ready for YouTube, streaming platforms, and large-screen displays."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT HORROR MV",
+    "h2": "Horror works on what you don't show",
+    "sections": [
+      {
+        "heading": "What horror video requires",
+        "body": "Horror is the genre where restraint outperforms spectacle. The frames that scare people are mostly empty: an unlit hallway with one practical light at the end, a figure too far away to read clearly, a wide shot held a beat too long. Body horror and gore are tools, not the genre. The visual rules: deep shadow with detail crushed to black, hand-held or locked-off (never smooth tracking), color graded cold or sickly green-yellow, grain that suggests degraded film stock or surveillance footage."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Reference shelf: A24's horror catalog (Hereditary, The Witch, Talk to Me), the Blair Witch found-footage tradition, Ari Aster's symmetrical wides, Robert Eggers' candlelit period frames, Park Chan-wook's stillness in Stoker. Music videos: Aphex Twin's Come to Daddy, Nine Inch Nails' Closer, Lorn's Anvil. Game references: Resident Evil 2 remake, Silent Hill 2's fog. Tunee's horror model is trained on negative space and slow-burn framing, not jump-scare overload."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify what's NOT in frame: 'one figure in deep background, no foreground subject, empty middle ground'. Lock the camera: 'locked-off wide, no movement' or 'shaky handheld, low frame rate'. Light source matters - 'single practical light bulb, top-down, hard shadow' beats 'dark and scary'. Add film stock: '16mm grain, slight gate weave' for the analog horror feel. Hold shots longer than feels comfortable; horror needs the pause."
+      }
+    ]
+  }
 }

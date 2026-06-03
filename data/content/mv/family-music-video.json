@@ -39,5 +39,23 @@
       "q": "Does Tunee's Family music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Family music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE FAMILY MV",
+    "h2": "The family video that gets watched more than once",
+    "sections": [
+      {
+        "heading": "Why a family MV earns its place",
+        "body": "Most family videos die in cloud storage. The reunion footage is too long, the holiday slideshow is too random, and the kids-growing-up compilation is somewhere on an old hard drive. A scored 60-90 second MV is the format relatives actually finish — short enough to share in the family chat, structured enough to feel intentional, and long enough to fit three generations into one watchable artifact."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Family documentary photographers shoot the same canon: the kitchen-island candid where everyone is talking at once, the grandparent-with-grandchild lap shot, the front-porch wide group photo with someone always blinking, the hands-passing-a-plate close-up, the backyard-game blur. Mention three generations in your prompt — Tunee will visually structure the cut to move between them rather than dwelling on any single subject."
+      },
+      {
+        "heading": "Make it the gift",
+        "body": "Send it the week after a reunion, not the day of — that's when the high has faded and the MV does its real work. Tunee renders square for the family group chat, widescreen for the next holiday playback on the TV, and vertical for younger relatives' Stories from a single generation."
+      }
+    ]
+  }
 }

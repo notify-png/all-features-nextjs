@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Baby music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Baby music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE BABY MV",
+    "h2": "Turn the first year into something more than a camera roll",
+    "sections": [
+      {
+        "heading": "Why a baby MV beats another phone album",
+        "body": "Every parent ends year one with two thousand near-identical photos and no time to sort them. A 60-90 second MV is the format that actually gets watched — short enough for grandparents to replay, scored to a lullaby or the song that was playing during the first ultrasound. It compresses the messy abundance of newborn footage into something with a beginning, a middle, and an end, instead of a Google Photos folder no one opens."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Newborn photographers shoot the same canon for a reason: tiny hand wrapped around an adult finger, feet against a parent's palm, the wrinkle of a sleeping eyebrow, the first bath, the first laugh caught on accident. Drop your track, mention three of these moments in plain English, and the MV is half-storyboarded. Soft window light, shallow focus, warm whites — the visual grammar is already there to lean into."
+      },
+      {
+        "heading": "Make it the gift",
+        "body": "The most useful baby MV is the one sent to relatives who haven't met the baby yet. Tunee renders 9:16 for Stories, 16:9 for the family group chat TV, and 1:1 for the print-and-frame version, all from one generation."
+      }
+    ]
+  }
 }

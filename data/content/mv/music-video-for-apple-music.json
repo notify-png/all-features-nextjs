@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Apple Music music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Apple Music music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR APPLE MUSIC",
+    "h2": "Apple Music videos are a different format from everything else",
+    "sections": [
+      {
+        "heading": "What Apple actually asks for",
+        "body": "Apple Music has three video surfaces: the standard music video (delivered through the artist's distributor, usually 16:9 1080p or 4K), Motion Lyrics (a vertical lyric-forward format that animates each line as the song plays), and Spatial Video for Vision Pro (3D depth-mapped, 9:16 or 16:9, currently a small but growing surface). The standards are stricter than YouTube's — Apple QC actually rejects videos for technical spec misses."
+      },
+      {
+        "heading": "What Motion Lyrics rewards",
+        "body": "Motion Lyrics is the format most labels underuse. It's vertical, it plays full-screen on iPhone, and Apple curates it editorially in playlists. The visual canon is subtle: a single textured background (film grain, gradient, slow particle), lyric text in a typeface that matches the album identity, line-by-line animation that lands on the syllable. Not karaoke-style word highlights — line-level reveals timed to vocal entries."
+      },
+      {
+        "heading": "How Tunee handles Apple's formats",
+        "body": "The Apple Music preset outputs three deliverables from one generation: 16:9 4K for the standard MV slot, a 9:16 Motion Lyrics cut with timed line reveals against your chosen background, and a Spatial-ready depth-map MP4 for the Vision Pro surface. All three are spec-compliant for Apple's distributor upload. The lyric timing reuses the alignment Tunee already does for the lyrics-to-MV workflow, so you don't time-tag the song twice."
+      }
+    ]
+  }
 }

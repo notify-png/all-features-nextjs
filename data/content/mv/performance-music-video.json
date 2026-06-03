@@ -39,5 +39,23 @@
       "q": "Does Tunee's Performance music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Performance music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT PERFORMANCE MV",
+    "h2": "Performance video is the format the algorithm still rewards",
+    "sections": [
+      {
+        "heading": "What performance MV is",
+        "body": "Performance music video is the band or artist playing the song on camera - could be staged in a studio, on a rooftop, in an empty warehouse, at a soundcheck. Distinct from concert MV (which implies audience and venue), performance MV is controlled, often a single location, focused on the act of playing. The format has the longest history in MTV - most early 80s videos were performance with minor narrative wrap. It's also dominant in NPR Tiny Desk, La Blogotheque's Take Away Shows, Jam in the Van."
+      },
+      {
+        "heading": "When to use it",
+        "body": "Performance MV is the right call for bands where the musicianship is the point (jazz, jam bands, technical metal, anything with virtuoso players), for stripped acoustic versions of pop hits (a release-cycle staple), for live-off-the-floor recordings where audio and video sync, and for any artist whose brand is authenticity over production. It's also the format YouTube's algorithm still surfaces well - long-form performance content has lower competition than narrative MV and higher watch time per upload."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "Specify the venue and light setup like a real shoot: 'industrial loft, full-band stage left, three-camera coverage, warm tungsten practical lights, no colored gels'. Pick a camera language: 'locked-off wides plus slow dolly tight on instruments' or 'all handheld, shoulder mount, intuitive cuts'. Add 'no audience visible' to keep it performance-not-concert. Tunee can match camera style to genre - jazz benefits from slow holds, punk from fast cuts."
+      }
+    ]
+  }
 }

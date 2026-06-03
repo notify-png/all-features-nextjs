@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Indie music video to compare?",
       "a": "Yes. You can generate several variations of your Indie music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT INDIE",
+    "h2": "Indie video is a budget excuse turned into a style",
+    "sections": [
+      {
+        "heading": "What indie looks like",
+        "body": "Indie MV grammar grew from limitations: one camera, one location, one weird idea executed completely. Lo-fi finishes — VHS bleed, expired film stock, blown highlights — are aesthetic choices now, not constraints. The artist often looks slightly bored or amused, never earnest. Composition is loose and asymmetric. Wardrobe is thrifted-looking even when it isn't. The best indie videos feel like they were made by a friend on a Saturday."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Tame Impala's The Less I Know the Better is the ceiling — single concept, single set, full commitment. Mac DeMarco's home-shot videos prove a webcam and a backyard can carry a career. Arctic Monkeys' Tranquility Base hotel-themed run added cinematic ambition without losing the slacker tone. Snail Mail, Soccer Mommy, and Alvvays all share the same camera-as-roommate energy. The connective tissue is restraint and a refusal to take the genre too seriously."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Pick one idea and stop adding. 'Artist sitting in a backyard kiddie pool for the entire song, slow zoom in across three minutes' is more indie than any elaborate concept. Tunee handles consistent single-location prompts beautifully when you specify the lens — '35mm prime, soft daylight, slight overexposure'. Embrace small mistakes: a boom mic dipping into frame, a passing car. Polish kills the genre faster than a bad song."
+      }
+    ]
+  }
 }

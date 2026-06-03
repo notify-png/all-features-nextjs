@@ -39,5 +39,23 @@
       "q": "Does Tunee's Phonk music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Phonk music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT PHONK",
+    "h2": "Phonk video runs on tire smoke and Memphis ghosts",
+    "sections": [
+      {
+        "heading": "What phonk looks like",
+        "body": "Phonk visuals took the 1990s Memphis rap mixtape aesthetic, ran it through TikTok, and added drift cars. The look is heavily compressed: distorted neon, VHS tracking errors, frame ghosting, blown reds. Masked figures appear constantly — balaclavas, demon masks, anonymous silhouettes. Cars are central, almost always sideways. Color is dominated by red and black with occasional acid green or hot pink intrusions. Text overlays in cracked Cyrillic-influenced fonts often appear over the action."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Kordhell's Murder in My Mind set the modern phonk visual template with car-focused, mask-heavy imagery. MoneySamuel and Pharaoh come from the Russian phonk scene that shaped the current aesthetic. DVRST's Close Eyes carried the drift-and-distortion language to a billion views. Earlier influences run straight back to Three 6 Mafia and DJ Screw mixtape art. The thread: aggressive lo-fi treatment of every frame, plus a refusal to ever show a clean face."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Lean into the degradation. Prompt Tunee for 'heavy VHS noise, chromatic aberration on the edges, blown red highlights, frame skipping every two seconds'. Specify the car early — 'rear-wheel-drive coupe mid-drift, tire smoke filling the lower third'. Faces should be obscured or partial. Add Cyrillic-style text in the corner of the frame for authenticity. Don't ask for clean output. Phonk that looks rendered cleanly loses what the genre is for."
+      }
+    ]
+  }
 }

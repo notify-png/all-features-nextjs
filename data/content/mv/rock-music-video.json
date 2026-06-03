@@ -39,5 +39,23 @@
       "q": "Does Tunee's Rock music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Rock music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT ROCK",
+    "h2": "Rock video lives or dies on whether the band looks like a band",
+    "sections": [
+      {
+        "heading": "What rock looks like",
+        "body": "Rock MVs are mostly performance-driven, but the best ones make the band feel like a unit, not four people in the same room. Wide shots that include all members on stage, mid-frames that catch eye contact between the bassist and the drummer, close-ups of hands on strings. Lighting is theatrical — stage rigs, strobes, smoke, hard backlight that turns the singer into a silhouette during the bridge. Wardrobe is consistent within the band's identity, never overstyled."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Foo Fighters' The Pretender and Walk are the modern blueprint for stadium-rock MV pacing. Greta Van Fleet's Heat Above brings 70s arena revival imagery into the current frame. Royal Blood's Limbo proves a two-piece can fill a screen if the camera respects them. Wolfmother, Highly Suspect, and the Black Keys round out the current vocabulary. Older texts — Queen's Bohemian Rhapsody, the Stones' Start Me Up — still teach what stage charisma on camera actually looks like."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Place the band in physical relationship to each other first. 'Drummer center back on a raised riser, bassist stage left, guitarist stage right, singer at the lip' creates a real stage geometry Tunee can hold across cuts. Add specific lighting: 'hard backlight from upstage, two cross-beams of red from the wings, haze'. Cut on the snare, not the kick. Reserve the slow-motion shot for one moment — usually the second chorus's first beat."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Does Tunee's DJs music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create DJs music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR DJS",
+    "h2": "DJ visuals aren't music videos — they're festival projection, scaled down",
+    "sections": [
+      {
+        "heading": "Why the DJ MV is its own format",
+        "body": "DJs don't sing the song, didn't write the song the way a singer-songwriter did, and rarely appear on camera throughout. A DJ MV that tries to be a narrative artist video usually flops. What works is the festival-screen aesthetic shrunk down to YouTube: abstract motion graphics, mainstage-style visualizers, drop-synced light explosions, occasional cuts to the DJ behind the decks for identity. Think Anyma's visual sets, deadmau5's Cube projections, Eric Prydz's HOLO. Visual scale, not narrative depth."
+      },
+      {
+        "heading": "What the drop has to look like",
+        "body": "Every DJ MV lives or dies on the drop. The 8 to 16 bars before it should build visually — color saturation creeping up, camera moves accelerating, framing tightening. The drop itself is the visual payoff: a hard cut to the widest, brightest, most kinetic shot in the video, sustained for the first 4 bars before any cuts return. Get that one moment right and the rest of the video can be loops; miss it and even great visuals feel flat under a great drop."
+      },
+      {
+        "heading": "How Tunee builds the drop in",
+        "body": "The audio analyst flags the drop automatically (energy spike + tempo confirmation + structural cue), and Sage maps the visual buildup to land on it. The DJ preset skews toward abstract and architectural over character-driven — fewer faces, more geometry, palette locked to festival-screen brights. Output is 16:9 for venue playback files (yes, you can hand the MP4 to your VJ for live shows) plus 9:16 for social. Same generation, both surfaces."
+      }
+    ]
+  }
 }

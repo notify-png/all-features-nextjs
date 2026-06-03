@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a C-pop music video to compare?",
       "a": "Yes. You can generate several variations of your C-pop music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT C-POP",
+    "h2": "C-pop videos blend ballad cinematography with sleek modern pop",
+    "sections": [
+      {
+        "heading": "What C-pop looks like",
+        "body": "C-pop visuals have two distinct lineages running in parallel. The ballad tradition (Jay Chou, JJ Lin) leans cinematic — narrative-driven, often period-piece, with Chinese architectural backdrops, ink-wash inspired color palettes, and slow Steadicam moves. The modern pop side (G.E.M., Jolin Tsai, Eric Chou) takes K-pop polish and translates it through a Taiwanese or Hong Kong aesthetic — neon night markets, glass-and-steel rooftops, fashion-magazine framing."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "The canonical references are Jay Chou's 'Blue and White Porcelain' and 'Chrysanthemum Terrace' (period-piece ballad template), JJ Lin's 'Sanctuary' tour visuals, G.E.M.'s 'Light Years Away', Mayday's 'Song of Tonight' live films, and Eason Chan's recent visual albums. Director Wing Shya defines a lot of the modern Hong Kong look. Tunee's C-pop model knows both lineages and can shift between them based on prompt cues."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify which lineage. A ballad prompt should name architectural and seasonal anchors ('courtyard with curved tile roofs, falling plum blossoms, ink-wash gradient sky'); a modern-pop prompt should name urban specificity ('Taipei night market neon, hand-held on subject, magenta and cyan'). Mixing the two produces visual confusion; committing to one produces a recognizable frame."
+      }
+    ]
+  }
 }

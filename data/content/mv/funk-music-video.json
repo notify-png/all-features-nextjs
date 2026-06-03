@@ -39,5 +39,23 @@
       "q": "Does it work with any genre of music, or only Funk?",
       "a": "Tunee supports a wide range of genres and visual styles beyond Funk. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT FUNK",
+    "h2": "Funk on camera is choreography first, everything else second",
+    "sections": [
+      {
+        "heading": "What funk looks like",
+        "body": "Funk videos run on tight pocket and tighter wardrobe. Think wide-leg pants, satin, fur collars, full bands moving as one unit. Color is loud and deliberate: mustard yellow on burnt orange, magenta on lime. The frame often holds a wider shot than pop videos because the dancing has to read — you need to see the bassist's hip drop and the drummer's grin in the same composition. Lighting is hard and saturated, not soft."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Bruno Mars and Anderson .Paak built the modern funk MV language between them — Finesse, Leave the Door Open, Silk Sonic's full Smokin Out the Window setup. Vulfpeck's stripped studio shoots prove you can do it with one locked camera if the band is right. Older touchstones still matter: Earth, Wind & Fire's stage cuts, Prince's Kiss. The connective tissue is unbroken takes and choreography that looks rehearsed but not robotic."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify the band configuration before the visual style. 'Six-piece band in matching cream suits, horn section stage left, drummer center, locked wide shot' gives Tunee something to hang the groove on. Then layer color as a separate beat: 'walls in chocolate brown, accent lighting in hot pink'. Avoid asking for 'funky vibes' — the genre is too specific for vague language. Name the era you want: '1975 Soul Train', '1985 Minneapolis', '2024 Silk Sonic'."
+      }
+    ]
+  }
 }

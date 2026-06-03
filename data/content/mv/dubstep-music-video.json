@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Dubstep music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Dubstep music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT DUBSTEP",
+    "h2": "Dubstep MVs are built around the drop — everything serves the bass",
+    "sections": [
+      {
+        "heading": "What dubstep looks like",
+        "body": "Dubstep video is structured around a single event: the drop. Everything before is build-up, everything after is reaction. The visual signatures: glitch and datamosh effects synced to wobbles, hard cuts on the drop (never crossfades), heavy lens distortion at peak frequencies, hyper-saturated neon (electric blue, toxic green, ultraviolet), strobe inserts, frame-skipping, and digital decay textures. Real-world shots are often overlaid with abstract distortion rather than presented clean."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Reference points: Skrillex's 'First of the Year (Equinox)' which defined the cinematic-meets-glitch template, Excision's tour visuals which set the production-scale benchmark, Virtual Self's whole rollout, Zomboy's animated clips, Datsik's stage-design films. The lineage runs back to early Aphex Twin and Squarepusher visuals — the genre's relationship to digital decay is older than dubstep itself. Tunee's dubstep model is built to handle hard cuts and effect stacking."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Build the prompt around the drop, not the song. Describe the pre-drop frame ('static wide on empty warehouse, low-fi grade'), the drop event ('hard cut to RGB-split, datamosh frames, strobe overlay'), and the post-drop continuation. Tunee syncs cuts to the beat — if you give it a tempo and the drop position, the edits land where the bass does."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Instagram Reels music video to compare?",
       "a": "Yes. You can generate several variations of your Instagram Reels music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR REELS",
+    "h2": "Reels rewards visual polish over raw novelty",
+    "sections": [
+      {
+        "heading": "Why Reels is its own conversation",
+        "body": "Instagram's audience skews older and more brand-trained than TikTok's. Reels users will tolerate a slower opening, but they're less forgiving of low-production-value footage — the platform is still aspirational by default. The 90-second ceiling means you have more room for a verse and a chorus, and the native music library means you can upload your track as a Reels audio and let other creators use it, which is the actual distribution play for musicians on this platform."
+      },
+      {
+        "heading": "Conventions that win on Reels",
+        "body": "Color-graded, deliberate composition, lyric overlays in clean sans-serif type, transitions that match the beat without screaming about it. The Reels aesthetic borrows more from fashion film than from TikTok's chaos — think Daniel Caesar's videos, Steve Lacy's visual rollouts, the way FKA Twigs treats every frame as a still. Vertical 9:16, hook by the 5-second mark, but the first 5 seconds can earn that hook with a build."
+      },
+      {
+        "heading": "Tunee's Reels export and the audio play",
+        "body": "The Reels preset outputs 9:16 at 1080p, 90 seconds max, with the audio track exported separately as an MP3 you can upload as a Reels Audio. That's the multiplier — your video gets played once, your audio gets used by 50 other creators who tag back. Tunee also generates a 30-second 'tease' cut alongside the full Reel for cross-posting as a Story, so one generation seeds three distribution surfaces."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Does it work with any genre of music, or only Abstract?",
       "a": "Tunee supports a wide range of genres and visual styles beyond Abstract. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT ABSTRACT MV",
+    "h2": "Abstract video is the genre that lives or dies on motion",
+    "sections": [
+      {
+        "heading": "What abstract really means here",
+        "body": "Abstract music video means there's no character, no place, no story - just shape, color, and motion responding to sound. Done badly it's a Windows Media Player visualizer. Done well it's Ryoji Ikeda at the Barbican or the Universal Everything studio's wireframe figures. The dividing line is timing: every transition lands on a transient, every color shift answers a chord change. Static abstract art animated to music is wallpaper. Abstract video that listens is composition."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Motion-graphics studios have been writing this dictionary for thirty years: Saul Bass to Kyle Cooper's Se7en titles, the GMUNK / Field.io school of generative work, Beeple's everyday loops, Houdini fluid sims, TouchDesigner audio-reactive patches, Refik Anadol's data sculptures. Music-video specific: Aphex Twin's Windowlicker, Squarepusher's My Red Hot Car, anything Cyriak makes. Tunee's abstract model knows fluid simulation, particle systems, and morphing geometry as distinct vocabularies - not interchangeable buzzwords."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Pick one motion primitive per video and stick to it: fluid, particles, geometry morph, or signed-distance-field deformation. Mixing two reads as confused. Specify the palette by feeling, not adjective - 'two colors, magenta and deep cyan' beats 'vibrant and dynamic'. Tell Tunee how density evolves with the song: 'sparse particles in verse, dense bloom on drop'. Audio-reactivity is the whole point - make the prompt say so."
+      }
+    ]
+  }
 }

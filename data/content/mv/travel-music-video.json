@@ -39,5 +39,23 @@
       "q": "Does Tunee's Travel music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Travel music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE TRAVEL MV",
+    "h2": "A trip recap that isn't just airport selfies in a row",
+    "sections": [
+      {
+        "heading": "Why a travel MV beats a photo dump",
+        "body": "Travel content has a half-life problem: the dump goes up the week of the trip, friends scroll past, and the trip becomes invisible by month two. A scored MV is the format that survives the algorithm — it gets pulled up at dinner parties when the trip comes up in conversation, sent to whoever you traveled with on the anniversary, and held as the official record of the trip rather than the random 400-photo album in iCloud."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Travel cinematographers come back to the same beats: the airplane-wing window, hands on a paper map, the back-of-the-head walking into a market, food from above, the hotel-room window reveal, the local-currency close-up, the transit-platform wide. The single best shot of any trip is rarely the landmark — it's the unposed moment at a café you can't pronounce. Tell Tunee which three of these you want to anchor on."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Don't list cities — that produces a postcard reel. Instead, give Tunee a specific sensory anchor for each location: 'Tokyo 7-Eleven at 2am, fluorescent green', 'Marrakech rooftop golden hour, hands tearing bread', 'Reykjavik gas station, midnight sun'. The model handles place better through texture than through name."
+      }
+    ]
+  }
 }

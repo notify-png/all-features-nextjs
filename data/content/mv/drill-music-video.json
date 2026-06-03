@@ -39,5 +39,23 @@
       "q": "Does Tunee's Drill music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Drill music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT DRILL",
+    "h2": "Drill MVs operate by a strict visual code born from the street",
+    "sections": [
+      {
+        "heading": "What drill looks like",
+        "body": "Drill video has the most codified visual language in contemporary rap, and the code matters because the audience reads it carefully. The conventions: balaclava and ski-mask anonymity, group framing (rarely solo shots), night exteriors under streetlights, low-angle handheld at chest height, color grade pushed dark with crushed shadows, and a specific UK drill convention of lyrics-on-screen typography. Cars are present but never the focus — the crew is the subject."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Reference points by scene: Chicago drill founded the look with Chief Keef and Lil Durk; Brooklyn drill via Pop Smoke (whose Dior video and posthumous 'For the Night' refined the cinematic end); UK drill via Headie One, Central Cee, and Digga D, with directors like KENNY (Kenrick Bowes) defining the visual signature. The convention of masked group shots in low-light estates isn't a stylistic choice — it's a structural part of the genre."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Be specific about region — Chicago, Brooklyn, and UK drill have distinct visual conventions. UK drill prompts should name 'estate at night, balaclavas, low-angle handheld, lyrics overlay'; Brooklyn drill leans more cinematic, with wider lenses and street-level Steadicam. Tunee's drill model handles both; the prompt has to commit to one."
+      }
+    ]
+  }
 }

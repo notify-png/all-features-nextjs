@@ -39,5 +39,23 @@
       "q": "Does Tunee's Reggaeton music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Reggaeton music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT REGGAETON",
+    "h2": "Reggaeton video lives where the dembow and the dance floor meet",
+    "sections": [
+      {
+        "heading": "What reggaeton looks like",
+        "body": "Reggaeton MVs combine club energy with neighborhood specificity. The dembow rhythm dictates the edit — three-and-a-half beats, hard cut, repeat. Locations alternate between rooftops, club interiors with magenta wash, and street scenes that reference San Juan, Medellín, or Miami specifically. Wardrobe is fashion-forward: designer streetwear, statement jewelry, sometimes full couture in unexpected settings. Dance is participatory rather than choreographed — people moving with the song, not performing for the camera."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "J Balvin's Mi Gente built the visual scale that reggaeton now operates at. Bad Bunny's Yo Perreo Sola flipped expectations of who fronts a reggaeton MV. Maluma's Hawai brings the cinematic narrative arm. Daddy Yankee's Gasolina remains the foundational text every newer video answers to. Karol G, Feid, and Anuel AA carry the genre's current visual language. The constant: real locations, fashion as identity, choreography that reads as natural movement."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Time the edit explicitly to the dembow pattern: 'cuts every three-and-a-half beats throughout the chorus, hold the bridge for eight bars'. Specify two contrasting locations and rotate between them — 'rooftop at sunset and underground club at 2 AM' creates the day-and-night arc the genre rewards. Wardrobe shift between locations should be dramatic. Tunee handles the magenta-and-amber club palette well when you name both colors and the haze level."
+      }
+    ]
+  }
 }

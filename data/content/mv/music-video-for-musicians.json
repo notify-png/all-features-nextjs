@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Musicians music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Musicians music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR MUSICIANS",
+    "h2": "The singer-songwriter MV has its own quiet canon",
+    "sections": [
+      {
+        "heading": "Why this category isn't 'just music videos'",
+        "body": "A singer-songwriter MV isn't a band performance video and isn't a pop video — it's a third thing. The visual canon is intimate: Phoebe Bridgers' Kyoto, Bon Iver's Holocene, Sufjan Stevens' Should Have Known Better. One performer, often alone in frame, low color saturation, long takes, a landscape or interior that says something about the song's emotional weight. The artist is the subject and the location is the second character. There's almost no editing pyrotechnics."
+      },
+      {
+        "heading": "Shots that always work for the format",
+        "body": "A close-up on the vocalist that holds through an entire chorus without a cut. A wide that places the artist small in a landscape (a beach, a field, an empty highway). A single-take walking shot, handheld, following the artist from behind. A static frame on hands at a piano or guitar. The audience is there for the song first and the visual atmosphere second — restraint is the aesthetic, not a budget compromise."
+      },
+      {
+        "heading": "Where Tunee fits a working musician's release",
+        "body": "Independent singer-songwriters typically can't fund a real video for every track — they can fund one per album, maybe two. Tunee fills the rest of the rollout: lyric videos with the same color palette as the main video, vertical cuts for Reels and TikTok, Spotify Canvases for every track, a tour-poster animated to a verse of the song. The visual identity stays cohesive across 12 tracks without 12 shoot days."
+      }
+    ]
+  }
 }

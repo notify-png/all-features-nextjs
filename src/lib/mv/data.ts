@@ -67,16 +67,27 @@ export function getConfig(slug: string): MvConfig {
 }
 
 export function getContent(slug: string, locale: string = 'en'): MvContent {
-  // 1. Try locale-specific translated file
-  if (locale !== 'en') {
-    const localePath = path.join(SEO_DIR, 'content', 'mv', locale, `${slug}.json`)
-    if (fs.existsSync(localePath)) {
-      return JSON.parse(fs.readFileSync(localePath, 'utf-8'))
-    }
+  // Always load EN first — it's the source of truth and fills any gaps the
+  // locale file leaves unfilled (e.g. narrative not yet translated).
+  const enPath = path.join(SEO_DIR, 'content', 'mv', `${slug}.json`)
+  const enContent: MvContent = JSON.parse(fs.readFileSync(enPath, 'utf-8'))
+
+  if (locale === 'en') return enContent
+
+  const localePath = path.join(SEO_DIR, 'content', 'mv', locale, `${slug}.json`)
+  if (!fs.existsSync(localePath)) return enContent
+
+  const localeContent: MvContent = JSON.parse(fs.readFileSync(localePath, 'utf-8'))
+
+  // Field-level merge: locale wins where present, EN fills holes. Specifically
+  // important for `narrative` — when we add per-slug long-form content to EN
+  // but haven't translated it yet, every locale page still gets to render
+  // something rather than silently skipping the section.
+  return {
+    ...enContent,
+    ...localeContent,
+    narrative: localeContent.narrative ?? enContent.narrative,
   }
-  // 2. Fall back to English
-  const filePath = path.join(SEO_DIR, 'content', 'mv', `${slug}.json`)
-  return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
 }
 
 export function getImageCache(): Record<string, PexelsPhoto[]> {

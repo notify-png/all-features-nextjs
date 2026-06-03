@@ -39,5 +39,23 @@
       "q": "Does Tunee's Worship music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Worship music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR WORSHIP",
+    "h2": "Worship video is its own genre with its own canon",
+    "sections": [
+      {
+        "heading": "What worship video actually looks like",
+        "body": "The visual canon is well-defined: Hillsong, Elevation, Bethel, Maverick City — lyric-forward typography over a live congregation shot in warm tungsten, slow camera moves, the worship leader rarely the dominant frame. The lyrics matter because the audience is meant to sing along, so on-screen text is non-negotiable and the type design is closer to publishing than to pop-video kineticism. The aesthetic is intimate live performance, not produced pop video."
+      },
+      {
+        "heading": "Shots and conventions that work",
+        "body": "Wide of the congregation with hands raised, soft-focus, warm key from the stage lights. Medium of the worship leader, eyes closed, mid-phrase. Insert of a single congregant during the bridge — usually older, usually emotional, intentionally not the prettiest face in the room. Lyric text appears line-by-line, centered, in a clean serif or humanist sans, with enough lead-in time for the congregation to read before they sing. Cuts land on phrase ends, not on the beat."
+      },
+      {
+        "heading": "How Tunee handles the worship preset",
+        "body": "The Worship preset goes lyric-forward by default — every line of the song appears on screen with the line-by-line reveal timing the format requires. The visual base layer skews toward warm-lit congregational shots and softly-lit instrumentalist frames, with optional uploads of your actual church's footage to ground the generated material in your community. Output is 16:9 for in-service projection plus 9:16 for the social cuts that drive Sunday attendance during the week."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "How do I customize the visual style of my Brands music video?",
       "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates brand integration-inspired visuals that match your Brands aesthetic."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR BRANDS",
+    "h2": "Brand-safe music video content is a category the agencies undercharge for",
+    "sections": [
+      {
+        "heading": "Why brands need MVs that aren't ads",
+        "body": "A 30-second product spot with library music gets skipped. A 60-second branded music video — same product, custom track, real visual identity — gets watched and shared. The category exists because the social algorithms reward music-first content over ad-first content, and because licensing a real hit for a campaign costs $50,000-$500,000 before you've shot a frame. Branded MVs are the workaround: original song, custom visuals, the brand integrated as a character not a logo flash."
+      },
+      {
+        "heading": "What works in branded MV content",
+        "body": "Product as scene element, not centerpiece: the bottle on the bar in a nightlife video, the sneaker on the dancer's foot in a street-dance piece, the laptop in a coworking-cafe montage. Brand colors woven into the color grade. A custom song that matches the brand's audio identity without sounding like a jingle. The clearance problem disappears (you own the song), the budget collapses by an order of magnitude, and the content survives on TikTok and YouTube without 'Sponsored' fatigue."
+      },
+      {
+        "heading": "How Tunee fits a brand-content team's workflow",
+        "body": "Generate the song from the brief, generate the visuals from the brand guidelines, export in every aspect ratio the social calendar needs, deliver to the agency in a week instead of a quarter. Tunee's text-to-MV workflow is built for this — one prompt, one custom soundtrack, one music video, no licensing meeting. The legal team gets a clean chain of ownership; the social team gets content they can actually run on multiple platforms."
+      }
+    ]
+  }
 }

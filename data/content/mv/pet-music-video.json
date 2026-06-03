@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Pet music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Pet music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE PET MV",
+    "h2": "A pet video that holds up after the algorithm forgets it",
+    "sections": [
+      {
+        "heading": "Why pet MVs are worth more than another TikTok",
+        "body": "The pet-content market is saturated — a single funny clip gets eight hours of attention then disappears. A scored 60-second MV is built for a longer life: it becomes the post that anchors a pet's anniversary, the memorial when the time comes years later, and the shareable that friends actually send back to you. Vets and dog trainers also use the format for client end-of-year recaps."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Pet photographers know the canon: the eye-level floor shot (never shoot down at a dog), paws on a windowsill, the head-tilt at a sound off-camera, the dead-asleep belly-up, the running-toward-camera in a field, the leash-by-the-door waiting shot. Cats add their own: the loaf, the sink occupation, the tail-only-visible-from-a-box, the unsolicited keyboard sit. Tunee's model recognizes these as a vocabulary, not as random pet footage."
+      },
+      {
+        "heading": "Make it the gift",
+        "body": "The unexpected use case: send the MV to your vet, your dog walker, or your pet sitter at the end of the year. It's the kind of small thing service workers actually save. Tunee outputs vertical for the Story, square for the post, and widescreen for the eventual memorial slideshow you hope you don't need for a long time."
+      }
+    ]
+  }
 }

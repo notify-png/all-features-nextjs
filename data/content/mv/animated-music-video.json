@@ -39,5 +39,23 @@
       "q": "How do I customize the visual style of my Animated music video?",
       "a": "You can guide the visuals using text prompts that describe scenes, moods, and settings. Tunee's AI interprets your input and generates 2D animation-inspired visuals that match your Animated aesthetic."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT ANIMATED MV",
+    "h2": "Animated MV is a category, not a style - narrow it first",
+    "sections": [
+      {
+        "heading": "What animated covers",
+        "body": "Animated music video is an umbrella over wildly different crafts: 2D cel animation (Spirited Away, Looney Tunes), 3D CG (Pixar, Sony's Spider-Verse), motion graphics (Saul Bass, modern title sequences), stop-motion (Anomalisa, Aardman), rotoscope (A Scanner Darkly, Take On Me). The first job of any animated brief is to pick which one. 'I want an animated video' tells a studio nothing. 'I want Spider-Verse-style mixed-media 2D over 3D' tells them everything."
+      },
+      {
+        "heading": "When to use animation",
+        "body": "Animation makes sense when live action can't: impossible scale (giant monsters, microscopic worlds), high-stylization that supports a specific brand (Gorillaz's entire identity), anonymity for the artist (lyric-first projects), budget - at small scale animation is now cheaper than location shoots and a crew. Genres that lean animated by tradition: electronic, indie pop, anything for kids, anything for hardcore fans who want a piece of art rather than a performance video. K-pop has used animation for B-sides and lore expansions for years."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "Pick your animation technique in the prompt, not the result: 'cel-shaded 2D, frame-replacement animation, hard line work' versus '3D CG, Pixar lighting model, subsurface scattering on skin' versus 'stop-motion, visible armature joints, 12fps'. Each lives on different training data. Mixing techniques mid-video can work, but you have to name the transition: 'live action cut to rotoscope on the drop'. Vague 'animated' lands on whatever's most common."
+      }
+    ]
+  }
 }

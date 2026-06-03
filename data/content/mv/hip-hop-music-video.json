@@ -39,5 +39,23 @@
       "q": "Does Tunee's Hip Hop music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Hip Hop music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT HIP HOP",
+    "h2": "Hip hop video carries a city on its shoulders",
+    "sections": [
+      {
+        "heading": "What hip hop looks like",
+        "body": "Hip hop MVs braid two layers: the performance — usually the rapper to camera, lip-synced tight, often in a powerful low angle — and the world that produced the song. That world is specific. Compton, Houston, Toronto, Brooklyn each have a visual signature, and the best videos refuse to be from nowhere. Wardrobe is current to the month, not the year. Cars matter. Crews matter. Cuts land on the rhyme, never the beat alone."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Kendrick Lamar's HUMBLE and Alright are the modern textbook for performance plus social weight. Travis Scott's HIGHEST IN THE ROOM shows surreal scale without losing rap as the spine. J. Cole's MIDDLE CHILD keeps it conversational and warm. Drake's Hotline Bling went minimalist and changed everything. Earlier, Hype Williams' fisheye era and Spike Jonze's work with the Beastie Boys set ground rules the genre still references."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Give Tunee a specific neighborhood, not a generic city. 'Late-evening porch in South Memphis, two friends, blue twilight' beats 'urban street scene' every time. Lock down one signature wardrobe element — chain, hoodie, hat — and let it appear in every cut so the artist reads as continuous. Use the verse-chorus structure: tight performance frames during bars, B-roll lifestyle during the hook. Cut on the consonants, not the kick."
+      }
+    ]
+  }
 }

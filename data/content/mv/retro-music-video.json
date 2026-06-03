@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Retro music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Retro music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT RETRO MV",
+    "h2": "Retro is a decade, not a vibe - pick one",
+    "sections": [
+      {
+        "heading": "The era matters more than the word",
+        "body": "Retro is useless as a single label because every decade had a different look. 1970s: warm Kodak film stock, soft anamorphic, wide collars, station-wagon yellows. 1980s: Betacam video, chromatic VHS bleed, neon-on-black graphics, MTV bumper aesthetic. 1990s: grainy Hi-8, washed denim and flannel, the indie-film grain of Kids and Clerks. 2000s: early digital, oversharp video noise, MySpace-era photo styling. Picking the wrong decade for your reference is the most common AI-retro failure."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Era-specific touchstones: Wong Kar-wai's Days of Being Wild for 1970s Hong Kong, Boogie Nights' film-stock authenticity, the entire MTV catalog 1981-1989 for true 80s video, Sofia Coppola's Virgin Suicides for 70s suburban dream, Larry Clark's Kids for raw 90s 16mm. VHS-specific artists: David Firth's degraded-tape work, the early YouTube vaporwave scene. Tunee's retro model has each decade trained as a distinct stock-and-format combination, not blurred into 'old looking'."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Always name the year and the format: '1978, Kodak Vision 250D, anamorphic, soft contrast' or '1986, Betacam SP, chromatic aberration on highlights, scan lines'. Specify the film grain or video noise type - they look completely different. Period-correct wardrobe and props matter; 'retro outfit' is vague, 'wide-collar polyester shirt, bell-bottom denim' is specific. Mixing decades is fine for surrealism, but call it out: 'anachronistic 80s neon over 70s film stock'."
+      }
+    ]
+  }
 }

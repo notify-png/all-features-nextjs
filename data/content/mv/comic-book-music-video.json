@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Comic Book music video to compare?",
       "a": "Yes. You can generate several variations of your Comic Book music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT COMIC-BOOK MV",
+    "h2": "The comic-book look only works when it commits",
+    "sections": [
+      {
+        "heading": "What comic-book style requires",
+        "body": "Comic-book video has a binary quality - either every frame reads as a panel or none do. The non-negotiables: visible ink lines (variable weight, brush-pulled, not a flat 1px outline), halftone dots or Ben-Day dot fills instead of smooth gradients, hard color fills with limited palettes, occasional kinetic typography (POW, SLAM) used sparingly. Sin City pushed it to pure black/white with one accent color. Spider-Verse layered three different dot densities for depth. The middle ground reads as filtered, not drawn."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Reference shelf: Frank Miller's Sin City pages, the Spider-Verse trilogy's frame-skip animation and chromatic aberration, Jamie Hewlett's Gorillaz art, Mike Mignola's Hellboy negative-space inking, Skottie Young's expressive line. Music-video specific: Gorillaz's Feel Good Inc. and On Melancholy Hill, Daft Punk's Interstella 5555 (anime-adjacent but comic-staged). Tunee's comic-book model knows ink weight, halftone density, and panel layout as separate controllable variables."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Pick an inker as your reference: 'Frank Miller high-contrast ink', 'Mignola negative-space silhouette', 'Spider-Verse multi-density halftone'. Specify the palette count: 'four colors plus black ink line'. Add panel-frame instructions if you want them: 'occasional split-screen panel borders, white gutter'. Skip speech bubbles unless your video has actual dialogue - floating SFX words are fine and add motion."
+      }
+    ]
+  }
 }

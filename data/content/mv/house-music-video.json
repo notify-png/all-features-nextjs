@@ -39,5 +39,23 @@
       "q": "Does Tunee's House music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create House music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT HOUSE",
+    "h2": "House videos translate the dancefloor without leaving it",
+    "sections": [
+      {
+        "heading": "What house looks like",
+        "body": "House lives in a single environment most of the night: the club, the warehouse, the festival tent. Good house videos honor that. The camera is often inside the crowd, lens at shoulder height, lights overhead doing the cinematography. Strobes, lasers, smoke, sweat. The DJ rarely appears more than a few seconds — it's about the room, not the figure. Color tends toward magenta-cyan-amber wash, with the occasional pure-white blowout on a drop."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Daft Punk's Around the World remains the gold standard for house as choreography. Disclosure's Latch built the modern coupled-bodies template. Fred again..'s Boiler Room cuts proved one camera and a real crowd outperform any set build. Honey Dijon's live captures and Peggy Gou's Nanga Eboko videos show the visual range. The thread is honesty — house videos that pretend to be anything other than a room with music in it tend to feel embarrassing within a year."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Treat the light rig as a character. Prompt Tunee with specific fixtures: 'overhead par cans in magenta, two moving heads sweeping cyan across the back wall, haze thick enough to see the beams'. Bodies should be partial — a raised hand, a back of a head, a profile against a strobe — almost never full coverage. Time the camera to the build, the breakdown, the drop. House videos die when they treat the breakdown like a verse."
+      }
+    ]
+  }
 }

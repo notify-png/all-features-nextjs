@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Bands music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Bands music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR BANDS",
+    "h2": "Bands need performance footage they can't afford to keep shooting",
+    "sections": [
+      {
+        "heading": "The actual band-MV problem",
+        "body": "A four-piece doing a full performance MV needs five people minimum (band plus camera op), a venue, a multicam setup, and a day. That's $2,000 to $8,000 by the time it's color-graded — for a song that might pull 12,000 streams. The economics only work for signed acts, which is why most independent bands cycle the same two performance videos for years. The gap an AI tool fills isn't replacing live performance footage — it's filling the album rollout between the one real shoot you can afford."
+      },
+      {
+        "heading": "Shots the band-MV canon actually uses",
+        "body": "Tight on the guitarist's left hand on a chord change. Drummer overhead during a fill. Vocalist mid-shot with a hard backlight on a high note. Wide pull-back during the final chorus that reveals an empty venue. Performance MVs don't need narrative — they need the four or five shots that, cut tight, make a band look like a band. Tunee's band model is trained on this canon, so prompts like 'four-piece on a small stage, single key light, no audience, 16mm grain' land where a DP would."
+      },
+      {
+        "heading": "Where Tunee fits the band's release cycle",
+        "body": "Single drops, you have one real video. The album has 11 more tracks that need visual assets to fill the rollout — lyric videos, performance loops for Instagram, vertical cuts for TikTok promo, Spotify Canvas for each track. That's where Tunee earns its place: not replacing the directed video, generating the 30 supplementary assets the algorithm requires now that one video isn't enough."
+      }
+    ]
+  }
 }

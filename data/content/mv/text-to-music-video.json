@@ -39,5 +39,23 @@
       "q": "Does Tunee's Text to MV music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Text to MV music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "TEXT TO MV",
+    "h2": "Type a sentence. Get a music video with a song that didn't exist five minutes ago",
+    "sections": [
+      {
+        "heading": "What text-to-MV is actually doing",
+        "body": "Two AI systems running back to back. The first is a music generator — your text prompt produces an original instrumental or vocal track at the length and BPM you specify. The second is the MV pipeline, fed both the prompt and the just-generated audio. The interesting part is that the video model sees the prompt before the audio exists, so the visual world and the musical world are designed to match instead of the video being retrofitted to a song."
+      },
+      {
+        "heading": "What Tunee gives you from one prompt",
+        "body": "A single text input — 'a slow shoegaze track about driving home in the rain, female vocals, 80 BPM' — returns an audio track, a 60-second cut video, and a downloadable stem of just the music. You can regenerate the audio without re-rendering the video, or vice versa. Useful when the song lands but the visuals miss, or the visuals nail it but the chorus needs a second pass. Most text-to-MV tools couple the two outputs; Tunee deliberately keeps them separable."
+      },
+      {
+        "heading": "Where text-to-MV beats upload-to-MV",
+        "body": "Two scenarios. First, prototyping: you have a video concept but no song yet, and licensing a placeholder is more friction than generating one. Second, content velocity: a brand running a 30-day campaign needs 30 distinct short videos and 30 distinct soundtracks, and licensing math doesn't survive that. For one-off artist videos, upload-your-song is still the right route. For everything else, text-to-MV is shorter path to first frame."
+      }
+    ]
+  }
 }

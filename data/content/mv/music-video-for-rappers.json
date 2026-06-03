@@ -39,5 +39,23 @@
       "q": "Does Tunee's Rappers music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Rappers music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR RAPPERS",
+    "h2": "The rap MV is the most visually codified genre in music",
+    "sections": [
+      {
+        "heading": "Why rap videos look like rap videos",
+        "body": "Hip-hop video has more conventions than any other genre, by far. Drill has its specific frame language (handheld, wide-lens, night exteriors, fish-eye on the rapper, crew shots from low angles — see Pop Smoke's Welcome to the Party, the Headie One catalog). Trap has its own (Atlanta strip-club neon, slow-motion money, low-rider tracking shots, Dave Meyers and Cole Bennett's grammar). The conventions exist because the audience reads them — break too many and the video doesn't read as the genre it's supposed to be."
+      },
+      {
+        "heading": "What the canon actually delivers",
+        "body": "The rapper performing direct to camera in the first verse — close on lips for the punchlines, wider on the body for the flow. Lifestyle B-roll cut against the performance: cars, jewelry, locations that read as territory. The crew shot, always. A location change for the second verse to signal scale. The bridge or final hook gets the wide, the smoke, the slow-motion. The visual hierarchy of a rap MV is as fixed as the verse-hook-verse-hook structure of the song."
+      },
+      {
+        "heading": "How Tunee's rap preset reads the genre",
+        "body": "Tunee's model is trained on the actual visual canon — drill, trap, boom-bap, melodic, UK rap each have their own model paths. Pick the subgenre and the defaults shift: drill goes night-exterior handheld, trap goes neon-and-slow-mo, melodic goes warm cinematic. Vertical 9:16 for the TikTok promo, 16:9 for the YouTube upload, both from the same generation. The performance shots stay character-consistent so it reads as the artist, not a generic AI face."
+      }
+    ]
+  }
 }

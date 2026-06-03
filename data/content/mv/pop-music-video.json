@@ -39,5 +39,23 @@
       "q": "Does it work with any genre of music, or only Pop?",
       "a": "Tunee supports a wide range of genres and visual styles beyond Pop. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT POP",
+    "h2": "Pop video sets the budget ceiling for every other genre",
+    "sections": [
+      {
+        "heading": "What pop looks like",
+        "body": "Pop MVs deliver the highest production density in the format. Multiple custom sets, full wardrobe arcs, narrative through-lines, choreography crews, sometimes feature-film color grading. The artist is the center of every composition unless deliberately withheld for narrative reasons. Color worlds shift per section but always serve the song's emotional arc. Pop is the only genre where audiences will accept a four-minute video that cost more per minute than a Marvel film, as long as the hook lands."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Taylor Swift's Bejeweled and the Eras Tour visual extensions show storytelling at scale. Olivia Rodrigo's vampire and bad idea right? videos prove a single concept with full commitment beats spectacle. Dua Lipa's Houdini brings dance choreography back to the center of pop. Sabrina Carpenter's Espresso revives the lighter, set-piece pop tradition. The connecting thread is intentionality — every frame in a great pop MV has been argued about by ten people."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Treat the song's narrative arc as the storyboard's skeleton. Prompt Tunee for distinct sets per section: verse-bedroom, pre-chorus-hallway, chorus-stage, bridge-rooftop. Wardrobe should change with the world. Name the era you're targeting — 'mid-2010s Katy Perry candy palette' or 'current Sabrina Carpenter pastel theatricality' — so the visual references land. Symmetry on the chorus drop. Always close on a single iconic frame the audience can still picture a week later."
+      }
+    ]
+  }
 }

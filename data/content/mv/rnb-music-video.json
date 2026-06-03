@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my R&B music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your R&B music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT R&B",
+    "h2": "R&B video makes a feeling visible through light alone",
+    "sections": [
+      {
+        "heading": "What r&b looks like",
+        "body": "Modern R&B MVs are essentially short films with music. Lighting carries most of the emotional work: deep shadows, a single practical lamp, neon spillover through a window, candlelight. Color grades push warm and saturated or cold and desaturated, rarely neutral. Compositions are still — the camera is patient, often locked off or on a slow dolly. The artist is alone in frame more often than not, even when the song is about someone else. Wardrobe is texture-heavy: silk, leather, knit."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "The Weeknd's entire Dawn FM and After Hours runs are master classes in mood-as-style. SZA's Snooze and Kill Bill prove narrative R&B still works when the lighting earns it. Frank Ocean's Nikes set the bar for R&B as experimental film. H.E.R.'s intimate performance videos show how to do it with restraint. Solange's A Seat at the Table visuals carry the art-direction ambition. The shared rule: mood over plot, always."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Name your light sources explicitly and limit them to two or three. 'Single sodium streetlight through a sheer curtain, one practical bedside lamp, no fill' gives Tunee the constraint it needs to render mood. Keep the artist alone in frame unless a second person is critical. Long takes on the verses, slightly shorter on the hook — but never the rapid cutting of pop. Color grade should be decided early: 'amber warmth' or 'teal-and-magenta night' but never both."
+      }
+    ]
+  }
 }

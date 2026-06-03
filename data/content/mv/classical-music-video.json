@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Classical music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Classical music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT CLASSICAL",
+    "h2": "Classical MVs work when they let the performance carry the frame",
+    "sections": [
+      {
+        "heading": "What classical looks like",
+        "body": "Classical music video has a quiet, settled grammar. Performance films are shot in concert halls with three to five locked cameras: wide of the hall, mid on the conductor, close on principal players, hands close-up on the soloist. Studio-based videos lean toward minimalist sets — single-subject portraiture against neutral backgrounds, natural light, slow push-ins. Color grade is restrained, often nearly neutral with a slight warm or cool bias. The medium respects the music's pace rather than imposing pop editing."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Reference points include Yo-Yo Ma's Bach Project films, Hilary Hahn's recital videos, Deutsche Grammophon's modern artist portraits, the visuals around Max Richter's Sleep, and Igor Levit's lockdown livestreams. Documentary work like Daniil Trifonov's recorded recitals defines the serious end of the form. Tunee's classical model treats the instrument and hands as primary subject, not background."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Name the instrument family, the venue acoustics, and the lighting source. 'Solo cello in a wooden recital hall, single overhead spotlight, slow push-in on hands and fingerboard, no audience' works; 'classical music performance video' produces something generic. If you want score-visualization rather than performance, say so explicitly — the two formats look nothing alike."
+      }
+    ]
+  }
 }

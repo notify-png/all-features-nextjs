@@ -39,5 +39,23 @@
       "q": "Does Tunee's Vertical music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Vertical music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT VERTICAL MV",
+    "h2": "Vertical isn't a crop - it's a different composition",
+    "sections": [
+      {
+        "heading": "What vertical actually requires",
+        "body": "Vertical music video is 9:16 mobile-first composition designed for TikTok, Instagram Reels, YouTube Shorts, and Spotify Canvas. The mistake is shooting horizontal and cropping - vertical demands single-subject centered framing, action that happens top-to-bottom rather than left-to-right, and edits paced for thumb-scrolling attention. The first frame has to stop the scroll within a second. The bottom third often holds caption space. The format has its own language now, distinct from horizontal."
+      },
+      {
+        "heading": "When to use it",
+        "body": "Vertical MV is non-negotiable for any release in 2026 - every single needs a vertical cut. Specific use cases: TikTok release-day promo (often the single's biggest discovery channel), Reels and Shorts where horizontal video gets letterboxed and ignored, Spotify Canvas 8-second loops, vertical billboards in Times Square and Shibuya, in-feed ads. Acts whose careers were built on vertical-first MV: Doja Cat, Olivia Rodrigo, every TikTok-broken artist of the last five years. Vertical is now the primary format, not the secondary."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "Compose for 9:16 from the start: 'vertical 9:16 frame, single subject centered, action moves top-to-bottom (figure rising, particles falling)'. Front-load the hook: 'first 2 seconds: extreme close-up, hard color, motion'. Reserve the bottom 15% for caption safety: 'no critical detail in lower 15% of frame'. Tunee renders 9:16, 16:9, and 1:1 from one generation, so a single prompt covers TikTok, YouTube, and Instagram square without re-shooting."
+      }
+    ]
+  }
 }

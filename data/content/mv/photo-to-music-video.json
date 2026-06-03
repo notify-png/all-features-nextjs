@@ -39,5 +39,23 @@
       "q": "Can I create a Photo to MV music video without any video editing experience?",
       "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Photo to MV style, and the AI generates your video in minutes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "PHOTO TO MV",
+    "h2": "Turn a folder of photos into a music video that actually cuts",
+    "sections": [
+      {
+        "heading": "Why most photo-to-video tools produce slideshows",
+        "body": "The genre has a bad reputation for a reason: 'photo to video' usually means Ken Burns pan-and-zoom on every still, a crossfade, and a royalty-free track underneath. It's the wedding-DVD aesthetic, and it doesn't survive on a feed where TikTok cuts every 1.5 seconds. The fix isn't a fancier transition pack — it's animating the photo itself so each still becomes a moving plate, then cutting between plates on the beat."
+      },
+      {
+        "heading": "What Tunee does with your stills",
+        "body": "Upload up to 20 photos (concert shots, behind-the-scenes, polaroids, anything) and Tunee treats each as a generation seed, not a final frame. Each photo gets a short motion pass — a parallax push, a subject-tracked dolly, a subtle camera arc — and the resulting clips get cut to your song. Faces stay consistent. The wedding-DVD pan is gone. What you get back actually reads as footage, not stills with a Hollywood Edge transition between them."
+      },
+      {
+        "heading": "When this workflow wins",
+        "body": "Three use cases land hard: artists with a strong photo archive but no video budget, tribute videos where the source material is decades-old prints, and tour recap reels where the road photographer shot 5,000 stills and zero clips. Drop them into Tunee, pick the song, choose 9:16 or 16:9, and the photos do the work footage usually does. The output is short — 60 to 90 seconds — because that's the length where this trick stays convincing."
+      }
+    ]
+  }
 }

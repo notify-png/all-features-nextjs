@@ -39,5 +39,23 @@
       "q": "Does it work with any genre of music, or only Country?",
       "a": "Tunee supports a wide range of genres and visual styles beyond Country. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT COUNTRY",
+    "h2": "Country MVs run on trucks, fields, and neon bar light",
+    "sections": [
+      {
+        "heading": "What country looks like",
+        "body": "Country music video has a well-defined visual canon that the genre's audience expects and rewards. The signatures: pickup trucks (Ford F-150 and Chevy Silverado, dust-covered), golden-hour wheat or cornfields, weathered cowboy hats and pearl-snap shirts, dive-bar interiors with neon beer signs as key light, front-porch shots, dirt roads receding into hills. Color grade is warm and slightly desaturated, with a hint of teal in shadows. Handheld is acceptable; drone shots over fields are mandatory."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "The references span eras: Luke Combs' 'Beautiful Crazy', Morgan Wallen's 'Whiskey Glasses', Kacey Musgraves' 'Slow Burn' and 'Rainbow' (the modern, art-directed end), Chris Stapleton's 'Tennessee Whiskey' live performances, Zach Bryan's intentionally lo-fi clips. Directors like Wes Edwards and Justin Clough shape much of the contemporary look. Tunee's country model knows the difference between bro-country bright and Americana muted."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify the sub-genre — bro-country (party-bright, neon bar, lifted truck), Americana (muted, porch, vintage Wrangler), or modern-pop country (Nashville rooftop, fashion-forward). A prompt naming the truck make, the bar's beer-sign brand, or the field crop produces a sharper frame than 'country music scene'. Audiences notice when the props are wrong."
+      }
+    ]
+  }
 }

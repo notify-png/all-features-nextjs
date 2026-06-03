@@ -39,5 +39,23 @@
       "q": "Does Tunee's EDM music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create EDM music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT EDM",
+    "h2": "EDM MVs are festival cinema — the crowd is the co-star",
+    "sections": [
+      {
+        "heading": "What EDM looks like",
+        "body": "EDM video divides into two clear modes: the festival aftermovie (the format Tomorrowland's annual recap perfected) and the narrative single video. Aftermovie conventions: drone over crowds, CO2 cannon close-ups, LED-wall reflections in raised hands, slow-motion confetti, time-lapse of stage setup, sunset-to-night transitions. The narrative format borrows from pop video but always returns to the drop with a stage or crowd shot. Color is hyper-saturated, contrast is pushed, and the cut is locked to the BPM."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Reference points: Tomorrowland's official aftermovies (the form-defining template), Ultra Miami's annual recaps, Martin Garrix's 'Animals' and Calvin Harris' 'Summer' visuals, Above & Beyond's Group Therapy films, Eric Prydz's HOLO show documentation. Director Charly Friedrichs (whose work shapes much of the Tomorrowland aesthetic) is worth studying directly. Tunee's EDM model knows the difference between festival recap pacing and single-video narrative pacing."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Pick the mode first — festival or narrative — because the visual grammar diverges. For festival: name the stage type (mainstage pyramid, forest stage, intimate club), the time of day (dusk drops hit hardest), and one pyro element (CO2, flame, confetti). For narrative: treat it like a pop video with EDM-coded color and BPM-locked cuts. Don't mix the two in a single prompt."
+      }
+    ]
+  }
 }

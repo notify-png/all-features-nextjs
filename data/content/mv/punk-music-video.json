@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Punk music video to compare?",
       "a": "Yes. You can generate several variations of your Punk music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT PUNK",
+    "h2": "Punk video keeps the camera honest by leaving it bruised",
+    "sections": [
+      {
+        "heading": "What punk looks like",
+        "body": "Punk MVs reject polish on principle. Handheld, often shot on whatever camera was nearby, frequently in a real venue with a real crowd. Lighting is whatever the venue had. The band plays full-volume; the camera operator clearly didn't sleep enough. Cuts are jagged, sometimes single-frame intercuts of static or text. The crowd is part of the frame, often the main subject. There's no separation between performer and audience — that distinction is the thing punk videos are trying to break."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "IDLES' Mr. Motivator is the modern template — band energy, color, no pretension. Turnstile's Holiday and the full Glow On run show how to make hardcore look beautiful without softening it. Fontaines DC's Big bring the post-punk poetic lineage into the current vocabulary. Earlier markers — Nirvana's Smells Like Teen Spirit, The Clash's London Calling shoots — still define what a real pit on camera should look like. The grammar: no clean takes."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Specify the venue size. 'Hundred-capacity basement room, sweat condensing on the low ceiling, stage barely raised six inches' gives Tunee the right scale. Crowd should be in nearly every chorus frame, blurred bodies in the foreground. Avoid asking for clean focus or even framing — 'handheld, missed focus, occasional crowd member knocks the lens' is a real prompt that works. Cut on the snare hit, never the downbeat. Punk lives in the second beat, not the first."
+      }
+    ]
+  }
 }

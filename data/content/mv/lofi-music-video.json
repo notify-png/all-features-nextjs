@@ -39,5 +39,23 @@
       "q": "Does Tunee's Lo-fi music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Lo-fi music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT LO-FI",
+    "h2": "Lo-fi video is a room you want to study in",
+    "sections": [
+      {
+        "heading": "What lo-fi looks like",
+        "body": "Lo-fi visuals are the inverse of music video tradition: no performer, no narrative, no cuts. A single looping scene — usually an animated room, a desk, a window with rain — runs for hours behind the music. Color palette is muted: warm tans, dusty blues, soft pinks at dusk. The figure, if there is one, is animated in the style of late-90s Studio Ghibli with a touch of modern Japanese illustration. Movement is minimal: a tail flick, steam from a cup, a turning page."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "The Lofi Girl YouTube stream remains the format's anchor — the animated girl at her desk, the cat by the window, the city at dusk outside. ChilledCow's earlier loops, Idealism's Twilight aesthetic, and the Anime Vibe collection on YouTube fill out the visual canon. Studio Ghibli backgrounds, especially from Whisper of the Heart and Spirited Away's bathhouse rooms, are the unspoken source. The rule: nothing should ever interrupt the listener's attention from their own task."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Design for permanence, not progression. Prompt Tunee for one scene with three or four small loops of motion — rain on the window, steam rising from coffee, a cat breathing, a fan turning. Specify time of day and let it stay: 'late afternoon, golden light from the left, lamp on'. Avoid camera moves entirely. The whole point is that the viewer forgets the video exists. Aim for visual silence, then add one tiny detail that rewards a second look."
+      }
+    ]
+  }
 }

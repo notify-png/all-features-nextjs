@@ -39,5 +39,23 @@
       "q": "Does it work with any genre of music, or only Memorial?",
       "a": "Tunee supports a wide range of genres and visual styles beyond Memorial. You can generate music videos for pop, hip-hop, classical, and dozens of other styles using the same platform."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE MEMORIAL MV",
+    "h2": "A tribute video that holds up to repeated watching",
+    "sections": [
+      {
+        "heading": "Why the memorial MV is its own format",
+        "body": "Funeral slideshows are usually thrown together in 48 hours under grief — they often default to chronological Facebook photos and a single piano track. A more considered MV, made days or weeks later, becomes the artifact the family actually returns to on birthdays, anniversaries, and the year-marks that follow. It's a different job from the service slideshow: less comprehensive, more curated, scored to the song the person actually loved rather than something generically somber."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Memorial filmmakers tend toward a small, repeatable vocabulary: the still-life of a familiar object (a coffee mug, glasses on a book, a guitar against a wall), the handwriting close-up, hands at a hobby, the laugh photo that gets used at every reunion, the chair they always sat in. The instinct is to use every photo ever taken — resist it. Fifteen specific images, well-paced, outperform a hundred."
+      },
+      {
+        "heading": "Make it the keepsake",
+        "body": "Memorial MVs aren't really shared — they're held. Tunee renders a high-resolution master for family archives, a vertical version for private sending to those who couldn't attend, and a 1:1 for a memorial post on what would have been the next birthday."
+      }
+    ]
+  }
 }

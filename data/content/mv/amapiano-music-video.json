@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Amapiano music video to compare?",
       "a": "Yes. You can generate several variations of your Amapiano music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT AMAPIANO",
+    "h2": "Amapiano videos are built around the log drum and the dance floor",
+    "sections": [
+      {
+        "heading": "What amapiano looks like",
+        "body": "Amapiano MVs grew up on TikTok and the South African township dance floor before they grew up on Vevo. The visual signatures: tight crowd shots filmed from inside the dance circle, fish-eye and ultra-wide lenses, slow-motion footwork inserts, the DJ booth as a recurring frame, and outdoor street parties at dusk lit by a single hard light. Color is high-contrast — black skin against neon, white sneakers as a focal point. The camera moves with the dancer, not around them."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "The canonical visuals come from Kabza De Small and DJ Maphorisa's Scorpion Kings era, Tyler ICU's 'Mnike' rollout, DBN Gogo's club edits, and Uncle Waffles' viral 'Tanzania' clip — that single phone-shot performance defined a visual aesthetic for the genre. Directors lean into the genre's social-media origin: vertical framing, hand-held immediacy, the dance move always centered. Tunee's amapiano model knows this lineage."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Center the dance, not the artist. A prompt like 'circle of dancers around a single performer, township street at sunset, ultra-wide lens, slow-motion footwork inserts' works better than 'amapiano party scene'. Name the log drum visually too — the producer touching the pad, the bass hitting in a crowd reaction shot — and the cut syncs to the beat rather than just covering it."
+      }
+    ]
+  }
 }

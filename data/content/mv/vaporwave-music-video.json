@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Vaporwave music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Vaporwave music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT VAPORWAVE",
+    "h2": "Vaporwave video is consumer culture decaying in real time",
+    "sections": [
+      {
+        "heading": "What vaporwave looks like",
+        "body": "Vaporwave visuals plundered late-80s and early-90s consumer imagery — shopping malls, Greek statues, Windows 95 interfaces, Japanese advertising, palm trees on credit-card logos — and ran them through deliberate VHS degradation. Color palette is pastel pink and cyan with occasional sickly green. Text appears in Japanese kanji and chrome-effect English. Compositions are slow zooms or static long takes. Nothing should look like it was made in the current decade. The whole point is dislocation in time."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Macintosh Plus' Floral Shoppe cover and associated visuals defined the entire aesthetic in a single image. The Simpsonwave YouTube edits of the mid-2010s spread the visual grammar to a broader audience. Saint Pepsi, Blank Banshee, and the Vektroid catalog provide the music's visual companions. The shared source material: thrift-store VHS tapes, late-night cable shopping channels, abandoned mall photography. Newer videos that try to be vaporwave without honoring that decay tend to feel costume-shop instead of conceptual."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Layer three eras of consumer imagery in one frame. 'Greek marble bust in the foreground, 1995 Windows desktop wallpaper as background, Japanese soda advertisement floating on the left'. Specify the VHS treatment as a separate prompt layer: 'tracking lines, chroma bleed, occasional dropout'. Color must be soft pastel pink and cyan with one off-tone for tension. Movement should be a single slow zoom across the entire scene, never cuts. Tunee handles static surreal compositions better than most generators when you give it explicit object placement."
+      }
+    ]
+  }
 }

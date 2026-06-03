@@ -39,5 +39,23 @@
       "q": "Can I create a Song to MV music video without any video editing experience?",
       "a": "Yes — Tunee's AI handles all the video production automatically. Just upload your audio or enter a text prompt, choose a Song to MV style, and the AI generates your video in minutes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SONG TO MV",
+    "h2": "Upload the song. Get back a video the song actually deserves",
+    "sections": [
+      {
+        "heading": "What 'song to video' should mean",
+        "body": "The minimum bar: the cuts land on the beat, the energy of the visuals tracks the energy of the song, and the chorus looks different from the verse. Most generic 'song to video' tools fail the third one — they pick a vibe and stick with it for three minutes, which is how you get a video that feels flat under a song that builds. A real song-to-MV pipeline needs to read the song's structure first, not just its tempo."
+      },
+      {
+        "heading": "What Tunee extracts before generating a frame",
+        "body": "Upload an MP3 or WAV and the audio analyst tags tempo, key, time signature, downbeats, vocal segments, and section boundaries (verse, pre-chorus, chorus, bridge, outro). That structural map is what Sage uses to plan visual variety: tighter framing in verses, wider releases in choruses, a palette shift on the bridge, the biggest shot saved for the final chorus. The song stops being 'audio underneath video' and starts being the score the video is cut to."
+      },
+      {
+        "heading": "The 30-second test",
+        "body": "Before you commit to a full render, generate the first 30 seconds and watch it muted. If the cuts still feel intentional without the audio — if there's visual rhythm independent of the song — the full render will work. If muted, it looks like a random reel, regenerate with a tighter prompt before spending the credits. Tunee's draft pass is built for exactly this check."
+      }
+    ]
+  }
 }

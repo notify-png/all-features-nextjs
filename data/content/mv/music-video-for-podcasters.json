@@ -39,5 +39,23 @@
       "q": "Does Tunee's Podcasters music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Podcasters music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR PODCASTERS",
+    "h2": "Podcasts now live or die on the clip that gets posted to TikTok",
+    "sections": [
+      {
+        "heading": "Why podcasters need music video tools",
+        "body": "The podcast discovery pipeline shifted: nobody finds a new show in Apple Podcasts anymore. They find it from a 60-second clip on TikTok or YouTube Shorts with the most quotable line auto-captioned over the host's face. That clip needs visual polish the raw camera feed doesn't have — color grading, captions timed to syllable, B-roll cut against the dialogue, music underneath that doesn't get the show flagged for copyright. It's a music video workflow applied to talking-head content."
+      },
+      {
+        "heading": "What works for podcast promo clips",
+        "body": "Two-shot of the host and guest cut against single-shots on the punchline. Auto-captions in a clean condensed sans-serif, animated word-by-word. B-roll (an archival photo of what's being discussed, a quick film clip, a chart) inserted on the noun being said. Soft instrumental music bed under the conversation, ducked when the speakers get loud. 30-to-60 seconds long, hook in the first 2 seconds, end on the most quotable line not the most logical stopping point."
+      },
+      {
+        "heading": "How Tunee handles the podcaster preset",
+        "body": "Upload your podcast audio, mark the segment to clip, and Tunee generates captions, picks B-roll from your visual library or generates new shots, lays in an instrumental track that doesn't fight the speech, and exports 9:16 for TikTok/Shorts plus 1:1 for Instagram Feed. The clip looks like a designed piece of content, not a raw screen-record of your Riverside session. Episode promo, 10 minutes of work."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Concert music video to compare?",
       "a": "Yes. You can generate several variations of your Concert music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT CONCERT MV",
+    "h2": "Concert videos rise or fall on the cut",
+    "sections": [
+      {
+        "heading": "What concert video is",
+        "body": "Concert MV is a specific format: multi-camera live performance, cut to the song, intercut between wide stage shots, tight artist coverage, crowd reaction, and lighting-rig hero shots. The defining genre constraint is that the music is the real recording and the visual has to match its energy beat-for-beat. The cut is everything - most concert videos that feel flat are shot fine and edited badly, holding wide shots through choruses where the artist needs to be tight."
+      },
+      {
+        "heading": "When to use it",
+        "body": "Concert MV is the right format when the artist's live presence is the brand (Tame Impala, Phoebe Bridgers, Beyonce), when releasing a tour film, when a venue or festival is itself a draw (Glastonbury Pyramid Stage, Red Rocks, Tiny Desk's NPR series), or when an album's launch beat benefits from showing the songs land in front of real audiences. Recent examples: Taylor Swift's Eras film, Billie Eilish's Live at the O2, anything Boiler Room has shot in the last decade. It's also the most-used format for K-pop fancams."
+      },
+      {
+        "heading": "Tunee prompting tip",
+        "body": "Specify the venue scale and lighting style: 'small club, single follow-spot, deep shadow around audience' versus 'arena scale, full LED wall behind artist, lasers in haze'. Name the camera count and angles: 'three-camera coverage: wide stage, tight artist face, crowd hands-up'. Add 'beat-cut on snare hits, every 1-2 seconds in chorus, longer holds in verse' for the edit pacing. Tunee can generate the cut rhythm if you describe it."
+      }
+    ]
+  }
 }

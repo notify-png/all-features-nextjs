@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Afrobeats music video to compare?",
       "a": "Yes. You can generate several variations of your Afrobeats music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT AFROBEATS",
+    "h2": "Afrobeats videos run on color, motion, and Lagos energy",
+    "sections": [
+      {
+        "heading": "What afrobeats looks like",
+        "body": "Afrobeats MVs since the late 2010s have built a visual language as distinct as the genre's percussion. The non-negotiables: high-saturation color (Ankara prints, mustard yellow walls, cobalt blue), wide group choreography against architectural backdrops, smooth Steadicam moves rather than handheld, golden-hour skin tones with no desaturation, and at least one drone shot over a Lagos rooftop or Accra street. The look is celebratory — even the moody songs are shot bright."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "When directors reference afrobeats they cite the same touchstones: Burna Boy's 'Last Last' and 'Ye', Wizkid's 'Essence', Davido's 'Fall', Tems' 'Free Mind', Rema's 'Calm Down'. Directors Meji Alabi, TG Omori, and Director K define the look — wide-lens group shots, formal symmetry, fabric as a primary visual element. Tunee's afrobeats model is trained on this vocabulary, so a prompt naming Ankara, Lagos rooftops, or a specific dance formation lands accurately."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Don't ask for 'African vibes' — too broad, you'll get generic safari imagery. Instead, specify the city (Lagos, Accra, Johannesburg), the textile (Ankara, kente, agbada), and the time of day (golden hour is almost always right). Add one architectural anchor — a rooftop, a market wall, a colonial-era staircase — and the frame becomes recognizably afrobeats rather than generic-Africa."
+      }
+    ]
+  }
 }

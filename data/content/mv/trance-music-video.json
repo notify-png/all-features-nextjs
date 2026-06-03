@@ -39,5 +39,23 @@
       "q": "Does Tunee's Trance music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Trance music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT TRANCE",
+    "h2": "Trance video is the festival mainstage filmed from inside the build",
+    "sections": [
+      {
+        "heading": "What trance looks like",
+        "body": "Trance MVs are almost always live capture: mainstage shots, drone passes over crowds, the DJ silhouetted against a full stage rig at the moment of the drop. Color is dominated by deep blue and white with hot pink or green laser intrusions during peaks. Hands raised, fireworks, smoke cannons. The build-up gets long lens crowd faces in slow motion; the drop gets the wide stage shot with lasers fully open. There is no narrative — the video is the event."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Above & Beyond's Group Therapy live captures from Anjunabeach and Madison Square Garden define the modern trance MV format. Armin van Buuren's A State of Trance event films set the scale standard. ASOT festival recordings, Dreamstate, and Tomorrowland's official mainstage cuts fill out the visual canon. Earlier touchstones — Tiesto's Adagio for Strings live, Paul van Dyk's mainstage footage — still teach how to film an emotional drop. The shared instinct: trust the crowd."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Map the song's structure to camera positions before prompting. Build-up: long-lens crowd faces, slow zoom in. Drop: wide stage shot, lasers fully active, drone reveal of the full audience. Breakdown: return to faces, often in slow motion. Specify the stage rig: 'thirty moving heads, four laser units, six CO2 cannons, full pyro rig along the upstage edge'. Tunee renders mass-crowd scenes more convincingly when you name the venue capacity."
+      }
+    ]
+  }
 }

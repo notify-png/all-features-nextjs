@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Kids music video to compare?",
       "a": "Yes. You can generate several variations of your Kids music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR KIDS",
+    "h2": "Kids' music videos have rules adult MVs don't — bright, simple, safe",
+    "sections": [
+      {
+        "heading": "What 'kids music video' actually requires",
+        "body": "The category is dominated by Cocomelon, Pinkfong, Super Simple Songs — and they all share a visual language: saturated primary colors, rounded character design, simple looping environments, lyrics sung clearly with visual literal reinforcement (the word 'banana' on screen when the word 'banana' is sung). YouTube Kids' algorithm and COPPA both enforce specific content rules: no fast strobing, no scary imagery, no ambiguous moods. The constraints are tighter than any adult MV format."
+      },
+      {
+        "heading": "What works for the under-7 audience",
+        "body": "Repetition is a feature, not a bug. The chorus visual should be the same plate every time so the child anticipates it. Characters should stay model-consistent across cuts (a different-looking lead each verse confuses pre-readers). Cut frequency should be slower than adult MVs — 2-to-3 seconds per shot, not 0.8. Counting, colors, animals, vehicles, and simple narratives (going to bed, eating breakfast, visiting the zoo) dominate the content canon."
+      },
+      {
+        "heading": "How Tunee handles the kids preset",
+        "body": "The Kids preset locks character consistency hard (a generated character stays visually identical across every shot), enforces a slower cut tempo, restricts the palette to high-saturation primary and secondary colors, and routes the output through a content safety filter that flags anything ambiguous before render. Output is YouTube Kids-spec — 16:9 1080p, COPPA-safe metadata, no startle moments. The same generation also exports a 9:16 cut for the YouTube Kids vertical feed."
+      }
+    ]
+  }
 }

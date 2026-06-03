@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Surreal music video to compare?",
       "a": "Yes. You can generate several variations of your Surreal music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT SURREAL MV",
+    "h2": "Surreal video needs internal logic to actually land",
+    "sections": [
+      {
+        "heading": "What separates surreal from random",
+        "body": "Surreal isn't 'random weird stuff happens'. Magritte's pipe and Dali's clocks work because the painted craft is conventional - clean light, real materials, traditional composition - while one element violates physics or scale. The contrast is what makes it dreamlike. AI-generated surreal often fails by going random everywhere, which the brain reads as glitch rather than dream. The rule: pick one impossible thing per shot and render everything else with documentary realism around it."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "Reference list: Salvador Dali and Rene Magritte for the painterly canon, Maya Deren's Meshes of the Afternoon, David Lynch's Eraserhead and the Twin Peaks Black Lodge sequences, Michel Gondry's Eternal Sunshine practical effects, Spike Jonze's Being John Malkovich. Music videos: Bjork's Bachelorette and Hunter, OK Go's catalog, Aphex Twin's Donkey Rhubarb. Tunee's surreal model is trained to keep one element impossible while rendering the rest as photoreal, the formula that actually works."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Structure prompts as 'realistic scene + one impossible element': 'photoreal kitchen, soft window light, sink filled with floating goldfish where water should be'. Don't break the lighting or scale on the realistic side - the dream logic comes from the contrast. Reference the dream-logic auteur if you have a target: 'Lynchian slow zoom, room slightly too long for its proportions'. Avoid 'surreal and dreamlike' as adjectives; they push toward chaos."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my Gospel music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your Gospel music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT GOSPEL",
+    "h2": "Gospel video is a congregation captured, not constructed",
+    "sections": [
+      {
+        "heading": "What gospel looks like",
+        "body": "Gospel visuals center the choir, not the soloist. Even when there's a lead vocalist, the frame keeps returning to rows of faces — eyes closed, hands raised, the moment of catch. Settings are usually real: a sanctuary with stained-glass light, a community hall, sometimes an outdoor revival. Wardrobe is robed or Sunday-best, never streetwear. The camera moves with reverence: slow push-ins on individual worshippers, sweeping crane shots across the choir loft."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "Kirk Franklin's Love Theory shows the modern blueprint — community staging, joyful movement, light pouring through windows. Tasha Cobbs Leonard's Break Every Chain live videos prove the live-in-worship format still hits hardest. CeCe Winans, Maverick City Music's collective shoots, and Hezekiah Walker's choir cuts complete the vocabulary. The shared rule: no choreography that looks separate from feeling. If a hand raise looks staged, the whole frame collapses."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Build the room first, then populate it. Start with 'sunlight through tall windows of a wood-paneled sanctuary, dust visible in the beams', then add the choir in rows behind the soloist. Tunee handles the warmth of mixed natural and tungsten light well when you specify both sources. Ask for individual faces in close-up between wider choir shots — gospel needs that intimacy as much as the scale. Keep edits on the breath of the phrase, not the snare."
+      }
+    ]
+  }
 }

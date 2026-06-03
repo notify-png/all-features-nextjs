@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my X / Twitter music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your X / Twitter music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FOR TWITTER",
+    "h2": "X/Twitter video autoplays muted — the first frame has to do the work the audio normally does",
+    "sections": [
+      {
+        "heading": "The format constraint nobody designs for",
+        "body": "Video on X autoplays in the feed with sound off. The user has to actively tap to unmute. Which means your first 2 seconds are competing not against other videos but against silence — and most music videos rely on the audio to carry the opening. The fix: design the first frame to be visually arresting on its own, and add a captioned hook (lyric, artist name, song title) in the first second so the muted viewer knows what they're looking at."
+      },
+      {
+        "heading": "Aspect ratio and length math",
+        "body": "X allows 16:9, 1:1, and 9:16, but 16:9 takes the most feed real estate on desktop, where a large share of music-discovery traffic still happens. 1:1 wins on mobile timelines. The 2-minute-20-second upload cap (for non-paid accounts) is rarely the binding constraint — most music video clips on X are 30-60 seconds, structured as a teaser linking to the full version on YouTube. Treat X as the trailer surface, not the destination."
+      },
+      {
+        "heading": "Tunee's Twitter preset and the dual export",
+        "body": "Pick X/Twitter and you get two outputs: a 16:9 1080p cut with a burned-in opening caption (artist + song, first 1.5 seconds, removable) for desktop feeds, and a 1:1 1080p version for mobile-first replies and quote-tweets. Both are under 50MB to clear X's upload cap without recompression. The audio is mixed slightly hotter on the master to compensate for the platform's loudness normalization, which runs lower than Spotify or YouTube."
+      }
+    ]
+  }
 }

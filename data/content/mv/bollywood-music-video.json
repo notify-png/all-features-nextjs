@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Bollywood music video to compare?",
       "a": "Yes. You can generate several variations of your Bollywood music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT BOLLYWOOD",
+    "h2": "Bollywood MVs run on color, choreography, and unapologetic scale",
+    "sections": [
+      {
+        "heading": "What Bollywood looks like",
+        "body": "Bollywood music video conventions are the most maximalist in the world and they earn it. The signatures: large group choreography in perfect formation, costume changes between verses, location jumps mid-song (Mumbai street to Swiss Alps to palace courtyard), saturated color across the entire spectrum (no muted palettes), and the playback singer's voice over an actor's lip-sync as accepted convention. The camera is always moving — crane, dolly, Steadicam — and never settling."
+      },
+      {
+        "heading": "Reference points that actually work",
+        "body": "The references are foundational: Shah Rukh Khan's Dilwale Dulhania Le Jayenge mustard-field sequence, AR Rahman's work across Slumdog and Rockstar, the choreography of Farah Khan, the cinematography of Santosh Sivan. Modern reference points: Pritam's compositions for Brahmastra, the title tracks of Pathaan and Jawan. Tunee's Bollywood model knows formation choreography, color saturation as primary tool, and location-collage editing as a feature."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Don't restrain the palette — Bollywood breaks under tasteful color grading. Instead, name three saturated color blocks per shot ('saffron-yellow saris, deep teal sky, magenta wall') and one location archetype (mustard field, palace courtyard, Mumbai monsoon street, Swiss meadow). The instinct to 'tone it down' produces something that reads as Bollywood-adjacent rather than Bollywood."
+      }
+    ]
+  }
 }

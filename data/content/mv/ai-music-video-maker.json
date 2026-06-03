@@ -39,5 +39,23 @@
       "q": "How do I add lyrics or subtitles to my AI MV Maker music video?",
       "a": "Tunee offers built-in lyric and subtitle overlay options. Simply enter your lyrics and choose a text style, and the AI will sync them to your AI MV Maker music video automatically."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "AI MV MAKER",
+    "h2": "From audio file to finished music video in one pass",
+    "sections": [
+      {
+        "heading": "What 'maker' means versus 'editor'",
+        "body": "An AI music video maker is the one-shot tool — you give it a song, it gives you back a finished video. No timeline, no clip-by-clip prompting, no manual asset wrangling. The trade-off is control: makers optimize for getting something watchable in the first three minutes, not for the surgical edit pass an editor enables. For drafts, demos sent to a label, or 'does this song even need a video?' tests, that's exactly the right tool."
+      },
+      {
+        "heading": "What Tunee's maker actually decides for you",
+        "body": "Drop an MP3 and Tunee picks the aesthetic from the audio itself: a lo-fi beat lands in muted color and slow camera drifts, a drill instrumental gets high-contrast night exteriors and faster cuts, a worship piano ballad goes lyric-forward with warm key light. You can override the style with one line of prompt, but the default is rarely embarrassing — which is the actual bar most 'AI MV maker' tools fail to clear."
+      },
+      {
+        "heading": "The agent chain that makes the call",
+        "body": "Four agents run in sequence: the audio analyst extracts tempo, key, and emotional arc; Nova drafts the visual world (characters, palette, environment); Sage cuts those plates into a timed shot list mapped to the song's structure; the renderer produces final frames. The maker route runs all four with smart defaults — the editor route exposes the same chain so you can intervene at any step. Same engine, different surface."
+      }
+    ]
+  }
 }

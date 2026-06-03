@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Cyberpunk music video to compare?",
       "a": "Yes. You can generate several variations of your Cyberpunk music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT CYBERPUNK MV",
+    "h2": "Cyberpunk's visual rules are stricter than its fans admit",
+    "sections": [
+      {
+        "heading": "What cyberpunk looks like",
+        "body": "Cyberpunk is rain on neon on Asian-script signage, but the deeper rule is light contrast: pitch black shadows holding hot magenta/cyan key lights, with chromatic aberration on every specular highlight. Volumetric haze fills the middle distance so every neon source has a visible cone. Wet pavement doubles every light into a reflection. Skip any of those and you get 'dark sci-fi with purple lights' - adjacent but not the genre."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "The canon: Blade Runner (1982) for the original wet-neon Tokyo, Blade Runner 2049 for the holographic billboards and orange Vegas, Ghost in the Shell (1995) for the diving city shots, Akira for street level. Games: Cyberpunk 2077's Night City, the Deus Ex series. Music videos: Grimes' Genesis, M83's Midnight City sequels, the Arcane title sequences. Tunee's cyberpunk model is trained on these exact frame languages - 'Blade Runner 2049 Vegas orange haze' lands precisely where you mean."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Always pair two neon colors and forbid warm tones: 'magenta and cyan only, no amber'. Add 'wet pavement, neon reflection on ground' - it doubles the perceived light density. Specify 'volumetric haze, visible light cones' or you'll get flat neon. For the artist shot, add 'rim-lit silhouette, key light from above-left' - full-lit faces destroy the noir. End with 'chromatic aberration on highlights' for the lens feel."
+      }
+    ]
+  }
 }

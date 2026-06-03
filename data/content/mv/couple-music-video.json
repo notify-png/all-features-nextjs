@@ -39,5 +39,23 @@
       "q": "Can I generate multiple versions of a Couple music video to compare?",
       "a": "Yes. You can generate several variations of your Couple music video using different prompts or style settings, then select the version that best fits your vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "THE COUPLE MV",
+    "h2": "An anniversary video that doesn't read like a slideshow",
+    "sections": [
+      {
+        "heading": "Why a couple MV works",
+        "body": "Most relationship videos are either too long (the full wedding film) or too short (a single Instagram clip). The anniversary or relationship-milestone MV sits exactly in between — 60-90 seconds, scored to the song that was playing on a first date, a road trip, or a wedding dance. It's the format that gets sent privately rather than posted publicly, and it's the one partners actually rewatch on the same date next year."
+      },
+      {
+        "heading": "The shots that always work",
+        "body": "Relationship videographers come back to the same beats: hands intertwined on a steering wheel, one partner laughing at something off-camera, the back-of-the-head walking-away shot, the matching mug morning, the airport reunion. Casual phone-quality footage outperforms posed photoshoots here — the awkward, unflattering, real moments are what age well. Tell Tunee which three of those moments mattered most and the MV organizes around them."
+      },
+      {
+        "heading": "Make it the gift",
+        "body": "The classic use is anniversary morning — a single text with the MV attached, no caption needed. Tunee outputs vertical for sending, widescreen for the eventual living-room screening, and square for the rare time it ends up on a feed, all from one render."
+      }
+    ]
+  }
 }

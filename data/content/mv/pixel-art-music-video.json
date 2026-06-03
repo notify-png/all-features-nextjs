@@ -39,5 +39,23 @@
       "q": "Does Tunee's Pixel Art music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Pixel Art music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ABOUT PIXEL-ART MV",
+    "h2": "Pixel art has rules, and breaking them shows",
+    "sections": [
+      {
+        "heading": "What real pixel art requires",
+        "body": "Pixel art isn't a filter - it's a discipline. Real pixel art is drawn at native resolution (often 320x180 or smaller) with a hand-limited palette (16, 32, or 64 colors). Anti-aliasing is done by hand with intermediate-value pixels. Dithering creates gradients across discrete palettes. Sprites animate on 4-8 frame cycles. When AI fakes it by downscaling and posterizing, the eye catches the inconsistency immediately - colors drift, edges shimmer between frames, the dither pattern doesn't tile."
+      },
+      {
+        "heading": "Where the look comes from",
+        "body": "The reference base: SNES-era Square games (Chrono Trigger, Final Fantasy VI), Game Boy Color's forced palettes, modern revival work - Celeste, Stardew Valley, Owlboy, Octopath Traveler's HD-2D layer mixing. Pixel artists worth naming: eBoy's isometric cities, Paul Robertson's animation cycles, Pedro Medeiros' indie work. Music-video adjacent: anything from Anamanaguchi's catalog, the FEZ soundtrack visualizations. Tunee's pixel-art model is trained at native low-resolution so the output is actually pixel-locked, not blurred-and-quantized."
+      },
+      {
+        "heading": "Prompting tip for Tunee",
+        "body": "Always state the resolution and palette count: '320x180 native pixel art, 32-color palette, no anti-aliasing except hand-placed'. Reference the era: 'SNES-era, Chrono Trigger color depth' or 'Game Boy Color, four-color tile'. Specify dithering explicitly: 'Bayer dither for gradients, no smooth blends'. Avoid mixing pixel art with photo-real elements - the contrast looks like a bug, not a style choice."
+      }
+    ]
+  }
 }
