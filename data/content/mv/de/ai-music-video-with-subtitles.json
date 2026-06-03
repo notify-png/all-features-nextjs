@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Musikvideo mit Untertiteln hinzu?",
       "a": "Tunee bietet integrierte Optionen für Lyrics und Untertitel-Overlays. Gib einfach deine Lyrics ein, wähle einen Textstil, und die KI synchronisiert sie automatisch zu deinem Musikvideo mit Untertiteln."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER MV MIT UNTERTITELN",
+    "h2": "Eingebrannte Captions sind heute Pflicht, kein Accessibility-Zusatz",
+    "sections": [
+      {
+        "heading": "Warum Untertitel zum Standard wurden",
+        "body": "Eingebrannte Captions auf Musikvideos sind keine Accessibility-Option mehr — sie sind Standard für jede Veröffentlichung, die auf Social landen will. Über achtzig Prozent der TikTok- und Reels-Videos werden im Feed stummgeschaltet angesehen. Untertitel erhöhen die Completion Rate, die Save Rate und die Share Rate messbar. Das Format dient außerdem der Barrierefreiheit (gehörlose und schwerhörige Zuschauer, nicht muttersprachliche Englischsprecher, die den Lyrics zum Mitlesen folgen), was der ursprüngliche Grund für Captions ist. Diese Schnittmenge macht Captions zu einem Must-have, nicht zu einem Nice-to-have."
+      },
+      {
+        "heading": "Wann man es einsetzt",
+        "body": "Ein untertiteltes MV ist die richtige Wahl für jede Social-First-Veröffentlichung, für lyric-forward Songs, bei denen die Worte der Hook sind, für nicht-englischsprachige Releases, die ein globales Publikum ansprechen, für edukative oder botschaftsgetriebene Musik (Kinderlieder, Protestsongs, narrativer Rap) und für jede Veröffentlichung, bei der der Künstler Barrierefreiheit von Anfang an mitdenken will. Die Linie: Bruce Gowers' Queen Bohemian Rhapsody (1975) als Proto-Lyric-Overlay-Video, Bob Dylans Subterranean Homesick Blues (1965) unter der Regie von D.A. Pennebaker, das BBC-Untertitelstandard-Gremium (W3C-TTML-Referenz), Netflix' Accessibility-First-SDH-Defaults (subtitles for the deaf and hard-of-hearing). SM Entertainment und HYBE setzen seit einem Jahrzehnt eingebrannte Captions für internationale K-Pop-Fans ein. Hip-Hop mit dichtem Wordplay profitiert bei jeder Veröffentlichung von Captions — die Bars sind beim ersten Hören zu schnell, um sie zu erfassen."
+      },
+      {
+        "heading": "Tunee-Prompting-Tipp",
+        "body": "Behandle Captions als Designelement, nicht als Overlay: „subtitles bottom-third, Inter Bold 32pt, white text with subtle drop shadow, one line at a time, line break on phrase boundary\". Spezifiziere das Timing-Alignment: „captions appear on syllable, not at end of phrase\". Wähle eine Caption-Farbe, die über die Lichtwechsel des Videos hinweg trägt — Weiß mit Schatten schlägt jedes Mal farbigen Text. Tunee generiert zeitlich ausgerichtete Captions aus dem Lyrics-Input automatisch, sodass das Einbrennen exakt zur Vocal-Phrasierung passt."
+      }
+    ]
+  }
 }

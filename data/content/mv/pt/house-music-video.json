@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes House do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes House de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE HOUSE",
+    "h2": "Vídeos de House traduzem a pista de dança sem sair dela",
+    "sections": [
+      {
+        "heading": "Como o house se parece",
+        "body": "House vive em um único ambiente durante a maior parte da noite: o clube, o galpão, a tenda de festival. Bons vídeos de house honram isso. A câmera está frequentemente dentro da multidão, lente na altura do ombro, luzes do teto fazendo a fotografia. Strobes, lasers, fumaça, suor. O DJ raramente aparece mais que alguns segundos — é sobre a sala, não a figura. A cor tende ao banho magenta-ciano-âmbar, com o ocasional blowout branco puro num drop."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "'Around the World' do Daft Punk dirigido por Michel Gondry continua sendo o padrão-ouro para house como coreografia. 'Latch' do Disclosure com Sam Smith (dirigido por Bo Mirosseni) construiu o template moderno de corpos pareados; as colaborações mais amplas dele com a Stink Studios definiram a identidade visual da dupla. Os cortes do Fred again.. no Boiler Room provaram que uma única câmera e uma multidão real superam qualquer set construído. As capturas ao vivo da Honey Dijon, 'Nanga Eboko' da Peggy Gou, footage de arquivo do Frankie Knuckles e os vídeos solo da Romy mostram o alcance visual. O fio é honestidade — vídeos de house que fingem ser qualquer coisa além de uma sala com música dentro parecem constrangedores em menos de um ano."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Trate a rig de luz como um personagem. Mande prompts para o Tunee com fixtures específicas: 'par cans no teto em magenta, dois moving heads varrendo ciano pela parede do fundo, haze grossa o bastante para ver os feixes'. Os corpos devem ser parciais — uma mão erguida, a nuca de uma cabeça, um perfil contra um strobe — quase nunca cobertura inteira. Sincronize a câmera ao build, ao breakdown, ao drop. Vídeos de house morrem quando tratam o breakdown como um verso."
+      }
+    ]
+  }
 }

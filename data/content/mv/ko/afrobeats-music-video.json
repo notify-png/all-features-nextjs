@@ -39,5 +39,23 @@
       "q": "아프로비트 뮤직 비디오의 여러 버전을 생성하여 비교할 수 있나요?",
       "a": "네. 다양한 프롬프트나 스타일 설정을 사용하여 아프로비트 뮤직 비디오의 여러 변형을 생성한 후, 당신의 비전에 가장 잘 맞는 버전을 선택할 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "Afrobeats 이야기",
+    "h2": "Afrobeats 영상은 색, 움직임, 그리고 라고스의 에너지로 움직입니다",
+    "sections": [
+      {
+        "heading": "Afrobeats가 보이는 방식",
+        "body": "2010년대 후반부터 Afrobeats MV는 장르의 퍼커션만큼이나 뚜렷한 비주얼 언어를 구축해왔습니다. 양보할 수 없는 요소들은 다음과 같습니다. 고채도 색감(Ankara 프린트, 머스터드 옐로 벽, 코발트 블루), 건축적 배경 앞의 와이드한 군무, 핸드헬드보다는 매끄러운 Steadicam 무브, 디새튜레이션 없는 골든아워의 피부톤, 그리고 라고스 옥상이나 아크라 거리 위로 띄우는 드론 샷 한 컷은 반드시 들어갑니다. 무드 자체가 축제적이라, 어두운 곡이라도 밝게 촬영됩니다."
+      },
+      {
+        "heading": "실제로 통하는 레퍼런스",
+        "body": "디렉터들이 Afrobeats를 레퍼런스할 때 인용하는 작품은 같습니다. Burna Boy의 'Last Last'와 'Ye', Tems가 피처링한 Wizkid의 'Essence', Davido의 'Fall', Rema와 Selena Gomez의 'Calm Down' 리믹스, Tems의 'Free Mind', 그리고 Ayra Starr의 'Rush'까지. 최근 나이지리아 팝의 비주얼 정체성을 사실상 도맡고 있는 TG Omori(통칭 'boy director'), Meji Alabi(Wizkid, Stormzy), Director K가 그 룩을 정의합니다 — 와이드 렌즈 군집 샷, 정형화된 대칭, 그리고 천이라는 주요 시각 요소가 핵심입니다. Tunee의 Afrobeats 모델은 이 어휘로 학습되어 있어, Ankara, 라고스 옥상, 특정 안무 포메이션을 지정한 프롬프트가 정확히 안착합니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "'African vibes' 같은 표현은 피하세요 — 너무 넓어서 사파리 이미지로 흘러갑니다. 대신 도시(Lagos, Accra, Johannesburg), 직물(Ankara, kente, agbada), 시간대(거의 항상 골든아워가 정답)를 명시하세요. 옥상, 시장 벽, 식민지 시대 계단 같은 건축적 앵커를 하나 더하면, 프레임은 'Africa 일반'이 아닌 'Afrobeats'로 명확히 읽힙니다."
+      }
+    ]
+  }
 }

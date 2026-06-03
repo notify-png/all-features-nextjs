@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos de música Ambient de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en escritorio y dispositivos móviles, para que puedas crear videos de música Ambient desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL AMBIENT",
+    "h2": "Los MVs ambient funcionan cuando no pasa nada y todo respira",
+    "sections": [
+      {
+        "heading": "Cómo se ve el ambient",
+        "body": "La música ambient resiste el formato del video musical por diseño — no hay drop al que cortar, no hay coro al que ir creciendo. La tradición visual del género responde con paciencia extrema: un solo plano de una montaña de Hokkaido sostenido durante dos minutos, niebla cruzando un valle en tiempo real, una pantalla negra con una sola partícula a la deriva, la superficie del agua vista desde arriba. El marco de referencia son las instalaciones de Bill Viola y los planos largos de Andrei Tarkovsky, no la edición de MTV."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Los directores citan el mismo linaje: 77 Million Paintings de Brian Eno, los visuales del álbum Ravedeath 1972 de Tim Hecker, las proyecciones en vivo de Stars of the Lid, los Disintegration Loops de William Basinski emparejados con las imágenes del skyline de Nueva York del 11-S, los visualizadores de Selected Ambient Works de Aphex Twin y la película async de Ryuichi Sakamoto dirigida por Stephen Nomura Schible. Las instalaciones de video de Bill Viola y el cine de plano largo de Andrei Tarkovsky (Stalker, Solaris) son las piedras de toque de la imagen paciente — el hilo no es el tema, es la negativa a cortar. Dos o tres planos en cuatro minutos es una virtud. El modelo ambient de Tunee está calibrado para ese ritmo en vez de luchar contra él."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica la duración en tu prompt, no solo el sujeto. 'Plano único de dron sobre bosque de pinos entre niebla, sin cortes, deriva lenta hacia adelante durante 60 segundos' produce lo que quieres; 'hermoso montaje de naturaleza ambient' produce B-roll de stock. Nombra un elemento de cambio lento — la luz desplazándose, la bruma moviéndose, la nieve acumulándose — para que el cuadro tenga tiempo dentro y no solo composición."
+      }
+    ]
+  }
 }

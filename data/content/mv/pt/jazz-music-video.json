@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe de jazz?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente digite suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe de jazz."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE JAZZ",
+    "h2": "Jazz na tela pede que a câmera escute primeiro",
+    "sections": [
+      {
+        "heading": "Como o jazz se parece",
+        "body": "Vídeos de jazz são frequentemente filmados em preto e branco não por nostalgia mas porque a cor compete com a música. A câmera tende a encontrar um músico por vez — o saxofonista no meio do solo, a mão esquerda do contrabaixista caminhando — e ficar. Fumaça, tetos baixos, o fundo de uma sala lotada. Quando a cor aparece, é tungstênio âmbar sobre madeira escura. O público é geralmente visível mas nunca é o sujeito. O movimento é paciente, frequentemente um único dolly lento atravessando o palco."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "Os cortes ao vivo de Robert Glasper no Blue Note e sua sessão Tiny Desk da NPR estabelecem a régua moderna para captura íntima de jazz. 'Black Gold' da Esperanza Spalding equilibra composição com personagem. Os filmes de gravação 'We Like It Here' do Snarky Puppy mudaram o jeito como as pessoas filmam bandas ao colocar o público dentro do estúdio. 'Truth' e 'Street Fighter Mas' do Kamasi Washington funcionam como filme de show e como ensaio visual, enquanto a tradição documental do Jazz at Lincoln Center sob Wynton Marsalis carrega o cânone institucional. As peças de performance em longa-metragem do Christian Scott aTunde Adjuah estendem a forma. O instinto compartilhado: confie nos músicos. A música não precisa de ajuda."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Construa a sala antes da banda. 'Clube de porão, teto baixo, parede de tijolos atrás do palco, duas velas de mesa, um spot no piano' dá ao Tunee a base certa. Em seguida, especifique o que seguir: 'câmera segura no trompete durante o solo, racks foco no baterista no fim da frase'. Peça takes longos e resista ao impulso de cortar a cada mudança. Prompts em preto e branco funcionam especialmente bem — o Tunee dá conta melhor da gama tonal do que de cor complexa em baixa luz."
+      }
+    ]
+  }
 }

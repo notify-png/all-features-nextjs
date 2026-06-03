@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales de Hip Hop de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en computadora de escritorio y dispositivos móviles, así que puedes crear videos musicales de Hip Hop desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL HIP HOP",
+    "h2": "El video de hip hop carga una ciudad sobre los hombros",
+    "sections": [
+      {
+        "heading": "Cómo se ve el hip hop",
+        "body": "Los MVs de hip hop entrelazan dos capas: la performance — normalmente el rapero a cámara, con lip-sync ajustado, a menudo en un contrapicado contundente — y el mundo que produjo la canción. Ese mundo es específico. Compton, Houston, Toronto y Brooklyn tienen cada uno una firma visual propia, y los mejores videos se niegan a ser de ningún lugar. El vestuario es del mes en curso, no del año. Los carros importan. Los crews importan. Los cortes caen sobre la rima, nunca sobre el beat solo."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "'HUMBLE.' y 'Alright' de Kendrick Lamar (ambos dirigidos por Dave Meyers y the little homies) son el manual moderno de performance más peso social. 'SICKO MODE' y 'HIGHEST IN THE ROOM' de Travis Scott (otra vez Dave Meyers) muestran escala surrealista sin perder el rap como columna vertebral. El trabajo de Hiro Murai con Donald Glover ('This Is America', 'Sober') y FKA Twigs elevó el listón de los MVs narrativos. 'MIDDLE CHILD' de J. Cole se mantiene en tono conversacional; 'Hotline Bling' de Drake, dirigido por Director X, apostó al minimalismo y lo cambió todo. Los visuales de Cole Bennett para Lyrical Lemonade con Juice WRLD y Eminem extienden el linaje, con la era del ojo de pez de Hype Williams y el trabajo de Spike Jonze con Beastie Boys como reglas fundacionales."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Dale a Tunee un barrio específico, no una ciudad genérica. 'Porche al atardecer en South Memphis, dos amigos, crepúsculo azul' le gana siempre a 'escena urbana de calle'. Fija un elemento de vestuario distintivo — cadena, hoodie, gorra — y deja que aparezca en cada corte para que el artista se lea como continuo. Aprovecha la estructura verso-estribillo: planos cerrados de performance durante las barras, B-roll de lifestyle durante el hook. Corta sobre las consonantes, no sobre el bombo."
+      }
+    ]
+  }
 }

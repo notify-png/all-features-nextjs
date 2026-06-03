@@ -39,5 +39,23 @@
       "q": "Posso gerar várias versões de um videoclipe de casal para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de casal usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DE CASAL",
+    "h2": "Um vídeo de aniversário que não soa como slideshow",
+    "sections": [
+      {
+        "heading": "Por que um MV de casal funciona",
+        "body": "A maioria dos vídeos de relacionamento é ou longa demais (o filme de casamento completo) ou curta demais (um único clipe de Instagram). O MV de aniversário ou de marco de relacionamento se encaixa exatamente no meio — 60 a 90 segundos, com trilha da música que tocava num primeiro encontro, numa road trip ou numa valsa de casamento. É o formato que é enviado em privado em vez de postado em público, e é aquele que parceiros realmente reassistem na mesma data no ano seguinte."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Videomakers de relacionamento voltam às mesmas batidas: mãos entrelaçadas num volante, um parceiro rindo de algo fora do quadro, o plano da nuca caminhando para longe, a manhã com canecas iguais, o reencontro no aeroporto. O cânone cultural é construído sobre o formato de vlog de aniversário pioneirizado no YouTube, vídeos virais de pedido de casamento como o Lip Dub Proposal de Isaac Lamb (2012), os filmes de romance natalino do Hallmark Channel, Notting Hill e Love Actually de Richard Curtis como gramática de referência, mais a estética laranja-quente de Her de Spike Jonze filmada por Hoyte van Hoytema. Footage casual com qualidade de celular bate ensaios posados — os momentos desajeitados, pouco favorecedores e reais envelhecem bem. Diga ao Tunee quais três daqueles momentos mais importaram e o MV se organiza em torno deles."
+      },
+      {
+        "heading": "Faça dele o presente",
+        "body": "O uso clássico é a manhã do aniversário — uma única mensagem com o MV anexado, sem legenda necessária. O Tunee gera vertical para enviar, widescreen para a eventual exibição na sala de casa, e quadrado para as raras vezes em que vai parar num feed, tudo em um único render."
+      }
+    ]
+  }
 }

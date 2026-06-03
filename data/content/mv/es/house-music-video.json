@@ -39,5 +39,23 @@
       "q": "¿El generador de videoclips de House de Tunee funciona en dispositivos móviles?",
       "a": "Tunee es totalmente accesible a través del navegador web tanto en escritorio como en dispositivos móviles, por lo que puedes crear videoclips de House desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL HOUSE",
+    "h2": "Los videos de house traducen la pista de baile sin abandonarla",
+    "sections": [
+      {
+        "heading": "Cómo se ve el house",
+        "body": "El house vive en un solo entorno la mayor parte de la noche: el club, la nave, la carpa de festival. Los buenos videos de house honran eso. La cámara suele estar dentro de la multitud, lente a la altura del hombro, con las luces cenitales haciendo la cinematografía. Estrobos, láseres, humo, sudor. El DJ rara vez aparece más de unos segundos — es sobre la sala, no sobre la figura. El color tiende al lavado magenta-cian-ámbar, con algún blow-out blanco puro ocasional en el drop."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "'Around the World' de Daft Punk dirigido por Michel Gondry sigue siendo el patrón oro del house como coreografía. 'Latch' de Disclosure con Sam Smith (dirigido por Bo Mirosseni) construyó la plantilla moderna de cuerpos-en-pareja; sus colaboraciones más amplias con Stink Studios definieron la identidad visual del dúo. Los cortes de Boiler Room de Fred again.. probaron que una cámara y una multitud real rinden mejor que cualquier set construido. Las capturas en vivo de Honey Dijon, 'Nanga Eboko' de Peggy Gou, el metraje de archivo de Frankie Knuckles y los videos en solitario de Romy muestran el rango visual. El hilo es la honestidad — los videos de house que pretenden ser otra cosa que una sala con música dentro se sienten vergonzosos en un año."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Trata el rig de luces como un personaje. Promptea a Tunee con artefactos específicos: 'par cans cenitales en magenta, dos cabezas móviles barriendo cian por la pared trasera, haze lo bastante denso para ver los haces'. Los cuerpos deben ser parciales — una mano alzada, una nuca, un perfil contra un estrobo — casi nunca cobertura completa. Cronometra la cámara al build, al breakdown, al drop. Los videos de house mueren cuando tratan al breakdown como si fuera un verso."
+      }
+    ]
+  }
 }

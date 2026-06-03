@@ -39,5 +39,23 @@
       "q": "Como personalizo o estilo visual do meu videoclipe animado?",
       "a": "Você pode orientar os visuais usando prompts de texto que descrevem cenas, moods e cenários. A IA da Tunee interpreta sua entrada e gera visuais inspirados em animação 2D que correspondem à sua estética animada."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV ANIMADO",
+    "h2": "MV animado é uma categoria, não um estilo — restrinja primeiro",
+    "sections": [
+      {
+        "heading": "O que animado engloba",
+        "body": "Videoclipe animado é um guarda-chuva sobre ofícios totalmente distintos: animação 2D em cel (Spirited Away, Looney Tunes), CG 3D (Pixar, Spider-Verse da Sony), motion graphics (Saul Bass, sequências de título modernas), stop-motion (Anomalisa, Aardman), rotoscopia (A Scanner Darkly, Take On Me). O primeiro trabalho de qualquer briefing animado é escolher qual deles. 'Quero um vídeo animado' não diz nada a um estúdio. 'Quero algo em mixed-media 2D sobre 3D no estilo Spider-Verse' diz tudo."
+      },
+      {
+        "heading": "Quando usar animação",
+        "body": "Animação faz sentido quando o live-action não consegue: escala impossível (monstros gigantes, mundos microscópicos), estilização alta amarrada a uma marca (a identidade dos Gorillaz de Jamie Hewlett, o projeto inteiro do Damon Albarn), anonimato para o artista, ou orçamento — em escala pequena, a animação hoje sai mais barata que filmagens de locação e crew. Estúdios que vale citar: a equipe da Sony de Phil Lord e Christopher Miller por trás de Spider-Verse, o Cartoon Saloon de Tomm Moore (Wolfwalkers, Song of the Sea), Genndy Tartakovsky (Samurai Jack, Primal), Madhouse (Belle de Mamoru Hosoda). Gêneros que tendem ao animado por tradição: eletrônica, indie pop, música infantil, lançamentos de expansão de lore. Gravadoras de K-pop usam animação em B-sides e em alter egos estilo Gorillaz há anos."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Escolha sua técnica de animação no prompt, não o resultado: 'cel-shaded 2D, animação por substituição de frames, line work duro' versus 'CG 3D, modelo de iluminação Pixar, subsurface scattering na pele' versus 'stop-motion, juntas de armadura visíveis, 12fps'. Cada uma vive em dados de treinamento diferentes. Misturar técnicas no meio do vídeo pode funcionar, mas você precisa nomear a transição: 'live-action corta para rotoscopia no drop'. 'Animado' vago pousa em qualquer coisa mais comum."
+      }
+    ]
+  }
 }

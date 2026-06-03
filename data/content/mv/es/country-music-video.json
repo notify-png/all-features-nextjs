@@ -39,5 +39,23 @@
       "q": "¿Funciona con cualquier género de música, o solo con country?",
       "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá del country. Puedes generar vídeos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL COUNTRY",
+    "h2": "Los MVs de country corren con camionetas, campos y luz de bar de neón",
+    "sections": [
+      {
+        "heading": "Cómo se ve el country",
+        "body": "El video musical country tiene un canon visual bien definido que la audiencia del género espera y premia. Las firmas: camionetas pickup (Ford F-150 y Chevy Silverado, cubiertas de polvo), campos de trigo o maíz en hora dorada, sombreros de vaquero desgastados y camisas de botones de nácar, interiores de dive bar con letreros de cerveza de neón como luz key, planos de porche frontal, caminos de tierra alejándose hacia las colinas. La corrección de color es cálida y ligeramente desaturada, con un toque de teal en las sombras. La cámara en mano es aceptable; los planos de dron sobre campos son obligatorios."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Las referencias atraviesan eras: 'Beautiful Crazy' de Luke Combs, 'Whiskey Glasses' de Morgan Wallen, 'Slow Burn' y 'Rainbow' de Kacey Musgraves (el extremo moderno y direccionado por arte), la performance en vivo de 'Tennessee Whiskey' de Chris Stapleton en los CMA, 'Before He Cheats' de Carrie Underwood y los clips intencionalmente lo-fi de Zach Bryan. Los directores Trey Fanjoy ('Tim McGraw' de Taylor Swift, Carrie Underwood), Wes Edwards (Luke Combs, Brad Paisley), Justin Clough y Roman White moldean buena parte del look contemporáneo. El modelo country de Tunee conoce la diferencia entre el bro-country brillante y el Americana apagado."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica el sub-género — bro-country (luminoso de fiesta, bar de neón, camioneta elevada), Americana (apagado, porche, Wrangler vintage) o country-pop moderno (rooftop de Nashville, fashion-forward). Un prompt que nombre la marca de la camioneta, la marca del letrero de cerveza del bar o el cultivo del campo produce un encuadre más afilado que 'escena de música country'. El público nota cuando los props están mal."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "我可以生成多個漫畫音樂視頻版本進行比較嗎？",
       "a": "可以。你可以使用不同的提示或風格設置生成多個漫畫音樂視頻變體，然後選擇最符合你願景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於漫畫風 MV",
+    "h2": "漫畫風要徹底投入才會成立",
+    "sections": [
+      {
+        "heading": "漫畫風要求的條件",
+        "body": "漫畫風視頻有種二元性質——要嘛每一格都讀作漫畫格，要嘛沒有一格是。不可妥協的元素：可見的墨線（粗細變化、毛筆拉出，而非扁平的 1px 描邊）、用半色調網點或 Ben-Day 點填色而非平滑漸層、有限調色盤的硬色塊填色、偶爾節制使用的動態文字（POW、SLAM）。「Sin City」推到純黑白配單一強調色；「Spider-Verse」疊了三層不同密度的網點製造景深。中間地帶會讀成濾鏡，而不是手繪。"
+      },
+      {
+        "heading": "視覺語彙的源頭",
+        "body": "參考書架：Frank Miller 的「Sin City」原稿（Robert Rodriguez 2005 年的電影將這套語言延伸至銀幕）、Phil Lord 與 Christopher Miller 的「Spider-Verse」三部曲與其跳格動畫、色像差，Sam Raimi 的「Spider-Man」三部曲示範實拍如何處理漫畫式調度，Quentin Tarantino 的「Kill Bill」章節卡，Jamie Hewlett 親自指導的 Gorillaz 美術，Mike Mignola 在「Hellboy」中的負空間勾線（由 Guillermo del Toro 拍成電影），以及 Skottie Young 富表情的線條。音樂視頻方面：Gorillaz 的「Feel Good Inc.」與「On Melancholy Hill」、由 Leiji Matsumoto 執導的 Daft Punk「Interstella 5555」。Tunee 的漫畫模型將墨線粗細、半色調密度與分格版面視為各自可控的變數。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "挑一位描線者作為參考：「Frank Miller 高對比墨線」、「Mignola 負空間剪影」、「Spider-Verse 多密度半色調」。指定調色數量：「四色加黑墨線」。如果想要分格框，就加上說明：「偶爾出現分割畫面式漫畫格邊框、白色 gutter」。除非影片有實際對白，否則略過對話框——浮動的擬聲文字反而不錯，還能添動感。"
+      }
+    ]
+  }
 }

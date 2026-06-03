@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéo musicale de Noël de Tunee fonctionne-t-il sur les appareils mobiles?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur et mobile, vous pouvez donc créer des vidéos musicales de Noël depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LA MV DE NOËL",
+    "h2": "Une vidéo de Noël qui survit au papier cadeau",
+    "sections": [
+      {
+        "heading": "Pourquoi une MV de Noël vaut la peine",
+        "body": "La vidéo de Noël en famille est généralement soit un home movie de 20 minutes que personne ne finit, soit une rafale de clips téléphone sans liens. Une MV montée sur un seul titre de Noël — Mariah, Bublé, Wham!, ou le chant de votre grand-mère — donne une colonne vertébrale à la journée. Elle devient l'objet que vous ressortez en décembre suivant pour vous rappeler qui était à table cette année-là, l'année des fiançailles au dessert, ou celle où le chien a ouvert un cadeau en premier."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Noël possède le canon visuel le plus solide de toutes les fêtes : guirlandes de sapin tirées hors focus en bokeh, la révélation des chaussettes au matin, les mains qui se passent un plat à table, la neige derrière la fenêtre statique, le gros plan sur le papier cadeau. L'étagère de références est profonde — Mariah Carey a coréalisé son clip de 1994 « All I Want for Christmas Is You » avec AJ Brown, « Last Christmas » de Wham! a été tourné par Andy Morahan à Saas-Fee, la campagne Polar Bears de Coca-Cola signée Haddon Sundblom a défini la palette rouge-et-blanc mondiale, les pubs de Noël John Lewis par Adam & Eve DDB (le spot Elton John « Some Things Last Longer Than Love ») ont posé la barre du tear-jerker. Le tungstène chaud à l'intérieur contre le bleu froid à l'extérieur, c'est le look sur lequel s'appuie tout film Hallmark Channel. Spécifiez ces deux températures de couleur et votre MV se lira comme Noël dès la première image."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "Envoyez-la comme carte de Nouvel An. Une MV de 60 secondes dans un message texte frappe plus fort qu'une carte papier avec une photo de stock. Tunee rend en 9:16 pour la rediffusion en Story, en 16:9 pour la smart TV du prochain rassemblement, et en 1:1 pour le post — une seule génération couvre les trois."
+      }
+    ]
+  }
 }

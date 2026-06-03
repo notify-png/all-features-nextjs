@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi video de música clásica?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video de música clásica automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE LA CLÁSICA",
+    "h2": "Los MVs clásicos funcionan cuando dejan que la interpretación lleve el encuadre",
+    "sections": [
+      {
+        "heading": "Cómo se ve lo clásico",
+        "body": "El video de música clásica tiene una gramática callada y asentada. Las películas de performance se filman en salas de concierto con tres a cinco cámaras fijas: general de la sala, plano medio del director, primer plano de los principales, manos en plano cerrado sobre el solista. Los videos hechos en estudio se inclinan hacia escenografías minimalistas — retrato de sujeto único contra fondos neutros, luz natural, push-ins lentos. La corrección de color es contenida, a menudo casi neutra con un leve sesgo cálido o frío. El medio respeta el pulso de la música en lugar de imponer una edición pop."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Las referencias incluyen las películas del Bach Project de Yo-Yo Ma, los videos de recital de Hilary Hahn, las sesiones de las Variaciones Goldberg de Lang Lang en Disney+, los retratos modernos de artista de Deutsche Grammophon, los visuales en torno a la instalación Sleep de Max Richter (con la directora Natalie Johns), los streams del Digital Concert Hall de la Filarmónica de Berlín bajo Andris Nelsons y los livestreams de confinamiento de Igor Levit. El trabajo documental como las películas West-Eastern Divan de Daniel Barenboim y los recitales grabados de Daniil Trifonov define el extremo serio de la forma. El modelo clásico de Tunee trata al instrumento y a las manos como sujeto primario, no como fondo."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Nombra la familia del instrumento, la acústica del venue y la fuente de iluminación. 'Violonchelo solista en una sala de recitales en madera, foco cenital único, push-in lento sobre manos y diapasón, sin audiencia' funciona; 'video de interpretación de música clásica' produce algo genérico. Si quieres visualización de partitura en lugar de interpretación, dilo explícitamente — los dos formatos no se parecen en nada."
+      }
+    ]
+  }
 }

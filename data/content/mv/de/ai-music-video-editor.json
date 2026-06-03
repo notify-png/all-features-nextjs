@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees AI MV Editor Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgerät zugänglich, sodass Sie AI MV Editor Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "KI-MV-EDITOR",
+    "h2": "Ein KI-Editor, der in Schnitten denkt, nicht nur in Clips",
+    "sections": [
+      {
+        "heading": "Was ein KI-MV-Editor tatsächlich ersetzt",
+        "body": "Premiere und DaVinci sind für narrativen Film gebaut — jeder Schnitt ist eine manuelle Entscheidung gegen eine Wellenform. Für ein Musikvideo ist das Overkill: 80 % der Editierarbeit besteht nur darin, die Shot-Länge an den Beat anzupassen. Ein KI-MV-Editor dreht das um. Du legst den Track ein, das System markiert Downbeats, Transient-Hits und Energiewechsel, und die Timeline kommt vorgeschnitten an. Du machst nur noch das, was wirklich zählt — einen schwachen Shot austauschen, einen Übergang anstoßen, entscheiden, welcher Take des Refrains härter landet."
+      },
+      {
+        "heading": "Was du im Editor tatsächlich tun kannst",
+        "body": "Tunees Editor ist keine Render-and-pray-Pipeline. Nach der ersten Generierung ist jeder Clip auf der Timeline editierbar: einen einzelnen Shot mit neuem Prompt regenerieren, das Erscheinungsbild eines Charakters über mehrere Schnitte hinweg festsperren, das Seitenverhältnis ändern, ohne neu zu schneiden, eine B-Roll-Platte austauschen und dabei die Beat-Synchronisierung intakt halten. Die Wellenform liegt unter jedem Shot, sodass du genau siehst, auf welchen Transient ein Schnitt landet, und ihn bei Bedarf um einen Frame verschieben kannst."
+      },
+      {
+        "heading": "Warum die Schnitte auf dem Beat landen",
+        "body": "Unter der Haube läuft zuerst der Audio-Analyst-Agent — Tempo-Grid, Downbeat-Erkennung, Energiehülle, Vocal- vs. Instrumental-Segmentierung. Sage, der Story Director, rastet dann die Shot-Grenzen an diesen Markern ein, bevor der Renderer einen Frame anfasst. Genau deshalb wirken Tunee-MVs geschnitten, nicht wie eine Diashow: Die KI hat die Dauern nicht zufällig gewählt und auf Sync gehofft. Sie hat den Song so gelesen, wie ein Editor einen Track beim ersten Hören liest."
+      }
+    ]
+  }
 }

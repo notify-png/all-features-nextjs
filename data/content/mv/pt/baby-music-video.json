@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe de música para bebês?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente com seu videoclipe de música para bebês."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O BABY MV",
+    "h2": "Transforme o primeiro ano em algo mais do que um camera roll",
+    "sections": [
+      {
+        "heading": "Por que um baby MV bate outro álbum de celular",
+        "body": "Todo pai e mãe termina o primeiro ano com duas mil fotos quase idênticas e sem tempo para organizar. Um MV de 60 a 90 segundos é o formato que de fato é assistido — curto o bastante para os avós darem replay, com trilha de uma canção de ninar ou da música que tocava durante o primeiro ultrassom. Comprime a abundância caótica de footage de recém-nascido em algo com início, meio e fim, em vez de uma pasta no Google Photos que ninguém abre."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Fotógrafos de recém-nascidos como Anne Geddes e Carrie Sandoval filmam o mesmo cânone por uma razão: mãozinha apertando o dedo de um adulto, pés contra a palma do pai, a ruga de uma sobrancelha adormecida, o primeiro banho, a primeira risada capturada por acaso. A tradição de fotos-marco do Pinterest, o reel viral de anúncio de gravidez, a linguagem dos comerciais da Huggies e Pampers — tudo isso descansa sobre a fotografia familiar mais silenciosa de Sally Mann. Luz de janela suave, foco raso, brancos quentes — a gramática visual já está ali para você se apoiar. Solte sua faixa, mencione três desses momentos em texto simples e o MV está meio storyboardado. Até a abertura de Up, dirigida por Pete Docter, pegou emprestado um único plano de sapatinhos de recém-nascido para ancorar uma montagem inteira."
+      },
+      {
+        "heading": "Faça dele o presente",
+        "body": "O baby MV mais útil é o que é enviado a parentes que ainda não conheceram o bebê. O Tunee renderiza 9:16 para Stories, 16:9 para a TV do grupo familiar e 1:1 para a versão de imprimir e emoldurar, tudo em uma única geração."
+      }
+    ]
+  }
 }

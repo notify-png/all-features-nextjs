@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale 3D pour les comparer?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale 3D en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES MV 3D",
+    "h2": "Le look 3D qui nécessitait autrefois une render farm",
+    "sections": [
+      {
+        "heading": "Ce que la 3D signifie vraiment en 2026",
+        "body": "Qualifier une vidéo de « 3D » couvre un éventail très large — l'éclairage de personnages de Pixar, les environnements Unreal Engine 5, les plans produit rendus avec Octane, le surréalisme quotidien de Beeple. Tous partagent un même indice : des matériaux à base physique avec un véritable subsurface scattering, une profondeur de champ qui se résout correctement à travers les cheveux et le verre, et des ombres qui respectent la source lumineuse. Lorsque l'un de ces trois éléments flanche, l'œil le repère avant le cerveau. Tout le reste n'est que style posé sur ces fondations."
+      },
+      {
+        "heading": "D'où vient le look",
+        "body": "L'étagère de références est solidement installée : Spider-Man: Into the Spider-Verse de Phil Lord et Christopher Miller pour le shading stylisé, Sonnie's Edge de Tim Miller dans Love, Death & Robots pour le réalisme des personnages, le travail Pixar de Pete Docter et le pipeline RenderMan pour la peau et le tissu, la tradition de l'eau et des surfaces d'Andrew Stanton héritée de Finding Nemo, les boucles Cinema 4D quotidiennes de Beeple, le croisement anime-3D Daft Punk Discovery / Interstella 5555, les rendus Blender Cycles qui inondent r/blender chaque semaine. Côté clips : « Heartless » de The Weeknd et les assets « Astroworld » de Travis Scott tirés d'Unreal Engine 5. Le modèle 3D de Tunee s'entraîne sur ce vocabulaire, de sorte que des prompts comme « rendu Octane, profondeur de champ, lumière area douce depuis la fenêtre à gauche » atterrissent là où un TD les pointerait."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Spécifiez le moteur de rendu dans le prompt, même de façon métaphorique — « rendu Octane », « Unreal Engine 5 Lumen », « Pixar RenderMan ». Chacun convoque un ensemble distinct de conventions pour la chute de la lumière et la réponse des matériaux. Nommez ensuite explicitement votre dispositif lumineux : key, fill, rim. Sauter cette étape explique pourquoi la 3D générée paraît souvent plate ou plastique. N'ajoutez « faible profondeur de champ » que si votre sujet est unique — les scènes plus larges en ont besoin sans."
+      }
+    ]
+  }
 }

@@ -50,7 +50,7 @@
       },
       {
         "heading": "Where the look comes from",
-        "body": "The reference shelf is well-established: Spider-Man: Into the Spider-Verse for stylized shading, Love, Death & Robots' Sonnie's Edge for character realism, Pixar's RenderMan for skin and cloth, Blender's Cycles renders that flood Reddit's r/blender weekly. Music-video specific: The Weeknd's Heartless and Travis Scott's Astroworld assets pulled from Unreal. Tunee's 3D model trains on this vocabulary, so prompts like 'Octane render, depth of field, soft area light from window left' land where a TD would aim them."
+        "body": "The reference shelf is well-established: Phil Lord and Christopher Miller's Spider-Man: Into the Spider-Verse for stylized shading, Tim Miller's Sonnie's Edge from Love, Death & Robots for character realism, Pete Docter's Pixar work and the RenderMan pipeline for skin and cloth, Andrew Stanton's water and surface tradition from Finding Nemo, Beeple's daily Cinema 4D loops, the Daft Punk Discovery / Interstella 5555 anime-3D crossover, Blender Cycles renders flooding r/blender weekly. Music-video specific: The Weeknd's Heartless and Travis Scott's Astroworld assets pulled from Unreal Engine 5. Tunee's 3D model trains on this vocabulary, so prompts like 'Octane render, depth of field, soft area light from window left' land where a TD would aim them."
       },
       {
         "heading": "Prompting tip for Tunee",

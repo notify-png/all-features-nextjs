@@ -39,5 +39,23 @@
       "q": "如何自訂動畫音樂影片的視覺風格？",
       "a": "您可以使用文字提示來引導視覺效果，描述場景、氛圍和設置。Tunee的AI會解讀您的輸入並生成與您的動畫美學相匹配的2D動畫啟發視覺效果。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於動畫 MV",
+    "h2": "動畫 MV 是一個類別、不是風格——先把它收窄",
+    "sections": [
+      {
+        "heading": "動畫涵蓋甚麼",
+        "body": "動畫音樂視頻是一把大傘，底下涵蓋差異極大的工藝：2D cel 動畫（「Spirited Away」、Looney Tunes）、3D CG（Pixar、Sony 的 Spider-Verse）、動態圖像（Saul Bass、當代片頭）、定格動畫（「Anomalisa」、Aardman）、Rotoscope（「A Scanner Darkly」、Take On Me）。任何動畫案件的第一份工作，是挑出其中一種。「我想要一段動畫視頻」對工作室來說等於甚麼都沒說。「我想要 Spider-Verse 式的 2D 與 3D 混合媒材」則甚麼都說明了。"
+      },
+      {
+        "heading": "甚麼時候該用動畫",
+        "body": "當實拍做不到時，動畫就有意義：不可能的尺度（巨型怪物、微觀世界）、與品牌深度綁定的高度風格化（Jamie Hewlett 為 Gorillaz 打造的識別、Damon Albarn 的整個專案）、藝術家的匿名性，或預算——在小規模上，動畫如今已比租場景與劇組更便宜。值得引用的工作室：Phil Lord 與 Christopher Miller 在 Sony 主導 Spider-Verse 的團隊、Tomm Moore 的 Cartoon Saloon（「Wolfwalkers」、「Song of the Sea」）、Genndy Tartakovsky（「Samurai Jack」、「Primal」）、Madhouse（細田守的「Belle」）。在傳統上偏向動畫的類型：電子、indie pop、兒童音樂、世界觀延展類發佈。K-pop 廠牌使用動畫處理 B-sides 與 Gorillaz 式分身角色已有多年。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "在提示詞裡挑出你的動畫技法，而非只給結果：「cel-shaded 2D、frame-replacement 動畫、硬線條」相對於「3D CG、Pixar 打光模型、皮膚次表面散射」相對於「定格動畫、可見骨架關節、12fps」。每一種都基於不同的訓練資料。中途切換技法是可行的，但你必須明說轉場：「實拍切入 drop 處的 rotoscope」。模糊的「animated」只會落在最常見的那一類。"
+      }
+    ]
+  }
 }

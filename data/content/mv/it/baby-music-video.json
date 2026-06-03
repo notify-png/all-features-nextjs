@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale Baby?",
       "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi, scegli uno stile di carattere e l'AI sincronizzerà automaticamente il tutto al tuo video musicale Baby."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV PER IL BAMBINO",
+    "h2": "Trasforma il primo anno in qualcosa di più di un rullino fotografico",
+    "sections": [
+      {
+        "heading": "Perché un MV baby batte un altro album sul telefono",
+        "body": "Ogni genitore finisce l'anno uno con duemila foto quasi identiche e senza tempo per ordinarle. Un MV di 60-90 secondi è il formato che viene effettivamente guardato — abbastanza breve perché i nonni lo rivedano, scoricato su una ninna nanna o sulla canzone che suonava durante la prima ecografia. Comprime l'abbondanza disordinata del footage del neonato in qualcosa con un inizio, un mezzo e una fine, invece di una cartella di Google Photos che nessuno apre."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I fotografi di neonati come Anne Geddes e Carrie Sandoval scattano lo stesso canone per una ragione: la piccola mano avvolta attorno al dito di un adulto, i piedi contro il palmo di un genitore, la ruga di un sopracciglio addormentato, il primo bagnetto, la prima risata catturata per caso. La tradizione delle foto-milestone su Pinterest, il reel virale di annuncio di gravidanza, il linguaggio degli spot Huggies e Pampers — si appoggiano tutti alla più silenziosa fotografia di famiglia di Sally Mann. Luce di finestra morbida, fuoco poco profondo, bianchi caldi — la grammatica visiva è già lì da assecondare. Carica la tua traccia, menziona tre di questi momenti in inglese semplice e l'MV è già storyboardato a metà. Anche l'apertura di Up di Pete Docter ha preso in prestito una singola inquadratura di scarpine da neonato per ancorare un intero montaggio."
+      },
+      {
+        "heading": "Rendilo il regalo",
+        "body": "L'MV baby più utile è quello inviato a parenti che non hanno ancora conosciuto il bambino. Tunee renderizza in 9:16 per le Stories, 16:9 per la TV della chat di famiglia, e 1:1 per la versione da stampare e incorniciare, tutto da una sola generazione."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe 3D para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe 3D usando diferentes prompts ou configurações de estilo, e selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE VIDEOCLIPES 3D",
+    "h2": "O visual 3D que antes exigia uma fazenda de render",
+    "sections": [
+      {
+        "heading": "O que 3D realmente significa em 2026",
+        "body": "Chamar um vídeo de '3D' cobre um espectro amplo — a iluminação dos personagens da Pixar, ambientes em Unreal Engine 5, planos de produto renderizados em Octane, o surrealismo diário do Beeple. Todos compartilham um sinal: materiais fisicamente baseados com subsurface scattering real, profundidade de campo que resolve corretamente através de cabelo e vidro, e sombras que respeitam a fonte de luz. Quando esses três elementos quebram, o olho percebe antes do cérebro. Todo o resto é estilo construído sobre essa fundação."
+      },
+      {
+        "heading": "De onde vem o visual",
+        "body": "A estante de referências está bem estabelecida: Spider-Man: Into the Spider-Verse de Phil Lord e Christopher Miller para sombreamento estilizado, Sonnie's Edge de Tim Miller em Love, Death & Robots para realismo de personagem, o trabalho da Pixar com Pete Docter e o pipeline RenderMan para pele e tecido, a tradição de água e superfície de Andrew Stanton em Finding Nemo, os loops diários em Cinema 4D do Beeple, o cruzamento anime-3D entre Daft Punk Discovery e Interstella 5555, renders em Blender Cycles que inundam o r/blender toda semana. Específicos de videoclipe: Heartless do The Weeknd e os assets de Astroworld do Travis Scott puxados do Unreal Engine 5. O modelo 3D do Tunee é treinado nesse vocabulário, então prompts como 'Octane render, profundidade de campo, soft area light vinda da janela à esquerda' pousam onde um TD apontaria."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Especifique a engine de render no prompt mesmo que metaforicamente — 'Octane render', 'Unreal Engine 5 lumen', 'Pixar RenderMan'. Cada uma puxa um conjunto diferente de convenções para queda de luz e resposta de material. Em seguida, nomeie sua configuração de luz explicitamente: key, fill, rim. Pular essa etapa é o motivo pelo qual o 3D gerado frequentemente parece chapado ou plastificado. Adicione 'shallow depth of field' somente se o seu sujeito for uma única coisa — cenas mais amplas precisam dele desligado."
+      }
+    ]
+  }
 }

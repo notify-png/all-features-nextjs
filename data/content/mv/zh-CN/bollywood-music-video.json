@@ -39,5 +39,23 @@
       "q": "我可以生成多个版本的宝莱坞音乐视频进行比较吗？",
       "a": "可以。您可以使用不同的提示或风格设置生成多个宝莱坞音乐视频变体，然后选择最符合您愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 BOLLYWOOD",
+    "h2": "Bollywood MV 靠色彩、编舞与毫不收敛的大体量运转",
+    "sections": [
+      {
+        "heading": "Bollywood 长什么样",
+        "body": "Bollywood 音乐视频的程式是全世界最极繁主义的，而它配得上这份招摇。视觉标识：完美队形的群体编舞、主歌之间的换装、歌曲中段的场景跳跃（孟买街头跳到 Swiss Alps 再跳到宫廷庭院）、横扫整条色谱的高饱和（没有任何低调调色板），以及把『playback 歌手的人声叠在演员对口型上』当作默认惯例。镜头永远在动——升降、轨道、Steadicam——从不停下来。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "参考是奠基级别的：Shah Rukh Khan 在 Aditya Chopra 执导的 Dilwale Dulhania Le Jayenge 中的芥末花田段落、Sanjay Leela Bhansali 在 Padmaavat 与 Bajirao Mastani 里油画般的构图、SS Rajamouli 在 RRR 里的『Naatu Naatu』、AR Rahman 横跨 Slumdog Millionaire 与 Rockstar 的作品、Farah Khan 的编舞，以及 Santosh Sivan 的摄影。当代参考：Pritam 为 Brahmastra 的作曲、Pathaan 和 Jawan 的主题曲、Vishal-Shekhar 的 Pathaan 推广。Tunee 的 Bollywood 模型熟悉队形编舞、把色彩饱和当作主工具，以及以场景拼贴为特色的剪辑。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "不要克制调色——Bollywood 在『有品位的调色』下会塌掉。改为每个镜头点出三块饱和色（『藏红黄的纱丽、深青蓝的天、洋红的墙』），再加一种场景原型（芥末花田、宫廷庭院、孟买雨季街头、瑞士草甸）。那种『稳一稳』的本能，只会做出『接近 Bollywood』而非 Bollywood 的东西。"
+      }
+    ]
+  }
 }

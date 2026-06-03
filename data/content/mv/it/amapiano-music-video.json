@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Amapiano per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Amapiano usando prompt diversi o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'AMAPIANO",
+    "h2": "I video amapiano sono costruiti attorno al log drum e alla pista da ballo",
+    "sections": [
+      {
+        "heading": "Come si presenta l'amapiano",
+        "body": "Gli MV amapiano sono cresciuti su TikTok e sulle piste da ballo dei township sudafricani prima di crescere su Vevo. Le firme visive: riprese strette della folla filmate dall'interno del cerchio di ballo, obiettivi fish-eye e ultra-grandangolari, inserti slow-motion del footwork, la console del DJ come inquadratura ricorrente, e festeggiamenti di strada all'aperto al tramonto illuminati da una singola luce dura. Il colore è ad alto contrasto — pelle nera contro neon, scarpe da ginnastica bianche come punto focale. La camera si muove con il ballerino, non attorno a lui."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "Le visual canoniche vengono dall'era Scorpion Kings di Kabza De Small e DJ Maphorisa, dal rollout di 'Mnike' di Tyler ICU e Khalil Harrison, da 'Ke Star' di Focalistic, dagli edit da club di DBN Gogo, dalle Balcony Mix in livestream di Major League DJz, e dalla clip virale 'Tanzania' di Uncle Waffles — quella singola performance girata col telefono ha definito un'estetica per il genere. Registi come Pyramidda (Kabza, Maphorisa) e Mahlatse Tshukulu si appoggiano all'origine social-media dell'amapiano: inquadratura verticale, immediatezza handheld, la mossa di ballo sempre centrata. Il modello amapiano di Tunee conosce questa genealogia."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Centra il ballo, non l'artista. Un prompt come 'cerchio di ballerini attorno a un singolo performer, strada di township al tramonto, lente ultra-grandangolare, inserti slow-motion di footwork' funziona meglio di 'scena di festa amapiano'. Nomina anche il log drum visivamente — il produttore che tocca il pad, il basso che colpisce in un'inquadratura di reazione della folla — e il taglio si sincronizza al beat piuttosto che limitarsi a coprirlo."
+      }
+    ]
+  }
 }

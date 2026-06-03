@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale AI Storyboard?",
       "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'IA sincronizzerà automaticamente il tuo video musicale AI Storyboard."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "AI STORYBOARD",
+    "h2": "Lo storyboard è dove il music video viene effettivamente diretto",
+    "sections": [
+      {
+        "heading": "Perché i registi fanno lo storyboard prima di girare",
+        "body": "Su un vero shoot MV, lo storyboard è il documento più costoso del progetto — è ciò su cui il regista, il DP e l'etichetta firmano tutti prima che venga montata una singola luce. Saltalo e brucerai day-rate su inquadrature che non si montano insieme. Le pipeline AI MV che vanno direttamente dal prompt al render saltano anche questo passaggio, motivo per cui molte producono quattro belle clip che non raccontano una storia. Una fase di storyboard forza la decisione: di cosa parla questo video, inquadratura per inquadratura."
+      },
+      {
+        "heading": "Cosa mostra la vista storyboard",
+        "body": "In Tunee, lo storyboard non è uno slideshow di still — è una lista di inquadrature temporizzata. Ogni fotogramma ha una durata bloccata sulla griglia di beat della canzone, una descrizione di inquadratura su una riga (wide, medium, close, insert), un tag di personaggio o location e una miniatura di anteprima. Puoi riordinare, eliminare, rigenerare o riscrivere una singola inquadratura prima di impegnarti in un render completo. È il passaggio economico in cui scopri che il ritornello ha bisogno di un wide, non di un altro close-up."
+      },
+      {
+        "heading": "Come pensa l'agente storyboard di Tunee",
+        "body": "Sage, l'agente direttore della storia, abbozza la board contro tre input: la mappa strutturale dell'analista audio (strofa / pre / ritornello / bridge), il foglio di personaggi e location di Nova, e i testi se forniti. Applica regole editoriali di base — non tagliare sullo stesso asse due volte, salva l'inquadratura più ampia per il momento più grande, tieni un close-up attraverso le linee vocali emotive — poi ti consegna una board con cui puoi discutere. Quella discussione è dove il video viene effettivamente diretto."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "O gerador de vídeos musicais familiar do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, permitindo que você crie vídeos musicais familiares de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DE FAMÍLIA",
+    "h2": "O vídeo de família que é assistido mais de uma vez",
+    "sections": [
+      {
+        "heading": "Por que um MV de família conquista seu lugar",
+        "body": "A maioria dos vídeos de família morre no armazenamento em nuvem. A footage do encontro de família é longa demais, o slideshow de feriado é aleatório demais e a compilação de crianças crescendo está em algum HD antigo. Um MV de 60 a 90 segundos com trilha é o formato que parentes de fato terminam — curto o bastante para compartilhar no grupo da família, estruturado o suficiente para parecer intencional, e longo o bastante para caber três gerações num único artefato assistível."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Fotógrafos documentais de família filmam o mesmo cânone: o candid da ilha da cozinha onde todo mundo está falando ao mesmo tempo, o plano avô-com-neto-no-colo, o aberto da varanda com a foto de grupo onde alguém sempre pisca, o close de mãos passando um prato, o desfoque dos jogos no quintal. As capas do Norman Rockwell para o Saturday Evening Post (a 'Freedom from Want' do Dia de Ação de Graças, 1943) escreveram a gramática da mesa de jantar multigeracional. A montagem de abertura de UP da Pixar dirigida por Pete Docter comprimiu um casamento inteiro em quatro minutos de imagens-em-movimento. A campanha 'Hilltop' da era Bill Backer para a Coca-Cola e a linguagem da mesa sentada de All in the Family do Norman Lear estendem essa linhagem. Mencione três gerações no seu prompt — o Tunee estrutura o corte para se mover entre elas, em vez de se deter em qualquer sujeito único."
+      },
+      {
+        "heading": "Faça dele o presente",
+        "body": "Envie na semana depois de um encontro de família, não no mesmo dia — é quando a euforia já passou e o MV faz seu trabalho de verdade. O Tunee renderiza quadrado para o grupo da família, widescreen para o próximo replay de feriado na TV e vertical para os Stories de parentes mais novos a partir de uma única geração."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale de concert pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale de concert en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES MV CONCERT",
+    "h2": "Les vidéos de concert vivent ou meurent au montage",
+    "sections": [
+      {
+        "heading": "Ce qu'est une vidéo de concert",
+        "body": "La MV concert est un format précis : performance live multi-caméras, montée sur la chanson, alternant entre plans larges de scène, coverage serré sur l'artiste, réactions du public et plans hero du kit lumière. La contrainte de genre majeure est que la musique est l'enregistrement réel et que le visuel doit en épouser l'énergie beat par beat. Le montage fait tout — la plupart des concerts qui paraissent plats sont bien filmés et mal montés, tenant des plans larges pendant des refrains où l'artiste doit être serré."
+      },
+      {
+        "heading": "Quand l'utiliser",
+        "body": "La MV concert est le bon format quand la présence live de l'artiste est la marque (Tame Impala, Phoebe Bridgers, Beyoncé), pour la sortie d'un film de tournée, ou quand une salle ou un festival est en soi un argument (la Pyramid Stage de Glastonbury, Red Rocks, la série Tiny Desk de NPR). Le canon de réalisateurs est restreint : Jonathan Demme a défini la forme avec Stop Making Sense des Talking Heads (1984), Sam Wrench a réalisé le Eras Tour de Taylor Swift en salles, Ed Burke a réalisé Homecoming de Beyoncé pour Netflix, Spike Lee a filmé Amazing Grace d'Aretha. Exemples récents : Live at the O2 de Billie Eilish, tout ce que Boiler Room a tourné cette dernière décennie. C'est aussi le format le plus utilisé pour les fancams K-pop."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Spécifiez la taille du lieu et le style d'éclairage : « petit club, unique follow-spot, ombre profonde autour du public » versus « échelle arena, mur LED complet derrière l'artiste, lasers dans la haze ». Nommez le nombre de caméras et les angles : « coverage à trois caméras : large scène, gros plan artiste, mains levées du public ». Ajoutez « coupes sur les snare hits, toutes les 1 à 2 secondes dans le refrain, tenues plus longues sur le couplet » pour le rythme du montage. Tunee peut générer la cadence des coupes si vous la décrivez."
+      }
+    ]
+  }
 }

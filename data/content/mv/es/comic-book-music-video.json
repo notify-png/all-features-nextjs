@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de Cómics para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de Cómics usando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV CÓMIC",
+    "h2": "El look de cómic solo funciona cuando se compromete",
+    "sections": [
+      {
+        "heading": "Lo que el estilo de cómic exige",
+        "body": "El video de cómic tiene una cualidad binaria — o cada frame se lee como una viñeta o no lo hace ninguno. Lo innegociable: líneas de tinta visibles (peso variable, trazadas con pincel, no un contorno plano de 1px), tramas de halftone o rellenos Ben-Day en lugar de gradientes suaves, rellenos de color duros con paletas limitadas, tipografía cinética puntual (POW, SLAM) usada con moderación. Sin City lo empujó al blanco y negro puro con un solo color acento. Spider-Verse superpuso tres densidades de puntos distintas para crear profundidad. El terreno intermedio se lee como filtrado, no como dibujado."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "Estantería de referencias: las páginas de Sin City de Frank Miller (la película de 2005 de Robert Rodriguez extendió el lenguaje a pantalla), la trilogía Spider-Verse de Phil Lord y Christopher Miller con su animación de frame-skip y su aberración cromática, la trilogía Spider-Man de Sam Raimi por su puesta en escena en live action, las tarjetas de capítulo de Kill Bill de Quentin Tarantino, el arte de Gorillaz dirigido por el propio Jamie Hewlett, el entintado de espacio negativo de Mike Mignola en Hellboy (filmada por Guillermo del Toro), la línea expresiva de Skottie Young. En MVs específicos: 'Feel Good Inc.' y 'On Melancholy Hill' de Gorillaz, Interstella 5555 de Daft Punk dirigida por Leiji Matsumoto. El modelo de cómic de Tunee trata el peso de tinta, la densidad de halftone y el layout de viñetas como variables separadas y controlables."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Elige a un entintador como referencia: 'tinta de alto contraste estilo Frank Miller', 'silueta de espacio negativo estilo Mignola', 'halftone multidensidad estilo Spider-Verse'. Especifica la cuenta de la paleta: 'cuatro colores más línea de tinta negra'. Añade instrucciones de marco de viñeta si los quieres: 'bordes ocasionales de panel a pantalla partida, canalillo blanco'. Salta los bocadillos a menos que tu video tenga diálogo real — las palabras flotantes de SFX están bien y añaden movimiento."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Como faço para adicionar letras ou legendas ao meu videoclipe musical com legendas?",
       "a": "A Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará ao seu videoclipe musical com legendas automaticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV COM LEGENDAS",
+    "h2": "Legendas queimadas no vídeo são padrão hoje, não um adendo de acessibilidade",
+    "sections": [
+      {
+        "heading": "Por que legendas viraram o padrão",
+        "body": "Legendas queimadas em videoclipes deixaram de ser uma opção de acessibilidade — são o padrão para qualquer lançamento que pretenda pousar nas redes sociais. Mais de oitenta por cento dos vídeos no TikTok e no Reels são assistidos sem som no feed. Legendas aumentam taxa de completude, taxa de save e taxa de share de forma mensurável. O formato também serve à acessibilidade (espectadores surdos e com deficiência auditiva, falantes não nativos de inglês que usam a letra para acompanhar) — que é a razão original pela qual legendas existem. A intersecção torna legendas um must-have, não um nice-to-have."
+      },
+      {
+        "heading": "Quando usar",
+        "body": "MV com legendas é a escolha certa para todo lançamento social-first, para músicas com letra à frente em que as palavras são o gancho, para lançamentos em idiomas não-ingleses voltados a públicos globais, para música educativa ou com mensagem (músicas infantis, canções de protesto, rap narrativo), e para qualquer lançamento em que o artista queira acessibilidade integrada desde o início. A linhagem: Bohemian Rhapsody do Queen dirigido por Bruce Gowers (1975) como o proto-lyric-overlay, Subterranean Homesick Blues de Bob Dylan (1965) dirigido por D.A. Pennebaker, o órgão de padrões de legendagem da BBC (referência W3C TTML), os defaults SDH (subtitles for the deaf and hard-of-hearing) acessibilidade-first da Netflix. SM Entertainment e HYBE usam legendas queimadas para fãs internacionais de K-pop há uma década. Hip-hop com wordplay denso se beneficia de legendas em cada lançamento — as rimas são rápidas demais para captar na primeira escuta."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Trate legendas como elemento de design, não como overlay: 'legendas no terço inferior, Inter Bold 32pt, texto branco com drop shadow sutil, uma linha por vez, quebra de linha em fronteira de frase'. Especifique alinhamento de timing: 'legendas aparecem na sílaba, não no final da frase'. Escolha uma cor de legenda que aguente as mudanças de iluminação do vídeo — branco com sombra bate texto colorido toda vez. O Tunee gera legendas alinhadas no tempo a partir da letra inserida automaticamente, então a queima combina com o fraseado vocal com precisão."
+      }
+    ]
+  }
 }

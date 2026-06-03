@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Fitness per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Fitness utilizzando prompt diversi o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV FITNESS",
+    "h2": "Un video di trasformazione che non sembra una pubblicità Bowflex",
+    "sections": [
+      {
+        "heading": "Perché vale la pena fare bene gli MV fitness",
+        "body": "Lo slideshow before/after è morto — il formato è stato manipolato così duramente su TikTok che il pubblico scrolla via istantaneamente. Quello che funziona ancora è l'MV del processo di allenamento: 60 secondi musicati su una traccia a BPM alti, pesati verso il duro lavoro quotidiano piuttosto che verso la rivelazione. I proprietari di palestre li usano per spotlight dei membri, gli allenatori li usano per riepiloghi dei clienti, e gli individui li usano come marker personali di un blocco di 12 settimane che vale più di una foto sulla bilancia."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I cinematografi sportivi conoscono il canone: close-up del magnesio sulle mani, la curva del bilanciere su una rep pesante, l'espirazione con l'asciugamano sul viso, l'ampia inquadratura della palestra vuota la mattina, il controllo dell'orologio tra le serie. Il blueprint è il montaggio di allenamento di Rocky di John G. Avildsen (1976) - Gonna Fly Now di Bill Conti sync-tagliato sulle scale e sui lati di manzo. Le campagne Wieden+Kennedy di Nike (Find Your Greatness, Dream Crazy con Colin Kaepernick) hanno definito lo sguardo moderno. All In di Adidas, la copertura dei CrossFit Games di Reebok, il formato voiceover di David Goggins su Instagram, le scene di allenamento di Magic Mike di Steven Soderbergh. La color grade è desaturata con neri schiacciati e un accento — dischi rossi, insegna EXIT al neon, alba attraverso una finestra. Specifica quella palette più un tempo di traccia, e il taglio si sincronizza naturalmente alle alzate."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Non chiedere 'inquadrature motivazionali da palestra' — quello ti dà footage stock. Invece, nomina l'alzata (stacco, pulita, push press), l'ora del giorno e l'equipaggiamento specificamente. 'Garage gym vuoto alle 5 del mattino, singolo bilanciere caricato con dischi arrugginiti, grade desaturato, una luce al tungsteno calda dall'alto' atterra dove un vero DP punterebbe una camera."
+      }
+    ]
+  }
 }

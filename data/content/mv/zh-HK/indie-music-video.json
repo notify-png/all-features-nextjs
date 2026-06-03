@@ -39,5 +39,23 @@
       "q": "我可以生成多個獨立音樂影片版本進行比較嗎？",
       "a": "可以。您可以使用不同的提示或風格設置生成多個獨立音樂影片變體，然後選擇最符合您願景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Indie",
+    "h2": "Indie 視頻是把預算限制變成風格的藉口",
+    "sections": [
+      {
+        "heading": "Indie 的視覺面貌",
+        "body": "Indie MV 的語法源自限制：一機、一景、一個徹底執行的怪點子。Lo-fi 後製——VHS 暈染、過期膠片、爆掉的高光——如今是美學選擇，不是限制。藝人通常看起來略顯無聊或被逗樂，從不認真。構圖鬆散且不對稱。即便不是二手店挑來的，服裝也要有那種感覺。最好的 indie 視頻像是某個朋友在星期六拍的。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "由 Canada 執導 Tame Impala 的「The Less I Know the Better」是天花板——單一概念、單一場景、徹底投入。Spike Jonze 為 Arcade Fire（「The Suburbs」）與 MGMT（「Time to Pretend」）拍的作品立下高藝術的一端；Michel Gondry 與 The White Stripes 的合作（「Fell in Love with a Girl」）仍是試金石。Mac DeMarco 的家拍視頻證明一台網絡攝影機加一個後院能撐起一個職業生涯。Arctic Monkeys 的「Tranquility Base」旅館主題系列加入了電影野心，但不丟掉懶散調性。Snail Mail、Soccer Mommy、Alvvays，以及 Mitski 的「Nobody」共享同一種「攝影機是室友」的能量。共通的結締組織是克制，以及拒絕把這個類型看得太認真。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "挑一個點子並停止加料。「整首歌藝人就坐在後院的兒童充氣泳池裡，三分鐘內慢慢推近」比任何精心概念都更 indie。當你指定鏡頭時——「35mm 定焦、柔和日光、輕微過曝」——Tunee 能漂亮地處理連續單一場景的提示。擁抱小錯誤：收音桿入鏡、路過的車。打磨會比一首爛歌更快殺死這個類型。"
+      }
+    ]
+  }
 }

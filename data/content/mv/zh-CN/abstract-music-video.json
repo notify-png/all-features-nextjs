@@ -39,5 +39,23 @@
       "q": "它适用于任何音乐风格，还是仅限于抽象音乐？",
       "a": "Tunee支持超越抽象的广泛音乐风格和视觉风格。您可以使用同一平台为流行音乐、Hip-Hop、古典音乐和数十种其他风格生成音乐视频。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于抽象 MV",
+    "h2": "抽象影像是一种成败全押在运动上的体裁",
+    "sections": [
+      {
+        "heading": "抽象在这里到底意味着什么",
+        "body": "抽象音乐视频意味着没有角色、没有地点、没有故事——只有形状、色彩和对声音做出反应的运动。做差了就是 Windows Media Player 可视化器。做好了就是 Ryoji Ikeda 在 Barbican 的装置，或是 Universal Everything 工作室的线框人形。分水岭在于时机：每一次转场都落在 transient 上，每一次色彩转移都回应一次和弦变化。配着音乐播放的静态抽象艺术是壁纸；会聆听的抽象影像是作曲。"
+      },
+      {
+        "heading": "这套视觉语言从何而来",
+        "body": "动态图形工作室写这本词典已经写了九十年：Oskar Fischinger 1930 年代的抽象电影、Norman McLaren 在加拿大国家电影局手刻胶片的光学作品、Saul Bass 的片头、Kyle Cooper 的 Se7en 片头、GMUNK / Field.io 这一脉的生成艺术、Memo Akten 的神经艺术、Refik Anadol 在 MoMA 的数据雕塑、Beeple 的日更循环、Houdini 流体模拟、TouchDesigner 音频响应工程。MV 圈：Chris Cunningham 为 Aphex Twin 操刀的 Windowlicker、Squarepusher 的 My Red Hot Car、Cyriak Harris 在 YouTube 上做的一切。Tunee 的抽象模型把流体模拟、粒子系统和几何形变作为各自独立的词汇来处理，而不是当成可以互换的热词。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "一支视频只挑一种运动基元，并坚持到底：流体、粒子、几何形变，或者 signed-distance-field 形变。混用两种读起来就是混乱。用感受指定调色板，而不是形容词——『两种颜色，洋红与深青』胜过『鲜艳而动感』。告诉 Tunee 密度怎样随着歌曲演化：『主歌稀疏粒子，drop 处密集绽放』。音频响应才是抽象 MV 的全部意义——提示词里就要说出来。"
+      }
+    ]
+  }
 }

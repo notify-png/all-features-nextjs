@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem AI Storyboard Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Lyric- und Untertitel-Overlay-Optionen. Gib einfach deine Lyrics ein und wähle einen Text-Style, und die KI synchronisiert sie automatisch zu deinem AI Storyboard Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "KI-STORYBOARD",
+    "h2": "Im Storyboard wird das Musikvideo tatsächlich inszeniert",
+    "sections": [
+      {
+        "heading": "Warum Regisseure storyboarden, bevor sie drehen",
+        "body": "Bei einem echten MV-Dreh ist das Storyboard das teuerste Dokument im Projekt — es ist das, was Regisseur, DoP und Label alle abzeichnen, bevor auch nur ein Licht aufgerigt wird. Wer den Schritt überspringt, verbrennt Tagesgagen für Shots, die nicht zusammenschneiden. KI-MV-Pipelines, die direkt vom Prompt zum Render gehen, überspringen diesen Schritt ebenfalls — weshalb so viele von ihnen vier hübsche Clips produzieren, die keine Geschichte erzählen. Ein Storyboard-Durchlauf erzwingt die Entscheidung: Wovon handelt dieses Video, Shot für Shot."
+      },
+      {
+        "heading": "Was die Storyboard-Ansicht zeigt",
+        "body": "In Tunee ist das Storyboard keine Diashow aus Standbildern — es ist eine getimte Shot-Liste. Jeder Frame hat eine an das Beat-Grid des Songs gekoppelte Dauer, eine einzeilige Shot-Beschreibung (Wide, Medium, Close, Insert), einen Charakter- oder Location-Tag und eine Thumbnail-Vorschau. Du kannst einen einzelnen Shot neu anordnen, löschen, neu generieren oder umschreiben, bevor du dich auf ein volles Rendering festlegst. Es ist der günstige Schritt, in dem du herausfindest, dass der Refrain einen Wide braucht, kein weiteres Close-up."
+      },
+      {
+        "heading": "Wie Tunees Storyboard-Agent denkt",
+        "body": "Sage, der Story-Director-Agent, entwirft das Board gegen drei Inputs: die strukturelle Karte des Audio-Analysten (Verse / Pre / Chorus / Bridge), Novas Charakter- und Location-Sheet sowie die Lyrics, falls vorhanden. Er wendet grundlegende editorial Regeln an — nicht zweimal auf derselben Achse schneiden, den weitesten Shot für den größten Moment aufheben, ein Close-up durch emotionale Vocal-Zeilen halten — und übergibt dir dann ein Board, mit dem du diskutieren kannst. In dieser Diskussion wird das Video tatsächlich inszeniert."
+      }
+    ]
+  }
 }

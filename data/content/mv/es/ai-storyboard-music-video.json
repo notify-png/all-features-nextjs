@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi video musical con Storyboard de IA?",
       "a": "Tunee ofrece opciones incorporadas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará automáticamente con tu video musical con Storyboard de IA."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "STORYBOARD CON IA",
+    "h2": "El storyboard es donde realmente se dirige el video musical",
+    "sections": [
+      {
+        "heading": "Por qué los directores hacen storyboard antes de rodar",
+        "body": "En un rodaje real de MV, el storyboard es el documento más caro del proyecto — es lo que el director, el DP y la discográfica firman antes de que se monte una sola luz. Saltártelo significa quemar tarifas diarias en planos que no se cortan entre sí. Los pipelines de MV con IA que van directo de prompt a render también se saltan este paso, y por eso muchos producen cuatro clips bonitos que no cuentan ninguna historia. Una pasada de storyboard fuerza la decisión: de qué va este video, plano a plano."
+      },
+      {
+        "heading": "Lo que muestra la vista de storyboard",
+        "body": "En Tunee, el storyboard no es un pase de diapositivas de fotogramas — es una shot list cronometrada. Cada cuadro tiene una duración fijada a la rejilla de beats de la canción, una descripción del plano en una línea (general, medio, primer plano, inserto), una etiqueta de personaje o locación y una vista previa en miniatura. Puedes reordenar, borrar, regenerar o reescribir un solo plano antes de comprometerte con un render completo. Es el paso barato donde descubres que el coro necesita un plano general, no otro primer plano."
+      },
+      {
+        "heading": "Cómo piensa el agente de storyboard de Tunee",
+        "body": "Sage, el agente director de historia, redacta el board contra tres inputs: el mapa estructural del analista de audio (verso / pre / coro / puente), la hoja de personajes y locaciones de Nova, y la letra si se proporciona. Aplica reglas editoriales básicas — no cortar dos veces sobre el mismo eje, guardar el plano más amplio para el momento más grande, sostener un primer plano durante líneas vocales emocionales — y luego te entrega un board con el que puedes discutir. Esa discusión es donde el video realmente se dirige."
+      }
+    ]
+  }
 }

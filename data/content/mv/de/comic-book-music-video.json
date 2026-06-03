@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Comic-Book-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Varianten Ihres Comic-Book-Musikvideos mit unterschiedlichen Prompts oder Style-Einstellungen generieren und dann die Version wählen, die Ihrer Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER COMIC-BOOK-MV",
+    "h2": "Der Comic-Book-Look funktioniert nur, wenn er sich voll verpflichtet",
+    "sections": [
+      {
+        "heading": "Was der Comic-Book-Stil verlangt",
+        "body": "Das Comic-Book-Video hat eine binäre Qualität — entweder liest sich jeder Frame als Panel oder keiner. Die nicht verhandelbaren Elemente: sichtbare Tuschelinien (variable Strichstärke, mit dem Pinsel gezogen, kein flacher 1-px-Outline), Halbtonpunkte oder Ben-Day-Dot-Füllungen statt sanfter Verläufe, harte Farbflächen mit begrenzten Paletten, gelegentlich kinetische Typografie (POW, SLAM), sparsam eingesetzt. Sin City trieb es zu reinem Schwarzweiß mit einer einzigen Akzentfarbe. Spider-Verse schichtete drei verschiedene Punktdichten für Tiefe. Der Mittelweg liest sich als gefiltert, nicht gezeichnet."
+      },
+      {
+        "heading": "Woher der Look stammt",
+        "body": "Referenzregal: Frank Millers Sin-City-Seiten (Robert Rodriguez' Film von 2005 dehnte die Sprache auf die Leinwand aus), Phil Lord und Christopher Millers Spider-Verse-Trilogie mit ihrer Frame-Skip-Animation und chromatischen Aberration, Sam Raimis Spider-Man-Trilogie für Live-Action-Staging, Quentin Tarantinos Kill-Bill-Kapitelkarten, die Gorillaz-Kunst von Jamie Hewlett (von Jamie selbst gestaltet), Mike Mignolas Hellboy-Negativraum-Inking (verfilmt von Guillermo del Toro), Skottie Youngs expressive Linienführung. Musikvideo-spezifisch: Gorillaz' Feel Good Inc. und On Melancholy Hill, Daft Punks Interstella 5555 unter der Regie von Leiji Matsumoto. Tunees Comic-Book-Modell behandelt Tuschestärke, Halbtondichte und Panel-Layout als separate steuerbare Variablen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Wähle einen Inker als Referenz: „Frank Miller high-contrast ink\", „Mignola negative-space silhouette\", „Spider-Verse multi-density halftone\". Spezifiziere die Palettengröße: „four colors plus black ink line\". Füge Panel-Frame-Anweisungen hinzu, wenn du sie willst: „occasional split-screen panel borders, white gutter\". Lass Sprechblasen weg, wenn dein Video keinen tatsächlichen Dialog hat — frei schwebende SFX-Wörter sind in Ordnung und bringen Bewegung."
+      }
+    ]
+  }
 }

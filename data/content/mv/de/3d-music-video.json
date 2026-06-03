@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines 3D-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres 3D-Musikvideos mit verschiedenen Prompts oder Style-Einstellungen generieren und dann die Version auswählen, die Ihrer Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER 3D-MUSIKVIDEOS",
+    "h2": "Der 3D-Look, der früher eine Renderfarm brauchte",
+    "sections": [
+      {
+        "heading": "Was 3D im Jahr 2026 wirklich bedeutet",
+        "body": "Ein Video als „3D\" zu bezeichnen, deckt ein weites Spektrum ab — Pixars Character-Lighting, Unreal-Engine-5-Umgebungen, Octane-gerenderte Produktshots, Beeples tägliche Surrealismen. Sie teilen ein verräterisches Merkmal: physikalisch basierte Materialien mit echtem Subsurface Scattering, eine Schärfentiefe, die korrekt durch Haar und Glas auflöst, und Schatten, die die Lichtquelle respektieren. Wenn diese drei Dinge nicht stimmen, bemerkt es das Auge, bevor das Gehirn es benennen kann. Alles andere ist Stil obendrauf auf diesem Fundament."
+      },
+      {
+        "heading": "Woher der Look stammt",
+        "body": "Das Referenzregal ist gut etabliert: Phil Lord und Christopher Millers Spider-Man: Into the Spider-Verse für stilisiertes Shading, Tim Millers Sonnie's Edge aus Love, Death & Robots für Character-Realismus, Pete Docters Pixar-Arbeit und die RenderMan-Pipeline für Haut und Stoff, Andrew Stantons Wasser- und Oberflächentradition aus Finding Nemo, Beeples tägliche Cinema-4D-Loops, der Daft Punk Discovery / Interstella 5555 Anime-3D-Crossover, Blender-Cycles-Renderings, die wöchentlich r/blender fluten. Musikvideo-spezifisch: The Weeknds Heartless und Travis Scotts Astroworld-Assets aus der Unreal Engine 5. Tunees 3D-Modell trainiert auf diesem Vokabular, also landen Prompts wie „Octane render, depth of field, soft area light from window left\" dort, wo ein Technical Director sie ausrichten würde."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Nenne die Render-Engine im Prompt, selbst wenn sie metaphorisch ist — „Octane render\", „Unreal Engine 5 Lumen\", „Pixar RenderMan\". Jede zieht andere Konventionen für Lichtabfall und Material-Response heran. Benenne dann dein Lichtsetup explizit: Key, Fill, Rim. Das wegzulassen ist der Grund, warum generiertes 3D oft flach oder plastisch wirkt. Füge „shallow depth of field\" nur hinzu, wenn dein Motiv eine einzelne Sache ist — weitere Szenen brauchen es ausgeschaltet."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "它是否適用於任何音樂類型，還是只限於萬聖節？",
       "a": "Tunee 支援超越萬聖節的廣泛音樂類型和視覺風格。您可以使用同一平台為 Pop、Hip-Hop、Classical 和數十種其他風格生成音樂視頻。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "萬聖節 MV",
+    "h2": "靠自己嚇人、而非借來嚇人的萬聖節視頻",
+    "sections": [
+      {
+        "heading": "為何萬聖節 MV 行得通",
+        "body": "萬聖節是少數音樂視頻屬於經典的一部分的節日——「Thriller」40 年後仍定義著這個類型。這個格式回饋投入：服裝派對、鬼屋穿越、南瓜田、不給糖就搗蛋的路線，全都比未剪輯的原始片段更得益於一段配樂剪輯。10 月 31 日的發文要與成千上萬則競爭，因此 60 秒、具備連貫視覺主軸的 MV 勝過手機亂貼。"
+      },
+      {
+        "heading": "永遠管用的鏡頭",
+        "body": "恐怖片攝影師仰賴一套穩定的工具：南瓜燈光下的低角度前廊、僅靠燭光的硬陰影室內、霧穿過光禿樹林、緩慢推向面具的軌道鏡、過肩走廊鏡。經典不可錯過——John Landis 執導的 Michael Jackson「Thriller」（1983）仍是類型的參考點，另有 Henry Selick 與 Tim Burton 的「The Nightmare Before Christmas」、Wes Craven 的「Scream」開場、Ari Aster 的「Hereditary」廚房一幕、John Carpenter「Halloween」（1978）的 Steadicam 跟蹤、Jordan Peele「Get Out」的下沉之地打光。色彩走 teal-and-orange 用於親子友善版，去飽和、推綠用於真正的恐怖。指定你要哪一檔——派對歡樂或真實毛骨悚然——視覺基調就會鎖定。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "錯誤的做法是要求「萬聖節恐怖場景」——太模糊，你只會得到通用南瓜。改為點名一個具體的恐怖參考（「Sinister」開場、「It Follows」泳池場、「Hereditary」廚房）與一個與你拍攝對應的服裝。Tunee 的模型懂這個類型的視覺語法；給它一份導演式的簡報，它會回傳值得發佈的畫面。"
+      }
+    ]
+  }
 }

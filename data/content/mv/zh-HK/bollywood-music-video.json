@@ -39,5 +39,23 @@
       "q": "我能否生成多個寶萊塢音樂視頻版本進行比較？",
       "a": "可以。您可以使用不同的提示或風格設定生成多個寶萊塢音樂視頻變體，然後選擇最符合您視野的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Bollywood",
+    "h2": "Bollywood MV 依賴色彩、編舞與毫不歉疚的規模",
+    "sections": [
+      {
+        "heading": "Bollywood 的視覺面貌",
+        "body": "Bollywood 音樂視頻的慣例是世界上最極繁主義的，而且實至名歸。視覺特徵：完美陣形的大型群舞、主歌間的換裝、歌曲中途的場景跳接（Mumbai 街道、瑞士阿爾卑斯、宮殿庭院）、橫跨整個色譜的高飽和（不容低調調色），以及配唱歌手的人聲蓋在演員對嘴上這個被廣為接受的慣例。攝影機永遠在運動——吊臂、軌道、Steadicam——從不靜止。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "參考是奠基性的：Aditya Chopra 執導的「Dilwale Dulhania Le Jayenge」中 Shah Rukh Khan 的芥菜花田段落、Sanjay Leela Bhansali 在「Padmaavat」與「Bajirao Mastani」中的畫意構圖、SS Rajamouli「RRR」中的「Naatu Naatu」、AR Rahman 跨「Slumdog Millionaire」與「Rockstar」的作品、Farah Khan 的編舞，以及 Santosh Sivan 的攝影。當代參考點：Pritam 為「Brahmastra」譜寫的曲、「Pathaan」與「Jawan」的主題曲、Vishal-Shekhar 在「Pathaan」的推廣音樂。Tunee 的 Bollywood 模型熟悉陣形編舞、以色彩飽和度為主要工具，以及場景拼貼式剪輯作為一個特色。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "別壓抑調色盤——Bollywood 會在「品味化的調色」下崩潰。取而代之，為每個鏡頭命名三個飽和色塊（「番紅黃的紗麗、深青色的天、洋紅牆」）與一個場景原型（芥菜花田、宮殿庭院、Mumbai 季風街、瑞士草原）。「把它調低調一點」的直覺會產出 Bollywood 鄰近、而非 Bollywood 本體的東西。"
+      }
+    ]
+  }
 }

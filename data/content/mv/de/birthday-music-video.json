@@ -39,5 +39,23 @@
       "q": "Wie füge ich meinem Geburtstags-Musikvideo Lyrics oder Untertitel hinzu?",
       "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitel-Overlays. Geben Sie einfach Ihre Lyrics ein, wählen Sie einen Textstil, und die KI synchronisiert sie automatisch mit Ihrem Geburtstags-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS GEBURTSTAGS-MV",
+    "h2": "Ein Geburtstagsvideo, das nicht nur aus wackeligen Kerzenaufnahmen besteht",
+    "sections": [
+      {
+        "heading": "Warum sich ein Geburtstags-MV überhaupt lohnt",
+        "body": "Das Standard-Geburtstagsvideo sind 47 Sekunden, in denen jemand das Handy quer hält, während der Raum schief mitsingt. Nützlich für den Moment, danach nutzlos. Ein vertonter 60-Sekunden-MV, geschnitten auf den Lieblingssong der Geburtstagsperson, reicht viel weiter — er wird auf der Heimfahrt nachgespielt, am nächsten Morgen an deren Pinnwand gepostet und beim nächsten runden Geburtstag als Referenzpunkt wieder herausgeholt."
+      },
+      {
+        "heading": "Aufnahmen, die immer funktionieren",
+        "body": "Event-Videografen kennen den Kanon: das Kerzen-Close-up mit dem Wunsch-Gesicht kurz vorm Auspusten, der Over-the-Shoulder-Reveal der Torte, das Weitwinkel der singenden Freunde, die Reaktion beim Auspacken des Geschenks, das Anstoßen mit den Gläsern. Die kulturellen Bezugspunkte sind global — Marilyn Monroes Framing aus „Happy Birthday Mr. President\" von 1962, Stevie Wonders Happy-Birthday-Auftritte für die MLK-Day-Kampagne, das virale Kinder-Tortenmatsch-Format auf YouTube, Pixars UP-Geburtstagsballon-Bildsprache unter der Regie von Pete Docter. Für runde Geburtstage — 1, 18, 30, 50 — schlägt eine Foto-Aging-Montage derselben Person über Jahre hinweg jede Einzelaufnahme, der Linklater-Boyhood-Ansatz komprimiert auf 90 Sekunden. Erwähne diese Momente in deinem Prompt, und Tunee setzt sich darum herum zusammen."
+      },
+      {
+        "heading": "Macht es zum Geschenk",
+        "body": "Das beste Geburtstags-MV wird nicht auf der Party gezeigt — es wird der Person drei Tage später geschickt, wenn der Rausch verflogen und die Nachrichten verstummt sind. Tunee exportiert vertikal für die Story, quadratisch für den Post und im Breitformat für den Familien-Thread — alles aus einer Generierung."
+      }
+    ]
+  }
 }

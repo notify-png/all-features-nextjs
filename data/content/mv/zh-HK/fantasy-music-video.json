@@ -39,5 +39,23 @@
       "q": "我可以生成多個幻想音樂影片版本進行比較嗎？",
       "a": "可以。您可以使用不同的提示或風格設定生成幾個幻想音樂影片版本，然後選擇最適合您願景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於奇幻 MV",
+    "h2": "配得上被拿來與 LOTR 相比的奇幻視頻",
+    "sections": [
+      {
+        "heading": "奇幻所要求的條件",
+        "body": "奇幻視頻的成敗取決於風景與規模。「The Lord of the Rings」以一個廣角賣出整個世界——魔戒遠征隊單列走過山脊，被山勢壓得渺小。法則：每個建立鏡頭都需要一個人形作為比例尺，環境必須承擔大部分的敘事。手繪 matte painting 的景深、消退為霧藍的大氣透視、自然的服裝材質（羊毛、皮革、鍛打金屬，而非塑膠感的盔甲）。比例感錯了，畫面就會讀成 cosplay。"
+      },
+      {
+        "heading": "視覺語彙的源頭",
+        "body": "視覺經典：Peter Jackson 的「The Lord of the Rings」三部曲與 John Howe 及 Alan Lee 的概念設計、Guillermo del Toro 的「Pan's Labyrinth」負責更黑暗的童話打光、HBO 的「Game of Thrones」（趕工之前的早期）、CD Projekt Red 改編自 Andrzej Sapkowski 的「The Witcher 3」、Tarsem Singh 的「The Fall」負責飽和色彩、Hayao Miyazaki 的「Princess Mononoke」負責畫意那一端、Frank Frazetta 的 Conan 封面負責更重金屬的一端。音樂視頻相鄰：AG Rojas 執導 Florence + the Machine 的「Hunger」。Tunee 的奇幻模型把這些參考視為各自獨立的方言——「Howe 風格 matte painting」相對於「Frazetta 低角度戰士」相對於「Ghibli 森林精靈」會解析為截然不同的輸出。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "即便以風景為主，也永遠加入人形作為比例尺：「山脊上的孤身騎手、山巒背景、大氣透視」。指定光源時間並標明方位：「黃金時刻、太陽在攝影機右側、長影向左拉」。材質的具體性很重要——「上油皮革、拉絲鋼、未染色羊毛」勝過「中世紀服裝」。避用形容詞「epic」；改為描述比例關係（「人形佔畫面下方十分之一」）。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical Bollywood para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical Bollywood utilizando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE BOLLYWOOD",
+    "h2": "Los MVs de Bollywood corren con color, coreografía y escala sin disculpas",
+    "sections": [
+      {
+        "heading": "Cómo se ve Bollywood",
+        "body": "Las convenciones del video musical de Bollywood son las más maximalistas del mundo y se lo ganan a pulso. Las firmas: gran coreografía grupal en formación perfecta, cambios de vestuario entre versos, saltos de locación a mitad de canción (calle de Mumbai a los Alpes suizos a patio de palacio), color saturado en todo el espectro (nada de paletas apagadas) y la voz del playback singer sobre el lip-sync de un actor como convención aceptada. La cámara siempre está en movimiento — grúa, dolly, Steadicam — y nunca se queda quieta."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Las referencias son fundacionales: la secuencia del campo de mostaza en Dilwale Dulhania Le Jayenge de Shah Rukh Khan dirigida por Aditya Chopra, el encuadre pictórico de Sanjay Leela Bhansali en Padmaavat y Bajirao Mastani, 'Naatu Naatu' de RRR de SS Rajamouli, el trabajo de AR Rahman en Slumdog Millionaire y Rockstar, la coreografía de Farah Khan y la cinematografía de Santosh Sivan. Referencias modernas: las composiciones de Pritam para Brahmastra, los títulos de Pathaan y Jawan, el rollout de Vishal-Shekhar para Pathaan. El modelo Bollywood de Tunee conoce la coreografía en formación, la saturación de color como herramienta primaria y la edición de collage de locaciones como virtud."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "No restrinjas la paleta — Bollywood se rompe bajo una corrección de color de buen gusto. En cambio, nombra tres bloques de color saturado por plano ('saris amarillo azafrán, cielo turquesa profundo, pared magenta') y un arquetipo de locación (campo de mostaza, patio de palacio, calle de Mumbai en monzón, pradera suiza). El instinto de 'bajarle el tono' produce algo que se lee como Bollywood-adyacente en vez de Bollywood."
+      }
+    ]
+  }
 }

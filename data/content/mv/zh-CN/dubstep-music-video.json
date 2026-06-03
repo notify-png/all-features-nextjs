@@ -39,5 +39,23 @@
       "q": "我如何向Dubstep音乐视频添加歌词或字幕？",
       "a": "Tunee提供内置的歌词和字幕叠加选项。只需输入您的歌词并选择文本样式，AI将自动将其与您的Dubstep音乐视频同步。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 DUBSTEP",
+    "h2": "Dubstep MV 围着 drop 搭建——一切都为低音让路",
+    "sections": [
+      {
+        "heading": "dubstep 长什么样",
+        "body": "Dubstep 影像围绕一件事组织：drop。之前的一切是 build-up，之后的一切是 reaction。视觉标识：与 wobble 同步的 glitch 与 datamosh、drop 时的硬切（绝不是淡入淡出）、峰值频率上的强烈镜头畸变、高饱和霓虹（电蓝、毒绿、紫外）、频闪 insert、抽帧、数字腐烂质感。真实世界的镜头通常被叠加抽象失真，而不是干净呈现。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "参考点：Skrillex 由 Tony Truand 执导的『First of the Year (Equinox)』——它定义了电影感与 glitch 杂交的模板；与 Sirah 合作的『Bangarang』；Excision 的 Lost Lands 节直播视觉——确立了制作体量的标杆；Virtual Self 的『Ghost Voices』推广；Zomboy 的动画片段；Datsik 的舞台设计影片；以及 Rusko 的『Woo Boost』。这条血脉可以一路追回 Chris Cunningham 为 Aphex Twin 操刀的视频（『Come to Daddy』、『Windowlicker』）和 Squarepusher——这个流派与数字腐烂的关系，比 dubstep 本身还要早。Tunee 的 dubstep 模型能处理硬切与效果堆叠。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "把提示词围着 drop 写，而不是围着整首歌。描述 drop 前的画面（『空仓库的静止全景，lo-fi 调色』）、drop 这件事（『硬切到 RGB-split、datamosh 帧、strobe 叠层』），以及 drop 后的延续。Tunee 会把剪辑同步到节拍——只要你给出 tempo 和 drop 位置，切点就会落在低音落下的地方。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale de couple à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale de couple en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LA MV DE COUPLE",
+    "h2": "Une vidéo d'anniversaire qui ne se lit pas comme un diaporama",
+    "sections": [
+      {
+        "heading": "Pourquoi une MV de couple fonctionne",
+        "body": "La plupart des vidéos de relation sont soit trop longues (le film de mariage complet), soit trop courtes (un seul clip Instagram). La MV d'anniversaire ou de jalon relationnel se situe exactement entre les deux — 60 à 90 secondes, mise en musique sur le morceau qui passait à un premier rendez-vous, un road trip ou la danse de mariage. C'est le format qui s'envoie en privé plutôt que de se publier, et celui que les partenaires regardent vraiment à nouveau à la même date l'année suivante."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les vidéastes de couple reviennent aux mêmes scènes : les mains entrelacées sur un volant, un partenaire qui rit de quelque chose hors champ, le plan de dos qui s'éloigne, le matin avec les mugs assortis, les retrouvailles à l'aéroport. Le canon culturel s'est bâti sur le format vlog d'anniversaire popularisé sur YouTube, les vidéos virales de demande en mariage comme Lip Dub Proposal d'Isaac Lamb (2012), les films romantiques de Noël de Hallmark Channel, Coup de foudre à Notting Hill et Love Actually de Richard Curtis comme grammaire de référence, plus l'esthétique orange chaud de Her de Spike Jonze, photographiée par Hoyte van Hoytema. Les images téléphone informelles l'emportent sur les séances posées — les moments maladroits, peu flatteurs, réels vieillissent bien. Dites à Tunee lesquels de ces trois moments comptent le plus et la MV s'organise autour."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "L'usage classique est le matin de l'anniversaire — un simple message avec la MV en pièce jointe, sans légende nécessaire. Tunee sort en vertical pour l'envoi, en 16:9 pour la projection au salon, et en carré pour les rares fois où cela atterrit dans un feed, le tout depuis un seul render."
+      }
+    ]
+  }
 }

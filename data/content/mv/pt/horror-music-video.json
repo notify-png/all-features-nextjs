@@ -39,5 +39,23 @@
       "q": "Suporta exportação de videoclipes de horror em resolução 4K?",
       "a": "Absolutamente. Tunee exporta videoclipes de horror em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV HORROR",
+    "h2": "Horror funciona pelo que você não mostra",
+    "sections": [
+      {
+        "heading": "O que o vídeo de horror exige",
+        "body": "Horror é o gênero em que a contenção supera o espetáculo. Os frames que assustam as pessoas são em sua maioria vazios: um corredor sem luz com uma única lâmpada prática no fim, uma figura distante demais para ler com clareza, um plano aberto sustentado por uma batida a mais. Body horror e gore são ferramentas, não o gênero. As regras visuais: sombra profunda com detalhe esmagado em preto, câmera na mão ou travada (nunca tracking suave), correção de cor fria ou amarelo-esverdeada doentia, grão que sugira stock degradado ou footage de vigilância."
+      },
+      {
+        "heading": "De onde vem o visual",
+        "body": "Estante de referência: o catálogo de horror da A24 — Hereditary e Midsommar de Ari Aster com seus planos abertos simétricos, The Witch (VVitch) e The Lighthouse de Robert Eggers para enquadramentos à luz de vela em peça de época, Get Out e Nope de Jordan Peele para enquadramento de horror satírico, a tradição found-footage de Blair Witch de Daniel Myrick, a quietude de Park Chan-wook em Stoker. Videoclipes: Come to Daddy do Aphex Twin por Chris Cunningham, Closer do Nine Inch Nails por Mark Romanek, Anvil do Lorn. Referências de jogos: o remake de Resident Evil 2 da Capcom, a neblina de Silent Hill 2 da Konami. O modelo horror do Tunee é treinado em espaço negativo e enquadramento de slow-burn, não em sobrecarga de jump-scare."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Especifique o que NÃO está no quadro: 'uma figura no fundo profundo, sem sujeito em primeiro plano, meio do quadro vazio'. Trave a câmera: 'aberto travado, sem movimento' ou 'handheld trêmulo, frame rate baixo'. A fonte de luz importa — 'única lâmpada prática, de cima para baixo, sombra dura' bate 'escuro e assustador'. Adicione stock de filme: 'grão de 16mm, leve weave de gate' para a sensação de horror analógico. Segure planos mais tempo do que pareça confortável; horror precisa da pausa."
+      }
+    ]
+  }
 }

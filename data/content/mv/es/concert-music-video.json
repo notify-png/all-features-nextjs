@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de concierto para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de concierto usando indicaciones diferentes o configuraciones de estilo, luego selecciona la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV DE CONCIERTO",
+    "h2": "Los videos de concierto suben o bajan por el corte",
+    "sections": [
+      {
+        "heading": "Qué es un video de concierto",
+        "body": "El MV de concierto es un formato específico: performance en vivo multicámara, cortada contra la canción, intercalando entre planos generales del escenario, cobertura cerrada del artista, reacción del público y planos heroicos del rig de luces. La restricción de género definitoria es que la música es la grabación real y el visual tiene que igualar su energía beat por beat. El corte lo es todo — la mayoría de los videos de concierto que se sienten planos están bien filmados y mal editados, sosteniendo planos generales durante los coros donde el artista necesita estar en cerrado."
+      },
+      {
+        "heading": "Cuándo usarlo",
+        "body": "El MV de concierto es el formato correcto cuando la presencia en vivo del artista es la marca (Tame Impala, Phoebe Bridgers, Beyoncé), cuando se lanza una película de gira, cuando un venue o festival es por sí mismo un reclamo (el Pyramid Stage de Glastonbury, Red Rocks, la serie Tiny Desk de NPR). El canon de directores es corto: Jonathan Demme definió la forma con Stop Making Sense de Talking Heads (1984), Sam Wrench dirigió la película teatral de la Eras Tour de Taylor Swift, Ed Burke dirigió Homecoming de Beyoncé para Netflix, Spike Lee filmó el metraje de Amazing Grace de Aretha. Ejemplos recientes: Live at the O2 de Billie Eilish, cualquier cosa que Boiler Room haya filmado en la última década. También es el formato más usado en los fancams de K-pop."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica la escala del venue y el estilo de iluminación: 'club pequeño, un solo follow-spot, sombra profunda alrededor del público' frente a 'escala de arena, pared LED completa detrás del artista, láseres en haze'. Nombra la cuenta de cámaras y los ángulos: 'cobertura a tres cámaras: general del escenario, cerrado del rostro del artista, manos arriba del público'. Añade 'corte sobre los hits de caja, cada 1-2 segundos en el coro, sostenidos más largos en el verso' para el ritmo de edición. Tunee puede generar el ritmo del corte si lo describes."
+      }
+    ]
+  }
 }

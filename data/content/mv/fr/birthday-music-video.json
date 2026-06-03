@@ -39,5 +39,23 @@
       "q": "Comment puis-je ajouter des paroles ou des sous-titres à ma vidéoclip d'anniversaire?",
       "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre vidéoclip d'anniversaire."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LA MV D'ANNIVERSAIRE",
+    "h2": "Une vidéo d'anniversaire qui n'est pas qu'un plan tremblé sur des bougies",
+    "sections": [
+      {
+        "heading": "Pourquoi se donner la peine d'une MV d'anniversaire",
+        "body": "La vidéo d'anniversaire standard, c'est 47 secondes de quelqu'un qui tient son téléphone à l'horizontale pendant qu'on chante faux dans la pièce. Utile sur le moment, inutile ensuite. Une MV de 60 secondes montée sur la vraie chanson préférée du jubilaire voyage beaucoup plus loin — elle finit rejouée sur le trajet du retour, postée sur son mur le lendemain matin, et ressortie comme repère lors du prochain anniversaire marquant."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les vidéastes d'événements connaissent le canon : le gros plan de la bougie avec la wish-face juste avant le souffle, la révélation par-dessus l'épaule du gâteau, le plan large des amis qui chantent, la réaction au déballage du cadeau, le tintement des coupes au toast. Les références culturelles sont mondiales — le cadrage de Marilyn Monroe en 1962 pour « Happy Birthday Mr. President », les performances de « Happy Birthday » de Stevie Wonder pour la campagne du MLK Day, le format viral du child-cake-smash sur YouTube, l'imagerie ballons d'anniversaire de Là-haut de Pixar réalisé par Pete Docter. Pour les anniversaires marquants — 1, 18, 30, 50 ans — un montage photo de vieillissement de la même personne sur des années frappe plus fort que n'importe quel plan unique, l'approche Boyhood de Linklater compressée en 90 secondes. Mentionnez ces moments dans votre prompt et Tunee s'organise autour."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "La meilleure MV d'anniversaire ne se montre pas à la fête — elle s'envoie à la personne trois jours plus tard, quand l'euphorie est retombée et que les messages se sont taris. Tunee exporte verticalement pour la Story, en carré pour la publication, et en 16:9 pour le fil familial, le tout depuis un seul render."
+      }
+    ]
+  }
 }

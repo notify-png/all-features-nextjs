@@ -39,5 +39,23 @@
       "q": "Могу ли я создавать несколько версий видеоклипа фэнтези-музыки для сравнения?",
       "a": "Да. Вы можете создавать несколько вариантов своего видеоклипа фэнтези-музыки, используя разные подсказки или параметры стиля, а затем выбрать версию, которая лучше всего соответствует вашему видению."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "О FANTASY MV",
+    "h2": "Фэнтези-видео, которое заслуживает сравнения с LOTR",
+    "sections": [
+      {
+        "heading": "Чего требует fantasy",
+        "body": "Фэнтези-видео живёт и умирает за счёт ландшафта и масштаба. The Lord of the Rings продал свой мир одним общим кадром — Братство, идущее цепочкой по гребню, крошечное на фоне горы. Правило: в каждом establishing-кадре нужна человеческая фигура для масштаба, и большую часть рассказа должна нести среда. Глубина в духе matte-painting, атмосферная перспектива, уходящая в туманно-синее, натуралистичные материалы костюма (шерсть, кожа, кованый металл, а не пластиково-выглядящий доспех). Промахнитесь с масштабом — и это считается косплеем."
+      },
+      {
+        "heading": "Откуда берётся этот лук",
+        "body": "Визуальный канон: трилогия LOTR Peter Jackson с концепт-артом John Howe и Alan Lee; Pan's Labyrinth Guillermo del Toro за более тёмное сказочное освещение; Game of Thrones на HBO (ранние сезоны, до спешки); The Witcher 3 от CD Projekt Red по Andrzej Sapkowski; The Fall Tarsem Singh за насыщенный цвет; Princess Mononoke Hayao Miyazaki за живописный край; обложки Conan у Frank Frazetta за более тяжёлый metal-край. Смежное в клипах: Hunger у Florence + the Machine в постановке AG Rojas. Fantasy-модель Tunee трактует эти референсы как разные диалекты — «Howe-style matte painting» против «Frazetta low-angle warrior» против «Ghibli forest spirit» приводят к явно разным выдачам."
+      },
+      {
+        "heading": "Подсказка по промптингу для Tunee",
+        "body": "Всегда включайте человеческую фигуру для масштаба даже в ландшафт-first-промптах: «lone rider on ridge, mountain backdrop, atmospheric perspective». Указывайте время суток с кардинальным направлением света: «golden hour, sun from camera-right, long shadows pulling left». Конкретика материалов имеет значение — «oiled leather, brushed steel, undyed wool» бьёт «medieval clothes». Избегайте «epic» как прилагательного; описывайте отношение масштабов («figure occupies bottom-tenth of frame»)."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "它是否支持以 4K 分辨率輸出恐怖音樂視頻？",
       "a": "絕對支持。Tunee 可將恐怖音樂視頻輸出至高達 4K 分辨率，適合 YouTube、流媒體平台和大屏幕顯示。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於恐怖 MV",
+    "h2": "恐怖靠你「不展示」的部分起作用",
+    "sections": [
+      {
+        "heading": "恐怖視頻要求的條件",
+        "body": "恐怖是「克制勝過奇觀」的類型。真正嚇到人的畫面大多是空的：盡頭有單一實用光源的未照亮走廊、距離太遠看不清的人影、停留一拍嫌長的廣角。身體恐怖與血腥是工具，不是類型本身。視覺法則：細節壓黑的深陰影、手持或定位（絕不用流暢追蹤）、調色偏冷或病態黃綠、暗示劣化膠片或監視畫面的顆粒。"
+      },
+      {
+        "heading": "視覺語彙的源頭",
+        "body": "參考書架：A24 的恐怖片目錄——Ari Aster 的「Hereditary」與「Midsommar」的對稱廣角、Robert Eggers 的「The Witch」（VVitch）與「The Lighthouse」的燭光時代感、Jordan Peele 的「Get Out」與「Nope」帶諷刺的構圖、Daniel Myrick 的「Blair Witch」偽紀錄片傳統、Park Chan-wook 在「Stoker」中的靜止感。音樂視頻：Chris Cunningham 為 Aphex Twin 拍的「Come to Daddy」、Mark Romanek 為 Nine Inch Nails 拍的「Closer」、Lorn 的「Anvil」。遊戲參考：Capcom 的「Resident Evil 2」重製版、Konami 的「Silent Hill 2」濃霧。Tunee 的恐怖模型訓練於負空間與慢燃構圖，而非堆滿 jump scare。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "指定「不在畫面裡」的東西：「一人形在深背景、無前景主體、空白中景」。鎖定攝影機：「定位廣角、無運動」或「手持晃動、低幀率」。光源很重要——「單顆實用燈泡、頂光、硬陰影」勝過「黑暗嚇人」。加上膠片型號：「16mm 顆粒、輕微片門搖晃」以營造類比恐怖感。把鏡頭停得比舒服更久；恐怖需要那個停頓。"
+      }
+    ]
+  }
 }

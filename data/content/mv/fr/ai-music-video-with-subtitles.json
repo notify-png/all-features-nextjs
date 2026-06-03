@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à mon clip musical avec sous-titres ?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera à votre clip musical avec sous-titres automatiquement."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES MV AVEC SOUS-TITRES",
+    "h2": "Les sous-titres incrustés sont devenus le minimum, pas un ajout d'accessibilité",
+    "sections": [
+      {
+        "heading": "Pourquoi les sous-titres sont devenus la norme",
+        "body": "Les sous-titres incrustés sur une vidéo musicale ne sont plus une option d'accessibilité — c'est la valeur par défaut pour toute sortie qui espère exister sur le social. Plus de quatre-vingts pour cent des vidéos TikTok et Reels sont visionnées en sourdine dans le feed. Les sous-titres augmentent mesurablement le taux de complétion, le taux d'enregistrement et le taux de partage. Le format sert aussi l'accessibilité (spectateurs sourds et malentendants, locuteurs non-anglophones utilisant les paroles pour suivre), qui est la raison d'être originelle des sous-titres. L'intersection en fait un must-have, pas un nice-to-have."
+      },
+      {
+        "heading": "Quand l'utiliser",
+        "body": "La MV sous-titrée est la bonne option pour chaque sortie social-first, pour les morceaux centrés sur les paroles où les mots sont le hook, pour les sorties non anglophones visant une audience mondiale, pour la musique éducative ou portée par un message (chansons pour enfants, chansons de protestation, rap narratif), et pour toute sortie où l'artiste veut l'accessibilité intégrée dès le départ. La lignée : « Bohemian Rhapsody » de Queen par Bruce Gowers (1975) comme proto-lyric-overlay video, « Subterranean Homesick Blues » de Bob Dylan (1965) réalisé par D.A. Pennebaker, l'organisme de normalisation des sous-titres de la BBC (référence W3C TTML), les SDH (sous-titres pour sourds et malentendants) par défaut chez Netflix dans une logique d'accessibilité-first. SM Entertainment et HYBE utilisent les sous-titres incrustés pour les fans internationaux de K-pop depuis une décennie. Le hip-hop avec des jeux de mots denses tire un bénéfice particulier des sous-titres à chaque sortie — les bars sont trop rapides pour être saisis à la première écoute."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Traitez les sous-titres comme un élément de design, pas comme une simple superposition : « sous-titres au tiers inférieur, Inter Bold 32pt, texte blanc avec drop shadow subtile, une ligne à la fois, retour à la ligne sur frontière de syntagme ». Spécifiez l'alignement temporel : « sous-titres apparaissant à la syllabe, pas en fin de syntagme ». Choisissez une couleur de sous-titre qui tient à travers les variations d'éclairage de la vidéo — blanc avec ombre bat texte coloré à tous les coups. Tunee génère automatiquement des sous-titres alignés temporellement à partir des paroles fournies, de sorte que l'incrustation épouse précisément le phrasé vocal."
+      }
+    ]
+  }
 }

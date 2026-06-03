@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à ma vidéoclip avec storyboard IA ?",
       "a": "Tunee propose des options intégrées de superposition de paroles et sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéoclip avec storyboard IA."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "STORYBOARD IA",
+    "h2": "Le storyboard, c'est là que se réalise vraiment le clip",
+    "sections": [
+      {
+        "heading": "Pourquoi les réalisateurs storyboardent avant de tourner",
+        "body": "Sur un vrai tournage de MV, le storyboard est le document le plus coûteux du projet — c'est ce que le réalisateur, le chef opérateur et le label valident avant qu'un seul projecteur ne soit rigging. Sautez cette étape et vous brûlez des journées de tournage sur des plans qui ne se montent pas ensemble. Les pipelines de MV par IA qui passent directement du prompt au render sautent cette étape aussi, et c'est pour cela que tant d'entre eux produisent quatre jolis clips qui ne racontent aucune histoire. Une passe de storyboard force la décision : de quoi parle cette vidéo, plan par plan."
+      },
+      {
+        "heading": "Ce que montre la vue storyboard",
+        "body": "Dans Tunee, le storyboard n'est pas un diaporama de stills — c'est une shot list temporisée. Chaque vignette possède une durée verrouillée sur la grille rythmique du morceau, une description en une ligne (plan large, moyen, serré, insert), un tag de personnage ou de lieu, et un aperçu thumbnail. Vous pouvez réorganiser, supprimer, régénérer ou réécrire un plan unique avant de vous engager dans un render complet. C'est l'étape peu coûteuse où vous découvrez que le refrain réclame un plan large, et non un autre gros plan."
+      },
+      {
+        "heading": "Comment raisonne l'agent storyboard de Tunee",
+        "body": "Sage, l'agent directeur narratif, ébauche le board à partir de trois entrées : la carte structurelle de l'analyste audio (couplet / pré / refrain / pont), la fiche personnages et lieux de Nova, et les paroles si vous les fournissez. Il applique des règles éditoriales basiques — ne pas couper deux fois sur le même axe, garder le plan le plus large pour le moment le plus fort, tenir un gros plan sur les lignes vocales émotionnelles — puis vous tend un board avec lequel vous pouvez argumenter. C'est dans cette discussion que la vidéo se réalise vraiment."
+      }
+    ]
+  }
 }

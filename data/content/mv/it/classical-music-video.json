@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale Classico?",
       "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi, scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale Classico."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LA CLASSICA",
+    "h2": "Gli MV classici funzionano quando lasciano che l'esecuzione porti l'inquadratura",
+    "sections": [
+      {
+        "heading": "Come si presenta la classica",
+        "body": "Il video musicale classico ha una grammatica tranquilla e consolidata. I film di esecuzione sono girati in sale da concerto con tre o cinque camere bloccate: ampia della sala, mid sul direttore, primi piani sui primi musicisti, mani in close-up sul solista. I video basati in studio si orientano verso set minimalisti — ritrattistica a singolo soggetto contro sfondi neutri, luce naturale, lenti push-in. La color grade è trattenuta, spesso quasi neutra con un leggero bias caldo o freddo. Il mezzo rispetta il ritmo della musica invece di imporre il montaggio pop."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "I punti di riferimento includono i film del Bach Project di Yo-Yo Ma, i video recital di Hilary Hahn, le sessioni Goldberg Variations su Disney+ di Lang Lang, i ritratti d'artista moderni di Deutsche Grammophon, le visual dell'installazione Sleep di Max Richter (con la regista Natalie Johns), gli stream della Digital Concert Hall dei Berliner Philharmoniker guidati da Andris Nelsons, e le livestream del lockdown di Igor Levit. Lavori documentari come i film di Daniel Barenboim sulla West-Eastern Divan e i recital registrati di Daniil Trifonov definiscono l'estremità seria della forma. Il modello classico di Tunee tratta lo strumento e le mani come soggetto primario, non come sfondo."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Nomina la famiglia dello strumento, l'acustica della sala e la sorgente luminosa. 'Violoncello solo in una sala da recital in legno, singolo faretto dall'alto, lento push-in su mani e tastiera, nessun pubblico' funziona; 'video di esecuzione di musica classica' produce qualcosa di generico. Se vuoi visualizzazione della partitura invece dell'esecuzione, dillo esplicitamente — i due formati non si assomigliano per nulla."
+      }
+    ]
+  }
 }

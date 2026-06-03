@@ -39,5 +39,23 @@
       "q": "모든 음악 장르에 작동하나요, 아니면 블루스만 가능한가요?",
       "a": "Tunee는 블루스 이외의 광범위한 장르와 시각적 스타일을 지원합니다. 동일한 플랫폼을 사용하여 팝, 힙합, 클래식 및 수십 개의 다른 스타일로 뮤직비디오를 생성할 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "블루스 이야기",
+    "h2": "블루스 MV는 텅스텐 조명과 손때 묻은 악기 속에 살고 있습니다",
+    "sections": [
+      {
+        "heading": "블루스가 보이는 방식",
+        "body": "블루스 영상에는 정착된 미학이 있습니다 — 청자층이 이미 정착되어 있고, 누구도 형식을 재발명하지 않기 때문입니다. 이것이야말로 핵심입니다. 비주얼 정전은 다음과 같습니다 — 단단한 그림자를 만드는 텅스텐 조명의 클럽 인테리어, 지판을 누르는 손의 클로즈업, 스틸 기타의 슬라이드, 단일 키 라이트 아래 이마에 맺힌 땀, 공중의 연기(실제든 헤이저든), 배경에 부드럽게 빛나는 진공관 앰프까지. 색감은 앰버와 크러시드 블랙으로 밀고, 프레이밍은 연주자를 잘라내기보다 존중합니다."
+      },
+      {
+        "heading": "실제로 통하는 레퍼런스",
+        "body": "레퍼런스는 직접적이고 이름이 명확합니다 — B.B. King의 후반기 라이브 영상, Buddy Guy's Legends 클럽 푸티지, Gary Clark Jr.의 'Bright Lights'와 'When My Train Pulls In', Joe Bonamassa의 Royal Albert Hall 필름, Christone 'Kingfish' Ingram의 최근 클립, Jack White의 Third Man Records 라이브 캡처까지. 디렉터 Wim Wenders의 'The Soul of a Man'과 Martin Scorsese의 PBS 시리즈 'The Blues'는 진지한 블루스 영화 제작의 시각 템플릿을 정립했습니다 — 작은 베뉴, 진짜 장비, 손과 악기를 주피사체로 두는 방식. Tunee의 블루스 모델은 이 계보로 학습되어 있습니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "장르 이름이 아니라 장비와 베뉴 유형을 명명하세요. 'Vintage Gibson ES-335 through a tweed Fender amp, smoke-filled basement club, single bare bulb overhead, hands close-up on bend'는 신뢰감 있는 프레임을 만들고, 'blues musician playing guitar'는 스톡 사진을 만듭니다. 블루스 청자는 장비가 틀리면 알아챕니다 — 그러니 구체적으로 적으세요."
+      }
+    ]
+  }
 }

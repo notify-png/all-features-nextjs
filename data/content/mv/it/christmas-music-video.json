@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali natalizi di Tunee funziona sui dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e dispositivi mobili, quindi puoi creare video musicali natalizi da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV NATALIZIO",
+    "h2": "Un video di Natale che sopravvive alla carta da regalo",
+    "sections": [
+      {
+        "heading": "Perché vale la pena fare un MV natalizio",
+        "body": "Il video di famiglia per Natale è di solito un home movie di 20 minuti che nessuno finisce o una raffica di clip non connesse dal telefono. Un MV tagliato su una singola traccia natalizia — Mariah, Bublé, Wham!, o la carola che tua nonna cantava sempre — dà alla giornata una spina dorsale. Diventa l'artefatto che tirerai fuori il dicembre successivo per ricordare chi c'era a tavola quest'anno, l'anno in cui qualcuno si è fidanzato al dessert, o l'anno in cui il cane ha aperto un regalo per primo."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "Il Natale ha il canone visivo più forte di qualsiasi festività: luci dell'albero portate fuori fuoco in bokeh, la rivelazione della calza la mattina, le mani-che-passano-un-piatto attraverso il tavolo, la neve-attraverso-la-finestra statica, il close-up della carta da regalo. Lo scaffale dei riferimenti è profondo - Mariah Carey ha co-diretto il suo video del 1994 All I Want for Christmas Is You con AJ Brown, Last Christmas dei Wham! è stato girato da Andy Morahan a Saas-Fee, la campagna Polar Bears di Haddon Sundblom per Coca-Cola ha definito la palette globale rosso-e-bianco, le pubblicità natalizie di John Lewis da Adam & Eve DDB (lo spot di Elton John 'Some Things Last Longer Than Love') hanno fissato l'asticella dei tear-jerker. Interni al tungsteno caldo contro esterni al blu freddo è lo sguardo su cui si appoggia ogni film del Hallmark Channel. Specifica queste due temperature di colore e il tuo MV si leggerà come Natale dal primo fotogramma."
+      },
+      {
+        "heading": "Rendilo il regalo",
+        "body": "Invialo come il tuo biglietto di Capodanno. Un MV di 60 secondi in un messaggio di testo atterra più forte di un biglietto cartaceo con una foto stock. Tunee renderizza 9:16 per il rewatch sulla Story, 16:9 per la smart TV al raduno del prossimo anno, e 1:1 per il post — una generazione copre tutte e tre."
+      }
+    ]
+  }
 }

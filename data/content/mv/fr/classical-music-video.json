@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo de musique classique ?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement à votre vidéo de musique classique."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU CLASSIQUE",
+    "h2": "Les MV classiques fonctionnent lorsqu'elles laissent la performance porter le cadre",
+    "sections": [
+      {
+        "heading": "À quoi ressemble la musique classique",
+        "body": "La vidéo de musique classique possède une grammaire calme et installée. Les captations en salle de concert sont tournées avec trois à cinq caméras fixes : large de la salle, mi-plan sur le chef, gros plan sur les pupitres principaux, gros plan des mains du soliste. Les vidéos en studio penchent vers des décors minimalistes — portrait à sujet unique sur fond neutre, lumière naturelle, push-in lent. L'étalonnage est retenu, souvent quasi neutre avec une légère inclinaison chaude ou froide. Le médium respecte le tempo de la musique au lieu d'imposer un montage pop."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "Les références incluent les films du Bach Project de Yo-Yo Ma, les vidéos de récital d'Hilary Hahn, les sessions Disney+ des Variations Goldberg de Lang Lang, les portraits d'artistes contemporains de Deutsche Grammophon, les visuels autour de l'installation Sleep de Max Richter (avec la réalisatrice Natalie Johns), les streams de la Digital Concert Hall du Berliner Philharmoniker dirigée par Andris Nelsons, et les livestreams de confinement d'Igor Levit. Des œuvres documentaires comme les films West-Eastern Divan de Daniel Barenboim et les récitals enregistrés de Daniil Trifonov définissent l'extrémité la plus exigeante de la forme. Le modèle classique de Tunee traite l'instrument et les mains comme sujet principal, et non comme décor."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Nommez la famille d'instruments, l'acoustique de la salle et la source lumineuse. « Violoncelle solo dans une salle de récital en bois, unique spot zénithal, lent push-in sur les mains et la touche, sans public » fonctionne ; « vidéo de performance de musique classique » produit du générique. Si vous voulez une visualisation de partition plutôt qu'une performance, dites-le explicitement — les deux formats n'ont rien à voir."
+      }
+    ]
+  }
 }

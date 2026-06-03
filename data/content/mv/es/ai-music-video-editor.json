@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales del Editor MV de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en móvil, por lo que puedes crear videos musicales del Editor MV desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EDITOR MV CON IA",
+    "h2": "Un editor con IA que piensa en cortes, no solo en clips",
+    "sections": [
+      {
+        "heading": "Qué reemplaza realmente un editor MV con IA",
+        "body": "Premiere y DaVinci están construidos para el cine narrativo — cada corte es una decisión manual contra una forma de onda. Para un video musical, eso es excesivo: el 80% de la edición consiste simplemente en hacer coincidir la duración del plano con el beat. Un editor MV con IA le da la vuelta a eso. Sueltas la pista, el sistema etiqueta downbeats, transitorios y cambios de energía, y la línea de tiempo llega pre-cortada. Te queda hacer lo que realmente importa — cambiar un plano débil, ajustar una transición, elegir qué toma del coro pega más fuerte."
+      },
+      {
+        "heading": "Lo que realmente puedes hacer en el editor",
+        "body": "El editor de Tunee no es un pipeline de renderiza-y-reza. Tras la primera generación, cada clip de la línea de tiempo es editable: regenerar un plano individual con un nuevo prompt, fijar la apariencia de un personaje a lo largo de los cortes, cambiar la relación de aspecto sin volver a cortar, intercambiar un plate de B-roll manteniendo intacta la sincronía con el beat. La forma de onda se asienta debajo de cada plano para que puedas ver con exactitud sobre qué transitorio cae un corte, y arrastrarlo un frame si hace falta."
+      },
+      {
+        "heading": "Por qué los cortes caen en el beat",
+        "body": "Por debajo, el agente analista de audio corre primero — rejilla de tempo, detección de downbeat, envolvente de energía, segmentación de voz vs instrumental. Sage, el director de historia, después ajusta los límites de los planos a esos marcadores antes de que el renderer toque un frame. Por eso los MVs de Tunee se sienten cortados, no convertidos en pase de diapositivas: la IA no eligió duraciones al azar esperando que sincronizaran. Leyó la canción como un editor lee una pista a la primera escucha."
+      }
+    ]
+  }
 }

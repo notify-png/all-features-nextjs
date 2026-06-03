@@ -39,5 +39,23 @@
       "q": "Posso gerar várias versões de um videoclipe Cyberpunk para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe Cyberpunk usando prompts ou configurações de estilo diferentes e, em seguida, selecionar a versão que melhor se adeque à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV CYBERPUNK",
+    "h2": "As regras visuais do cyberpunk são mais estritas do que seus fãs admitem",
+    "sections": [
+      {
+        "heading": "Como o cyberpunk se parece",
+        "body": "Cyberpunk é chuva sobre neon sobre letreiros em escrita asiática, mas a regra mais profunda é contraste de luz: sombras pretas absolutas segurando luzes key magenta/ciano quentes, com aberração cromática em cada highlight especular. Haze volumétrica preenche a média distância para que cada fonte de neon tenha um cone visível. Pavimento molhado dobra cada luz num reflexo. Pule qualquer um deles e você obtém 'sci-fi sombrio com luzes roxas' — adjacente, mas não o gênero."
+      },
+      {
+        "heading": "De onde vem o visual",
+        "body": "O cânone: Blade Runner (1982) de Ridley Scott para a Tóquio molhada de neon original, Blade Runner 2049 (2017) de Denis Villeneuve para os outdoors holográficos e a Vegas laranja, Ghost in the Shell (1995) de Mamoru Oshii para os planos de mergulho na cidade, Akira (1988) de Katsuhiro Otomo para o nível da rua, The Matrix de Lana e Lilly Wachowski para a lavagem verde do código. Jogos: Night City de Cyberpunk 2077 da CD Projekt Red, a série Deus Ex. Videoclipes: Genesis de Grimes, as sequências Midnight City do M83, as sequências de abertura de Arcane da Riot Games feitas pela Fortiche. O modelo cyberpunk do Tunee é treinado nessas exatas linguagens de quadro — 'haze laranja de Vegas em Blade Runner 2049' pousa com precisão onde você quer."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Sempre pareie duas cores de neon e proíba tons quentes: 'apenas magenta e ciano, sem âmbar'. Adicione 'pavimento molhado, reflexo de neon no chão' — isso duplica a densidade percebida de luz. Especifique 'haze volumétrica, cones de luz visíveis' ou você obtém neon chapado. Para o plano do artista, adicione 'silhueta com rim light, luz key vinda de cima-esquerda' — rostos totalmente iluminados destroem o noir. Termine com 'aberração cromática em highlights' para a sensação de lente."
+      }
+    ]
+  }
 }

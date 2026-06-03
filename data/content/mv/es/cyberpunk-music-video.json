@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical Cyberpunk para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical Cyberpunk utilizando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV CYBERPUNK",
+    "h2": "Las reglas visuales del cyberpunk son más estrictas de lo que sus fans admiten",
+    "sections": [
+      {
+        "heading": "Cómo se ve el cyberpunk",
+        "body": "El cyberpunk es lluvia sobre neón sobre letreros en escritura asiática, pero la regla más profunda es el contraste de luz: sombras de negro absoluto sosteniendo luces key magenta/cian intensas, con aberración cromática en cada especular. La bruma volumétrica llena la media distancia para que cada fuente de neón tenga un cono visible. El pavimento mojado duplica cada luz en un reflejo. Sáltate cualquiera de esos y obtienes 'sci-fi oscuro con luces púrpuras' — adyacente pero no el género."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "El canon: Blade Runner de Ridley Scott (1982) por el Tokio original de neón mojado, Blade Runner 2049 de Denis Villeneuve (2017) por las vallas holográficas y el Las Vegas naranja, Ghost in the Shell de Mamoru Oshii (1995) por los planos de inmersión en la ciudad, Akira de Katsuhiro Otomo (1988) por el nivel de calle, The Matrix de Lana y Lilly Wachowski por el lavado verde de código. Videojuegos: Cyberpunk 2077 Night City de CD Projekt Red, la saga Deus Ex. Videos musicales: 'Genesis' de Grimes, las secuelas de 'Midnight City' de M83, las secuencias de títulos de Arcane de Riot Games hechas por Fortiche. El modelo cyberpunk de Tunee se entrena con estos lenguajes de frame exactos — 'bruma naranja Vegas estilo Blade Runner 2049' aterriza con precisión donde quieres."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Empareja siempre dos colores de neón y prohíbe los tonos cálidos: 'solo magenta y cian, nada de ámbar'. Añade 'pavimento mojado, reflejo de neón en el suelo' — duplica la densidad de luz percibida. Especifica 'bruma volumétrica, conos de luz visibles' o tendrás neón plano. Para el plano del artista, añade 'silueta con rim light, luz key desde arriba a la izquierda' — los rostros plenamente iluminados destruyen el noir. Cierra con 'aberración cromática en altas luces' para la sensación de lente."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee 的 Drill 音樂影片生成器在行動設備上可用嗎？",
       "a": "Tunee 可完整透過桌上型和行動裝置的網頁瀏覽器存取，因此您可以從任何設備上建立 Drill 音樂影片，無需安裝軟體。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Drill",
+    "h2": "Drill MV 遵循一套從街頭誕生的嚴格視覺密碼",
+    "sections": [
+      {
+        "heading": "Drill 的視覺面貌",
+        "body": "Drill 視頻擁有當代說唱中最具編碼性的視覺語言，而這套密碼之所以重要，是因為觀眾仔細地讀它。慣例：頭套與滑雪面罩賦予的匿名性、群體構圖（極少單人鏡頭）、路燈下的夜間外景、與胸同高的低角度手持、調色推暗壓黑，以及英倫 Drill 特有的歌詞螢幕字體慣例。車輛存在但從不為焦點——主角永遠是這個 crew。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "依場景分的參考點：Chicago Drill 由 Chief Keef 的「I Don't Like」與 Lil Durk 早期 Def Jam 視覺奠定了樣貌；Brooklyn Drill 透過 Pop Smoke 的「Welcome to the Party」、「Dior」及與 Lil Baby 合作的遺作「For the Night」（製作人 808Melo 塑造了聲音）成形；UK Drill 透過 Headie One、Central Cee 的「Doja」與 Digga D 的「Woi」立下標準。導演 KENNY（Kenrick Bowes）、Carns Hill、GRM Daily 內部團隊，以及已故的 Ginsberg5 定義了視覺特徵。在低光社區拍蒙面群體鏡頭並非風格選擇——而是結構性的。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "請對地區明確——Chicago、Brooklyn 與 UK Drill 各有不同的視覺慣例。UK Drill 的提示詞應指明「夜間社區、頭套、低角度手持、歌詞疊字」；Brooklyn Drill 偏電影感，使用更寬的鏡頭與街道高度的 Steadicam。Tunee 的 Drill 模型兩者皆能處理；提示詞必須選定其一。"
+      }
+    ]
+  }
 }

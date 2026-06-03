@@ -39,5 +39,23 @@
       "q": "我可以生成演唱會音樂影片的多個版本進行比較嗎？",
       "a": "是的。你可以使用不同的提示或風格設置生成演唱會音樂影片的幾個變體，然後選擇最適合你願景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於演唱會 MV",
+    "h2": "演唱會視頻的成敗，全在剪輯",
+    "sections": [
+      {
+        "heading": "演唱會視頻是甚麼",
+        "body": "演唱會 MV 是一種特定格式：多機現場演出，配著歌曲剪，於舞台廣角、藝人特寫、觀眾反應與燈光裝置英雄鏡頭之間切換。決定性的類型限制是音樂必須是真實錄音，視覺必須節拍對節拍地匹配它的能量。剪輯就是一切——大多數感覺平庸的演唱會視頻其實拍得不錯，只是剪得糟，副歌時還停在廣角，而那一刻藝人本應靠得很近。"
+      },
+      {
+        "heading": "甚麼時候該用",
+        "body": "當藝人的現場存在感本身就是品牌時（Tame Impala、Phoebe Bridgers、Beyonce）、發行巡演電影時、場地或音樂節本身就是賣點時（Glastonbury Pyramid Stage、Red Rocks、NPR 的 Tiny Desk 系列），演唱會 MV 是正確的格式。導演經典名單不大：Jonathan Demme 以 Talking Heads 的「Stop Making Sense」（1984）定義了形式，Sam Wrench 執導 Taylor Swift 的「Eras Tour」電影院版，Ed Burke 為 Netflix 執導 Beyonce 的「Homecoming」，Spike Lee 拍下 Aretha 的「Amazing Grace」素材。近期例子：Billie Eilish 的「Live at the O2」、過去十年 Boiler Room 拍的任何作品。它同時也是 K-pop fancam 最常用的格式。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "指定場地規模與燈光風格：「小型俱樂部、單支跟蹤聚光、觀眾周圍深陰影」相對於「巨蛋規模、藝人身後完整 LED 牆、煙霧中的雷射」。命名機位數量與角度：「三機覆蓋：舞台廣角、藝人臉部特寫、觀眾舉手」。為剪輯節奏加上「副歌段每 1 至 2 秒在小鼓上切，主歌段持鏡較久」。只要你描述得出來，Tunee 就能生成相應的剪輯節奏。"
+      }
+    ]
+  }
 }

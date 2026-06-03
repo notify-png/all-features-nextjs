@@ -39,5 +39,23 @@
       "q": "¿Cómo personalizo el estilo visual de mi videoclip animado?",
       "a": "Puedes guiar los visuales usando indicaciones de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en animación 2D que coincidan con tu estética animada."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV ANIMADO",
+    "h2": "Animado es una categoría, no un estilo — primero acótalo",
+    "sections": [
+      {
+        "heading": "Qué abarca lo animado",
+        "body": "El video musical animado es un paraguas sobre oficios radicalmente distintos: animación 2D tradicional cel (Spirited Away, Looney Tunes), 3D CG (Pixar, el Spider-Verse de Sony), motion graphics (Saul Bass, las secuencias de títulos modernas), stop-motion (Anomalisa, Aardman), rotoscopia (A Scanner Darkly, Take On Me). El primer trabajo de cualquier brief animado es elegir cuál. 'Quiero un video animado' no le dice nada a un estudio. 'Quiero un mixed-media estilo Spider-Verse, 2D sobre 3D' se los dice todo."
+      },
+      {
+        "heading": "Cuándo usar animación",
+        "body": "La animación tiene sentido cuando el live action no puede: escala imposible (monstruos gigantes, mundos microscópicos), alta estilización ligada a una marca (la identidad Gorillaz de Jamie Hewlett, el proyecto entero de Damon Albarn), anonimato para el artista o presupuesto — a pequeña escala la animación hoy sale más barata que rodajes en locación con crew. Estudios dignos de citar: el equipo de Sony tras Spider-Verse liderado por Phil Lord y Christopher Miller, Cartoon Saloon de Tomm Moore (Wolfwalkers, Song of the Sea), Genndy Tartakovsky (Samurai Jack, Primal), Madhouse (Belle de Mamoru Hosoda). Géneros que se inclinan animados por tradición: electrónica, indie pop, música infantil, lanzamientos de expansión de lore. Las discográficas de K-pop llevan años usando animación para B-sides y alter egos al estilo Gorillaz."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Elige tu técnica de animación en el prompt, no el resultado: 'cel-shaded 2D, animación por reemplazo de frame, líneas duras' frente a '3D CG, modelo de iluminación Pixar, subsurface scattering en piel' frente a 'stop-motion, articulaciones de armazón visibles, 12fps'. Cada una vive sobre datos de entrenamiento distintos. Mezclar técnicas a mitad de video puede funcionar, pero hay que nombrar la transición: 'live action que corta a rotoscopia en el drop'. Un 'animado' vago aterriza donde sea más común."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement Abstract ?",
       "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà d'Abstract. Vous pouvez générer des vidéoclips musicaux pour pop, hip-hop, classique et des dizaines d'autres styles en utilisant la même plateforme."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES MV ABSTRAITES",
+    "h2": "La vidéo abstraite est un genre qui vit ou meurt sur le mouvement",
+    "sections": [
+      {
+        "heading": "Ce que veut vraiment dire « abstrait » ici",
+        "body": "Une vidéo musicale abstraite signifie qu'il n'y a ni personnage, ni lieu, ni récit — juste de la forme, de la couleur et du mouvement qui répondent au son. Mal exécuté, cela donne un visualiseur Windows Media Player. Bien exécuté, c'est du Ryoji Ikeda au Barbican ou les figures filaires du studio Universal Everything. La ligne de partage est le timing : chaque transition tombe sur un transitoire, chaque variation chromatique répond à un changement d'accord. De l'art abstrait statique animé sur de la musique reste du papier peint. Une vidéo abstraite qui écoute relève de la composition."
+      },
+      {
+        "heading": "D'où vient le look",
+        "body": "Les studios de motion graphics rédigent ce dictionnaire depuis quatre-vingt-dix ans : les films abstraits d'Oskar Fischinger dans les années 1930, le travail optique gratté à la main de Norman McLaren à l'Office national du film du Canada, les génériques de Saul Bass, la séquence Se7en de Kyle Cooper, l'école GMUNK / Field.io du travail génératif, l'art neural de Memo Akten, les sculptures de données de Refik Anadol au MoMA, les boucles quotidiennes de Beeple, les simulations fluides Houdini, les patchs audio-réactifs TouchDesigner. Côté clips : « Windowlicker » d'Aphex Twin par Chris Cunningham, « My Red Hot Car » de Squarepusher, tout ce que Cyriak Harris fabrique sur YouTube. Le modèle abstrait de Tunee traite les simulations de fluides, les systèmes de particules et les morphings géométriques comme des vocabulaires distincts — pas comme des mots-clés interchangeables."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Choisissez une seule primitive de mouvement par vidéo et tenez-vous-y : fluide, particules, morphing géométrique ou déformation par signed-distance-field. En mélanger deux se lit comme confus. Spécifiez la palette par ressenti, pas par adjectif — « deux couleurs, magenta et cyan profond » bat « vibrant et dynamique » à tous les coups. Indiquez à Tunee comment la densité évolue avec le morceau : « particules clairsemées sur le couplet, bloom dense sur le drop ». La réactivité audio est tout l'enjeu — que le prompt le dise."
+      }
+    ]
+  }
 }

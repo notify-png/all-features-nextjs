@@ -39,5 +39,23 @@
       "q": "它只適用於藍調，還是可以處理任何音樂類型？",
       "a": "Tunee 支持藍調以外的各種音樂類型和視覺風格。您可以使用相同平台為流行音樂、嘻哈、古典音樂和其他數十種風格生成音樂影片。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Blues",
+    "h2": "Blues MV 活在鎢絲燈光與磨損的樂器之間",
+    "sections": [
+      {
+        "heading": "Blues 的視覺面貌",
+        "body": "Blues 視頻擁有穩定的美學，因為這類音樂擁有穩定的觀眾——沒有人在重新發明形式，這正是重點。視覺經典：硬陰影的鎢絲燈內景俱樂部、按弦手部特寫、鋼弦吉他的滑音、單一主光下額頭的汗、空氣中的煙（真實或煙霧機）、背景中暖光發亮的真空管音箱。色彩走琥珀與壓黑。構圖尊重彈奏者，而不是繞著他們剪。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "參考直接而具名：B.B. King 後期的現場影片、Buddy Guy's Legends 俱樂部影像、Gary Clark Jr. 的「Bright Lights」與「When My Train Pulls In」、Joe Bonamassa 的 Royal Albert Hall 影片、Christone「Kingfish」Ingram 的近期片段，以及 Jack White 的 Third Man Records 現場錄影。Wim Wenders 的紀錄片「The Soul of a Man」與 Martin Scorsese 在 PBS 播映的「The Blues」系列，奠定了正統 Blues 影像的視覺模板——小型場地、真實裝備、雙手與樂器作為主要被攝體。Tunee 的 blues 模型正以此脈絡訓練。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "點名裝備與場地類型，而非只給類型。「Vintage Gibson ES-335 接 tweed Fender 音箱、煙霧瀰漫的地下室俱樂部、頭頂一顆裸燈泡、按弦手部特寫」可生成可信的畫面；「藍調樂手彈吉他」只會生成圖庫照。Blues 觀眾會察覺裝備不對，所以請明確指定。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali AI MV Editor di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali AI MV Editor da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EDITOR AI MV",
+    "h2": "Un editor AI che pensa in tagli, non solo in clip",
+    "sections": [
+      {
+        "heading": "Cosa sostituisce davvero un editor AI MV",
+        "body": "Premiere e DaVinci sono costruiti per il cinema narrativo — ogni taglio è una decisione manuale contro una forma d'onda. Per un music video è eccessivo: l'80% del montaggio è semplicemente far combaciare la durata dell'inquadratura con il beat. Un editor AI MV ribalta tutto. Carichi la traccia, il sistema tagga downbeat, transient hit e cambi di energia, e la timeline arriva pre-tagliata. Ti resta da fare ciò che conta davvero — sostituire un'inquadratura debole, spostare una transizione, scegliere quale take del ritornello atterra meglio."
+      },
+      {
+        "heading": "Cosa puoi davvero fare nell'editor",
+        "body": "L'editor di Tunee non è una pipeline render-and-pray. Dopo la prima generazione, ogni clip sulla timeline è modificabile: rigenera una singola inquadratura con un nuovo prompt, blocca l'aspetto di un personaggio attraverso i tagli, cambia l'aspect ratio senza ri-tagliare, sostituisci una placca di B-roll mantenendo intatto il sync con il beat. La forma d'onda sta sotto ogni inquadratura così puoi vedere esattamente su quale transient sta atterrando un taglio, e trascinarla di un fotogramma se necessario."
+      },
+      {
+        "heading": "Perché i tagli atterrano sul beat",
+        "body": "Sotto il cofano, l'agente analista audio gira per primo — griglia di tempo, rilevamento dei downbeat, inviluppo di energia, segmentazione voce vs strumentale. Sage, il direttore della storia, poi aggancia i confini delle inquadrature a quei marcatori prima che il renderer tocchi un fotogramma. È per questo che gli MV di Tunee sembrano tagliati, non a slideshow: l'AI non ha scelto le durate a caso sperando che si sincronizzassero. Ha letto la canzone come la legge un editor al primo ascolto."
+      }
+    ]
+  }
 }

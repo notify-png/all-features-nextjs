@@ -39,5 +39,23 @@
       "q": "我如何在 Dubstep 音樂影片中新增歌詞或字幕？",
       "a": "Tunee 提供內建歌詞和字幕疊加選項。只需輸入您的歌詞並選擇文本風格，AI 會自動將其與您的 Dubstep 音樂影片同步。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Dubstep",
+    "h2": "Dubstep MV 圍繞 drop 而生——一切服務於低音",
+    "sections": [
+      {
+        "heading": "Dubstep 的視覺面貌",
+        "body": "Dubstep 視頻圍繞單一事件而結構化：drop。之前的一切是堆疊，之後的一切是反應。視覺特徵：與 wobble 同步的 glitch 與 datamosh 效果、drop 上的硬切（絕不交叉淡化）、峰值頻率下的強烈鏡頭畸變、過飽和的霓虹（電光藍、毒綠、紫外）、頻閃插入、跳格、數位衰變紋理。真實畫面常被疊上抽象畸變，而非以乾淨形式呈現。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "參考點：由 Tony Truand 執導的 Skrillex「First of the Year (Equinox)」奠定了電影感與 glitch 並陳的範本、featuring Sirah 的「Bangarang」、Excision 的 Lost Lands 音樂節直播視覺立下製作規模的標竿、Virtual Self 的「Ghost Voices」推廣、Zomboy 的動畫片、Datsik 的舞台設計影片，以及 Rusko 的「Woo Boost」。脈絡可追溯至 Chris Cunningham 為 Aphex Twin 拍的「Come to Daddy」、「Windowlicker」與 Squarepusher——這個類型與數位衰變的關係比 dubstep 本身還古老。Tunee 的 dubstep 模型能處理硬切與效果堆疊。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "提示詞圍繞 drop 而非整首歌建構。描述 drop 前的畫面（「空蕩倉庫的靜態廣角、低保真調色」）、drop 事件本身（「硬切到 RGB 色像差分離、datamosh 影格、頻閃疊加」），以及 drop 後的延續。Tunee 會將切點同步至節拍——只要你給它拍號與 drop 位置，剪輯就會落在低音 hit 的位置。"
+      }
+    ]
+  }
 }

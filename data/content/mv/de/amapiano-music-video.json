@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Amapiano-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Amapiano-Musikvideos unter Verwendung verschiedener Prompts oder Stil-Einstellungen generieren und dann die Version auswählen, die am besten zu Ihrer Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER AMAPIANO",
+    "h2": "Amapiano-Videos sind um die Log Drum und die Tanzfläche herum gebaut",
+    "sections": [
+      {
+        "heading": "So sieht Amapiano aus",
+        "body": "Amapiano-MVs sind auf TikTok und auf der südafrikanischen Township-Tanzfläche groß geworden, bevor sie auf Vevo groß wurden. Die visuellen Signaturen: enge Crowd-Shots, gefilmt aus dem Inneren des Tanzkreises, Fisheye- und Ultra-Weitwinkel-Objektive, Slow-Motion-Footwork-Inserts, die DJ-Booth als wiederkehrender Frame und Open-Air-Streetpartys in der Dämmerung, beleuchtet von einem einzigen harten Licht. Die Farbe ist kontrastreich — schwarze Haut gegen Neon, weiße Sneaker als Fokuspunkt. Die Kamera bewegt sich mit der Tänzerin, nicht um sie herum."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Die kanonischen Visuals stammen aus der Scorpion-Kings-Ära von Kabza De Small und DJ Maphorisa, dem Rollout von Tyler ICUs und Khalil Harrisons „Mnike\", Focalistics „Ke Star\", DBN Gogos Club-Edits, den Balcony-Mix-Livestreams der Major League DJz und Uncle Waffles' viralem „Tanzania\"-Clip — diese einzelne handygefilmte Performance hat eine Ästhetik für das Genre definiert. Regisseure wie Pyramidda (Kabza, Maphorisa) und Mahlatse Tshukulu lehnen sich an Amapianos Social-Media-Ursprung an: vertikales Framing, Handkamera-Unmittelbarkeit, der Tanzschritt immer zentriert. Tunees Amapiano-Modell kennt diese Linie."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Stelle den Tanz ins Zentrum, nicht den Künstler. Ein Prompt wie „Kreis aus Tänzern um einen einzelnen Performer, Township-Straße bei Sonnenuntergang, Ultra-Weitwinkel, Slow-Motion-Footwork-Inserts\" funktioniert besser als „Amapiano-Partyszene\". Benenne die Log Drum auch visuell — der Produzent berührt das Pad, der Bass schlägt in einem Crowd-Reaction-Shot ein — und der Schnitt rastet auf dem Beat ein, statt ihn nur zu überdecken."
+      }
+    ]
+  }
 }

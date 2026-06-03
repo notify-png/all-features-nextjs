@@ -39,5 +39,23 @@
       "q": "¿Funciona con cualquier género de música o solo Funk?",
       "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Funk. Puedes generar videos musicales para pop, hip-hop, música clásica y docenas de otros estilos usando la misma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL FUNK",
+    "h2": "El funk a cámara es coreografía primero, todo lo demás después",
+    "sections": [
+      {
+        "heading": "Cómo se ve el funk",
+        "body": "Los videos de funk funcionan a base de pocket apretado y vestuario aún más apretado. Piensa en pantalones de pata ancha, satén, cuellos de piel, bandas completas moviéndose como una sola unidad. El color es ruidoso y deliberado: amarillo mostaza sobre naranja quemado, magenta sobre lima. El encuadre suele sostener un plano más amplio que el de los videos pop porque el baile tiene que leerse — necesitas ver la caída de cadera del bajista y la sonrisa del baterista en la misma composición. La iluminación es dura y saturada, no suave."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Bruno Mars y Anderson .Paak construyeron entre ambos el lenguaje moderno del MV funk — 'Leave the Door Open' y 'Smokin Out the Window' de Silk Sonic, y '24K Magic' y 'Finesse' de Bruno Mars (dirigidas por Florent Déchard y Bruno Mars). Las grabaciones desnudas de estudio de Vulfpeck, 'Them Changes' de Thundercat y 'Make Me Feel' de Janelle Monáe prueban que se puede hacer con una sola cámara fija si la banda es la correcta. Las piedras de toque más antiguas siguen importando: los cortes en escenario de Earth, Wind & Fire, 'Kiss' de Prince, el metraje de Brown en T.A.M.I. Show, además del trabajo funk-adyacente de Hype Williams en los 90 ('The Rain' de Missy Elliott). El tejido conectivo son las tomas sin cortar y la coreografía que parece ensayada pero no robótica."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica la configuración de la banda antes del estilo visual. 'Banda de seis miembros en trajes color crema a juego, sección de vientos a la izquierda del escenario, baterista al centro, plano general fijo' le da a Tunee algo donde colgar el groove. Después capa el color como un beat aparte: 'paredes en marrón chocolate, iluminación acento en rosa fuerte'. Evita pedir 'vibes funky' — el género es demasiado específico para un lenguaje vago. Nombra la era que quieras: 'Soul Train 1975', 'Minneapolis 1985', 'Silk Sonic 2024'."
+      }
+    ]
+  }
 }

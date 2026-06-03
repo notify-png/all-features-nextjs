@@ -39,5 +39,23 @@
       "q": "我如何在動漫音樂影片中新增歌詞或字幕？",
       "a": "Tunee 提供內建的歌詞和字幕疊加選項。只需輸入您的歌詞並選擇文字風格，AI 就會自動將其同步到您的動漫音樂影片。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於動漫 MV",
+    "h2": "不像 Stable Diffusion 翻車事故的動漫 MV",
+    "sections": [
+      {
+        "heading": "動漫真正的面貌",
+        "body": "動漫不是一種風格——它是十幾個各有規則的學派。Ghibli 的水彩背景與有限動畫；Makoto Shinkai 在「Your Name」與「Weathering With You」裡的超細節神光與鏡頭眩光；Kyoto Animation 在「Violet Evergarden」裡的角色演技；Trigger 在「Kill la Kill」中的 sakuga 爆發。cel-shaded 線條、扁平填色、三格走路循環——這些是選擇，不是預設。那些充斥著泛泛「動漫女生」的 AMV 頁面，都是因為製作者沒挑出其中一派。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "做動漫 MV 簡報：點名導演與作品。「Makoto Shinkai 的天空、『Your Name』（2016）的調色」會明確告訴模型該往哪裡落地——飽和的青到橙漸層、穿透雲縫的體積光、手繪積雲。「Hiroyuki Imaishi sakuga、『Kill la Kill』動作格」會拉出富有動勢的線條沸騰與衝擊格。「Hayao Miyazaki 與男鹿和雄的水彩背景」會拉出 Studio Ghibli 的手繪森林。Mamoru Hosoda 的「Belle」用於群眾編排。MV 原生的參考：Eve 的「怪物」（建宮製作）與 Ado 的「Usseewa」視覺。Tunee 的動漫模型把這些學派視為各自獨立的語彙，而不是融在一起。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "永遠點名一個工作室作為參考。然後指定你要的是有限動畫的靜止構圖（Ghibli），還是完整 sakuga 動勢（Trigger、Bones）。加上「cel-shaded、硬陰影邊緣、皮膚無柔和漸層」可避免模型漂向 3D 渲染的動漫相鄰風格。背景則用「手繪背景、手繪紋理」——少了這個，你會得到 3D 渲染配上動漫角色貼圖，那永遠看起來不對。"
+      }
+    ]
+  }
 }

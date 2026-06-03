@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi videoclip musical de IA MV Maker?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu videoclip musical de IA MV Maker automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "AI MV MAKER",
+    "h2": "De archivo de audio a video musical terminado en una sola pasada",
+    "sections": [
+      {
+        "heading": "Qué significa 'maker' frente a 'editor'",
+        "body": "Un AI music video maker es la herramienta de un solo disparo — le das una canción y te devuelve un video terminado. Sin línea de tiempo, sin promptear clip a clip, sin gestionar assets manualmente. La contrapartida es el control: los makers optimizan para que tengas algo viable en los primeros tres minutos, no para la pasada quirúrgica de edición que habilita un editor. Para borradores, demos enviadas a una discográfica, o tests del tipo '¿esta canción siquiera necesita un video?', es exactamente la herramienta correcta."
+      },
+      {
+        "heading": "Lo que el maker de Tunee realmente decide por ti",
+        "body": "Suelta un MP3 y Tunee elige la estética desde el propio audio: un beat lo-fi aterriza en colores apagados y derivas lentas de cámara, un instrumental de drill consigue exteriores nocturnos de alto contraste y cortes más rápidos, una balada de piano de adoración se va al frente con la letra y luz cálida de relleno. Puedes sobreescribir el estilo con una sola línea de prompt, pero el default rara vez es vergonzoso — que es la barra real que la mayoría de las herramientas 'AI MV maker' no logran superar."
+      },
+      {
+        "heading": "La cadena de agentes que toma la decisión",
+        "body": "Cuatro agentes corren en secuencia: el analista de audio extrae tempo, tonalidad y arco emocional; Nova esboza el mundo visual (personajes, paleta, entorno); Sage corta esas placas en una shot list cronometrada y mapeada a la estructura de la canción; el renderer produce los frames finales. La ruta maker corre los cuatro con defaults inteligentes — la ruta editor expone la misma cadena para que puedas intervenir en cualquier paso. Mismo motor, distinta superficie."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali del Generatore Gratuito di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali del Generatore Gratuito da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "PER COMINCIARE",
+    "h2": "Cosa significa davvero 'generatore di video musicali gratuito' con Tunee",
+    "sections": [
+      {
+        "heading": "Gratuito qui significa prova-prima-di-acquistare, non depotenziato",
+        "body": "I generatori MV gratuiti che compaiono in una ricerca Google di solito rientrano in due campi: output bloccati in trial che mettono il watermark su ogni fotogramma, o strumenti 'gratuiti' che chiedono una carta di credito alla registrazione. Tunee è la terza opzione — genera music video completi a qualità standard senza pagare, anteprima senza watermark, nessuna carta in archivio. I piani a pagamento esistono per risoluzioni più alte (4K), durate più lunghe e priorità di coda più veloce. L'estetica, il direttore AI e l'agente di storyboard sono gli stessi dal primo giorno."
+      },
+      {
+        "heading": "Cosa include 'un music video' qui",
+        "body": "Quando Tunee ti consegna un MV gratuito, il deliverable non è un placeholder. Ottieni un video audio-sincronizzato con i punti di taglio che atterrano su beat reali, coerenza a livello di scena — un personaggio che resta consistente attraverso le inquadrature, non uno slideshow di fotogrammi non correlati — e un aspect ratio che scegli tu: 9:16 per TikTok, 16:9 per YouTube, 1:1 per Instagram. Stesso upload, tre render, nessun credito extra. La maggior parte dei 'generatori gratuiti' è un-formato-o-paghi; questo non lo è."
+      },
+      {
+        "heading": "Cosa c'è davvero dietro il pulsante",
+        "body": "Quattro agenti AI si coordinano sotto il cofano: l'analista audio tagga tempo, tonalità e contorno emotivo; il designer visivo Nova abbozza personaggi e placche di scena; il direttore della storia Sage taglia quelle placche in una lista di scene temporizzata; il renderer produce il video finale. Il tier gratuito esegue tutti e quattro — quello che non ottieni è la coda prioritaria e l'upscaler. Per bozze, confronti, e 'vale la pena perseguire questa idea?', è più che sufficiente."
+      }
+    ]
+  }
 }

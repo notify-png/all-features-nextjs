@@ -39,5 +39,23 @@
       "q": "Работает ли генератор кинематографических клипов Tunee на мобильных устройствах?",
       "a": "Tunee полностью доступен через веб-браузер на рабочих станциях и мобильных устройствах, поэтому вы можете создавать кинематографические клипы с любого устройства без установки программного обеспечения."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "О КИНЕМАТОГРАФИЧНОМ MV",
+    "h2": "Что значит «cinematic», когда это произносит режиссёр",
+    "sections": [
+      {
+        "heading": "Кинематографичный чек-лист",
+        "body": "«Cinematic» — самое затасканное слово в видеобрифах. Если его разобрать, оно означает конкретный набор решений: анаморф 2.39:1 или 2.4:1 с овальным боке и горизонтальными бликами линз, темпоральная кадровая частота 24fps с 180-градусной выдержкой затвора, цветокор в сторону teal-and-orange или кастомный LUT, плёночное зерно на уровне скана 35-мм плёнки. Промахнитесь хоть в одном — и зритель, который смотрит кино, почувствует это раньше, чем сумеет назвать."
+      },
+      {
+        "heading": "Откуда берётся этот лук",
+        "body": "Операторы, на которых реально ссылаются: Roger Deakins (1917 у Sam Mendes, Blade Runner 2049 у Denis Villeneuve), Emmanuel «Chivo» Lubezki (Children of Men у Alfonso Cuaron, Birdman и The Revenant у Inarritu), Hoyte van Hoytema (Interstellar и Oppenheimer у Christopher Nolan). На уровне режиссёров — Christopher Nolan, Denis Villeneuve, Paul Thomas Anderson. В клиповом мире — работы Hiro Murai для Childish Gambino (This Is America, Sober), Weapon of Choice Spike Jonze для Fatboy Slim, всё, что Jonas Akerlund резал для Madonna или The Prodigy. Словарь общий с большим кино — кинематографичная модель Tunee тренируется на том же DP-языке, и «Deakins-style backlit silhouette» разрешается корректно."
+      },
+      {
+        "heading": "Подсказка по промптингу для Tunee",
+        "body": "Фиксируйте соотношение сторон в промпте: «anamorphic 2.39:1, oval bokeh, horizontal lens flare». Указывайте плёнку: «Kodak Vision3 500T, fine grain» или «Fuji Eterna, muted contrast». Называйте одного оператора как референс вместо описания лука прилагательными — «lit like Deakins in 1917» сообщает больше, чем три предложения цветового описания. Слово «cinematic» в одиночку лучше пропустить — оно слишком расплывчатое, чтобы что-то направлять."
+      }
+    ]
+  }
 }

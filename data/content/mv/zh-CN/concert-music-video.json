@@ -39,5 +39,23 @@
       "q": "我可以生成多个版本的演唱会音乐视频来比较吗？",
       "a": "可以。你可以使用不同的提示或风格设置生成多个演唱会音乐视频变体，然后选择最适合你愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于演唱会 MV",
+    "h2": "演唱会视频成败全在『剪』上",
+    "sections": [
+      {
+        "heading": "演唱会视频是什么",
+        "body": "演唱会 MV 是一种具体形式：多机位现场演出，剪给歌曲，在舞台全景、艺人紧贴覆盖、观众反应和灯架特写之间交错切换。这一流派最具决定性的约束是：音乐用的是真实录音，画面必须逐拍匹配它的能量。剪辑就是一切——大多数显得平的演唱会视频，拍得没问题，只是剪坏了——副歌段还死按全景不动，明明那里需要艺人的紧凑画面。"
+      },
+      {
+        "heading": "什么时候用它",
+        "body": "当艺人的现场存在感本身就是品牌（Tame Impala、Phoebe Bridgers、Beyonce）、发行巡演电影、或者场地与音乐节本身就是吸引点（Glastonbury Pyramid Stage、Red Rocks、NPR 的 Tiny Desk 系列）时，演唱会 MV 就是正解。导演经典名单不大：Jonathan Demme 用 Talking Heads 的 Stop Making Sense（1984）定义了这一形式；Sam Wrench 执导了 Taylor Swift 的 Eras Tour 影院版；Ed Burke 为 Netflix 执导了 Beyonce 的 Homecoming；Spike Lee 拍下了 Aretha 的 Amazing Grace。近作：Billie Eilish 的 Live at the O2，以及 Boiler Room 过去十年拍的一切。这也是 K-pop fancam 最常用的形式。"
+      },
+      {
+        "heading": "Tunee 提示词建议",
+        "body": "指定场地体量与灯光风格：『小型俱乐部，单一 follow-spot，观众笼罩在深阴影中』对比『arena 体量，艺人身后整面 LED 墙，激光在烟雾中』。点出机位数量与角度：『三机位覆盖：舞台全景、艺人面部特写、观众举手段』。再加一行剪辑节奏：『在 snare 击点上 beat-cut，副歌每 1–2 秒一切，主歌段保持更长』。Tunee 能在你描述清楚剪辑节奏时生成对应的切点。"
+      }
+    ]
+  }
 }

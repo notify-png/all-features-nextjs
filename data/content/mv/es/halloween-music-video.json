@@ -39,5 +39,23 @@
       "q": "¿Funciona con cualquier género de música, o solo con Halloween?",
       "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de Halloween. Puedes generar vídeos musicales para pop, hip-hop, música clásica y docenas de otros estilos utilizando la misma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV DE HALLOWEEN",
+    "h2": "Un video de Halloween que se gana sus sustos en vez de tomarlos prestados",
+    "sections": [
+      {
+        "heading": "Por qué funcionan los MVs de Halloween",
+        "body": "Halloween es la rara festividad donde el video musical forma parte del canon — Thriller sigue definiendo el género 40 años después. El formato premia el esfuerzo: las fiestas de disfraces, los recorridos por casas embrujadas, los patches de calabazas y las rutas de trick-or-treat se benefician más de un corte musicalizado que de un clip crudo. El post del 31 de octubre va a competir con miles de otros, así que un MV de 60 segundos con un hilo visual coherente rinde mejor que un volcado del móvil."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Los cinematógrafos de horror se apoyan en un kit estable: plano en contrapicado del porche con el resplandor del jack-o'-lantern, interiores solo con velas y sombras duras, niebla entre árboles desnudos, dolly-in lento sobre una máscara, el plano por encima del hombro en el pasillo. El canon es imposible de evitar — John Landis dirigió Thriller de Michael Jackson (1983), aún el punto de referencia del género, además de The Nightmare Before Christmas de Henry Selick y Tim Burton, las aperturas de Scream de Wes Craven, la cocina de Hereditary de Ari Aster, el acecho con Steadicam de Halloween (1978) de John Carpenter y la iluminación del 'sunken place' de Get Out de Jordan Peele. La corrección de color es teal-y-naranja para lo kid-friendly y desaturada con empuje al verde para el horror real. Especifica qué nivel quieres — diversión de fiesta de disfraces o canguelo genuino — y el registro visual queda fijado."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "El error es pedir 'escena espeluznante de Halloween' — demasiado vago, te dan calabazas genéricas. En su lugar, nombra una referencia de horror específica (apertura de Sinister, escena de la piscina de It Follows, cocina de Hereditary) y un disfraz específico de tu rodaje. El modelo de Tunee tiene la gramática visual del género; dale un brief al estilo director y te devolverá frames dignos de postear."
+      }
+    ]
+  }
 }

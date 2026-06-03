@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale Bollywood pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale Bollywood en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE BOLLYWOOD",
+    "h2": "Les MV Bollywood carburent à la couleur, à la chorégraphie et à une échelle décomplexée",
+    "sections": [
+      {
+        "heading": "À quoi ressemble Bollywood",
+        "body": "Les conventions du clip Bollywood sont les plus maximalistes au monde et elles le méritent. Les signatures : chorégraphies de grand groupe en formation parfaite, changements de costumes entre les couplets, sauts de lieu en plein morceau (rue de Mumbai puis Alpes suisses puis cour de palais), saturation chromatique sur tout le spectre (aucune palette feutrée), et la voix du playback singer en lip-sync sur un acteur comme convention admise. La caméra bouge en permanence — crane, dolly, Steadicam — et ne se pose jamais."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "Les références sont fondatrices : la séquence du champ de moutarde de Shah Rukh Khan dans Dilwale Dulhania Le Jayenge, réalisée par Aditya Chopra, le cadrage pictural de Sanjay Leela Bhansali dans Padmaavat et Bajirao Mastani, « Naatu Naatu » de SS Rajamouli dans RRR, le travail d'AR Rahman dans Slumdog Millionaire et Rockstar, les chorégraphies de Farah Khan, et la photographie de Santosh Sivan. Références modernes : les compositions de Pritam pour Brahmastra, les titres-phares de Pathaan et Jawan, le rollout Pathaan de Vishal-Shekhar. Le modèle Bollywood de Tunee connaît la chorégraphie en formation, la saturation chromatique comme outil principal et le montage par collage de lieux comme caractéristique."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Ne bridez pas la palette — Bollywood s'effondre sous un étalonnage de couleur trop sage. Nommez plutôt trois blocs de couleur saturée par plan (« saris safran-jaune, ciel teal profond, mur magenta ») et un archétype de lieu (champ de moutarde, cour de palais, rue de Mumbai sous la mousson, prairie suisse). L'instinct de « toner down » produit quelque chose qui se lit comme Bollywood-adjacent plutôt que comme Bollywood."
+      }
+    ]
+  }
 }

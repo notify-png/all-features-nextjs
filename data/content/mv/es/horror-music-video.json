@@ -39,5 +39,23 @@
       "q": "¿Admite la exportación de videos musicales de horror en resolución 4K?",
       "a": "Absolutamente. Tunee exporta videos musicales de horror en resolución de hasta 4K, manteniéndolos listos para YouTube, plataformas de streaming y pantallas de gran tamaño."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV DE HORROR",
+    "h2": "El horror funciona con lo que no muestras",
+    "sections": [
+      {
+        "heading": "Lo que el video de horror exige",
+        "body": "El horror es el género donde la contención rinde más que el espectáculo. Los frames que asustan a la gente están mayormente vacíos: un pasillo sin iluminar con una sola luz práctica al final, una figura demasiado lejana para leerse con claridad, un plano general sostenido un beat de más. El body horror y el gore son herramientas, no el género. Las reglas visuales: sombra profunda con el detalle aplastado al negro, cámara en mano o fija (nunca tracking suave), corrección de color fría o de verde-amarillo enfermizo, grano que sugiera una película degradada o metraje de vigilancia."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "Estantería de referencias: el catálogo de horror de A24 — Hereditary y Midsommar de Ari Aster con sus planos generales simétricos, The Witch (VVitch) y The Lighthouse de Robert Eggers por sus encuadres de época a la luz de las velas, Get Out y Nope de Jordan Peele por el encuadre satírico del horror, la tradición found-footage de The Blair Witch Project de Daniel Myrick, la quietud de Park Chan-wook en Stoker. Videos musicales: 'Come to Daddy' de Aphex Twin por Chris Cunningham, 'Closer' de Nine Inch Nails por Mark Romanek, 'Anvil' de Lorn. Referencias de videojuegos: el remake de Resident Evil 2 de Capcom, la niebla de Silent Hill 2 de Konami. El modelo de horror de Tunee se entrena con espacio negativo y encuadre slow-burn, no con sobrecarga de jump scares."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica lo que NO está en cuadro: 'una figura al fondo, sin sujeto en primer plano, terreno medio vacío'. Fija la cámara: 'plano general fijo, sin movimiento' o 'cámara en mano temblorosa, frame rate bajo'. La fuente de luz importa — 'una sola bombilla práctica, cenital, sombra dura' le gana a 'oscuro y aterrador'. Añade película: 'grano de 16mm, leve gate weave' para esa sensación de horror analógico. Sostén los planos más de lo que es cómodo; el horror necesita la pausa."
+      }
+    ]
+  }
 }

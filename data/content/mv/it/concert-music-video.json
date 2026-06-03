@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale in stile concerto per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale in stile concerto utilizzando diversi prompt o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV CONCERTO",
+    "h2": "I video di concerto si elevano o cadono sul taglio",
+    "sections": [
+      {
+        "heading": "Cos'è il video di concerto",
+        "body": "Il concert MV è un formato specifico: performance live multi-camera, tagliata sulla canzone, intercut tra ampie inquadrature del palco, copertura stretta dell'artista, reazione del pubblico e inquadrature hero del rig di luci. La costrizione del genere è che la musica è la vera registrazione e il visivo deve corrispondere alla sua energia beat-per-beat. Il taglio è tutto - la maggior parte dei video di concerti che sembrano piatti sono girati bene e montati male, tenendo ampie inquadrature attraverso i ritornelli dove l'artista ha bisogno di essere stretto."
+      },
+      {
+        "heading": "Quando usarlo",
+        "body": "Il concert MV è il formato giusto quando la presenza live dell'artista è il brand (Tame Impala, Phoebe Bridgers, Beyoncé), quando si rilascia un film del tour, quando un locale o festival è esso stesso un'attrazione (Glastonbury Pyramid Stage, Red Rocks, la serie Tiny Desk di NPR). Il canone dei registi è piccolo: Jonathan Demme ha definito la forma con Stop Making Sense dei Talking Heads (1984), Sam Wrench ha diretto Eras Tour theatrical di Taylor Swift, Ed Burke ha diretto Homecoming di Beyoncé per Netflix, Spike Lee ha girato il footage di Amazing Grace di Aretha. Esempi recenti: Live at the O2 di Billie Eilish, qualsiasi cosa Boiler Room abbia girato nell'ultimo decennio. È anche il formato più usato per i fancam K-pop."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Specifica la scala del locale e lo stile di illuminazione: 'piccolo club, singolo follow-spot, ombra profonda attorno al pubblico' contro 'scala da arena, intera parete LED dietro l'artista, laser nell'hazer'. Nomina il conteggio delle camere e gli angoli: 'copertura a tre camere: ampia del palco, stretta sul viso dell'artista, mani-in-alto del pubblico'. Aggiungi 'tagli sul beat dei colpi di rullante, ogni 1-2 secondi nel ritornello, tenute più lunghe nella strofa' per il ritmo del montaggio. Tunee può generare il ritmo del taglio se lo descrivi."
+      }
+    ]
+  }
 }

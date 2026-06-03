@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale in stile fumetto per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale in stile fumetto utilizzando prompt diversi o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV STILE FUMETTO",
+    "h2": "Lo stile fumetto funziona solo quando ci si impegna a fondo",
+    "sections": [
+      {
+        "heading": "Cosa richiede lo stile fumetto",
+        "body": "Il video stile fumetto ha una qualità binaria - o ogni fotogramma si legge come una vignetta o nessuno lo fa. I non-negoziabili: linee d'inchiostro visibili (peso variabile, tirate a pennello, non un contorno piatto da 1px), puntini halftone o riempimenti Ben-Day invece di gradienti morbidi, riempimenti di colore duro con palette limitate, occasionale tipografia cinetica (POW, SLAM) usata con parsimonia. Sin City l'ha spinto al puro bianco/nero con un colore accento. Spider-Verse ha stratificato tre diverse densità di puntini per la profondità. Il terreno di mezzo si legge come filtrato, non disegnato."
+      },
+      {
+        "heading": "Da dove viene lo sguardo",
+        "body": "Scaffale di riferimenti: le pagine di Sin City di Frank Miller (il film di Robert Rodriguez del 2005 ha esteso il linguaggio allo schermo), la trilogia Spider-Verse di Phil Lord e Christopher Miller con la sua animazione frame-skip e aberrazione cromatica, la trilogia Spider-Man di Sam Raimi per la messa in scena live-action, le chapter card di Kill Bill di Quentin Tarantino, l'arte dei Gorillaz di Jamie Hewlett diretta dallo stesso Jamie, l'inchiostrazione in spazio negativo di Hellboy di Mike Mignola (filmato da Guillermo del Toro), la linea espressiva di Skottie Young. Specifico per i music video: Feel Good Inc. e On Melancholy Hill dei Gorillaz, Interstella 5555 dei Daft Punk diretto da Leiji Matsumoto. Il modello stile fumetto di Tunee tratta peso dell'inchiostro, densità halftone e layout delle vignette come variabili separate controllabili."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Scegli un inchiostratore come riferimento: 'inchiostro ad alto contrasto di Frank Miller', 'silhouette in spazio negativo di Mignola', 'halftone multi-densità di Spider-Verse'. Specifica il conteggio della palette: 'quattro colori più linea d'inchiostro nera'. Aggiungi istruzioni di cornice della vignetta se le vuoi: 'occasionali bordi di vignetta a split-screen, gutter bianco'. Salta i fumetti del dialogo a meno che il tuo video non abbia dialogo reale - parole SFX fluttuanti vanno bene e aggiungono movimento."
+      }
+    ]
+  }
 }

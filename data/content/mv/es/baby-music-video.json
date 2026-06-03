@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi video musical para bebés?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA sincronizará automáticamente tu video musical para bebés."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV DEL BEBÉ",
+    "h2": "Convierte el primer año en algo más que un carrete del móvil",
+    "sections": [
+      {
+        "heading": "Por qué un MV de bebé le gana a otro álbum del móvil",
+        "body": "Todo padre o madre termina el primer año con dos mil fotos casi idénticas y sin tiempo para ordenarlas. Un MV de 60 a 90 segundos es el formato que realmente se ve — lo bastante corto para que los abuelos lo repitan, musicalizado con una canción de cuna o con la canción que sonaba durante la primera ecografía. Comprime la abundancia desordenada del material del recién nacido en algo con principio, medio y final, en vez de en una carpeta de Google Photos que nadie abre."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Las fotógrafas de recién nacidos como Anne Geddes y Carrie Sandoval disparan el mismo canon por una razón: una mano diminuta envuelta alrededor del dedo de un adulto, pies contra la palma del padre, la arruga de una ceja dormida, el primer baño, la primera risa cazada por accidente. La tradición de las fotos-hito en Pinterest, el reel viral de anuncio de embarazo, el lenguaje de los comerciales de Huggies y Pampers — todo descansa sobre la fotografía familiar más callada de Sally Mann. Luz suave de ventana, foco corto, blancos cálidos — la gramática visual ya está ahí para apoyarse en ella. Suelta tu pista, menciona tres de estos momentos en lenguaje llano y el MV está medio storyboardeado. Hasta el opening de Up de Pete Docter tomó prestado un solo plano de zapatitos de recién nacido para anclar todo un montaje."
+      },
+      {
+        "heading": "Conviértelo en el regalo",
+        "body": "El MV de bebé más útil es el que se manda a familiares que aún no han conocido al bebé. Tunee renderiza 9:16 para Stories, 16:9 para el televisor del grupo familiar y 1:1 para la versión imprimir-y-enmarcar, todo desde una sola generación."
+      }
+    ]
+  }
 }

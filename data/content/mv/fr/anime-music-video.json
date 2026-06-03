@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale Anime ?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale Anime."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES MV ANIME",
+    "h2": "Des MV anime qui n'ont pas l'air d'un accident Stable Diffusion",
+    "sections": [
+      {
+        "heading": "À quoi ressemble vraiment l'anime",
+        "body": "L'anime n'est pas un style — c'est une dizaine d'écoles aux règles distinctes. Les arrière-plans picturaux et l'animation limitée de Ghibli. Les god rays et lens flares hyper-détaillés de Makoto Shinkai dans Your Name et Weathering With You. Le character acting de Kyoto Animation dans Violet Evergarden. Les bursts sakuga de Trigger dans Kill la Kill. Le trait cel-shaded, les aplats de couleur, les cycles de marche en trois images — ce sont des choix, pas des défauts. Les pages AMV remplies de génériques « anime girl » sont faites par des gens qui n'en ont choisi aucun."
+      },
+      {
+        "heading": "Des références qui fonctionnent",
+        "body": "Brief anime MV : nommez le réalisateur et la série. « Ciel de Makoto Shinkai, palette Your Name (2016) » indique au modèle exactement où atterrir — dégradé cyan-orange saturé, god rays volumétriques à travers les trouées de nuages, cumulus peints. « Sakuga d'Hiroyuki Imaishi, images d'action Kill la Kill » convoque le boil énergique des lignes et les impact frames. « Arrière-plan aquarelle d'Hayao Miyazaki et Kazuo Oga » convoque les forêts peintes à la main du Studio Ghibli. Belle de Mamoru Hosoda pour la chorégraphie de foule. Côté MV : « Kaibutsu » d'Eve (animé par Tatemiya) et les visuels « Usseewa » d'Ado. Le modèle anime de Tunee traite ces écoles comme des vocabulaires séparés, et non comme un tout fondu."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Nommez toujours un studio en référence. Précisez ensuite si vous voulez une composition statique avec animation limitée (Ghibli) ou un mouvement sakuga complet (Trigger, Bones). Ajoutez « cel-shaded, arêtes d'ombres dures, pas de dégradé doux sur la peau » pour empêcher le modèle de dériver vers une zone limite anime-3D. Pour les arrière-plans, utilisez « background peint, texture dessinée à la main » — sans cela, vous obtenez des renders 3D avec des personnages anime collés par-dessus, ce qui paraît toujours faux."
+      }
+    ]
+  }
 }

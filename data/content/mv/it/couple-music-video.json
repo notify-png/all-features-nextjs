@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un videoclip musicale per coppie da confrontare?",
       "a": "Sì. Puoi generare diverse variazioni del tuo videoclip musicale per coppie utilizzando prompt diversi o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV DI COPPIA",
+    "h2": "Un video di anniversario che non si legge come uno slideshow",
+    "sections": [
+      {
+        "heading": "Perché un MV di coppia funziona",
+        "body": "La maggior parte dei video sulle relazioni sono troppo lunghi (il film completo del matrimonio) o troppo brevi (una singola clip Instagram). L'MV di anniversario o milestone di relazione si colloca esattamente nel mezzo — 60-90 secondi, musicato sulla canzone che suonava al primo appuntamento, in un viaggio in macchina, o in un ballo di nozze. È il formato che viene inviato privatamente piuttosto che postato pubblicamente, ed è quello che i partner riguardano davvero nello stesso giorno dell'anno successivo."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I videografi di relazioni tornano agli stessi beat: mani intrecciate su un volante, un partner che ride a qualcosa fuori camera, l'inquadratura di nuca camminando via, le tazze abbinate del mattino, il ricongiungimento all'aeroporto. Il canone culturale è costruito sul formato anniversario-vlog pionierato su YouTube, su video di proposta virali come il Lip Dub Proposal di Isaac Lamb (2012), sui film romantici natalizi di Hallmark Channel, su Notting Hill e Love Actually di Richard Curtis come grammatica di riferimento, più l'estetica calda-arancio di Her di Spike Jonze girata da Hoyte van Hoytema. Il footage casual da telefono supera i servizi fotografici in posa - i momenti imbarazzanti, poco lusinghieri e reali invecchiano bene. Dì a Tunee quali tre di quei momenti contano di più e l'MV si organizza attorno a essi."
+      },
+      {
+        "heading": "Rendilo il regalo",
+        "body": "L'uso classico è la mattina dell'anniversario — un singolo messaggio con l'MV allegato, nessuna didascalia necessaria. Tunee produce verticale per l'invio, widescreen per l'eventuale visione in salotto, e quadrato per le rare volte in cui finisce su un feed, tutto da un singolo render."
+      }
+    ]
+  }
 }

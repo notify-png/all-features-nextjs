@@ -39,5 +39,23 @@
       "q": "Tunee的圣诞音乐视频生成器能在移动设备上使用吗？",
       "a": "Tunee可通过网络浏览器在桌面和移动设备上完全访问，因此您可以从任何设备创建圣诞音乐视频，无需安装软件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "圣诞 MV",
+    "h2": "一支比包装纸活得更久的圣诞影像",
+    "sections": [
+      {
+        "heading": "为什么值得做一支圣诞 MV",
+        "body": "家庭圣诞视频通常不是『一段没人看完的 20 分钟家庭录像』，就是『一串互不相干的手机片段』。一支剪给单首圣诞曲（Mariah、Bublé、Wham!，或奶奶一直在唱的那首颂歌）的 MV，给这一天搭起一根脊柱。明年十二月你会重新打开它，记起今年谁坐在桌边，记起谁在甜点时求了婚，或记起那只先拆礼物的狗。"
+      },
+      {
+        "heading": "永远管用的那些镜头",
+        "body": "圣诞节拥有所有节日中最强的视觉经典：圣诞树灯失焦化作 bokeh、清晨袜子里礼物揭晓的瞬间、餐桌上手与手传递菜肴、窗外飘雪的静帧、包装纸的特写。参考书架很深——Mariah Carey 与 AJ Brown 共同执导了她 1994 年的 All I Want for Christmas Is You；Wham! 的 Last Christmas 由 Andy Morahan 在 Saas-Fee 拍摄；Coca-Cola 的 Haddon Sundblom Polar Bears campaign 定义了全球范围的红白主色；John Lewis 由 Adam & Eve DDB 操刀的圣诞广告（Elton John 那条 Some Things Last Longer Than Love）立下了催泪片的标杆。暖钨丝室内对照冷蓝色外景，是每一部 Hallmark Channel 电影都在沿用的调子。把这两种色温都点出来，你的 MV 从第一帧就读得出圣诞味。"
+      },
+      {
+        "heading": "把它做成那份礼物",
+        "body": "把它当作你的新年贺卡寄出。一条短信里嵌的 60 秒 MV，比一张配图库照的纸卡更打人。Tunee 一次渲染同时输出 Story 重播用的 9:16、明年聚会智能电视用的 16:9，以及帖子用的 1:1。"
+      }
+    ]
+  }
 }

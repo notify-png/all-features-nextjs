@@ -39,5 +39,23 @@
       "q": "Tunee 的民謠音樂視頻生成器在移動設備上能工作嗎？",
       "a": "Tunee 通過網頁瀏覽器在桌面和移動設備上完全可用，因此您可以從任何設備上創建民謠音樂視頻，無需安裝軟件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於民謠",
+    "h2": "民謠視頻憑藉克制贏得它的安靜",
+    "sections": [
+      {
+        "heading": "民謠的視覺面貌",
+        "body": "民謠視覺以親密感換取奇觀。攝影機傾向靜止或緩慢漂移——手持但有構圖，而非晃動。自然光承擔大部分工作：黃金時刻的廚房窗戶、黃昏的前廊、陰天下的林中空地。服裝是穿過的羊毛與丹寧，從來不是戲服。藝人通常出現在做事中——倒咖啡、調吉他、走路——而不是直接對著鏡頭表演。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "由 Nabil Elderkin 執導 Bon Iver 的「Holocene」定下了範本：龐大冰島景觀中的一個小小人形，無需敘事弧線。Phoebe Bridgers 的「Kyoto」（由 Lord Danger 執導）順著同樣的克制，加入了乾燥的幽默感。Sean Pecknold 為 Fleet Foxes 拍的「Helplessness Blues」、Sufjan Stevens 的長期影像、Big Thief 的「Not」、Andreas Nilsson 執導 Iron & Wine 的「Boy with a Coin」，以及 Joel 與 Ethan Coen 的「Inside Llewyn Davis」（Bruno Delbonnel 攝影）共處同一脈絡。共享的語法：35mm 顆粒、長焦拉開距離、雙手與面孔的特寫、天氣作為共演。幾乎不用廣角，幾乎不走冷藍。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "抗拒推向「電影感」的形容詞。改為將每個場景錨在一個微小的物理細節：「手指停在第三品」、「十一月空氣中可見的吐息」、「廚房窗上的雨」。Tunee 對時段提示反應很好——「天剛亮」、「日落前最後一小時」——因為它們會自動限制調色。剪輯放長，讓一個瞬間結束之後下一個才開始。民謠是「剪太快會殺掉這首歌」的類型。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale 3D per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale 3D utilizzando prompt diversi o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "I VIDEO MUSICALI 3D",
+    "h2": "Lo sguardo 3D che un tempo richiedeva una render farm",
+    "sections": [
+      {
+        "heading": "Cosa significa davvero 3D nel 2026",
+        "body": "Definire un video '3D' copre uno spettro ampio - illuminazione dei personaggi alla Pixar, ambienti in Unreal Engine 5, prodotti renderizzati in Octane, il surrealismo quotidiano di Beeple. Condividono un indizio: materiali fisicamente basati con vero subsurface scattering, profondità di campo che si risolve correttamente attraverso capelli e vetro, ombre che rispettano la sorgente luminosa. Quando una di queste tre cose si rompe, l'occhio se ne accorge prima del cervello. Tutto il resto è stile sopra questa fondazione."
+      },
+      {
+        "heading": "Da dove viene lo sguardo",
+        "body": "Lo scaffale dei riferimenti è ben consolidato: Spider-Man: Into the Spider-Verse di Phil Lord e Christopher Miller per lo shading stilizzato, Sonnie's Edge di Tim Miller da Love, Death & Robots per il realismo dei personaggi, il lavoro Pixar di Pete Docter e la pipeline RenderMan per pelle e tessuti, la tradizione di acqua e superfici di Andrew Stanton da Finding Nemo, i loop quotidiani in Cinema 4D di Beeple, il crossover anime-3D Discovery / Interstella 5555 dei Daft Punk, i render Blender Cycles che inondano r/blender ogni settimana. Specifico per i music video: gli asset di Heartless di The Weeknd e Astroworld di Travis Scott estratti da Unreal Engine 5. Il modello 3D di Tunee si allena su questo vocabolario, quindi prompt come 'Octane render, profondità di campo, soft area light da finestra a sinistra' atterrano dove un TD li punterebbe."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Specifica il render engine nel prompt anche se è metaforico - 'Octane render', 'Unreal Engine 5 lumen', 'Pixar RenderMan'. Ognuno richiama un diverso insieme di convenzioni per la caduta della luce e la risposta dei materiali. Poi nomina esplicitamente il setup luce: key, fill, rim. Saltare questo è il motivo per cui il 3D generato spesso appare piatto o plasticoso. Aggiungi 'profondità di campo ridotta' solo se il soggetto è uno solo - le scene più ampie ne hanno bisogno disattivata."
+      }
+    ]
+  }
 }

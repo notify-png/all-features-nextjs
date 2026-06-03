@@ -39,5 +39,23 @@
       "q": "Как настроить визуальный стиль своего анимированного музыкального видео?",
       "a": "Вы можете направить визуалы с помощью текстовых запросов, описывающих сцены, настроение и обстановку. AI Tunee интерпретирует ваш ввод и создает вдохновленные 2D анимацией визуалы, которые соответствуют вашей анимированной эстетике."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ОБ ANIMATED MV",
+    "h2": "Animated MV — это категория, а не стиль: сужайте сразу",
+    "sections": [
+      {
+        "heading": "Что покрывает «анимация»",
+        "body": "Анимированный клип — это зонтик над сильно разными ремёслами: 2D-целовая анимация (Spirited Away, Looney Tunes), 3D CG (Pixar, Spider-Verse у Sony), motion graphics (Saul Bass, современные титры), stop-motion (Anomalisa, Aardman), ротоскоп (A Scanner Darkly, Take On Me). Первая задача любого анимированного брифа — выбрать, какое именно. Фраза «хочу animated-клип» не говорит студии ничего. «Хочу Spider-Verse-style mixed-media 2D over 3D» говорит всё."
+      },
+      {
+        "heading": "Когда уместна анимация",
+        "body": "Анимация имеет смысл там, где live action не справится: невозможный масштаб (гигантские монстры, микроскопические миры), высокая стилизация, привязанная к бренду (идентичность Gorillaz Jamie Hewlett, весь проект Damon Albarn), анонимность артиста или бюджет — на небольшом масштабе анимация теперь обходит локационные съёмки с командой. Студии, которые стоит цитировать: команда Phil Lord и Christopher Miller в Sony, стоящая за Spider-Verse; Cartoon Saloon Tomm Moore (Wolfwalkers, Song of the Sea); Genndy Tartakovsky (Samurai Jack, Primal); Madhouse (Belle у Mamoru Hosoda). Жанры, которые традиционно тянутся к анимации: электроника, indie pop, детская музыка, lore-расширяющие релизы. K-pop-лейблы десятилетие используют анимацию для B-сайдов и Gorillaz-style альтер эго."
+      },
+      {
+        "heading": "Подсказка по промптингу для Tunee",
+        "body": "Выбирайте технику анимации в промпте, а не результат: «cel-shaded 2D, frame-replacement animation, hard line work» против «3D CG, Pixar lighting model, subsurface scattering on skin» против «stop-motion, visible armature joints, 12fps». Каждая живёт на своей тренировочной выборке. Смешение техник внутри клипа может работать, но переход нужно проговорить: «live action cut to rotoscope on the drop». Расплывчатый «animated» приземлится на то, чего в датасете больше."
+      }
+    ]
+  }
 }

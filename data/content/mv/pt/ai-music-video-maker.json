@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe do AI MV Maker?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA as sincronizará com seu videoclipe do AI MV Maker automaticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "AI MV MAKER",
+    "h2": "Do arquivo de áudio ao videoclipe finalizado em uma única passada",
+    "sections": [
+      {
+        "heading": "O que 'maker' significa versus 'editor'",
+        "body": "Um AI music video maker é a ferramenta one-shot — você dá a ela uma música, ela te devolve um vídeo pronto. Sem timeline, sem prompting clipe por clipe, sem manejo manual de assets. O trade-off é controle: makers são otimizados para entregar algo assistível nos primeiros três minutos, não para a passada cirúrgica de edição que um editor permite. Para rascunhos, demos enviadas a uma gravadora ou testes de 'essa música precisa mesmo de um vídeo?', é exatamente a ferramenta certa."
+      },
+      {
+        "heading": "O que o maker do Tunee de fato decide por você",
+        "body": "Solte um MP3 e o Tunee escolhe a estética a partir do próprio áudio: uma batida lo-fi pousa em cores muted e câmera em deriva lenta, um instrumental de drill recebe externos noturnos de alto contraste e cortes mais rápidos, uma balada de piano gospel vai com a letra à frente e luz key quente. Você pode sobrescrever o estilo com uma única linha de prompt, mas o padrão raramente é constrangedor — o que é, na prática, a régua que a maioria das ferramentas 'AI MV maker' não consegue alcançar."
+      },
+      {
+        "heading": "A cadeia de agentes que toma a decisão",
+        "body": "Quatro agentes rodam em sequência: o analista de áudio extrai tempo, tonalidade e arco emocional; Nova esboça o mundo visual (personagens, paleta, ambiente); Sage corta esses planos em uma lista de tomadas com tempo mapeado à estrutura da música; o renderizador produz os frames finais. A rota maker roda todos os quatro com padrões inteligentes — a rota editor expõe a mesma cadeia para que você possa intervir em qualquer etapa. Mesmo motor, superfícies diferentes."
+      }
+    ]
+  }
 }

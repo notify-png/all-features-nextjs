@@ -39,5 +39,23 @@
       "q": "我如何在福音音樂影片中添加歌詞或字幕？",
       "a": "Tunee 提供內置歌詞和字幕疊加選項。只需輸入您的歌詞並選擇文字風格，AI 會自動將其同步到您的福音音樂影片。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Gospel",
+    "h2": "Gospel 視頻是被捕捉的會眾，而非被建構的場面",
+    "sections": [
+      {
+        "heading": "Gospel 的視覺面貌",
+        "body": "Gospel 視覺以詩班為中心，而非獨唱者。即便有主唱，畫面也會持續回到一排排面孔——閉眼、舉手、被聖靈觸動的瞬間。場景通常是真實的：彩色玻璃光下的禮拜堂、社區會堂，偶爾是戶外復興聚會。服裝是禮袍或最體面的星期日裝束，不是街頭穿搭。攝影機帶著敬意移動：對個別敬拜者的緩慢推近、橫掃詩班樓席的吊臂鏡頭。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "Kirk Franklin 的「Love Theory」展示了當代藍圖——社區式調度、喜悅的肢體、光從窗灑下。Tasha Cobbs Leonard 的「Break Every Chain」現場版證明 live-in-worship 格式仍然最具衝擊力。CeCe Winans 的「Believe For It」、Maverick City Music 與 Kanye West 的 Sunday Service 集體拍攝、Hezekiah Walker 的詩班剪輯、Hillsong UNITED 的「Oceans」，以及 The Kingdom Choir 在英國皇家婚禮唱出的「Stand By Me」共同完備了這套語彙。共享規則由長期執導 Gospel MV 的 Derek Blanks 與 TBN 的現場拍攝專家確立：任何看起來與情感脫節的編舞都不行。如果一隻舉起的手看起來是擺拍，整個畫面就崩塌。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "先把空間建起來，再把人放進去。先用「陽光穿過木造禮拜堂高窗，光束中可見塵埃」，再加上獨唱者後方排列的詩班。Tunee 在你同時指定自然光與鎢絲光源時，能很好地處理那種混合光的溫度。在較寬的詩班鏡頭之間穿插個別面孔的特寫——Gospel 同時需要那種親密與規模感。剪輯落在樂句的呼吸上，而非小鼓上。"
+      }
+    ]
+  }
 }

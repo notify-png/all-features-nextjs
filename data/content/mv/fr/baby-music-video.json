@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à ma vidéoclip musicale bébé ?",
       "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera avec votre vidéoclip musicale bébé automatiquement."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LA MV BÉBÉ",
+    "h2": "Transformez la première année en autre chose qu'un rouleau photo",
+    "sections": [
+      {
+        "heading": "Pourquoi une MV bébé l'emporte sur un énième album téléphone",
+        "body": "Chaque parent termine sa première année avec deux mille photos quasi identiques et sans le temps de les trier. Une MV de 60 à 90 secondes est le format qui se regarde vraiment — assez court pour que les grands-parents la rejouent, mise en musique sur une berceuse ou sur la chanson qui passait lors de la première échographie. Elle compresse l'abondance désordonnée du newborn footage en quelque chose avec un début, un milieu et une fin, plutôt qu'en un dossier Google Photos que personne n'ouvre."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les photographes de nouveau-nés comme Anne Geddes et Carrie Sandoval tournent le même canon pour une raison : la main minuscule serrant un doigt d'adulte, les pieds contre la paume d'un parent, le pli d'un sourcil endormi, le premier bain, le premier rire saisi par hasard. La tradition Pinterest des milestone photos, le viral pregnancy-announcement reel, le langage des spots Huggies et Pampers — tout cela repose sur la photographie de famille plus discrète de Sally Mann. Lumière douce de fenêtre, faible profondeur de champ, blancs chauds — la grammaire visuelle est déjà là, il suffit de s'y appuyer. Déposez votre morceau, mentionnez trois de ces moments en clair, et la MV est à moitié storyboardée. Même l'ouverture de Là-haut de Pete Docter a emprunté un seul plan de chaussons de bébé pour ancrer tout un montage."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "La MV bébé la plus utile est celle que l'on envoie aux proches qui n'ont pas encore rencontré l'enfant. Tunee rend du 9:16 pour les Stories, du 16:9 pour la TV du chat de famille, et du 1:1 pour la version à imprimer et encadrer, le tout depuis une seule génération."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee的EDM音乐视频生成器在移动设备上可以工作吗？",
       "a": "Tunee可通过网络浏览器完全访问，兼容台式机和移动设备，因此您可以在任何设备上创建EDM音乐视频，无需安装软件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 EDM",
+    "h2": "EDM MV 就是节日电影——人群是共同主演",
+    "sections": [
+      {
+        "heading": "EDM 长什么样",
+        "body": "EDM 影像分成两种清晰的模式：festival aftermovie（由 Tomorrowland 年度回顾打磨成熟的形式）和叙事型单曲视频。Aftermovie 的惯例：人群之上的航拍、CO2 炮特写、举起的双手映出 LED 墙、慢动作彩纸、舞台搭建的延时、傍晚到夜晚的过渡。叙事形式向流行视频借语言，但永远要在 drop 处回到舞台或人群的画面。色彩高度饱和、对比被推上去、剪辑锁死在 BPM 上。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "参考点：Tomorrowland 官方 aftermovie（定义了这种形式的模板）、Ultra Miami 与 EDC Las Vegas 的年度回顾、Martin Garrix 的『Animals』、Calvin Harris 与 Disclosure 的『How Deep Is Your Love』、Avicii 的『Wake Me Up』与『Levels』、Above & Beyond 的 Group Therapy 影片、Swedish House Mafia 的『Don't You Worry Child』，以及 Eric Prydz HOLO 全息演出的影像记录。导演 Charly Friedrichs（塑造了 Tomorrowland 大半美学）与 V Squared Labs 的舞台设计团队定义了视觉标杆。Tunee 的 EDM 模型分得清『festival 回顾的节奏』与『单曲视频的叙事节奏』。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "先选定模式——festival 还是 narrative——因为它们的视觉语法走的是两条路。Festival 向：点出舞台类型（mainstage 金字塔、林中舞台、亲密俱乐部）、时辰（日落 drop 最致命），以及一种 pyro 元素（CO2、火焰、彩纸）。Narrative 向：把它当作一支流行视频来处理，配上 EDM 编码的色彩和锁死 BPM 的剪辑。同一个提示词里不要混用两者。"
+      }
+    ]
+  }
 }

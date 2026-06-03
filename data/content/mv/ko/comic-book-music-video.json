@@ -39,5 +39,23 @@
       "q": "코믹북 뮤직비디오의 여러 버전을 생성하여 비교할 수 있나요?",
       "a": "예. 다양한 프롬프트나 스타일 설정을 사용하여 코믹북 뮤직비디오의 여러 변형을 생성한 다음 비전에 가장 잘 맞는 버전을 선택할 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "코믹북 MV 이야기",
+    "h2": "코믹북 룩은 끝까지 밀어붙일 때만 성립합니다",
+    "sections": [
+      {
+        "heading": "코믹북 스타일이 요구하는 것",
+        "body": "코믹북 영상은 이진적입니다 — 모든 프레임이 패널로 읽히든지, 아니면 어떤 프레임도 그렇지 않든지 둘 중 하나입니다. 양보할 수 없는 요소들 — 가시 잉크 라인(브러시로 끌어낸 가변 굵기, 1px 평면 아웃라인이 아닌), 부드러운 그라데이션 대신 들어가는 하프톤 도트나 Ben-Day dot 필, 제한된 팔레트의 단단한 컬러 필, 그리고 절제 있게 사용된 모션 타이포(POW, SLAM). Sin City는 이를 흑백과 한 가지 액센트 컬러로 극단까지 밀었고, Spider-Verse는 깊이를 위해 세 가지 다른 도트 밀도를 레이어로 쌓았습니다. 중간 지점에 머물면 '필터 먹인 것'으로 읽히지, '그려진 것'으로는 읽히지 않습니다."
+      },
+      {
+        "heading": "이 룩이 어디에서 왔는가",
+        "body": "레퍼런스 선반 — Frank Miller의 Sin City 페이지(Robert Rodriguez의 2005년 영화가 이 언어를 스크린으로 확장), Phil Lord와 Christopher Miller의 Spider-Verse 트릴로지의 프레임 스킵 애니메이션과 chromatic aberration, Sam Raimi의 Spider-Man 트릴로지의 실사 스테이징, Quentin Tarantino의 Kill Bill 챕터 카드, Jamie Hewlett가 직접 디렉팅한 Gorillaz 아트, Mike Mignola의 Hellboy 네거티브 스페이스 잉킹(Guillermo del Toro가 영화화), Skottie Young의 표현주의적 라인까지. 뮤직비디오 한정으로는 Gorillaz의 'Feel Good Inc.'와 'On Melancholy Hill', Leiji Matsumoto가 연출한 Daft Punk의 'Interstella 5555'. Tunee의 코믹북 모델은 잉크 굵기, 하프톤 밀도, 패널 레이아웃을 분리된 제어 변수로 다룹니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "잉커를 레퍼런스로 고르세요 — 'Frank Miller high-contrast ink', 'Mignola negative-space silhouette', 'Spider-Verse multi-density halftone'. 팔레트 카운트를 명시하세요 — 'four colors plus black ink line'. 원한다면 패널 프레임 지시도 추가하세요 — 'occasional split-screen panel borders, white gutter'. 영상에 실제 대사가 없다면 말풍선은 생략하세요 — 떠다니는 SFX 단어는 괜찮고 오히려 동세를 더해줍니다."
+      }
+    ]
+  }
 }

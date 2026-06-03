@@ -39,5 +39,23 @@
       "q": "Funciona com qualquer gênero de música, ou apenas blues?",
       "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de blues. Você pode gerar videoclipes para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE BLUES",
+    "h2": "MVs de blues vivem em luz tungstênio e instrumentos gastos",
+    "sections": [
+      {
+        "heading": "Como o blues se parece",
+        "body": "O videoclipe de blues tem uma estética assentada porque a música tem um público assentado — ninguém está reinventando a forma, e esse é o ponto. O cânone visual: interior de clube iluminado em tungstênio com sombras duras, closes nas mãos trabalhando o braço da guitarra, o slide da steel guitar, suor na testa sob uma única luz key, fumaça no ar (real ou hazer), amplificadores valvulados brilhando quentes ao fundo. A correção de cor empurra âmbar e preto esmagado. O enquadramento respeita o instrumentista em vez de cortar em torno dele."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "As referências são diretas e nomeadas: os filmes ao vivo do B.B. King em sua fase tardia, a footage do clube Legends do Buddy Guy, 'Bright Lights' e 'When My Train Pulls In' do Gary Clark Jr., o filme do Joe Bonamassa no Royal Albert Hall, os clipes recentes de Christone 'Kingfish' Ingram e as capturas ao vivo do Third Man Records do Jack White. O documentário The Soul of a Man do diretor Wim Wenders e a série The Blues exibida no PBS de Martin Scorsese estabelecem o template visual do cinema sério de blues — venues pequenas, equipamento real, mãos e instrumentos como sujeito primário. O modelo de blues do Tunee é treinado nessa linhagem."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Nomeie o equipamento e o tipo de venue, não apenas o gênero. 'Vintage Gibson ES-335 atravessando um amp Fender tweed, clube de porão com fumaça, lâmpada nua única no teto, mãos em close no bend' produz um quadro crível; 'músico de blues tocando guitarra' produz uma foto de stock. Público de blues percebe quando o equipamento está errado, então especifique."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "它是否只適用於抽象音樂，還是支援任何音樂類型？",
       "a": "Tunee支援除抽象外的多種音樂類型和視覺風格。你可以使用同一平台為流行樂、Hip-Hop、古典樂和數十種其他風格生成音樂影片。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於抽象 MV",
+    "h2": "抽象視頻是依靠動態生死攸關的類型",
+    "sections": [
+      {
+        "heading": "抽象在這裡的真正含義",
+        "body": "抽象音樂視頻意味著沒有角色、沒有場景、沒有故事——只有形狀、顏色與動態回應聲音。做得差，它就是 Windows Media Player 的可視化效果；做得好，它就是 Ryoji Ikeda 在 Barbican 的作品，或 Universal Everything 工作室的線框人物。分界線在於時機：每一次轉場落在瞬態，每一次色彩變化回應和弦轉換。將靜態抽象藝術配上音樂的動畫只是壁紙；懂得聆聽音樂的抽象視頻，才是真正的構圖。"
+      },
+      {
+        "heading": "視覺語彙的源頭",
+        "body": "動態圖像工作室書寫這本字典已逾九十年：Oskar Fischinger 1930 年代的抽象電影、Norman McLaren 在加拿大國家電影局手刮的光學作品、Saul Bass 的片頭、Kyle Cooper 的「Se7en」開場、GMUNK 與 Field.io 學派的生成式作品、Memo Akten 的神經藝術、Refik Anadol 在 MoMA 的數據雕塑、Beeple 的每日循環、Houdini 流體模擬、TouchDesigner 的音頻反應補丁。音樂視頻方面：Chris Cunningham 為 Aphex Twin 操刀的「Windowlicker」、Squarepusher 的「My Red Hot Car」、Cyriak Harris 在 YouTube 的任何作品。Tunee 的抽象模型將流體模擬、粒子系統與幾何形變視為各自獨立的語彙——而非可互換的流行詞。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "每段視頻挑選一種動態原語並貫徹到底：流體、粒子、幾何形變，或符號距離場形變。混合兩種讀起來會顯得混亂。以感受而非形容詞來指定調色盤——「兩種顏色，洋紅與深青」勝過「鮮豔且動感」。告訴 Tunee 密度如何隨歌曲演進：「主歌稀疏粒子，副歌爆發密集綻放」。音頻反應正是整件事的重點——提示詞必須明說。"
+      }
+    ]
+  }
 }

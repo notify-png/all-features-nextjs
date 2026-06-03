@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipe do Editor de MV AI do Tunee funciona em dispositivos móveis?",
       "a": "O Tunee está totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes do Editor de MV AI de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EDITOR DE MV COM IA",
+    "h2": "Um editor de IA que pensa em cortes, não apenas em clipes",
+    "sections": [
+      {
+        "heading": "O que um editor de MV com IA realmente substitui",
+        "body": "Premiere e DaVinci foram construídos para filme narrativo — cada corte é uma decisão manual contra uma forma de onda. Para um videoclipe, isso é exagero: 80% da edição é apenas ajustar a duração do plano à batida. Um editor de MV com IA inverte isso. Você solta a faixa, o sistema marca downbeats, hits de transientes e mudanças de energia, e a timeline chega pré-cortada. Você fica fazendo o que realmente importa — trocar um plano fraco, ajustar uma transição, escolher qual take do refrão pousa mais forte."
+      },
+      {
+        "heading": "O que você de fato pode fazer no editor",
+        "body": "O editor do Tunee não é um pipeline de renderizar e rezar. Após a primeira geração, cada clipe na timeline é editável: regenere um único plano com um novo prompt, trave a aparência de um personagem ao longo dos cortes, mude a proporção sem recortar, troque um plano de B-roll mantendo o sync com a batida intacto. A forma de onda fica sob cada plano para que você possa ver exatamente em qual transiente um corte está pousando, e arrastá-lo um frame se necessário."
+      },
+      {
+        "heading": "Por que os cortes pousam na batida",
+        "body": "Por baixo do capô, o agente analista de áudio roda primeiro — grade de tempo, detecção de downbeat, envelope de energia, segmentação vocal versus instrumental. Sage, o diretor de história, então alinha os limites de plano a esses marcadores antes do renderizador tocar em um único frame. É por isso que MVs do Tunee parecem cortados, não slideshow: a IA não escolheu durações aleatoriamente esperando que sincronizassem. Ela leu a música do jeito que um editor lê uma faixa na primeira escuta."
+      }
+    ]
+  }
 }

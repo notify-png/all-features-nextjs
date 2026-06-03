@@ -39,5 +39,23 @@
       "q": "Как добавить текст песни или субтитры к аниме-видео?",
       "a": "Tunee предлагает встроенные опции наложения текста песни и субтитров. Просто введите текст и выберите стиль шрифта, и AI автоматически синхронизирует их с аниме-видео."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ОБ ANIME MV",
+    "h2": "Аниме-клипы, которые не выглядят как Stable Diffusion-авария",
+    "sections": [
+      {
+        "heading": "Как на самом деле выглядит аниме",
+        "body": "Аниме — это не один стиль, а десяток школ с разными правилами. Живописные фоны и limited animation у Ghibli. Гипердетализированные god rays и блики линз у Makoto Shinkai в Your Name и Weathering With You. Актёрская игра персонажей у Kyoto Animation в Violet Evergarden. Sakuga-вспышки у Trigger в Kill la Kill. Cel-shaded-линия, плоская заливка цвета, трёхкадровый walk cycle — это выборы, а не дефолты. AMV-страницы, забитые дженерик-«anime girl», делают те, кто не выбрал ни одной школы."
+      },
+      {
+        "heading": "Референсы, которые работают",
+        "body": "Когда вы бриф анимешного клипа — называйте режиссёра и тайтл. «Makoto Shinkai sky, Your Name (2016) palette» точно укажет модели, куда приземляться — насыщенный градиент cyan-to-orange, объёмные god rays через разрывы в облаках, нарисованные кучевые. «Hiroyuki Imaishi sakuga, Kill la Kill action frames» подтянет энергичный line boil и impact-кадры. «Hayao Miyazaki and Kazuo Oga watercolor background» — рисованные леса Studio Ghibli. Belle у Mamoru Hosoda — за хореографию толпы. Из MV-родного: Kaibutsu у Eve (анимация Tatemiya) и визуалы Usseewa у Ado. Аниме-модель Tunee трактует эти школы как отдельные словари, а не размазывает их в одну кашу."
+      },
+      {
+        "heading": "Подсказка по промптингу для Tunee",
+        "body": "Всегда называйте студийный референс. Затем указывайте: вам нужна статичная композиция с limited animation (Ghibli) или полноценное sakuga-движение (Trigger, Bones). Добавляйте «cel-shaded, hard shadow edges, no soft gradient on skin», чтобы модель не уезжала в смежную зону 3D-rendered-аниме. Для фонов используйте «painted background, hand-drawn texture» — без этого получите 3D-рендеры с приклеенными сверху аниме-персонажами, что всегда выглядит неправильно."
+      }
+    ]
+  }
 }

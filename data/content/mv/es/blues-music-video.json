@@ -39,5 +39,23 @@
       "q": "¿Funciona con cualquier género de música, o solo Blues?",
       "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá del Blues. Puedes generar videos musicales para pop, hip-hop, clásico y decenas de otros estilos usando la misma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL BLUES",
+    "h2": "Los MVs de blues viven en luz de tungsteno y en instrumentos gastados",
+    "sections": [
+      {
+        "heading": "Cómo se ve el blues",
+        "body": "El video de blues tiene una estética asentada porque la música tiene un público asentado — nadie está reinventando la forma, y ese es el punto. El canon visual: interior de club iluminado con tungsteno y sombras duras, primeros planos a las manos trabajando el diapasón, el slide de steel guitar, sudor en la frente bajo una sola luz key, humo en el aire (real o de hazer), amplificadores valvulares brillando cálidos al fondo. La corrección de color empuja al ámbar y al negro aplastado. El encuadre respeta al intérprete en lugar de cortar a su alrededor."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Las referencias son directas y con nombre: las filmaciones en vivo tardías de B.B. King, las imágenes del club Legends de Buddy Guy, 'Bright Lights' y 'When My Train Pulls In' de Gary Clark Jr., el film del Royal Albert Hall de Joe Bonamassa, los clips recientes de Christone 'Kingfish' Ingram y las capturas en vivo de Third Man Records de Jack White. El documental The Soul of a Man del director Wim Wenders y la serie The Blues emitida por PBS de Martin Scorsese sientan la plantilla visual del cine de blues serio — venues pequeños, equipo real, manos e instrumentos como sujeto primario. El modelo de blues de Tunee está entrenado sobre este linaje."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Nombra el equipo y el tipo de venue, no solo el género. 'Vintage Gibson ES-335 a través de un amplificador Fender en tweed, club de sótano lleno de humo, bombilla desnuda cenital, manos en primer plano sobre un bend' produce un encuadre creíble; 'músico de blues tocando guitarra' produce una foto de stock. El público del blues nota cuando el equipo está mal, así que especifica."
+      }
+    ]
+  }
 }

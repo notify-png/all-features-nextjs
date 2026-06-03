@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe de Aniversário?",
       "a": "Tunee oferece opções de sobreposição de letras e legendas integradas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe de Aniversário."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DE ANIVERSÁRIO",
+    "h2": "Um vídeo de aniversário que não é só footage tremida das velinhas",
+    "sections": [
+      {
+        "heading": "Por que se dar ao trabalho de um MV de aniversário",
+        "body": "O vídeo de aniversário padrão tem 47 segundos de alguém segurando um celular de lado enquanto a sala canta desafinada. Útil para o momento, inútil depois. Um MV de 60 segundos com trilha cortada para a música favorita real do aniversariante viaja muito mais longe — acaba em replay no caminho de casa, postado no mural na manhã seguinte e puxado de novo no próximo aniversário-marco como ponto de referência."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Videomakers de evento conhecem o cânone: o close da vela com a cara-do-pedido pouco antes do sopro, a revelação do bolo over-the-shoulder, o aberto dos amigos cantando, a reação do desembrulho do presente, o tilim das taças no brinde. As pedras de toque culturais são globais — o enquadramento do 'Happy Birthday Mr. President' de Marilyn Monroe em 1962, as performances de Happy Birthday do Stevie Wonder para a campanha do MLK Day, o formato viral de cake-smash infantil no YouTube, as imagens dos balões de aniversário em UP da Pixar dirigido por Pete Docter. Para aniversários-marco — 1, 18, 30, 50 — uma montagem de envelhecimento da mesma pessoa ao longo dos anos pousa mais forte que qualquer plano único, a abordagem Boyhood do Linklater comprimida em 90 segundos. Mencione esses momentos no seu prompt e o Tunee monta em torno deles."
+      },
+      {
+        "heading": "Faça dele o presente",
+        "body": "O melhor MV de aniversário não é exibido na festa — é enviado à pessoa três dias depois, quando a euforia já passou e as mensagens pararam. O Tunee exporta vertical para o Story, quadrado para o post e widescreen para o grupo da família, tudo em um único render."
+      }
+    ]
+  }
 }

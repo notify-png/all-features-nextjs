@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un vidéoclip de musique de bande dessinée pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip de musique de bande dessinée en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES MV COMIC-BOOK",
+    "h2": "Le look comic-book ne marche que lorsqu'il s'engage à fond",
+    "sections": [
+      {
+        "heading": "Ce que requiert le style comic-book",
+        "body": "La vidéo comic-book a un caractère binaire — soit chaque image se lit comme une case, soit aucune. Les incontournables : lignes d'encrage visibles (épaisseur variable, tracées au pinceau, pas un contour plat de 1 px), points de demi-teinte ou aplats Ben-Day au lieu de dégradés lisses, aplats de couleur durs avec palettes limitées, typographie cinétique occasionnelle (POW, SLAM) utilisée avec parcimonie. Sin City l'a poussée jusqu'au noir et blanc pur avec une seule couleur d'accent. Spider-Verse a superposé trois densités de points pour la profondeur. Le juste milieu se lit comme un filtre, pas comme un dessin."
+      },
+      {
+        "heading": "D'où vient le look",
+        "body": "Étagère de références : les pages de Sin City de Frank Miller (le film de Robert Rodriguez en 2005 a étendu le langage à l'écran), la trilogie Spider-Verse de Phil Lord et Christopher Miller avec son animation à images sautées et son aberration chromatique, la trilogie Spider-Man de Sam Raimi pour la mise en scène en prises de vues réelles, les cartons de chapitre de Kill Bill de Quentin Tarantino, le design Gorillaz de Jamie Hewlett, l'encrage en espaces négatifs d'Hellboy de Mike Mignola (filmé par Guillermo del Toro), la ligne expressive de Skottie Young. Côté MV : « Feel Good Inc. » et « On Melancholy Hill » de Gorillaz, Interstella 5555 de Daft Punk réalisé par Leiji Matsumoto. Le modèle comic-book de Tunee traite l'épaisseur d'encrage, la densité de demi-teinte et la mise en page des cases comme des variables distinctes contrôlables."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Choisissez un encreur comme référence : « encrage haut contraste à la Frank Miller », « silhouette en espace négatif à la Mignola », « demi-teinte multi-densité Spider-Verse ». Spécifiez le nombre de couleurs de la palette : « quatre couleurs plus encre noire ». Ajoutez des instructions de cadre de case si vous en voulez : « bordures de panneaux occasionnelles en split-screen, gutter blanc ». Évitez les bulles de dialogue à moins que votre vidéo n'en comporte vraiment — les mots de SFX flottants suffisent et ajoutent du mouvement."
+      }
+    ]
+  }
 }

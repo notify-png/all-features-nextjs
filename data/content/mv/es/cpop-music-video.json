@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un vídeo musical de C-pop para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu vídeo musical de C-pop usando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL C-POP",
+    "h2": "Los videos C-pop mezclan la cinematografía de balada con el pop moderno y pulido",
+    "sections": [
+      {
+        "heading": "Cómo se ve el C-pop",
+        "body": "Los visuales del C-pop tienen dos linajes distintos corriendo en paralelo. La tradición de balada (Jay Chou, JJ Lin) se inclina cinematográfica — narrativa, a menudo de época, con fondos arquitectónicos chinos, paletas inspiradas en la tinta lavada y movimientos lentos de Steadicam. El lado del pop moderno (G.E.M., Jolin Tsai, Eric Chou) toma el pulido del K-pop y lo traduce a través de una estética taiwanesa o hongkonesa — mercados nocturnos de neón, rooftops de vidrio y acero, encuadre de revista de moda."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Las referencias canónicas son 'Blue and White Porcelain' y 'Chrysanthemum Terrace' de Jay Chou — ambas plantillas de balada de época que Chou dirigió personalmente con el letrista Vincent Fang dándole forma a la iconografía — junto a los visuales de la gira 'Sanctuary' de JJ Lin, 'Light Years Away' de G.E.M., la era 'Play' de Jolin Tsai, las películas en vivo de 'Song of Tonight' de Mayday y los álbumes visuales recientes de Eason Chan. El director Wing Shya (cuyo trabajo influenciado por Wong Kar-wai moldea el look moderno hongkonés del Cantopop) y el colaborador frecuente de Jay Chou, Marlboro Lai, anclan el canon visual. El modelo C-pop de Tunee conoce ambos linajes y se desplaza entre ellos según las pistas del prompt."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica qué linaje. Un prompt de balada debe nombrar anclas arquitectónicas y estacionales ('patio con tejados curvos de teja, flores de ciruelo cayendo, cielo en gradiente de tinta lavada'); un prompt de pop moderno debe nombrar especificidad urbana ('neón de mercado nocturno en Taipéi, cámara en mano sobre el sujeto, magenta y cian'). Mezclar ambos produce confusión visual; comprometerte con uno produce un encuadre reconocible."
+      }
+    ]
+  }
 }

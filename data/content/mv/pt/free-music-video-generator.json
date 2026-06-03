@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes do Gerador de MV Gratuito do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e celular, para que você possa criar videoclipes com o Gerador de MV Gratuito em qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "COMEÇANDO",
+    "h2": "O que 'gerador de videoclipe grátis' realmente significa com o Tunee",
+    "sections": [
+      {
+        "heading": "Grátis aqui significa experimente-antes-de-comprar, não capado",
+        "body": "Os geradores grátis de MV que aparecem numa busca do Google geralmente caem em dois campos: saídas travadas em modo trial que colocam marca d'água em cada frame, ou ferramentas 'grátis' que exigem cartão de crédito no cadastro. O Tunee é a terceira opção — gere videoclipes completos em qualidade padrão sem pagar, preview sem marca d'água, sem cartão arquivado. Os planos pagos existem para resolução maior (4K), durações mais longas e prioridade de fila mais rápida. A estética, o diretor de IA e o agente de storyboard são os mesmos no primeiro dia."
+      },
+      {
+        "heading": "O que 'um videoclipe' inclui aqui",
+        "body": "Quando o Tunee te entrega um MV grátis, o deliverable não é um placeholder. Você recebe um vídeo sincronizado ao áudio com pontos de corte pousando em batidas de verdade, coerência em nível de cena — um personagem que se mantém consistente ao longo dos planos, não um slideshow de frames desconexos — e uma proporção à sua escolha: 9:16 para TikTok, 16:9 para YouTube, 1:1 para Instagram. Mesmo upload, três renders, sem créditos extras. A maioria dos 'geradores grátis' é um-formato-ou-pague; este não é assim."
+      },
+      {
+        "heading": "O que de fato está por trás do botão",
+        "body": "Quatro agentes de IA coordenam sob o capô: o analista de áudio marca tempo, tonalidade e contorno emocional; a designer visual Nova esboça personagens e planos de cena; o diretor de história Sage corta esses planos em uma lista de tomadas com tempo; o renderizador produz o vídeo final. O tier grátis roda os quatro — o que você não recebe é a fila prioritária e o upscaler. Para rascunhos, comparações e 'essa ideia vale a pena?', isso é mais do que suficiente."
+      }
+    ]
+  }
 }

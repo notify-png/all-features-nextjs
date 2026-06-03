@@ -39,5 +39,23 @@
       "q": "Funziona con qualsiasi genere musicale, o solo con Blues?",
       "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre a Blues. Puoi generare video musicali per pop, hip-hop, musica classica e dozzine di altri stili utilizzando la stessa piattaforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL BLUES",
+    "h2": "Gli MV blues vivono nella luce al tungsteno e negli strumenti consumati",
+    "sections": [
+      {
+        "heading": "Come si presenta il blues",
+        "body": "Il video blues ha un'estetica consolidata perché la musica ha un pubblico consolidato — nessuno sta reinventando la forma, ed è proprio questo il punto. Il canone visivo: interno di club illuminato al tungsteno con ombre dure, primi piani sulle mani che lavorano un manico, lo slide della steel guitar, sudore sulla fronte sotto una singola key light, fumo nell'aria (vero o di hazer), amplificatori a valvole con bagliore caldo sullo sfondo. La color grade spinge verso l'ambra e il nero schiacciato. L'inquadratura rispetta il musicista invece di tagliare attorno a lui."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "I riferimenti sono diretti e nominati: i film live tardivi di B.B. King, il footage del club Legends di Buddy Guy, 'Bright Lights' e 'When My Train Pulls In' di Gary Clark Jr., il film alla Royal Albert Hall di Joe Bonamassa, le recenti clip di Christone 'Kingfish' Ingram, e le catture live di Jack White per Third Man Records. Il documentario The Soul of a Man di Wim Wenders e la serie The Blues di Martin Scorsese trasmessa da PBS impostano il modello visivo per un cinema blues serio — piccoli locali, vera attrezzatura, mani e strumenti come soggetto primario. Il modello blues di Tunee è allenato su questa genealogia."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Nomina l'attrezzatura e il tipo di locale, non solo il genere. 'Gibson ES-335 vintage attraverso un ampli Fender tweed, club nel seminterrato pieno di fumo, singola lampadina nuda sopra, mani in close-up sul bending' produce un'inquadratura credibile; 'musicista blues che suona la chitarra' produce uno stock photo. Il pubblico blues nota quando l'attrezzatura è sbagliata, quindi specifica."
+      }
+    ]
+  }
 }

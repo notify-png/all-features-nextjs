@@ -39,5 +39,23 @@
       "q": "O gerador de vídeo de música Ambiente do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar vídeos de música Ambiente em qualquer dispositivo sem precisar instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE AMBIENT",
+    "h2": "MVs de Ambient funcionam quando nada acontece e tudo respira",
+    "sections": [
+      {
+        "heading": "Como o ambient se parece",
+        "body": "A música ambient resiste por design ao formato de videoclipe — não há drop para cortar, nem refrão para crescer. A tradição visual do gênero responde com paciência extrema: um único plano de uma montanha em Hokkaido sustentado por dois minutos, neblina atravessando um vale em tempo real, uma tela preta com uma única partícula em deriva, a superfície da água vista de cima. O quadro de referência são instalações de Bill Viola e os planos-sequência de Andrei Tarkovsky, não a edição da MTV."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "Diretores citam a mesma linhagem: 77 Million Paintings de Brian Eno, os visuais do álbum Ravedeath 1972 de Tim Hecker, as projeções ao vivo do Stars of the Lid, os Disintegration Loops de William Basinski pareados com a filmagem do skyline de NYC no 11 de setembro, os visualizadores do Selected Ambient Works do Aphex Twin, e o filme async de Ryuichi Sakamoto dirigido por Stephen Nomura Schible. As instalações em vídeo de Bill Viola e o cinema de plano longo de Andrei Tarkovsky (Stalker, Solaris) são as pedras de toque da imagem paciente — o fio condutor não é tema, é a recusa em cortar. Dois ou três planos ao longo de quatro minutos é uma feature. O modelo ambient do Tunee é calibrado para esse ritmo, em vez de lutar contra ele."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Especifique duração no seu prompt, não apenas o sujeito. 'Único plano de drone de floresta de pinheiros na neblina, sem cortes, deriva lenta para a frente ao longo de 60 segundos' produz o que você quer; 'belíssima montagem ambient de natureza' produz B-roll de stock. Nomeie um elemento de mudança lenta — luz mudando, neblina se deslocando, neve se acumulando — para que o quadro tenha tempo dentro dele, não apenas composição."
+      }
+    ]
+  }
 }

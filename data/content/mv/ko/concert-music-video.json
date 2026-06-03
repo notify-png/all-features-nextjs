@@ -39,5 +39,23 @@
       "q": "여러 버전의 콘서트 음악 비디오를 생성하여 비교할 수 있나요?",
       "a": "네. 다양한 프롬프트나 스타일 설정을 사용하여 콘서트 음악 비디오의 여러 변형을 생성한 후, 당신의 비전에 가장 잘 맞는 버전을 선택할 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "콘서트 MV 이야기",
+    "h2": "콘서트 영상은 컷에서 살고 죽습니다",
+    "sections": [
+      {
+        "heading": "콘서트 영상이란",
+        "body": "콘서트 MV는 특정한 포맷입니다 — 멀티카메라 라이브 퍼포먼스, 곡에 맞춘 컷, 와이드 스테이지 샷, 타이트한 아티스트 커버리지, 군중 리액션, 라이팅 리그 히어로 샷을 교차시키는 형식이죠. 장르의 핵심 제약은 음악이 실제 녹음이며, 비주얼이 비트 단위로 그 에너지에 맞아야 한다는 점입니다. 컷이 모든 것입니다 — 평평하게 느껴지는 콘서트 영상의 대부분은 촬영은 괜찮지만 편집이 잘못된 경우입니다. 아티스트가 타이트해야 할 후렴 동안 와이드 샷을 유지하는 식이죠."
+      },
+      {
+        "heading": "언제 사용해야 하는가",
+        "body": "콘서트 MV는 아티스트의 라이브 존재 자체가 브랜드일 때(Tame Impala, Phoebe Bridgers, Beyonce), 투어 필름을 릴리스할 때, 베뉴나 페스티벌 자체가 매력일 때(Glastonbury Pyramid Stage, Red Rocks, NPR의 Tiny Desk 시리즈) 적합한 포맷입니다. 디렉터 정전은 좁습니다 — Jonathan Demme이 Talking Heads의 'Stop Making Sense'(1984)로 이 형식을 정의했고, Sam Wrench가 Taylor Swift의 'Eras Tour' 극장판을 연출했으며, Ed Burke가 Netflix를 위해 Beyonce의 'Homecoming'을 만들었고, Spike Lee가 Aretha의 'Amazing Grace' 푸티지를 촬영했습니다. 최근 사례로는 Billie Eilish의 'Live at the O2', 지난 10년간 Boiler Room이 촬영한 모든 영상이 있습니다. K-pop 팬캠에서도 가장 많이 쓰이는 포맷입니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "베뉴 규모와 라이팅 스타일을 명시하세요 — 'small club, single follow-spot, deep shadow around audience' vs. 'arena scale, full LED wall behind artist, lasers in haze'. 카메라 수와 앵글을 명명하세요 — 'three-camera coverage: wide stage, tight artist face, crowd hands-up'. 편집 페이싱은 'beat-cut on snare hits, every 1-2 seconds in chorus, longer holds in verse' 식으로 추가하세요. 컷 리듬을 묘사하면 Tunee가 생성합니다."
+      }
+    ]
+  }
 }

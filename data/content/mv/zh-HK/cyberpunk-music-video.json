@@ -39,5 +39,23 @@
       "q": "我是否可以生成多個電子龐克音樂影片版本進行比較？",
       "a": "可以。您可以使用不同的提示或風格設置生成多個電子龐克音樂影片版本，然後選擇最符合您願景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Cyberpunk MV",
+    "h2": "Cyberpunk 的視覺規則比粉絲承認的更嚴格",
+    "sections": [
+      {
+        "heading": "Cyberpunk 的視覺面貌",
+        "body": "Cyberpunk 是雨、霓虹與亞洲文字招牌的疊加，但更深層的規則在光線對比：純黑陰影中托起熱烈的洋紅／青色主光，每個高光都有色像差。中景由體積霧填滿，讓每個霓虹光源都有可見光錐。濕地面把每盞燈翻倍為倒影。少了其中任何一項，你只會得到「帶紫光的黑暗科幻」——相鄰、但不是本體。"
+      },
+      {
+        "heading": "視覺語彙的源頭",
+        "body": "經典：Ridley Scott 的「Blade Runner」（1982）奠基了濕霓虹的東京原型，Denis Villeneuve 的「Blade Runner 2049」（2017）負責全息廣告牆與橙色 Vegas，Mamoru Oshii 的「Ghost in the Shell」（1995）負責俯衝城市鏡頭，Katsuhiro Otomo 的「Akira」（1988）負責街頭高度，Lana 與 Lilly Wachowski 的「The Matrix」負責綠色程式碼洗刷。遊戲：CD Projekt Red 的「Cyberpunk 2077」Night City、「Deus Ex」系列。音樂視頻：Grimes 的「Genesis」、M83「Midnight City」的後續作品、Fortiche 為 Riot Games 製作的「Arcane」片頭。Tunee 的 cyberpunk 模型正以這些畫面語言訓練——「Blade Runner 2049 Vegas 橙色霧霾」會精準命中你的本意。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "永遠配對兩種霓虹色並禁用暖色：「只有洋紅與青色，不要琥珀」。加上「濕地面、霓虹在地面反射」——感知光密度會立刻翻倍。指定「體積霧、可見光錐」否則你會得到扁平霓虹。藝人鏡頭加上「輪廓光剪影、主光來自左上方」——臉全亮會破壞 noir 感。結尾加上「高光帶色像差」以營造鏡頭質感。"
+      }
+    ]
+  }
 }

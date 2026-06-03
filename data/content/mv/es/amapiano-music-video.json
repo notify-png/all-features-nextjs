@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video de música Amapiano para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video de música Amapiano usando diferentes indicaciones o configuraciones de estilo, luego selecciona la versión que mejor se adapte a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL AMAPIANO",
+    "h2": "Los videos de amapiano se construyen alrededor del log drum y la pista de baile",
+    "sections": [
+      {
+        "heading": "Cómo se ve el amapiano",
+        "body": "Los MVs de amapiano crecieron en TikTok y en la pista de baile del township sudafricano antes de crecer en Vevo. Las firmas visuales: planos cerrados de multitud filmados desde dentro del círculo de baile, lentes ojo de pez y ultra-angular, insertos de footwork en cámara lenta, la cabina del DJ como encuadre recurrente y fiestas callejeras al anochecer iluminadas por una sola luz dura. El color es de alto contraste — piel negra contra neón, tenis blancos como punto focal. La cámara se mueve con la bailarina, no alrededor de ella."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Los visuales canónicos vienen de la era Scorpion Kings de Kabza De Small y DJ Maphorisa, del rollout de 'Mnike' de Tyler ICU y Khalil Harrison, de 'Ke Star' de Focalistic, de los club edits de DBN Gogo, de los livestreams Balcony Mix de Major League DJz y del viral 'Tanzania' de Uncle Waffles — esa performance filmada con un solo teléfono definió toda una estética para el género. Directores como Pyramidda (Kabza, Maphorisa) y Mahlatse Tshukulu se apoyan en el origen social-media del amapiano: encuadre vertical, inmediatez de cámara en mano, el paso de baile siempre centrado. El modelo de amapiano de Tunee conoce este linaje."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Centra el baile, no al artista. Un prompt como 'círculo de bailarines alrededor de un solo performer, calle de township al atardecer, lente ultra-angular, insertos de footwork en cámara lenta' funciona mejor que 'escena de fiesta amapiano'. Nombra también el log drum visualmente — el productor tocando el pad, el bajo pegando en un plano de reacción de la multitud — y el corte se sincroniza con el beat en lugar de simplemente cubrirlo."
+      }
+    ]
+  }
 }

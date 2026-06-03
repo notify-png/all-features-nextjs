@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipe de Hip Hop da Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, então você pode criar videoclipes de Hip Hop de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE HIP HOP",
+    "h2": "O vídeo de hip hop carrega uma cidade nos ombros",
+    "sections": [
+      {
+        "heading": "Como o hip hop se parece",
+        "body": "MVs de hip hop trançam duas camadas: a performance — geralmente o rapper para a câmera, com lip-sync apertado, frequentemente num baixo ângulo poderoso — e o mundo que produziu a música. Esse mundo é específico. Compton, Houston, Toronto, Brooklyn cada um tem uma assinatura visual, e os melhores vídeos se recusam a vir do nada. O guarda-roupa é atual ao mês, não ao ano. Carros importam. Crews importam. Os cortes pousam na rima, nunca só na batida."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "'HUMBLE.' e 'Alright' do Kendrick Lamar (ambos dirigidos por Dave Meyers e the little homies) são o livro-texto moderno para performance somada a peso social. 'SICKO MODE' e 'HIGHEST IN THE ROOM' do Travis Scott (Dave Meyers de novo) mostram escala surreal sem perder o rap como espinha dorsal. O trabalho de Hiro Murai com Donald Glover ('This Is America', 'Sober') e FKA Twigs elevou a régua para MVs narrativos. 'MIDDLE CHILD' do J. Cole mantém o registro conversacional; 'Hotline Bling' do Drake dirigido por Director X foi minimalista e mudou tudo. Os visuais de Cole Bennett pela Lyrical Lemonade para Juice WRLD e Eminem estendem a linhagem, com a era fisheye de Hype Williams e o trabalho de Spike Jonze para os Beastie Boys como regras básicas."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Dê ao Tunee um bairro específico, não uma cidade genérica. 'Varanda no fim do dia no sul de Memphis, dois amigos, crepúsculo azul' bate 'cena de rua urbana' toda vez. Trave um elemento de guarda-roupa de assinatura — corrente, moletom, boné — e deixe-o aparecer em cada corte para que o artista seja lido como contínuo. Use a estrutura verso-refrão: planos apertados de performance durante as barras, B-roll de lifestyle durante o hook. Corte nas consoantes, não no bumbo."
+      }
+    ]
+  }
 }

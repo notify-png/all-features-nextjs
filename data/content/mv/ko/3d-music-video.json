@@ -39,5 +39,23 @@
       "q": "3D 뮤직 비디오의 여러 버전을 생성하여 비교할 수 있나요?",
       "a": "네. 다양한 프롬프트나 스타일 설정을 사용하여 3D 뮤직 비디오의 여러 변형을 생성한 다음 당신의 비전에 가장 잘 맞는 버전을 선택할 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "3D 뮤직비디오 이야기",
+    "h2": "한때 렌더 팜이 필요했던 3D 룩이 이제는 손끝에서 나옵니다",
+    "sections": [
+      {
+        "heading": "2026년의 '3D'가 의미하는 것",
+        "body": "비디오를 '3D'라고 부를 때 그 범위는 매우 넓습니다 — Pixar의 캐릭터 라이팅, Unreal Engine 5 환경, Octane으로 렌더링된 제품 샷, Beeple의 데일리 초현실주의까지. 이들이 공유하는 단서는 분명합니다. 실제 서브서피스 스캐터링을 갖춘 물리 기반 머티리얼, 머리카락과 유리를 통해 정확히 해석되는 피사계 심도, 그리고 광원을 존중하는 그림자입니다. 이 세 가지 중 하나라도 무너지면 두뇌가 인지하기 전에 눈이 먼저 알아챕니다. 나머지는 모두 그 기반 위에 얹는 스타일일 뿐입니다."
+      },
+      {
+        "heading": "이 룩이 어디에서 왔는가",
+        "body": "참고 자료의 계보는 명확합니다. 스타일라이즈드 셰이딩의 Phil Lord와 Christopher Miller의 Spider-Man: Into the Spider-Verse, 캐릭터 리얼리즘의 Tim Miller가 연출한 Love, Death & Robots의 Sonnie's Edge, 피부와 옷감의 Pete Docter Pixar 작업과 RenderMan 파이프라인, Andrew Stanton의 Finding Nemo가 정립한 물과 표면 전통, Beeple의 데일리 Cinema 4D 루프, Daft Punk의 Discovery 및 Interstella 5555가 보여준 애니메이션-3D 크로스오버, 그리고 매주 r/blender를 채우는 Blender Cycles 렌더까지. 뮤직비디오 한정으로는 The Weeknd의 'Heartless'와 Travis Scott의 Astroworld 자산이 Unreal Engine 5에서 추출되었습니다. Tunee의 3D 모델은 이 어휘로 학습되어 있어 'Octane render, depth of field, soft area light from window left' 같은 프롬프트가 TD가 의도한 자리에 정확히 안착합니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "비유적이라 하더라도 렌더 엔진을 프롬프트에 명시하세요 — 'Octane render', 'Unreal Engine 5 lumen', 'Pixar RenderMan'. 각각이 빛 감쇠와 머티리얼 반응에 대해 서로 다른 컨벤션을 끌어옵니다. 그다음 라이트 셋업을 명확히 지정하세요. key, fill, rim. 이 단계를 생략하면 생성된 3D가 평평하거나 플라스틱처럼 보이는 이유가 됩니다. 'shallow depth of field'는 피사체가 하나일 때만 추가하세요. 넓은 장면에서는 끄는 것이 맞습니다."
+      }
+    ]
+  }
 }

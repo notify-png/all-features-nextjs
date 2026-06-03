@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe de música Fitness para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de música Fitness usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se ajusta à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DE FITNESS",
+    "h2": "Um vídeo de transformação que não parece um comercial da Bowflex",
+    "sections": [
+      {
+        "heading": "Por que MVs de fitness valem fazer direito",
+        "body": "O slideshow antes/depois morreu — o formato foi tão explorado no TikTok que o público rola para passar instantaneamente. O que ainda funciona é o MV do processo de treino: 60 segundos com trilha de alta BPM, peso jogado para o trabalho diário em vez do reveal. Donos de academia usam para destaques de alunos, treinadores usam para recaps de cliente, e indivíduos usam como marcadores pessoais de um bloco de 12 semanas que vale mais que uma foto na balança."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Fotógrafos esportivos conhecem o cânone: close de magnésio nas mãos, a flexão da barra numa repetição pesada, a expiração com a toalha sobre o rosto, o aberto da academia vazia de manhã, a checagem do relógio entre séries. O blueprint é a montagem de treino do Rocky de John G. Avildsen (1976) — o Gonna Fly Now de Bill Conti com sincronia de corte em escadas e em carcaças de boi. As campanhas da Nike pela Wieden+Kennedy (Find Your Greatness, Dream Crazy com Colin Kaepernick) definiram o visual moderno. O All In da Adidas, a cobertura dos CrossFit Games da Reebok, o formato de voiceover de David Goggins no Instagram, as cenas de treino de Magic Mike de Steven Soderbergh. A correção de cor é dessaturada com pretos esmagados e um acento — anilhas vermelhas, letreiro EXIT em neon, nascer do sol pela janela. Especifique essa paleta mais um tempo de faixa, e o corte sincroniza às elevações naturalmente."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Não peça 'planos motivacionais de academia' — isso te entrega footage de stock. Em vez disso, nomeie o levantamento (terra, clean, push press), a hora do dia e o equipamento de forma específica. 'Garagem-academia às 5 da manhã, vazia, barra única carregada com anilhas enferrujadas, grade dessaturada, uma única tungstênio quente no teto' pousa onde um DP de verdade apontaria a câmera."
+      }
+    ]
+  }
 }

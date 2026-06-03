@@ -39,5 +39,23 @@
       "q": "Come personalizzare lo stile visivo del mio video musicale animato?",
       "a": "Puoi guidare i visivi utilizzando prompt di testo che descrivono scene, stati d'animo e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visivi ispirati all'animazione 2D che corrispondono alla tua estetica animata."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV ANIMATO",
+    "h2": "L'MV animato è una categoria, non uno stile - prima restringilo",
+    "sections": [
+      {
+        "heading": "Cosa copre l'animato",
+        "body": "Il video musicale animato è un ombrello su mestieri selvaggiamente diversi: animazione 2D cel (Spirited Away, Looney Tunes), 3D CG (Pixar, Spider-Verse di Sony), motion graphics (Saul Bass, sequenze di titoli moderne), stop-motion (Anomalisa, Aardman), rotoscope (A Scanner Darkly, Take On Me). Il primo lavoro di qualsiasi brief animato è scegliere quale. 'Voglio un video animato' non dice nulla a uno studio. 'Voglio un mixed-media 2D su 3D in stile Spider-Verse' gli dice tutto."
+      },
+      {
+        "heading": "Quando usare l'animazione",
+        "body": "L'animazione ha senso quando il live action non può: scale impossibili (mostri giganti, mondi microscopici), forte stilizzazione legata a un brand (l'identità Gorillaz di Jamie Hewlett, l'intero progetto di Damon Albarn), anonimato per l'artista, o budget — a piccola scala l'animazione ora costa meno di shoot in location e una troupe. Studi degni di nota: il team Sony di Phil Lord e Christopher Miller dietro Spider-Verse, Cartoon Saloon di Tomm Moore (Wolfwalkers, Song of the Sea), Genndy Tartakovsky (Samurai Jack, Primal), Madhouse (Belle di Mamoru Hosoda). Generi che tradizionalmente vanno sull'animato: elettronica, indie pop, musica per bambini, uscite di espansione del lore. Le etichette K-pop usano l'animazione per B-side e alter ego stile Gorillaz da anni."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Scegli la tecnica di animazione nel prompt, non il risultato: 'cel-shaded 2D, animazione frame-replacement, line work duro' contro '3D CG, modello di illuminazione Pixar, subsurface scattering sulla pelle' contro 'stop-motion, giunti di armatura visibili, 12fps'. Ognuno vive su dati di training diversi. Mescolare tecniche a metà video può funzionare, ma devi nominare la transizione: 'live action tagliato a rotoscope sul drop'. 'Animato' vago atterra su qualunque cosa sia più comune."
+      }
+    ]
+  }
 }

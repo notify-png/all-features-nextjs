@@ -50,7 +50,7 @@
       },
       {
         "heading": "Reference points that work",
-        "body": "Briefing anime MV: name the studio and the show. 'Shinkai-style sky, Your Name palette' tells the model exactly where to land - saturated cyan-to-orange gradient, volumetric god rays through cloud breaks, painted cumulus. 'Trigger sakuga, Kill la Kill action frames' pulls energetic line boil and impact frames. 'Ghibli watercolor background' pulls Kazuo Oga's hand-painted forests. Tunee's anime model is trained on these distinct schools as separate vocabularies, not melted together."
+        "body": "Briefing anime MV: name the director and the show. 'Makoto Shinkai sky, Your Name (2016) palette' tells the model exactly where to land - saturated cyan-to-orange gradient, volumetric god rays through cloud breaks, painted cumulus. 'Hiroyuki Imaishi sakuga, Kill la Kill action frames' pulls energetic line boil and impact frames. 'Hayao Miyazaki and Kazuo Oga watercolor background' pulls Studio Ghibli's hand-painted forests. Mamoru Hosoda's Belle for crowd choreography. For MV-native references: Eve's Kaibutsu (animated by Tatemiya) and Ado's Usseewa visuals. Tunee's anime model treats these schools as separate vocabularies, not melted together."
       },
       {
         "heading": "Prompting tip for Tunee",

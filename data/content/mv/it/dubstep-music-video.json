@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale Dubstep?",
       "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale Dubstep."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL DUBSTEP",
+    "h2": "Gli MV dubstep sono costruiti attorno al drop — tutto serve il basso",
+    "sections": [
+      {
+        "heading": "Come si presenta il dubstep",
+        "body": "Il video dubstep è strutturato attorno a un singolo evento: il drop. Tutto prima è build-up, tutto dopo è reazione. Le firme visive: effetti glitch e datamosh sincronizzati ai wobble, tagli duri sul drop (mai dissolvenze incrociate), forte distorsione della lente alle frequenze di picco, neon iper-saturo (blu elettrico, verde tossico, ultravioletto), inserti stroboscopici, frame-skipping e texture di decadimento digitale. Le inquadrature del mondo reale sono spesso sovrapposte con distorsione astratta piuttosto che presentate pulite."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "Riferimenti: 'First of the Year (Equinox)' di Skrillex diretto da Tony Truand che ha definito il template cinematic-meets-glitch, 'Bangarang' con Sirah, le visual in livestream di Lost Lands di Excision che hanno fissato il benchmark di scala produttiva, il rollout di 'Ghost Voices' di Virtual Self, le clip animate di Zomboy, i film stage-design di Datsik, e 'Woo Boost' di Rusko. La genealogia risale ai video di Chris Cunningham per Aphex Twin ('Come to Daddy', 'Windowlicker') e Squarepusher — la relazione del genere con il decadimento digitale è più vecchia del dubstep stesso. Il modello dubstep di Tunee gestisce tagli duri e effetti stacking."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Costruisci il prompt attorno al drop, non alla canzone. Descrivi l'inquadratura pre-drop ('ampia statica su capannone vuoto, grade lo-fi'), l'evento drop ('taglio duro a RGB-split, fotogrammi datamosh, overlay stroboscopico'), e la continuazione post-drop. Tunee sincronizza i tagli al beat — se gli dai un tempo e la posizione del drop, i montaggi atterrano dove atterra il basso."
+      }
+    ]
+  }
 }

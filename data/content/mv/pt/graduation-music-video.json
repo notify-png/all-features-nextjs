@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um vídeo musical de Formatura para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu vídeo musical de Formatura usando diferentes prompts ou configurações de estilo, então selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DE FORMATURA",
+    "h2": "Um vídeo de formatura que sobrevive depois do jogue-o-chapéu-pro-alto",
+    "sections": [
+      {
+        "heading": "Por que um MV de formatura importa",
+        "body": "Cerimônias de formatura são paradoxalmente pouco cinematográficas — gente demais, iluminação ruim, longos trechos de nomes sendo lidos. O formato MV resgata o dia comprimindo quatro anos (ou doze, ou um) em 60 a 90 segundos com trilha de uma faixa que significa algo para o formando. É o artefato que pais enviam a parentes que não puderam viajar, e o que os formandos de fato salvam em vez do stream oficial da cerimônia."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Fotógrafos de cerimônia filmam um cânone apertado: o freeze-frame do chapéu lançado contra o céu, o close do hooding, o aberto do aperto de mão com diploma, a reação do pai ou mãe na multidão, o abraço pós-cerimônia no gramado. A estante de referência inclui o discurso de Steve Jobs em Stanford em 2005 (filmado pelo Stanford News Service), o discurso 'This Is Water' de David Foster Wallace em Kenyon, a tradição de retrato de yearbook da Herff Jones e Jostens, as versões do Pomp and Circumstance pelo Vitamin String Quartet tocadas em toda cerimônia, e os especiais de formatura do Tiny Desk da NPR. Misture três ou quatro planos de progresso — foto do primeiro dia de aula, mudança para o dormitório, uma virada com a mochila numa mesa — e o MV ganha um arco que a cerimônia em si não entrega. O antes-e-depois da mesma mochila funciona toda vez."
+      },
+      {
+        "heading": "Faça dele o presente",
+        "body": "Envie ao formando na manhã do dia, não depois. Reenquadra o dia antes do caos começar. O Tunee renderiza vertical para o Story pós-cerimônia, widescreen para o replay no jantar daquela noite e quadrado para a mensagem aos avós, tudo a partir de uma única geração."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en desktop y móvil, para que puedas crear videos musicales desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EMPEZANDO",
+    "h2": "Qué significa realmente 'generador gratuito de video musical' con Tunee",
+    "sections": [
+      {
+        "heading": "Aquí gratis significa probar-antes-de-comprar, no recortado",
+        "body": "Los generadores gratuitos de MV que aparecen en una búsqueda de Google suelen caer en dos campos: salidas bloqueadas por trial que marcan con watermark cada frame, o herramientas 'gratis' que exigen una tarjeta de crédito al registrarte. Tunee es la tercera opción — genera videos musicales completos en calidad estándar sin pagar, preview sin watermark, sin tarjeta archivada. Los planes de pago existen para mayor resolución (4K), duraciones más largas y prioridad de cola más rápida. La estética, el director con IA y el agente de storyboard son los mismos desde el día uno."
+      },
+      {
+        "heading": "Qué incluye aquí 'un video musical'",
+        "body": "Cuando Tunee te entrega un MV gratis, el entregable no es un placeholder. Recibes un video sincronizado con el audio con puntos de corte que aterrizan sobre beats reales, coherencia a nivel de escena — un personaje que se mantiene consistente a través de los planos, no una presentación de frames inconexos — y la relación de aspecto que tú elijas: 9:16 para TikTok, 16:9 para YouTube, 1:1 para Instagram. El mismo upload, tres renders, sin créditos adicionales. La mayoría de los 'generadores gratis' son un-formato-o-paga; este no lo es."
+      },
+      {
+        "heading": "Qué hay realmente detrás del botón",
+        "body": "Cuatro agentes con IA coordinan por debajo: el analista de audio etiqueta tempo, tonalidad y contorno emocional; la diseñadora visual Nova esboza personajes y plates de escena; el director de historia Sage corta esas plates en una shot list cronometrada; el renderer produce el video final. El plan gratuito corre los cuatro — lo que no obtienes es la cola prioritaria y el upscaler. Para borradores, comparaciones y '¿vale la pena perseguir esta idea?', con eso sobra."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipe musical Cinemático da Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador da web em desktop e mobile, para que você possa criar videoclipes musicais Cinemáticos em qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV CINEMÁTICO",
+    "h2": "O que 'cinemático' de fato significa quando um diretor diz",
+    "sections": [
+      {
+        "heading": "O checklist do cinemático",
+        "body": "Cinemático é a palavra mais abusada em briefings de vídeo. Reduzido ao essencial, significa um conjunto específico de escolhas: enquadramento anamórfico 2.39:1 ou 2.4:1 com bokeh oval e lens flares horizontais, cadência de movimento a 24fps com shutter de 180 graus, correção de cor puxando para teal-e-orange ou uma LUT customizada, grão de filme no nível que você veria em uma digitalização de impressão 35mm. Erre qualquer um desses e um espectador que assiste filmes vai sentir antes de conseguir nomear."
+      },
+      {
+        "heading": "De onde vem o visual",
+        "body": "Diretores de fotografia que pessoas de fato citam: Roger Deakins (1917 de Sam Mendes, Blade Runner 2049 de Denis Villeneuve), Emmanuel 'Chivo' Lubezki (Children of Men de Alfonso Cuaron, Birdman e The Revenant de Inarritu), Hoyte van Hoytema (Interstellar e Oppenheimer de Christopher Nolan). No nível de diretor: Christopher Nolan, Denis Villeneuve, Paul Thomas Anderson. Específicos de videoclipe: o trabalho de Hiro Murai para Childish Gambino (This Is America, Sober), Weapon of Choice de Spike Jonze para Fatboy Slim, qualquer coisa que Jonas Akerlund tenha cortado para Madonna ou The Prodigy. O vocabulário é compartilhado com longa-metragem — o modelo cinemático do Tunee é treinado na mesma linguagem de DP, então 'silhueta contra a luz no estilo Deakins' resolve corretamente."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Trave a proporção no prompt: 'anamórfico 2.39:1, bokeh oval, lens flare horizontal'. Especifique o stock de filme: 'Kodak Vision3 500T, grão fino' ou 'Fuji Eterna, contraste muted'. Nomeie um DP como referência em vez de descrever o visual com adjetivos — 'iluminado como Deakins em 1917' comunica mais que três frases de descrição de cor. Pule 'cinemático' como palavra solta; é vaga demais para guiar qualquer coisa."
+      }
+    ]
+  }
 }

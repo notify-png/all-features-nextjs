@@ -39,5 +39,23 @@
       "q": "Funktioniert es mit jedem Musikgenre oder nur mit Country?",
       "a": "Tunee unterstützt eine breite Palette von Genres und Visualstilen über Country hinaus. Du kannst Musikvideos für Pop, Hip-Hop, Klassik und Dutzende weitere Stile auf derselben Plattform generieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER COUNTRY",
+    "h2": "Country-MVs laufen auf Pickups, Feldern und Neon-Bar-Licht",
+    "sections": [
+      {
+        "heading": "So sieht Country aus",
+        "body": "Country-Musikvideo hat einen klar definierten visuellen Kanon, den das Publikum des Genres erwartet und belohnt. Die Signaturen: Pickup-Trucks (Ford F-150 und Chevy Silverado, staubbedeckt), Weizen- oder Maisfelder in der Golden Hour, verwitterte Cowboyhüte und Western-Hemden mit Perlmuttknöpfen, Dive-Bar-Innenräume mit Neon-Bierschildern als Key Light, Veranda-Aufnahmen, Schotterstraßen, die sich in Hügeln verlieren. Die Farbkorrektur ist warm und leicht entsättigt, mit einem Hauch Teal in den Schatten. Handkamera ist akzeptabel; Drohnenshots über Feldern sind Pflicht."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Die Referenzen erstrecken sich über Epochen: Luke Combs' „Beautiful Crazy\", Morgan Wallens „Whiskey Glasses\", Kacey Musgraves' „Slow Burn\" und „Rainbow\" (das moderne, kunstvoll gestaltete Ende), Chris Stapletons CMA-Live-Performance von „Tennessee Whiskey\", Carrie Underwoods „Before He Cheats\" und Zach Bryans bewusst lo-fi-haltige Clips. Regisseure wie Trey Fanjoy (Taylor Swifts „Tim McGraw\", Carrie Underwood), Wes Edwards (Luke Combs, Brad Paisley), Justin Clough und Roman White prägen einen Großteil des aktuellen Looks. Tunees Country-Modell kennt den Unterschied zwischen Bro-Country-hell und Americana-gedämpft."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Spezifiziere das Subgenre — Bro-Country (party-hell, Neon-Bar, geliftet Truck), Americana (gedämpft, Veranda, Vintage Wrangler) oder Modern-Pop-Country (Nashville-Dachterrasse, modeforward). Ein Prompt, der die Marke des Trucks, die Biermarke des Bar-Schilds oder die Feldfrucht benennt, produziert ein schärferes Bild als „Country-Musikszene\". Das Publikum merkt, wenn die Requisiten falsch sind."
+      }
+    ]
+  }
 }

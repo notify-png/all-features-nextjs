@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe com Storyboard com IA?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe com Storyboard com IA."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "STORYBOARD COM IA",
+    "h2": "O storyboard é onde o videoclipe é, de fato, dirigido",
+    "sections": [
+      {
+        "heading": "Por que diretores fazem storyboard antes de filmar",
+        "body": "Em uma filmagem real de MV, o storyboard é o documento mais caro do projeto — é o que diretor, DP e gravadora assinam antes de uma única luz ser montada. Pule essa etapa e você queima diárias em planos que não casam na edição. Pipelines de MV com IA que vão direto do prompt ao render também pulam essa etapa, e é por isso que tantos produzem quatro clipes bonitos que não contam uma história. Uma passada de storyboard força a decisão: do que se trata esse vídeo, plano a plano."
+      },
+      {
+        "heading": "O que a visão de storyboard mostra",
+        "body": "No Tunee, o storyboard não é um slideshow de imagens estáticas — é uma lista de tomadas com tempo. Cada frame tem uma duração travada na grade de batidas da música, uma descrição de plano em uma linha (aberto, médio, fechado, insert), uma tag de personagem ou locação e um preview em miniatura. Você pode reorganizar, deletar, regenerar ou reescrever um único plano antes de commitar com um render completo. É a etapa barata em que você descobre que o refrão precisa de um plano aberto, não de mais um close."
+      },
+      {
+        "heading": "Como pensa o agente de storyboard do Tunee",
+        "body": "Sage, o agente diretor de história, esboça o board contra três entradas: o mapa estrutural do analista de áudio (verso / pré / refrão / ponte), a folha de personagens e locações da Nova, e a letra se fornecida. Aplica regras editoriais básicas — não cortar duas vezes no mesmo eixo, guardar o plano mais aberto para o maior momento, segurar um close em linhas vocais emocionais — então entrega um board com o qual você pode discutir. Essa discussão é onde o vídeo, de fato, é dirigido."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "它是否适用于任何音乐流派，还是仅限Funk？",
       "a": "Tunee支持Funk以外的广泛流派和视觉风格。你可以使用同一平台为流行、嘻哈、古典音乐和其他数十种风格生成音乐视频。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 FUNK",
+    "h2": "镜头里的 funk，先是编舞，其余都靠边",
+    "sections": [
+      {
+        "heading": "funk 长什么样",
+        "body": "Funk MV 靠紧致的 pocket 和更紧致的穿搭运转。想想阔腿裤、缎面、皮草领、整支乐队像一个单位那样运动。色彩响亮且刻意：芥末黄打在烧橙之上、洋红打在青柠之上。画面常常比流行视频要宽，因为舞蹈要能读出来——你得在同一个构图里看见贝斯手的胯下沉、鼓手的笑。光是硬的、饱和的，不是柔的。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "Bruno Mars 与 Anderson .Paak 一起搭起了当代 funk MV 的语言——Silk Sonic 的『Leave the Door Open』、『Smokin Out the Window』，以及 Bruno Mars 的『24K Magic』和由 Florent Déchard 和 Bruno Mars 执导的『Finesse』。Vulfpeck 那种素净的录音棚拍摄、Thundercat 的『Them Changes』和 Janelle Monáe 的『Make Me Feel』证明，只要乐队对，一台锁定的摄像机就够。更早的基石依然重要：Earth, Wind & Fire 的舞台剪辑、Prince 的『Kiss』、James Brown 的 T.A.M.I. Show 影像，以及导演 Hype Williams 90 年代邻 funk 的作品（Missy Elliott 的『The Rain』）。把这些串起来的，是不间断的长镜与排练过却不显得机械的编舞。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "在视觉风格之前先指定乐队编制。『六件套乐队、奶白色西装统一、铜管组在舞台左侧、鼓手居中、锁定的全景』给了 Tunee 一处挂住 groove 的钩子。然后把色彩作为单独一拍叠加：『墙面巧克力棕、点缀光为热粉』。不要写『funky vibes』——这个流派太具体，扛不住含糊的语言。点出你要的年代：『1975 Soul Train』、『1985 Minneapolis』、『2024 Silk Sonic』。"
+      }
+    ]
+  }
 }

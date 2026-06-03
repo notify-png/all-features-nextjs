@@ -39,5 +39,23 @@
       "q": "カントリーのみに対応していますか、それとも他のジャンルにも対応していますか?",
       "a": "Tuneeはカントリー以外の幅広いジャンルとビジュアルスタイルをサポートしています。同じプラットフォームを使用して、ポップ、ヒップホップ、クラシック、その他数十のスタイルのミュージックビデオを生成できます。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "カントリーについて",
+    "h2": "カントリー MV はトラック、畑、そしてネオンのバーライトで走る",
+    "sections": [
+      {
+        "heading": "カントリーの見た目とは",
+        "body": "カントリーのミュージックビデオは、ジャンルの聴衆が期待し評価する、明確に定義されたビジュアル・カノンを持っています。シグネチャ：ピックアップトラック（埃にまみれた Ford F-150 や Chevy Silverado）、ゴールデンアワーの麦畑やトウモロコシ畑、使い込まれたカウボーイハットとパールスナップのシャツ、キーライトとしてのネオンビールサインを伴うダイブバーの内装、玄関ポーチのショット、丘へと退いていく未舗装路。カラーグレードは暖かく、わずかに彩度を抑え、シャドウにはティールのヒントを混ぜる。手持ちは許容される。畑の上のドローンショットは必須。"
+      },
+      {
+        "heading": "実際に機能するリファレンス",
+        "body": "リファレンスは時代をまたぎます：Luke Combs「Beautiful Crazy」、Morgan Wallen「Whiskey Glasses」、Kacey Musgraves「Slow Burn」「Rainbow」（現代的でアートディレクションの効いた側）、Chris Stapleton の CMA ライブパフォーマンス「Tennessee Whiskey」、Carrie Underwood「Before He Cheats」、Zach Bryan の意図的にローファイなクリップ。Trey Fanjoy（Taylor Swift「Tim McGraw」、Carrie Underwood）、Wes Edwards（Luke Combs、Brad Paisley）、Justin Clough、Roman White といった監督が、現代のルックの多くを形作っています。Tunee のカントリー・モデルは bro-country の明るさと Americana のミュートさの違いを認識します。"
+      },
+      {
+        "heading": "Tunee へのプロンプトのコツ",
+        "body": "サブジャンルを指定してください——bro-country（パーティ向きに明るい、ネオンバー、リフトアップしたトラック）、Americana（ミュート、ポーチ、ヴィンテージの Wrangler）、または現代ポップ寄りカントリー（Nashville の屋上、ファッション前傾）。トラックの車種、バーのビールサインのブランド、畑の作物を名指しすると、「カントリーの音楽シーン」より鋭いフレームが返ります。聴衆は小道具が違っていれば気付きます。"
+      }
+    ]
+  }
 }

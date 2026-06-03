@@ -39,5 +39,23 @@
       "q": "모든 음악 장르에서 작동하나요, 아니면 추상만 가능한가요?",
       "a": "Tunee는 추상 외에도 다양한 장르와 시각적 스타일을 지원합니다. 동일한 플랫폼을 사용하여 팝, 힙합, 클래식 및 수십 개의 다른 스타일에 대한 음악 비디오를 생성할 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "추상 뮤직비디오 이야기",
+    "h2": "추상 영상은 모션 하나로 살고 죽는 장르입니다",
+    "sections": [
+      {
+        "heading": "여기서 말하는 '추상'의 진짜 의미",
+        "body": "추상 뮤직비디오는 캐릭터도, 장소도, 이야기도 없이 오직 도형과 색, 사운드에 반응하는 움직임만으로 구성됩니다. 잘못 만들면 Windows Media Player의 비주얼라이저가 되고, 잘 만들면 Barbican에서의 Ryoji Ikeda나 Universal Everything 스튜디오의 와이어프레임 인물이 됩니다. 이 둘을 가르는 것은 타이밍입니다. 모든 트랜지션이 트랜지언트에 안착하고, 모든 색 전환이 화음 변화에 응답합니다. 음악에 맞춰 단순히 움직이는 정적 추상 아트는 벽지에 불과합니다. 진짜로 듣고 반응하는 추상 영상이야말로 작곡입니다."
+      },
+      {
+        "heading": "이 룩이 어디에서 왔는가",
+        "body": "모션 그래픽 스튜디오들은 지난 90년간 이 사전을 써왔습니다. Oskar Fischinger의 1930년대 추상 영화, 캐나다 국립영화위원회에서 Norman McLaren이 직접 손으로 긁어 만든 옵티컬 작업, Saul Bass의 타이틀, Kyle Cooper의 'Se7en' 시퀀스, GMUNK와 Field.io 계열의 제너러티브 작업, Memo Akten의 뉴럴 아트, Refik Anadol의 MoMA 데이터 조각, Beeple의 데일리 루프, Houdini 플루이드 시뮬레이션, TouchDesigner 오디오 리액티브 패치까지. 뮤직비디오 한정으로는 Chris Cunningham이 연출한 Aphex Twin의 'Windowlicker', Squarepusher의 'My Red Hot Car', 그리고 YouTube에서 Cyriak Harris가 만드는 모든 것이 있습니다. Tunee의 추상 모델은 fluid simulation, particle systems, morphing geometry를 서로 호환되지 않는 별개의 어휘로 취급합니다 — 모호하게 뒤섞이는 버즈워드가 아닙니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "영상 한 편당 하나의 모션 프리미티브만 골라 끝까지 밀어붙이세요. fluid, particle, geometry morph, 혹은 signed-distance-field deformation 중 하나입니다. 두 개를 섞으면 혼란스럽게 읽힙니다. 팔레트는 형용사가 아닌 감각으로 지정하세요 — 'two colors, magenta and deep cyan'이 'vibrant and dynamic'보다 훨씬 정확합니다. 곡과 함께 밀도가 어떻게 진화하는지 Tunee에 알려주세요. 'sparse particles in verse, dense bloom on drop' 같은 식입니다. 오디오 반응성이야말로 이 장르의 전부이니, 프롬프트에 명시적으로 적어두는 것이 좋습니다."
+      }
+    ]
+  }
 }

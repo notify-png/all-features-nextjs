@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Cyberpunk per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Cyberpunk utilizzando prompt diversi o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV CYBERPUNK",
+    "h2": "Le regole visive del cyberpunk sono più rigide di quanto i suoi fan ammettano",
+    "sections": [
+      {
+        "heading": "Come si presenta il cyberpunk",
+        "body": "Cyberpunk è pioggia su neon su insegne con caratteri asiatici, ma la regola più profonda è il contrasto luminoso: ombre nero pece che tengono key light magenta/ciano accese, con aberrazione cromatica su ogni highlight speculare. La foschia volumetrica riempie la distanza media così ogni sorgente neon ha un cono visibile. Il selciato bagnato raddoppia ogni luce in un riflesso. Salta uno di questi e ottieni 'dark sci-fi con luci viola' - adiacente ma non il genere."
+      },
+      {
+        "heading": "Da dove viene lo sguardo",
+        "body": "Il canone: Blade Runner di Ridley Scott (1982) per la Tokyo originale al neon bagnato, Blade Runner 2049 di Denis Villeneuve (2017) per i cartelloni olografici e la Vegas arancione, Ghost in the Shell di Mamoru Oshii (1995) per le inquadrature di tuffo nella città, Akira di Katsuhiro Otomo (1988) per il livello strada, The Matrix di Lana e Lilly Wachowski per il wash di codice verde. Giochi: Night City di Cyberpunk 2077 di CD Projekt Red, la serie Deus Ex. Music video: Genesis di Grimes, i sequel di Midnight City di M83, le sequenze di titoli di Arcane di Riot Games di Fortiche. Il modello cyberpunk di Tunee è allenato su questi esatti linguaggi di inquadratura - 'foschia arancione Vegas di Blade Runner 2049' atterra esattamente dove vuoi."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Accoppia sempre due colori neon e vieta i toni caldi: 'solo magenta e ciano, niente ambra'. Aggiungi 'selciato bagnato, riflesso del neon sul terreno' - raddoppia la densità di luce percepita. Specifica 'foschia volumetrica, coni di luce visibili' o otterrai neon piatto. Per l'inquadratura dell'artista, aggiungi 'silhouette rim-illuminata, key light dall'alto-sinistra' - facce illuminate completamente distruggono il noir. Termina con 'aberrazione cromatica sugli highlight' per la sensazione della lente."
+      }
+    ]
+  }
 }

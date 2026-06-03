@@ -39,5 +39,23 @@
       "q": "TuneeのシネマティックPHP生成器はモバイルデバイスで機能しますか？",
       "a": "Tuneeはデスクトップとモバイルの両方でWebブラウザ経由で完全にアクセスでき、ソフトウェアをインストールしなくても任意のデバイスからシネマティック音楽ビデオを作成できます。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "シネマティック MV について",
+    "h2": "監督が「シネマティック」と言うときの本当の意味",
+    "sections": [
+      {
+        "heading": "シネマティックのチェックリスト",
+        "body": "「シネマティック」はビデオブリーフで最も濫用される言葉です。剥ぎ取れば、それは特定の選択のセットを意味します：アナモルフィック 2.39:1 または 2.4:1 のフレーミング、楕円ボケと水平レンズフレア、180 度シャッターによる 24fps のモーションケーデンス、ティール&オレンジまたはカスタム LUT 方向のカラーグレード、35mm プリントスキャンで見られるレベルのフィルムグレイン。これらのうち一つでも誤ると、映画を観慣れた視聴者は、それを言語化する前に違和感を察知します。"
+      },
+      {
+        "heading": "ルックの源流",
+        "body": "実際に引用される撮影監督：Roger Deakins（Sam Mendes「1917」、Denis Villeneuve「Blade Runner 2049」）、Emmanuel「Chivo」Lubezki（Alfonso Cuaron「Children of Men」、Inarritu「Birdman」「The Revenant」）、Hoyte van Hoytema（Christopher Nolan「Interstellar」「Oppenheimer」）。監督レベル：Christopher Nolan、Denis Villeneuve、Paul Thomas Anderson。MV では Hiro Murai による Childish Gambino 仕事（「This Is America」「Sober」）、Fatboy Slim「Weapon of Choice」を撮った Spike Jonze、Madonna や The Prodigy のために Jonas Akerlund が編集した諸作。語彙は劇映画と共有されており——Tunee のシネマティック・モデルは同じ DP 言語で学習されているので、「Deakins スタイルのバックライトのシルエット」は正しく解像します。"
+      },
+      {
+        "heading": "Tunee へのプロンプトのコツ",
+        "body": "プロンプトでアスペクト比を固定：「アナモルフィック 2.39:1、楕円ボケ、水平レンズフレア」。フィルムストックを指定：「Kodak Vision3 500T、ファイングレイン」または「Fuji Eterna、抑えたコントラスト」。形容詞でルックを記述するより、リファレンス DP を一人名指しすること——「『1917』の Deakins のように照らされた」は色の記述 3 文より多くを伝えます。単体での「シネマティック」は避けてください——曖昧すぎて舵が利きません。"
+      }
+    ]
+  }
 }

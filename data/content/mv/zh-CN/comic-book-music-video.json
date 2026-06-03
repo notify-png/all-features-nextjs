@@ -39,5 +39,23 @@
       "q": "我可以生成多个漫画书音乐视频版本进行比较吗？",
       "a": "可以。您可以使用不同的提示或样式设置生成多个漫画书音乐视频变体，然后选择最符合您愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于漫画风 MV",
+    "h2": "漫画书风格只有在『一以贯之』时才成立",
+    "sections": [
+      {
+        "heading": "漫画风需要什么",
+        "body": "漫画书影像有一个非黑即白的属性——要么每一帧都读得出『漫画格』，要么都读不出。几条不可妥协：可见的墨线（粗细变化、笔刷拉出来的，而不是 1px 的扁平描边）、用半色调点或 Ben-Day dot 填充替代平滑渐变、有限调色板内的硬色填充、偶尔出现的动态文字（POW、SLAM）但要克制使用。Sin City 把它推到了纯黑白加一种点缀色；Spider-Verse 叠了三种不同密度的网点表达纵深。中间地带，看起来就是『滤镜』，而不是『画出来的』。"
+      },
+      {
+        "heading": "这种质感的来源",
+        "body": "参考书架：Frank Miller 的 Sin City 页面（Robert Rodriguez 2005 年的电影把这套语言带到了银幕）、Phil Lord 与 Christopher Miller 的 Spider-Verse 三部曲及其抽帧动画与色差错位、Sam Raimi 的 Spider-Man 三部曲提供真人调度参考、Quentin Tarantino 的 Kill Bill 章节卡、Jamie Hewlett 亲手指导的 Gorillaz 艺术、Mike Mignola 的 Hellboy 负空间勾线（由 Guillermo del Toro 搬上银幕）、Skottie Young 富有表情的线条。MV 圈：Gorillaz 的 Feel Good Inc. 与 On Melancholy Hill、Daft Punk 由 Leiji Matsumoto 操刀的 Interstella 5555。Tunee 的漫画风模型把墨线粗细、半色调密度和分格布局作为彼此独立、可控的变量。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "挑一位上墨者作参考：『Frank Miller high-contrast ink』、『Mignola negative-space silhouette』、『Spider-Verse multi-density halftone』。指定调色数：『四色加黑色墨线』。如果想要分格框，就写出来：『偶尔出现的分屏漫画格边框、白色 gutter』。除非视频里真的有对话，否则跳过对话气泡——飘浮的拟声词没问题，还能添运动感。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Bollywood-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Bollywood-Musikvideos mit verschiedenen Prompts oder Stileinstellungen generieren und dann die Version auswählen, die Ihrer Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER BOLLYWOOD",
+    "h2": "Bollywood-MVs leben von Farbe, Choreografie und unverstellter Größe",
+    "sections": [
+      {
+        "heading": "So sieht Bollywood aus",
+        "body": "Die Konventionen des Bollywood-Musikvideos sind die maximalistischsten der Welt — und sie verdienen es. Die Signaturen: große Gruppenchoreografien in perfekter Formation, Kostümwechsel zwischen den Strophen, Location-Wechsel mitten im Song (Mumbais Straße zu Schweizer Alpen zu Palasthof), gesättigte Farben über das gesamte Spektrum (keine gedämpften Paletten), und die Stimme der Playback-Sängerin über dem Lipsync der Schauspielerin als anerkannte Konvention. Die Kamera ist immer in Bewegung — Kran, Dolly, Steadicam — und kommt nie zur Ruhe."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Die Referenzen sind grundlegend: Shah Rukh Khans Senffeld-Sequenz aus Dilwale Dulhania Le Jayenge unter der Regie von Aditya Chopra, Sanjay Leela Bhansalis malerisches Framing in Padmaavat und Bajirao Mastani, SS Rajamoulis „Naatu Naatu\" aus RRR, AR Rahmans Arbeit für Slumdog Millionaire und Rockstar, die Choreografie von Farah Khan und die Kameraarbeit von Santosh Sivan. Moderne Bezugspunkte: Pritams Kompositionen für Brahmastra, die Titeltracks von Pathaan und Jawan, Vishal-Shekhars Pathaan-Rollout. Tunees Bollywood-Modell kennt Formationschoreografie, Farbsättigung als primäres Werkzeug und Location-Collage-Editing als Feature."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Halte die Palette nicht zurück — Bollywood bricht unter geschmackvoller Farbkorrektur zusammen. Benenne stattdessen pro Shot drei gesättigte Farbblöcke („safrangelbe Saris, tiefes Teal-Himmel, magentafarbene Wand\") und einen Location-Archetyp (Senffeld, Palasthof, Mumbais Monsunstraße, Schweizer Wiese). Der Instinkt, „es runterzudrehen\", produziert etwas, das sich als Bollywood-nahe statt als Bollywood liest."
+      }
+    ]
+  }
 }

@@ -50,7 +50,7 @@
       },
       {
         "heading": "Where the look comes from",
-        "body": "Directors of photography people actually cite: Roger Deakins (1917, Blade Runner 2049), Emmanuel Lubezki (Children of Men, The Revenant), Hoyte van Hoytema (Interstellar, Oppenheimer). Music-video specific cinematic references: Hiro Murai's work for Childish Gambino (This Is America, Sober), Spike Jonze's Weapon of Choice, anything Jonas Akerlund cut for Madonna. The vocabulary is shared with feature film - Tunee's cinematic model trains on the same DP language so 'Deakins-style backlit silhouette' resolves correctly."
+        "body": "Directors of photography people actually cite: Roger Deakins (Sam Mendes' 1917, Denis Villeneuve's Blade Runner 2049), Emmanuel 'Chivo' Lubezki (Alfonso Cuaron's Children of Men, Inarritu's Birdman and The Revenant), Hoyte van Hoytema (Christopher Nolan's Interstellar and Oppenheimer). Director-level: Christopher Nolan, Denis Villeneuve, Paul Thomas Anderson. Music-video specific: Hiro Murai's work for Childish Gambino (This Is America, Sober), Spike Jonze's Weapon of Choice for Fatboy Slim, anything Jonas Akerlund cut for Madonna or The Prodigy. The vocabulary is shared with feature film - Tunee's cinematic model trains on the same DP language so 'Deakins-style backlit silhouette' resolves correctly."
       },
       {
         "heading": "Prompting tip for Tunee",

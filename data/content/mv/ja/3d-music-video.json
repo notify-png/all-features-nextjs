@@ -39,5 +39,23 @@
       "q": "3Dミュージックビデオの複数バージョンを生成して比較することはできますか?",
       "a": "はい。異なるプロンプトやスタイル設定を使用して、3Dミュージックビデオのいくつかのバージョンを生成し、あなたのビジョンに最も適したバージョンを選択できます。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "3D ミュージックビデオについて",
+    "h2": "かつてレンダーファームを必要とした 3D ルックを、いまここで",
+    "sections": [
+      {
+        "heading": "2026 年における 3D の意味",
+        "body": "ビデオを「3D」と呼ぶとき、その範囲は広い——Pixar のキャラクター・ライティング、Unreal Engine 5 の環境、Octane でレンダリングされたプロダクトショット、Beeple の日々のシュルレアリスム。これらに共通する見分け方は、物理ベースのマテリアルにリアルなサブサーフェス・スキャタリングが宿っていること、髪やガラスを通しても正しく解像する被写界深度、そして光源を尊重する影です。この三点のどれかが破綻したとき、脳より先に目がそれを察知します。あとはすべて、この土台の上にスタイルを乗せていく作業です。"
+      },
+      {
+        "heading": "ルックの源流",
+        "body": "リファレンスの棚は確立されています。Phil Lord と Christopher Miller の「Spider-Man: Into the Spider-Verse」のスタイライズドなシェーディング、Tim Miller の「Sonnie's Edge」（Love, Death & Robots）のキャラクターのリアリズム、Pete Docter の Pixar 作品と RenderMan パイプラインによる肌や布の表現、Andrew Stanton の「Finding Nemo」が築いた水と表面の伝統、Beeple の Cinema 4D デイリーループ、Daft Punk の「Discovery」／「Interstella 5555」というアニメ × 3D の越境作、毎週 r/blender に溢れる Blender Cycles のレンダー群。MV では The Weeknd の「Heartless」や Travis Scott の「Astroworld」が Unreal Engine 5 のアセットを引き寄せました。Tunee の 3D モデルはこの語彙で学習されているため、「Octane render、被写界深度、画面左の窓からのソフトエリアライト」のようなプロンプトは、テクニカルディレクターが意図する場所に正確に着地します。"
+      },
+      {
+        "heading": "Tunee へのプロンプトのコツ",
+        "body": "比喩的であってもレンダーエンジンをプロンプトに明記してください——「Octane render」「Unreal Engine 5 lumen」「Pixar RenderMan」のように。それぞれが光の減衰やマテリアル応答に関する異なる慣習を引き寄せます。次にライティングのセットを明示的に名指ししましょう——key、fill、rim。これを省くから、生成された 3D は平坦かプラスチック的になりがちです。被写体が一つの場合だけ「shallow depth of field」を加える——広いシーンではむしろオフにすべきです。"
+      }
+    ]
+  }
 }

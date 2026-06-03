@@ -39,5 +39,23 @@
       "q": "Funziona con qualsiasi genere musicale, o solo con Halloween?",
       "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre a Halloween. Puoi generare videoclip musicali per Pop, Hip-Hop, Classica e dozzine di altri stili utilizzando la stessa piattaforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV DI HALLOWEEN",
+    "h2": "Un video di Halloween che si guadagna i suoi spaventi invece di prenderli in prestito",
+    "sections": [
+      {
+        "heading": "Perché funzionano gli MV di Halloween",
+        "body": "Halloween è la rara festività in cui un music video fa parte del canone — Thriller definisce ancora il genere 40 anni dopo. Il formato premia lo sforzo: feste in costume, passeggiate in case stregate, zucche e giri di trick-or-treat traggono tutti vantaggio da un taglio musicato più di una clip grezza. Il post del 31 ottobre competerà con migliaia di altri, quindi un MV di 60 secondi con un filo visivo coerente supera un dump dal telefono."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I cinematografi horror si appoggiano a un kit stabile: inquadratura del porticato a basso angolo con bagliore della zucca, interni a sola candela con ombre dure, nebbia attraverso alberi spogli, lenta dolly-in su una maschera, l'inquadratura over-the-shoulder del corridoio. Il canone è imperdibile - John Landis ha diretto Thriller di Michael Jackson (1983), ancora il punto di riferimento del genere, più The Nightmare Before Christmas di Henry Selick e Tim Burton, le aperture di Scream di Wes Craven, la cucina di Hereditary di Ari Aster, lo stalk Steadicam di Halloween di John Carpenter (1978), l'illuminazione del sunken place di Get Out di Jordan Peele. La color grade è teal-and-orange per il kid-friendly, desaturato con push verde per il vero horror. Specifica quale livello vuoi - divertimento da festa in costume o genuino brivido - e il registro visivo si blocca."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "L'errore è chiedere 'scena spettrale di Halloween' — troppo vago, ottieni zucche generiche. Invece, nomina un riferimento horror specifico (apertura di Sinister, scena della piscina di It Follows, cucina di Hereditary) e un costume specifico per il tuo shoot. Il modello di Tunee ha la grammatica visiva del genere; dagli un brief in stile regista e restituisce fotogrammi degni di essere postati."
+      }
+    ]
+  }
 }

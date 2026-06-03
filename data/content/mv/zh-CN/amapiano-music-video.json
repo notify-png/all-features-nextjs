@@ -39,5 +39,23 @@
       "q": "我可以生成多个版本的Amapiano音乐视频进行比较吗？",
       "a": "可以。您可以使用不同的提示或风格设置生成多个Amapiano音乐视频变体，然后选择最符合您愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 AMAPIANO",
+    "h2": "Amapiano 视频是围绕 log drum 和舞池搭建起来的",
+    "sections": [
+      {
+        "heading": "Amapiano 长什么样",
+        "body": "Amapiano MV 是先在 TikTok 和南非 township 的舞池里长大、然后才长进 Vevo 的。视觉标识：在舞圈内部拍摄的紧凑人群镜头、鱼眼与超广角镜头、慢动作脚步特写、反复出现的 DJ 台、入夜后由单只硬光照亮的户外街头派对。色彩高对比——黑色肌肤打在霓虹之上，白色球鞋成为视觉焦点。镜头随舞者一同运动，而不是绕着他们转。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "经典视觉来自 Kabza De Small 与 DJ Maphorisa 的 Scorpion Kings 时期、Tyler ICU 和 Khalil Harrison 的『Mnike』推广、Focalistic 的『Ke Star』、DBN Gogo 的俱乐部混音、Major League DJz 的 Balcony Mix 直播，以及 Uncle Waffles 病毒级的『Tanzania』片段——那段手机一镜到底的演出，定义了一种属于这一流派的美学。Pyramidda（Kabza、Maphorisa）和 Mahlatse Tshukulu 这样的导演拥抱 Amapiano 的社交媒体起源：竖屏画幅、手持的即时感、舞步永远居中。Tunee 的 Amapiano 模型熟悉这条血脉。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "把舞蹈放在画面中心，而不是艺人。提示词写成『围着一位表演者的舞圈，township 街头日落时分，超广角镜头，慢动作脚步特写』，效果远胜于『amapiano party scene』。也把 log drum 视觉化地写进去——制作人按下打击垫、低音在人群反应镜头里击中——剪辑就不只是『盖在节拍上』，而是真正同步上去。"
+      }
+    ]
+  }
 }

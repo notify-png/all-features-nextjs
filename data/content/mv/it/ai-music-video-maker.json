@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale AI MV Maker?",
       "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'AI sincronizzerà automaticamente il tuo video musicale AI MV Maker."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "AI MV MAKER",
+    "h2": "Dal file audio al video musicale finito in un solo passaggio",
+    "sections": [
+      {
+        "heading": "Cosa significa 'maker' rispetto a 'editor'",
+        "body": "Un AI music video maker è lo strumento one-shot — gli dai una canzone, ti restituisce un video finito. Nessuna timeline, nessun prompting clip per clip, nessuna gestione manuale degli asset. Il compromesso è il controllo: i maker sono ottimizzati per ottenere qualcosa di guardabile nei primi tre minuti, non per il pass di editing chirurgico che un editor consente. Per le bozze, le demo inviate a un'etichetta o i test 'questa canzone ha davvero bisogno di un video?', è esattamente lo strumento giusto."
+      },
+      {
+        "heading": "Cosa decide davvero il maker di Tunee per te",
+        "body": "Carica un MP3 e Tunee sceglie l'estetica dall'audio stesso: un beat lo-fi atterra in colori smorzati e lente derive di camera, uno strumentale drill ottiene esterni notturni ad alto contrasto e tagli più rapidi, una ballad di pianoforte worship va in primo piano lirico con calda luce key. Puoi sovrascrivere lo stile con una sola riga di prompt, ma il default raramente è imbarazzante — che è il vero limite che la maggior parte degli strumenti 'AI MV maker' non riesce a superare."
+      },
+      {
+        "heading": "La catena di agenti che prende la decisione",
+        "body": "Quattro agenti girano in sequenza: l'analista audio estrae tempo, tonalità e arco emotivo; Nova abbozza il mondo visivo (personaggi, palette, ambiente); Sage taglia quelle placche in una lista di scene temporizzata mappata sulla struttura della canzone; il renderer produce i fotogrammi finali. Il percorso maker esegue tutti e quattro con default intelligenti — il percorso editor espone la stessa catena così puoi intervenire in qualsiasi passo. Stesso motore, superficie diversa."
+      }
+    ]
+  }
 }

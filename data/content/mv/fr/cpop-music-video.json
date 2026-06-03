@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéoclip C-pop à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip C-pop en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui convient le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE LA C-POP",
+    "h2": "Les vidéos C-pop mêlent photographie de ballade et pop moderne épurée",
+    "sections": [
+      {
+        "heading": "À quoi ressemble la C-pop",
+        "body": "Les visuels C-pop suivent deux lignées distinctes en parallèle. La tradition ballade (Jay Chou, JJ Lin) penche vers le cinéma — récit narratif, souvent en costume historique, décors d'architecture chinoise, palettes inspirées du lavis à l'encre et lents mouvements de Steadicam. Le versant pop moderne (G.E.M., Jolin Tsai, Eric Chou) prend la finition K-pop et la traduit à travers une esthétique taïwanaise ou hongkongaise — marchés nocturnes au néon, toits-terrasses de verre et d'acier, cadrage à la mode magazine."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "Les références canoniques sont « Blue and White Porcelain » et « Chrysanthemum Terrace » de Jay Chou — toutes deux des matrices de ballade en costumes d'époque que Chou a lui-même réalisées avec le parolier Vincent Fang façonnant l'iconographie — aux côtés des visuels de tournée « Sanctuary » de JJ Lin, de « Light Years Away » de G.E.M., de l'ère « Play » de Jolin Tsai, des films live « Song of Tonight » de Mayday et des albums visuels récents d'Eason Chan. Le réalisateur Wing Shya (dont le travail influencé par Wong Kar-wai façonne le look hongkongais moderne de la Cantopop) et Marlboro Lai, collaborateur fréquent de Jay Chou, ancrent le canon visuel. Le modèle C-pop de Tunee connaît les deux lignées et bascule de l'une à l'autre selon les signaux du prompt."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Spécifiez la lignée. Un prompt ballade doit nommer des ancres architecturales et saisonnières (« cour intérieure avec toits de tuiles courbes, fleurs de prunier qui tombent, ciel en dégradé d'encre ») ; un prompt pop moderne doit nommer une spécificité urbaine (« néons d'un marché de nuit de Taipei, caméra portée sur le sujet, magenta et cyan »). Mélanger les deux produit de la confusion visuelle ; s'engager dans une seule produit un cadre reconnaissable."
+      }
+    ]
+  }
 }

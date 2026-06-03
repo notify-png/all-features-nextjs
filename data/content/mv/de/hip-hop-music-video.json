@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Hip-Hop-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, damit Sie Hip-Hop-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER HIP HOP",
+    "h2": "Hip-Hop-Video trägt eine ganze Stadt auf seinen Schultern",
+    "sections": [
+      {
+        "heading": "So sieht Hip Hop aus",
+        "body": "Hip-Hop-MVs verweben zwei Ebenen: die Performance — meist der Rapper direkt in die Kamera, präzise lipsynchron, oft aus einer wirkungsvollen Untersicht — und die Welt, aus der der Song stammt. Diese Welt ist konkret. Compton, Houston, Toronto, Brooklyn haben jeweils eine eigene visuelle Signatur, und die besten Videos weigern sich, von nirgendwo zu sein. Die Garderobe ist auf den Monat aktuell, nicht auf das Jahr. Autos zählen. Crews zählen. Die Schnitte landen auf dem Reim, nie nur auf dem Beat."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Kendrick Lamars „HUMBLE.\" und „Alright\" (beide unter der Regie von Dave Meyers und the little homies) sind das moderne Lehrbuch für Performance plus gesellschaftliches Gewicht. Travis Scotts „SICKO MODE\" und „HIGHEST IN THE ROOM\" (erneut Dave Meyers) zeigen surrealen Maßstab, ohne den Rap als Rückgrat zu verlieren. Hiro Murais Arbeit mit Donald Glover („This Is America\", „Sober\") und FKA Twigs hat die Messlatte für narrative MVs deutlich angehoben. J. Coles „MIDDLE CHILD\" bleibt im Gesprächston; Drakes „Hotline Bling\" unter der Regie von Director X ging minimalistisch und veränderte alles. Cole Bennetts Lyrical-Lemonade-Visuals für Juice WRLD und Eminem führen diese Linie fort, mit Hype Williams' Fischauge-Ära und Spike Jonzes Beastie-Boys-Arbeiten als Grundregeln."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Gib Tunee ein konkretes Viertel, keine generische Stadt. „Späte Abendveranda in South Memphis, zwei Freunde, blaue Dämmerung\" schlägt jedes Mal „urbane Straßenszene\". Lege ein charakteristisches Garderoben-Element fest — Kette, Hoodie, Cap — und lass es in jedem Schnitt auftauchen, damit der Künstler als durchgehende Figur lesbar bleibt. Nutze die Strophe-Refrain-Struktur: enge Performance-Frames während der Bars, B-Roll-Lifestyle während des Hooks. Schneide auf die Konsonanten, nicht auf die Kick."
+      }
+    ]
+  }
 }

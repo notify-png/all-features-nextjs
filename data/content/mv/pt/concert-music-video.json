@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe de concerto para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de concerto usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV DE SHOW",
+    "h2": "Vídeos de show sobem ou caem pelo corte",
+    "sections": [
+      {
+        "heading": "O que é um vídeo de show",
+        "body": "MV de show é um formato específico: performance ao vivo multi-câmera, cortada para a música, intercalando entre planos abertos de palco, cobertura fechada do artista, reação da plateia e hero shots da rig de luz. A restrição definidora do gênero é que a música é a gravação real e o visual precisa casar com sua energia batida a batida. O corte é tudo — a maioria dos vídeos de show que parecem chapados está bem filmada e mal editada, segurando planos abertos durante refrões em que o artista precisa estar fechado."
+      },
+      {
+        "heading": "Quando usar",
+        "body": "MV de show é o formato certo quando a presença ao vivo do artista é a marca (Tame Impala, Phoebe Bridgers, Beyonce), quando se lança um filme de turnê, quando uma venue ou festival é por si só um atrativo (Pyramid Stage de Glastonbury, Red Rocks, a série Tiny Desk da NPR). O cânone de diretores é pequeno: Jonathan Demme definiu a forma com Stop Making Sense do Talking Heads (1984), Sam Wrench dirigiu a versão teatral do Eras Tour da Taylor Swift, Ed Burke dirigiu Homecoming da Beyonce para a Netflix, Spike Lee gravou a footage de Amazing Grace da Aretha. Exemplos recentes: Live at the O2 de Billie Eilish, qualquer coisa que a Boiler Room tenha gravado na última década. É também o formato mais usado em fancams de K-pop."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Especifique a escala da venue e o estilo de iluminação: 'clube pequeno, follow-spot único, sombra profunda em torno da plateia' versus 'escala de arena, parede de LED completa atrás do artista, lasers no haze'. Nomeie a contagem de câmeras e os ângulos: 'cobertura em três câmeras: aberto do palco, fechado no rosto do artista, mãos da plateia para cima'. Adicione 'corte na batida em hits de caixa, a cada 1-2 segundos no refrão, holds mais longos no verso' para o ritmo de edição. O Tunee consegue gerar o ritmo de corte se você descrever."
+      }
+    ]
+  }
 }

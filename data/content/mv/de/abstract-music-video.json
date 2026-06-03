@@ -39,5 +39,23 @@
       "q": "Funktioniert es mit jedem Musikgenre oder nur mit Abstract?",
       "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Abstract hinaus. Du kannst Musikvideos für Pop, Hip-Hop, Klassik und dutzende andere Stile auf derselben Plattform generieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER ABSTRACT MV",
+    "h2": "Abstract-Video ist das Genre, das von Bewegung lebt oder stirbt",
+    "sections": [
+      {
+        "heading": "Was abstrakt hier wirklich bedeutet",
+        "body": "Abstract Music Video heißt: kein Charakter, kein Ort, keine Geschichte — nur Form, Farbe und Bewegung als Antwort auf Klang. Schlecht gemacht ist es ein Windows-Media-Player-Visualizer. Gut gemacht ist es Ryoji Ikeda im Barbican oder die Drahtgittergestalten des Studios Universal Everything. Die Trennlinie ist das Timing: Jeder Übergang landet auf einem Transient, jeder Farbwechsel antwortet auf einen Akkordwechsel. Statische abstrakte Kunst, zur Musik animiert, ist Tapete. Abstract-Video, das zuhört, ist Komposition."
+      },
+      {
+        "heading": "Woher der Look stammt",
+        "body": "Motion-Graphics-Studios schreiben dieses Wörterbuch seit neunzig Jahren: Oskar Fischingers abstrakte Filme der 1930er, Norman McLarens handgekratzte optische Arbeiten beim National Film Board of Canada, Saul-Bass-Titel, Kyle Coopers Se7en-Sequenz, die GMUNK / Field.io-Schule der generativen Arbeit, Memo Aktens neuronale Kunst, Refik Anadols MoMA-Daten-Skulpturen, Beeples tägliche Loops, Houdini-Flüssigkeitssimulationen, TouchDesigner-audioreaktive Patches. Musikvideo-spezifisch: Chris Cunninghams Aphex Twin Windowlicker, Squarepushers My Red Hot Car, alles, was Cyriak Harris auf YouTube macht. Tunees Abstract-Modell behandelt Fluid-Simulation, Partikelsysteme und morphende Geometrie als eigenständige Vokabulare — nicht als austauschbare Buzzwords."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Wähle ein Motion-Primitive pro Video und bleibe dabei: Fluid, Partikel, Geometrie-Morph oder Signed-Distance-Field-Deformation. Zwei zu mischen wirkt unentschlossen. Spezifiziere die Palette über Gefühl, nicht über Adjektive — „zwei Farben, Magenta und tiefes Cyan\" schlägt „lebendig und dynamisch\". Sag Tunee, wie sich die Dichte mit dem Song entwickelt: „sparse particles in verse, dense bloom on drop\". Audio-Reaktivität ist der ganze Punkt — der Prompt muss das aussprechen."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "它只适用于蓝调，还是支持任何类型的音乐？",
       "a": "Tunee支持蓝调之外的多种音乐风格和视觉风格。您可以使用同一平台为流行乐、嘻哈乐、古典乐以及数十种其他风格生成音乐视频。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 BLUES",
+    "h2": "Blues MV 活在钨丝光和磨损的琴里",
+    "sections": [
+      {
+        "heading": "blues 长什么样",
+        "body": "Blues 影像有一套已经定型的美学，因为这个流派的受众也已经定型——没人在重塑这门音乐，而这正是它的核心。视觉经典：钨丝灯下、硬阴影的俱乐部内部，特写手指在指板上工作、钢吉他的滑棒、单一主光下额头的汗珠、空气里的烟（真的或来自烟雾机）、背景中暖光发亮的电子管音箱。色彩分级偏向琥珀和压死的黑。机位敬重演奏者，而不是绕着他们切。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "参考直接而具名：B.B. King 晚年的现场电影、Buddy Guy 的 Legends 俱乐部素材、Gary Clark Jr. 的『Bright Lights』和『When My Train Pulls In』、Joe Bonamassa 的 Royal Albert Hall 电影、Christone『Kingfish』Ingram 近期的片段，以及 Jack White 的 Third Man Records 现场录制。Wim Wenders 的 The Soul of a Man 纪录片以及 Martin Scorsese 在 PBS 播出的 The Blues 系列，为严肃的 blues 影像树立了模板——小场地、真器材、手与乐器是主体。Tunee 的 blues 模型在这条血脉上训练。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "把器材和场地类型都点出来，而不只是流派。『Vintage Gibson ES-335 through a tweed Fender amp, smoke-filled basement club, single bare bulb overhead, hands close-up on bend』会得到一帧可信的画面；『blues musician playing guitar』只会得到图库照。Blues 观众一眼看得出器材不对——所以一定要指定。"
+      }
+    ]
+  }
 }

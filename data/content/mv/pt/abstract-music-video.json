@@ -39,5 +39,23 @@
       "q": "Funciona com qualquer gênero de música, ou apenas Abstract?",
       "a": "O Tunee suporta uma ampla gama de gêneros e estilos visuais além de Abstract. Você pode gerar videoclipes de música para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV ABSTRATO",
+    "h2": "O vídeo abstrato é o gênero que vive ou morre pelo movimento",
+    "sections": [
+      {
+        "heading": "O que abstrato realmente significa aqui",
+        "body": "Videoclipe abstrato significa que não há personagem, não há lugar, não há história — apenas forma, cor e movimento respondendo ao som. Feito de forma malfeita, vira um visualizador do Windows Media Player. Feito bem, é Ryoji Ikeda no Barbican ou as figuras em wireframe do estúdio Universal Everything. A linha divisória é o timing: cada transição cai em um transiente, cada mudança de cor responde a uma mudança de acorde. Arte abstrata estática animada com música é papel de parede. Vídeo abstrato que escuta é composição."
+      },
+      {
+        "heading": "De onde vem o visual",
+        "body": "Estúdios de motion graphics vêm escrevendo esse dicionário há noventa anos: os filmes abstratos dos anos 1930 de Oskar Fischinger, o trabalho óptico riscado à mão de Norman McLaren no National Film Board of Canada, os créditos de Saul Bass, a sequência de Se7en de Kyle Cooper, a escola GMUNK / Field.io de trabalho generativo, a arte neural de Memo Akten, as esculturas de dados de Refik Anadol no MoMA, os loops diários do Beeple, simulações de fluidos em Houdini, patches audio-reativos em TouchDesigner. Específicos de videoclipe: Windowlicker do Aphex Twin dirigido por Chris Cunningham, My Red Hot Car do Squarepusher, qualquer coisa que Cyriak Harris faça no YouTube. O modelo abstrato do Tunee trata simulação de fluido, sistemas de partículas e geometria mórfica como vocabulários distintos — não como buzzwords intercambiáveis."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Escolha uma primitiva de movimento por vídeo e fique com ela: fluido, partículas, morph de geometria ou deformação por signed-distance-field. Misturar duas soa confuso. Especifique a paleta pela sensação, não pelo adjetivo — 'duas cores, magenta e ciano profundo' bate 'vibrante e dinâmico' toda vez. Diga ao Tunee como a densidade evolui com a música: 'partículas esparsas no verso, bloom denso no drop'. Reatividade ao áudio é o ponto inteiro — faça o prompt dizer isso."
+      }
+    ]
+  }
 }

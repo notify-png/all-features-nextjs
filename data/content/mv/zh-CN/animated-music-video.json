@@ -39,5 +39,23 @@
       "q": "如何自定义动画音乐视频的视觉风格？",
       "a": "你可以使用描述场景、氛围和场景设置的文本提示来引导视觉效果。Tunee的AI会理解你的输入并生成与你的动画美学相匹配的2D动画灵感视觉效果。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于动画 MV",
+    "h2": "动画 MV 是一个品类，不是一种风格——先把它收窄",
+    "sections": [
+      {
+        "heading": "动画涵盖了什么",
+        "body": "动画音乐视频是一把覆盖了风格迥异的多门手艺的伞：2D cel 动画（Spirited Away、Looney Tunes）、3D CG（Pixar、Sony 的 Spider-Verse）、动态图形（Saul Bass、当代片头）、定格（Anomalisa、Aardman）、转描（A Scanner Darkly、Take On Me）。任何动画 brief 的第一项工作，都是先挑出其中一种。『我要一个动画视频』对工作室来说什么都没说；『我要 Spider-Verse 那种叠在 3D 之上的混合媒介 2D』才把一切都说清楚了。"
+      },
+      {
+        "heading": "什么时候该用动画",
+        "body": "当真人实拍做不到时，动画就成立：不可能的尺度（巨型怪兽、微观世界）、与品牌绑定的高度风格化（Jamie Hewlett 为 Gorillaz 打造的整体身份、Damon Albarn 的全部项目）、艺人的匿名性，或是预算——在小体量上，动画如今已经比外景加剧组要便宜。值得引用的工作室：Phil Lord 与 Christopher Miller 领衔 Spider-Verse 的 Sony 团队、Tomm Moore 的 Cartoon Saloon（Wolfwalkers、Song of the Sea）、Genndy Tartakovsky（Samurai Jack、Primal）、Madhouse（Mamoru Hosoda 的 Belle）。传统上偏好动画的流派：电子、indie pop、儿童音乐、世界观扩展型发行。K-pop 厂牌也用动画做 B 面和 Gorillaz 式的另一重身份，已经多年。"
+      },
+      {
+        "heading": "Tunee 提示词建议",
+        "body": "提示词里要挑出你的动画技法，而不是结果：『cel-shaded 2D, frame-replacement animation, hard line work』对比『3D CG, Pixar lighting model, subsurface scattering on skin』再对比『stop-motion, visible armature joints, 12fps』。它们在不同的训练数据上生存。在视频中段切换技法是可行的，但你必须命名转换：『live action 在 drop 处切到转描』。含糊的『动画』，最后落在哪儿全看哪一种最常见。"
+      }
+    ]
+  }
 }

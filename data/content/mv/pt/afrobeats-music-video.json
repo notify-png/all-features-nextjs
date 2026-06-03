@@ -39,5 +39,23 @@
       "q": "Posso gerar várias versões de um videoclipe Afrobeats para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe Afrobeats usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE AFROBEATS",
+    "h2": "Videoclipes de Afrobeats correm sobre cor, movimento e a energia de Lagos",
+    "sections": [
+      {
+        "heading": "Como o afrobeats se parece",
+        "body": "Videoclipes de Afrobeats desde o final dos anos 2010 construíram uma linguagem visual tão distinta quanto a percussão do gênero. Os inegociáveis: cor de alta saturação (estampas Ankara, paredes amarelo-mostarda, azul cobalto), coreografia em grupo em planos amplos contra cenários arquitetônicos, movimentos suaves em Steadicam em vez de câmera na mão, tons de pele em hora dourada sem dessaturação, e ao menos um plano de drone sobre um telhado de Lagos ou uma rua de Accra. O visual é celebratório — mesmo as músicas melancólicas são filmadas com luz alta."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "Quando diretores referenciam afrobeats, citam as mesmas pedras de toque: 'Last Last' e 'Ye' do Burna Boy, 'Essence' do Wizkid com Tems, 'Fall' do Davido, o remix de 'Calm Down' de Rema com Selena Gomez, 'Free Mind' da Tems e 'Rush' da Ayra Starr. TG Omori (o prolífico 'boy director' por trás de boa parte da identidade visual recente do pop nigeriano), Meji Alabi (Wizkid, Stormzy) e Director K definem o visual — planos em grande angular com grupos, simetria formal, tecido como elemento visual primário. O modelo de afrobeats do Tunee é treinado nesse vocabulário, então um prompt nomeando Ankara, telhados de Lagos ou uma formação específica de dança pousa com precisão."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Não peça 'vibe africana' — é amplo demais, você vai receber imagens genéricas de safári. Em vez disso, especifique a cidade (Lagos, Accra, Johannesburg), o tecido (Ankara, kente, agbada) e a hora do dia (hora dourada quase sempre está certa). Adicione uma âncora arquitetônica — um telhado, uma parede de mercado, uma escadaria da era colonial — e o quadro se torna reconhecivelmente afrobeats em vez de África-genérica."
+      }
+    ]
+  }
 }

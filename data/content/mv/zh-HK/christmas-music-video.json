@@ -39,5 +39,23 @@
       "q": "Tunee的聖誕音樂影片生成器可在行動設備上使用嗎？",
       "a": "Tunee完全可透過網頁瀏覽器在桌面和行動設備上存取，因此您可以在任何設備上製作聖誕音樂影片，無需安裝軟體。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "聖誕 MV",
+    "h2": "一段比包裝紙活得更久的聖誕視頻",
+    "sections": [
+      {
+        "heading": "為何值得拍一支聖誕 MV",
+        "body": "家庭聖誕影片通常不是沒人看完的二十分鐘家用錄影，就是一堆毫無關聯的手機片段。剪成一首聖誕曲——Mariah、Bublé、Wham!，或祖母總是唱的那首頌歌——的 MV，能為這一天賦予骨幹。它會成為你下個十二月會打開的物件，提醒你今年誰坐在餐桌旁、誰在甜點時求婚，或者誰家的狗第一個拆禮物。"
+      },
+      {
+        "heading": "永遠管用的鏡頭",
+        "body": "聖誕擁有所有節日中最強的視覺經典：失焦成 bokeh 的樹燈、清晨襪子揭曉、桌上傳遞菜餚的手、窗外的靜態雪景、包裝紙特寫。參考層深厚——Mariah Carey 與 AJ Brown 共同執導 1994 年的「All I Want for Christmas Is You」、Wham! 的「Last Christmas」由 Andy Morahan 在 Saas-Fee 拍攝、Coca-Cola 由 Haddon Sundblom 主筆的北極熊運動定義了全球紅白色調、John Lewis 由 Adam & Eve DDB 操刀的聖誕廣告（Elton John 的「Some Things Last Longer Than Love」短片）立下了催淚標準。暖鎢室內對比冷藍室外是每一部 Hallmark Channel 片都倚賴的調性。明確指定這兩種色溫，你的 MV 從第一幀起就會讀成聖誕。"
+      },
+      {
+        "heading": "讓它成為禮物",
+        "body": "把它當作新年賀卡寄出去。一則短訊裡的 60 秒 MV，比一張配著圖庫照的紙卡更有重量。Tunee 一次生成即可輸出 9:16 用於 Story 重播、16:9 用於明年聚會的智能電視，以及 1:1 用於發文——一次涵蓋三種。"
+      }
+    ]
+  }
 }

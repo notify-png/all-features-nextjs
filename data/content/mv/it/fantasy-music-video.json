@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale fantasy per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale fantasy utilizzando prompt diversi o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV FANTASY",
+    "h2": "Video fantasy che si guadagna il confronto con LOTR",
+    "sections": [
+      {
+        "heading": "Cosa richiede il fantasy",
+        "body": "Il video fantasy vive o muore su paesaggio e scala. Il Signore degli Anelli ha venduto il suo mondo con una singola inquadratura ampia - la Compagnia che cammina in fila indiana attraverso una cresta, sopraffatta dalla montagna. La regola: ogni inquadratura di stabilimento ha bisogno di una figura umana per la scala, e l'ambiente deve fare la maggior parte della narrazione. Profondità dipinta matte, prospettiva atmosferica che svanisce in un blu nebbioso, materiali del costume naturalistici (lana, pelle, metallo martellato, non armature dall'aria plasticosa). Sbaglia la scala e si legge come cosplay."
+      },
+      {
+        "heading": "Da dove viene lo sguardo",
+        "body": "Canone visivo: la trilogia LOTR di Peter Jackson con le concept art di John Howe e Alan Lee, Pan's Labyrinth di Guillermo del Toro per l'illuminazione fiabesca più scura, Game of Thrones di HBO (prime stagioni prima della corsa), The Witcher 3 di CD Projekt Red adattato da Andrzej Sapkowski, The Fall di Tarsem Singh per il colore saturo, Princess Mononoke di Hayao Miyazaki per l'estremità pittorica, le copertine di Conan di Frank Frazetta per l'estremità più heavy metal. Adiacente ai music video: Hunger di Florence + the Machine diretto da AG Rojas. Il modello fantasy di Tunee tratta questi riferimenti come dialetti separati - 'matte painting in stile Howe' contro 'guerriero a basso angolo di Frazetta' contro 'spirito della foresta di Ghibli' risolvono in output chiaramente diversi."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Includi sempre una figura umana per la scala anche nei prompt landscape-first: 'cavaliere solitario su cresta, sfondo di montagne, prospettiva atmosferica'. Specifica l'ora del giorno con direzione cardinale: 'golden hour, sole da camera-destra, ombre lunghe che tirano a sinistra'. La specificità dei materiali conta - 'pelle oliata, acciaio brunito, lana non tinta' batte 'vestiti medievali'. Evita 'epico' come aggettivo; descrivi invece la relazione di scala ('la figura occupa il decimo inferiore del fotogramma')."
+      }
+    ]
+  }
 }

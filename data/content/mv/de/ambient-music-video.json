@@ -39,5 +39,23 @@
       "q": "Funktioniert der Ambient-Musikvideo-Generator von Tunee auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Ambient-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER AMBIENT",
+    "h2": "Ambient-MVs funktionieren, wenn nichts passiert und alles atmet",
+    "sections": [
+      {
+        "heading": "So sieht Ambient aus",
+        "body": "Ambient-Musik widersetzt sich dem Musikvideo-Format von Natur aus — es gibt keinen Drop, auf den geschnitten werden kann, keinen Refrain, in den hineingesteigert wird. Die visuelle Tradition des Genres antwortet mit extremer Geduld: eine einzige Hokkaido-Bergaufnahme zwei Minuten lang gehalten, Nebel, der in Echtzeit durch ein Tal zieht, ein schwarzer Bildschirm mit einem einzelnen driftenden Partikel, Wasseroberfläche von oben. Der Bezugsrahmen sind eher Bill-Viola-Installationen und die langen Einstellungen Andrei Tarkowskis als das Editing von MTV."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Regisseure zitieren dieselbe Linie: Brian Enos 77 Million Paintings, die Album-Visuals zu Tim Heckers Ravedeath 1972, die Live-Projektionen von Stars of the Lid, William Basinskis Disintegration Loops gepaart mit den 9/11-Aufnahmen der New Yorker Skyline, die Selected Ambient Works Visualizer von Aphex Twin und Ryuichi Sakamotos async-Film, gedreht von Stephen Nomura Schible. Bill Violas Videoinstallationen und das langen-Take-Kino von Andrei Tarkowski (Stalker, Solaris) sind die Berührungspunkte des geduldigen Bildes — der rote Faden ist nicht das Sujet, sondern die Weigerung, zu schneiden. Zwei oder drei Aufnahmen über vier Minuten sind ein Feature. Tunees Ambient-Modell ist auf dieses Tempo kalibriert, statt dagegen zu kämpfen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Spezifiziere im Prompt Dauer, nicht nur Sujet. „Single drone shot of pine forest in fog, no cuts, slow drift forward over 60 seconds\" produziert, was du willst; „beautiful ambient nature montage\" produziert Stock-B-Roll. Benenne ein Element langsamer Veränderung — wechselndes Licht, ziehender Nebel, sich anhäufender Schnee — damit der Frame Zeit in sich trägt statt nur Komposition."
+      }
+    ]
+  }
 }

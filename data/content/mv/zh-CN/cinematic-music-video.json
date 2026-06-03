@@ -39,5 +39,23 @@
       "q": "Tunee的电影级音乐视频生成器在移动设备上能用吗？",
       "a": "Tunee可以在桌面和移动设备上通过网络浏览器完全访问，因此你可以在任何设备上创建电影级音乐视频，无需安装软件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于电影级 MV",
+    "h2": "当一个导演说『cinematic』时，它到底是什么意思",
+    "sections": [
+      {
+        "heading": "电影感清单",
+        "body": "Cinematic 是视频 brief 里被滥用最严重的词。把它剥光，剩下的是一组具体选择：anamorphic 2.39:1 或 2.4:1 画幅、椭圆 bokeh 与水平镜头光斑、24fps 加 180 度快门的运动节律、调色推向 teal-and-orange 或一条定制 LUT、控制在 35mm 印片扫描那种水准的胶片颗粒。这几项里有任何一项不对，看电影的人会先感觉到，然后才说得出名字。"
+      },
+      {
+        "heading": "这套质感从哪里来",
+        "body": "真正被反复引用的摄影指导：Roger Deakins（Sam Mendes 的 1917、Denis Villeneuve 的 Blade Runner 2049）、Emmanuel『Chivo』Lubezki（Alfonso Cuaron 的 Children of Men、Inarritu 的 Birdman 和 The Revenant）、Hoyte van Hoytema（Christopher Nolan 的 Interstellar 和 Oppenheimer）。导演层面：Christopher Nolan、Denis Villeneuve、Paul Thomas Anderson。MV 圈：Hiro Murai 为 Childish Gambino 操刀的作品（This Is America、Sober）、Spike Jonze 为 Fatboy Slim 拍的 Weapon of Choice，以及 Jonas Akerlund 为 Madonna 和 The Prodigy 剪过的一切。这套词汇与剧情电影共享——Tunee 的电影级模型在同一种 DP 语言上训练，所以『Deakins-style backlit silhouette』能正确解析。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "把画幅锁死在提示词里：『anamorphic 2.39:1, oval bokeh, horizontal lens flare』。指定胶片型号：『Kodak Vision3 500T, fine grain』或『Fuji Eterna, muted contrast』。点名一个 DP 作为参考，而不是用形容词描述质感——『lit like Deakins in 1917』比三句话的调色描述传达得更多。不要把『cinematic』当独立的词来用——它太含糊，导向不了任何方向。"
+      }
+    ]
+  }
 }

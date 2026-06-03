@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe de música gospel?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe de música gospel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE GOSPEL",
+    "h2": "O vídeo de gospel é uma congregação capturada, não construída",
+    "sections": [
+      {
+        "heading": "Como o gospel se parece",
+        "body": "Os visuais do gospel centralizam o coral, não o solista. Mesmo quando há um vocalista principal, o quadro continua voltando para fileiras de rostos — olhos fechados, mãos erguidas, o momento do catch. Os cenários são geralmente reais: um santuário com luz de vitral, um salão comunitário, às vezes um avivamento ao ar livre. O figurino é robe ou roupa de domingo, nunca streetwear. A câmera se move com reverência: push-ins lentos sobre fiéis individuais, planos amplos de grua atravessando o coro."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "'Love Theory' do Kirk Franklin mostra o blueprint moderno — encenação comunitária, movimento alegre, luz despejando-se pelas janelas. Os vídeos ao vivo de 'Break Every Chain' da Tasha Cobbs Leonard provam que o formato ao-vivo-em-adoração ainda é o que mais bate. 'Believe For It' da CeCe Winans, as filmagens coletivas do Sunday Service do Maverick City Music com Kanye West, os cortes do coral do Hezekiah Walker, 'Oceans' do Hillsong UNITED e 'Stand By Me' do The Kingdom Choir no casamento real completam o vocabulário. A regra compartilhada, codificada pelo diretor de longa data de vídeos gospel Derek Blanks e por especialistas em captação ao vivo da TBN: nenhuma coreografia que pareça separada do sentimento. Se um levantar de mãos parece encenado, o quadro inteiro desmorona."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Construa a sala primeiro, depois povoe-a. Comece com 'luz solar atravessando janelas altas de um santuário com painéis de madeira, poeira visível nos feixes', então adicione o coral em fileiras atrás do solista. O Tunee dá conta bem da calidez de luz natural misturada com tungstênio quando você especifica ambas as fontes. Peça rostos individuais em close entre planos mais abertos do coral — o gospel precisa dessa intimidade tanto quanto da escala. Mantenha cortes na respiração da frase, não na caixa."
+      }
+    ]
+  }
 }

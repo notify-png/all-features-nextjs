@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Klassik-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Lyrik- und Untertitel-Overlay-Optionen. Geben Sie einfach Ihre Lyrics ein, wählen Sie einen Textstil, und die KI synchronisiert sie automatisch mit Ihrem Klassik-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER KLASSIK",
+    "h2": "Klassische MVs funktionieren, wenn sie die Performance das Bild tragen lassen",
+    "sections": [
+      {
+        "heading": "So sieht Klassik aus",
+        "body": "Das klassische Musikvideo hat eine leise, gesetzte Grammatik. Performance-Filme werden in Konzertsälen mit drei bis fünf festgelegten Kameras gedreht: Wide des Saals, Mid auf den Dirigenten, Close auf die Solostimmen, Hände-Close-up am Solisten. Studio-basierte Videos neigen zu minimalistischen Sets — Einzelporträts vor neutralen Hintergründen, natürliches Licht, langsame Push-ins. Das Color Grading ist zurückhaltend, oft fast neutral mit leichtem warmen oder kühlen Einschlag. Das Medium respektiert das Tempo der Musik, anstatt Pop-Editing aufzuzwingen."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Referenzpunkte umfassen Yo-Yo Mas Bach-Project-Filme, Hilary Hahns Recital-Videos, Lang Langs Disney+-Goldberg-Variations-Sessions, die modernen Künstlerporträts der Deutschen Grammophon, die Visuals rund um Max Richters Sleep-Installation (Regie: Natalie Johns), die Digital-Concert-Hall-Streams der Berliner Philharmoniker unter Andris Nelsons und Igor Levits Lockdown-Livestreams. Dokumentarische Arbeiten wie Daniel Barenboims West-Eastern-Divan-Filme und Daniil Trifonows aufgenommene Recitals definieren das ernsthafte Ende der Form. Tunees Klassik-Modell behandelt das Instrument und die Hände als primäres Motiv, nicht als Hintergrund."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Benenne die Instrumentenfamilie, die Akustik des Veranstaltungsorts und die Lichtquelle. „Solo cello in a wooden recital hall, single overhead spotlight, slow push-in on hands and fingerboard, no audience\" funktioniert; „classical music performance video\" produziert etwas Generisches. Wenn du Score-Visualisierung statt Performance willst, sag das explizit — die beiden Formate sehen überhaupt nicht ähnlich aus."
+      }
+    ]
+  }
 }

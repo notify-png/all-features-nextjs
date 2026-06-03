@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales Drill de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous permettant de créer des vidéos musicales Drill depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE LA DRILL",
+    "h2": "Les MV drill obéissent à un code visuel strict né de la rue",
+    "sections": [
+      {
+        "heading": "À quoi ressemble la drill",
+        "body": "La vidéo drill possède le langage visuel le plus codifié du rap contemporain, et ce code compte parce que son public le lit attentivement. Les conventions : anonymat sous balaclava et ski-mask, cadrage de groupe (rarement des plans solo), extérieurs nocturnes sous éclairage public, caméra portée en contre-plongée à hauteur de poitrine, étalonnage poussé dans le sombre avec ombres écrasées, et la convention typographique propre à la drill UK des paroles à l'écran. Les voitures sont présentes mais jamais centrales — le crew est le sujet."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "Références par scène : la drill de Chicago a fondé le look avec « I Don't Like » de Chief Keef et les premiers visuels Def Jam de Lil Durk ; la drill de Brooklyn via « Welcome to the Party », « Dior » et le posthume « For the Night » avec Lil Baby de Pop Smoke (le producteur 808Melo a façonné le son) ; la drill UK via Headie One, « Doja » de Central Cee et « Woi » de Digga D. Les réalisateurs KENNY (Kenrick Bowes), Carns Hill, l'équipe interne de GRM Daily et feu Ginsberg5 définissent la signature visuelle. Les plans de groupe masqués dans des cités peu éclairées ne sont pas un choix stylistique — ils sont structurels."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Soyez précis sur la région — Chicago, Brooklyn et UK drill ont des conventions visuelles distinctes. Les prompts UK drill doivent nommer « cité de nuit, balaclavas, caméra portée en contre-plongée, paroles en overlay » ; la drill de Brooklyn penche vers le cinéma, avec des optiques plus larges et un Steadicam à hauteur de rue. Le modèle drill de Tunee gère les deux ; le prompt doit en choisir une."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "我能生成多个Afrobeats音乐视频版本进行对比吗？",
       "a": "能够。你可以使用不同的提示或风格设置生成多个Afrobeats音乐视频变体，然后选择最符合你愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 AFROBEATS",
+    "h2": "Afrobeats 视频靠色彩、运动和 Lagos 的能量运转",
+    "sections": [
+      {
+        "heading": "Afrobeats 长什么样",
+        "body": "自 2010 年代后期以来，Afrobeats MV 已经搭起了一套和这一流派的打击乐一样辨识度极高的视觉语言。几条不可妥协的规则：高饱和色彩（Ankara 印花、芥末黄墙面、钴蓝）、在建筑背景前的大规模群舞编排、Steadicam 平滑运动而非手持、黄金时刻不去饱和的肤色、以及至少一个 Lagos 屋顶或 Accra 街道的航拍镜头。整体调性是庆典式的——哪怕是情绪曲也拍得明亮。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "导演谈起 Afrobeats 时，引用的总是同几块基石：Burna Boy 的『Last Last』和『Ye』、Wizkid 与 Tems 合作的『Essence』、Davido 的『Fall』、Rema 与 Selena Gomez 的『Calm Down』Remix、Tems 的『Free Mind』，以及 Ayra Starr 的『Rush』。TG Omori（撑起 Naija 流行近年视觉身份的多产『boy director』）、Meji Alabi（Wizkid、Stormzy）和 Director K 定义了这种调性——广角群舞、严谨对称、布料作为主视觉元素。Tunee 的 Afrobeats 模型在这套词汇上训练过，所以提示词点出 Ankara、Lagos 屋顶或某个具体的舞蹈队形，就能精准命中。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "不要写『非洲氛围』——太宽泛了，你会得到泛滥的 safari 影像。要具体指定城市（Lagos、Accra、Johannesburg）、布料（Ankara、kente、agbada）、时辰（黄金时刻几乎永远是对的）。再加上一个建筑锚点——屋顶、市场墙面、一段殖民时期的楼梯——画面就会读起来是真正的 Afrobeats，而非泛非洲。"
+      }
+    ]
+  }
 }

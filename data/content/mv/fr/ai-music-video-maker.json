@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à mon vidéoclip AI MV Maker?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéoclip AI MV Maker."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "GÉNÉRATEUR DE MV PAR IA",
+    "h2": "Du fichier audio au clip terminé en une seule passe",
+    "sections": [
+      {
+        "heading": "« Maker » versus « editor »",
+        "body": "Un music video maker IA est l'outil one-shot — vous lui donnez un morceau, il vous rend un clip terminé. Pas de timeline, pas de prompting clip par clip, pas de gestion manuelle des assets. Le compromis porte sur le contrôle : les makers sont optimisés pour produire quelque chose de regardable dans les trois premières minutes, pas pour la passe d'édition chirurgicale qu'autorise un éditeur. Pour des drafts, des démos envoyées à un label ou un test « ce morceau mérite-t-il vraiment une vidéo ? », c'est précisément le bon outil."
+      },
+      {
+        "heading": "Ce que le maker de Tunee décide à votre place",
+        "body": "Déposez un MP3 et Tunee choisit l'esthétique à partir de l'audio lui-même : un beat lo-fi atterrit en couleurs feutrées et lents glissements de caméra, un instrumental drill obtient des extérieurs nocturnes très contrastés et des coupes plus rapides, une ballade piano de worship s'oriente vers une mise en avant des paroles avec une key light chaude. Vous pouvez surcharger le style par une seule ligne de prompt, mais la valeur par défaut est rarement embarrassante — ce qui est précisément la barre que la plupart des outils « AI MV maker » ne franchissent pas."
+      },
+      {
+        "heading": "La chaîne d'agents qui prend la décision",
+        "body": "Quatre agents s'exécutent en séquence : l'analyste audio extrait le tempo, la tonalité et l'arc émotionnel ; Nova esquisse le monde visuel (personnages, palette, environnement) ; Sage découpe ces plates en une shot list temporisée mappée sur la structure du morceau ; le renderer produit les images finales. La voie maker exécute les quatre avec des valeurs par défaut intelligentes — la voie editor expose la même chaîne afin que vous puissiez intervenir à chaque étape. Même moteur, surface différente."
+      }
+    ]
+  }
 }

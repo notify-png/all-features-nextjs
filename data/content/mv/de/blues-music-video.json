@@ -39,5 +39,23 @@
       "q": "Funktioniert es mit allen Musikgenres oder nur mit Blues?",
       "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Blues hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und Dutzende anderer Stile mit derselben Plattform generieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER BLUES",
+    "h2": "Blues-MVs leben in Wolframlicht und abgenutzten Instrumenten",
+    "sections": [
+      {
+        "heading": "So sieht Blues aus",
+        "body": "Blues-Video hat eine gesetzte Ästhetik, weil die Musik ein gesetztes Publikum hat — niemand erfindet die Form neu, und genau das ist der Punkt. Der visuelle Kanon: wolframbeleuchteter Clubinnenraum mit harten Schatten, Nahaufnahmen von Händen, die am Griffbrett arbeiten, der Slide der Steel Guitar, Schweiß auf der Stirn unter einem einzelnen Key Light, Rauch in der Luft (echt oder aus dem Hazer), Röhrenverstärker, die im Hintergrund warm glühen. Das Color Grading schiebt Bernstein und gequetschtes Schwarz. Das Framing respektiert den Spieler, statt um ihn herum zu schneiden."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Die Referenzen sind direkt und benannt: B.B. Kings Live-Filme aus seiner späten Karriere, Buddy Guys Aufnahmen aus dem Club Legends, Gary Clark Jr.s „Bright Lights\" und „When My Train Pulls In\", Joe Bonamassas Royal-Albert-Hall-Film, Christone „Kingfish\" Ingrams jüngere Clips und Jack Whites Live-Aufnahmen aus Third Man Records. Wim Wenders' Dokumentarfilm The Soul of a Man und die für PBS ausgestrahlte Serie The Blues von Martin Scorsese setzen die visuelle Vorlage für ernsthaftes Blues-Filmschaffen — kleine Venues, echtes Equipment, Hände und Instrumente als Hauptmotiv. Tunees Blues-Modell ist auf diese Linie trainiert."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Benenne das Equipment und den Venue-Typ, nicht nur das Genre. „Vintage Gibson ES-335 through a tweed Fender amp, smoke-filled basement club, single bare bulb overhead, hands close-up on bend\" produziert einen glaubwürdigen Frame; „blues musician playing guitar\" produziert ein Stockfoto. Blues-Publikum merkt, wenn das Equipment nicht stimmt — also spezifiziere."
+      }
+    ]
+  }
 }

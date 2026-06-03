@@ -39,5 +39,23 @@
       "q": "我可以生成多个赛博朋克音乐视频版本进行对比吗？",
       "a": "可以。你可以使用不同的提示或风格设置生成多个赛博朋克音乐视频变体，然后选择最符合你愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于赛博朋克 MV",
+    "h2": "赛博朋克的视觉规矩，比它的粉丝承认的还要严",
+    "sections": [
+      {
+        "heading": "赛博朋克长什么样",
+        "body": "赛博朋克是『雨打在霓虹上、霓虹打在亚洲文字招牌上』，但更底层的规则是光的对比：漆黑的阴影里坐着滚烫的洋红/青主光，每一处镜面高光都有色差错位。体积烟雾填满中景，每一个霓虹光源都有一个可见的光锥。湿漉漉的路面，把每一束光都加倍成一个倒影。少了其中任何一条，得到的只是『带紫色灯光的暗调科幻』——挨着这个流派，却不是它本身。"
+      },
+      {
+        "heading": "这种质感的来源",
+        "body": "经典名单：Ridley Scott 的 Blade Runner（1982）——湿霓虹东京的原型；Denis Villeneuve 的 Blade Runner 2049（2017）——全息广告牌与橙色 Vegas；Mamoru Oshii 的 Ghost in the Shell（1995）——俯冲式城市镜头；Katsuhiro Otomo 的 Akira（1988）——街面层级；Lana 与 Lilly Wachowski 的 The Matrix——绿色代码冲洗。游戏：CD Projekt Red 的 Cyberpunk 2077 Night City、Deus Ex 系列。MV：Grimes 的 Genesis、M83 Midnight City 续作、Riot Games 由 Fortiche 操刀的 Arcane 片头。Tunee 的赛博朋克模型正是在这些具体的画面语言上训练的——『Blade Runner 2049 Vegas orange haze』会精确命中你想要的那个点。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "永远成对指定两种霓虹色，并禁掉暖色：『只用洋红与青，no amber』。加上『湿漉漉的路面、地面上的霓虹倒影』——它会让观感中的光密度翻倍。明确写『volumetric haze, visible light cones』，否则得到的就是扁平霓虹。艺人镜头加上『rim-lit silhouette, key light from above-left』——被全脸打亮会毁掉 noir。最后用一句『chromatic aberration on highlights』给镜头一种镜片感。"
+      }
+    ]
+  }
 }

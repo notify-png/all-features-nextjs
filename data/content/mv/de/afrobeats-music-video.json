@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Afrobeats-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Afrobeats-Musikvideos mit unterschiedlichen Prompts oder Stileinstellungen generieren und dann die Version wählen, die am besten zu deiner Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER AFROBEATS",
+    "h2": "Afrobeats-Videos laufen auf Farbe, Bewegung und Lagos-Energie",
+    "sections": [
+      {
+        "heading": "So sieht Afrobeats aus",
+        "body": "Afrobeats-MVs haben seit den späten 2010ern eine visuelle Sprache aufgebaut, die so unverwechselbar ist wie die Percussion des Genres. Die nicht verhandelbaren Elemente: hochgesättigte Farben (Ankara-Prints, senfgelbe Mauern, Kobaltblau), breite Gruppenchoreografien vor architektonischen Hintergründen, weiche Steadicam-Bewegungen statt Handkamera, Hauttöne im Goldenen Schnitt ohne Entsättigung und mindestens eine Drohnenaufnahme über einer Lagos-Dachterrasse oder einer Accra-Straße. Der Look ist feierlich — selbst die melancholischen Songs werden hell aufgenommen."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Wenn Regisseure Afrobeats zitieren, nennen sie dieselben Eckpfeiler: Burna Boys „Last Last\" und „Ye\", Wizkids „Essence\" featuring Tems, Davidos „Fall\", Rema und Selena Gomez' Remix von „Calm Down\", Tems' „Free Mind\" und Ayra Starrs „Rush\". TG Omori (der produktive „boy director\" hinter einem Großteil der jüngeren visuellen Identität des Naija-Pop), Meji Alabi (Wizkid, Stormzy) und Director K definieren den Look — weitwinklige Gruppenaufnahmen, formale Symmetrie, Stoff als primäres visuelles Element. Tunees Afrobeats-Modell ist auf dieses Vokabular trainiert, sodass ein Prompt, der Ankara, Lagos-Dachterrassen oder eine bestimmte Tanzformation benennt, präzise landet."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Bitte nicht um „African vibes\" — zu breit, du bekommst generische Safari-Bilder. Spezifiziere stattdessen die Stadt (Lagos, Accra, Johannesburg), den Stoff (Ankara, Kente, Agbada) und die Tageszeit (die Golden Hour ist fast immer richtig). Füge einen architektonischen Anker hinzu — eine Dachterrasse, eine Marktmauer, eine Treppe aus der Kolonialzeit — und das Bild liest sich erkennbar als Afrobeats statt als generisches Afrika."
+      }
+    ]
+  }
 }

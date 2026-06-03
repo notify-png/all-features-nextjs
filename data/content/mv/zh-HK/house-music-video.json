@@ -39,5 +39,23 @@
       "q": "Tunee的House音樂視頻生成器可以在移動設備上使用嗎？",
       "a": "Tunee完全可以通過網頁瀏覽器在桌面和移動設備上使用，所以你可以從任何設備上創建House音樂視頻，無需安裝軟件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 House",
+    "h2": "House 視頻不離開舞池，翻譯舞池",
+    "sections": [
+      {
+        "heading": "House 的視覺面貌",
+        "body": "House 整晚活在單一環境裡：俱樂部、倉庫、音樂節帳篷。好的 House 視頻尊重這一點。攝影機常在人群之中、鏡頭在肩高，頭頂的燈光自行擔當攝影指導。頻閃、雷射、煙霧、汗。DJ 通常不會出現超過幾秒——重點是這個空間，而不是那個人形。色彩傾向洋紅—青—琥珀的洗刷，drop 上偶爾爆出純白。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "Michel Gondry 執導的 Daft Punk「Around the World」仍是把 House 當作編舞的黃金標準。Disclosure 與 Sam Smith 合作的「Latch」（Bo Mirosseni 執導）建立了當代雙身體模板；他們與 Stink Studios 更廣泛的合作定義了這個雙人組的視覺識別。Fred again.. 的 Boiler Room 剪輯證明一架攝影機加上真實人群勝過任何搭建。Honey Dijon 的現場素材、Peggy Gou 的「Nanga Eboko」、Frankie Knuckles 的檔案片段，以及 Romy 的個人作品展示了視覺的廣度。共通的主線是誠實——假裝自己不只是一間有音樂的房間的 House 視頻，一年內就會顯得難堪。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "把燈光裝置當作角色。對 Tunee 下具體燈具：「頂部 par can 打洋紅、兩盞搖頭燈把青色掃過後牆、煙霧濃到能看見光束」。身體應是局部——一隻舉起的手、後腦勺、頻閃前的側臉——幾乎不要全身覆蓋。將攝影機節奏對齊堆疊、breakdown 與 drop。當 House 視頻把 breakdown 當主歌處理，它就死了。"
+      }
+    ]
+  }
 }

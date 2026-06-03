@@ -39,5 +39,23 @@
       "q": "如何向我的古典音乐视频添加歌词或字幕？",
       "a": "Tunee提供内置的歌词和字幕叠加选项。只需输入您的歌词并选择文本样式，AI将自动将其同步到您的古典音乐视频。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于古典音乐",
+    "h2": "当画面让位给演奏，古典 MV 才成立",
+    "sections": [
+      {
+        "heading": "古典长什么样",
+        "body": "古典音乐视频有一套安静、定型的语法。演出影像在音乐厅里用三到五台锁定机位拍摄：大厅全景、指挥中景、首席演奏者特写，以及独奏者手部特写。录音室主导的视频偏向极简布景——中性背景下的单主体肖像、自然光、缓慢推镜。色彩克制，常常几近中性，偏一点点暖或冷。这一介质尊重音乐自身的节奏，而不是把流行剪辑强加上来。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "可参考的作品包括：Yo-Yo Ma 的 Bach Project 影片、Hilary Hahn 的独奏会视频、Lang Lang 在 Disney+ 上的 Goldberg Variations、Deutsche Grammophon 的当代艺术家肖像、Max Richter 的 Sleep 装置周边视觉（由导演 Natalie Johns 操刀）、Andris Nelsons 指挥的 Berlin Philharmonic Digital Concert Hall 流媒体，以及 Igor Levit 在封城期间的直播。纪录片层面，Daniel Barenboim 的 West-Eastern Divan 与 Daniil Trifonov 的录制独奏会，定义了这门形式严肃的那一端。Tunee 的古典模型把乐器与手部当作主体，而不是背景。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "点出乐器门类、场地声学、光源。『木质独奏厅中的独奏大提琴、单一顶光、缓慢推镜对准手与指板、无观众』管用；『古典音乐演出视频』产出泛泛之作。如果你要的是『谱面可视化』而不是『演出』，要明确说——这两种形式长得完全不一样。"
+      }
+    ]
+  }
 }

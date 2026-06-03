@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de Fitness para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de Fitness utilizando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV DE FITNESS",
+    "h2": "Un video de transformación que no parezca un anuncio de Bowflex",
+    "sections": [
+      {
+        "heading": "Por qué los MVs de fitness vale la pena hacerlos bien",
+        "body": "La presentación de antes/después está muerta — el formato se ha quemado tanto en TikTok que las audiencias hacen scroll al instante. Lo que sigue funcionando es el MV de proceso de entrenamiento: 60 segundos musicalizados con una pista de BPM alto, cargados hacia el grind diario más que hacia el reveal. Los dueños de gimnasios los usan para los spotlights de socios, los coaches para los recaps de clientes y los individuos como marcadores personales de un bloque de 12 semanas que valen más que una foto de báscula."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Los cinematógrafos deportivos conocen el canon: primer plano del magnesio en las manos, la flexión de la barra en una repetición pesada, la exhalación con la toalla sobre la cara, el general matutino del gimnasio vacío, la mirada al reloj entre series. El plano maestro es el montaje de entrenamiento de Rocky de John G. Avildsen (1976) — el 'Gonna Fly Now' de Bill Conti sync-cortado a escaleras y reses colgadas. Las campañas de Wieden+Kennedy para Nike (Find Your Greatness, Dream Crazy con Colin Kaepernick) definieron el look moderno. All In de Adidas, la cobertura de CrossFit Games de Reebok, el formato voiceover de David Goggins en Instagram, las escenas de entrenamiento de Magic Mike de Steven Soderbergh. La corrección de color es desaturada con negros aplastados y un acento — discos rojos, cartel EXIT de neón, amanecer entrando por una ventana. Especifica esa paleta más un tempo de pista y el corte se sincroniza con los levantamientos de forma natural."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "No pidas 'planos motivacionales de gimnasio' — eso te da metraje de stock. En su lugar, nombra el levantamiento (peso muerto, clean, push press), la hora del día y el equipo específicamente. 'Gimnasio de garaje vacío a las 5 a.m., una sola barra cargada con discos oxidados, grado desaturado, un único tungsteno cálido cenital' aterriza donde un DP real apuntaría una cámara."
+      }
+    ]
+  }
 }

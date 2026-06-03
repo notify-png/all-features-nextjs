@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales EDM de Tunee en dispositivos móviles?",
       "a": "Tunee es totalmente accesible a través del navegador web en computadora de escritorio y dispositivos móviles, para que puedas crear videos musicales EDM desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL EDM",
+    "h2": "Los MVs de EDM son cine de festival — la multitud es la coprotagonista",
+    "sections": [
+      {
+        "heading": "Cómo se ve el EDM",
+        "body": "El video de EDM se divide en dos modos claros: el aftermovie de festival (el formato que perfeccionó el recap anual de Tomorrowland) y el video narrativo de single. Las convenciones del aftermovie: dron sobre multitudes, primeros planos de cañones de CO2, reflejos del muro LED en manos en alto, confeti en cámara lenta, time-lapse del montaje del escenario, transiciones de atardecer a noche. El formato narrativo toma prestado del video pop pero siempre regresa al drop con un plano del escenario o del público. El color está hipersaturado, el contraste empujado y el corte está fijado al BPM."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Referencias: los aftermovies oficiales de Tomorrowland (la plantilla que define la forma), los recaps anuales de Ultra Miami y EDC Las Vegas, 'Animals' de Martin Garrix, 'How Deep Is Your Love' de Calvin Harris y Disclosure, 'Wake Me Up' y 'Levels' de Avicii, las películas Group Therapy de Above & Beyond, 'Don't You Worry Child' de Swedish House Mafia y la documentación del show holográfico HOLO de Eric Prydz. El director Charly Friedrichs (cuyo trabajo da forma a buena parte de la estética Tomorrowland) junto al equipo de diseño de escenario de V Squared Labs definen la vara visual. El modelo EDM de Tunee conoce la diferencia entre el pacing del recap de festival y el pacing narrativo del video single."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Elige primero el modo — festival o narrativo — porque la gramática visual diverge. Para festival: nombra el tipo de escenario (mainstage piramidal, escenario en el bosque, club íntimo), la hora del día (los drops al anochecer pegan más fuerte) y un elemento pyro (CO2, llama, confeti). Para narrativo: trátalo como un video pop con color codificado EDM y cortes anclados al BPM. No mezcles ambos en un solo prompt."
+      }
+    ]
+  }
 }

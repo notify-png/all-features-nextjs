@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale Cyberpunk pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale Cyberpunk en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES MV CYBERPUNK",
+    "h2": "Les règles visuelles du cyberpunk sont plus strictes que ses fans ne l'admettent",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le cyberpunk",
+        "body": "Cyberpunk, c'est pluie sur néon sur enseignes en caractères asiatiques, mais la règle plus profonde tient au contraste lumineux : ombres noir d'encre tenant des key lights magenta/cyan brûlantes, avec aberration chromatique sur chaque highlight spéculaire. La haze volumétrique remplit le plan moyen pour que chaque source néon possède un cône visible. La chaussée mouillée double chaque lumière en reflet. Sautez un de ces éléments et vous obtenez de la « dark sci-fi avec des lumières violettes » — voisin, mais pas le genre."
+      },
+      {
+        "heading": "D'où vient le look",
+        "body": "Le canon : Blade Runner de Ridley Scott (1982) pour le Tokyo wet-neon original, Blade Runner 2049 de Denis Villeneuve (2017) pour les panneaux holographiques et le Vegas orange, Ghost in the Shell de Mamoru Oshii (1995) pour les plans plongeants sur la ville, Akira de Katsuhiro Otomo (1988) pour le niveau de la rue, The Matrix de Lana et Lilly Wachowski pour le lavis vert code. Côté jeux : Cyberpunk 2077 et la Night City de CD Projekt Red, la série Deus Ex. Côté clips : « Genesis » de Grimes, les suites de « Midnight City » de M83, les génériques d'Arcane signés Fortiche pour Riot Games. Le modèle cyberpunk de Tunee est entraîné sur ces langages d'image précis — « Vegas orange haze de Blade Runner 2049 » atterrit exactement là où vous le pensez."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Associez toujours deux couleurs néon et interdisez les tons chauds : « magenta et cyan uniquement, pas d'ambre ». Ajoutez « chaussée mouillée, reflet de néon au sol » — cela double la densité lumineuse perçue. Spécifiez « haze volumétrique, cônes lumineux visibles » sous peine d'obtenir des néons plats. Pour le plan artiste, ajoutez « silhouette en rim light, key light en haut à gauche » — un visage entièrement éclairé détruit le noir. Terminez par « aberration chromatique sur les highlights » pour la signature de l'optique."
+      }
+    ]
+  }
 }

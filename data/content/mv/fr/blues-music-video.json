@@ -39,5 +39,23 @@
       "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement le Blues?",
       "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà du Blues. Vous pouvez générer des vidéos musicales pour le pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU BLUES",
+    "h2": "Les MV blues vivent dans la lumière tungstène et les instruments patinés",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le blues",
+        "body": "La vidéo blues possède une esthétique posée parce que la musique a un public posé — personne ne réinvente la forme, et c'est précisément le point. Le canon visuel : intérieur de club éclairé au tungstène avec des ombres dures, gros plans sur les mains qui travaillent un manche, le slide à la guitare steel, la sueur sur le front sous une key light unique, la fumée dans l'air (réelle ou hazer), les amplis à lampes qui rougeoient en arrière-plan. L'étalonnage pousse l'ambre et écrase les noirs. Le cadrage respecte l'instrumentiste plutôt que de couper autour de lui."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "Les références sont directes et nommées : les films live tardifs de B.B. King, le footage du club Legends de Buddy Guy, « Bright Lights » et « When My Train Pulls In » de Gary Clark Jr., le film Royal Albert Hall de Joe Bonamassa, les clips récents de Christone « Kingfish » Ingram et les captures live Third Man Records de Jack White. The Soul of a Man du réalisateur Wim Wenders et la série The Blues de Martin Scorsese diffusée sur PBS posent le gabarit visuel d'un cinéma blues sérieux — petites salles, vrai matériel, mains et instruments comme sujets principaux. Le modèle blues de Tunee est entraîné sur cette lignée."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Nommez le matériel et le type de salle, pas seulement le genre. « Gibson ES-335 vintage à travers un ampli Fender tweed, club en sous-sol enfumé, ampoule nue unique au plafond, gros plan des mains sur un bend » produit un cadre crédible ; « musicien de blues qui joue de la guitare » produit une photo de stock. Les amateurs de blues remarquent quand l'équipement ne va pas — alors soyez précis."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee 的環境音樂視頻生成器可以在移動設備上使用嗎？",
       "a": "Tunee 可通過網頁瀏覽器在桌面和移動設備上完全訪問，因此您無需安裝軟件即可從任何設備創建環境音樂視頻。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Ambient",
+    "h2": "Ambient MV 在「甚麼都不發生、一切都在呼吸」中成立",
+    "sections": [
+      {
+        "heading": "Ambient 的視覺面貌",
+        "body": "Ambient 音樂從設計上就抗拒音樂視頻的格式——沒有 drop 可剪、沒有副歌可推升。這個流派的視覺傳統以極致的耐心回應：一個北海道山景鏡頭撐兩分鐘、霧氣以實時越過山谷、黑屏上一顆漂浮的粒子、自上而下的水面。參考座標是 Bill Viola 的裝置藝術與 Andrei Tarkovsky 的長鏡頭，而非 MTV 式剪輯。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "導演引用同一條脈絡：Brian Eno 的「77 Million Paintings」、Tim Hecker 為「Ravedeath 1972」設計的專輯視覺、Stars of the Lid 的現場投影、William Basinski 的「Disintegration Loops」配上 9/11 的紐約天際線影像、Aphex Twin 的「Selected Ambient Works」可視化，以及 Stephen Nomura Schible 執導的 Ryuichi Sakamoto「async」影像。Bill Viola 的錄像裝置與 Andrei Tarkovsky 的長鏡頭電影（「Stalker」、「Solaris」）是耐心影像的試金石——貫穿不是題材，而是拒絕剪接。四分鐘內只有兩三個鏡頭是特色，不是缺陷。Tunee 的 ambient 模型為這種節奏校準，而非與之對抗。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "在提示詞中指定時長，而非只給主題。「松樹林霧中的單一航拍，無剪接，60 秒內緩慢前推」會給出你要的東西；「美麗的環境自然蒙太奇」只會給你素材庫式的 B-roll。命名一個緩慢變化的元素——光線推移、霧氣流動、雪正在堆積——讓畫面本身擁有時間，而非只是構圖。"
+      }
+    ]
+  }
 }

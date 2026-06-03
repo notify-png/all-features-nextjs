@@ -39,5 +39,23 @@
       "q": "如何在爵士樂音樂視頻中添加歌詞或字幕？",
       "a": "Tunee 提供內置的歌詞和字幕疊加選項。只需輸入您的歌詞並選擇文字風格，AI 就會自動將其同步到您的爵士樂音樂視頻。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Jazz",
+    "h2": "銀幕上的 Jazz 要求攝影機先學會聆聽",
+    "sections": [
+      {
+        "heading": "Jazz 的視覺面貌",
+        "body": "Jazz 視頻常以黑白拍攝，不是為了懷舊，而是因為色彩會與音樂競爭。攝影機傾向一次找一位樂手——獨奏中的薩克斯風手、低音貝斯左手的 walking line——並停留。煙、低天花板、擠滿一室的背影。當色彩出現時，是深色木材上的琥珀色鎢絲光。觀眾通常可見但從不是主體。運動很有耐心，常是橫過樂池的單一緩慢軌道鏡。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "Robert Glasper 在 Blue Note 的現場與他的 NPR Tiny Desk 場次為親密的 Jazz 拍攝立下當代標竿。Esperanza Spalding 的「Black Gold」在構圖與角色之間取得平衡。Snarky Puppy 的「We Like It Here」錄音影片把觀眾放進錄音棚，改變了人們拍樂團的方式。Kamasi Washington 的「Truth」與「Street Fighter Mas」既是演唱會電影也是視覺隨筆，而 Jazz at Lincoln Center 在 Wynton Marsalis 領導下的紀錄片傳統，承載著體制經典。Christian Scott aTunde Adjuah 的長篇演奏延伸了這個形式。共通的本能：信任樂手。音樂不需要幫忙。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "在樂團之前先把空間建起來。「地下俱樂部、低天花板、舞台後方磚牆、兩根桌上蠟燭、一盞聚光打在鋼琴上」會給 Tunee 正確的基底。然後指定要跟誰：「攝影機在獨奏期間停在小號上，樂句結束時對焦轉到鼓手」。要求長鏡頭，並抗拒在每一處變化都剪一刀的衝動。黑白提示詞特別好用——在低光下，Tunee 處理灰階範圍比處理複雜色彩更好。"
+      }
+    ]
+  }
 }

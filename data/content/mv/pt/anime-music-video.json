@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu vídeo de música anime?",
       "a": "Tunee oferece opções de sobreposição de letras e legendas integradas. Simplesmente insira suas letras, escolha um estilo de texto e a IA as sincronizará com seu vídeo de música anime automaticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV ANIME",
+    "h2": "MVs anime que não parecem um acidente do Stable Diffusion",
+    "sections": [
+      {
+        "heading": "Como o anime realmente se parece",
+        "body": "Anime não é um único estilo — são uma dúzia de escolas com regras diferentes. Os fundos pictóricos e a animação limitada do Studio Ghibli. Os god rays e lens flares hiperdetalhados de Makoto Shinkai em Your Name e Weathering With You. A atuação de personagem da Kyoto Animation em Violet Evergarden. As explosões de sakuga da Trigger em Kill la Kill. A linha cel-shaded, os preenchimentos de cor chapados, os ciclos de caminhada de três frames — são escolhas, não defaults. Páginas de AMV cheias de 'anime girl' genérica são feitas por gente que não escolheu uma."
+      },
+      {
+        "heading": "Pontos de referência que funcionam",
+        "body": "Briefando MV anime: nomeie o diretor e a obra. 'Céu Makoto Shinkai, paleta Your Name (2016)' diz ao modelo exatamente onde pousar — gradiente saturado ciano-laranja, god rays volumétricos atravessando aberturas de nuvens, cúmulos pintados. 'Sakuga de Hiroyuki Imaishi, frames de ação de Kill la Kill' puxa line boil energético e impact frames. 'Fundo em aquarela Hayao Miyazaki e Kazuo Oga' puxa as florestas pintadas à mão do Studio Ghibli. Belle de Mamoru Hosoda para coreografia de multidão. Para referências nativas de MV: Kaibutsu do Eve (animado por Tatemiya) e os visuais de Usseewa da Ado. O modelo anime do Tunee trata essas escolas como vocabulários separados, não como uma fusão."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Sempre nomeie uma referência de estúdio. Em seguida, especifique se você quer composição estática com animação limitada (Ghibli) ou sakuga em movimento completo (Trigger, Bones). Adicione 'cel-shaded, bordas de sombra duras, sem gradiente suave na pele' para evitar que o modelo derive para adjacências de anime renderizado em 3D. Para fundos use 'fundo pintado, textura desenhada à mão' — sem isso você recebe renders 3D com personagens anime colados por cima, o que sempre fica errado."
+      }
+    ]
+  }
 }

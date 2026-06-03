@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali ambient di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali ambient da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'AMBIENT",
+    "h2": "Gli MV ambient funzionano quando non succede nulla e tutto respira",
+    "sections": [
+      {
+        "heading": "Come si presenta l'ambient",
+        "body": "La musica ambient resiste per design al formato music video — non c'è un drop su cui tagliare, non c'è un ritornello a cui crescere. La tradizione visiva del genere risponde con pazienza estrema: una singola inquadratura di una montagna dell'Hokkaido tenuta per due minuti, nebbia che attraversa una valle in tempo reale, uno schermo nero con una singola particella che deriva, una superficie d'acqua vista dall'alto. Il quadro di riferimento sono le installazioni di Bill Viola e i lunghi piani di Andrei Tarkovsky piuttosto che il montaggio di MTV."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "I registi citano la stessa genealogia: 77 Million Paintings di Brian Eno, le visual dell'album Ravedeath 1972 di Tim Hecker, le proiezioni live degli Stars of the Lid, Disintegration Loops di William Basinski abbinato al footage dello skyline di NYC dell'11 settembre, i visualizzatori di Selected Ambient Works di Aphex Twin, e il film async di Ryuichi Sakamoto diretto da Stephen Nomura Schible. Le video installazioni di Bill Viola e il cinema a lunghe inquadrature di Andrei Tarkovsky (Stalker, Solaris) sono i punti di riferimento dell'immagine paziente — il filo conduttore non è il soggetto, è il rifiuto di tagliare. Due o tre inquadrature in quattro minuti è una caratteristica, non un difetto. Il modello ambient di Tunee è calibrato su quel ritmo invece che combatterlo."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Specifica la durata nel tuo prompt, non solo il soggetto. 'Singola inquadratura con drone di una foresta di pini nella nebbia, nessun taglio, lenta deriva in avanti per 60 secondi' produce ciò che vuoi; 'bellissimo montaggio ambient della natura' produce B-roll da stock. Nomina un elemento di lento cambiamento — la luce che si sposta, la foschia che si muove, la neve che si accumula — così l'inquadratura ha tempo al suo interno invece di sola composizione."
+      }
+    ]
+  }
 }

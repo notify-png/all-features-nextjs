@@ -39,5 +39,23 @@
       "q": "애니메 뮤직비디오에 가사나 자막을 추가하려면 어떻게 하나요?",
       "a": "Tunee는 내장된 가사 및 자막 오버레이 옵션을 제공합니다. 가사를 입력하고 텍스트 스타일을 선택하면 AI가 자동으로 애니메 뮤직비디오에 동기화합니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "애니메 MV 이야기",
+    "h2": "Stable Diffusion 사고처럼 보이지 않는 애니메 MV 만들기",
+    "sections": [
+      {
+        "heading": "애니메가 실제로 보이는 방식",
+        "body": "애니메는 단일 스타일이 아니라, 서로 다른 규칙을 가진 십수 개의 학파입니다. Ghibli의 회화적 배경과 제한 애니메이션. Your Name과 Weathering With You에서 Makoto Shinkai가 보여준 초정밀 god ray와 렌즈 플레어. Violet Evergarden에서 Kyoto Animation의 캐릭터 연기. Kill la Kill에서 Trigger의 사쿠가 폭발. 셀 셰이드 라인, 평면 컬러 필, 3프레임 워크 사이클은 디폴트가 아니라 선택입니다. '애니메 소녀'로 가득 찬 일반적인 AMV 페이지는 그중 하나도 고르지 않은 사람들이 만든 결과물입니다."
+      },
+      {
+        "heading": "실제로 통하는 레퍼런스",
+        "body": "애니메 MV 브리프에서는 디렉터와 작품을 명명하세요. 'Makoto Shinkai sky, Your Name (2016) palette'는 모델이 안착할 정확한 자리를 알려줍니다 — 채도 높은 시안에서 오렌지로 가는 그라데이션, 구름 사이로 쏟아지는 볼류메트릭 god ray, 회화풍 적운까지. 'Hiroyuki Imaishi sakuga, Kill la Kill action frames'는 에너제틱한 라인 보일과 임팩트 프레임을 끌어옵니다. 'Hayao Miyazaki and Kazuo Oga watercolor background'는 Studio Ghibli의 손그림 숲을 가져옵니다. 군중 안무는 Mamoru Hosoda의 'Belle'을. MV 네이티브 레퍼런스로는 Eve의 '怪物'(Tatemiya 애니메이션)과 Ado의 'うっせぇわ' 비주얼이 있습니다. Tunee의 애니메 모델은 이 학파들을 뒤섞지 않고 별개의 어휘로 다룹니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "항상 스튜디오 레퍼런스를 명명하세요. 그다음 정지 구도에 제한 애니메이션(Ghibli)인지, 풀 사쿠가 모션(Trigger, Bones)인지를 명시하세요. 모델이 3D 렌더링된 애니메 인접 영역으로 표류하지 않도록 'cel-shaded, hard shadow edges, no soft gradient on skin'를 덧붙이세요. 배경에는 'painted background, hand-drawn texture'를 — 이 옵션 없이는 3D 렌더 위에 애니메 캐릭터를 붙여놓은 듯한, 늘 어색한 결과가 나옵니다."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale Gospel?",
       "a": "Tunee offre opzioni integrate per sovrapposizioni di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale Gospel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL GOSPEL",
+    "h2": "Il video gospel è una congregazione catturata, non costruita",
+    "sections": [
+      {
+        "heading": "Come si presenta il gospel",
+        "body": "Le visual gospel centrano il coro, non il solista. Anche quando c'è un vocalist principale, l'inquadratura continua a tornare a file di volti — occhi chiusi, mani alzate, il momento della cattura. Le ambientazioni sono solitamente reali: un santuario con luce da vetrate, una sala comunitaria, a volte un revival all'aperto. Il guardaroba è in toga o vestito della domenica, mai streetwear. La camera si muove con reverenza: lenti push-in su singoli fedeli, ampie inquadrature da gru attraverso la galleria del coro."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Love Theory' di Kirk Franklin mostra il blueprint moderno — messa in scena comunitaria, movimento gioioso, luce che entra dalle finestre. I video live di 'Break Every Chain' di Tasha Cobbs Leonard dimostrano che il formato live-in-worship colpisce ancora più forte. 'Believe For It' di CeCe Winans, gli shoot collettivi della Maverick City Music e del Sunday Service di Kanye West, i tagli del coro di Hezekiah Walker, 'Oceans' degli Hillsong UNITED, e 'Stand By Me' del Kingdom Choir al royal wedding completano il vocabolario. La regola condivisa, codificata dal regista veterano di video gospel Derek Blanks e dagli specialisti di cattura live a TBN: nessuna coreografia che sembri separata dal sentimento. Se un'alzata di mano sembra messa in scena, l'intera inquadratura crolla."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Costruisci prima la stanza, poi popolala. Inizia con 'luce del sole attraverso alte finestre di un santuario con pannelli di legno, polvere visibile nei raggi', poi aggiungi il coro in file dietro il solista. Tunee gestisce bene il calore di luce mista naturale e tungsteno quando specifichi entrambe le sorgenti. Chiedi singoli volti in close-up tra le inquadrature più ampie del coro — il gospel ha bisogno di quell'intimità tanto quanto della scala. Mantieni i montaggi sul respiro della frase, non sul rullante."
+      }
+    ]
+  }
 }

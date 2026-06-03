@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de Graduación para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de Graduación usando diferentes solicitudes de texto o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV DE GRADUACIÓN",
+    "h2": "Un video de graduación que sobrevive al lanzamiento del birrete",
+    "sections": [
+      {
+        "heading": "Por qué importa un MV de graduación",
+        "body": "Las ceremonias de graduación son paradójicamente poco cinematográficas — demasiada gente, mala iluminación, largos tramos de nombres siendo leídos. El formato MV rescata el día comprimiendo cuatro años (o doce, o uno) en 60-90 segundos musicalizados con una pista que signifique algo para el graduado. Es el artefacto que los padres envían a los familiares que no pudieron viajar y el que los graduados de verdad guardan en lugar del stream oficial de la ceremonia."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Los fotógrafos de commencement disparan un canon apretado: el freeze-frame del birrete contra el cielo, el primer plano del hooding, el general del apretón de manos con el diploma, la reacción del padre o madre entre la multitud, el abrazo post-ceremonia en el césped. La estantería de referencias incluye el discurso de commencement de Steve Jobs en Stanford en 2005 (filmado por el Stanford News Service), el discurso 'This Is Water' de David Foster Wallace en Kenyon, la tradición de retrato de yearbook de Herff Jones y Jostens, las versiones de 'Pomp and Circumstance' de Vitamin String Quartet que suenan en cada ceremonia y los especiales de graduación de Tiny Desk de NPR. Mezcla tres o cuatro planos de progreso — foto del primer día de cole, mudanza al dormitorio, una noche en vela ante un escritorio — y el MV gana un arco que la propia ceremonia no puede entregar. El antes-y-después de la misma mochila funciona siempre."
+      },
+      {
+        "heading": "Conviértelo en el regalo",
+        "body": "Mándaselo al graduado la mañana de, no después. Reencuadra el día antes de que empiece el caos. Tunee renderiza en vertical para la Story post-ceremonia, panorámico para la proyección en la mesa esa noche y cuadrado para el mensaje a los abuelos, todo desde una sola generación."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales Ambient de Tunee fonctionne-t-il sur les appareils mobiles?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous permettant de créer des vidéos musicales Ambient depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE L'AMBIENT",
+    "h2": "Les MV ambient fonctionnent quand rien ne se passe et que tout respire",
+    "sections": [
+      {
+        "heading": "À quoi ressemble l'ambient",
+        "body": "L'ambient résiste au format du clip musical par nature même — pas de drop sur lequel couper, pas de refrain dans lequel monter. La tradition visuelle du genre répond par une patience extrême : un unique plan d'une montagne d'Hokkaido tenu pendant deux minutes, le brouillard traversant une vallée en temps réel, un écran noir avec une particule unique qui dérive, la surface d'une eau filmée en plongée. Le cadre de référence relève des installations de Bill Viola et des longs plans d'Andreï Tarkovski plutôt que du montage MTV."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "Les réalisateurs citent la même filiation : « 77 Million Paintings » de Brian Eno, les visuels de l'album « Ravedeath, 1972 » de Tim Hecker, les projections live de Stars of the Lid, les « Disintegration Loops » de William Basinski associés aux images du skyline new-yorkais du 11 septembre, les visualiseurs « Selected Ambient Works » d'Aphex Twin, le film « async » de Ryuichi Sakamoto réalisé par Stephen Nomura Schible. Les installations vidéo de Bill Viola et le cinéma en plans longs d'Andreï Tarkovski (Stalker, Solaris) sont les pierres de touche de l'image patiente — le fil rouge n'est pas le sujet mais le refus de couper. Deux ou trois plans sur quatre minutes constituent une caractéristique, pas un défaut. Le modèle ambient de Tunee est calibré pour ce rythme plutôt que pour le combattre."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Spécifiez la durée dans votre prompt, pas seulement le sujet. « Plan drone unique d'une forêt de pins dans le brouillard, sans coupe, lente dérive avant sur 60 secondes » produit ce que vous voulez ; « beau montage de nature ambient » produit de la B-roll de stock. Nommez un élément de changement lent — la lumière qui glisse, la brume qui se déplace, la neige qui s'accumule — pour que le cadre contienne du temps en lui-même, pas seulement une composition."
+      }
+    ]
+  }
 }

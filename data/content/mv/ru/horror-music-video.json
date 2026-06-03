@@ -39,5 +39,23 @@
       "q": "Поддерживает ли он экспорт видеоклипов ужасов в 4K разрешении?",
       "a": "Абсолютно. Tunee экспортирует видеоклипы ужасов в разрешение до 4K, делая их готовыми для YouTube, платформ потокового вещания и больших экранов."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "О HORROR MV",
+    "h2": "Хоррор работает на том, что вы НЕ показываете",
+    "sections": [
+      {
+        "heading": "Чего требует horror-видео",
+        "body": "Хоррор — это жанр, где сдержанность переигрывает зрелище. Кадры, которые реально пугают, по большей части пустые: неосвещённый коридор с одним practical-светом в конце, фигура слишком далеко, чтобы прочитаться чётко, общий план, удерживаемый на удар дольше нормы. Body horror и кровь — это инструменты, а не жанр. Визуальные правила: глубокая тень с деталями, раздавленными в чёрный; hand-held или locked-off (никаких плавных треков); цветокор холодный или болезненно зелёно-жёлтый; зерно, намекающее на деградировавшую плёнку или surveillance-кадр."
+      },
+      {
+        "heading": "Откуда берётся этот лук",
+        "body": "Полка референсов: каталог A24 — Hereditary и Midsommar у Ari Aster с симметричными wides, The Witch (VVitch) и The Lighthouse у Robert Eggers за свечу-period-кадры, Get Out и Nope у Jordan Peele за сатирическую хоррор-кадрировку; традиция found footage Blair Witch у Daniel Myrick; неподвижность Stoker у Park Chan-wook. В клипах: Come to Daddy Aphex Twin у Chris Cunningham; Closer Nine Inch Nails у Mark Romanek; Anvil у Lorn. Из игр: ремейк Resident Evil 2 у Capcom; туман Silent Hill 2 у Konami. Horror-модель Tunee натренирована на negative space и slow-burn-кадрировке, а не на overdrive из jump-scare."
+      },
+      {
+        "heading": "Подсказка по промптингу для Tunee",
+        "body": "Указывайте, чего В КАДРЕ нет: «one figure in deep background, no foreground subject, empty middle ground». Фиксируйте камеру: «locked-off wide, no movement» или «shaky handheld, low frame rate». Источник света критичен — «single practical light bulb, top-down, hard shadow» бьёт «dark and scary». Добавляйте плёнку: «16mm grain, slight gate weave» для аналог-хоррор-ощущения. Держите кадры дольше, чем комфортно; хоррору нужна пауза."
+      }
+    ]
+  }
 }

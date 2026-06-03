@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale per la laurea per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale per la laurea utilizzando prompt diversi o impostazioni di stile diverse, poi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV DI LAUREA",
+    "h2": "Un video di laurea che sopravvive al lancio del tocco",
+    "sections": [
+      {
+        "heading": "Perché un MV di laurea conta",
+        "body": "Le cerimonie di laurea sono paradossalmente poco cinematografiche — troppa gente, illuminazione cattiva, lunghi tratti di nomi letti. Il formato MV salva la giornata comprimendo quattro anni (o dodici, o uno) in 60-90 secondi musicati su una traccia che significa qualcosa per il laureato. È l'artefatto che i genitori inviano ai parenti che non hanno potuto venire, e quello che i laureati salvano davvero al posto del livestream ufficiale della cerimonia."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I fotografi di commencement scattano un canone stretto: il freeze-frame del lancio del tocco contro il cielo, il close-up del hooding, l'ampia stretta di mano del diploma, la reazione del genitore tra la folla, l'abbraccio post-cerimonia sul prato. Lo scaffale dei riferimenti include il discorso di commencement di Steve Jobs a Stanford nel 2005 (filmato dallo Stanford News Service), il discorso 'This Is Water' di David Foster Wallace al Kenyon, la tradizione dei ritratti annuali da Herff Jones e Jostens, le cover di Pomp and Circumstance dei Vitamin String Quartet suonate a ogni cerimonia, e gli special di laurea Tiny Desk di NPR. Aggiungi tre o quattro inquadrature di progresso - foto del primo giorno di scuola, trasloco in dormitorio, una nottata su una scrivania - e l'MV guadagna un arco che la cerimonia stessa non può fornire. Il prima-e-dopo dello stesso zaino funziona ogni volta."
+      },
+      {
+        "heading": "Rendilo il regalo",
+        "body": "Invialo al laureato la mattina, non dopo. Riformula la giornata prima che inizi il caos. Tunee renderizza verticale per la Story post-cerimonia, widescreen per il playback al tavolo della cena quella sera, e quadrato per il messaggio ai nonni, tutto da una sola generazione."
+      }
+    ]
+  }
 }

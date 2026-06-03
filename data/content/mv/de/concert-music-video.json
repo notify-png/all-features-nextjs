@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Konzert-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Konzert-Musikvideos mit unterschiedlichen Prompts oder Style-Einstellungen generieren und dann die Version auswählen, die Ihrer Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER KONZERT-MV",
+    "h2": "Konzertvideos stehen und fallen mit dem Schnitt",
+    "sections": [
+      {
+        "heading": "Was Konzertvideo ist",
+        "body": "Konzert-MV ist ein spezielles Format: Multi-Kamera-Live-Performance, geschnitten auf den Song, mit Schnittwechseln zwischen Weitwinkel-Bühnenaufnahmen, engen Künstler-Coverage-Shots, Crowd-Reaktion und Heldenaufnahmen des Lichtrigs. Die genrebestimmende Einschränkung ist, dass die Musik die echte Aufnahme ist und das Bild deren Energie Schlag für Schlag entsprechen muss. Der Schnitt ist alles — die meisten Konzertvideos, die flach wirken, sind okay gedreht und schlecht geschnitten und halten Weitwinkelaufnahmen durch Refrains, in denen der Künstler eng gefasst gehört."
+      },
+      {
+        "heading": "Wann man es einsetzt",
+        "body": "Konzert-MV ist das richtige Format, wenn die Live-Präsenz des Künstlers die Marke ist (Tame Impala, Phoebe Bridgers, Beyoncé), wenn ein Tourfilm veröffentlicht wird, wenn ein Veranstaltungsort oder Festival selbst ein Zugpferd ist (Glastonbury Pyramid Stage, Red Rocks, NPRs Tiny-Desk-Reihe). Der Regie-Kanon ist klein: Jonathan Demme definierte die Form mit Talking Heads' Stop Making Sense (1984), Sam Wrench inszenierte Taylor Swifts Eras Tour fürs Kino, Ed Burke führte Regie bei Beyoncés Homecoming für Netflix, Spike Lee filmte Arethas Amazing-Grace-Material. Aktuelle Beispiele: Billie Eilishs Live at the O2, alles, was Boiler Room im letzten Jahrzehnt gedreht hat. Es ist außerdem das meistgenutzte Format für K-Pop-Fancams."
+      },
+      {
+        "heading": "Tunee-Prompting-Tipp",
+        "body": "Spezifiziere die Größenordnung des Veranstaltungsorts und den Beleuchtungsstil: „small club, single follow-spot, deep shadow around audience\" versus „arena scale, full LED wall behind artist, lasers in haze\". Benenne die Anzahl der Kameras und die Winkel: „three-camera coverage: wide stage, tight artist face, crowd hands-up\". Füge „beat-cut on snare hits, every 1-2 seconds in chorus, longer holds in verse\" für das Schnitttempo hinzu. Tunee kann den Schnittrhythmus generieren, wenn du ihn beschreibst."
+      }
+    ]
+  }
 }

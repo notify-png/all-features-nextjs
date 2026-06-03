@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali folk di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali folk da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL FOLK",
+    "h2": "I video folk si guadagnano il loro silenzio attraverso la trattenuta",
+    "sections": [
+      {
+        "heading": "Come si presenta il folk",
+        "body": "Le visual folk scambiano lo spettacolo per l'intimità. La camera tende a stare ferma o a derivare lentamente — handheld ma composta, non traballante. La luce naturale fa la maggior parte del lavoro: una finestra in cucina alla golden hour, un porticato al tramonto, una radura nella foresta sotto un cielo coperto. Il guardaroba è lana e denim vissuti, mai costume. L'artista solitamente appare a metà di un'azione — versare il caffè, accordare una chitarra, camminare — piuttosto che esibirsi direttamente in camera."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Holocene' di Bon Iver diretto da Nabil Elderkin ha fissato il template: una piccola figura dentro un enorme paesaggio islandese, nessun arco narrativo richiesto. 'Kyoto' di Phoebe Bridgers (diretto da Lord Danger) si appoggia alla stessa trattenuta ma aggiunge umorismo asciutto. 'Helplessness Blues' dei Fleet Foxes di Sean Pecknold, il lungo arco video di Sufjan Stevens, 'Not' di Big Thief, 'Boy with a Coin' di Iron & Wine diretto da Andreas Nilsson, e Inside Llewyn Davis di Joel ed Ethan Coen (girato da Bruno Delbonnel) si trovano nella stessa genealogia. La grammatica condivisa: grana 35mm, lenti lunghe per la distanza, mani e visi in close-up, il meteo come co-star. Quasi mai grandangolo, quasi mai blu freddo."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Resisti agli aggettivi che spingono verso 'cinematografico'. Invece, ancora ogni scena in un piccolo dettaglio fisico: 'dita sul terzo tasto', 'respiro visibile nell'aria di novembre', 'pioggia sulla finestra della cucina'. Tunee risponde bene agli indizi temporali — 'prima luce', 'ultima ora prima del tramonto' — perché vincolano automaticamente la palette. Mantieni i montaggi lunghi e lascia che un momento finisca prima che ne inizi un altro. Il folk è il genere in cui tagliare troppo velocemente uccide la canzone."
+      }
+    ]
+  }
 }

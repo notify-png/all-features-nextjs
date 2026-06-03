@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu vídeo de música dubstep?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente com seu vídeo de música dubstep."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE DUBSTEP",
+    "h2": "MVs de dubstep são construídos em torno do drop — tudo serve ao grave",
+    "sections": [
+      {
+        "heading": "Como o dubstep se parece",
+        "body": "O vídeo de dubstep é estruturado em torno de um único evento: o drop. Tudo antes é build-up, tudo depois é reação. As assinaturas visuais: efeitos de glitch e datamosh sincronizados aos wobbles, cortes secos no drop (nunca crossfades), distorção pesada de lente em picos de frequência, neon hiper-saturado (azul elétrico, verde tóxico, ultravioleta), inserts de strobe, frame-skipping e texturas de decaimento digital. Planos do mundo real costumam ser sobrepostos com distorção abstrata em vez de apresentados limpos."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "Pontos de referência: 'First of the Year (Equinox)' do Skrillex dirigido por Tony Truand, que definiu o template cinematográfico-encontra-glitch, 'Bangarang' com Sirah, os visuais da livestream do festival Lost Lands do Excision que estabeleceram a régua em escala de produção, o rollout de 'Ghost Voices' do Virtual Self, os clipes animados do Zomboy, os filmes de stage-design do Datsik e 'Woo Boost' do Rusko. A linhagem volta aos vídeos de Chris Cunningham para Aphex Twin ('Come to Daddy', 'Windowlicker') e Squarepusher — a relação do gênero com o decaimento digital é mais velha que o próprio dubstep. O modelo dubstep do Tunee dá conta de cortes secos e empilhamento de efeitos."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Construa o prompt em torno do drop, não da música. Descreva o frame pré-drop ('estático aberto em galpão vazio, grade lo-fi'), o evento do drop ('corte seco para RGB-split, frames de datamosh, overlay de strobe') e a continuação pós-drop. O Tunee sincroniza cortes à batida — se você der um tempo e a posição do drop, as edições pousam onde o grave pousa."
+      }
+    ]
+  }
 }

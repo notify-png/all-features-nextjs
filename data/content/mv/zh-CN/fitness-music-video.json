@@ -39,5 +39,23 @@
       "q": "我可以生成多个健身音乐视频版本来进行比较吗？",
       "a": "可以。您可以使用不同的提示或样式设置生成多个健身音乐视频变体，然后选择最符合您愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "健身 MV",
+    "h2": "一支不像 Bowflex 广告的蜕变影像",
+    "sections": [
+      {
+        "heading": "为什么值得把健身 MV 做对",
+        "body": "before/after 幻灯片已经死了——这种形式在 TikTok 上被玩坏得太彻底，观众瞬间划走。还管用的，是『训练过程 MV』：60 秒、配一首高 BPM 曲目，重心压在每日苦练而不是最终揭晓上。健身房用它做会员特辑、教练用它做学员回顾、个人则用它给一个 12 周训练周期立一份比一张体重秤照片更值钱的存档。"
+      },
+      {
+        "heading": "永远管用的那些镜头",
+        "body": "运动摄影师都知道那本经典手册：手上撒粉的特写、重组上杠杆弯起的那一刻、毛巾盖脸的呼气、清晨空荡健身房的全景、组间看表。蓝本是 John G. Avildsen 1976 年 Rocky 的训练蒙太奇——Bill Conti 的 Gonna Fly Now 同步剪到台阶和半扇牛肉上。Nike 由 Wieden+Kennedy 操刀的几条 campaign（Find Your Greatness、与 Colin Kaepernick 合作的 Dream Crazy）定义了当代调子。Adidas 的 All In、Reebok 的 CrossFit Games 报道、Instagram 上 David Goggins 旁白的格式、Steven Soderbergh 在 Magic Mike 里的训练场景。色彩去饱和、阴影压死，加上一种点缀色——红色片、霓虹 EXIT 灯、从窗户透进来的日出。指定这套调色板加上一个曲速，剪辑就会自然地踩在动作上。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "不要写『motivational gym shots』——你只会得到图库素材。改为点出具体动作（deadlift、clean、push press）、时辰，以及具体器械。『空荡的清晨 5 点 garage gym、一根杠铃压着锈片、去饱和调色、一只暖钨丝顶灯』就会落在真正 DP 会摆相机的位置。"
+      }
+    ]
+  }
 }

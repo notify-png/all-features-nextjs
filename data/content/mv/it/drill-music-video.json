@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Drill di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e dispositivi mobili, quindi puoi creare video musicali Drill da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL DRILL",
+    "h2": "Gli MV drill operano secondo un codice visivo rigido nato dalla strada",
+    "sections": [
+      {
+        "heading": "Come si presenta il drill",
+        "body": "Il video drill ha il linguaggio visivo più codificato del rap contemporaneo, e il codice conta perché il pubblico lo legge con attenzione. Le convenzioni: anonimato di balaclava e ski-mask, inquadratura di gruppo (raramente inquadrature solo), esterni notturni sotto i lampioni, handheld a basso angolo all'altezza del petto, color grade spinto scuro con ombre schiacciate, e una specifica convenzione UK drill di tipografia lyrics-on-screen. Le auto sono presenti ma mai il focus — la crew è il soggetto."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "Riferimenti per scena: il Chicago drill ha fondato lo sguardo con 'I Don't Like' di Chief Keef e le prime visual Def Jam di Lil Durk; il Brooklyn drill via 'Welcome to the Party' di Pop Smoke, 'Dior', e il postumo 'For the Night' con Lil Baby (il produttore 808Melo ha plasmato il suono); UK drill via Headie One, 'Doja' di Central Cee, e 'Woi' di Digga D. I registi KENNY (Kenrick Bowes), Carns Hill, il team interno di GRM Daily, e il defunto Ginsberg5 definiscono la firma visiva. Le inquadrature di gruppo mascherate in case popolari illuminate poco non sono una scelta stilistica — sono strutturali."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Sii specifico sulla regione — Chicago, Brooklyn e UK drill hanno convenzioni visive distinte. I prompt UK drill dovrebbero nominare 'casa popolare di notte, balaclave, handheld a basso angolo, overlay di testi'; il Brooklyn drill è più cinematografico, con lenti più ampie e Steadicam a livello strada. Il modello drill di Tunee gestisce entrambi; il prompt deve impegnarsi in uno."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "클래식 뮤직비디오에 가사나 자막을 추가하는 방법은 무엇인가요?",
       "a": "Tunee는 내장된 가사 및 자막 오버레이 옵션을 제공합니다. 가사를 입력하고 텍스트 스타일을 선택하면 AI가 자동으로 클래식 뮤직비디오에 동기화합니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "클래식 이야기",
+    "h2": "클래식 MV는 연주를 프레임에 맡길 때 비로소 성립합니다",
+    "sections": [
+      {
+        "heading": "클래식이 보이는 방식",
+        "body": "클래식 뮤직비디오에는 조용하고 정착된 문법이 있습니다. 퍼포먼스 필름은 3~5대의 락 오프 카메라로 콘서트홀에서 촬영됩니다 — 홀 와이드, 지휘자 미디엄, 주요 연주자 클로즈, 솔로이스트 손 클로즈업. 스튜디오 기반의 영상은 미니멀한 셋을 지향합니다 — 중성 배경 앞 단일 인물 초상, 자연광, 느린 푸시인. 색감은 절제되어 거의 중립에 가까우며 약간의 따뜻함 또는 차가움이 더해질 뿐입니다. 매체는 팝 편집을 강요하지 않고 음악의 페이스를 존중합니다."
+      },
+      {
+        "heading": "실제로 통하는 레퍼런스",
+        "body": "Yo-Yo Ma의 'Bach Project' 필름, Hilary Hahn의 리사이틀 영상, Lang Lang의 Disney+ 'Goldberg Variations' 세션, Deutsche Grammophon의 현대 아티스트 포트레이트, Max Richter의 'Sleep' 설치 비주얼(디렉터 Natalie Johns), Andris Nelsons가 이끄는 베를린 필하모닉의 Digital Concert Hall 스트림, Igor Levit의 록다운 라이브스트림이 레퍼런스에 포함됩니다. Daniel Barenboim의 'West-Eastern Divan' 다큐멘터리와 Daniil Trifonov의 녹화 리사이틀 같은 다큐멘터리 작업은 진지한 클래식의 시각 템플릿을 정의합니다. Tunee의 클래식 모델은 악기와 손을 배경이 아닌 주피사체로 다룹니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "악기군, 베뉴의 음향, 광원을 명명하세요. 'Solo cello in a wooden recital hall, single overhead spotlight, slow push-in on hands and fingerboard, no audience'는 통하지만, 'classical music performance video'는 일반적인 결과를 만듭니다. 퍼포먼스가 아니라 스코어 비주얼라이제이션을 원한다면 명시적으로 적으세요 — 둘은 전혀 다른 영상으로 갑니다."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funziona con qualsiasi genere musicale, o solo con il Country?",
       "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre il Country. Puoi generare video musicali per pop, hip-hop, musica classica e dozzine di altri stili utilizzando la stessa piattaforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL COUNTRY",
+    "h2": "Gli MV country vanno avanti a pickup, campi e luce al neon di bar",
+    "sections": [
+      {
+        "heading": "Come si presenta il country",
+        "body": "Il video musicale country ha un canone visivo ben definito che il pubblico del genere si aspetta e ricompensa. Le firme: pickup (Ford F-150 e Chevy Silverado, coperti di polvere), campi di grano o mais alla golden hour, cappelli da cowboy usurati e camicie con bottoni a pressione di madreperla, interni di dive bar con insegne al neon di birra come key light, inquadrature dal porticato, strade sterrate che si perdono tra le colline. La color grade è calda e leggermente desaturata, con un accenno di teal nelle ombre. L'handheld è accettabile; le inquadrature con drone sopra i campi sono obbligatorie."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "I riferimenti coprono varie ere: 'Beautiful Crazy' di Luke Combs, 'Whiskey Glasses' di Morgan Wallen, 'Slow Burn' e 'Rainbow' di Kacey Musgraves (l'estremità moderna e art-directed), l'esibizione live al CMA di 'Tennessee Whiskey' di Chris Stapleton, 'Before He Cheats' di Carrie Underwood, e le clip intenzionalmente lo-fi di Zach Bryan. I registi Trey Fanjoy ('Tim McGraw' di Taylor Swift, Carrie Underwood), Wes Edwards (Luke Combs, Brad Paisley), Justin Clough e Roman White modellano gran parte dello sguardo contemporaneo. Il modello country di Tunee conosce la differenza tra il bro-country luminoso e l'Americana smorzata."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Specifica il sotto-genere — bro-country (festa-luminosa, bar al neon, pickup sollevato), Americana (smorzato, porticato, Wrangler vintage), o country-pop moderno (tetto di Nashville, fashion-forward). Un prompt che nomina la marca del pickup, la marca dell'insegna di birra del bar, o il raccolto del campo produce un'inquadratura più nitida di 'scena di musica country'. Il pubblico nota quando i prop sono sbagliati."
+      }
+    ]
+  }
 }

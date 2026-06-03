@@ -39,5 +39,23 @@
       "q": "볼리우드 뮤직비디오의 여러 버전을 생성하여 비교할 수 있나요?",
       "a": "네, 가능합니다. 다양한 프롬프트 또는 스타일 설정을 사용하여 볼리우드 뮤직비디오의 여러 변형을 생성한 후, 당신의 비전에 가장 잘 맞는 버전을 선택할 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "Bollywood 이야기",
+    "h2": "Bollywood MV는 색, 안무, 그리고 망설임 없는 스케일로 움직입니다",
+    "sections": [
+      {
+        "heading": "Bollywood가 보이는 방식",
+        "body": "Bollywood 뮤직비디오의 컨벤션은 세계에서 가장 맥시멀리스트하며, 그럴 만한 자격이 있습니다. 시그니처는 다음과 같습니다 — 완벽한 포메이션의 대규모 군무, 절(verse) 사이의 의상 교체, 곡 중간의 로케이션 점프(뭄바이 거리에서 스위스 알프스, 궁전 마당까지), 전 스펙트럼을 가로지르는 채도 높은 색감(무광 팔레트는 없습니다), 배우의 립싱크 위에 얹히는 플레이백 가수의 보컬은 받아들여진 컨벤션입니다. 카메라는 항상 움직입니다 — 크레인, 달리, Steadicam — 그리고 결코 정착하지 않습니다."
+      },
+      {
+        "heading": "실제로 통하는 레퍼런스",
+        "body": "기초가 되는 레퍼런스들 — Aditya Chopra가 연출한 Shah Rukh Khan의 'Dilwale Dulhania Le Jayenge' 머스터드 필드 시퀀스, Sanjay Leela Bhansali의 'Padmaavat'와 'Bajirao Mastani'의 회화적 프레이밍, SS Rajamouli의 'RRR' 속 'Naatu Naatu', Slumdog Millionaire와 Rockstar 전반에 걸친 AR Rahman의 작업, Farah Khan의 안무, Santosh Sivan의 촬영까지. 현대 레퍼런스로는 Pritam의 'Brahmastra' 작곡, 'Pathaan'과 'Jawan'의 타이틀 트랙, Vishal-Shekhar의 'Pathaan' 롤아웃이 있습니다. Tunee의 Bollywood 모델은 포메이션 안무, 주요 도구로서의 채도, 로케이션 콜라주 편집을 기능으로서 알고 있습니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "팔레트를 절제하지 마세요 — Bollywood는 'tasteful'한 색감 보정 아래 무너집니다. 대신 샷당 채도 높은 컬러 블록 세 개('saffron-yellow saris, deep teal sky, magenta wall')와 로케이션 아키타입 하나(머스터드 필드, 궁전 마당, 뭄바이 몬순 거리, 스위스 초원)를 명명하세요. '톤다운하자'는 본능은 결과적으로 'Bollywood 인접'으로만 읽히게 만들고, 진짜 Bollywood로는 안 읽힙니다."
+      }
+    ]
+  }
 }

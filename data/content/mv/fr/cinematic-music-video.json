@@ -39,5 +39,23 @@
       "q": "Le générateur de clip musical cinématographique de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur desktop et mobile, vous pouvez donc créer des clips musicaux cinématographiques depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES MV CINÉMATIQUES",
+    "h2": "Ce que « cinématique » veut vraiment dire dans la bouche d'un réalisateur",
+    "sections": [
+      {
+        "heading": "La checklist cinématique",
+        "body": "« Cinématique » est le mot le plus galvaudé des briefs vidéo. Réduit à l'os, il désigne un ensemble précis de choix : cadrage anamorphique 2.39:1 ou 2.4:1 avec bokeh ovale et lens flares horizontaux, cadence à 24 images/s avec obturateur à 180 degrés, étalonnage poussé vers le teal-and-orange ou une LUT custom, grain à hauteur de ce que l'on verrait sur un scan de tirage 35 mm. Manquer un seul de ces points et un spectateur de cinéma le sentira avant de pouvoir le nommer."
+      },
+      {
+        "heading": "D'où vient le look",
+        "body": "Les directeurs de la photographie que les gens citent vraiment : Roger Deakins (1917 de Sam Mendes, Blade Runner 2049 de Denis Villeneuve), Emmanuel « Chivo » Lubezki (Les Fils de l'homme d'Alfonso Cuarón, Birdman et The Revenant d'Iñárritu), Hoyte van Hoytema (Interstellar et Oppenheimer de Christopher Nolan). Côté réalisateurs : Christopher Nolan, Denis Villeneuve, Paul Thomas Anderson. Côté MV : le travail d'Hiro Murai pour Childish Gambino (« This Is America », « Sober »), « Weapon of Choice » de Spike Jonze pour Fatboy Slim, tout ce que Jonas Åkerlund a monté pour Madonna ou The Prodigy. Le vocabulaire est partagé avec le cinéma — le modèle cinématique de Tunee s'entraîne sur le même langage de DP, de sorte qu'un « silhouette en contre-jour à la Deakins » se résout correctement."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Verrouillez le ratio dans le prompt : « anamorphique 2.39:1, bokeh ovale, lens flare horizontal ». Spécifiez la pellicule : « Kodak Vision3 500T, grain fin » ou « Fuji Eterna, contraste feutré ». Nommez un DP en référence plutôt que de décrire le look par adjectifs — « éclairé comme Deakins dans 1917 » communique plus que trois phrases de description chromatique. Évitez « cinématique » comme mot isolé ; c'est trop vague pour orienter quoi que ce soit."
+      }
+    ]
+  }
 }

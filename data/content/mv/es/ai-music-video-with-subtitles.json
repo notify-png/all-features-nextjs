@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi video musical con subtítulos?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y el AI las sincronizará con tu video musical con subtítulos automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV CON SUBTÍTULOS",
+    "h2": "Los subtítulos quemados ya son el mínimo, no un añadido de accesibilidad",
+    "sections": [
+      {
+        "heading": "Por qué los subtítulos se volvieron el default",
+        "body": "Los subtítulos quemados en un video musical ya no son una opción de accesibilidad — son el default para cualquier lanzamiento que aspire a aterrizar en redes sociales. Más del ochenta por ciento del video en TikTok y Reels se ve en mute dentro del feed. Los subtítulos aumentan la tasa de finalización, la tasa de guardado y la tasa de compartido de forma medible. El formato además sirve a la accesibilidad (espectadores sordos y con dificultades auditivas, hablantes no nativos de inglés que usan la letra para seguir la canción), que es la razón original por la que existen los subtítulos. La intersección los convierte en imprescindibles, no en deseables."
+      },
+      {
+        "heading": "Cuándo usarlo",
+        "body": "El MV subtitulado es la decisión correcta para cada lanzamiento social-first, para canciones con la letra al frente donde las palabras son el hook, para lanzamientos en idiomas distintos del inglés que apunten a audiencias globales, para música educativa o con mensaje (canciones para niños, canciones de protesta, rap narrativo) y para cualquier lanzamiento donde el artista quiera la accesibilidad incorporada desde el principio. El linaje: 'Bohemian Rhapsody' de Queen dirigida por Bruce Gowers (1975) como el video proto-lyric-overlay, 'Subterranean Homesick Blues' de Bob Dylan (1965) dirigida por D.A. Pennebaker, el organismo de estándares de subtítulos de la BBC (referencia W3C TTML), los defaults SDH (subtítulos para sordos y con dificultades auditivas) prioritarios de Netflix. SM Entertainment y HYBE llevan una década usando subtítulos quemados para los fans internacionales del K-pop. El hip-hop con juegos de palabras densos se beneficia de subtítulos en cada lanzamiento — las barras son demasiado rápidas para captarse a la primera escucha."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Trata los subtítulos como un elemento de diseño, no como una superposición: 'subtítulos en el tercio inferior, Inter Bold 32pt, texto blanco con drop shadow sutil, una línea a la vez, salto de línea en frontera de frase'. Especifica la alineación temporal: 'los subtítulos aparecen sobre la sílaba, no al final de la frase'. Elige un color de subtítulo que aguante los cambios de iluminación del video — blanco con sombra le gana al texto coloreado siempre. Tunee genera subtítulos alineados temporalmente desde el input de la letra automáticamente, así que el quemado coincide con el fraseo vocal con precisión."
+      }
+    ]
+  }
 }

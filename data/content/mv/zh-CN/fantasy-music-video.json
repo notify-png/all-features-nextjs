@@ -39,5 +39,23 @@
       "q": "我可以生成多个幻想音乐视频版本进行比较吗？",
       "a": "可以。您可以使用不同的提示或风格设置生成多个幻想音乐视频变体，然后选择最符合您愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于奇幻 MV",
+    "h2": "经得起拿来跟 LOTR 比较的奇幻影像",
+    "sections": [
+      {
+        "heading": "奇幻题材的硬要求",
+        "body": "奇幻影像的成败全在地景与尺度上。The Lord of the Rings 用一颗全景就把那个世界卖出去了——Fellowship 一字排开走过山脊，被山压成微小。规则是：每一个建立镜头里都需要有一个人形来提供尺度参照，叙事的大半要由环境来承担。绘景式的纵深、被大气透视渐变成雾蓝、自然主义的服饰材质（羊毛、皮革、敲打过的金属，而不是塑料感的盔甲）。尺度做错了，画面就读作 cosplay。"
+      },
+      {
+        "heading": "这种质感的来源",
+        "body": "视觉经典：Peter Jackson 的 LOTR 三部曲与 John Howe、Alan Lee 的概念美术；Guillermo del Toro 在 Pan's Labyrinth 里更暗色的童话光；HBO 的 Game of Thrones（仓促赶播之前的几季）；CD Projekt Red 的 The Witcher 3（改编自 Andrzej Sapkowski）；Tarsem Singh 的 The Fall（高饱和那一端）；Hayao Miyazaki 的 Princess Mononoke（绘画感那一端）；Frank Frazetta 为 Conan 创作的封面（重金属那一端）。MV 邻区：AG Rojas 为 Florence + the Machine 操刀的 Hunger。Tunee 的奇幻模型把这些参考视作不同的方言——『Howe 风的 matte painting』、『Frazetta 低角度武士』和『Ghibli 森林精灵』会解析成显著不同的输出。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "即使是以地景为先的提示词，也总要塞进一个用作尺度参照的人形：『山脊上的独骑、山脉为背、大气透视』。指定光线时辰与方位：『黄金时刻、太阳来自镜头右侧、长影向左拉』。材质要具体——『涂油的皮革、刷过的钢、未染色的羊毛』胜过『中世纪服饰』。不要用『epic』这种形容词；改为描述尺度关系（『人形占画面下方十分之一』）。"
+      }
+    ]
+  }
 }

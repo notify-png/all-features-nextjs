@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales Éditeur AI MV de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur les ordinateurs de bureau et mobiles, vous permettant de créer des vidéos musicales Éditeur AI MV depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÉDITEUR DE MV PAR IA",
+    "h2": "Un éditeur IA qui pense en coupes, pas seulement en clips",
+    "sections": [
+      {
+        "heading": "Ce qu'un éditeur de MV IA remplace vraiment",
+        "body": "Premiere et DaVinci sont conçus pour le cinéma narratif — chaque coupe est une décision manuelle face à une forme d'onde. Pour un clip musical, c'est démesuré : 80 % du montage consiste simplement à caler la durée d'un plan sur un beat. Un éditeur de MV IA inverse la logique. Vous déposez le morceau, le système repère les temps forts, les transitoires et les variations d'énergie, et la timeline arrive pré-coupée. Il vous reste à faire ce qui compte vraiment — remplacer un plan faible, ajuster une transition, choisir quelle prise du refrain frappe plus fort."
+      },
+      {
+        "heading": "Ce que vous pouvez réellement faire dans l'éditeur",
+        "body": "L'éditeur de Tunee n'est pas un pipeline « render-and-pray ». Après la première génération, chaque clip de la timeline reste modifiable : régénérer un plan unique avec un nouveau prompt, verrouiller l'apparence d'un personnage à travers les coupes, changer le format d'image sans remonter, échanger une prise de B-roll tout en préservant la synchronisation sur le beat. La forme d'onde se place sous chaque plan pour que vous voyiez précisément sur quel transitoire tombe une coupe, et la faire glisser d'une image si nécessaire."
+      },
+      {
+        "heading": "Pourquoi les coupes tombent sur le beat",
+        "body": "Sous le capot, l'agent analyste audio s'exécute en premier — grille tempo, détection des temps forts, enveloppe d'énergie, segmentation voix / instrumental. Sage, le directeur narratif, aligne ensuite les frontières des plans sur ces marqueurs avant même que le renderer ne touche à une image. C'est pour cela que les MV Tunee sont montées et non diaporamées : l'IA n'a pas choisi des durées au hasard en espérant qu'elles synchronisent. Elle a lu le morceau comme un monteur lit un titre à la première écoute."
+      }
+    ]
+  }
 }

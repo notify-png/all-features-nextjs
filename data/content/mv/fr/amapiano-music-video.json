@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un clip vidéo Amapiano pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre clip vidéo Amapiano en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE L'AMAPIANO",
+    "h2": "Les vidéos amapiano sont construites autour du log drum et de la piste de danse",
+    "sections": [
+      {
+        "heading": "À quoi ressemble l'amapiano",
+        "body": "Les MV amapiano ont grandi sur TikTok et sur les pistes de danse des townships sud-africains avant d'arriver sur Vevo. Les signatures visuelles : plans serrés dans la foule filmés depuis l'intérieur du cercle de danse, fish-eye et ultra grand-angles, inserts de footwork au ralenti, la cabine DJ comme cadre récurrent, et fêtes de rue en plein air au crépuscule éclairées par une seule source dure. La couleur est très contrastée — peau noire contre néon, baskets blanches comme point focal. La caméra se déplace avec le danseur, pas autour de lui."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "Les visuels canoniques viennent de l'ère Scorpion Kings de Kabza De Small et DJ Maphorisa, du rollout « Mnike » de Tyler ICU et Khalil Harrison, de « Ke Star » de Focalistic, des club edits de DBN Gogo, des livestreams Balcony Mix de Major League DJz, et du clip viral « Tanzania » d'Uncle Waffles — cette unique performance filmée au téléphone a défini une esthétique pour le genre tout entier. Des réalisateurs comme Pyramidda (Kabza, Maphorisa) et Mahlatse Tshukulu assument l'origine social-media de l'amapiano : cadrage vertical, immédiateté caméra à l'épaule, le pas de danse toujours centré. Le modèle amapiano de Tunee connaît cette lignée."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Centrez la danse, pas l'artiste. Un prompt comme « cercle de danseurs autour d'un seul performeur, rue de township au coucher du soleil, ultra grand-angle, inserts de footwork au ralenti » fonctionne mieux que « scène de fête amapiano ». Nommez aussi visuellement le log drum — le producteur touchant le pad, la basse qui frappe dans un plan de réaction de la foule — et le montage se synchronise sur le beat plutôt que de simplement le recouvrir."
+      }
+    ]
+  }
 }

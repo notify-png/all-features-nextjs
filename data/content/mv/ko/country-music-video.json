@@ -39,5 +39,23 @@
       "q": "컨트리 장르에만 작동하나요, 아니면 모든 장르의 음악이 가능한가요?",
       "a": "Tunee는 컨트리 이외의 다양한 장르와 비주얼 스타일을 지원합니다. 동일한 플랫폼을 사용하여 Pop, Hip-Hop, 클래식 및 수십 개의 다른 스타일의 뮤직 비디오를 생성할 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "컨트리 이야기",
+    "h2": "컨트리 MV는 트럭, 들판, 네온 바 조명 위에서 움직입니다",
+    "sections": [
+      {
+        "heading": "컨트리가 보이는 방식",
+        "body": "컨트리 뮤직비디오는 잘 정의된 비주얼 정전을 가지고 있고, 장르의 청자들은 그것을 기대하고 그것에 보답합니다. 시그니처는 다음과 같습니다 — 픽업 트럭(먼지 묻은 Ford F-150과 Chevy Silverado), 골든아워의 밀밭이나 옥수수밭, 닳은 카우보이 모자와 펄 스냅 셔츠, 키 라이트로 작용하는 네온 비어 사인이 있는 다이브 바 인테리어, 앞 포치 샷, 언덕으로 사라지는 흙길까지. 색감은 따뜻하고 약간 디새튜레이트되며 그림자에는 약간의 teal이 깔립니다. 핸드헬드는 허용되며, 들판 위 드론 샷은 필수입니다."
+      },
+      {
+        "heading": "실제로 통하는 레퍼런스",
+        "body": "레퍼런스는 시대를 가로지릅니다 — Luke Combs의 'Beautiful Crazy', Morgan Wallen의 'Whiskey Glasses', Kacey Musgraves의 'Slow Burn'과 'Rainbow'(현대적·아트 디렉티드 진영), Chris Stapleton의 'Tennessee Whiskey' CMA 라이브, Carrie Underwood의 'Before He Cheats', Zach Bryan의 의도적으로 lo-fi한 클립까지. 디렉터 Trey Fanjoy(Taylor Swift의 'Tim McGraw', Carrie Underwood), Wes Edwards(Luke Combs, Brad Paisley), Justin Clough, Roman White가 현대 컨트리의 룩을 빚어왔습니다. Tunee의 컨트리 모델은 bro-country의 밝은 톤과 Americana의 무광 톤을 구분합니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "서브장르를 명시하세요 — bro-country(파티의 밝음, 네온 바, 리프티드 트럭), Americana(무광, 포치, 빈티지 Wrangler), 혹은 모던 팝 컨트리(내쉬빌 옥상, 패션 포워드). 트럭 메이커, 바의 비어사인 브랜드, 들판의 작물을 지정한 프롬프트는 'country music scene'보다 훨씬 선명한 프레임을 만듭니다. 청자는 소품이 틀리면 알아챕니다."
+      }
+    ]
+  }
 }

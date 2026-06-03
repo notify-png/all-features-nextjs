@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de Fantasía para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de Fantasía usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV DE FANTASÍA",
+    "h2": "Video de fantasía que se gana la comparación con LOTR",
+    "sections": [
+      {
+        "heading": "Lo que la fantasía exige",
+        "body": "El video de fantasía vive o muere por el paisaje y la escala. The Lord of the Rings vendió su mundo con un solo plano general — la Compañía caminando en fila india por una cresta, empequeñecida por la montaña. La regla: cada establishing frame necesita una figura humana para dar escala, y el entorno tiene que hacer la mayor parte de la narración. Profundidad de matte painting pintado, perspectiva atmosférica desvaneciéndose en azul brumoso, materiales de vestuario naturalistas (lana, cuero, metal martillado, no armadura de aspecto plástico). Si te equivocas con la escala, se lee como cosplay."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "Canon visual: la trilogía LOTR de Peter Jackson con el concept art de John Howe y Alan Lee, El laberinto del fauno de Guillermo del Toro por su iluminación de cuento más oscura, Game of Thrones de HBO (temporadas iniciales antes de la prisa), The Witcher 3 de CD Projekt Red adaptado de Andrzej Sapkowski, The Fall de Tarsem Singh por el color saturado, La princesa Mononoke de Hayao Miyazaki por el extremo pictórico, las portadas de Conan de Frank Frazetta por el extremo más heavy metal. Adyacente al MV: 'Hunger' de Florence + the Machine dirigida por AG Rojas. El modelo de fantasía de Tunee trata estas referencias como dialectos separados — 'matte painting estilo Howe' frente a 'guerrero en contrapicado estilo Frazetta' frente a 'espíritu del bosque estilo Ghibli' resuelven en salidas claramente distintas."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Incluye siempre una figura humana para dar escala incluso en prompts paisajísticos: 'jinete solitario sobre cresta, fondo de montaña, perspectiva atmosférica'. Especifica la hora del día con dirección cardinal: 'hora dorada, sol desde la derecha de cámara, sombras largas tirando a la izquierda'. La especificidad de materiales importa — 'cuero engrasado, acero cepillado, lana sin teñir' le gana a 'ropa medieval'. Evita 'épico' como adjetivo; describe la relación de escala en su lugar ('la figura ocupa el décimo inferior del cuadro')."
+      }
+    ]
+  }
 }

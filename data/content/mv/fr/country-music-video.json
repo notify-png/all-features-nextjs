@@ -39,5 +39,23 @@
       "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement Country ?",
       "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà de Country. Vous pouvez générer des vidéos musicales pour pop, hip-hop, musique classique et des dizaines d'autres styles en utilisant la même plateforme."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU COUNTRY",
+    "h2": "Les MV country roulent sur les pick-ups, les champs et la lumière néon des bars",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le country",
+        "body": "Le clip country possède un canon visuel bien défini que le public du genre attend et récompense. Les signatures : pick-ups (Ford F-150 et Chevy Silverado, couverts de poussière), champs de blé ou de maïs en golden hour, chapeaux de cow-boy patinés et chemises à boutons-pression, intérieurs de dive-bars avec enseignes de bière au néon en key light, plans sur le porche, routes en terre qui se perdent dans les collines. L'étalonnage est chaud et légèrement désaturé, avec une pointe de teal dans les ombres. Le caméra portée est acceptable ; les plans drone au-dessus des champs sont obligatoires."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "Les références couvrent plusieurs époques : « Beautiful Crazy » de Luke Combs, « Whiskey Glasses » de Morgan Wallen, « Slow Burn » et « Rainbow » de Kacey Musgraves (l'extrémité moderne, direction artistique aboutie), la performance live CMA de « Tennessee Whiskey » de Chris Stapleton, « Before He Cheats » de Carrie Underwood, et les clips volontairement lo-fi de Zach Bryan. Les réalisateurs Trey Fanjoy (« Tim McGraw » de Taylor Swift, Carrie Underwood), Wes Edwards (Luke Combs, Brad Paisley), Justin Clough et Roman White façonnent une grande part du look contemporain. Le modèle country de Tunee distingue le bro-country lumineux de l'Americana feutré."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Spécifiez le sous-genre — bro-country (party-bright, bar au néon, pick-up surélevé), Americana (feutré, porche, Wrangler vintage), ou pop country moderne (toit-terrasse à Nashville, mode pointue). Un prompt qui nomme la marque du pick-up, l'enseigne de bière du bar ou la culture du champ produit un cadre plus net que « scène de musique country ». Les audiences remarquent quand les accessoires sont faux."
+      }
+    ]
+  }
 }

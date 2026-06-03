@@ -39,5 +39,23 @@
       "q": "我可以生成多個3D音樂影片版本以進行比較嗎？",
       "a": "可以。你可以使用不同的提示或風格設置生成多個3D音樂影片版本，然後選擇最符合你願景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 3D 音樂視頻",
+    "h2": "曾經需要渲染農場的 3D 效果，如今觸手可及",
+    "sections": [
+      {
+        "heading": "2026 年的 3D 究竟代表甚麼",
+        "body": "稱一段視頻為「3D」涵蓋極廣的範圍——Pixar 的角色打光、Unreal Engine 5 的環境、Octane 渲染的產品鏡頭、Beeple 的日更超現實作品。它們共享一個共通點：基於物理的材質配合真實的次表面散射、能正確穿透頭髮與玻璃的景深，以及尊重光源邏輯的陰影。當這三點任一崩塌，眼睛會先於大腦察覺。其餘的，都是建立在這個基礎之上的風格表達。"
+      },
+      {
+        "heading": "視覺語彙的源頭",
+        "body": "參考書架早已建立：Phil Lord 與 Christopher Miller 的「Spider-Man: Into the Spider-Verse」示範了風格化著色，Tim Miller 為「Love, Death & Robots」中「Sonnie's Edge」帶來的角色寫實，Pete Docter 在 Pixar 的作品與 RenderMan 管線對皮膚與布料的詮釋，Andrew Stanton 自「Finding Nemo」延伸的水體與表面傳統，Beeple 每日的 Cinema 4D 循環，以及每週淹沒 r/blender 的 Blender Cycles 渲染。音樂視頻方面：The Weeknd 的「Heartless」與 Travis Scott 的 Astroworld 資產均取自 Unreal Engine 5。Tunee 的 3D 模型正是以這套語彙訓練，因此像「Octane render、淺景深、從左側窗口照入的柔和區域光」這類提示，能精準命中專業 TD 預期的位置。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "即便只是比喻，也要在提示詞中明確指定渲染引擎——「Octane render」、「Unreal Engine 5 lumen」、「Pixar RenderMan」。每一個都會帶出不同的光衰減與材質反應慣例。然後明確命名你的光線配置：主光、補光、輪廓光。略過這一步，正是生成式 3D 常常看起來扁平或塑膠感的原因。只有當主體是單一物件時才加上「淺景深」——更廣的場景應該關掉它。"
+      }
+    ]
+  }
 }

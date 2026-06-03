@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Hip Hop di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali Hip Hop da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'HIP HOP",
+    "h2": "Il video hip hop porta una città intera sulle spalle",
+    "sections": [
+      {
+        "heading": "Come si presenta l'hip hop",
+        "body": "Gli MV hip hop intrecciano due strati: la performance — di solito il rapper in camera, lip-sync stretto, spesso in un potente angolo basso — e il mondo che ha prodotto la canzone. Quel mondo è specifico. Compton, Houston, Toronto, Brooklyn hanno ognuna una firma visiva, e i video migliori si rifiutano di essere di nessun luogo. Il guardaroba è aggiornato al mese, non all'anno. Le auto contano. Le crew contano. I tagli atterrano sulla rima, mai sul beat da solo."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'HUMBLE.' e 'Alright' di Kendrick Lamar (entrambi diretti da Dave Meyers e dai little homies) sono il manuale moderno per performance più peso sociale. 'SICKO MODE' e 'HIGHEST IN THE ROOM' di Travis Scott (ancora Dave Meyers) mostrano una scala surreale senza mai perdere il rap come spina dorsale. Il lavoro di Hiro Murai con Donald Glover ('This Is America', 'Sober') e con FKA Twigs ha alzato l'asticella per gli MV narrativi. 'MIDDLE CHILD' di J. Cole resta conversazionale; 'Hotline Bling' di Drake diretto da Director X ha scelto il minimalismo e ha cambiato tutto. Le visual di Cole Bennett per Lyrical Lemonade — Juice WRLD ed Eminem — estendono la genealogia, con l'era fisheye di Hype Williams e il lavoro di Spike Jonze con i Beastie Boys come regole di base."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Dai a Tunee un quartiere specifico, non una città generica. 'Veranda di South Memphis nella tarda sera, due amici, crepuscolo blu' batte 'scena urbana di strada' ogni volta. Blocca un elemento di guardaroba distintivo — catena, felpa, cappello — e lascialo apparire in ogni taglio così l'artista si legge come continuo. Usa la struttura strofa-ritornello: inquadrature performative strette sulle barre, lifestyle in B-roll durante l'hook. Taglia sulle consonanti, non sul kick."
+      }
+    ]
+  }
 }

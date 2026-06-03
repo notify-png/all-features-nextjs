@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Couple-Musikvideos generieren zum Vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Couple-Musikvideos mit verschiedenen Anweisungen oder Stileinstellungen generieren und dann die Version auswählen, die am besten deiner Vision entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS COUPLE-MV",
+    "h2": "Ein Jahrestagsvideo, das sich nicht wie eine Diashow liest",
+    "sections": [
+      {
+        "heading": "Warum ein Couple-MV funktioniert",
+        "body": "Die meisten Beziehungsvideos sind entweder zu lang (der vollständige Hochzeitsfilm) oder zu kurz (ein einzelner Instagram-Clip). Das Jahrestags- oder Beziehungs-Meilenstein-MV sitzt genau dazwischen — 60–90 Sekunden, vertont mit dem Song, der beim ersten Date, auf einem Roadtrip oder beim Hochzeitstanz lief. Es ist das Format, das privat verschickt statt öffentlich gepostet wird — und das, was Partner am selben Datum im nächsten Jahr tatsächlich wieder ansehen."
+      },
+      {
+        "heading": "Aufnahmen, die immer funktionieren",
+        "body": "Beziehungsvideograf:innen kehren zu denselben Beats zurück: ineinander verschränkte Hände am Lenkrad, ein Partner lacht über etwas außerhalb der Kamera, der Schuss auf den Hinterkopf, in dem jemand weggeht, der Becher-Morgen im Pyjama, das Wiedersehen am Flughafen. Der kulturelle Kanon baut auf dem auf YouTube etablierten Anniversary-Vlog-Format, viralen Antragsvideos wie Isaac Lambs Lip Dub Proposal (2012), den Weihnachts-Liebesfilmen des Hallmark Channels, Richard Curtis' Notting Hill und Love Actually als Referenzgrammatik plus der warm-orangen Her-Ästhetik von Spike Jonze, gedreht von Hoyte van Hoytema. Lockeres Material in Handy-Qualität übertrifft inszenierte Fotoshootings — die unbeholfenen, unschmeichelhaften, echten Momente altern gut. Sag Tunee, welche drei dieser Momente am wichtigsten waren, und das MV organisiert sich darum herum."
+      },
+      {
+        "heading": "Macht es zum Geschenk",
+        "body": "Der klassische Einsatz ist der Jahrestag-Morgen — eine einzelne SMS mit angehängtem MV, ohne Bildunterschrift. Tunee gibt vertikal zum Verschicken, breit für die spätere Wohnzimmer-Vorführung und quadratisch für den seltenen Fall, dass es im Feed landet, aus — alles aus einer Generierung."
+      }
+    ]
+  }
 }

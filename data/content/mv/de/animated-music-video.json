@@ -39,5 +39,23 @@
       "q": "Wie passe ich den visuellen Stil meines animierten Musikvideos an?",
       "a": "Sie können die Visuals mit Text-Prompts steuern, die Szenen, Stimmungen und Umgebungen beschreiben. Tunees KI interpretiert Ihre Eingabe und generiert 2D-Animationen-inspirierte Visuals, die Ihrer animierten Ästhetik entsprechen."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER ANIMIERTE MV",
+    "h2": "Animiertes MV ist eine Kategorie, kein Stil — grenze sie zuerst ein",
+    "sections": [
+      {
+        "heading": "Was animiert alles abdeckt",
+        "body": "Animiertes Musikvideo ist ein Schirm über extrem unterschiedlichen Handwerken: 2D-Zellanimation (Chihiros Reise ins Zauberland, Looney Tunes), 3D-CG (Pixar, Sonys Spider-Verse), Motion Graphics (Saul Bass, moderne Titelsequenzen), Stop-Motion (Anomalisa, Aardman), Rotoscope (A Scanner Darkly, Take On Me). Der erste Job jedes animierten Briefings ist auszuwählen, welcher. „Ich will ein animiertes Video\" sagt einem Studio nichts. „Ich will Spider-Verse-Style Mixed-Media 2D über 3D\" sagt ihm alles."
+      },
+      {
+        "heading": "Wann man Animation einsetzt",
+        "body": "Animation ergibt Sinn, wenn Live Action nicht kann: unmögliche Maßstäbe (riesige Monster, mikroskopische Welten), starke Stilisierung an eine Marke gebunden (Jamie Hewletts Gorillaz-Identität, Damon Albarns gesamtes Projekt), Anonymität für den Künstler oder Budget — in kleinem Maßstab unterbietet Animation heute Location-Drehs und eine Crew. Erwähnenswerte Studios: Phil Lord und Christopher Millers Sony-Team hinter Spider-Verse, Tomm Moores Cartoon Saloon (Wolfwalkers, Song of the Sea), Genndy Tartakovsky (Samurai Jack, Primal), Madhouse (Mamoru Hosodas Belle). Genres, die traditionell zur Animation neigen: Electronic, Indie-Pop, Kindermusik, Lore-Erweiterungs-Releases. K-Pop-Labels nutzen seit Jahren Animation für B-Seiten und Gorillaz-artige Alter Egos."
+      },
+      {
+        "heading": "Tunee-Prompting-Tipp",
+        "body": "Wähle deine Animationstechnik im Prompt, nicht das Ergebnis: „cel-shaded 2D, frame-replacement animation, hard line work\" versus „3D CG, Pixar lighting model, subsurface scattering on skin\" versus „stop-motion, visible armature joints, 12fps\". Jede sitzt auf anderen Trainingsdaten. Techniken mitten im Video zu mischen kann funktionieren, aber du musst den Übergang benennen: „live action cut to rotoscope on the drop\". Vages „animiert\" landet auf dem, was am häufigsten ist."
+      }
+    ]
+  }
 }

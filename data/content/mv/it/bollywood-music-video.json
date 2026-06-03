@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Bollywood per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Bollywood usando prompt diversi o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "BOLLYWOOD",
+    "h2": "Gli MV di Bollywood vanno avanti a colore, coreografia e scala senza scuse",
+    "sections": [
+      {
+        "heading": "Come si presenta Bollywood",
+        "body": "Le convenzioni del video musicale di Bollywood sono le più massimaliste al mondo e se lo meritano. Le firme: coreografia di grande gruppo in formazione perfetta, cambi di costume tra le strofe, salti di location a metà canzone (strada di Mumbai a Alpi svizzere a corte di palazzo), colore saturo sull'intero spettro (nessuna palette smorzata), e la voce del playback singer sopra il lip-sync di un attore come convenzione accettata. La camera è sempre in movimento — gru, dolly, Steadicam — e non si ferma mai."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "I riferimenti sono fondazionali: la sequenza del campo di senape di Dilwale Dulhania Le Jayenge di Shah Rukh Khan diretta da Aditya Chopra, l'inquadratura pittorica di Sanjay Leela Bhansali in Padmaavat e Bajirao Mastani, 'Naatu Naatu' da RRR di SS Rajamouli, il lavoro di AR Rahman in Slumdog Millionaire e Rockstar, la coreografia di Farah Khan, e la cinematografia di Santosh Sivan. Punti di riferimento moderni: le composizioni di Pritam per Brahmastra, le title track di Pathaan e Jawan, il rollout di Pathaan di Vishal-Shekhar. Il modello Bollywood di Tunee conosce la coreografia di formazione, la saturazione del colore come strumento primario e il montaggio location-collage come caratteristica."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Non trattenere la palette — Bollywood si rompe sotto color grading di buon gusto. Invece, nomina tre blocchi di colore saturo per inquadratura ('sari giallo zafferano, cielo teal profondo, muro magenta') e un archetipo di location (campo di senape, corte di palazzo, strada di Mumbai monsonica, prato svizzero). L'istinto di 'tonalità più sobrie' produce qualcosa che si legge come Bollywood-adiacente piuttosto che Bollywood."
+      }
+    ]
+  }
 }

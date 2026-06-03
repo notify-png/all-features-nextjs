@@ -39,5 +39,23 @@
       "q": "Funciona com qualquer gênero de música, ou apenas Country?",
       "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Country. Você pode gerar vídeos musicais para pop, hip-hop, clássica e dezenas de outros estilos usando a mesma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE COUNTRY",
+    "h2": "MVs de country correm em caminhonetes, campos e luz de neon de bar",
+    "sections": [
+      {
+        "heading": "Como o country se parece",
+        "body": "O videoclipe de country tem um cânone visual bem definido que o público do gênero espera e recompensa. As assinaturas: pickups (Ford F-150 e Chevy Silverado, cobertas de poeira), campos de trigo ou milho em hora dourada, chapéus de cowboy gastos e camisas pearl-snap, interiores de dive-bar com letreiros de cerveja em neon como luz key, planos de varanda da frente, estradas de terra recuando para colinas. A correção de cor é quente e levemente dessaturada, com um toque de teal nas sombras. Câmera na mão é aceitável; planos de drone sobre campos são obrigatórios."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "As referências atravessam eras: 'Beautiful Crazy' de Luke Combs, 'Whiskey Glasses' de Morgan Wallen, 'Slow Burn' e 'Rainbow' de Kacey Musgraves (a ponta moderna e com direção de arte), a performance ao vivo no CMA de 'Tennessee Whiskey' do Chris Stapleton, 'Before He Cheats' da Carrie Underwood, e os clipes intencionalmente lo-fi do Zach Bryan. As diretoras Trey Fanjoy ('Tim McGraw' da Taylor Swift, Carrie Underwood), Wes Edwards (Luke Combs, Brad Paisley), Justin Clough e Roman White moldam boa parte do visual contemporâneo. O modelo country do Tunee conhece a diferença entre o bro-country brilhante e o Americana muted."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Especifique o subgênero — bro-country (party-bright, bar de neon, caminhonete lifted), Americana (muted, varanda, jeans Wrangler vintage) ou country pop moderno (rooftop de Nashville, fashion-forward). Um prompt nomeando a marca da pickup, a marca do letreiro de cerveja no bar ou a cultura plantada no campo produz um quadro mais nítido que 'cena de música country'. O público percebe quando os adereços estão errados."
+      }
+    ]
+  }
 }

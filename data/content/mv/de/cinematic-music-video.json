@@ -39,5 +39,23 @@
       "q": "Funktioniert der Cinematic-Musikvideo-Generator von Tunee auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Cinematic-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER CINEMATIC MV",
+    "h2": "Was „cinematic\" tatsächlich bedeutet, wenn ein Regisseur es sagt",
+    "sections": [
+      {
+        "heading": "Die Cinematic-Checkliste",
+        "body": "„Cinematic\" ist das am meisten missbrauchte Wort in Video-Briefings. Reduzierst du es auf das Wesentliche, bedeutet es eine konkrete Reihe von Entscheidungen: anamorphes 2.39:1- oder 2.4:1-Framing mit ovalem Bokeh und horizontalen Lens Flares, 24fps-Bewegungskadenz mit einem 180-Grad-Verschluss, Farbkorrektur in Richtung Teal-and-Orange oder einer maßgeschneiderten LUT, Filmkorn in der Stärke, die man auf einem gescannten 35-mm-Print sehen würde. Stimmt nur eines davon nicht, spürt es ein Zuschauer, der Filme schaut, bevor er es benennen kann."
+      },
+      {
+        "heading": "Woher der Look stammt",
+        "body": "Kameraleute, die tatsächlich zitiert werden: Roger Deakins (Sam Mendes' 1917, Denis Villeneuves Blade Runner 2049), Emmanuel „Chivo\" Lubezki (Alfonso Cuaróns Children of Men, Iñárritus Birdman und The Revenant), Hoyte van Hoytema (Christopher Nolans Interstellar und Oppenheimer). Auf Regie-Ebene: Christopher Nolan, Denis Villeneuve, Paul Thomas Anderson. Musikvideo-spezifisch: Hiro Murais Arbeit für Childish Gambino (This Is America, Sober), Spike Jonzes Weapon of Choice für Fatboy Slim und alles, was Jonas Åkerlund für Madonna oder The Prodigy schnitt. Das Vokabular wird mit dem Spielfilm geteilt — Tunees Cinematic-Modell trainiert auf derselben DoP-Sprache, sodass „Deakins-style backlit silhouette\" korrekt auflöst."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Lege das Seitenverhältnis im Prompt fest: „anamorphic 2.39:1, oval bokeh, horizontal lens flare\". Spezifiziere das Filmmaterial: „Kodak Vision3 500T, fine grain\" oder „Fuji Eterna, muted contrast\". Nenne einen Kameramann als Referenz, statt den Look in Adjektiven zu beschreiben — „lit like Deakins in 1917\" vermittelt mehr als drei Sätze Farbbeschreibung. Lass „cinematic\" als alleinstehendes Wort weg; es ist zu vage, um irgendetwas zu steuern."
+      }
+    ]
+  }
 }

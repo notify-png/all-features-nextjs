@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali cinematografici di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e dispositivi mobili, così puoi creare video musicali cinematografici da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV CINEMATOGRAFICO",
+    "h2": "Cosa significa davvero 'cinematografico' quando lo dice un regista",
+    "sections": [
+      {
+        "heading": "La checklist cinematografica",
+        "body": "Cinematografico è la parola più abusata nei brief video. Stripandola, significa un insieme specifico di scelte: inquadratura anamorfica 2.39:1 o 2.4:1 con bokeh ovale e flare orizzontali, cadenza di movimento a 24fps con otturatore a 180 gradi, color graded verso teal-and-orange o un LUT personalizzato, grana del film al livello che vedresti in una scansione di stampa 35mm. Sbaglia uno di questi e uno spettatore che guarda film lo sentirà prima di poterlo nominare."
+      },
+      {
+        "heading": "Da dove viene lo sguardo",
+        "body": "Direttori della fotografia che la gente cita davvero: Roger Deakins (1917 di Sam Mendes, Blade Runner 2049 di Denis Villeneuve), Emmanuel 'Chivo' Lubezki (Children of Men di Alfonso Cuarón, Birdman e The Revenant di Iñárritu), Hoyte van Hoytema (Interstellar e Oppenheimer di Christopher Nolan). A livello di regista: Christopher Nolan, Denis Villeneuve, Paul Thomas Anderson. Specifico per i music video: il lavoro di Hiro Murai per Childish Gambino (This Is America, Sober), Weapon of Choice di Spike Jonze per Fatboy Slim, qualsiasi cosa Jonas Akerlund abbia tagliato per Madonna o The Prodigy. Il vocabolario è condiviso con il cinema di lungometraggio - il modello cinematografico di Tunee si allena sullo stesso linguaggio dei DP, così 'silhouette in controluce in stile Deakins' si risolve correttamente."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Blocca l'aspect ratio nel prompt: 'anamorfico 2.39:1, bokeh ovale, lens flare orizzontale'. Specifica lo stock pellicola: 'Kodak Vision3 500T, grana fine' o 'Fuji Eterna, contrasto smorzato'. Nomina un DP come riferimento piuttosto che descrivere lo sguardo con aggettivi - 'illuminato come Deakins in 1917' comunica più di tre frasi di descrizione del colore. Salta 'cinematografico' come parola isolata; è troppo vaga per guidare qualsiasi cosa."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee的民谣音乐视频生成器在移动设备上能用吗？",
       "a": "Tunee可以在桌面和移动设备上通过网络浏览器完全访问，因此您可以从任何设备创建民谣音乐视频，无需安装软件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于民谣",
+    "h2": "民谣视频用克制换来安静",
+    "sections": [
+      {
+        "heading": "民谣长什么样",
+        "body": "民谣的视觉用奇观换亲近感。镜头多半静止，或缓慢漂移——手持但有构图，不抖。自然光承担了大部分工作：黄金时刻的厨房窗、黄昏的前廊、阴天里的林间空地。穿搭是上身穿出皱褶的羊毛与丹宁，从不是 costume。艺人通常出现在某件事进行到一半的状态——倒咖啡、调吉他、走路——而不是直接对镜头表演。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "Bon Iver 由 Nabil Elderkin 执导的『Holocene』奠定了模板：一个渺小人形置身于巨大的冰岛景观，不需要任何叙事弧线。Phoebe Bridgers 由 Lord Danger 执导的『Kyoto』承袭同样的克制，又添了几分干冷幽默。Fleet Foxes 的『Helplessness Blues』（由 Sean Pecknold 执导）、Sufjan Stevens 漫长的视频弧线、Big Thief 的『Not』、Iron & Wine 由 Andreas Nilsson 执导的『Boy with a Coin』，以及 Joel 与 Ethan Coen 的 Inside Llewyn Davis（由 Bruno Delbonnel 摄影）都坐在同一条血脉上。共享的语法：35mm 颗粒、长焦保持距离、手与面孔的特写、把天气当作共同主演。几乎不用广角，几乎不用冷蓝。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "抵制那些把画面推向『电影感』的形容词。改为把每一个场景锚定在一个具体的物理细节上：『手指压在第三品』、『十一月空气里看得见的呼气』、『雨打在厨房窗上』。Tunee 对时辰提示反应很好——『first light』、『last hour before sunset』——因为它们会自动收窄调色板。让剪辑放长，每一个瞬间结束之后下一个才开始。民谣是那种『剪得太快就会杀掉这首歌』的流派。"
+      }
+    ]
+  }
 }

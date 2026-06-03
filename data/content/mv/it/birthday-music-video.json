@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale di compleanno?",
       "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale di compleanno."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "L'MV DI COMPLEANNO",
+    "h2": "Un video di compleanno che non è solo footage traballante di candeline",
+    "sections": [
+      {
+        "heading": "Perché vale la pena fare un MV di compleanno",
+        "body": "Il video di compleanno standard è 47 secondi di qualcuno che tiene il telefono di traverso mentre la stanza canta stonata. Utile per il momento, inutile dopo. Un MV di 60 secondi musicato sulla canzone preferita del festeggiato viaggia molto più lontano — finisce riascoltato sul viaggio di ritorno, postato sulla sua bacheca il mattino dopo, e tirato fuori di nuovo al prossimo compleanno milestone come punto di riferimento."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I videografi di eventi conoscono il canone: il close-up della candela con il viso del desiderio appena prima del soffio, la rivelazione over-the-shoulder della torta, l'inquadratura ampia degli amici che cantano, la reazione allo scartare il regalo, il clink del brindisi. I punti di riferimento culturali sono globali - l'inquadratura del 'Happy Birthday Mr. President' di Marilyn Monroe nel 1962, le esibizioni di Happy Birthday di Stevie Wonder per la campagna MLK Day, il formato virale del bambino-che-distrugge-la-torta su YouTube, l'immaginario dei palloncini-di-compleanno di UP della Pixar diretto da Pete Docter. Per compleanni milestone - 1, 18, 30, 50 - un montaggio di invecchiamento fotografico della stessa persona attraverso gli anni atterra più forte di qualsiasi singola inquadratura, l'approccio Boyhood di Linklater compresso in 90 secondi. Menziona questi momenti nel tuo prompt e Tunee si assembla attorno a essi."
+      },
+      {
+        "heading": "Rendilo il regalo",
+        "body": "Il miglior MV di compleanno non viene mostrato alla festa — viene inviato alla persona tre giorni dopo, quando l'euforia è svanita e i messaggi si sono fermati. Tunee esporta verticale per la Story, quadrato per il post e widescreen per la chat di famiglia, tutto da un singolo render."
+      }
+    ]
+  }
 }

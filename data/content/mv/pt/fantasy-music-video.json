@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe de música fantasy para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de música fantasy usando diferentes prompts ou configurações de estilo, então selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV FANTASY",
+    "h2": "Vídeo de fantasia que merece a comparação com LOTR",
+    "sections": [
+      {
+        "heading": "O que fantasia exige",
+        "body": "O vídeo de fantasia vive ou morre na paisagem e na escala. The Lord of the Rings vendeu seu mundo com um único plano aberto — a Sociedade caminhando em fila única atravessando um cume, anã contra a montanha. A regra: cada frame estabelecedor precisa de uma figura humana para escala, e o ambiente tem que carregar a maior parte do storytelling. Profundidade de matte painting pintado, perspectiva atmosférica esmaecendo num azul enevoado, materiais naturalistas de figurino (lã, couro, metal martelado, não armadura com cara de plástico). Erre a escala e lê como cosplay."
+      },
+      {
+        "heading": "De onde vem o visual",
+        "body": "Cânone visual: a trilogia LOTR de Peter Jackson com a concept art de John Howe e Alan Lee, Pan's Labyrinth de Guillermo del Toro para iluminação de conto-de-fadas mais sombria, Game of Thrones da HBO (temporadas iniciais antes da pressa), The Witcher 3 da CD Projekt Red adaptado de Andrzej Sapkowski, The Fall de Tarsem Singh para cor saturada, Princess Mononoke de Hayao Miyazaki para a ponta pictórica, as capas de Conan de Frank Frazetta para a ponta heavy-metal. Adjacente a videoclipe: Hunger de Florence + the Machine dirigido por AG Rojas. O modelo de fantasia do Tunee trata essas referências como dialetos separados — 'matte painting estilo Howe' versus 'guerreiro em baixo ângulo estilo Frazetta' versus 'espírito de floresta Ghibli' resolvem em saídas claramente diferentes."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Inclua sempre uma figura humana para escala, mesmo em prompts paisagem-primeiro: 'cavaleiro solitário em cume, montanha ao fundo, perspectiva atmosférica'. Especifique a hora do dia com direção cardinal: 'hora dourada, sol vindo da direita da câmera, sombras longas puxando para a esquerda'. Especificidade de material importa — 'couro oleado, aço escovado, lã não tingida' bate 'roupas medievais'. Evite 'épico' como adjetivo; descreva a relação de escala em vez disso ('figura ocupa o décimo inferior do quadro')."
+      }
+    ]
+  }
 }

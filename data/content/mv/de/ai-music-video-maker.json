@@ -39,5 +39,23 @@
       "q": "Wie füge ich Liedtexte oder Untertitel zu meinem AI MV Maker Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Optionen für Liedtext- und Untertitel-Overlays. Gib einfach deine Liedtexte ein, wähle einen Textstil, und die KI synchronisiert sie automatisch zu deinem AI MV Maker Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "KI-MV-MAKER",
+    "h2": "Von der Audiodatei zum fertigen Musikvideo in einem Durchgang",
+    "sections": [
+      {
+        "heading": "Was „Maker\" gegenüber „Editor\" bedeutet",
+        "body": "Ein KI-Music-Video-Maker ist das One-Shot-Werkzeug — du gibst ihm einen Song, er gibt dir ein fertiges Video zurück. Keine Timeline, kein Clip-für-Clip-Prompting, kein manuelles Jonglieren mit Assets. Der Trade-off ist Kontrolle: Maker sind darauf optimiert, in den ersten drei Minuten etwas Schaubares zu liefern, nicht auf den chirurgischen Schnittdurchlauf, den ein Editor ermöglicht. Für Entwürfe, Demos, die an ein Label gehen, oder „Braucht dieser Song überhaupt ein Video?\"-Tests ist das genau das richtige Werkzeug."
+      },
+      {
+        "heading": "Was Tunees Maker tatsächlich für dich entscheidet",
+        "body": "Wirf eine MP3 hinein, und Tunee wählt die Ästhetik aus dem Audio selbst: Ein Lo-Fi-Beat landet in gedämpften Farben und langsamen Kamera-Driftbewegungen, ein Drill-Instrumental bekommt kontrastreiche Nacht-Außenaufnahmen und schnellere Schnitte, eine Worship-Klavierballade geht lyric-forward mit warmem Key Light. Du kannst den Stil mit einer Zeile Prompt überschreiben, aber die Voreinstellung ist selten peinlich — was die eigentliche Latte ist, an der die meisten „KI-MV-Maker\"-Tools scheitern."
+      },
+      {
+        "heading": "Die Agenten-Kette, die die Entscheidung trifft",
+        "body": "Vier Agenten laufen nacheinander: Der Audio-Analyst extrahiert Tempo, Tonart und emotionalen Bogen; Nova entwirft die visuelle Welt (Charaktere, Palette, Umgebung); Sage schneidet diese Platten in eine getimte Shot-Liste, gemappt auf die Songstruktur; der Renderer produziert die finalen Frames. Die Maker-Route führt alle vier mit Smart Defaults aus — die Editor-Route legt dieselbe Kette offen, damit du an jedem Schritt eingreifen kannst. Dieselbe Engine, andere Oberfläche."
+      }
+    ]
+  }
 }

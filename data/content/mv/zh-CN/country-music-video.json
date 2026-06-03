@@ -39,5 +39,23 @@
       "q": "它是否适用于任何音乐类型，还是仅限乡村音乐？",
       "a": "Tunee支持广泛的流派和乡村音乐之外的视觉风格。您可以使用同一平台为流行音乐、嘻哈、古典音乐和数十种其他风格生成音乐视频。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 COUNTRY",
+    "h2": "Country MV 靠皮卡、田野和酒吧霓虹运转",
+    "sections": [
+      {
+        "heading": "country 长什么样",
+        "body": "乡村音乐视频有一套受众期待并且会给出回报的清晰视觉经典。视觉标识：皮卡（覆着尘土的 Ford F-150 与 Chevy Silverado）、黄金时刻下的麦田或玉米田、磨损的牛仔帽和珠扣衬衫、以霓虹啤酒灯为主光的 dive bar、前廊镜头、退向山丘的土路。色彩分级偏暖、轻微去饱和，阴影里带一丝青。手持可以；田野上的航拍是标配。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "参考横跨多个年代：Luke Combs 的『Beautiful Crazy』、Morgan Wallen 的『Whiskey Glasses』、Kacey Musgraves 的『Slow Burn』和『Rainbow』（现代、有美术指导那一端）、Chris Stapleton 在 CMA 现场的『Tennessee Whiskey』、Carrie Underwood 的『Before He Cheats』，以及 Zach Bryan 刻意 lo-fi 的片段。导演 Trey Fanjoy（Taylor Swift 的『Tim McGraw』、Carrie Underwood）、Wes Edwards（Luke Combs、Brad Paisley）、Justin Clough 和 Roman White 塑造了当代很大一块面貌。Tunee 的 country 模型分得清『bro-country 的明亮』和『Americana 的克制』。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "指定子流派——bro-country（派对感的明亮、霓虹酒吧、抬升过的皮卡）、Americana（克制、前廊、复古 Wrangler），或当代流行 country（Nashville 屋顶、时髦穿搭）。点出皮卡品牌、酒吧啤酒灯的牌子、或田里的作物，能得到一帧比『country music scene』更锋利的画面。道具不对，观众一眼就看出来了。"
+      }
+    ]
+  }
 }

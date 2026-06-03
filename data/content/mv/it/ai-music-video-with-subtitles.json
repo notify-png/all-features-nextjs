@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale con sottotitoli?",
       "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale con sottotitoli."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV CON SOTTOTITOLI",
+    "h2": "I sottotitoli burned-in sono ormai una posta in gioco minima, non un'aggiunta per l'accessibilità",
+    "sections": [
+      {
+        "heading": "Perché i sottotitoli sono diventati il default",
+        "body": "I sottotitoli burned-in sui video musicali non sono più un'opzione di accessibilità - sono il default per ogni uscita che spera di atterrare sui social. Oltre l'ottanta percento dei video su TikTok e Reels viene guardato in muto nel feed. I sottotitoli aumentano misurabilmente il tasso di completamento, il tasso di salvataggio e il tasso di condivisione. Il formato serve anche l'accessibilità (spettatori sordi e con problemi di udito, parlanti non madrelingua inglese che usano i testi per seguire) che è la ragione originale per cui esistono i sottotitoli. L'intersezione rende i sottotitoli un must, non un nice-to-have."
+      },
+      {
+        "heading": "Quando usarlo",
+        "body": "L'MV sottotitolato è la scelta giusta per ogni uscita social-first, per canzoni lyric-forward dove le parole sono l'hook, per uscite in lingue non inglesi che mirano a pubblici globali, per musica educativa o a tema (canzoni per bambini, canzoni di protesta, rap narrativo) e per ogni uscita in cui l'artista vuole l'accessibilità integrata fin dall'inizio. La genealogia: Bohemian Rhapsody dei Queen di Bruce Gowers (1975) come proto-video con overlay di testo, Subterranean Homesick Blues di Bob Dylan (1965) diretto da D.A. Pennebaker, gli standard sui sottotitoli del BBC (riferimento W3C TTML), i default SDH (sottotitoli per non udenti) accessibility-first di Netflix. SM Entertainment e HYBE usano sottotitoli burned-in per i fan internazionali del K-pop da un decennio. L'hip-hop con giochi di parole densi trae vantaggio dai sottotitoli in ogni uscita - le barre sono troppo veloci da cogliere al primo ascolto."
+      },
+      {
+        "heading": "Suggerimento di prompt per Tunee",
+        "body": "Tratta i sottotitoli come un elemento di design, non come un overlay: 'sottotitoli nel terzo inferiore, Inter Bold 32pt, testo bianco con sottile drop shadow, una riga alla volta, interruzione di riga su confine di frase'. Specifica l'allineamento temporale: 'sottotitoli appaiono sulla sillaba, non alla fine della frase'. Scegli un colore di sottotitolo che tenga attraverso i cambi di luce del video - bianco con ombra batte testo colorato ogni volta. Tunee genera automaticamente sottotitoli time-aligned dall'input dei testi, quindi il burn-in corrisponde al fraseggio vocale con precisione."
+      }
+    ]
+  }
 }

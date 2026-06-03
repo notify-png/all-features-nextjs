@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales Hip Hop de Tunee fonctionne-t-il sur les appareils mobiles?",
       "a": "Tunee est entièrement accessible via navigateur web sur les ordinateurs de bureau et les appareils mobiles, vous pouvez donc créer des vidéos musicales Hip Hop depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU HIP HOP",
+    "h2": "La vidéo hip hop porte toute une ville sur ses épaules",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le hip hop",
+        "body": "Les MV hip hop tressent deux strates : la performance — généralement le rappeur face caméra, lip-sync serré, souvent en contre-plongée puissante — et le monde qui a produit le morceau. Ce monde est précis. Compton, Houston, Toronto, Brooklyn possèdent chacun une signature visuelle, et les meilleures vidéos refusent de venir de nulle part. La garde-robe est datée au mois près, pas à l'année. Les voitures comptent. Les crews comptent. Les coupes tombent sur la rime, jamais sur le beat seul."
+      },
+      {
+        "heading": "Des références qui fonctionnent vraiment",
+        "body": "« HUMBLE. » et « Alright » de Kendrick Lamar (tous deux réalisés par Dave Meyers et the little homies) constituent le manuel moderne associant performance et portée sociale. « SICKO MODE » et « HIGHEST IN THE ROOM » de Travis Scott (Dave Meyers à nouveau) déploient une échelle surréaliste sans jamais sacrifier le rap comme colonne vertébrale. Le travail de Hiro Murai avec Donald Glover (« This Is America », « Sober ») et FKA Twigs a relevé le niveau pour les MV narratives. « MIDDLE CHILD » de J. Cole reste conversationnel ; « Hotline Bling » de Drake, réalisé par Director X, a opté pour le minimalisme et a tout changé. Les visuels de Cole Bennett pour Lyrical Lemonade chez Juice WRLD et Eminem prolongent la lignée, avec l'ère fisheye de Hype Williams et le travail de Spike Jonze sur les Beastie Boys comme règles fondatrices."
+      },
+      {
+        "heading": "Astuce de prompting pour Tunee",
+        "body": "Donnez à Tunee un quartier précis, pas une ville générique. « Porche en fin de soirée à South Memphis, deux amis, crépuscule bleu » fonctionne nettement mieux que « scène urbaine ». Verrouillez un élément vestimentaire signature — chaîne, hoodie, casquette — et faites-le apparaître à chaque coupe pour que l'artiste se lise comme continu. Exploitez la structure couplet-refrain : cadres de performance serrés sur les bars, B-roll lifestyle pendant le hook. Coupez sur les consonnes, pas sur le kick."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Weihnachtsmusik-Video-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du Weihnachtsmusikvideos von jedem Gerät aus erstellen kannst – ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS WEIHNACHTS-MV",
+    "h2": "Ein Weihnachtsvideo, das das Geschenkpapier überlebt",
+    "sections": [
+      {
+        "heading": "Warum sich ein Weihnachts-MV lohnt",
+        "body": "Das familiäre Weihnachtsvideo ist meist entweder ein 20-minütiger Heimfilm, den niemand zu Ende schaut, oder ein Schwarm unverbundener Handyclips. Ein MV, geschnitten auf einen einzelnen Weihnachtssong — Mariah, Bublé, Wham! oder das Weihnachtslied, das deine Großmutter immer gesungen hat — gibt dem Tag ein Rückgrat. Es wird zum Artefakt, das du im nächsten Dezember hervorholst, um dich daran zu erinnern, wer dieses Jahr am Tisch saß, das Jahr, in dem sich jemand beim Nachtisch verlobte, oder das Jahr, in dem der Hund zuerst ein Geschenk öffnete."
+      },
+      {
+        "heading": "Aufnahmen, die immer funktionieren",
+        "body": "Weihnachten hat den stärksten visuellen Kanon aller Feiertage: Weihnachtsbaumlichter, aus dem Fokus gezogen zu Bokeh, das Stockings-Reveal am Morgen, die Hände, die einen Teller über den Tisch reichen, das statische Bild des Schnees durchs Fenster, das Geschenkpapier-Close-up. Das Referenzregal ist tief — Mariah Carey co-führte 1994 Regie zu All I Want for Christmas Is You gemeinsam mit AJ Brown, Wham!s Last Christmas wurde von Andy Morahan in Saas-Fee gedreht, Coca-Colas Polar-Bears-Kampagne von Haddon Sundblom definierte die globale rot-weiße Palette, John Lewis' Weihnachtsspots von Adam & Eve DDB (der Elton-John-Spot „Some Things Last Longer Than Love\") setzten die Tränendrüsen-Latte. Warme Wolfram-Innenräume gegen kühl-blaue Außenräume sind der Look, auf den sich jeder Hallmark-Channel-Film stützt. Spezifiziere diese beiden Farbtemperaturen, und dein MV liest sich ab dem ersten Frame als Weihnachten."
+      },
+      {
+        "heading": "Mach es zum Geschenk",
+        "body": "Verschicke es als deine Neujahrskarte. Ein 60-Sekunden-MV in einer Textnachricht landet härter als eine Papierkarte mit einem Stockfoto. Tunee rendert 9:16 für die Story-Wiedergabe, 16:9 für den Smart-TV beim nächsten Familientreffen und 1:1 für den Post — eine Generierung deckt alle drei ab."
+      }
+    ]
+  }
 }

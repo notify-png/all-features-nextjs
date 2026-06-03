@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu vídeo de música clássica?",
       "a": "O Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu vídeo de música clássica."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE CLÁSSICA",
+    "h2": "MVs de música clássica funcionam quando deixam a performance carregar o quadro",
+    "sections": [
+      {
+        "heading": "Como a clássica se parece",
+        "body": "O videoclipe de música clássica tem uma gramática silenciosa e assentada. Filmes de performance são gravados em salas de concerto com três a cinco câmeras travadas: aberto da sala, médio no maestro, fechado nos instrumentistas principais, close nas mãos do solista. Vídeos baseados em estúdio tendem ao set minimalista — retrato de sujeito único contra fundo neutro, luz natural, push-ins lentos. A correção de cor é contida, frequentemente quase neutra com um leve viés quente ou frio. O meio respeita o ritmo da música em vez de impor edição pop."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "Pontos de referência incluem os filmes do Bach Project de Yo-Yo Ma, os vídeos de recital de Hilary Hahn, as sessões das Goldberg Variations de Lang Lang no Disney+, os retratos modernos de artistas da Deutsche Grammophon, os visuais em torno da instalação Sleep de Max Richter (com a diretora Natalie Johns), os streams do Berlin Philharmonic Digital Concert Hall sob regência de Andris Nelsons, e as livestreams de lockdown de Igor Levit. Trabalhos documentais como os filmes West-Eastern Divan de Daniel Barenboim e os recitais gravados de Daniil Trifonov definem a ponta séria da forma. O modelo clássico do Tunee trata o instrumento e as mãos como sujeito primário, não como fundo."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Nomeie a família de instrumento, a acústica da venue e a fonte de luz. 'Cello solo em sala de recital de madeira, único spotlight no teto, push-in lento sobre mãos e escala, sem público' funciona; 'vídeo de performance de música clássica' produz algo genérico. Se você quiser visualização de partitura em vez de performance, diga isso explicitamente — os dois formatos não se parecem em nada."
+      }
+    ]
+  }
 }

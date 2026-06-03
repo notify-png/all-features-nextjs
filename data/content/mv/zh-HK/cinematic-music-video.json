@@ -39,5 +39,23 @@
       "q": "Tunee 的電影級音樂影片生成器是否在行動設備上運作？",
       "a": "Tunee 在桌面和行動設備上都可透過網頁瀏覽器完全存取，因此您可以從任何設備上創作電影級音樂影片，無需安裝軟體。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於電影級 MV",
+    "h2": "當導演說「cinematic」時，他真正指的是甚麼",
+    "sections": [
+      {
+        "heading": "「電影感」的檢查清單",
+        "body": "「Cinematic」是影像簡報裡最被濫用的詞。剝開來看，它意味著一組特定的選擇：寬銀幕 2.39:1 或 2.4:1 構圖配橢圓 bokeh 與水平鏡頭眩光、24fps 動態節奏配 180 度快門、調色偏向 teal-and-orange 或自訂 LUT、相當於 35mm 印片掃描層級的膠片顆粒。其中任何一項出錯，看電影的觀眾還沒能說出名字之前，就已感覺得到。"
+      },
+      {
+        "heading": "視覺語彙的源頭",
+        "body": "真正會被引用的攝影指導：Roger Deakins（Sam Mendes 的「1917」、Denis Villeneuve 的「Blade Runner 2049」）、Emmanuel「Chivo」Lubezki（Alfonso Cuaron 的「Children of Men」、Inarritu 的「Birdman」與「The Revenant」）、Hoyte van Hoytema（Christopher Nolan 的「Interstellar」與「Oppenheimer」）。導演層級：Christopher Nolan、Denis Villeneuve、Paul Thomas Anderson。音樂視頻方面：Hiro Murai 為 Childish Gambino 拍的作品（「This Is America」、「Sober」）、Spike Jonze 為 Fatboy Slim 拍的「Weapon of Choice」、Jonas Akerlund 為 Madonna 與 The Prodigy 剪的任何作品。語彙與長片共享——Tunee 的電影級模型以同一套 DP 語言訓練，因此「Deakins 風格的逆光剪影」能正確解析。"
+      },
+      {
+        "heading": "Tunee 提示詞技巧",
+        "body": "在提示詞中鎖定畫面比例：「anamorphic 2.39:1、橢圓 bokeh、水平鏡頭眩光」。指定膠片型號：「Kodak Vision3 500T、細顆粒」或「Fuji Eterna、低對比」。點名一位 DP 作為參考，勝過用形容詞描述效果——「像 Deakins 在『1917』裡那樣打光」比三句調色描述傳達更多。把「cinematic」單獨當形容詞略過；它太模糊，無法引導任何方向。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee的Hip Hop音乐视频生成器可以在移动设备上使用吗？",
       "a": "Tunee完全可通过桌面和移动设备上的网络浏览器访问，因此您可以从任何设备创建Hip Hop音乐视频，无需安装任何软件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "关于 HIP HOP",
+    "h2": "Hip hop 影像扛着一座城市的重量",
+    "sections": [
+      {
+        "heading": "Hip hop 长什么样",
+        "body": "Hip hop MV 编织着两层质感：表演——通常是说唱者对镜头紧贴口型，常用极具张力的低角度；以及孕育这首歌的世界。那个世界很具体。Compton、Houston、Toronto、Brooklyn 各有各的视觉标识，最好的视频从不让自己来历不明。穿搭精准到当月，而不是当年。车很重要，crew 也很重要。剪辑落在押韵处，从不只是踩鼓点。"
+      },
+      {
+        "heading": "真正管用的参考",
+        "body": "Kendrick Lamar 的『HUMBLE.』和『Alright』（均由 Dave Meyers 与 the little homies 执导）是当代表演加社会分量的教科书。Travis Scott 的『SICKO MODE』和『HIGHEST IN THE ROOM』（依然是 Dave Meyers）展现了不偏离说唱内核的超现实视觉张力。Hiro Murai 与 Donald Glover（『This Is America』、『Sober』）以及 FKA Twigs 的合作把叙事型 MV 的标杆抬高了一截。J. Cole 的『MIDDLE CHILD』保持着对话感；Drake 的『Hotline Bling』由 Director X 操刀，以极简风改写了游戏规则。Cole Bennett 为 Juice WRLD 和 Eminem 打造的 Lyrical Lemonade 视觉延续了这条血脉，而 Hype Williams 的鱼眼时代与 Spike Jonze 为 Beastie Boys 操刀的作品则是这门语言的地基。"
+      },
+      {
+        "heading": "给 Tunee 的提示词建议",
+        "body": "给 Tunee 一个具体的街区，而不是泛泛的城市。『South Memphis 入夜后的门廊，两个朋友，蓝色暮光』远胜于『都市街景』。锁定一件标志性穿搭——金链、连帽衫、帽子——让它出现在每一个剪辑里，艺人才能在镜头里读起来是连贯的。沿着主歌-副歌结构走：bars 段落用紧贴的表演画面，hook 段切到 B-roll 生活感画面。剪在辅音上，而不是底鼓上。"
+      }
+    ]
+  }
 }

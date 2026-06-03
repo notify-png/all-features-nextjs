@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Baby-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Lyrik- und Untertitel-Overlay-Optionen. Gib einfach deine Lyrics ein und wähle einen Textstil aus – die KI synchronisiert sie automatisch zu deinem Baby-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS BABY-MV",
+    "h2": "Verwandle das erste Jahr in mehr als nur eine Kamerarolle",
+    "sections": [
+      {
+        "heading": "Warum ein Baby-MV besser ist als ein weiteres Handy-Album",
+        "body": "Jedes Elternpaar beendet das erste Jahr mit zweitausend fast identischen Fotos und keiner Zeit, sie zu sortieren. Ein MV von 60–90 Sekunden ist das Format, das tatsächlich angeschaut wird — kurz genug, dass die Großeltern es wiederholt abspielen, vertont mit einem Schlaflied oder dem Song, der beim ersten Ultraschall lief. Es komprimiert die chaotische Fülle des Neugeborenen-Materials zu etwas mit Anfang, Mitte und Ende, statt zu einem Google-Photos-Ordner, den niemand öffnet."
+      },
+      {
+        "heading": "Aufnahmen, die immer funktionieren",
+        "body": "Neugeborenenfotografen wie Anne Geddes und Carrie Sandoval fotografieren aus einem Grund denselben Kanon: winzige Hand um einen Erwachsenenfinger geschlossen, Füße gegen die Handfläche eines Elternteils, die Falte einer schlafenden Augenbraue, das erste Bad, das erste, zufällig aufgenommene Lachen. Die Pinterest-Meilenstein-Foto-Tradition, das virale Schwangerschafts-Ankündigungsreel, die Bildsprache der Huggies- und Pampers-Werbung — sie alle ruhen auf Sally Manns leiserer Familienfotografie. Weiches Fensterlicht, geringe Schärfentiefe, warmes Weiß — die visuelle Grammatik ist bereits da, man muss sich nur darauf einlassen. Lade deinen Track hoch, erwähne drei dieser Momente in einfachem Deutsch, und das MV ist halb storyboarded. Selbst Pete Docters Eröffnung von Up borgte sich einen einzigen Schuss von Neugeborenenschuhen, um eine ganze Montage zu verankern."
+      },
+      {
+        "heading": "Macht es zum Geschenk",
+        "body": "Das nützlichste Baby-MV ist das, das an Verwandte verschickt wird, die das Baby noch nicht getroffen haben. Tunee rendert 9:16 für Stories, 16:9 für den TV im Familien-Gruppenchat und 1:1 für die Druck-und-Rahmen-Version — alles aus einer einzigen Generierung."
+      }
+    ]
+  }
 }

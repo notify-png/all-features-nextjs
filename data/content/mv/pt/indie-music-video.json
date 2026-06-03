@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe de música indie para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de música indie usando diferentes prompts ou configurações de estilo, então selecionar a versão que melhor se ajusta à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE INDIE",
+    "h2": "O vídeo indie é uma desculpa de orçamento transformada em estilo",
+    "sections": [
+      {
+        "heading": "Como o indie se parece",
+        "body": "A gramática de MV indie cresceu a partir de limitações: uma câmera, uma locação, uma ideia esquisita executada por completo. Acabamentos lo-fi — sangramento de VHS, stock vencido, highlights estourados — são escolhas estéticas agora, não restrições. O artista frequentemente parece levemente entediado ou divertido, nunca solene. A composição é solta e assimétrica. O figurino parece de brechó mesmo quando não é. Os melhores vídeos indie parecem feitos por um amigo num sábado."
+      },
+      {
+        "heading": "Pontos de referência que realmente funcionam",
+        "body": "'The Less I Know the Better' do Tame Impala dirigido pela Canada é o teto — conceito único, set único, comprometimento total. Os vídeos de Spike Jonze para Arcade Fire ('The Suburbs') e MGMT ('Time to Pretend') estabeleceram a ponta high-art; o trabalho de Michel Gondry com The White Stripes ('Fell in Love with a Girl') segue como pedra de toque. Os vídeos caseiros do Mac DeMarco provam que uma webcam e um quintal podem carregar uma carreira. A leva temática de hotel Tranquility Base dos Arctic Monkeys adicionou ambição cinematográfica sem perder o tom slacker. Snail Mail, Soccer Mommy, Alvvays e 'Nobody' da Mitski compartilham a mesma energia de câmera-como-colega-de-quarto. O tecido conectivo é contenção e uma recusa em levar o gênero a sério demais."
+      },
+      {
+        "heading": "Dica de prompt para Tunee",
+        "body": "Escolha uma ideia e pare de adicionar. 'Artista sentado numa piscina infantil no quintal durante a música inteira, zoom lento entrando ao longo de três minutos' é mais indie do que qualquer conceito elaborado. O Tunee dá conta lindamente de prompts consistentes em locação única quando você especifica a lente — 'prime 35mm, luz natural suave, leve superexposição'. Abrace pequenos erros: um boom mic invadindo o quadro, um carro passando. Polimento mata o gênero mais rápido que uma música ruim."
+      }
+    ]
+  }
 }

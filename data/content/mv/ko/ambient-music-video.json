@@ -39,5 +39,23 @@
       "q": "Tunee의 앰비언트 뮤직 비디오 생성기가 모바일 기기에서 작동하나요?",
       "a": "Tunee는 데스크톱과 모바일 모두의 웹 브라우저를 통해 완전히 접근 가능하므로 소프트웨어를 설치하지 않고도 모든 기기에서 앰비언트 뮤직 비디오를 만들 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "앰비언트 이야기",
+    "h2": "앰비언트 MV는 아무 일도 일어나지 않을 때, 모든 것이 숨 쉴 때 성립합니다",
+    "sections": [
+      {
+        "heading": "앰비언트가 보이는 방식",
+        "body": "앰비언트 음악은 본질적으로 뮤직비디오 포맷에 저항합니다 — 컷할 드롭도, 크레센도로 향할 후렴도 없기 때문입니다. 장르의 비주얼 전통은 그 대신 극도의 인내심으로 응답합니다 — 2분 동안 유지되는 단일 홋카이도 산 샷, 실시간으로 계곡을 가로지르는 안개, 떠다니는 파티클 하나만 있는 검은 화면, 위에서 본 수면 같은 장면들이죠. 참조 프레임은 MTV식 편집이 아니라 Bill Viola의 설치 작품과 Andrei Tarkovsky의 롱테이크입니다."
+      },
+      {
+        "heading": "실제로 통하는 레퍼런스",
+        "body": "디렉터들이 인용하는 계보는 같습니다 — Brian Eno의 '77 Million Paintings', Tim Hecker의 'Ravedeath 1972' 앨범 비주얼, Stars of the Lid의 라이브 프로젝션, William Basinski의 'Disintegration Loops'와 짝지어진 9/11 NYC 스카이라인 푸티지, Aphex Twin의 'Selected Ambient Works' 비주얼라이저, 그리고 Stephen Nomura Schible이 연출한 Ryuichi Sakamoto의 'async' 필름. Bill Viola의 비디오 설치와 Andrei Tarkovsky의 롱테이크 시네마(Stalker, Solaris)가 인내심 있는 이미지의 시금석입니다 — 일관된 흐름은 소재가 아니라 '컷을 거부하는 태도'입니다. 4분 동안 두세 컷만 있는 것이 결함이 아니라 기능입니다. Tunee의 앰비언트 모델은 그 페이싱을 거스르지 않고, 그것에 맞게 캘리브레이션되어 있습니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "프롬프트에 소재뿐 아니라 지속 시간을 명시하세요. 'Single drone shot of pine forest in fog, no cuts, slow drift forward over 60 seconds'는 원하는 결과를 만들고, 'beautiful ambient nature montage'는 스톡 B-roll을 만듭니다. 변화하는 빛, 움직이는 안개, 쌓이는 눈 같은 천천히 변하는 요소를 하나 명명해, 프레임이 단순한 구도가 아니라 그 안에 시간을 품도록 하세요."
+      }
+    ]
+  }
 }
