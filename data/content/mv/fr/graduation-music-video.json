@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale de remise de diplômes pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale de remise de diplômes en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE CLIP DE REMISE DES DIPLÔMES",
+    "h2": "Un clip de remise de diplôme qui survit au lancer de chapeau",
+    "sections": [
+      {
+        "heading": "Pourquoi un clip de remise de diplôme compte",
+        "body": "Les cérémonies de remise de diplôme sont paradoxalement peu cinématographiques — trop de monde, mauvais éclairage, longues plages où l'on lit des noms. Le format clip rachète la journée en compressant quatre ans (ou douze, ou un) en 60 à 90 secondes sur un morceau qui veut dire quelque chose pour le diplômé. C'est l'objet que les parents envoient aux proches qui n'ont pas pu venir, et celui que les diplômés sauvegardent vraiment au lieu du stream officiel de la cérémonie."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les photographes de cérémonie tournent un canon serré : l'arrêt sur image du lancer de chapeau contre le ciel, le gros plan de la remise du capuchon, le plan large de la poignée de main avec le diplôme, la réaction du parent dans la foule, le câlin post-cérémonie sur la pelouse. La bibliothèque de référence inclut le discours de remise de diplôme de Steve Jobs à Stanford en 2005 (filmé par Stanford News Service), l'adresse « This Is Water » de David Foster Wallace à Kenyon, la tradition du portrait d'annuaire chez Herff Jones et Jostens, les reprises de Pomp and Circumstance par le Vitamin String Quartet jouées à chaque cérémonie, et les Tiny Desk spéciaux de NPR pour les remises de diplômes. Ajoutez-y trois ou quatre plans de progression — la photo du premier jour d'école, l'emménagement à la résidence universitaire, une nuit blanche à un bureau — et le clip gagne un arc que la cérémonie elle-même ne peut pas livrer. L'avant-après du même sac à dos fonctionne à tous les coups."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "Envoyez-le au diplômé le matin même, pas après. Cela recadre la journée avant que le chaos ne commence. Tunee rend en vertical pour la Story post-cérémonie, en widescreen pour la projection du dîner ce soir-là, et en carré pour le SMS aux grands-parents, le tout à partir d'une seule génération."
+      }
+    ]
+  }
 }

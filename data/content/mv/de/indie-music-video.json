@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Indie-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Indie-Musikvideos mit verschiedenen Prompts oder Stileinstellungen generieren und dann die Version auswählen, die am besten zu deiner Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER INDIE",
+    "h2": "Das Indie-Video ist eine Budget-Ausrede, die zum Stil wurde",
+    "sections": [
+      {
+        "heading": "Wie Indie aussieht",
+        "body": "Die Grammatik des Indie-MV ist aus Einschränkungen entstanden: eine Kamera, ein Drehort, eine seltsame Idee, vollständig durchgezogen. Lo-Fi-Finishes — VHS-Bleed, abgelaufenes Filmmaterial, ausgebrannte Spitzlichter — sind heute ästhetische Entscheidungen, keine Beschränkungen. Die Künstlerin oder der Künstler wirkt oft leicht gelangweilt oder amüsiert, niemals andächtig. Die Komposition ist locker und asymmetrisch. Die Garderobe sieht selbst dann nach Secondhand aus, wenn sie es nicht ist. Die besten Indie-Videos wirken so, als hätten sie Freundinnen oder Freunde an einem Samstag gemacht."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Tame Impalas „The Less I Know the Better\" unter der Regie von Canada ist die Decke — ein Konzept, ein Set, vollständiges Commitment. Spike Jonzes Videos für Arcade Fire („The Suburbs\") und MGMT („Time to Pretend\") setzen das Hochkunst-Ende; Michel Gondrys Arbeit mit den White Stripes („Fell in Love with a Girl\") bleibt ein Bezugspunkt. Mac DeMarcos zu Hause gedrehte Videos beweisen, dass eine Webcam und ein Hinterhof eine ganze Karriere tragen können. Arctic Monkeys' Lauf rund um das Hotelthema von Tranquility Base fügte kinematografischen Ehrgeiz hinzu, ohne den Slacker-Ton zu verlieren. Snail Mail, Soccer Mommy, Alvvays und Mitskis „Nobody\" teilen dieselbe Kamera-als-Mitbewohner-Energie. Das verbindende Element ist Zurückhaltung und die Weigerung, das Genre zu ernst zu nehmen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Wählen Sie eine Idee und hören Sie auf, weitere hinzuzufügen. „Künstler sitzt den ganzen Song in einem Plansch-Pool im Hinterhof, langsamer Zoom hinein über drei Minuten\" ist indie-iger als jedes ausgeklügelte Konzept. Tunee verarbeitet konsistente Prompts mit einem einzigen Drehort wunderbar, wenn Sie die Linse angeben — „35mm-Festbrennweite, weiches Tageslicht, leichte Überbelichtung\". Begrüßen Sie kleine Fehler: ein Boom-Mikro, das ins Bild kippt, ein vorbeifahrendes Auto. Politur tötet das Genre schneller als ein schlechter Song."
+      }
+    ]
+  }
 }

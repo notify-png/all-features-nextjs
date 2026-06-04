@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale Metal pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale Metal en utilisant différentes descriptions ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU METAL",
+    "h2": "Le clip metal gagne son poids par l'engagement physique",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le metal",
+        "body": "Les clips metal sont généralement construits autour de la performance live — le groupe qui joue réellement, la sueur qui vole vraiment, le kick qui fait visiblement bouger la caméra. La lumière est dure et contrastée : un seul faisceau blanc sur le chanteur contre un vide noir, lavage rouge sur la section rythmique. Les lieux penchent vers l'industriel abandonné, la forêt de nuit ou le plateau noir pur. Le ralenti est utilisé chirurgicalement, presque toujours sur le batteur ou un seul saut. Le cadre est généralement chargé, pas minimal."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Chokehold » de Sleep Token, réalisé par Phil Mucci, a redéfini l'esthétique moderne du clip metal avec l'anonymat masqué et la mise en scène rituelle. « DiE4u » de Bring Me the Horizon porte l'ambition narrative cinématographique, tandis qu'« Amazonia » de Gojira utilise le paysage comme échelle. « Holy Roller » de Spiritbox, « To the Hellfire » de Lorna Shore et « Suffocate » de Knocked Loose complètent le vocabulaire actuel. Les références plus anciennes — « Schism » de Tool et « Duality » de Slipknot — enseignent toujours au genre comment rendre l'abstrait physique. Le travail de Mathias Andersson avec Ghost prolonge davantage la filiation rituelle. La constante : le groupe est le cadre, pas la décoration."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Spécifiez le lieu avant le traitement visuel. « Entrepôt en béton vide, une seule ampoule au plafond, groupe en demi-cercle serré, batteur au centre arrière » donne à Tunee quelque chose à rendre avec intention. Superposez ensuite l'atmosphère : « brume épaisse, contre-jour dur côté cour, pas de fill ». Demandez du ralenti uniquement aux points d'impact — le breakdown, le cri final. Tunee gère mieux les scènes sombres quand vous nommez explicitement les quelques sources de lumière, plutôt que de demander un « éclairage moody »."
+      }
+    ]
+  }
 }

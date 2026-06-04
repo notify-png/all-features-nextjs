@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Lip-Sync-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Varianten deines Lip-Sync-Musikvideos generieren, indem du verschiedene Aufforderungen oder Style-Einstellungen verwendest, und dann die Version auswählen, die deiner Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER LIP-SYNC-MV",
+    "h2": "Lip-Sync ist das stillste schwierige MV-Format",
+    "sections": [
+      {
+        "heading": "Was Lip-Sync-Video verlangt",
+        "body": "Lip-Sync klingt einfach — die Performerin oder der Performer formt die Worte vor der Kamera mit den Lippen —, doch es ist das Format mit der geringsten Fehlertoleranz. Das Publikum verfolgt die Abstimmung von Lippe und Stimme unbewusst, und jede Drift jenseits weniger Frames reißt es vollständig heraus. Der Mund muss die Konsonantenposition treffen (B/P/M schließen vollständig, F/V schieben die Lippe unter die Zähne, Vokale öffnen unterschiedlich). Über die Sync-Genauigkeit hinaus braucht das Format visuelles Interesse aus einem einzigen Subjekt für eine ganze Songdauer — das ist vor allem eine Frage von Beleuchtung, wechselnder Kadrierung und der Energie des Performers."
+      },
+      {
+        "heading": "Wann man es einsetzt",
+        "body": "Lip-Sync-MV ist die richtige Wahl, wenn das Gesicht und die Präsenz der Künstlerin oder des Künstlers den Song tragen (Lana Del Rey, The Weeknd, Adele), wenn das Budget klein und ein Ort plus eine Performerin die Beschränkung ist, beim Release einer Single, deren Fokus auf der Vokalmelodie liegt, oder für TikTok-taugliche Nahaufnahmen des Gesichts. Die kanonischen Beispiele des Formats: Beyoncés „7/11\" unter eigener Regie, Justin Biebers „Sorry\" unter der Regie von Parris Goebel, Sias „Chandelier\", choreografiert von Ryan Heffington mit Maddie Ziegler, die Lip-Sync-Battle-Kultur von RuPaul's Drag Race, die Mood-Films von Modehäusern unter Hedi Slimane und Nicolas Ghesquière. Regisseure tun es immer wieder als „nur ein Performance-Video\" ab — gerade deshalb wird es unterschätzt."
+      },
+      {
+        "heading": "Tunee-Prompting-Tipp",
+        "body": "Wenn Sie mit Tunee Lip-Sync erzeugen, fixieren Sie die Position der Performerin oder des Performers und ergänzen Sie über den Song verteilt Lichtwechsel: „mittlere Nahaufnahme, Performer mittig im Bild; Licht wechselt von kühlem Blau in der Strophe zu warmem Amber im Refrain\". Geben Sie der Mundform Priorität: „präzise Konsonantenausrichtung, B/P/M mit geschlossenen Lippen auf diesen Phonemen\". Fügen Sie pro Abschnitt eine Requisite oder einen Garderobenwechsel hinzu, um visuelle Kapitel zu schaffen. Halten Sie die Kameradistanz konsistent — der Wechsel zwischen weit und eng beim Lip-Sync bricht den Bann."
+      }
+    ]
+  }
 }

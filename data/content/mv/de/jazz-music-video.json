@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Jazz-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitel-Overlays. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil – die KI synchronisiert sie automatisch mit Ihrem Jazz-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER JAZZ",
+    "h2": "Jazz auf der Leinwand verlangt von der Kamera, zuerst zu hören",
+    "sections": [
+      {
+        "heading": "Wie Jazz aussieht",
+        "body": "Jazz-Videos werden oft nicht aus Nostalgie in Schwarzweiß gedreht, sondern weil Farbe mit der Musik konkurriert. Die Kamera findet eher eine Spielerin oder einen Spieler nach dem anderen — den Saxofonisten mitten im Solo, die linke Hand der Kontrabassistin beim Walking — und bleibt dort. Rauch, niedrige Decken, der hintere Teil eines vollen Raums. Wenn Farbe auftaucht, ist es Bernstein-Wolframlicht auf dunklem Holz. Das Publikum ist meist sichtbar, aber nie Subjekt. Die Bewegung ist geduldig, oft eine einzige langsame Dolly-Fahrt über das Bandpodest."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Robert Glaspers Live-Schnitte im Blue Note und seine NPR-Tiny-Desk-Session setzen die moderne Messlatte für intime Jazz-Aufnahmen. Esperanza Spaldings „Black Gold\" balanciert Komposition mit Charakter. Snarky Puppys Aufnahmefilme zu „We Like It Here\" veränderten, wie Menschen Bands filmen, indem sie das Publikum ins Studio holten. Kamasi Washingtons „Truth\" und „Street Fighter Mas\" funktionieren sowohl als Konzertfilm als auch als visueller Essay, während die Dokumentationstradition von Jazz at Lincoln Center unter Wynton Marsalis den institutionellen Kanon trägt. Christian Scott aTunde Adjuahs Langform-Performance-Stücke erweitern die Form. Der gemeinsame Instinkt: vertraue den Musikerinnen und Musikern. Die Musik braucht keine Hilfe."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Bauen Sie den Raum vor der Band. „Kellerclub, niedrige Decke, Ziegelwand hinter der Bühne, zwei Tischkerzen, ein Spotlight auf dem Klavier\" gibt Tunee die richtige Grundlage. Geben Sie dann an, wem zu folgen ist: „Kamera hält die Trompete während des Solos, zieht am Ende der Phrase auf den Schlagzeuger nach\". Verlangen Sie lange Takes und widerstehen Sie dem Drang, bei jedem Wechsel zu schneiden. Schwarzweiß-Prompts funktionieren besonders gut — Tunee bewältigt tonale Bereiche bei schwachem Licht besser als komplexe Farbe."
+      }
+    ]
+  }
 }

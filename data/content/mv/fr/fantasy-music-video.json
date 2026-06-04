@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale fantasy à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale fantasy en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU CLIP FANTASY",
+    "h2": "Un clip fantasy qui mérite la comparaison avec LOTR",
+    "sections": [
+      {
+        "heading": "Ce qu'exige le fantasy",
+        "body": "La vidéo fantasy vit ou meurt par le paysage et l'échelle. The Lord of the Rings a vendu son monde avec un seul plan large — la Communauté marchant en file indienne sur une crête, écrasée par la montagne. La règle : chaque plan d'établissement a besoin d'une figure humaine pour l'échelle, et l'environnement doit assumer la majeure partie de la narration. Profondeur de matte painting peint, perspective atmosphérique fondant vers un bleu brumeux, matériaux de costume naturalistes (laine, cuir, métal martelé, pas d'armure en plastique). Si l'échelle est mauvaise, ça se lit comme du cosplay."
+      },
+      {
+        "heading": "D'où vient ce regard",
+        "body": "Canon visuel : la trilogie LOTR de Peter Jackson avec le concept art de John Howe et Alan Lee, Pan's Labyrinth de Guillermo del Toro pour un éclairage de conte sombre, Game of Thrones de HBO (les premières saisons avant la précipitation), The Witcher 3 de CD Projekt Red adapté d'Andrzej Sapkowski, The Fall de Tarsem Singh pour la couleur saturée, Princess Mononoke de Hayao Miyazaki pour le côté pictural, les couvertures Conan de Frank Frazetta pour le côté plus heavy metal. Côté clip musical : « Hunger » de Florence + the Machine réalisé par AG Rojas. Le modèle fantasy de Tunee traite ces références comme des dialectes distincts — « matte painting style Howe » contre « guerrier en contre-plongée façon Frazetta » contre « esprit de la forêt style Ghibli » donnent des sorties clairement différentes."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Incluez toujours une figure humaine pour l'échelle, même dans les prompts centrés paysage : « cavalier solitaire sur une crête, fond de montagne, perspective atmosphérique ». Spécifiez le moment de la journée avec une direction cardinale : « heure dorée, soleil depuis la droite caméra, longues ombres tirant vers la gauche ». La spécificité des matériaux compte — « cuir huilé, acier brossé, laine non teinte » bat « vêtements médiévaux ». Évitez « épique » comme adjectif ; décrivez plutôt la relation d'échelle (« la figure occupe le dixième inférieur du cadre »)."
+      }
+    ]
+  }
 }

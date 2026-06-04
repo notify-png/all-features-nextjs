@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees EDM-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du EDM-Musikvideos von jedem Gerät aus erstellen kannst – ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER EDM",
+    "h2": "EDM-MVs sind Festival-Kino — die Crowd ist der Co-Star",
+    "sections": [
+      {
+        "heading": "Wie EDM aussieht",
+        "body": "Das EDM-Video teilt sich in zwei klare Modi: den Festival-Aftermovie (das Format, das Tomorrowlands jährlicher Rückblick perfektioniert hat) und das narrative Single-Video. Aftermovie-Konventionen: Drohne über der Menge, Nahaufnahmen von CO2-Kanonen, Spiegelungen der LED-Wand in erhobenen Händen, Konfetti in Zeitlupe, Zeitraffer des Bühnenaufbaus, Übergänge von der Dämmerung in die Nacht. Das narrative Format borgt sich vom Pop-Video, kehrt aber beim Drop stets zu einer Bühnen- oder Crowd-Aufnahme zurück. Die Farbe ist hypergesättigt, der Kontrast hochgezogen, und der Schnitt ist an die BPM gekoppelt."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Referenzpunkte: Die offiziellen Aftermovies von Tomorrowland (die formgebende Vorlage), die Jahresrückblicke von Ultra Miami und EDC Las Vegas, Martin Garrix' „Animals\", Calvin Harris und Disclosures „How Deep Is Your Love\", Aviciis „Wake Me Up\" und „Levels\", die Group-Therapy-Filme von Above & Beyond, Swedish House Mafias „Don't You Worry Child\" und die Dokumentationen der holografischen HOLO-Show von Eric Prydz. Regisseur Charly Friedrichs (dessen Arbeit einen Großteil der Tomorrowland-Ästhetik prägt) sowie das Bühnenbild-Team von V Squared Labs definieren den visuellen Maßstab. Tunees EDM-Modell kennt den Unterschied zwischen Festival-Rückblick-Pacing und Single-Video-Narrativ-Pacing."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Wähle zuerst den Modus — Festival oder narrativ —, denn die visuelle Grammatik divergiert. Für Festival: nenne den Bühnentyp (Mainstage-Pyramide, Forest Stage, intimer Club), die Tageszeit (Dämmerungs-Drops treffen am härtesten) und ein Pyro-Element (CO2, Flamme, Konfetti). Für narrativ: behandle es wie ein Pop-Video mit EDM-codierter Farbe und BPM-gebundenen Schnitten. Vermische die beiden nicht in einem einzigen Prompt."
+      }
+    ]
+  }
 }

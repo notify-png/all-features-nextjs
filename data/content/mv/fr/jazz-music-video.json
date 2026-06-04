@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale Jazz ?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il suffit d'entrer vos paroles, de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéo musicale Jazz."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU JAZZ",
+    "h2": "Le jazz à l'écran demande à la caméra d'écouter d'abord",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le jazz",
+        "body": "Les clips jazz sont souvent tournés en noir et blanc non par nostalgie mais parce que la couleur entre en concurrence avec la musique. La caméra a tendance à trouver un musicien à la fois — le saxophoniste en plein solo, la main gauche du contrebassiste qui marche — et à y rester. Fumée, plafonds bas, l'arrière d'une salle pleine. Quand la couleur apparaît, c'est un tungstène ambré sur du bois sombre. Le public est généralement visible mais jamais le sujet. Le mouvement est patient, souvent un seul dolly lent à travers la scène."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Les coupes live de Robert Glasper au Blue Note et sa session NPR Tiny Desk posent la barre moderne pour la captation jazz intime. « Black Gold » d'Esperanza Spalding équilibre composition et personnage. Les films d'enregistrement « We Like It Here » de Snarky Puppy ont changé la façon de filmer les groupes en mettant le public à l'intérieur du studio. « Truth » et « Street Fighter Mas » de Kamasi Washington fonctionnent à la fois comme film de concert et essai visuel, tandis que la tradition documentaire du Jazz at Lincoln Center sous Wynton Marsalis porte le canon institutionnel. Les pièces de performance longue durée de Christian Scott aTunde Adjuah étendent la forme. L'instinct partagé : faire confiance aux musiciens. La musique n'a pas besoin d'aide."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Construisez la salle avant le groupe. « Club en sous-sol, plafond bas, mur de briques derrière la scène, deux bougies sur les tables, un spot sur le piano » donne à Tunee la bonne base. Spécifiez ensuite quoi suivre : « la caméra tient la trompette pendant le solo, racks focus vers le batteur à la fin de la phrase ». Demandez des plans longs et résistez à l'envie de couper à chaque changement. Les prompts noir et blanc fonctionnent particulièrement bien — Tunee gère mieux la gamme tonale qu'une couleur complexe en basse lumière."
+      }
+    ]
+  }
 }

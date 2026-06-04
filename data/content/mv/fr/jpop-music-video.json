@@ -39,5 +39,23 @@
       "q": "Supporte-t-il l'exportation de vidéos musicales J-pop en résolution 4K?",
       "a": "Absolument. Tunee exporte les vidéos musicales J-pop jusqu'en résolution 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE LA J-POP",
+    "h2": "Le clip J-pop se déplace à la vitesse de l'attention elle-même",
+    "sections": [
+      {
+        "heading": "À quoi ressemble la J-pop",
+        "body": "Le rythme du clip J-pop est plus rapide que presque n'importe quel équivalent pop occidental — durée moyenne de plan de trois secondes, parfois moins. Les décors sont graphiques et codés par section, changeant souvent complètement entre couplet et refrain. La chorégraphie est précise mais expressive, pas militaire comme en K-pop. L'influence de l'anime apparaît dans le cadrage : speed lines, impact frames, zooms soudains sur un seul œil. La garde-robe penche soit vers le streetwear codé, soit vers un stylisme théâtral, rarement entre les deux."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Idol » de Yoasobi (ouverture d'Oshi no Ko) montre le pic actuel — coupes rapides, tie-in anime, blocs de scène codés par couleur. « Kaiju no Hanauta » de Vaundy prouve qu'un seul interprète dans des environnements changeants peut tout porter. « Usseewa » d'Ado et les visuels de One Piece Film: Red se penchent entièrement vers l'animation. « Hakujitsu » de King Gnu utilise une palette atténuée et un slow burn pour casser les règles. La filiation lyric-video d'Eve avec le réalisateur Tomohito Tatemiya (générique de Mahoutsukai no Yome), « Inferno » de Mrs. GREEN APPLE et « Pretender » d'Official HIGE DANdism complètent l'ensemble de références moderne. Le réalisateur Hideto Yamada et l'équipe visuelle de Yoasobi ancrent la précision — chaque image composée, jamais accidentelle."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Bloquez la chanson en sections avant de prompter. Le couplet un peut être une chambre pastel ; le pré-refrain un couloir en bleu froid ; le refrain un plateau rouge saturé avec toute la troupe de danse. Dites à Tunee de changer de palette à chaque rupture de section. Spécifiez la durée des plans : « coupes de deux secondes pendant tout le refrain, tenez le pont pendant six ». Ajoutez un élément de grammaire anime par refrain — un gros plan soudain sur les mains, un arrêt sur image, un screen-shake. Le genre récompense l'ambition visuelle."
+      }
+    ]
+  }
 }

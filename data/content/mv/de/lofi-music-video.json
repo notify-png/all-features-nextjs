@@ -39,5 +39,23 @@
       "q": "Funktioniert Tuneees Lo-fi-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du Lo-fi-Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER LO-FI",
+    "h2": "Lo-Fi-Video ist ein Zimmer, in dem du lernen möchtest",
+    "sections": [
+      {
+        "heading": "Wie Lo-Fi aussieht",
+        "body": "Lo-Fi-Visuals sind die Umkehrung der Musikvideo-Tradition: keine Performerin, keine Erzählung, keine Schnitte. Eine einzelne, geloopte Szene — meist ein animiertes Zimmer, ein Schreibtisch, ein Fenster mit Regen — läuft stundenlang hinter der Musik. Die Farbpalette ist gedämpft: warmes Beige, staubiges Blau, weiches Rosa in der Dämmerung. Die Figur, falls vorhanden, ist im Stil des späten Studio Ghibli der 90er mit einem Anflug moderner japanischer Illustration animiert. Die Bewegung ist minimal: ein Schwanzwedeln, Dampf aus einer Tasse, eine umblätternde Seite."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Der Lofi-Girl-YouTube-Stream — animiert von Juan Pablo Machado, dessen am Schreibtisch sitzende Studentin und das Fenster mit Pariser Skyline zum Anker des Formats wurden — bleibt die visuelle Vorlage. Die früheren Loops von ChilledCow, die „Twilight\"-Ästhetik von Idealism und die Anime-Vibe-Sammlung auf YouTube vervollständigen den Kanon. Die Hintergründe von Studio Ghibli, insbesondere die Lernszenen in Hayao Miyazakis „Stimme des Herzens\" und die Badehaus-Räume aus „Chihiros Reise ins Zauberland\", sind die unausgesprochene Quelle. Joe Hisaishis ruhiges Klavier-Pacing passt sauber zum Tempo des Genres. Die Regel: Nichts soll die Aufmerksamkeit der Hörerin oder des Hörers jemals von ihrer eigentlichen Aufgabe abziehen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Gestalten Sie für Dauerhaftigkeit, nicht für Progression. Prompten Sie Tunee für eine Szene mit drei oder vier kleinen Bewegungs-Loops — Regen am Fenster, Dampf, der aus dem Kaffee aufsteigt, eine atmende Katze, ein sich drehender Ventilator. Geben Sie die Tageszeit an und lassen Sie sie stehen: „später Nachmittag, goldenes Licht von links, Lampe an\". Vermeiden Sie Kamerafahrten vollständig. Der ganze Sinn ist, dass die Betrachterin oder der Betrachter vergisst, dass das Video existiert. Streben Sie visuelle Stille an, und ergänzen Sie dann ein winziges Detail, das einen zweiten Blick belohnt."
+      }
+    ]
+  }
 }

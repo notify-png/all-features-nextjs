@@ -39,5 +39,23 @@
       "q": "Tunee 的 Hip Hop 音樂視頻生成器在行動設備上可用嗎？",
       "a": "Tunee 完全可通過桌面和行動設備上的網頁瀏覽器訪問，因此您可以從任何設備創建 Hip Hop 音樂視頻，無需安裝軟件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 HIP HOP",
+    "h2": "Hip hop MV 把一整座城市扛在肩上",
+    "sections": [
+      {
+        "heading": "Hip hop 該有的樣子",
+        "body": "Hip hop MV 編織兩條線：一條是表演——通常是 rapper 對鏡頭咬字對嘴，常配上強烈的低角度——另一條是孕育這首歌的世界。那個世界必須具體。Compton、Houston、Toronto、Brooklyn 各有獨特的視覺簽名，最好的 MV 從不來自無名之地。服裝必須是本月的潮流，而非本年的。車要對。Crew 要對。剪接要落在押韻上，而不是只跟著 beat。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "Kendrick Lamar 的「HUMBLE.」與「Alright」（皆由 Dave Meyers 與 the little homies 執導）是當代「表演加社會份量」的教科書。Travis Scott 的「SICKO MODE」與「HIGHEST IN THE ROOM」（又是 Dave Meyers）展示了超現實規模卻不丟掉 rap 為主軸。Hiro Murai 與 Donald Glover 合作的「This Is America」、「Sober」以及 FKA Twigs 的作品拉高了敘事 MV 的標準。J. Cole 的「MIDDLE CHILD」保持對話感；Drake 的「Hotline Bling」由 Director X 執導，極簡到改寫了規則。Cole Bennett 為 Juice WRLD 與 Eminem 操刀的 Lyrical Lemonade 視覺延續了血脈，再加上 Hype Williams 的魚眼時代與 Spike Jonze 的 Beastie Boys 作品作為基本法。"
+      },
+      {
+        "heading": "Tunee 的提示詞建議",
+        "body": "給 Tunee 一個具體街區，而不是泛泛的城市。「South Memphis 傍晚的門廊、兩個朋友、藍色暮光」永遠比「都市街景」管用。鎖定一件招牌服飾——鏈子、連帽衫、帽子——讓它出現在每個鏡頭，藝術家才會看起來連貫。沿用主歌—副歌結構：唱 bar 時用緊密的表演鏡頭，副歌時切 B-roll 生活畫面。剪在子音上，而不是 kick 上。"
+      }
+    ]
+  }
 }

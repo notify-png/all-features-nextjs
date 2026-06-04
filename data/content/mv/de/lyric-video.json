@@ -39,5 +39,23 @@
       "q": "Does Tunee's Lyric Video music video generator work on mobile devices?",
       "a": "Tunee is fully accessible via web browser on both desktop and mobile, so you can create Lyric Video music videos from any device without installing software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER LYRIC-VIDEOS",
+    "h2": "Lyric-Videos verdienen ihren Platz, wenn die Typografie die Show ist",
+    "sections": [
+      {
+        "heading": "Was ein echtes Lyric-Video ist",
+        "body": "Das Lyric-Video war früher die billige Option, die Labels zuerst veröffentlichten, während das „echte\" MV in der Postproduktion fertig wurde. Das stimmt nicht mehr — Bob Dylans Subterranean Homesick Blues (1965) war das ursprüngliche kinetische Text-Video, und moderne Lyric-Videos von Taylor Swift, Olivia Rodrigo und der Genius-Vertical sind zu primären Releases geworden. Die Disziplin des Formats ist die Schrift: Kerning, Strichstärke, Übergangs-Timing für jedes Wort, Typografie-als-Bild, in der das Wort zum Bild wird. Alles darunter ist ein Karaoke-Bildschirm."
+      },
+      {
+        "heading": "Wann man es einsetzt",
+        "body": "Lyric-Video ist das richtige Format, wenn der Text den Song trägt (Singer-Songwriter mit erzählerischem Anspruch, Rap mit dichtem Wortspiel, Pop-Hooks, die auf Phrasierung aufgebaut sind), wenn die Künstlerin oder der Künstler sich nicht selbst filmt (Debüt-Releases, anonyme Projekte), wenn das Ziel Mitsing-Viralität auf TikTok ist, oder als Day-1-Release, während ein narratives MV fertiggestellt wird. Kanon-Beispiele: D.A. Pennebakers Karten-Drop zu Bob Dylans Subterranean Homesick Blues (1965), die Lyric-Overlay-Tradition zu Bruce Gowers' Queen Bohemian Rhapsody, Meghan Trainors „All About That Bass\" unter der Regie von Fatima Robinson, Ariana Grandes BBNG-animiertes „Confessions\", die Wort-für-Wort-Animator-Arbeit von Ian Sherman. Genius' Vertical-Lyric-Content hat eine ganze Generation darauf trainiert, eine Wort-für-Wort visuelle Betonung zu erwarten. Vor allem Hip-Hop profitiert — das Bild macht dichte Bars beim ersten Hören lesbar."
+      },
+      {
+        "heading": "Tunee-Prompting-Tipp",
+        "body": "Wählen Sie pro Video ein einziges typografisches System: eine Schriftart, zwei Strichstärken, eine Akzentfarbe. „Helvetica Neue Bold, weiß auf Schwarz, ein einzelner Magenta-Akzent für Hook-Wörter\". Geben Sie die Bewegungssprache an: „Wörter erscheinen Wort für Wort auf Silbe, blenden bei der nächsten Phrase aus\" gegenüber „ganze Zeilen schieben von links nach rechts hinein\". Verweisen Sie auf eine Regisseurin oder einen Regisseur, wenn Sie eine bzw. einen haben: „Kyle-Cooper-Title-Sequence-Energie\" oder „David-Carson-Collage-Layout\". Vermeiden Sie generischen „animierten Text\" — Typografie-Regie ist hier das gesamte Handwerk."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Fitness-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Fitness-Musikvideos mit verschiedenen Prompts oder Stil-Einstellungen generieren und dann die Version wählen, die deiner Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS FITNESS-MV",
+    "h2": "Ein Transformationsvideo, das nicht wie eine Bowflex-Werbung aussieht",
+    "sections": [
+      {
+        "heading": "Warum es sich lohnt, Fitness-MVs richtig zu machen",
+        "body": "Die Vorher/Nachher-Diashow ist tot — das Format wurde auf TikTok so stark ausgereizt, dass das Publikum sofort vorbeiscrollt. Was weiterhin funktioniert, ist das Trainingsprozess-MV: 60 Sekunden, vertont mit einem Track hoher BPM, gewichtet zugunsten des täglichen Schleifens statt der Enthüllung. Fitnessstudio-Betreiber nutzen sie für Mitglieder-Porträts, Coaches für Klienten-Rückblicke, und Einzelpersonen als persönliche Marker eines zwölfwöchigen Blocks, der mehr wert ist als ein Foto auf der Waage."
+      },
+      {
+        "heading": "Die Aufnahmen, die immer funktionieren",
+        "body": "Sport-Kameraleute kennen den Kanon: Nahaufnahme von kreidehändigen Griffen, die Biegung der Hantel bei einem schweren Satz, das Ausatmen mit dem Handtuch über dem Gesicht, die weite Morgenaufnahme des leeren Studios, der Blick auf die Uhr zwischen den Sätzen. Die Blaupause ist die Trainingsmontage aus John G. Avildsens Rocky (1976) — Bill Contis Gonna Fly Now als Sync-Schnitt auf Treppen und Rinderhälften. Nikes Wieden+Kennedy-Kampagnen (Find Your Greatness, Dream Crazy mit Colin Kaepernick) definierten den modernen Look. Adidas' All In, Reeboks Berichterstattung der CrossFit Games, das David-Goggins-Voiceover-Format auf Instagram, Steven Soderberghs Trainingsszenen aus Magic Mike. Das Color-Grade ist entsättigt mit zerdrückten Schwarzwerten und einem Akzent — rote Hantelscheiben, ein Neon-EXIT-Schild, Sonnenaufgang durch ein Fenster. Geben Sie diese Palette plus ein Track-Tempo an, und der Schnitt synchronisiert sich von selbst zu den Hüben."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Verlangen Sie nicht „motivierende Gym-Shots\" — das ergibt Stockmaterial. Benennen Sie stattdessen die Übung (Deadlift, Clean, Push-Press), die Tageszeit und die Ausrüstung konkret. „Leeres Garagen-Gym um 5 Uhr morgens, eine einzelne Hantel beladen mit rostigen Scheiben, entsättigtes Grading, eine warme Wolfram-Lampe von oben\" landet dort, wo ein echter DP die Kamera aufstellen würde."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Familienmusik-Videogenerator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über einen Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie von jedem Gerät aus Familienmusik-Videos erstellen können – ohne Software-Installation."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS FAMILIEN-MV",
+    "h2": "Das Familienvideo, das mehr als einmal angesehen wird",
+    "sections": [
+      {
+        "heading": "Warum ein Familien-MV seinen Platz verdient",
+        "body": "Die meisten Familienvideos sterben im Cloud-Speicher. Das Material vom Familientreffen ist zu lang, die Feiertagsdiashow zu beliebig, und der Zusammenschnitt vom Aufwachsen der Kinder liegt irgendwo auf einer alten Festplatte. Ein vertontes MV von 60-90 Sekunden ist das Format, das Verwandte tatsächlich zu Ende ansehen — kurz genug, um es im Familienchat zu teilen, strukturiert genug, um absichtsvoll zu wirken, und lang genug, um drei Generationen in ein anschaubares Artefakt zu packen."
+      },
+      {
+        "heading": "Die Aufnahmen, die immer funktionieren",
+        "body": "Familien-Dokumentarfotografen filmen denselben Kanon: das spontane Bild an der Küchentheke, wo alle gleichzeitig reden, die Aufnahme von Großeltern mit Enkelkind auf dem Schoß, das weite Gruppenfoto auf der Veranda, bei dem immer jemand blinzelt, die Nahaufnahme der Hände, die einen Teller weiterreichen, die Bewegungsunschärfe beim Spiel im Garten. Norman Rockwells Saturday-Evening-Post-Cover (Thanksgivings „Freedom from Want\", 1943) schrieben die Grammatik des mehrgenerationalen Esstischs. Pete Docters Pixar-Eröffnungsmontage zu UP komprimierte eine ganze Ehe in vier Minuten bewegter Standbilder. Die Coca-Cola-„Hilltop\"-Kampagne aus der Bill-Backer-Ära und die sitzende Sprache von Norman Lears All in the Family setzen diese Linie fort. Erwähnen Sie drei Generationen in Ihrem Prompt — Tunee strukturiert den Schnitt so, dass er zwischen ihnen wechselt, statt bei einem einzelnen Subjekt zu verharren."
+      },
+      {
+        "heading": "Machen Sie es zum Geschenk",
+        "body": "Schicken Sie es in der Woche nach einem Treffen, nicht am selben Tag — dann ist der Rausch verflogen und das MV leistet seine eigentliche Arbeit. Tunee rendert quadratisch für den Familien-Gruppenchat, im Breitbildformat für die nächste Feiertagswiedergabe am Fernseher und vertikal für die Stories der jüngeren Verwandten aus einer einzigen Generierung."
+      }
+    ]
+  }
 }

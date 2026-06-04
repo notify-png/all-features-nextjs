@@ -39,5 +39,23 @@
       "q": "Funktioniert es mit jeder Musikrichtung oder nur Halloween?",
       "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Halloween hinaus. Du kannst Musikvideos für Pop, Hip-Hop, Klassik und Dutzende weiterer Stile mit der gleichen Plattform generieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS HALLOWEEN-MV",
+    "h2": "Ein Halloween-Video, das sich seinen Schrecken verdient, statt ihn zu borgen",
+    "sections": [
+      {
+        "heading": "Warum Halloween-MVs funktionieren",
+        "body": "Halloween ist der seltene Feiertag, bei dem ein Musikvideo Teil des Kanons ist — Thriller definiert das Genre auch 40 Jahre später noch. Das Format belohnt Aufwand: Kostümpartys, Spukhaus-Rundgänge, Kürbisfelder und Trick-or-Treat-Runden profitieren alle mehr von einem vertonten Schnitt als von einem rohen Clip. Der Post am 31. Oktober tritt gegen Tausende andere an, also schlägt ein 60-Sekunden-MV mit kohärentem visuellen Roten Faden eine Foto-Sammlung aus dem Handy."
+      },
+      {
+        "heading": "Die Aufnahmen, die immer funktionieren",
+        "body": "Horror-Kameraleute setzen auf einen stabilen Werkzeugkasten: Untersicht der Veranda mit Kürbislaternen-Glühen, kerzenbeleuchtete Innenräume mit harten Schatten, Nebel durch kahle Bäume, langsame Dolly-Fahrt auf eine Maske zu, die Schulteraufnahme aus dem Flur. Der Kanon ist nicht zu übersehen — John Landis führte Regie bei Michael Jacksons Thriller (1983), nach wie vor die Referenz des Genres, dazu Henry Selick und Tim Burtons The Nightmare Before Christmas, die Eröffnungen aus Wes Cravens Scream, Ari Asters Hereditary-Küche, die Steadicam-Verfolgung in John Carpenters Halloween (1978), die Sunken-Place-Beleuchtung in Jordan Peeles Get Out. Das Color-Grade ist Teal-und-Orange für kinderfreundlich, entsättigt mit Grünstich für echten Horror. Geben Sie an, welche Stufe Sie wollen — Kostümparty-Spaß oder echte Gänsehaut —, und das visuelle Register rastet ein."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Der Fehler ist die Anfrage nach „gruseliger Halloween-Szene\" — zu vage, man bekommt generische Kürbisse. Benennen Sie stattdessen eine konkrete Horror-Referenz (Sinister-Opening, It-Follows-Pool-Szene, Hereditary-Küche) und ein Kostüm, das spezifisch zu Ihrem Dreh passt. Tunees Modell besitzt die visuelle Grammatik des Genres; geben Sie ihm ein Briefing im Stil eines Regisseurs, und es liefert Bilder zurück, die das Posten wert sind."
+      }
+    ]
+  }
 }

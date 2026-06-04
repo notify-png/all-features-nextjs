@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees House-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie House-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER HOUSE",
+    "h2": "House-Videos übersetzen die Tanzfläche, ohne sie zu verlassen",
+    "sections": [
+      {
+        "heading": "Wie House aussieht",
+        "body": "House spielt sich die meiste Nacht in einer einzigen Umgebung ab: dem Club, dem Lagerhaus, dem Festivalzelt. Gute House-Videos ehren das. Die Kamera ist oft mitten in der Menge, die Linse auf Schulterhöhe, das Licht von oben übernimmt die Kameraarbeit. Stroboskope, Laser, Nebel, Schweiß. Der DJ erscheint selten länger als ein paar Sekunden — es geht um den Raum, nicht um die Figur. Die Farbe tendiert zu Magenta-Cyan-Amber-Washes, mit gelegentlichem reinweißem Überstrahlen auf einem Drop."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Daft Punks „Around the World\" unter der Regie von Michel Gondry bleibt der Goldstandard für House als Choreografie. Disclosures „Latch\" mit Sam Smith (Regie: Bo Mirosseni) baute die moderne Vorlage gekoppelter Körper; die größeren Kollaborationen des Duos mit Stink Studios prägten dessen visuelle Identität. Fred again..s Boiler-Room-Schnitte bewiesen, dass eine Kamera und eine echte Menge jeden Set-Aufbau schlagen. Honey Dijons Live-Aufnahmen, Peggy Gous „Nanga Eboko\", Archivmaterial von Frankie Knuckles und Romys Solovideos zeigen die visuelle Bandbreite. Der rote Faden ist Ehrlichkeit — House-Videos, die so tun, als wären sie etwas anderes als ein Raum mit Musik darin, wirken innerhalb eines Jahres peinlich."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Behandeln Sie das Lichtsystem als Charakter. Prompten Sie Tunee mit konkreten Scheinwerfern: „Par-Cans über dem Publikum in Magenta, zwei Moving Heads, die Cyan über die hintere Wand fegen, Dunst dicht genug, dass die Strahlen sichtbar sind\". Körper sollten nur teilweise zu sehen sein — eine erhobene Hand, ein Hinterkopf, ein Profil gegen ein Stroboskop —, fast nie ganzflächig. Timen Sie die Kamera auf den Build, den Breakdown, den Drop. House-Videos sterben, wenn sie den Breakdown wie eine Strophe behandeln."
+      }
+    ]
+  }
 }

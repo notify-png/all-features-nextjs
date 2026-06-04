@@ -39,5 +39,23 @@
       "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou seulement la musique latine ?",
       "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà de la musique latine. Vous pouvez générer des vidéos musicales pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU LATIN",
+    "h2": "Le clip latin porte mode, géographie et rythme à poids égal",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le latin",
+        "body": "Les clips latin brouillent l'énergie club du reggaeton avec le drame du flamenco et les tournages en plein air de la pop régionale mexicaine. La garde-robe est le canal le plus bruyant — haute couture mêlée au streetwear, détails dorés, points de repère culturels portés délibérément. Les décors oscillent entre paysages côtiers, toits urbains et paysages oniriques construits. La caméra reste rarement immobile ; elle tourne, fait des grues, balance. Les coupes suivent la percussion, ce qui signifie des coupes serrées sur le rythme dembow et des souffles retenus pendant les moments mélodiques."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Tití Me Preguntó » de Bad Bunny, réalisé par son collaborateur de longue date Stillz, montre comment mêler la réalité des quartiers portoricains avec la finition du film de mode. « Saoko » de Rosalía et l'ère Motomami au sens large est une masterclass de mise en scène dépouillée — murs blancs, motos, engagement total dans le concept. « PROVENZA » de Karol G a défini une palette pop latin plus douce, à l'heure dorée, tandis que « Ella Baila Sola » de Peso Pluma a porté le regional mexicano dans le cadre mondial. Maluma, Feid et les crossovers réalisés par Colin Tilley portent le genre dans différentes voies. La règle partagée : la culture apparaît comme décor, jamais comme costume."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Ancrez-vous dans un lieu réel avant toute autre chose. « Toit à San Juan au coucher du soleil, palmiers visibles, océan au loin » donne à Tunee une fondation sur laquelle la mode et la chorégraphie peuvent se poser. Spécifiez les détails de garde-robe — « chaînes en or, débardeur blanc, pantalon de lin ample » — au même niveau de détail que le lieu. Coupez serré sur le dembow dans les refrains, puis laissez un long plan tourner pendant un couplet pour le contraste. Le genre récompense à la fois la densité et le souffle."
+      }
+    ]
+  }
 }

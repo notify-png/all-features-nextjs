@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees kostenloser MV-Generator-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobil zugänglich, sodass Sie kostenlose MV-Generator-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ERSTE SCHRITTE",
+    "h2": "Was „kostenloser Musikvideo-Generator\" mit Tunee tatsächlich bedeutet",
+    "sections": [
+      {
+        "heading": "„Kostenlos\" heißt hier ausprobieren-bevor-Sie-kaufen, nicht beschnitten",
+        "body": "Die kostenlosen MV-Generatoren, die bei einer Google-Suche auftauchen, fallen meist in zwei Lager: testgesperrte Ausgaben, die jedes Frame mit einem Wasserzeichen versehen, oder „kostenlose\" Tools, die bei der Anmeldung eine Kreditkarte verlangen. Tunee ist die dritte Option — vollständige Musikvideos in Standardqualität generieren, ohne zu bezahlen, Vorschau ohne Wasserzeichen, keine hinterlegte Karte. Die kostenpflichtigen Stufen existieren für höhere Auflösung (4K), längere Laufzeiten und schnellere Queue-Priorität. Die Ästhetik, der KI-Regisseur und der Storyboard-Agent sind vom ersten Tag an dieselben."
+      },
+      {
+        "heading": "Was hier unter „ein Musikvideo\" zu verstehen ist",
+        "body": "Wenn Tunee Ihnen ein kostenloses MV liefert, ist die Lieferung kein Platzhalter. Sie bekommen ein audio-synchrones Video mit Schnittpunkten auf echten Beats, mit Szenen-Kohärenz — einer Figur, die über die Aufnahmen hinweg konsistent bleibt, nicht eine Diashow zusammenhangloser Bilder — und mit einem Seitenverhältnis Ihrer Wahl: 9:16 für TikTok, 16:9 für YouTube, 1:1 für Instagram. Derselbe Upload, drei Renderings, keine zusätzlichen Credits. Die meisten „kostenlosen Generatoren\" sind ein-Format-oder-zahlen; das hier ist es nicht."
+      },
+      {
+        "heading": "Was eigentlich hinter dem Knopf steckt",
+        "body": "Vier KI-Agenten koordinieren sich unter der Haube: der Audio-Analyst markiert Tempo, Tonart und emotionale Kontur; die Visual-Designerin Nova entwirft Charaktere und Szenen-Platten; der Story-Director Sage schneidet diese Platten in eine getaktete Shot-List; der Renderer produziert das finale Video. Der kostenlose Tarif lässt alle vier laufen — was Sie nicht bekommen, sind die Priority-Queue und der Upscaler. Für Entwürfe, Vergleiche und die Frage „lohnt es sich, diese Idee zu verfolgen?\" reicht das mehr als aus."
+      }
+    ]
+  }
 }

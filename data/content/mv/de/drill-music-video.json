@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Drill-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du Drill-Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DRILL",
+    "h2": "Drill-MVs folgen einem strengen visuellen Code, geboren auf der Straße",
+    "sections": [
+      {
+        "heading": "Wie Drill aussieht",
+        "body": "Drill-Video besitzt die am stärksten kodifizierte Bildsprache im zeitgenössischen Rap, und der Code zählt, weil das Publikum ihn genau liest. Die Konventionen: Anonymität durch Balaclava und Skimaske, Gruppenkompositionen (selten Soloaufnahmen), nächtliche Außenaufnahmen unter Straßenlampen, eine flache Handkamera auf Brusthöhe, dunkles Color-Grading mit zerdrückten Schatten und die spezifische UK-Drill-Konvention der Lyrics-on-Screen-Typografie. Autos sind präsent, aber nie im Fokus — die Crew ist das Subjekt."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Referenzen nach Szene: Chicago-Drill begründete den Look mit Chief Keefs „I Don't Like\" und den frühen Def-Jam-Visuals von Lil Durk; Brooklyn-Drill über Pop Smokes „Welcome to the Party\", „Dior\" und das posthume „For the Night\" mit Lil Baby (Produzent 808Melo formte den Sound); UK-Drill über Headie One, Central Cees „Doja\" und Digga Ds „Woi\". Die Regisseure KENNY (Kenrick Bowes), Carns Hill, das Inhouse-Team von GRM Daily und der verstorbene Ginsberg5 definieren die visuelle Handschrift. Maskierte Gruppenaufnahmen in schwach beleuchteten Estates sind keine stilistische Wahl — sie sind strukturell."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Seien Sie bei der Region konkret — Chicago, Brooklyn und UK-Drill haben unterschiedliche visuelle Konventionen. UK-Drill-Prompts sollten „Estate bei Nacht, Balaclavas, flache Handkamera, Lyrics-Overlay\" benennen; Brooklyn-Drill tendiert zum Kinematografischeren, mit weiteren Objektiven und Steadicam auf Straßenebene. Tunees Drill-Modell beherrscht beides; der Prompt muss sich für eine Variante entscheiden."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funktioniert es mit jedem Musikgenre oder nur mit Funk?",
       "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Funk hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und Dutzende andere Stile mit derselben Plattform generieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER FUNK",
+    "h2": "Funk vor der Kamera ist zuerst Choreografie, dann alles andere",
+    "sections": [
+      {
+        "heading": "Wie Funk aussieht",
+        "body": "Funk-Videos leben von einer engen Pocket und einer noch engeren Garderobe. Denken Sie an Schlaghosen, Satin, Pelzkragen, ganze Bands, die sich als eine Einheit bewegen. Die Farbe ist laut und bewusst: senfgelb auf gebranntem Orange, Magenta auf Limette. Der Bildausschnitt hält oft eine weitere Aufnahme als bei Pop-Videos, weil das Tanzen lesbar sein muss — man muss das Absenken der Hüfte des Bassisten und das Grinsen des Schlagzeugers in derselben Komposition sehen. Die Beleuchtung ist hart und gesättigt, nicht weich."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Bruno Mars und Anderson .Paak haben die moderne Funk-MV-Sprache gemeinsam aufgebaut — Silk Sonics „Leave the Door Open\", „Smokin Out the Window\" sowie Bruno Mars' „24K Magic\" und „Finesse\" (Regie: Florent Déchard und Bruno Mars). Vulfpecks reduzierte Studio-Drehs, Thundercats „Them Changes\" und Janelle Monáes „Make Me Feel\" beweisen, dass es mit einer einzigen, fixierten Kamera funktioniert, wenn die Band stimmt. Ältere Referenzen zählen weiterhin: die Bühnenschnitte von Earth, Wind & Fire, Princes „Kiss\", James Browns T.A.M.I.-Show-Aufnahmen, dazu Regisseur Hype Williams' Funk-nahe 90er-Arbeiten (Missy Elliotts „The Rain\"). Das verbindende Element sind ungeschnittene Takes und eine Choreografie, die einstudiert wirkt, aber nicht roboterhaft."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Geben Sie die Bandbesetzung vor dem visuellen Stil an. „Sechsköpfige Band in passenden cremefarbenen Anzügen, Bläser-Sektion Bühne links, Schlagzeuger Mitte, fixierte Totale\" gibt Tunee etwas, an dem der Groove hängen kann. Schichten Sie dann die Farbe als separaten Schritt darauf: „Wände in Schokoladenbraun, Akzentbeleuchtung in Hot Pink\". Vermeiden Sie die Bitte um „funky Vibes\" — das Genre ist zu konkret für vage Sprache. Benennen Sie die Ära, die Sie möchten: „1975 Soul Train\", „1985 Minneapolis\", „2024 Silk Sonic\"."
+      }
+    ]
+  }
 }

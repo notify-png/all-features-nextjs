@@ -39,5 +39,23 @@
       "q": "Le générateur de clips musicaux de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur Web sur les ordinateurs de bureau et mobiles, vous pouvez donc créer des clips musicaux à partir de n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "POUR COMMENCER",
+    "h2": "Ce que « générateur de clip musical gratuit » signifie vraiment avec Tunee",
+    "sections": [
+      {
+        "heading": "Gratuit ici, c'est essai-avant-achat, pas bridé",
+        "body": "Les générateurs de clips gratuits qui apparaissent dans une recherche Google tombent généralement dans deux camps : des sorties verrouillées en essai qui filigranent chaque image, ou des outils « gratuits » qui exigent une carte bancaire à l'inscription. Tunee est la troisième option — générez des clips musicaux complets en qualité standard sans payer, prévisualisation sans filigrane, aucune carte enregistrée. Les paliers payants existent pour la résolution supérieure (4K), les durées plus longues et la priorité de file d'attente. L'esthétique, le réalisateur IA et l'agent de storyboard sont les mêmes dès le premier jour."
+      },
+      {
+        "heading": "Ce qu'« un clip musical » inclut ici",
+        "body": "Quand Tunee vous livre un clip gratuit, le résultat n'est pas un placeholder. Vous obtenez une vidéo synchronisée à l'audio avec des points de coupe qui tombent sur les vrais beats, une cohérence au niveau des scènes — un personnage qui reste cohérent d'un plan à l'autre, pas un diaporama d'images sans rapport — et un ratio d'aspect au choix : 9:16 pour TikTok, 16:9 pour YouTube, 1:1 pour Instagram. Le même upload, trois rendus, sans crédits supplémentaires. La plupart des « générateurs gratuits » sont en un-format-ou-payez ; ce n'est pas le cas ici."
+      },
+      {
+        "heading": "Ce qu'il y a vraiment derrière le bouton",
+        "body": "Quatre agents IA se coordonnent sous le capot : l'analyste audio étiquette le tempo, la tonalité et le contour émotionnel ; la designeuse visuelle Nova ébauche les personnages et les plaques de scène ; le directeur d'histoire Sage découpe ces plaques en une shot list minutée ; le rendu produit la vidéo finale. Le palier gratuit fait tourner les quatre — ce que vous n'obtenez pas, c'est la file prioritaire et l'upscaler. Pour des brouillons, des comparaisons et pour répondre à « cette idée vaut-elle la peine d'être poursuivie ? », c'est largement suffisant."
+      }
+    ]
+  }
 }

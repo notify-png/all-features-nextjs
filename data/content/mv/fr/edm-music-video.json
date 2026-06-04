@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales EDM de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur desktop et mobile, vous pouvez donc créer des vidéos musicales EDM depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE L'EDM",
+    "h2": "Les clips EDM sont du cinéma de festival — la foule est la co-vedette",
+    "sections": [
+      {
+        "heading": "À quoi ressemble l'EDM",
+        "body": "La vidéo EDM se divise en deux modes clairs : l'aftermovie de festival (le format perfectionné par le récap annuel de Tomorrowland) et le clip narratif de single. Les conventions de l'aftermovie : drone au-dessus des foules, gros plans de canons à CO2, reflets de murs LED dans les mains levées, confettis au ralenti, time-lapse de l'installation de scène, transitions coucher-de-soleil-vers-nuit. Le format narratif emprunte au clip pop mais revient toujours au drop avec un plan de scène ou de foule. La couleur est hyper-saturée, le contraste est poussé, et le montage est verrouillé sur le BPM."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Références : les aftermovies officiels de Tomorrowland (le modèle qui a défini la forme), les récaps annuels d'Ultra Miami et de l'EDC Las Vegas, « Animals » de Martin Garrix, « How Deep Is Your Love » de Calvin Harris et Disclosure, « Wake Me Up » et « Levels » d'Avicii, les films Group Therapy d'Above & Beyond, « Don't You Worry Child » de Swedish House Mafia, et la documentation du show holographique HOLO d'Eric Prydz. Le réalisateur Charly Friedrichs (dont le travail façonne une grande partie de l'esthétique Tomorrowland) aux côtés de l'équipe de stage-design de V Squared Labs définissent la référence visuelle. Le modèle EDM de Tunee connaît la différence entre le rythme d'un récap de festival et celui d'un clip narratif de single."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Choisissez d'abord le mode — festival ou narratif — car la grammaire visuelle diverge. Pour le festival : nommez le type de scène (pyramide mainstage, scène forêt, club intime), le moment de la journée (les drops au crépuscule frappent le plus fort) et un élément pyrotechnique (CO2, flammes, confettis). Pour le narratif : traitez-le comme un clip pop avec une couleur codée EDM et des coupes verrouillées sur le BPM. Ne mélangez pas les deux dans un seul prompt."
+      }
+    ]
+  }
 }

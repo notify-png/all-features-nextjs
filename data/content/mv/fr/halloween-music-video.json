@@ -39,5 +39,23 @@
       "q": "Fonctionne-t-il avec n'importe quel genre de musique, ou uniquement Halloween?",
       "a": "Tunee supporte une large gamme de genres et de styles visuels au-delà de Halloween. Vous pouvez générer des vidéos musicales pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE CLIP D'HALLOWEEN",
+    "h2": "Un clip d'Halloween qui mérite ses frissons au lieu de les emprunter",
+    "sections": [
+      {
+        "heading": "Pourquoi les clips d'Halloween fonctionnent",
+        "body": "Halloween est la rare fête où le clip musical fait partie du canon — Thriller définit encore le genre 40 ans plus tard. Le format récompense l'effort : soirées costumées, parcours en maisons hantées, champs de citrouilles et tournées de trick-or-treat profitent tous d'un montage musical plus que d'un clip brut. La publication du 31 octobre va affronter des milliers d'autres, donc un clip de 60 secondes avec une ligne visuelle cohérente surperforme un dump de téléphone."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les chefs opérateurs d'horreur s'appuient sur une boîte à outils stable : plan en contre-plongée du perron avec lueur de citrouille-lanterne, intérieurs uniquement à la bougie avec ombres dures, brume entre les arbres dénudés, dolly lent vers un masque, plan d'épaule dans un couloir. Le canon est incontournable — John Landis a réalisé Thriller de Michael Jackson (1983), toujours la référence du genre, plus The Nightmare Before Christmas de Henry Selick et Tim Burton, les ouvertures de Scream de Wes Craven, la cuisine d'Hereditary d'Ari Aster, le stalk Steadicam d'Halloween (1978) de John Carpenter, l'éclairage du « sunken place » de Get Out de Jordan Peele. L'étalonnage est teal-and-orange pour le côté kid-friendly, désaturé avec un push vert pour la véritable horreur. Spécifiez le palier que vous voulez — fun de soirée costumée ou frisson authentique — et le registre visuel se verrouille."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "L'erreur, c'est de demander une « scène d'Halloween effrayante » — trop vague, vous obtenez des citrouilles génériques. Nommez plutôt une référence horror précise (l'ouverture de Sinister, la scène de la piscine de It Follows, la cuisine d'Hereditary) et un costume spécifique à votre tournage. Le modèle de Tunee possède la grammaire visuelle du genre ; donnez-lui un brief style réalisateur et il vous rend des images qui valent la peine d'être publiées."
+      }
+    ]
+  }
 }

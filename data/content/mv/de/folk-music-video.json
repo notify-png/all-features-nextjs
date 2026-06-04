@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Folk-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über den Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Folk-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER FOLK",
+    "h2": "Folk-Videos verdienen sich ihre Stille durch Zurückhaltung",
+    "sections": [
+      {
+        "heading": "Wie Folk aussieht",
+        "body": "Folk-Visuals tauschen Spektakel gegen Intimität. Die Kamera steht eher still oder driftet langsam — handgehalten, aber komponiert, nicht wackelig. Natürliches Licht erledigt den größten Teil der Arbeit: ein Küchenfenster zur goldenen Stunde, eine Veranda in der Dämmerung, eine Waldlichtung unter bedecktem Himmel. Die Garderobe besteht aus eingelebter Wolle und Denim, niemals aus Kostüm. Die Künstlerin oder der Künstler erscheint meist mitten in einer Tätigkeit — Kaffee eingießen, eine Gitarre stimmen, gehen — statt direkt in die Linse zu performen."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Bon Ivers „Holocene\" unter der Regie von Nabil Elderkin setzte die Vorlage: eine kleine Figur in einer riesigen isländischen Landschaft, kein erzählerischer Bogen erforderlich. Phoebe Bridgers' „Kyoto\" (Regie: Lord Danger) lehnt sich an dieselbe Zurückhaltung an, fügt aber trockenen Humor hinzu. Fleet Foxes' „Helplessness Blues\" von Sean Pecknold, Sufjan Stevens' langer Video-Bogen, Big Thiefs „Not\", Iron & Wines „Boy with a Coin\" unter der Regie von Andreas Nilsson sowie Joel und Ethan Coens Inside Llewyn Davis (Kamera: Bruno Delbonnel) stehen in derselben Linie. Die gemeinsame Grammatik: 35mm-Korn, lange Brennweiten für Distanz, Hände und Gesichter in Nahaufnahme, Wetter als Co-Star. Fast nie Weitwinkel, fast nie kühles Blau."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Widerstehen Sie Adjektiven, die in Richtung „kinematografisch\" drängen. Verankern Sie jede Szene stattdessen in einem kleinen physischen Detail: „Finger am dritten Bund\", „im Novemberlicht sichtbarer Atem\", „Regen an einem Küchenfenster\". Tunee reagiert gut auf Tageszeit-Hinweise — „erstes Licht\", „letzte Stunde vor Sonnenuntergang\" —, weil sie die Palette automatisch einschränken. Halten Sie die Schnitte lang und lassen Sie einen Moment zu Ende kommen, bevor der nächste beginnt. Folk ist das Genre, in dem zu schnelles Schneiden den Song tötet."
+      }
+    ]
+  }
 }

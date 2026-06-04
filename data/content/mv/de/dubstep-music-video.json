@@ -39,5 +39,23 @@
       "q": "Wie kann ich Lyrics oder Untertitel zu meinem Dubstep-Musikvideo hinzufügen?",
       "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitelüberlagerungen. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil, und die AI synchronisiert sie automatisch mit Ihrem Dubstep-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DUBSTEP",
+    "h2": "Dubstep-MVs sind um den Drop herum gebaut — alles dient dem Bass",
+    "sections": [
+      {
+        "heading": "Wie Dubstep aussieht",
+        "body": "Das Dubstep-Video ist um ein einzelnes Ereignis strukturiert: den Drop. Alles davor ist Build-up, alles danach ist Reaktion. Die visuellen Signaturen: Glitch- und Datamosh-Effekte synchron zu den Wobbles, harte Schnitte auf dem Drop (niemals Überblendungen), starke Linsenverzerrung bei Spitzenfrequenzen, hypergesättigtes Neon (Elektroblau, Giftgrün, Ultraviolett), Strobo-Einsätze, Frame-Skipping und Texturen digitalen Verfalls. Reale Aufnahmen werden oft mit abstrakter Verzerrung überlagert statt sauber präsentiert."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Referenzpunkte: Skrillex' „First of the Year (Equinox)\" unter der Regie von Tony Truand, das die Vorlage von Kino-meets-Glitch prägte, „Bangarang\" mit Sirah, die Visuals des Excision-Lost-Lands-Festival-Livestreams, die den Maßstab für Produktionsdimensionen setzten, das Rollout von Virtual Selfs „Ghost Voices\", die animierten Clips von Zomboy, die Bühnenfilme von Datsik und Ruskos „Woo Boost\". Die Linie reicht zurück zu Chris Cunninghams Videos für Aphex Twin („Come to Daddy\", „Windowlicker\") und Squarepusher — das Verhältnis des Genres zum digitalen Verfall ist älter als Dubstep selbst. Tunees Dubstep-Modell beherrscht harte Schnitte und Effekt-Stacking."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Bauen Sie den Prompt um den Drop herum, nicht um den Song. Beschreiben Sie das Bild vor dem Drop („statische Totale auf eine leere Lagerhalle, Low-Fi-Grade\"), das Drop-Ereignis („harter Schnitt auf RGB-Split, Datamosh-Frames, Strobo-Overlay\") und die Fortsetzung nach dem Drop. Tunee synchronisiert die Schnitte zum Beat — wenn Sie ein Tempo und die Position des Drops vorgeben, landen die Schnitte dort, wo der Bass landet."
+      }
+    ]
+  }
 }

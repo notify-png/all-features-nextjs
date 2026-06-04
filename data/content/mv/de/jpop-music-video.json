@@ -39,5 +39,23 @@
       "q": "Unterstützt es den Export von J-Pop-Musikvideos in 4K-Auflösung?",
       "a": "Absolut. Tunee exportiert J-Pop-Musikvideos in bis zu 4K-Auflösung, sodass sie für YouTube, Streaming-Plattformen und große Bildschirme bereit sind."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER J-POP",
+    "h2": "J-Pop-Video bewegt sich mit der Geschwindigkeit der Aufmerksamkeit selbst",
+    "sections": [
+      {
+        "heading": "Wie J-Pop aussieht",
+        "body": "Das Tempo von J-Pop-MVs ist schneller als bei nahezu jedem westlichen Pop-Äquivalent — eine durchschnittliche Einstellungslänge von drei Sekunden, manchmal weniger. Die Sets sind grafisch und nach Songabschnitten farblich codiert, oft wechseln sie zwischen Strophe und Refrain komplett. Die Choreografie ist präzise, aber ausdrucksstark, nicht militärisch wie im K-Pop. Der Anime-Einfluss zeigt sich im Bildaufbau: Speedlines, Impact-Frames, plötzliche Zooms auf ein einzelnes Auge. Die Garderobe tendiert entweder ins Streetwear-Codierte oder ins Theatralisch-Stilisierte, selten dazwischen."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Yoasobis „Idol\" (Opening zu Oshi no Ko) zeigt den aktuellen Gipfel — schnelle Schnitte, Anime-Tie-in, farblich codierte Szenenblöcke. Vaundys „Kaiju no Hanauta\" beweist, dass eine einzelne Performerin oder ein einzelner Performer in wechselnden Umgebungen die Arbeit tragen kann. Ados „Usseewa\" und die Visuals von One Piece Film: Red gehen vollständig animiert vor. King Gnus „Hakujitsu\" nutzt eine gedämpfte Palette und ein Slow-Burn, um die Regeln zu brechen. Die Lyric-Video-Linie von Eve mit Regisseur Tomohito Tatemiya (Mahoutsukai no Yome OP), Mrs. GREEN APPLEs „Inferno\" und Official HIGE DANdisms „Pretender\" runden das moderne Referenzset ab. Regisseur Hideto Yamada und das visuelle Team von Yoasobi verankern die Präzision — jedes Frame komponiert, nie zufällig."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Gliedern Sie den Song vor dem Prompt in Abschnitte. Strophe eins könnte ein Pastell-Schlafzimmer sein; der Pre-Chorus ein Flur in kühlem Blau; der Refrain eine gesättigte rote Studiobühne mit der vollständigen Tanztruppe. Weisen Sie Tunee an, bei jedem Abschnittswechsel die Palette zu wechseln. Geben Sie die Einstellungslänge an: „Zwei-Sekunden-Schnitte durch den gesamten Refrain, halte die Bridge sechs Sekunden\". Fügen Sie pro Refrain ein Anime-Grammatik-Element hinzu — eine plötzliche Nahaufnahme der Hände, ein Freeze-Frame, ein Screen-Shake. Das Genre belohnt visuellen Ehrgeiz."
+      }
+    ]
+  }
 }

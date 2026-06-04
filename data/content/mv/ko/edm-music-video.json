@@ -39,5 +39,23 @@
       "q": "Tunee의 EDM 뮤직비디오 생성기는 모바일 기기에서 작동하나요?",
       "a": "Tunee는 데스크톱과 모바일 모두에서 웹 브라우저를 통해 완전히 접근 가능하므로, 소프트웨어를 설치하지 않고도 어느 기기에서나 EDM 뮤직비디오를 만들 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EDM에 대하여",
+    "h2": "EDM MV는 페스티벌 시네마입니다 — 관중이 공동 주연입니다",
+    "sections": [
+      {
+        "heading": "EDM의 비주얼",
+        "body": "EDM 비디오는 두 가지 명확한 모드로 나뉩니다: 페스티벌 애프터무비(Tomorrowland의 연례 리캡이 완성한 형식)와 내러티브 싱글 비디오. 애프터무비 관습: 관중 위 드론, CO2 캐논 클로즈업, 들어 올린 손에 비친 LED 월 반사, 슬로우 모션 색종이, 무대 설치 타임랩스, 일몰에서 야간으로의 전환. 내러티브 형식은 팝 비디오에서 빌려오지만 드롭에서는 항상 무대나 관중 샷으로 돌아옵니다. 색은 과포화되고, 대비는 강하게 밀어붙이며, 컷은 BPM에 고정됩니다."
+      },
+      {
+        "heading": "실제로 작동하는 레퍼런스 포인트",
+        "body": "레퍼런스 포인트: Tomorrowland의 공식 애프터무비(형식을 정의한 템플릿), Ultra Miami와 EDC Las Vegas 연례 리캡, Martin Garrix의 'Animals', Calvin Harris와 Disclosure의 'How Deep Is Your Love', Avicii의 'Wake Me Up'과 'Levels', Above & Beyond의 Group Therapy 필름, Swedish House Mafia의 'Don't You Worry Child', Eric Prydz의 HOLO 홀로그램 쇼 기록물. 감독 Charly Friedrichs(Tomorrowland 미학의 상당 부분을 형성한)와 V Squared Labs의 스테이지 디자인 팀이 비주얼 벤치마크를 정의합니다. Tunee의 EDM 모델은 페스티벌 리캡의 페이싱과 싱글 비디오 내러티브의 페이싱 차이를 이해합니다."
+      },
+      {
+        "heading": "Tunee 프롬프트 팁",
+        "body": "먼저 모드를 선택하십시오 — 페스티벌인지 내러티브인지 — 비주얼 문법이 다르기 때문입니다. 페스티벌의 경우: 스테이지 타입(메인스테이지 피라미드, 포레스트 스테이지, 인티메이트 클럽), 시간대(황혼의 드롭이 가장 강력합니다), 그리고 한 가지 파이로 요소(CO2, 화염, 색종이)를 지정하십시오. 내러티브의 경우: EDM 코드의 색상과 BPM 고정 컷을 가진 팝 비디오처럼 다루십시오. 하나의 프롬프트 안에서 두 가지를 섞지 마십시오."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Fonctionne-t-il avec n'importe quel genre musical, ou seulement le Funk?",
       "a": "Tunee supporte un large éventail de genres et de styles visuels au-delà du Funk. Vous pouvez générer des vidéoclips pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU FUNK",
+    "h2": "Le funk à la caméra, c'est d'abord la chorégraphie, ensuite tout le reste",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le funk",
+        "body": "Les clips funk tournent sur un groove serré et une garde-robe encore plus serrée. Pensez pantalons pattes d'éph, satin, cols de fourrure, groupes entiers bougeant comme une seule unité. La couleur est sonore et délibérée : jaune moutarde sur orange brûlé, magenta sur citron vert. Le cadre est souvent plus large que dans les clips pop parce que la danse doit se lire — il faut voir la bascule de hanche du bassiste et le sourire du batteur dans la même composition. La lumière est dure et saturée, pas douce."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Bruno Mars et Anderson .Paak ont construit ensemble le langage moderne du clip funk — « Leave the Door Open » et « Smokin Out the Window » de Silk Sonic, et « 24K Magic » et « Finesse » de Bruno Mars (réalisés par Florent Déchard et Bruno Mars). Les tournages studio dépouillés de Vulfpeck, « Them Changes » de Thundercat et « Make Me Feel » de Janelle Monáe prouvent qu'on peut le faire avec une seule caméra verrouillée si le groupe est juste. Les références plus anciennes comptent toujours : les montages scéniques d'Earth, Wind & Fire, « Kiss » de Prince, les images du T.A.M.I. Show de James Brown, et le travail du réalisateur Hype Williams aux abords du funk dans les années 90 (« The Rain » de Missy Elliott). Le tissu conjonctif : des prises ininterrompues et une chorégraphie qui paraît répétée mais pas robotique."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Spécifiez la configuration du groupe avant le style visuel. « Groupe de six musiciens en costumes crème assortis, section cuivres côté cour, batteur au centre, plan large verrouillé » donne à Tunee quelque chose sur quoi accrocher le groove. Ensuite, superposez la couleur comme un beat distinct : « murs chocolat, accent lumineux en rose vif ». Évitez de demander des « vibes funky » — le genre est trop spécifique pour un langage vague. Nommez l'époque que vous voulez : « Soul Train 1975 », « Minneapolis 1985 », « Silk Sonic 2024 »."
+      }
+    ]
+  }
 }

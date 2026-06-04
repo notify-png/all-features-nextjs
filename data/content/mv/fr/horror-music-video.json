@@ -39,5 +39,23 @@
       "q": "Prend-il en charge l'export de vidéos musicales d'horreur en résolution 4K ?",
       "a": "Absolument. Tunee exporte les vidéos musicales d'horreur jusqu'à une résolution 4K, les rendant prêtes pour YouTube, les plateformes de streaming et les affichages grand écran."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU CLIP HORREUR",
+    "h2": "L'horreur fonctionne par ce que l'on ne montre pas",
+    "sections": [
+      {
+        "heading": "Ce qu'exige la vidéo d'horreur",
+        "body": "L'horreur est le genre où la retenue surpasse le spectacle. Les images qui effraient sont pour la plupart vides : un couloir non éclairé avec une seule lampe pratique au bout, une silhouette trop lointaine pour être clairement identifiée, un plan large tenu un battement de trop. Le body horror et le gore sont des outils, pas le genre. Les règles visuelles : ombre profonde avec détails écrasés vers le noir, caméra à l'épaule ou verrouillée (jamais de tracking lisse), étalonnage froid ou vert-jaune malsain, grain qui suggère une pellicule dégradée ou des images de vidéosurveillance."
+      },
+      {
+        "heading": "D'où vient ce regard",
+        "body": "Bibliothèque de référence : le catalogue horror d'A24 — Hereditary et Midsommar d'Ari Aster avec leurs plans larges symétriques, The Witch (VVitch) et The Lighthouse de Robert Eggers pour des images d'époque à la bougie, Get Out et Nope de Jordan Peele pour un cadrage horror satirique, la tradition found-footage du Blair Witch de Daniel Myrick, l'immobilité de Stoker de Park Chan-wook. Côté clip : « Come to Daddy » d'Aphex Twin par Chris Cunningham, « Closer » de Nine Inch Nails par Mark Romanek, « Anvil » de Lorn. Références jeu : le remake de Resident Evil 2 de Capcom, la brume de Silent Hill 2 de Konami. Le modèle horror de Tunee est entraîné sur l'espace négatif et le cadrage slow-burn, pas sur la surenchère de jump-scares."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Spécifiez ce qui N'EST PAS dans le cadre : « une silhouette en arrière-plan profond, pas de sujet au premier plan, plan moyen vide ». Verrouillez la caméra : « plan large fixe, aucun mouvement » ou « caméra à l'épaule tremblée, fréquence d'image basse ». La source de lumière compte — « une seule ampoule pratique, en plongée verticale, ombre dure » bat « sombre et effrayant ». Ajoutez un type de pellicule : « grain 16mm, léger flottement de fenêtre » pour la sensation horror analogique. Tenez les plans plus longtemps que ce qui semble confortable ; l'horreur a besoin de la pause."
+      }
+    ]
+  }
 }

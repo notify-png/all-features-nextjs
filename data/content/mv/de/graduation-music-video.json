@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Abschlussmusikvideos vergleichen?",
       "a": "Ja. Sie können mehrere Varianten Ihres Abschlussmusikvideos mit unterschiedlichen Eingaben oder Stileinstellungen erstellen und dann die Version auswählen, die Ihrer Vorstellung am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS ABSCHLUSS-MV",
+    "h2": "Ein Abschlussvideo, das den Hutwurf überlebt",
+    "sections": [
+      {
+        "heading": "Warum ein Abschluss-MV zählt",
+        "body": "Abschlussfeiern sind paradoxerweise unkinematografisch — zu viele Menschen, schlechtes Licht, lange Passagen verlesener Namen. Das MV-Format rettet den Tag, indem es vier Jahre (oder zwölf, oder eines) auf 60-90 Sekunden komprimiert, vertont mit einem Track, der dem Abschlussjahrgang etwas bedeutet. Es ist das Artefakt, das Eltern an Verwandte schicken, die nicht einfliegen konnten, und das Absolventinnen und Absolventen tatsächlich aufheben, anstatt des offiziellen Zeremonien-Streams."
+      },
+      {
+        "heading": "Die Aufnahmen, die immer funktionieren",
+        "body": "Abschluss-Fotografen drehen einen engen Kanon: das eingefrorene Bild des Hutwurfs gegen den Himmel, die Nahaufnahme der Übergabe des akademischen Gewands, die weite Aufnahme des Diplom-Handschlags, die Reaktion eines Elternteils in der Menge, die Umarmung auf dem Rasen nach der Zeremonie. Das Referenzregal umfasst Steve Jobs' Stanford-Commencement-Rede von 2005 (gefilmt vom Stanford News Service), David Foster Wallaces Kenyon-Ansprache „This Is Water\", die Tradition des Jahrbuchporträts von Herff Jones und Jostens, die bei jeder Zeremonie gespielten Pomp-and-Circumstance-Coverversionen von Vitamin String Quartet sowie NPRs Tiny-Desk-Abschluss-Specials. Mischen Sie drei oder vier Fortschrittsaufnahmen ein — das Foto vom ersten Schultag, der Einzug ins Wohnheim, eine durchwachte Nacht am Schreibtisch — und das MV gewinnt einen Bogen, den die Zeremonie selbst nicht liefern kann. Das Vorher und Nachher desselben Rucksacks funktioniert jedes Mal."
+      },
+      {
+        "heading": "Machen Sie es zum Geschenk",
+        "body": "Schicken Sie es dem Abschlussjahrgang am Morgen, nicht danach. Es rahmt den Tag um, bevor das Chaos beginnt. Tunee rendert vertikal für die Story nach der Zeremonie, im Breitbildformat für die Wiedergabe am Esstisch am Abend und quadratisch für die Nachricht an die Großeltern — alles aus einer einzigen Generierung."
+      }
+    ]
+  }
 }

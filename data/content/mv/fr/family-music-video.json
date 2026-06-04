@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales familiales Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur bureau et mobile, vous permettant de créer des vidéos musicales familiales depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE CLIP DE FAMILLE",
+    "h2": "Le clip de famille qui se regarde plus d'une fois",
+    "sections": [
+      {
+        "heading": "Pourquoi un clip de famille mérite sa place",
+        "body": "La plupart des vidéos de famille meurent dans le cloud. Les images de réunion sont trop longues, le diaporama des fêtes est trop aléatoire, et la compilation des enfants qui grandissent traîne sur un vieux disque dur. Un clip mis en musique de 60 à 90 secondes est le format que les proches regardent réellement jusqu'au bout — assez court pour être partagé dans le chat familial, assez structuré pour paraître intentionnel, et assez long pour faire tenir trois générations dans un seul objet regardable."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les photographes documentaires de famille filment le même canon : le candide autour de l'îlot de cuisine où tout le monde parle en même temps, le plan grand-parent-avec-petit-enfant sur les genoux, la photo de groupe large sur le perron avec quelqu'un qui cligne toujours des yeux, le gros plan des mains qui passent un plat, le flou d'un jeu dans le jardin. Les couvertures du Saturday Evening Post de Norman Rockwell (« Freedom from Want » de Thanksgiving, 1943) ont écrit la grammaire du dîner multigénérationnel. Le montage d'ouverture d'UP de Pete Docter chez Pixar a compressé un mariage entier en quatre minutes de stills-in-motion. La campagne « Hilltop » de Coca-Cola à l'époque de Bill Backer et le langage sit-down de All in the Family de Norman Lear prolongent cette filiation. Mentionnez trois générations dans votre prompt — Tunee structure le montage pour passer entre elles plutôt que de s'attarder sur un seul sujet."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "Envoyez-le la semaine suivant une réunion, pas le jour même — c'est quand l'euphorie est retombée que le clip fait son vrai travail. Tunee rend en carré pour le chat de famille, en widescreen pour la prochaine projection des fêtes sur la TV, et en vertical pour les Stories des plus jeunes proches d'une seule génération."
+      }
+    ]
+  }
 }

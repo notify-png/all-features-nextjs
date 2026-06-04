@@ -39,5 +39,23 @@
       "q": "Le générateur de clips musicaux minimalistes de Tunee fonctionne-t-il sur les appareils mobiles?",
       "a": "Tunee est entièrement accessible via navigateur web sur les ordinateurs de bureau et mobiles, vous pouvez donc créer des clips musicaux minimalistes à partir de n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU CLIP MINIMALISTE",
+    "h2": "Le minimalisme est le brief le plus difficile à vraiment réussir",
+    "sections": [
+      {
+        "heading": "Ce qu'est vraiment le minimalisme",
+        "body": "La vidéo minimaliste, ce n'est pas « moins de choses » — c'est de l'espace négatif intentionnel tenant un seul sujet avec une composition rigoureuse. Les films produits d'Apple sont la référence : un objet, fond en courbe infinie, une direction de lumière, micro-mouvements qui récompensent une attention soutenue. Les pièges ne sont évidents qu'une fois tombé dedans : l'espace vide sans rythme compositionnel se lit comme du cheap, pas du raffiné. Le sujet doit mériter l'espace négatif autour de lui par le cadrage compositionnel, l'éclairage en lisière et un mouvement délibérément petit."
+      },
+      {
+        "heading": "D'où vient ce regard",
+        "body": "Canon visuel : les films produits d'Apple (TBWA\\Chiat\\Day) de l'ère Jony Ive, la photographie de design Braun de Dieter Rams, les marines d'Hiroshi Sugimoto, les installations d'Olafur Eliasson à la Tate Modern, les œuvres lumineuses Skyspace de James Turrell, le centrage symétrique de Wes Anderson à son extrémité minimaliste, les longues tenues d'Apichatpong Weerasethakul dans Memoria. Côté clip : « Glosoli » de Sigur Rós réalisé par Arni & Kinski, les visualisations « Holocene » de Bon Iver, le roster du label Erased Tapes (Olafur Arnalds, Nils Frahm). Le modèle minimaliste de Tunee traite le « minimalisme » comme une retenue compositionnelle, pas comme un détail retiré — les surfaces ont toujours besoin d'une réponse matérielle réelle."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Spécifiez le ratio d'espace négatif : « le sujet occupe le tiers central, 80 % entourant vides ». Verrouillez la palette sur deux valeurs : « fond blanc cassé, objet unique en noir mat ». Nommez la direction de lumière avec précision : « rim light depuis la gauche caméra uniquement, pas de fill ». Ajoutez un langage de mouvement : « le sujet tourne de 5 degrés, aucun mouvement de caméra ». La tentation est d'ajouter « une chose de plus » — résistez. Chaque élément ajouté coûte à la composition plus qu'il n'apporte."
+      }
+    ]
+  }
 }

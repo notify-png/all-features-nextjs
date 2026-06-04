@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Cyberpunk-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Cyberpunk-Musikvideos mit verschiedenen Prompts oder Stileinstellungen generieren und dann die Version auswählen, die deiner Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER CYBERPUNK-MV",
+    "h2": "Die visuellen Regeln des Cyberpunk sind strenger, als seine Fans zugeben",
+    "sections": [
+      {
+        "heading": "Wie Cyberpunk aussieht",
+        "body": "Cyberpunk ist Regen auf Neon auf Beschilderung in asiatischer Schrift, doch die tiefere Regel ist der Lichtkontrast: pechschwarze Schatten, die heiße Magenta- und Cyan-Spitzlichter halten, mit chromatischer Aberration auf jedem spiegelnden Glanzpunkt. Volumetrischer Dunst füllt die Mitteldistanz, sodass jede Neonquelle einen sichtbaren Lichtkegel hat. Nasser Asphalt verdoppelt jedes Licht in einer Spiegelung. Lässt man eines davon weg, bekommt man „dunkle Science-Fiction mit lila Lichtern\" — verwandt, aber nicht das Genre."
+      },
+      {
+        "heading": "Woher der Look stammt",
+        "body": "Der Kanon: Ridley Scotts Blade Runner (1982) für das ursprüngliche nass-neonbeleuchtete Tokio, Denis Villeneuves Blade Runner 2049 (2017) für die holografischen Reklametafeln und das orangene Vegas, Mamoru Oshiis Ghost in the Shell (1995) für die in die Stadt eintauchenden Aufnahmen, Katsuhiro Otomos Akira (1988) für die Straßenebene, Lana und Lilly Wachowskis The Matrix für den grünen Code-Wash. Spiele: CD Projekt Reds Cyberpunk 2077 Night City, die Deus-Ex-Reihe. Musikvideos: Grimes' Genesis, M83s Midnight City-Nachfolger, Riot Games' Arcane-Vorspann von Fortiche. Tunees Cyberpunk-Modell ist auf genau diese Bildsprachen trainiert — „Blade Runner 2049 Vegas-Orange-Dunst\" landet exakt dort, wo Sie es meinen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Paaren Sie immer zwei Neonfarben und verbieten Sie warme Töne: „nur Magenta und Cyan, kein Amber\". Ergänzen Sie „nasser Asphalt, Neon-Spiegelung am Boden\" — das verdoppelt die wahrgenommene Lichtdichte. Geben Sie „volumetrischer Dunst, sichtbare Lichtkegel\" an, sonst bekommen Sie flaches Neon. Für die Aufnahme des Künstlers ergänzen Sie „randbeleuchtete Silhouette, Hauptlicht von oben links\" — vollständig ausgeleuchtete Gesichter zerstören das Noir. Schließen Sie mit „chromatische Aberration auf den Spitzlichtern\" für das Linsen-Gefühl."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale fitness à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variantes de votre vidéo musicale fitness en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE CLIP FITNESS",
+    "h2": "Un clip de transformation qui ne ressemble pas à une pub Bowflex",
+    "sections": [
+      {
+        "heading": "Pourquoi les clips fitness valent la peine d'être bien faits",
+        "body": "Le diaporama avant/après est mort — le format a été tellement galvaudé sur TikTok que le public scrolle instantanément. Ce qui fonctionne encore, c'est le clip du processus d'entraînement : 60 secondes mises en musique sur un morceau à BPM élevé, pondéré vers la routine quotidienne plutôt que la révélation. Les propriétaires de salles l'utilisent pour mettre en avant leurs membres, les coachs pour les récaps clients, et les particuliers comme marqueurs personnels d'un bloc de 12 semaines qui vaut bien plus qu'une photo sur la balance."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les chefs opérateurs sportifs connaissent le canon : gros plan de craie sur les mains, la barre qui fléchit sur une rep lourde, l'expiration dans la serviette, le plan large de la salle vide au matin, le check de la montre entre les séries. Le modèle, c'est le montage d'entraînement de Rocky de John G. Avildsen (1976) — « Gonna Fly Now » de Bill Conti monté en sync sur les escaliers et les flancs de bœuf. Les campagnes Nike de Wieden+Kennedy (Find Your Greatness, Dream Crazy avec Colin Kaepernick) ont défini le regard moderne. All In d'Adidas, la couverture des CrossFit Games par Reebok, le format voix off de David Goggins sur Instagram, les scènes d'entraînement de Magic Mike de Steven Soderbergh. L'étalonnage est désaturé avec des noirs écrasés et un accent — disques rouges, néon EXIT, lever de soleil par une fenêtre. Spécifiez cette palette plus un tempo de morceau, et le montage se synchronise naturellement sur les soulevés."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Ne demandez pas des « plans motivants de salle de sport » — ça vous donne des images de banque. Nommez plutôt le soulevé (deadlift, clean, push press), le moment de la journée et le matériel précisément. « Garage gym vide à 5 h du matin, une seule barre chargée avec des disques rouillés, étalonnage désaturé, un unique tungstène chaud au-dessus » atterrit là où un vrai chef op pointerait sa caméra."
+      }
+    ]
+  }
 }

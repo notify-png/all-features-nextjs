@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Fantasy-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Fantasy-Musikvideos generieren, indem du verschiedene Aufforderungen oder Stileinstellungen verwendest, und dann die Version auswählen, die am besten zu deiner Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER FANTASY-MV",
+    "h2": "Fantasy-Video, das den Vergleich mit LOTR verdient",
+    "sections": [
+      {
+        "heading": "Was Fantasy verlangt",
+        "body": "Das Fantasy-Video lebt und stirbt mit Landschaft und Maßstab. Der Herr der Ringe verkaufte seine Welt mit einer einzigen Totalen — die Gefährten, die im Gänsemarsch über einen Bergkamm ziehen, von Bergen winzig gemacht. Die Regel: jede Establishing-Aufnahme braucht eine menschliche Figur als Maßstab, und die Umgebung muss den Großteil des Erzählens leisten. Gemalte Matte-Painting-Tiefe, atmosphärische Perspektive, die in nebliges Blau ausbleicht, naturalistische Kostümmaterialien (Wolle, Leder, getriebenes Metall, keine plastikartig wirkende Rüstung). Stimmt der Maßstab nicht, liest es sich als Cosplay."
+      },
+      {
+        "heading": "Woher der Look stammt",
+        "body": "Visueller Kanon: Peter Jacksons LOTR-Trilogie mit den Konzeptzeichnungen von John Howe und Alan Lee, Guillermo del Toros Pan's Labyrinth für die dunklere Märchen-Beleuchtung, HBOs Game of Thrones (frühe Staffeln vor der Hetze), CD Projekt Reds The Witcher 3, adaptiert von Andrzej Sapkowski, Tarsem Singhs The Fall für gesättigte Farbe, Hayao Miyazakis Prinzessin Mononoke für das malerische Ende, Frank Frazettas Conan-Cover für das schwerere Metal-Ende. Musikvideo-nah: Florence + the Machines Hunger unter der Regie von AG Rojas. Tunees Fantasy-Modell behandelt diese Referenzen als getrennte Dialekte — „Howe-Style-Matte-Painting\" gegenüber „Frazetta-Untersicht-Krieger\" gegenüber „Ghibli-Waldgeist\" ergeben deutlich unterschiedliche Ergebnisse."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Nehmen Sie selbst bei landschafts­dominierten Prompts stets eine menschliche Figur als Maßstab auf: „einsamer Reiter auf einem Bergkamm, Berg-Hintergrund, atmosphärische Perspektive\". Geben Sie die Tageszeit der Beleuchtung mit Himmelsrichtung an: „Goldene Stunde, Sonne von Kamera rechts, lange Schatten, die nach links ziehen\". Die Spezifik der Materialien zählt — „eingeöltes Leder, gebürsteter Stahl, ungefärbte Wolle\" schlägt „mittelalterliche Kleidung\". Vermeiden Sie „episch\" als Adjektiv; beschreiben Sie stattdessen die Maßstabsbeziehung („Figur nimmt das untere Zehntel des Bildes ein\")."
+      }
+    ]
+  }
 }

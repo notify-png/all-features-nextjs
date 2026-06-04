@@ -39,5 +39,23 @@
       "q": "Unterstützt es den Export von Horror-Musikvideos in 4K-Auflösung?",
       "a": "Absolut. Tunee exportiert Horror-Musikvideos in bis zu 4K-Auflösung und macht sie bereit für YouTube, Streaming-Plattformen und großformatige Displays."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER HORROR-MV",
+    "h2": "Horror wirkt durch das, was man nicht zeigt",
+    "sections": [
+      {
+        "heading": "Was Horror-Video erfordert",
+        "body": "Horror ist das Genre, in dem Zurückhaltung das Spektakel schlägt. Die Bilder, die Menschen Angst machen, sind meist leer: ein unbeleuchteter Flur mit einer einzigen Praktikabel-Lampe am Ende, eine Figur zu weit weg, um sie klar zu erkennen, eine weite Aufnahme, die einen Schlag zu lang gehalten wird. Body-Horror und Gore sind Werkzeuge, nicht das Genre. Die visuellen Regeln: tiefer Schatten mit ins Schwarz zerdrückten Details, handgehalten oder gänzlich fixiert (niemals geschmeidige Tracking-Shots), kalt oder kränklich grün-gelb gegradete Farbe, Korn, das an degradiertes Filmmaterial oder Überwachungsaufnahmen erinnert."
+      },
+      {
+        "heading": "Woher der Look stammt",
+        "body": "Referenzregal: der A24-Horror-Katalog — Ari Asters Hereditary und Midsommar mit ihren symmetrischen Totalen, Robert Eggers' The Witch (VVitch) und The Lighthouse für kerzenbeleuchtete Periodenbilder, Jordan Peeles Get Out und Nope für satirisches Horror-Framing, Daniel Myricks Found-Footage-Tradition mit Blair Witch, Park Chan-wooks Stille in Stoker. Musikvideos: Chris Cunninghams Aphex-Twin-„Come to Daddy\", Mark Romaneks Nine-Inch-Nails-„Closer\", Lorns „Anvil\". Spiel-Referenzen: Capcoms Resident-Evil-2-Remake, der Nebel in Konamis Silent Hill 2. Tunees Horror-Modell ist auf negativen Raum und Slow-Burn-Bildaufbau trainiert, nicht auf Jump-Scare-Überfrachtung."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Geben Sie an, was NICHT im Bild ist: „eine Figur tief im Hintergrund, kein Vordergrund-Subjekt, leere Mitteldistanz\". Fixieren Sie die Kamera: „starre Totale, keine Bewegung\" oder „wackelige Handkamera, niedrige Bildrate\". Die Lichtquelle zählt — „eine einzelne Glühbirne als Praktikabel, von oben, harter Schatten\" schlägt „dunkel und gruselig\". Fügen Sie Filmmaterial hinzu: „16mm-Korn, leichter Bildstandsfehler\" für das analoge Horror-Gefühl. Halten Sie die Einstellungen länger, als es sich angenehm anfühlt; Horror braucht die Pause."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un clip musical Paroles vers clip à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre clip musical Paroles vers clip en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui convient le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DES PAROLES AU CLIP",
+    "h2": "Quand les paroles sont le scénario, le clip s'écrit tout seul",
+    "sections": [
+      {
+        "heading": "Pourquoi la parole EST le storyboard",
+        "body": "Les auteurs-compositeurs le savent déjà — une bonne parole est shot-listée avant d'être une chanson. « I drove through the desert in a car with no name » est un plan large. « She turned around slow » est un plan moyen avec un tour de tête. Les lyric videos qui se contentent de faire flotter du texte sur un fond abstrait ignorent que chaque ligne est déjà une instruction visuelle. Un pipeline paroles-vers-clip devrait lire ces instructions, pas coller les mots sur un dégradé."
+      },
+      {
+        "heading": "Ce que Tunee fait avec votre feuille de paroles",
+        "body": "Collez vos paroles avec des timestamps approximatifs (ou juste le texte complet — Tunee l'aligne automatiquement sur l'audio) et Sage mappe chaque ligne à un plan. Les noms concrets deviennent des plans d'établissement, les verbes d'action deviennent des mouvements de caméra, les lignes de refrain répétées réutilisent la plaque hero pour que le refrain se lise visuellement comme un refrain. Vous pouvez toujours obtenir de la typographie à l'écran si vous le souhaitez — mais la typographie s'inscrit à l'intérieur d'une scène, pas par-dessus."
+      },
+      {
+        "heading": "Le conseil de prompt qui change la sortie",
+        "body": "Ne paraphrasez pas vos paroles dans un prompt séparé. La parole est déjà spécifique ; le prompt doit être le cadre esthétique autour. Essayez ceci : les paroles dans le champ paroles, puis une ligne de prompt pour le monde (« Tokyo des années 1970, pluvieux, reflets de néons dans les flaques »), une pour la caméra (« caméra à l'épaule, 35mm, faible profondeur de champ »), une pour le personnage (« la trentaine, veste en cuir, jamais montré de face en plein cadre »). Tunee gère les coupes ligne par ligne ; vous gérez le look."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales House de Tunee fonctionne-t-il sur les appareils mobiles?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous permettant de créer des vidéos musicales House depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE LA HOUSE",
+    "h2": "Les clips house traduisent le dancefloor sans en sortir",
+    "sections": [
+      {
+        "heading": "À quoi ressemble la house",
+        "body": "La house vit la plupart de la nuit dans un seul environnement : le club, l'entrepôt, le chapiteau de festival. Les bons clips house honorent cela. La caméra est souvent à l'intérieur de la foule, objectif à hauteur d'épaule, les lumières au plafond assurent la photographie. Stroboscopes, lasers, fumée, sueur. Le DJ n'apparaît rarement plus de quelques secondes — c'est la salle qui compte, pas la figure. La couleur tend vers un lavage magenta-cyan-ambre, avec à l'occasion un blowout blanc pur sur un drop."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Around the World » de Daft Punk réalisé par Michel Gondry reste l'étalon-or de la house comme chorégraphie. « Latch » de Disclosure avec Sam Smith (réalisé par Bo Mirosseni) a construit le modèle moderne des corps en duo ; leurs collaborations plus larges avec Stink Studios ont défini l'identité visuelle du duo. Les coupes Boiler Room de Fred again.. ont prouvé qu'une seule caméra et une vraie foule surpassent n'importe quelle scénographie. Les captures live d'Honey Dijon, « Nanga Eboko » de Peggy Gou, les archives de Frankie Knuckles et les clips solo de Romy montrent l'éventail visuel. Le fil conducteur, c'est l'honnêteté — les clips house qui prétendent être autre chose qu'une salle avec de la musique dedans paraissent gênés en un an."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Traitez le rig lumineux comme un personnage. Promptez Tunee avec des fixtures précises : « par cans au plafond en magenta, deux têtes mobiles balayant en cyan le mur du fond, brume assez épaisse pour voir les faisceaux ». Les corps doivent être partiels — une main levée, un arrière de tête, un profil contre un stroboscope — presque jamais en plein cadre. Synchronisez la caméra sur le build, le breakdown, le drop. Les clips house meurent quand ils traitent le breakdown comme un couplet."
+      }
+    ]
+  }
 }

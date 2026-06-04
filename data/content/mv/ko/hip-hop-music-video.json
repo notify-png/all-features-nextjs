@@ -39,5 +39,23 @@
       "q": "Tunee의 Hip Hop 뮤직비디오 생성기가 모바일 기기에서 작동하나요?",
       "a": "Tunee는 데스크톱과 모바일 모두에서 웹 브라우저를 통해 완벽하게 접근할 수 있으므로 소프트웨어를 설치하지 않고 어떤 기기에서나 Hip Hop 뮤직비디오를 만들 수 있습니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "힙합에 대하여",
+    "h2": "힙합 비디오는 도시 하나를 어깨에 짊어집니다",
+    "sections": [
+      {
+        "heading": "힙합의 비주얼",
+        "body": "힙합 MV는 두 개의 레이어를 엮습니다: 퍼포먼스 — 보통 카메라를 향한 래퍼, 타이트한 립싱크, 종종 강력한 로우 앵글 — 와 그 곡을 만들어낸 세계. 그 세계는 구체적입니다. Compton, Houston, Toronto, Brooklyn은 각자 비주얼 시그니처가 있으며, 최고의 비디오는 어디에서도 오지 않은 것처럼 보이기를 거부합니다. 의상은 해가 아니라 그 달의 트렌드를 따릅니다. 자동차가 중요합니다. 크루가 중요합니다. 컷은 라임에 떨어지지, 비트만으로는 떨어지지 않습니다."
+      },
+      {
+        "heading": "실제로 작동하는 레퍼런스 포인트",
+        "body": "Kendrick Lamar의 'HUMBLE.'과 'Alright'(둘 다 Dave Meyers와 the little homies 연출)은 퍼포먼스와 사회적 무게를 위한 현대 교과서입니다. Travis Scott의 'SICKO MODE'와 'HIGHEST IN THE ROOM'(역시 Dave Meyers)은 랩을 척추로 잃지 않으면서 초현실적인 스케일을 보여줍니다. Hiro Murai의 Donald Glover와의 작업('This Is America', 'Sober')과 FKA Twigs와의 작업은 내러티브 MV의 기준을 높였습니다. J. Cole의 'MIDDLE CHILD'는 대화체를 유지하고, Director X가 연출한 Drake의 'Hotline Bling'은 미니멀로 가서 모든 것을 바꾸어 놓았습니다. Cole Bennett의 Juice WRLD와 Eminem을 위한 Lyrical Lemonade 비주얼이 그 계보를 잇고, Hype Williams의 어안렌즈 시대와 Spike Jonze의 Beastie Boys 작업이 그 토대를 만듭니다."
+      },
+      {
+        "heading": "Tunee 프롬프트 팁",
+        "body": "Tunee에게 일반적인 도시가 아니라 구체적인 동네를 주십시오. '남부 Memphis의 늦은 저녁 현관, 친구 두 명, 푸른 황혼'은 '도심 거리 장면'을 매번 이깁니다. 시그니처 의상 한 가지 — 체인, 후드, 모자 — 를 고정시키고 모든 컷에 등장하게 해서 아티스트가 연속적으로 읽히게 하십시오. 절-후렴 구조를 사용하십시오: 벌스 중에는 타이트한 퍼포먼스 프레임, 훅 중에는 B롤 라이프스타일. 컷은 자음에 맞추되, 킥에는 맞추지 마십시오."
+      }
+    ]
+  }
 }

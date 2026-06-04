@@ -39,5 +39,23 @@
       "q": "我可以生成多個 K-pop 音樂視頻版本進行比較嗎？",
       "a": "可以。您可以使用不同的提示或風格設置生成多個 K-pop 音樂視頻變體，然後選擇最符合您願景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 K-POP",
+    "h2": "K-pop MV 是音樂裡工程化程度最高的視覺格式",
+    "sections": [
+      {
+        "heading": "K-pop 該有的樣子",
+        "body": "K-pop MV 像建築一樣搭建。每個場景訂製、每次換裝對應歌曲段落、每個運鏡與舞蹈一同編排。混音永遠至少三層：場景上的舞蹈、帶劇情節拍的敘事插接，以及成員出現於風格化獨處空間的概念鏡。色彩世界在四分鐘內劇烈轉換。副歌時對稱是鐵律，主歌時恢復不對稱以保持視線流動。"
+      },
+      {
+        "heading": "真正管用的參考座標",
+        "body": "NewJeans 的「Super Shy」與「Ditto」由 ADOR 創意總監 Min Hee-jin 塑形、Naive Production 的 Shin Woo-seok 掌鏡，定義了當下自然主義浪潮——更柔的色調、更少奇觀、更多人物。aespa 的「Drama」由 Sun Choi 執導，走相反方向：極繁佈景、世界觀建構、密集剪輯。BTS 的「Blood Sweat & Tears」至今仍是敘事野心的標竿。BLACKPINK 由 Seo Hyun-seung 執導的「How You Like That」示範如何讓四個成員與一個佈景看起來像全球事件。(G)I-DLE 的「Tomboy」與 Stray Kids 的「God's Menu」，加上 Beasts and Natives Alike 以編舞為主的攝影，補齊了當下的視覺語彙。"
+      },
+      {
+        "heading": "Tunee 的提示詞建議",
+        "body": "規劃四個世界，不是一個。先草擬副歌場景、主歌環境、橋段概念空間與結尾空間——再對 Tunee 下提示，明確指定每個世界的色票與換裝。副歌 drop 上的對稱構圖不可妥協。舞蹈段落請點名隊形：「V 字打開成一字、四拍 snap 收成菱形」。獨照概念鏡要像時尚編輯，而非團體場的剪影。"
+      }
+    ]
+  }
 }

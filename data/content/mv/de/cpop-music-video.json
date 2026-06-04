@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines C-Pop-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres C-Pop-Musikvideos mit unterschiedlichen Texteingaben oder Stileinstellungen generieren und dann die Version auswählen, die am besten zu Ihrer Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER C-POP",
+    "h2": "C-Pop-Videos verbinden Balladen-Kinematografie mit elegantem modernen Pop",
+    "sections": [
+      {
+        "heading": "Wie C-Pop aussieht",
+        "body": "Die C-Pop-Visuals haben zwei deutlich getrennte Stränge, die parallel laufen. Die Balladen-Tradition (Jay Chou, JJ Lin) tendiert zum Kinematografischen — narrativ getrieben, oft als Historienstück, mit chinesischer Architektur als Kulisse, von Tuschemalerei inspirierten Farbpaletten und langsamen Steadicam-Fahrten. Die moderne Pop-Seite (G.E.M., Jolin Tsai, Eric Chou) übernimmt den K-Pop-Glanz und übersetzt ihn durch eine taiwanesische oder Hongkonger Ästhetik — Neon-Nachtmärkte, Dächer aus Glas und Stahl, eine an Modemagazine erinnernde Bildsprache."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Die kanonischen Referenzen sind Jay Chous „Blue and White Porcelain\" und „Chrysanthemum Terrace\" — beides Vorlagen für Balladen im Historienstil, bei denen Chou selbst Regie führte und Texter Vincent Fang die Ikonografie prägte — daneben die Tour-Visuals von JJ Lins „Sanctuary\", G.E.M.s „Light Years Away\", Jolin Tsais „Play\"-Ära, die Live-Filme zu Maydays „Song of Tonight\" und Eason Chans aktuelle visuelle Alben. Regisseur Wing Shya (dessen von Wong Kar-wai beeinflusste Arbeit den modernen Hongkonger Look des Cantopop prägt) und Jay Chous häufiger Mitstreiter Marlboro Lai verankern den visuellen Kanon. Tunees C-Pop-Modell kennt beide Stränge und wechselt auf Prompt-Signal zwischen ihnen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Geben Sie an, welcher Strang gemeint ist. Ein Balladen-Prompt sollte architektonische und jahreszeitliche Anker benennen („Innenhof mit geschwungenen Ziegeldächern, fallende Pflaumenblüten, Himmel im Tuschemalerei-Verlauf\"); ein Modern-Pop-Prompt sollte urbane Spezifik benennen („Neon des Nachtmarkts in Taipeh, Handkamera auf dem Subjekt, Magenta und Cyan\"). Das Vermischen beider erzeugt visuelle Verwirrung; das Festlegen auf eines erzeugt einen wiedererkennbaren Bildrahmen."
+      }
+    ]
+  }
 }

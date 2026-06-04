@@ -39,5 +39,23 @@
       "q": "Funktioniert es mit jedem Genre oder nur mit Latin?",
       "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Latin hinaus. Du kannst Musikvideos für Pop, Hip-Hop, Klassik und dutzende andere Stile auf derselben Plattform generieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER LATIN",
+    "h2": "Latin-Video trägt Mode, Geografie und Rhythmus mit gleicher Gewichtung",
+    "sections": [
+      {
+        "heading": "Wie Latin aussieht",
+        "body": "Latin-MVs verschwimmen die Club-Energie des Reggaetón mit der Dramatik des Flamenco und den Open-Air-Drehs des mexikanischen Regional-Pop. Die Garderobe ist der lauteste Kanal — Couture gemischt mit Streetwear, Goldakzente, kulturelle Referenzpunkte bewusst getragen. Die Schauplätze wechseln zwischen Küstenlandschaften, urbanen Dächern und konstruierten Traumwelten. Die Kamera steht selten still; sie kreist, schwenkt, schwingt. Die Schnitte reiten auf der Perkussion, was bedeutet: enge Schnitte auf dem Dembow-Rhythmus und gehaltener Atem während der melodischen Momente."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Bad Bunnys „Tití Me Preguntó\" unter der Regie seines langjährigen Kollaborateurs Stillz zeigt, wie man die Nachbarschafts-Realität Puerto Ricos mit dem Glanz des Fashion-Films mischt. Rosalías „Saoko\" und die breitere Motomami-Ära ist eine Meisterklasse in reduzierter Inszenierung — weiße Wände, Motorräder, volles Bekenntnis zum Konzept. Karol Gs „PROVENZA\" definierte eine weichere Latin-Pop-Palette zur goldenen Stunde, während Peso Plumas „Ella Baila Sola\" Regional Mexicano in den globalen Rahmen brachte. Maluma, Feid und die von Colin Tilley inszenierten Crossover-Arbeiten tragen das Genre auf unterschiedlichen Spuren weiter. Die gemeinsame Regel: Kultur erscheint als Schauplatz, niemals als Kostüm."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Verankern Sie zuerst einen realen Ort. „Dachterrasse in San Juan bei Sonnenuntergang, sichtbare Palmen, fernes Meer\" gibt Tunee eine Grundlage, auf der Mode und Choreografie sitzen können. Geben Sie Garderoben-Details — „Goldketten, weißes Tanktop, weite Leinenhose\" — mit demselben Detailgrad wie den Ort. Schneiden Sie in den Refrains eng auf den Dembow und lassen Sie in einer Strophe eine lange Einstellung als Kontrast laufen. Das Genre belohnt sowohl Dichte als auch Atem."
+      }
+    ]
+  }
 }

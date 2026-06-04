@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un clip musical K-pop pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variantes de votre clip musical K-pop en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE LA K-POP",
+    "h2": "Le clip K-pop est le format visuel le plus ingénié de la musique",
+    "sections": [
+      {
+        "heading": "À quoi ressemble la K-pop",
+        "body": "Les clips K-pop sont construits comme de l'architecture. Chaque décor est sur mesure, chaque changement de garde-robe est calé sur une section de la chanson, chaque mouvement de caméra est chorégraphié en même temps que la danse. Le mixage comporte toujours au moins trois couches : la chorégraphie sur un plateau, les cutaways narratifs avec des story beats, et les plans concept où les membres apparaissent dans des environnements solo stylisés. Les mondes de couleur changent radicalement sur les quatre minutes. La symétrie est loi pendant le refrain. L'asymétrie revient dans les couplets pour garder l'œil en mouvement."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Super Shy » et « Ditto » de NewJeans, façonnés par la directrice créative d'ADOR Min Hee-jin et tournés par Shin Woo-seok de Naive Production, définissent la vague naturaliste actuelle — palettes plus douces, moins de spectacle, plus de personnage. « Drama » d'Aespa, réalisé par Sun Choi, va dans la direction opposée : design de plateau maximaliste, world-building, montages denses. « Blood Sweat and Tears » de BTS reste la référence en matière d'ambition narrative. « How You Like That » de BLACKPINK, réalisé par Seo Hyun-seung, démontre comment faire en sorte que quatre membres et un décor donnent l'impression d'un événement mondial. « Tomboy » de (G)I-DLE et « God's Menu » de Stray Kids, ainsi que la cinématographie pilotée par la chorégraphie de Beasts and Natives Alike, complètent le vocabulaire actuel."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Planifiez quatre mondes, pas un. Esquissez le décor du refrain, l'environnement du couplet, la salle concept du pont et l'espace de l'outro — puis promptez Tunee pour chacun avec une palette de couleurs et un changement de garde-robe explicites. Le cadrage symétrique sur le drop du hook n'est pas négociable. Pour la section dance, nommez la formation : « ouverture en V vers une ligne, snap en quatre temps vers un losange ». Les plans concept solo doivent se lire comme des éditoriaux de mode, pas comme des stills des scènes de groupe."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale Indie pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale Indie en utilisant différentes descriptions ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE L'INDIE",
+    "h2": "Le clip indie, c'est un alibi budgétaire devenu style",
+    "sections": [
+      {
+        "heading": "À quoi ressemble l'indie",
+        "body": "La grammaire du clip indie est née des limitations : une caméra, un lieu, une idée bizarre exécutée à fond. Les finitions lo-fi — bleed VHS, pellicule périmée, hautes lumières cramées — sont aujourd'hui des choix esthétiques, plus des contraintes. L'artiste a souvent l'air légèrement blasé ou amusé, jamais sérieux. La composition est lâche et asymétrique. La garde-robe paraît dénichée en friperie même quand elle ne l'est pas. Les meilleurs clips indie donnent l'impression d'avoir été faits par un ami un samedi."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« The Less I Know the Better » de Tame Impala réalisé par Canada est le plafond — un seul concept, un seul décor, un engagement total. Les clips de Spike Jonze pour Arcade Fire (« The Suburbs ») et MGMT (« Time to Pretend ») ont posé l'extrémité high-art ; le travail de Michel Gondry avec The White Stripes (« Fell in Love with a Girl ») reste une pierre de touche. Les clips faits maison de Mac DeMarco prouvent qu'une webcam et un jardin peuvent porter une carrière. La série Tranquility Base d'Arctic Monkeys sur le thème de l'hôtel a ajouté de l'ambition cinématographique sans perdre le ton slacker. Snail Mail, Soccer Mommy, Alvvays et « Nobody » de Mitski partagent la même énergie caméra-comme-coloc. Le tissu conjonctif : la retenue et un refus de prendre le genre trop au sérieux."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Choisissez une idée et arrêtez d'en ajouter. « Artiste assis dans une piscine gonflable d'enfant dans un jardin pendant toute la chanson, zoom lent sur trois minutes » est plus indie que n'importe quel concept élaboré. Tunee gère magnifiquement les prompts en lieu unique constant quand vous spécifiez l'objectif — « focale fixe 35mm, lumière du jour douce, légère surexposition ». Embrassez les petites erreurs : une perche micro qui plonge dans le cadre, une voiture qui passe. Le vernis tue le genre plus vite qu'une mauvaise chanson."
+      }
+    ]
+  }
 }

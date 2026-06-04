@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Lyrics-to-MV-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Lyrics-to-MV-Musikvideos mit verschiedenen Prompts oder Stileinstellungen generieren und dann die Version wählen, die deiner Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LYRICS-TO-MV",
+    "h2": "Wenn der Text das Drehbuch ist, schreibt sich das Video selbst",
+    "sections": [
+      {
+        "heading": "Warum der Text DAS Storyboard IST",
+        "body": "Songwriterinnen und Songwriter wissen das bereits — ein guter Text ist als Shot-List geplant, bevor er ein Song ist. „Ich fuhr durch die Wüste in einem Auto ohne Namen\" ist eine Totale. „Sie drehte sich langsam um\" ist eine Halbtotale mit einer Kopfdrehung. Lyric-Videos, die den Text nur über einen abstrakten Hintergrund schweben lassen, ignorieren, dass jede Zeile bereits eine visuelle Anweisung ist. Eine Lyrics-to-MV-Pipeline sollte diese Anweisungen lesen, nicht die Worte auf einen Verlauf kleben."
+      },
+      {
+        "heading": "Was Tunee mit deinem Lyric-Sheet macht",
+        "body": "Fügen Sie Lyrics mit groben Timestamps ein (oder einfach den vollständigen Text — Tunee richtet ihn automatisch am Audio aus), und Sage ordnet jeder Zeile eine Einstellung zu. Konkrete Substantive werden zu Establishing-Bildern, Aktions-Verben zu Kamerafahrten, wiederholte Refrain-Zeilen verwenden dieselbe Hero-Platte erneut, sodass der Refrain auch visuell als Refrain liest. Sie bekommen auf Wunsch weiterhin Bildschirmtypografie — aber die Typografie sitzt in einer Szene, nicht über ihr."
+      },
+      {
+        "heading": "Der Prompting-Tipp, der das Ergebnis verändert",
+        "body": "Paraphrasieren Sie Ihren Text nicht in einen separaten Prompt. Der Text ist bereits konkret; der Prompt sollte der ästhetische Rahmen darum sein. Versuchen Sie es so: Lyrics in das Lyric-Feld, dann eine Prompt-Zeile für die Welt („Tokio der 1970er, regnerisch, Neon-Spiegelungen in Pfützen\"), eine für die Kamera („Handkamera, 35mm, geringe Schärfentiefe\"), eine für die Figur („Mitte 30, Lederjacke, Gesicht nie ganz gezeigt\"). Tunee übernimmt die zeilengenauen Schnitte; Sie übernehmen den Look."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à mon clip musical Dubstep?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre clip musical Dubstep."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU DUBSTEP",
+    "h2": "Les clips dubstep sont construits autour du drop — tout est au service de la basse",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le dubstep",
+        "body": "La vidéo dubstep est structurée autour d'un événement unique : le drop. Tout ce qui précède est build-up, tout ce qui suit est réaction. Les signatures visuelles : effets de glitch et de datamosh synchronisés sur les wobbles, coupes franches sur le drop (jamais de crossfades), distorsion d'objectif marquée sur les fréquences de pointe, néons hyper-saturés (bleu électrique, vert toxique, ultraviolet), inserts stroboscopiques, frame-skipping et textures de décomposition numérique. Les plans du monde réel sont souvent recouverts de distorsions abstraites plutôt que présentés bruts."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Références : « First of the Year (Equinox) » de Skrillex réalisé par Tony Truand, qui a défini le modèle cinéma-meets-glitch, « Bangarang » avec Sirah, les visuels du livestream du festival Lost Lands d'Excision qui ont posé les standards d'échelle de production, le déploiement de « Ghost Voices » de Virtual Self, les clips animés de Zomboy, les films de stage-design de Datsik et « Woo Boost » de Rusko. La filiation remonte aux vidéos de Chris Cunningham pour Aphex Twin (« Come to Daddy », « Windowlicker ») et Squarepusher — la relation du genre avec la décomposition numérique est plus ancienne que le dubstep lui-même. Le modèle dubstep de Tunee maîtrise les coupes franches et l'empilement d'effets."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Construisez le prompt autour du drop, pas de la chanson. Décrivez l'image pré-drop (« plan large statique sur un entrepôt vide, étalonnage lo-fi »), l'événement du drop (« coupe franche vers RGB-split, frames de datamosh, overlay stroboscopique ») et la continuation post-drop. Tunee synchronise les coupes sur le beat — si vous lui donnez un tempo et la position du drop, les coupes atterrissent là où la basse frappe."
+      }
+    ]
+  }
 }

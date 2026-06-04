@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines K-Pop-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres K-Pop-Musikvideos mit verschiedenen Prompts oder Style-Einstellungen generieren und dann die Version auswählen, die Ihrer Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER K-POP",
+    "h2": "K-Pop-Video ist das am stärksten durchkonstruierte visuelle Format der Musik",
+    "sections": [
+      {
+        "heading": "Wie K-Pop aussieht",
+        "body": "K-Pop-MVs sind wie Architektur gebaut. Jedes Set ist maßgefertigt, jeder Kostümwechsel ist einem Songabschnitt zugeordnet, jede Kamerafahrt ist gemeinsam mit dem Tanz choreografiert. Der Mix besteht stets aus mindestens drei Ebenen: Choreografie auf einem Set, narrative Schnitte mit Story-Beats und Konzept-Aufnahmen, in denen Mitglieder in stilisierten Solo-Umgebungen erscheinen. Die Farbwelten verschieben sich dramatisch über die vier Minuten Laufzeit. Symmetrie ist Gesetz während des Refrains. Asymmetrie kehrt in den Strophen zurück, um das Auge in Bewegung zu halten."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "NewJeans' „Super Shy\" und „Ditto\", geprägt von ADORs Creative Director Min Hee-jin und gefilmt von Naive Productions Shin Woo-seok, definieren die aktuelle naturalistische Welle — weichere Paletten, weniger Spektakel, mehr Charakter. Aespas „Drama\" unter der Regie von Sun Choi geht in die entgegengesetzte Richtung: maximalistisches Set-Design, World-Building, dichte Schnitte. BTS' „Blood Sweat and Tears\" bleibt die Messlatte für narrativen Ehrgeiz. BLACKPINKs „How You Like That\" unter der Regie von Seo Hyun-seung zeigt, wie man vier Mitglieder und ein Set wie ein globales Ereignis wirken lässt. (G)I-DLEs „Tomboy\" und Stray Kids' „God's Menu\", zusammen mit der choreografisch geführten Kameraarbeit von Beasts and Natives Alike, runden das aktuelle Vokabular ab."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Planen Sie vier Welten, nicht eine. Skizzieren Sie das Refrain-Set, die Strophen-Umgebung, den Konzeptraum der Bridge und den Outro-Raum — und prompten Sie Tunee dann für jedes mit expliziter Farbpalette und Garderobenwechsel. Symmetrische Kadrierung beim Hook-Drop ist nicht verhandelbar. Für den Tanzabschnitt benennen Sie die Formation: „V-Formation, die sich zu einer Linie öffnet, Snap auf Zählzeit vier in eine Raute\". Solo-Konzept-Aufnahmen sollten wie Mode-Editorials wirken, nicht wie Standbilder aus den Gruppenszenen."
+      }
+    ]
+  }
 }

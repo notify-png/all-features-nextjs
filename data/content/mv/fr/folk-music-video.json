@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales folk de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur le bureau et mobile, ce qui vous permet de créer des vidéos musicales folk depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU FOLK",
+    "h2": "Les clips folk gagnent leur calme par la retenue",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le folk",
+        "body": "Les visuels folk troquent le spectacle contre l'intimité. La caméra a tendance à rester immobile ou à dériver lentement — caméra à l'épaule mais composée, pas tremblante. La lumière naturelle fait la majorité du travail : une fenêtre de cuisine à l'heure dorée, un perron au crépuscule, une clairière de forêt sous un ciel couvert. La garde-robe, c'est de la laine et du jean vécus, jamais des costumes. L'artiste apparaît généralement en plein geste — versant un café, accordant une guitare, marchant — plutôt qu'en performance directe vers l'objectif."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Holocene » de Bon Iver réalisé par Nabil Elderkin a posé le modèle : une petite figure à l'intérieur d'un immense paysage islandais, aucun arc narratif requis. « Kyoto » de Phoebe Bridgers (réalisé par Lord Danger) s'appuie sur la même retenue mais y ajoute un humour pince-sans-rire. « Helplessness Blues » de Fleet Foxes par Sean Pecknold, le long arc vidéo de Sufjan Stevens, « Not » de Big Thief, « Boy with a Coin » d'Iron & Wine réalisé par Andreas Nilsson, et Inside Llewyn Davis de Joel et Ethan Coen (photographié par Bruno Delbonnel) s'inscrivent dans la même filiation. La grammaire partagée : grain 35mm, longues focales pour la distance, mains et visages en gros plan, la météo comme co-vedette. Presque jamais de grand angle, presque jamais de bleu froid."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Résistez aux adjectifs qui poussent vers le « cinématographique ». Ancrez plutôt chaque scène dans un petit détail physique : « doigts sur la troisième frette », « souffle visible dans l'air de novembre », « pluie sur une fenêtre de cuisine ». Tunee répond bien aux indications de moment de la journée — « première lueur », « dernière heure avant le coucher » — parce qu'elles contraignent automatiquement la palette. Gardez les coupes longues et laissez un moment se terminer avant que le suivant ne commence. Le folk est le genre où couper trop vite tue la chanson."
+      }
+    ]
+  }
 }

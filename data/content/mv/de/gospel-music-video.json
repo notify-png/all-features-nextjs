@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyriken oder Untertitel zu meinem Gospel-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Lyriken- und Untertitel-Overlay-Optionen. Gib einfach deine Lyriken ein, wähle einen Textstil, und die KI synchronisiert sie automatisch zu deinem Gospel-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER GOSPEL",
+    "h2": "Gospel-Video ist eine eingefangene, keine konstruierte Gemeinde",
+    "sections": [
+      {
+        "heading": "Wie Gospel aussieht",
+        "body": "Gospel-Visuals stellen den Chor in den Mittelpunkt, nicht die Solistin oder den Solisten. Selbst wenn es eine Lead-Stimme gibt, kehrt der Bildausschnitt immer wieder zu den Reihen von Gesichtern zurück — geschlossene Augen, erhobene Hände, der Moment des Erfasstwerdens. Die Schauplätze sind meist real: ein Kirchenraum mit Licht aus Bleiglasfenstern, ein Gemeindesaal, manchmal eine Erweckungsversammlung im Freien. Die Garderobe besteht aus Talaren oder Sonntagsstaat, niemals aus Streetwear. Die Kamera bewegt sich ehrfürchtig: langsame Ranfahrten auf einzelne Anbetende, schweifende Kran-Aufnahmen über die Chorempore."
+      },
+      {
+        "heading": "Referenzpunkte, die wirklich funktionieren",
+        "body": "Kirk Franklins „Love Theory\" zeigt die moderne Blaupause — Gemeinschafts-Inszenierung, freudvolle Bewegung, Licht, das durch die Fenster strömt. Die Live-Videos von Tasha Cobbs Leonards „Break Every Chain\" beweisen, dass das Live-in-Worship-Format am stärksten trifft. CeCe Winans' „Believe For It\", die Aufnahmen des Sunday Service Choir von Maverick City Music und Kanye West, die Chor-Schnitte von Hezekiah Walker, Hillsong UNITEDs „Oceans\" und The Kingdom Choirs „Stand By Me\" bei der königlichen Hochzeit vervollständigen das Vokabular. Die gemeinsame Regel, kodifiziert vom langjährigen Gospel-Video-Regisseur Derek Blanks und den Live-Capture-Spezialisten bei TBN: keine Choreografie, die getrennt vom Gefühl wirkt. Wenn ein Heben der Hand inszeniert aussieht, kollabiert das ganze Bild."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Bauen Sie zuerst den Raum, bevölkern Sie ihn dann. Beginnen Sie mit „Sonnenlicht durch hohe Fenster eines holzvertäfelten Kirchenraums, sichtbarer Staub in den Strahlen\" und ergänzen Sie dann den Chor in Reihen hinter der Solistin oder dem Solisten. Tunee meistert die Wärme aus gemischtem Tageslicht und Wolframlicht gut, wenn Sie beide Quellen angeben. Verlangen Sie zwischen weiteren Chor-Aufnahmen einzelne Gesichter in Nahaufnahme — Gospel braucht diese Intimität ebenso wie die Größe. Halten Sie die Schnitte auf den Atem der Phrase, nicht auf die Snare."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Le générateur de clips vidéo musicaux lo-fi de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur Web sur les appareils de bureau et mobiles, vous pouvez donc créer des clips vidéo musicaux lo-fi depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU LO-FI",
+    "h2": "La vidéo lo-fi est une pièce dans laquelle on a envie d'étudier",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le lo-fi",
+        "body": "Les visuels lo-fi sont l'inverse de la tradition du clip musical : pas d'interprète, pas de récit, pas de coupes. Une seule scène en boucle — généralement une pièce animée, un bureau, une fenêtre sous la pluie — tourne pendant des heures derrière la musique. La palette de couleur est atténuée : beiges chauds, bleus poussiéreux, roses doux au crépuscule. La figure, s'il y en a une, est animée dans le style du Studio Ghibli de la fin des années 90 avec une touche d'illustration japonaise moderne. Le mouvement est minimal : un coup de queue, la vapeur d'une tasse, une page qui tourne."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Le stream YouTube Lofi Girl — animé par Juan Pablo Machado, dont l'étudiante à son bureau et la fenêtre sur la skyline parisienne sont devenues l'ancre du format — reste le modèle visuel. Les boucles antérieures de ChilledCow, l'esthétique de « Twilight » d'Idealism et la collection Anime Vibe sur YouTube complètent le canon. Les fonds du Studio Ghibli, en particulier les scènes d'étude de « Whisper of the Heart » de Hayao Miyazaki et les chambres des bains de « Spirited Away », sont la source non dite. Le rythme piano silencieux de Joe Hisaishi se calque parfaitement sur le tempo du genre. La règle : rien ne doit jamais interrompre l'attention de l'auditeur sur sa propre tâche."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Concevez pour la permanence, pas la progression. Promptez Tunee pour une seule scène avec trois ou quatre petites boucles de mouvement — pluie sur la fenêtre, vapeur qui monte du café, chat qui respire, ventilateur qui tourne. Spécifiez le moment de la journée et laissez-le rester : « fin d'après-midi, lumière dorée venant de la gauche, lampe allumée ». Évitez complètement les mouvements de caméra. Tout l'intérêt, c'est que le spectateur oublie que la vidéo existe. Visez le silence visuel, puis ajoutez un minuscule détail qui récompense un second regard."
+      }
+    ]
+  }
 }
