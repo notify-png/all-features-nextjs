@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Apple Music Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Lyrics- und Untertitel-Overlay-Optionen. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil, und die KI synchronisiert sie automatisch mit Ihrem Apple Music Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR APPLE MUSIC",
+    "h2": "Apple Music-Videos sind ein eigenes Format — kein anderes kommt ran",
+    "sections": [
+      {
+        "heading": "Was Apple wirklich verlangt",
+        "body": "Apple Music hat drei Video-Flächen: das Standard-Musikvideo (über den Distributor des Künstlers geliefert, meist 16:9 1080p oder 4K), Motion Lyrics (ein vertikales, textorientiertes Format, das jede Zeile animiert, während der Song läuft) und Spatial Video für Vision Pro (3D-tiefen-kartiert, 9:16 oder 16:9 — noch eine kleine, aber wachsende Fläche). Die Standards sind strenger als bei YouTube — Apples QC lehnt Videos tatsächlich bei technischen Spezifikationsfehlern ab."
+      },
+      {
+        "heading": "Was Motion Lyrics belohnt",
+        "body": "Motion Lyrics ist das Format, das die meisten Labels unterschätzen. Es ist vertikal, läuft auf dem iPhone im Vollbild und Apple kuratiert es redaktionell in Playlists. Der visuelle Kanon ist subtil: ein einzelner texturierter Hintergrund (Filmkorn, Gradient, langsame Partikel), Liedtext in einer Schriftart, die zur Album-Identität passt, zeilenweiser Animation, die auf der Silbe landet. Kein Karaoke-Wort-Highlighting — zeilenweise Enthüllungen, getaktet auf die Einsätze der Vocals."
+      },
+      {
+        "heading": "Wie Tunee Apples Formate handhabt",
+        "body": "Das Apple Music-Preset liefert aus einer einzigen Generierung drei Ergebnisse: 16:9 4K für den Standard-MV-Slot, einen 9:16 Motion Lyrics-Schnitt mit getakteten Zeilenentüllungen vor deinem gewählten Hintergrund und ein Spatial-fähiges Tiefen-Map-MP4 für die Vision Pro-Fläche. Alle drei sind spezifikationskonform für Apples Distributor-Upload. Das Lyrics-Timing nutzt dieselbe Ausrichtung, die Tunee bereits für den Lyrics-to-MV-Workflow macht — du musst den Song nicht zweimal taggen."
+      }
+    ]
+  }
 }

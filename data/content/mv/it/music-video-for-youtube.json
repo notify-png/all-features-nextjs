@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali YouTube di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali YouTube da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER YOUTUBE",
+    "h2": "YouTube è l'unica piattaforma dove l'MV a formato completo vince ancora",
+    "sections": [
+      {
+        "heading": "Perché il 16:9 e i formati più lunghi contano ancora qui",
+        "body": "Al di fuori di YouTube, il music video è stato compresso in clip verticali di 60 secondi. Su YouTube, il formato originale è ancora quello dominante — 16:9, 3-5 minuti, guardato su un televisore o un laptop in sottofondo. L'algoritmo della piattaforma premia i minuti di visione, non la retention in secondi, il che significa che un MV di 4 minuti che regge il 60% vale più di dieci tagli da 30 secondi che reggono il 90%. La matematica favorisce il lasciare respirare il brano."
+      },
+      {
+        "heading": "Come appare il canone MV su YouTube",
+        "body": "Apri con un cold intro (i video di Childish Gambino di Hiro Murai, i tagli di 21 Savage di Dave Meyers, qualsiasi cosa Cole Bennett diriga per Lyrical Lemonade) — da 5 a 15 secondi di ambientazione prima del primo downbeat. Tieni i campi larghi di stabilimento più a lungo di quanto faresti su TikTok. Guadagnati il close-up. Chiudi con un tag, una outro card o uno smash cut ai crediti — lo spettatore YouTube è condizionato a guardare fino alla end card."
+      },
+      {
+        "heading": "Il preset YouTube di Tunee, nello specifico",
+        "body": "Scegli YouTube e il renderer produce 16:9 a 4K, con una finestra di intro più lunga, durata media dei tagli più lenta (1,8 secondi rispetto a 0,9 del preset TikTok), e una timeline con capitoli se il brano ha sezioni chiare. MP4 pronto per l'upload, H.264, audio a 320 kbps AAC. I fermo immagine per le thumbnail ai picchi visivi vengono generati automaticamente così non devi scorrere la timeline cercando il momento che vende il click."
+      }
+    ]
+  }
 }

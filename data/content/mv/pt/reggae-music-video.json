@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um vídeo de música reggae para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu vídeo de música reggae usando diferentes prompts ou configurações de estilo, então selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE REGGAE",
+    "h2": "O vídeo de reggae se instala na hora dourada e se recusa a sair",
+    "sections": [
+      {
+        "heading": "Como é o visual do reggae",
+        "body": "Os MVs de reggae se inclinam para cor quente, movimento de câmera lento e luz ao ar livre. Praia ao pôr do sol, estrada na montanha, rua do mercado — a paisagem é co-protagonista com o artista. A fumaça quase sempre está no quadro, suave e difusa. O figurino é solto e de fibra natural: linho, jeans, cores rasta usadas como acento e não como uniforme. O ritmo é paciente; os vídeos de reggae raramente cortam mais rápido do que o tempo do snare off-beat. A comunidade está visível — amigos, família e vizinhos aparecem sem encenação."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O material de performance do 'Redemption Song' de Bob Marley permanece como o padrão emocional. O 'Welcome to Jamrock' de Damian Marley construiu o vocabulário moderno do MV de reggae estilo documentário, com cineastas jamaicanos como Storm Saulter (diretor de 'Sprinter') levando essa tradição das ruas de Kingston à geração atual. O 'Skankin' Sweet' do Chronixx traz a tradição visual do lover's rock para a era atual. O 'Toast' da Koffee, o 'Switch It Up' do Protoje e os Easy Star All-Stars completam o conjunto de referências atuais. O fio condutor é a autenticidade da locação — vídeos que não parecem enraizados em um lugar real, de preferência a Jamaica ou algum lugar que respeite a linhagem, soam vazios."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Defina o horário do dia na primeira frase e nunca o quebre. 'Fim de tarde, hora antes do pôr do sol, luz laranja quente, sombras longas de palmeiras' dá ao Tunee uma base que ele pode manter entre múltiplas cenas. Adicione detalhes da comunidade — crianças brincando na borda do quadro, um casal mais velho numa varanda — para ancorar o visual. Os movimentos de câmera devem ser dollies lentos ou caminhadas câmera na mão, nunca giros de grua. Corte no tempo do skank off-beat, não no downbeat."
+      }
+    ]
+  }
 }

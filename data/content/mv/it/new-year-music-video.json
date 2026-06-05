@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale di Capodanno per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale di Capodanno utilizzando prompt diversi o impostazioni di stile diverse, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL NEW YEAR MV",
+    "h2": "Un video di fine anno che non è generato automaticamente da un'app",
+    "sections": [
+      {
+        "heading": "Perché il tuo MV di fine anno batte Spotify Wrapped",
+        "body": "Ogni piattaforma ora pubblica un recap automatico di fine anno — utile, dimenticabile, identico per ogni utente. Un MV personale di fine anno è l'antidoto: 60-90 secondi che curi davvero tu, musicato con il brano che ha definito l'anno piuttosto che quello che hai ascoltato di più. Le coppie li fanno come sostituti dell'anniversario, i freelance li fanno come recap del portfolio, e i gruppi di amici li fanno come invio di gruppo nella chat di capodanno il 31 dicembre."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I tagli di fine anno vivono su tre beat ripetuti: il transito di viaggio (gate dell'aeroporto, finestrini dei treni, cruscotti in viaggio su strada), i pasti condivisi (il tavolo dall'alto, il brindisi, il close-up della candela), e le piccole vittorie silenziose (un manoscritto finito, un traguardo in palestra, una chiave in una nuova porta). Il riferimento culturale è sonoro e specifico — la tradizione del Dick Clark's Rockin' Eve e la Palla di Times Square dal 1907, il Jools Holland Hootenanny della BBC il 31 dicembre, i fuochi d'artificio di Sydney Harbour e del London Eye. Chiudere con un campo largo di fuochi d'artificio o un bacio a mezzanotte è la mossa ovvia — funziona perché tutti se l'aspettano. Assecondala piuttosto che evitarla."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Resisti all'impulso di stipare dodici mesi di filmati in un MV — scegli tre o cinque momenti e lasciali respirare. Tunee gestisce meglio il ritmo quando gli vengono dati pochi ancoraggi specifici. Un prompt che nomina 'terrazza a Lisbona di mattina, luglio; sala d'attesa del parto, settembre; rooftop di capodanno, dicembre' produce un taglio più guardabile di un brief in bullet point di un anno intero."
+      }
+    ]
+  }
 }

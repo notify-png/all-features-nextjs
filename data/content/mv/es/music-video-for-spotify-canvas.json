@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de video musical Spotify Canvas de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en escritorio y móvil, por lo que puedes crear videos musicales Spotify Canvas desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA SPOTIFY CANVAS",
+    "h2": "Canvas dura de 3 a 8 segundos. Tiene que hacer bucle. Y no puede tener audio propio",
+    "sections": [
+      {
+        "heading": "Qué es Canvas de verdad",
+        "body": "Spotify Canvas es el video vertical en bucle que se reproduce detrás de una pista en la pantalla Reproduciendo Ahora: de 3 a 8 segundos, en 9:16, sin audio nativo (la canción es el audio). El formato es un bucle, lo que significa que el primer y el último fotograma tienen que coincidir limpiamente o el usuario verá un corte duro cada 8 segundos. La mayoría de los sellos siguen subiendo una portada de álbum estática porque crear un bucle de 8 segundos sin costuras sin un editor es más trabajo del que quieren hacer."
+      },
+      {
+        "heading": "Qué funciona en 8 segundos",
+        "body": "Tres formatos dominan: un retrato en cámara lenta que hace bucle en una expresión sostenida, una textura abstracta (humo, agua, tinta en leche) donde el punto de bucle es invisible, o un movimiento único repetido (un disco girando, una mano tamborileando, una cortina respirando) que ya es cíclico por naturaleza. Cualquier cosa narrativa es inadecuada para el formato: el espectador no tiene contexto de audio y solo tiene 8 segundos. Estado de ánimo, no historia."
+      },
+      {
+        "heading": "Cómo renderiza Tunee para Canvas",
+        "body": "Elige el preset de Canvas y el generador se limita a un único plano coherente, máximo 8 segundos, con el primero y el último fotograma forzados a coincidir. Sin cortes dentro del clip. La salida es 9:16 a 720p (especificación de Canvas), MP4, por debajo de 8 MB. La misma generación fuente produce un fotograma estático de portada de álbum para que puedas actualizar el artwork junto con el Canvas en una sola subida a Spotify for Artists."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "O gerador de vídeos de música para DJs do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar vídeos de música para DJs de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA DJS",
+    "h2": "O visual para DJ não é videoclipe — é projeção de festival em escala reduzida",
+    "sections": [
+      {
+        "heading": "Por que o MV de DJ é um formato próprio",
+        "body": "DJs não cantam a música, não a escreveram da forma que um cantor-compositor o faria, e raramente aparecem na câmera durante toda a duração. Um MV de DJ que tenta ser um vídeo narrativo de artista geralmente fracassa. O que funciona é a estética da tela de festival comprimida para o YouTube: motion graphics abstratos, visualizadores estilo palco principal, explosões de luz sincronizadas com o drop, cortes ocasionais para o DJ na cabine para estabelecer identidade. Pense nos sets visuais do Anyma, nas projeções do Cube do deadmau5, no HOLO de Eric Prydz. Escala visual, não profundidade narrativa."
+      },
+      {
+        "heading": "Como o drop tem que parecer",
+        "body": "Todo MV de DJ vive ou morre no drop. Os 8 a 16 compassos anteriores devem construir visualmente — saturação de cor aumentando gradualmente, movimentos de câmera acelerando, enquadramento se fechando. O drop em si é o pagamento visual: um corte duro para o plano mais aberto, mais brilhante e mais cinético do vídeo, sustentado pelos primeiros 4 compassos antes de qualquer corte retornar. Acerte esse único momento e o resto do vídeo pode ser loops; erre e até visuais ótimos parecem fracos sob um drop incrível."
+      },
+      {
+        "heading": "Como o Tunee constrói o drop",
+        "body": "O analisador de áudio sinaliza o drop automaticamente (pico de energia + confirmação de tempo + sinal estrutural), e o Sage mapeia o acúmulo visual para cair sobre ele. O preset de DJ se inclina para o abstrato e arquitetônico em vez de orientado a personagens — menos rostos, mais geometria, paleta travada nos brilhos de tela de festival. A saída é 16:9 para arquivos de reprodução no espaço (sim, você pode entregar o MP4 ao seu VJ para os shows ao vivo) mais 9:16 para o social. Uma única geração, ambas as superfícies."
+      }
+    ]
+  }
 }

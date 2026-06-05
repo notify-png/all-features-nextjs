@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Phonk-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobile zugänglich, sodass du Phonk-Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER PHONK",
+    "h2": "Phonk-Video läuft auf Reifenrauch und Memphis-Geistern",
+    "sections": [
+      {
+        "heading": "Wie Phonk aussieht",
+        "body": "Phonk-Visuals haben die Memphis-Rap-Mixtape-Ästhetik der 1990er durch TikTok gejagt und Drift-Autos hinzugefügt. Der Look ist stark komprimiert: verzerrtes Neon, VHS-Tracking-Fehler, Frame-Ghosting, aufgerissene Rottöne. Maskierte Figuren tauchen ständig auf — Sturmhauben, Dämonenmasken, anonyme Silhouetten. Autos sind zentral, fast immer quer. Die Farbe wird von Rot und Schwarz dominiert, mit gelegentlichen Einbrüchen von Säure-Grün oder Neon-Pink. Textoverlays in gerissenen, kyrillisch beeinflussten Schriften erscheinen oft über dem Geschehen."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Kordhells 'Murder in My Mind', wie die meisten Phonk-Visuals selbst produziert, setzte das moderne Template mit autowogendem, maskenschwerem Bildmaterial. PLUSMAs 'Trouble', MoneySamuel und Pharaoh kommen aus der russischen Phonk-Szene, die die aktuelle Ästhetik geprägt hat. DVRSTs 'Close Eyes' trug die Drift-und-Distorsions-Sprache zu einer Milliarde Views, und Hensons 'Sahara' kodifizierte das Desert-Drift-Subgenre. Frühere Einflüsse führen direkt zu Three 6 Mafias 'Tear Da Club Up' und DJ-Screw-Mixtape-Art zurück. Der rote Faden: aggressive Lo-Fi-Behandlung jedes Frames plus die Weigerung, je ein sauberes Gesicht zu zeigen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Den Verfall in den Vordergrund stellen. Tunee nach 'schwerem VHS-Rauschen, chromatischer Aberration an den Rändern, aufgerissenen Rot-Highlights, Frame-Skipping alle zwei Sekunden' promtpen. Das Auto früh spezifizieren — 'Hinterradantrieb-Coupe mitten im Drift, Reifenrauch füllt das untere Drittel'. Gesichter sollten verdeckt oder teilweise sichtbar sein. Kyrillischen Schrift-Text in der Ecke des Frames für Authentizität hinzufügen. Keinen sauberen Output anfordern. Phonk, der sauber gerendert aussieht, verliert, wofür das Genre steht."
+      }
+    ]
+  }
 }

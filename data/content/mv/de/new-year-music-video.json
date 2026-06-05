@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Neujahrs-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Neujahrs-Musikvideos mit unterschiedlichen Prompts oder Stil-Einstellungen generieren und dann die Version wählen, die am besten zu Ihrer Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS NEUJAHRS-MV",
+    "h2": "Ein Jahresrückblick-Video, das keine App automatisch generiert hat",
+    "sections": [
+      {
+        "heading": "Warum dein eigenes Jahresend-MV Spotify Wrapped schlägt",
+        "body": "Jede Plattform liefert jetzt einen auto-generierten Jahresend-Rückblick — nützlich, vergesslich und für jeden Nutzer identisch. Ein persönliches Jahresend-MV ist das Gegenmittel: 60 bis 90 Sekunden, die du wirklich kuratierst, zum Song vertont, der das Jahr definiert hat — nicht dem, den du am meisten gestreamt hast. Paare machen sie als Jahrestags-Ersatz, Freelancer als Portfolio-Recap und Freundesgruppen als Silvester-Chat-Abschluss."
+      },
+      {
+        "heading": "Die Shots, die immer funktionieren",
+        "body": "Jahresend-Schnitte leben auf drei wiederkehrenden Beats: Reise-Transit (Flughafen-Gates, Zugfenster, Roadtrip-Armaturenbretter), gemeinsame Mahlzeiten (der Tisch von oben, der Toast, das Kerzennah) und stille Erfolge (ein fertiges Manuskript, ein Fitness-Meilenstein, ein Schlüssel in einer neuen Tür). Das Referenzregal ist laut und spezifisch — Dick Clarks Rockin' Eve und die Times-Square-Balldrop-Tradition seit 1907, BBCs Jools Holland Hootenanny am 31. Dezember, die Feuerwerke am Sydney Harbour und am London Eye. Den Abschluss auf einem Feuerwerks-Wide oder einem Mitternachtskuss zu setzen ist der offensichtliche Zug — er funktioniert, weil alle ihn erwarten. Lean in statt ausweichen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Widerstehe dem Drang, zwölf Monate Footage in ein MV zu pressen — wähle drei bis fünf Momente und lass sie atmen. Tunee handhabt das Pacing besser, wenn es wenige, spezifische Anker bekommt. Ein Prompt wie 'Lissaboner Balkon, Morgen, Juli; Warteraum im Krankenhaus, September; Silvester-Dachterrasse, Dezember' produziert einen besser schauwürdigen Schnitt als ein Jahres-in-Stichpunkten-Briefing."
+      }
+    ]
+  }
 }

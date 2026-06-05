@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe musical para X / Twitter?",
       "a": "O Tunee oferece opções integradas de overlay de letras e legendas. Basta digitar suas letras e escolher um estilo de texto, e o IA as sincronizará com seu videoclipe musical X / Twitter automaticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA TWITTER",
+    "h2": "O vídeo no X/Twitter toca automaticamente sem som — o primeiro frame precisa fazer o trabalho que o áudio normalmente faz",
+    "sections": [
+      {
+        "heading": "A restrição de formato que ninguém projeta levando em conta",
+        "body": "O vídeo no X toca automaticamente no feed sem som. O usuário precisa tocar ativamente para ativar o áudio. O que significa que seus primeiros 2 segundos estão competindo não contra outros vídeos, mas contra o silêncio — e a maioria dos videoclipes depende do áudio para sustentar a abertura. A solução: projete o primeiro frame para ser visualmente impactante por si só, e adicione um gancho legendado (letra, nome do artista, título da música) no primeiro segundo para que o espectador mudo saiba o que está vendo."
+      },
+      {
+        "heading": "Matemática de proporção e duração",
+        "body": "O X permite 16:9, 1:1 e 9:16, mas o 16:9 ocupa mais espaço no feed no desktop, onde uma parcela considerável do tráfego de descoberta de música ainda acontece. O 1:1 vence em timelines de celular. O limite de upload de 2 minutos e 20 segundos (para contas sem plano pago) raramente é o fator limitante — a maioria dos clipes de videoclipe no X tem de 30 a 60 segundos, estruturados como um teaser com link para a versão completa no YouTube. Trate o X como a superfície de trailer, não como o destino."
+      },
+      {
+        "heading": "O preset Twitter do Tunee e o export duplo",
+        "body": "Escolha X/Twitter e você obtém duas saídas: um corte 16:9 1080p com uma legenda de abertura incorporada (artista + música, primeiros 1,5 segundo, removível) para feeds de desktop, e uma versão 1:1 1080p para respostas e quote-tweets com foco em celular. Os dois estão abaixo de 50MB para passar pelo limite de upload do X sem recompressão. O áudio é mixado ligeiramente mais alto no master para compensar a normalização de loudness da plataforma, que opera mais baixa do que Spotify ou YouTube."
+      }
+    ]
+  }
 }

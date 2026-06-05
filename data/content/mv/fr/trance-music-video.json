@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéo de musique Trance de Tunee fonctionne-t-il sur les appareils mobiles?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous pouvez donc créer des vidéos de musique Trance à partir de n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DE LA TRANCE",
+    "h2": "Le clip trance est le mainstage de festival filmé depuis l'intérieur de la montée",
+    "sections": [
+      {
+        "heading": "À quoi ressemble la trance",
+        "body": "Les MV trance sont presque toujours de la captation live : plans de mainstage, passes de drone au-dessus des foules, le DJ en silhouette contre un rig de scène complet au moment du drop. La couleur est dominée par le bleu profond et le blanc, avec des intrusions de laser rose chaud ou vert pendant les pics. Mains levées, feux d'artifice, canons à fumée. La montée obtient des visages en téléobjectif au ralenti ; le drop obtient le plan large de scène avec les lasers pleinement ouverts. Il n'y a pas de narration — la vidéo est l'événement."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Les captations live de « Group Therapy » d'Above & Beyond depuis Anjunabeach et le Madison Square Garden définissent le format moderne du MV trance. Les films d'événements « A State of Trance » d'Armin van Buuren posent l'étalon d'échelle, et l'équipe livestream interne d'Anjunabeats a construit la grammaire caméra signature du genre. Les enregistrements de festivals ASOT, Dreamstate, et les cuts officiels du mainstage de Tomorrowland — notamment la captation du mainstage d'« Animals » de Martin Garrix — complètent le canon visuel. Des repères antérieurs — le live « Adagio for Strings » de Tiesto au stade olympique et le footage mainstage de Paul van Dyk — enseignent encore comment filmer un drop émotionnel. L'instinct partagé : faire confiance à la foule."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Cartographiez la structure du morceau sur les positions de caméra avant de prompter. Montée : visages téléobjectif dans la foule, zoom lent. Drop : plan large de scène, lasers pleinement actifs, révélation drone de l'audience complète. Break : retour aux visages, souvent au ralenti. Spécifiez le rig de scène : « trente têtes mobiles, quatre unités laser, six canons à CO2, rig pyro complet le long du bord d'arrière-scène ». Tunee rend les scènes de foule massive de façon plus convaincante quand vous indiquez la capacité de la salle."
+      }
+    ]
+  }
 }

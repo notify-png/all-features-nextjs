@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Phonk di Tunee funziona sui dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite web browser su desktop e mobile, quindi puoi creare video musicali Phonk da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL PHONK",
+    "h2": "Il video phonk vive di fumo di gomme e fantasmi di Memphis",
+    "sections": [
+      {
+        "heading": "Come appare il phonk",
+        "body": "Le visual phonk hanno preso l'estetica dei mixtape rap di Memphis degli anni '90, l'hanno fatta passare per TikTok e ci hanno aggiunto le macchine da drift. Il look è fortemente compresso: neon distorto, errori di tracking VHS, ghosting dei frame, rossi bruciati. Figure mascherate compaiono costantemente — passamontagna, maschere demoniache, silhouette anonime. Le macchine sono centrali, quasi sempre di lato. Il colore è dominato da rosso e nero con intrusioni occasionali di verde acido o rosa caldo. Sovrimpressioni di testo in caratteri screpolati con influenza cirillica spesso compaiono sopra l'azione."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Murder in My Mind' di Kordhell, autoprodotto come la maggior parte delle visual phonk, ha stabilito il template moderno con immagini incentrate sulle auto e pesanti di maschere. 'Trouble' di PLUSMA, MoneySamuel e Pharaoh vengono dalla scena phonk russa che ha modellato l'estetica attuale. 'Close Eyes' di DVRST ha portato il linguaggio drift-e-distorsione a un miliardo di visualizzazioni e 'Sahara' di Hensonn ha codificato il sottogenere desert-drift. Le influenze precedenti risalgono direttamente a 'Tear Da Club Up' dei Three 6 Mafia e all'artwork dei mixtape di DJ Screw. Il filo conduttore: trattamento lo-fi aggressivo di ogni frame, più il rifiuto di mostrare mai un volto pulito."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Abbraccia la degradazione. Chiedi a Tunee 'forte rumore VHS, aberrazione cromatica sui bordi, alti rossi bruciati, salto di frame ogni due secondi'. Specifica la macchina in anticipo — 'coupé trazione posteriore a metà drift, fumo di gomme che riempie il terzo inferiore'. I volti devono essere oscurati o parziali. Aggiungi testo in stile cirillico nell'angolo del frame per autenticità. Non chiedere output puliti. Il phonk che sembra renderizzato con cura perde ciò per cui il genere esiste."
+      }
+    ]
+  }
 }

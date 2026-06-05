@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videoclips de visualizador de música de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web tanto en desktop como en móvil, para que puedas crear videoclips de visualizador de música desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE LOS VISUALIZADORES DE MÚSICA",
+    "h2": "Los visualizadores son video abstracto con una sola misión: escuchar de vuelta",
+    "sections": [
+      {
+        "heading": "Qué es un visualizador",
+        "body": "El visualizador de música es el formato en el que lo visual es movimiento abstracto audio-reactivo sin narrativa, personaje ni lugar: pura respuesta a la frecuencia y la amplitud. El linaje va desde las películas abstractas de Oskar Fischinger en los años 30, pasando por la era de Winamp en los 90, hasta los loops de Spotify Canvas y los visualizadores de día de lanzamiento en YouTube actuales. La misión es darle al oyente algo que mirar que respire con la canción, a menudo como imagen de fondo en una subida de YouTube o como arte vertical en bucle de Spotify."
+      },
+      {
+        "heading": "Cuándo usarlo",
+        "body": "Los visualizadores son el formato correcto para lanzamientos instrumentales y electrónicos, streams de lo-fi hip-hop, Spotify Canvas (bucles verticales de 8 segundos en cada pista), subidas de día de lanzamiento en YouTube para evitar la imagen estática, y todo aquello donde publicar rápido importa más que la narrativa. El linaje estético va desde Oskar Fischinger hasta el Winamp de los 90 y el Canvas actual. El canon de herramientas: Video Copilot de Andrew Kramer, Trapcode Particular de Peder Norrby, el arte generativo Trail de Robert Hodgin, los dailies de Cinema 4D de Beeple. Artistas que construyeron su marca sobre la estética del visualizador: Lorn, Bonobo, el trabajo de diseño ISO50 de Tycho, el ecosistema de YouTube de Lofi Girl / ChilledCow animado por Juan Pablo Machado. Cualquiera que publique singles mensuales necesita un pipeline de visualizador."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Dile a Tunee el formato explícitamente: 'bucle de 8 segundos para Spotify Canvas, 9:16 vertical, bucle sin costura'. Especifica el elemento reactivo: 'la densidad de partículas responde a los bajos, el color cambia en los transitorios agudos'. Elige una sola primitiva de movimiento — fluido, partículas, geometría u osciloscopio — no las cuatro. Añade 'movimiento sutil, mantiene para reproducción repetida' para Canvas; 'gran construcción que sigue el arreglo' para YouTube de larga duración. Tunee renderiza 16:9 y 9:16 desde una sola generación, así que obtienes YouTube y Canvas en un solo pase."
+      }
+    ]
+  }
 }

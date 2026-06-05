@@ -39,5 +39,23 @@
       "q": "Comment puis-je ajouter des paroles ou des sous-titres à ma vidéo musicale vaporwave ?",
       "a": "Tunee propose des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale vaporwave."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU VAPORWAVE",
+    "h2": "Le clip vaporwave est la culture de consommation qui se décompose en temps réel",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le vaporwave",
+        "body": "Les visuels vaporwave ont pillé l'imagerie consumériste de la fin des années 80 et du début des années 90 — centres commerciaux, statues grecques, interfaces Windows 95, publicités japonaises, palmiers sur des logos de cartes de crédit — et les ont fait passer à travers une dégradation VHS délibérée. La palette est rose pastel et cyan avec quelques intrusions de vert maladif. Le texte apparaît en kanji japonais et en anglais à effet chromé. Les compositions sont des zooms lents ou de longs plans fixes. Rien ne doit avoir l'air d'avoir été fait dans la décennie actuelle. Tout l'enjeu est la désorientation temporelle."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "La pochette de « Floral Shoppe » de Macintosh Plus (projet de Vektroid) et les visuels YouTube fan-made associés ont défini toute l'esthétique en une seule image — le buste Hélios de Pergame sur fond de kanji rose et cyan. Les edits Simpsonwave du milieu des années 2010, pionnièrement créés par le YouTubeur Lucien Hughes, ont diffusé le vocabulaire visuel à une audience plus large. Saint Pepsi, « B:/ Start Up » de Blank Banshee, et le collectif AI Lossy fournissent les compagnons visuels de la musique. Le matériau source partagé : cassettes VHS de brocante, chaînes de téléachat nocturne, photographies de centres commerciaux abandonnés par des artistes comme Seph Lawless. Les nouvelles vidéos qui tentent d'être vaporwave sans honorer cette décroissance ont tendance à sonner comme du déguisement plutôt que comme du conceptuel."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Superposez trois ères d'imagerie consumériste dans un seul cadre. « Buste de marbre grec au premier plan, fond d'écran Windows desktop 1995 en arrière-plan, publicité pour soda japonaise flottant à gauche ». Spécifiez le traitement VHS comme une couche de prompt séparée : « lignes de suivi, saignement de chroma, dropout occasionnel ». La couleur doit être rose pastel doux et cyan avec un ton discordant pour créer de la tension. Le mouvement doit être un zoom lent unique sur toute la scène, jamais de coupes. Tunee gère mieux les compositions surréalistes statiques que la plupart des générateurs quand vous lui donnez un placement d'objets explicite."
+      }
+    ]
+  }
 }

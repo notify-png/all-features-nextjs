@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical surrealista para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical surrealista usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV SURREALISTA",
+    "h2": "El video surrealista necesita lógica interna para funcionar de verdad",
+    "sections": [
+      {
+        "heading": "Lo que separa lo surrealista de lo aleatorio",
+        "body": "Surrealista no es 'cosas raras y aleatorias suceden'. La pipa de Magritte y los relojes de Dalí funcionan porque la ejecución pictórica es convencional — luz limpia, materiales reales, composición tradicional — mientras que un elemento viola la física o la escala. El contraste es lo que lo hace onírico. El surrealismo generado por IA falla a menudo yendo a lo aleatorio en todos los planos, lo que el cerebro lee como error técnico en lugar de sueño. La regla: elige una sola cosa imposible por plano y renderiza todo lo demás con realismo documental a su alrededor."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "Lista de referencias: Salvador Dalí y René Magritte para el canon pictórico, Meshes of the Afternoon de Maya Deren, Eraserhead de David Lynch, Mulholland Drive y las secuencias del Black Lodge de Twin Peaks, los efectos prácticos del Eternal Sunshine de Michel Gondry (más sus videos de Björk), Being John Malkovich y Her de Spike Jonze, I'm Thinking of Ending Things de Charlie Kaufman. Videoclips: las piezas de Björk de Gondry Bachelorette y Hunter, el catálogo co-dirigido de OK Go con Damian Kulash (Here It Goes Again), el Donkey Rhubarb de Aphex Twin de Chris Cunningham. El modelo surrealista de Tunee está entrenado para mantener un elemento imposible mientras renderiza el resto como foto-real, la fórmula que realmente funciona."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Estructura los prompts como 'escena realista + un elemento imposible': 'cocina foto-real, luz suave de ventana, fregadero lleno de peces de colores flotando donde debería haber agua'. No rompas la iluminación ni la escala en el lado realista: la lógica onírica viene del contraste. Referencia al auteur de lógica onírica si tienes un objetivo: 'zoom lento lynchiano, habitación con proporciones ligeramente alargadas para su tamaño'. Evita 'surrealista y onírico' como adjetivos: empujan hacia el caos."
+      }
+    ]
+  }
 }

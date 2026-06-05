@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Rappers di Tunee funziona su dispositivi mobile?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali Rappers da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER I RAPPER",
+    "h2": "Il video rap è il genere più codificato visivamente nella musica",
+    "sections": [
+      {
+        "heading": "Perché i video rap sembrano video rap",
+        "body": "Il video hip-hop ha più convenzioni di qualsiasi altro genere, di gran lunga. Il drill ha il suo specifico linguaggio di frame (a mano, obiettivo grandangolare, esterni notturni, fish-eye sul rapper, riprese di gruppo da angoli bassi — vedi Welcome to the Party di Pop Smoke, il catalogo di Headie One). La trap ha il suo (neon da strip-club di Atlanta, soldi al rallenty, tracking shot di lowrider, la grammatica di Dave Meyers e Cole Bennett). Le convenzioni esistono perché il pubblico le legge — romperle troppo e il video non si legge come il genere che dovrebbe essere."
+      },
+      {
+        "heading": "Cosa consegna davvero il canone",
+        "body": "Il rapper che esegue direttamente in camera nella prima strofa — vicino alle labbra per le battute migliori, più largo sul corpo per il flow. B-roll lifestyle tagliato sulla performance: macchine, gioielli, location che si leggono come territorio. La ripresa di gruppo, sempre. Un cambio di location per la seconda strofa per segnalare scala. Il bridge o l'ultimo hook ricevono il campo largo, il fumo, il rallenty. La gerarchia visiva di un MV rap è fissa quanto la struttura strofa-hook-strofa-hook del brano."
+      },
+      {
+        "heading": "Come il preset rap di Tunee legge il genere",
+        "body": "Il modello di Tunee è addestrato sul canone visivo reale — drill, trap, boom-bap, melodico, rap UK hanno ognuno i loro percorsi di modello. Scegli il sottogenere e i default cambiano: il drill va verso esterno notturno a mano, la trap verso neon e slow-mo, il melodico verso il cinematografico caldo. Verticale 9:16 per la promo TikTok, 16:9 per il caricamento YouTube, entrambi dalla stessa generazione. Le riprese performance mantengono la coerenza del personaggio così si legge come l'artista, non come un volto AI generico."
+      }
+    ]
+  }
 }

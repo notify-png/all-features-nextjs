@@ -39,5 +39,23 @@
       "q": "O gerador de vídeo de música de Adoração Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e dispositivos móveis, portanto você pode criar vídeos de música de Adoração de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA LOUVOR",
+    "h2": "O vídeo de louvor é um gênero próprio com seu próprio cânone",
+    "sections": [
+      {
+        "heading": "Como é o visual do vídeo de louvor",
+        "body": "O cânone visual é bem definido: Hillsong, Elevation, Bethel, Maverick City — tipografia com letras em destaque sobre um plano da congregação filmado em tungstênio quente, movimentos lentos de câmera, com o líder de louvor raramente sendo o quadro dominante. As letras importam porque o público deve cantá-las juntos, então o texto na tela é inegociável, e o design tipográfico está mais próximo da publicação do que do cinetismo pop. A estética é de performance ao vivo íntima, não de videoclipe pop produzido."
+      },
+      {
+        "heading": "Planos e convenções que funcionam",
+        "body": "Plano aberto da congregação com mãos levantadas, foco suave, luz quente das luzes do palco. Plano médio do líder de louvor, olhos fechados, a meio frase. Insert de um único congregante durante a ponte — geralmente mais velho, geralmente emocionado, intencionalmente não o rosto mais atraente da sala. O texto das letras aparece linha por linha, centralizado, em uma serif limpa ou sans humanista, com tempo de antecedência suficiente para a congregação ler antes de cantar. Os cortes caem no final das frases, não na batida."
+      },
+      {
+        "heading": "Como o Tunee lida com o preset de louvor",
+        "body": "O preset de Louvor vai para as letras em destaque por padrão — cada linha da música aparece na tela com o timing de revelação linha por linha que o formato exige. A camada base visual se inclina para takes de congregação com iluminação quente e quadros de instrumentistas suavemente iluminados, com uploads opcionais de material real da sua Igreja para ancorar o conteúdo gerado na sua comunidade. A saída é 16:9 para projeção no culto mais 9:16 para os cortes sociais que impulsionam a presença no domingo durante a semana."
+      }
+    ]
+  }
 }

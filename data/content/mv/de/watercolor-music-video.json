@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Watercolor-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Options für Lyrics- und Untertitel-Overlays. Gib einfach deine Lyrics ein und wähle einen Textstil aus – die KI synchronisiert sie automatisch mit deinem Watercolor-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS AQUARELL-MV",
+    "h2": "Aquarell auf dem Bildschirm erfordert, dass das Papier sichtbar bleibt",
+    "sections": [
+      {
+        "heading": "Wie echtes Aquarell aussieht",
+        "body": "Echtes Aquarell hat drei Signaturen: sichtbare Papierstruktur unter dem Wash, harte Pigment-Pooling-Kanten wo die Farbe an der Grenze getrocknet ist, und das weiche Bluten von Nass-auf-Nass wo Farben aufeinandertreffen während sie noch feucht sind. KI-Aquarell scheitert, wenn es diese Eigenschaften zu einem generischen gemalten Look glättet — dasselbe gilt für Bewegung: echte Aquarell-Frames tweenen nicht glatt, sie brodeln zwischen handgemalten Cels bei 12 fps. Der Loving Vincent-Film bewies, wie kraftvoll das aussieht wenn man vollständig dazu verpflichtet ist."
+      },
+      {
+        "heading": "Woher der Look kommt",
+        "body": "Referenzkanon: Dorota Kobiela und Hugh Welchmans Loving Vincent (2017) für vollständige Mal-Animation, Kazuo Ogas handgemalte Studio-Ghibli-Hintergründe über Hayao Miyazakis My Neighbor Totoro und Princess Mononoke, J.M.W. Turners Seestücke für atmosphärischen Wash, Miyazakis eigene Konzeptkunst-Aquarelle, Don Hertzfeldts World of Tomorrow für Linien-und-Wash-Minimalismus, Disneys Multi-Plane-Arbeit an The Sword in the Stone unter Wolfgang Reitherman. Kinderbuch-Illustratoren: Quentin Blakes lockere Tinte-und-Wash für Roald Dahl, Maurice Sendaks schraffierte Malerei. Musikvideo-affin: Glen Keanes handgezeichnete Disney-Ära, Tomm Moores Cartoon-Saloon Secret of Kells und Wolfwalkers. Tunees Aquarell-Modell trainiert auf echter Papierstruktur und Brodelanimation, nicht auf digitalen Mal-Filtern."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Papierstruktur immer in den Prompt einschließen: 'Cold-Press-Aquarellpapier sichtbar durch Wash, harte Pigment-Pooling-Kanten, Nass-auf-Nass-Bluten an Farbgrenzen'. Die Brodelrate spezifizieren: 'handgemaltes Brodeln, 12-fps-Frame-Ersatz, kein glattes Tweening'. Eine Palette von maximal drei bis fünf Farben wählen — echtes Aquarell ist durch das eingeschränkt, was feucht auf der Palette ist. Einen Maler referenzieren: 'Turner-Himmel-Wash' oder 'Kazuo-Oga-Wald-Hintergrund' steuert das Modell präzise."
+      }
+    ]
+  }
 }

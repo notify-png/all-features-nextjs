@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Lyric Video di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su dispositivi mobili, quindi puoi creare video musicali Lyric Video da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUI LYRIC VIDEO",
+    "h2": "I lyric video guadagnano il loro posto quando la tipografia è lo spettacolo",
+    "sections": [
+      {
+        "heading": "Cos'è davvero un lyric video",
+        "body": "Il lyric video era un tempo l'opzione economica che le etichette pubblicavano per prime mentre l'MV 'vero' finiva la post-produzione. Non è più così — Subterranean Homesick Blues di Bob Dylan (1965) è stato il video kinetic-text originale, e i lyric video moderni di Taylor Swift, Olivia Rodrigo e il formato verticale di Genius sono diventati pubblicazioni primarie. La disciplina del formato è la tipografia: crenatura, peso, tempi delle transizioni su ogni parola, il tipo-come-immagine in cui la parola diventa il visivo. Qualsiasi cosa al di sotto di questo è un karaoke su schermo."
+      },
+      {
+        "heading": "Quando usarlo",
+        "body": "Il lyric video è il formato giusto quando i testi portano il brano (cantautori narrativi, rap con giochi di parole densi, hook pop costruiti sulla frase), quando l'artista non si filma (debutto, progetti anonimi), quando l'obiettivo è la viralità da cantare insieme su TikTok, o come pubblicazione del Giorno 1 mentre un MV narrativo finisce la lavorazione. Esempi canonici: la caduta delle card di D.A. Pennebaker per Subterranean Homesick Blues di Bob Dylan (1965), la tradizione di overlay dei testi di Queen Bohemian Rhapsody di Bruce Gowers, All About That Bass di Meghan Trainor diretta da Fatima Robinson, Confessions di Ariana Grande animata da BBNG, il lavoro di animazione parola per parola di Ian Sherman. Il contenuto lirico verticale di Genius ha formato un'intera generazione ad aspettarsi l'enfasi visiva parola per parola. L'hip-hop ne beneficia in modo particolare — il visivo rende le barre dense leggibili al primo ascolto."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Scegli un unico sistema tipografico per video: un solo carattere, due pesi, un colore d'accento. 'Helvetica Neue Bold, bianco su nero, singolo accento magenta per le parole dell'hook'. Specifica il linguaggio del movimento: 'le parole appaiono parola per parola sulla sillaba, sfumano all'ingresso della frase successiva' rispetto a 'intere righe che scivolano da sinistra a destra'. Fai riferimento a un regista se ne hai uno: 'energia da sequenza di titoli di Kyle Cooper' o 'layout collage di David Carson'. Evita il generico 'testo animato' — la direzione tipografica è tutta la maestria qui."
+      }
+    ]
+  }
 }

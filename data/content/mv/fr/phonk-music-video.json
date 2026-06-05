@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales Phonk de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur et mobile, vous permettant de créer des vidéos musicales Phonk depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU PHONK",
+    "h2": "La vidéo phonk tourne à la fumée de pneus et aux fantômes de Memphis",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le phonk",
+        "body": "Les visuels phonk ont pris l'esthétique des mixtapes rap de Memphis des années 1990, les ont passées par TikTok, et y ont ajouté des voitures de drift. Le rendu est fortement compressé : néon distordu, erreurs de suivi VHS, ghosting de frames, rouges soufflés. Des silhouettes masquées apparaissent constamment — cagoules, masques démoniaques, anonymes en contre-jour. Les voitures sont centrales, presque toujours de travers. La couleur est dominée par le rouge et le noir, avec des intrusions de vert acide ou de rose chaud. Des overlays de texte dans des polices inspirées du cyrillique craquelé apparaissent souvent sur l'action."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Murder in My Mind » de Kordhell, autoproduit comme la plupart des visuels phonk, a posé le template moderne avec son imagerie centrée sur les voitures et les masques. « Trouble » de PLUSMA, MoneySamuel et Pharaoh viennent de la scène phonk russe qui a façonné l'esthétique actuelle. « Close Eyes » de DVRST a porté le langage drift-et-distorsion jusqu'au milliard de vues, et « Sahara » de Hensonn a codifié le sous-genre desert-drift. Les influences antérieures remontent directement à « Tear Da Club Up » de Three 6 Mafia et aux artwork de mixtapes de DJ Screw. Le fil conducteur : traitement lo-fi agressif de chaque frame, et refus absolu de montrer un visage propre."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Penchez vers la dégradation. Promptez Tunee pour « bruit VHS intense, aberration chromatique sur les bords, hautes lumières rouges soufflées, sauts de frames toutes les deux secondes ». Spécifiez la voiture tôt — « coupé propulsion en dérive, fumée de pneus remplissant le tiers inférieur ». Les visages doivent être obscurcis ou partiels. Ajoutez du texte de style cyrillique dans le coin du cadre pour l'authenticité. Ne demandez pas un rendu propre. Du phonk qui paraît proprement rendu perd ce qui fait l'essence du genre."
+      }
+    ]
+  }
 }

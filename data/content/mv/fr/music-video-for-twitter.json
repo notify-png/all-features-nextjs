@@ -39,5 +39,23 @@
       "q": "Comment puis-je ajouter des paroles ou des sous-titres à ma vidéo musicale X / Twitter ?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale X / Twitter."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR TWITTER",
+    "h2": "La vidéo X/Twitter se lance en muet — la première frame doit faire le travail que l'audio fait normalement",
+    "sections": [
+      {
+        "heading": "La contrainte de format que personne ne conçoit",
+        "body": "La vidéo sur X se lance dans le fil sans son. L'utilisateur doit activement taper pour activer le son. Ce qui signifie que vos 2 premières secondes ne rivalisent pas avec d'autres vidéos, mais avec le silence — et la plupart des clips musicaux s'appuient sur l'audio pour porter l'ouverture. La solution : concevez la première frame pour être visuellement saisissante seule, et ajoutez une accroche sous-titrée (parole, nom de l'artiste, titre) dans la première seconde pour que le spectateur en muet sache ce qu'il regarde."
+      },
+      {
+        "heading": "Format et calcul de durée",
+        "body": "X accepte le 16:9, le 1:1 et le 9:16, mais le 16:9 occupe le plus d'espace dans le fil sur desktop, où une grande partie du trafic de découverte musicale se produit encore. Le 1:1 gagne sur les timelines mobiles. Le plafond de 2 minutes 20 secondes (pour les comptes non payants) est rarement la contrainte limitante — la plupart des clips musicaux sur X durent 30 à 60 secondes, structurés comme un teaser renvoyant vers la version complète sur YouTube. Traitez X comme la surface trailer, pas comme la destination."
+      },
+      {
+        "heading": "Le préréglage Twitter de Tunee et le double export",
+        "body": "Choisissez X/Twitter et vous obtenez deux sorties : un cut 16:9 1080p avec une légende d'ouverture gravée (artiste + titre, 1,5 premières secondes, supprimable) pour les fils desktop, et une version 1:1 1080p pour les réponses et quotes en priorité mobile. Les deux sont sous 50 Mo pour passer le plafond d'upload de X sans recompression. L'audio est mixé légèrement plus fort sur le master pour compenser la normalisation du volume de la plateforme, qui tourne plus bas que Spotify ou YouTube."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Punk-Musikvideos generieren zum Vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Punk-Musikvideos mit verschiedenen Aufforderungen oder Stil-Einstellungen generieren und dann die Version wählen, die Ihrer Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER PUNK",
+    "h2": "Punk-Video hält die Kamera ehrlich — und lässt sie mitprügeln",
+    "sections": [
+      {
+        "heading": "Wie Punk aussieht",
+        "body": "Punk-MVs lehnen Hochglanz grundsätzlich ab. Handheld, oft mit der Kamera gedreht, die gerade verfügbar war, häufig in einem echten Venue mit echtem Publikum. Beleuchtung ist was der Venue hatte. Die Band spielt auf Anschlag; der Kameramann hat offensichtlich zu wenig geschlafen. Schnitte sind abgehackt, manchmal einzelne Frames mit Static oder Text dazwischen. Das Publikum ist Teil des Bildrahmens, oft das Hauptmotiv. Es gibt keine Trennung zwischen Performer und Zuschauer — genau diese Unterscheidung ist es, die Punk-Videos zu brechen versuchen."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "IDLES' 'Mr. Motivator' ist das moderne Template — Bandenergy, Farbe, keine Attitüde. Turnstiles 'Holiday' und der gesamte 'Glow On'-Run, Regie Mitglied Brendan Yates mit Ian Hurdle, zeigen, wie man Hardcore schön aussehen lässt ohne es zu weichzuspülen. Fontaines DCs 'Big' bringt die post-punkpoetische Linie ins aktuelle Vokabular. Ältere Markierungen — Nirvanas 'Smells Like Teen Spirit', Regie Samuel Bayer, The Clashs 'London Calling'-Aufnahmen von Pennie Smith und Liam Lynchs spätere Live-Arbeit mit den Foo Fighters — definieren noch immer, wie ein echter Pit auf der Kamera aussehen sollte. Die Grammatik: kein sauberer Take."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Die Venue-Größe spezifizieren. 'Hundert-Kapazitäts-Kellerraum, Schweiß kondensiert an der niedrigen Decke, Bühne kaum 15 Zentimeter erhöht' gibt Tunee den richtigen Maßstab. Publikum sollte in fast jedem Chorus-Frame sein, verschwommene Körper im Vordergrund. Sauberen Fokus oder gleichmäßiges Framing vermeiden — 'Handheld, verpasster Fokus, gelegentlich stößt ein Zuschauer gegen das Objektiv' ist ein echter Prompt, der funktioniert. Auf dem Snare-Hit schneiden, nie auf dem Downbeat. Punk lebt auf dem zweiten Beat, nicht dem ersten."
+      }
+    ]
+  }
 }

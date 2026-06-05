@@ -39,5 +39,23 @@
       "q": "Posso criar um vídeo musical Song to MV sem nenhuma experiência em edição de vídeo?",
       "a": "Sim — a IA Tunee cuida de toda a produção de vídeo automaticamente. Apenas faça upload do seu áudio ou digite um prompt de texto, escolha um estilo Song to MV, e a IA gera seu vídeo em minutos."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MÚSICA PARA MV",
+    "h2": "Faça o upload da música. Receba de volta um vídeo que ela merece",
+    "sections": [
+      {
+        "heading": "O que 'música para vídeo' deveria significar",
+        "body": "O mínimo: os cortes caem na batida, a energia dos visuais acompanha a energia da música, e o refrão parece diferente do verso. A maioria das ferramentas genéricas de 'música para vídeo' falha no terceiro ponto — elas escolhem uma atmosfera e a mantêm por três minutos, que é como você obtém um vídeo que parece plano sob uma música que constrói. Um pipeline real de música-para-MV precisa ler a estrutura da música primeiro, não apenas seu tempo."
+      },
+      {
+        "heading": "O que o Tunee extrai antes de gerar um frame",
+        "body": "Faça o upload de um MP3 ou WAV e o analisador de áudio marca tempo, tonalidade, compasso, tempos fortes, segmentos vocais e limites de seção (verso, pré-refrão, refrão, ponte, outro). Esse mapa estrutural é o que o Sage usa para planejar a variedade visual: enquadramento mais fechado nos versos, aberturas mais amplas nos refrões, uma mudança de paleta na ponte, o plano mais forte reservado para o refrão final. A música para de ser 'áudio embaixo do vídeo' e começa a ser a partitura para a qual o vídeo é cortado."
+      },
+      {
+        "heading": "O teste de 30 segundos",
+        "body": "Antes de se comprometer com uma renderização completa, gere os primeiros 30 segundos e assista no mudo. Se os cortes ainda parecem intencionais sem o áudio — se há ritmo visual independente da música — a renderização completa vai funcionar. Se no mudo parecer um reel aleatório, regenere com um prompt mais específico antes de gastar os créditos. O rascunho do Tunee foi construído exatamente para essa verificação."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Le générateur de clips vidéo musicaux de visualiseur de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur et mobile, vous permettant de créer des clips vidéo musicaux de visualiseur depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DES VISUALISEURS",
+    "h2": "Les visualiseurs sont de la vidéo abstraite avec une seule mission : accompagner l'écoute",
+    "sections": [
+      {
+        "heading": "Ce qu'est un visualiseur",
+        "body": "Le visualiseur musical est le format où le visuel est du mouvement abstrait réactif à l'audio, sans narration, personnage ni lieu — une pure réponse aux fréquences et à l'amplitude. La lignée remonte aux films abstraits d'Oskar Fischinger dans les années 1930, passe par l'ère Winamp des années 1990, et arrive jusqu'aux boucles Spotify Canvas et aux visualiseurs de sortie YouTube d'aujourd'hui. Sa mission : donner aux auditeurs quelque chose à regarder qui respire avec le morceau, souvent comme contenu de maintien sur un upload YouTube ou comme art vertical en boucle sur Spotify."
+      },
+      {
+        "heading": "Quand l'utiliser",
+        "body": "Les visualiseurs sont le bon format pour les sorties instrumentales et électroniques, les streams lo-fi hip-hop, les Spotify Canvas (boucles verticales de 8 secondes sur chaque titre), les uploads YouTube du jour de sortie qui évitent l'image statique, et tout ce où la rapidité de livraison prime sur la narration. La lignée esthétique court d'Oskar Fischinger jusqu'au Winamp des années 1990, en passant par Canvas. La palette d'outils canonique : Video Copilot d'Andrew Kramer, Trapcode Particular de Peder Norrby, l'art génératif Trail de Robert Hodgin, les dailies Cinema 4D de Beeple. Artistes qui ont construit leur marque sur l'esthétique visualiseur : Lorn, Bonobo, le travail design ISO50 de Tycho, l'écosystème YouTube Lofi Girl / ChilledCow animé par Juan Pablo Machado. Quiconque sort des singles chaque mois a besoin d'un pipeline de visualiseurs."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Précisez le format explicitement : « boucle Canvas Spotify de 8 secondes, 9:16 vertical, boucle sans raccord ». Spécifiez l'élément réactif : « densité de particules réagit aux basses, couleur se déplace sur les transitoires des hautes ». Choisissez une primitive de mouvement — fluide, particule, géométrie, ou oscilloscope — pas les quatre à la fois. Ajoutez « mouvement subtil, tient à la relecture » pour Canvas ; « montée marquée correspondant à l'arrangement » pour le YouTube complet. Tunee génère du 16:9 et du 9:16 depuis une seule génération, pour YouTube et Canvas en un seul passage."
+      }
+    ]
+  }
 }

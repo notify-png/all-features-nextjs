@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de Sellos Discográficos para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de Sellos Discográficos usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA SELLOS",
+    "h2": "Los sellos necesitan contenido visual al volumen de un lanzamiento de álbum, no al ritmo de un solo single",
+    "sections": [
+      {
+        "heading": "El problema real del lado del sello",
+        "body": "Un lanzamiento moderno de álbum necesita entre 30 y 50 assets de video: el MV del single principal, 11 lyric videos para las pistas del álbum, 11 Spotify Canvases, cortes verticales de cada estribillo para la promo de TikTok, un anuncio de gira, contenido detrás de cámaras, recortes de entrevistas. Incluso un sello indie de tamaño medio tiene entre 8 y 12 artistas en catálogo ejecutando este ciclo simultáneamente. El ancho de banda del equipo de video es el cuello de botella — no el presupuesto, sino el calendario. La mayoría de los sellos simplemente no entregan los assets, y el algoritmo lo penaliza en consecuencia."
+      },
+      {
+        "heading": "Qué pueden delegar realmente los sellos a la IA",
+        "body": "El MV principal del single: sigue siendo un rodaje dirigido. Todo lo demás — la capa de contenido suplementario — es exactamente para lo que están construidos los pipelines de MV de IA. Lyric videos con la identidad visual del álbum, Spotify Canvases que coincidan con el artwork, cortes de TikTok que reutilicen la paleta de color del MV dirigido, posters de gira animados. La identidad visual del álbum (establecida por el rodaje del single principal) se convierte en una plantilla de prompt que produce los otros 49 assets en días, no en meses."
+      },
+      {
+        "heading": "Cómo encaja Tunee en el pipeline de un sello",
+        "body": "Sube la referencia de color del álbum y los visuales clave, fija la coherencia del personaje del artista en todo el catálogo, y Tunee genera el stack de assets suplementarios por lanzamiento. El equipo controla el MV dirigido y la identidad visual; Tunee entrega el long tail. Para un sello mediano que gestiona 15 lanzamientos al año, esa es la diferencia entre lanzamientos visuales completos para cada artista y la realidad actual en que la mitad del catálogo desaparece entre singles."
+      }
+    ]
+  }
 }

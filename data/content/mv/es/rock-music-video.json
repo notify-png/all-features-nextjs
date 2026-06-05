@@ -39,5 +39,23 @@
       "q": "¿El generador de videos de música Rock de Tunee funciona en dispositivos móviles?",
       "a": "Tunee es totalmente accesible a través del navegador web en computadora de escritorio y móvil, así que puedes crear videos de música Rock desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL ROCK",
+    "h2": "El video de rock vive o muere según si la banda parece una banda",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el rock",
+        "body": "Los MVs de rock son mayoritariamente de actuación, pero los mejores hacen que la banda parezca una unidad, no cuatro personas en la misma sala. Planos generales que incluyen a todos los miembros en el escenario, planos medios que capturan el contacto visual entre el bajista y el batería, primeros planos de manos sobre las cuerdas. La iluminación es teatral: torres de escenario, estrobos, humo, contraluz duro que convierte al cantante en silueta durante el puente. El vestuario es coherente con la identidad de la banda, nunca excesivamente estilizado."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'The Pretender' y 'Walk' de Foo Fighters, ambos dirigidos por Sam Brown con el linaje anterior de 'Everlong' de Mark Romanek detrás, son el modelo moderno para el ritmo del MV de rock de estadio. El 'Heat Above' de Greta Van Fleet trae la imaginería del revival del arena-rock de los 70 al encuadre actual. El 'Limbo' de Royal Blood demuestra que un dúo puede llenar una pantalla si la cámara los respeta. El 'Lonely Boy' de The Black Keys, Wolfmother y Highly Suspect completan el vocabulario actual. Los textos más antiguos — el 'Bohemian Rhapsody' de Queen, el 'Start Me Up' de los Stones y el trabajo austero de Anton Corbijn con U2 ('One') y Joy Division — siguen enseñando cómo se ve el carisma escénico en cámara."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Coloca la banda en relación física entre sí primero. 'Batería al centro del fondo sobre una tarima elevada, bajista en el lateral izquierdo del escenario, guitarrista en el lateral derecho, cantante en el borde del escenario' crea una geometría escénica real que Tunee puede mantener a través de los cortes. Añade iluminación específica: 'contraluz duro desde el fondo del escenario, dos haces cruzados de rojo desde los laterales, neblina'. Corta en el golpe de caja, no en el bombo. Reserva el plano en cámara lenta para un momento: normalmente el primer tiempo del segundo estribillo."
+      }
+    ]
+  }
 }

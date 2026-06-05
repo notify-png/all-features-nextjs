@@ -39,5 +39,23 @@
       "q": "Comment puis-je ajouter des paroles ou des sous-titres à ma vidéoclip musicale aquarelle ?",
       "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéoclip musicale aquarelle."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU MV AQUARELLE",
+    "h2": "L'aquarelle à l'écran nécessite de garder le papier visible",
+    "sections": [
+      {
+        "heading": "À quoi ressemble vraiment l'aquarelle",
+        "body": "L'aquarelle réelle a trois signatures : la texture du papier visible sous le lavis, les bords durs où le pigment a séché à la limite, et le saignement doux du mouillé-sur-mouillé là où les couleurs se rencontrent encore humides. L'aquarelle IA échoue quand elle lisse ces éléments dans un aspect peint générique — idem pour le mouvement : les frames d'aquarelle réelle ne s'interpolent pas en douceur, elles bouillonnent entre des cellules peintes à la main à 12 fps. Le film Loving Vincent a prouvé l'impact de cette approche quand elle est pleinement assumée."
+      },
+      {
+        "heading": "D'où vient ce look",
+        "body": "Canon de référence : Loving Vincent (2017) de Dorota Kobiela et Hugh Welchman pour l'animation pleine peinture, les fonds peints à la main de Kazuo Oga pour le Studio Ghibli de Hayao Miyazaki (Mon Voisin Totoro et Princesse Mononoke), les marines atmosphériques de J.M.W. Turner pour le lavis atmosphérique, les propres aquarelles de concept art de Miyazaki, World of Tomorrow de Don Hertzfeldt pour le minimalisme ligne-et-lavis, le travail multi-plan de Disney sur Merlin l'Enchanteur sous Wolfgang Reitherman. Illustrateurs de livres pour enfants : le dessin encre-et-lavis libre de Quentin Blake pour Roald Dahl, la peinture hachurée de Maurice Sendak. Adjacent aux clips musicaux : l'ère dessinée à la main de Glen Keane chez Disney, The Secret of Kells et Wolfwalkers de Tomm Moore / Cartoon Saloon. Le modèle aquarelle de Tunee s'entraîne sur une vraie texture de papier et une animation bouillonnante, pas des filtres de peinture numérique."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Incluez toujours la texture du papier dans le prompt : « papier aquarelle grain froid visible à travers le lavis, accumulation de pigment aux bords durs, saignement mouillé-sur-mouillé aux frontières de couleur ». Spécifiez le taux de bouillonnement : « bouillonnement peint à la main, remplacement de frame à 12 fps, pas d'interpolation lisse ». Choisissez une palette de trois à cinq couleurs maximum — la vraie aquarelle est contrainte par ce qui est humide sur la palette. Référencez un seul peintre : « lavis de ciel Turner » ou « fond de forêt Kazuo Oga » guide le modèle avec précision."
+      }
+    ]
+  }
 }

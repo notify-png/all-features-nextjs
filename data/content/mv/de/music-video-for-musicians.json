@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Musicians-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Optionen für Lyrik- und Untertitelüberlagerungen. Geben Sie einfach Ihre Lyrics ein, wählen Sie einen Textstil, und die KI synchronisiert sie automatisch zu Ihrem Musicians-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR MUSIKER",
+    "h2": "Das Singer-Songwriter-MV hat seinen eigenen stillen Kanon",
+    "sections": [
+      {
+        "heading": "Warum diese Kategorie nicht einfach 'Musikvideos' ist",
+        "body": "Ein Singer-Songwriter-MV ist kein Band-Performance-Video und kein Pop-Video — es ist ein drittes Ding. Der visuelle Kanon ist intim: Phoebe Bridgers' Kyoto, Bon Ivers Holocene, Sufjan Stevens' Should Have Known Better. Ein Interpret, oft allein im Bild, niedrige Farbsättigung, lange Takes, eine Landschaft oder ein Innenraum, der etwas über das emotionale Gewicht des Songs aussagt. Der Künstler ist das Motiv, und der Ort ist der zweite Charakter. Es gibt praktisch keine Schnitt-Pyrotechnik."
+      },
+      {
+        "heading": "Shots, die für das Format immer funktionieren",
+        "body": "Eine Nahaufnahme des Sängers, die einen ganzen Chorus ohne Schnitt hält. Ein Wide-Shot, der den Künstler klein in einer Landschaft platziert (ein Strand, ein Feld, eine leere Landstraße). Ein einziger Spaziergang-Shot, handheld, der dem Künstler von hinten folgt. Ein statischer Frame auf Händen an Klavier oder Gitarre. Das Publikum ist in erster Linie wegen des Songs da und der visuelle Atmosphäre erst danach — Zurückhaltung ist die Ästhetik, kein Budget-Kompromiss."
+      },
+      {
+        "heading": "Wo Tunee in den Release-Plan eines Musikers passt",
+        "body": "Unabhängige Singer-Songwriter können sich in der Regel kein echtes Video für jeden Track leisten — höchstens eines pro Album, vielleicht zwei. Tunee füllt den Rest des Rollouts: Lyric-Videos mit derselben Farbpalette wie das Hauptvideo, vertikale Schnitte für Reels und TikTok, Spotify Canvases für jeden Track, ein Tour-Poster, das zu einer Strophe des Songs animiert wird. Die visuelle Identität bleibt über 12 Tracks hinweg kohärent — ohne 12 Drehtage."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Le générateur de clip musical Diaporama de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous pouvez donc créer des clips musicaux de diaporama depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU MV DIAPORAMA",
+    "h2": "Le diaporama a sa place — quand les photos sont le propos",
+    "sections": [
+      {
+        "heading": "Ce qu'est un MV diaporama",
+        "body": "La vidéo musicale diaporama est une séquence d'images fixes (photos, films scannés, captures d'écran) montée sur un morceau avec des transitions simples — fondu, push, pan-and-zoom Ken Burns. Le format est souvent méprisé parce que la plupart sont mal réalisés : transitions auto-générées sur trente photos de téléphone aléatoires. Bien réalisé, il est puissant : le montage d'ouverture de Up est un diaporama en mouvement, les séquences de photos de fin d'épisode de This Is Us, les tributs Vimeo Staff Picks que les gens créent pour les funérailles et les mariages. La discipline, c'est la curation — moins d'images, tenues plus longtemps."
+      },
+      {
+        "heading": "Quand l'utiliser",
+        "body": "Le MV diaporama est le bon format pour les vidéos mémorielles, les récaps de mariage, les compilations de la première année de bébé, les récaps de voyage, les highlights de l'année scolaire, les cadeaux d'anniversaire. Le sommet cinématographique du format est le montage d'ouverture de Up de Pete Docter (2009) — une vie de couple en quatre minutes d'images-en-mouvement. Les documentaires PBS de Ken Burns (The Civil War, Baseball) ont standardisé le mouvement de pan-and-zoom sur les photos d'archives qui porte désormais son nom. Les séquences de photos de fin d'épisode de This Is Us. Il convient aussi aux artistes heritage qui sortent du matériau patrimonial, aux photographes qui sortent de la musique, à quiconque dont l'archive visuelle est photographique. Le format convient mieux au pop émotionnel, à l'auteur-compositeur acoustique et aux musiques ambiantes qu'aux genres à haute énergie qui nécessitent des match-cuts de mouvement."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Dites à Tunee la source et le rythme : « douze photographies au total sur 90 secondes, zoom lent Ken Burns sur chacune, transitions fondu enchaîné doux, sans mouvement cinétique ». Spécifiez le traitement photo : « léger grain pellicule en overlay, légère désaturation pour une ambiance ancienne, pas de filtres style Instagram ». Ajoutez le timing des transitions à la structure du morceau : « changement de photo sur chaque changement d'accord, tenir plus longtemps sur le refrain ». Curez sans pitié — douze bonnes photos battent cinquante photos aléatoires."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Pixel-Art-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Pixel-Art-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS PIXEL-ART-MV",
+    "h2": "Pixel Art hat Regeln — und Verstöße sieht man sofort",
+    "sections": [
+      {
+        "heading": "Was echte Pixel Art verlangt",
+        "body": "Pixel Art ist kein Filter — es ist eine Disziplin. Echte Pixel Art wird in nativer Auflösung gezeichnet (oft 320x180 oder kleiner) mit einer handgepflegten Palette (16, 32 oder 64 Farben). Anti-Aliasing wird manuell mit Zwischenwert-Pixeln ausgeführt. Dithering erzeugt Farbverläufe über diskrete Paletten. Sprites animieren in 4-bis-8-Frame-Zyklen. Wenn KI es durch Herunterskalieren und Posterisieren fälscht, fängt das Auge die Inkonsistenz sofort — Farben driften, Kanten flimmern zwischen Frames, das Dithering-Muster kachelt nicht."
+      },
+      {
+        "heading": "Woher der Look kommt",
+        "body": "Die Referenzbasis: SNES-Ära Square-Spiele (Chrono Trigger, Final Fantasy VI), Game-Boy-Color-Zwangspaletten, moderne Revivals — Maddy Thorsons Celeste, Eric Barones Stardew Valley, D-Pad Studios Owlboy, Square Enix' Octopath Traveler HD-2D-Layermix. Pixel-Art-Künstler der Nennung wert: eBoys isometrische Städte, Paul Robertsons Animations-Zyklen, Pedro Medeiros' Indie-Tutorials, David OReillys blockiger Surrealismus. Musikvideo-affin: Anamanaguchis Chiptune-Katalog, Saint Pepsis Vaporwave-MVs, Phil Fishs FEZ-Soundtrack-Visualisierungen von Disasterpeace. Tunees Pixel-Art-Modell ist in nativer Niedrig-Auflösung trainiert, sodass die Ausgabe pixel-gesperrt ist, nicht unscharf und quantisiert."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Immer Auflösung und Palettenanzahl angeben: '320x180 native Pixel Art, 32-Farben-Palette, kein Anti-Aliasing außer handgesetzt'. Die Ära referenzieren: 'SNES-Ära, Chrono-Trigger-Farbtiefe' oder 'Game Boy Color, vier-Farb-Kachel'. Dithering explizit spezifizieren: 'Bayer-Dither für Farbverläufe, keine glatten Blends'. Pixel Art nicht mit fotorealistischen Elementen mischen — der Kontrast sieht wie ein Bug aus, nicht wie eine Stilentscheidung."
+      }
+    ]
+  }
 }

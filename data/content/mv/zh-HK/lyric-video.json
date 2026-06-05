@@ -39,5 +39,23 @@
       "q": "Tunee 的歌詞視頻音樂視頻生成器在行動裝置上運作嗎？",
       "a": "Tunee 在桌面和行動裝置上都可通過網路瀏覽器完全存取，因此您可以在任何裝置上創建歌詞視頻音樂視頻，無需安裝軟體。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於歌詞視頻",
+    "h2": "歌詞視頻的地位，在排版成為主角的時候才算確立",
+    "sections": [
+      {
+        "heading": "真正的歌詞視頻是什麼",
+        "body": "歌詞視頻曾經是唱片公司在「正式」MV 製作完成前率先發布的廉價替代品。如今已不再如此——Bob Dylan 的〈Subterranean Homesick Blues〉（1965 年）是最初的動態文字視頻，而 Taylor Swift、Olivia Rodrigo 以及 Genius 豎屏格式的現代歌詞視頻，都已成為主打發行。這個格式的核心是排版：字距、字重、每個字的轉場時機，以及文字即畫面——讓詞語本身成為視覺。做得不到位，就只是卡拉 OK 字幕屏。"
+      },
+      {
+        "heading": "適合使用的時機",
+        "body": "以下情況最適合歌詞視頻：歌詞本身撐起整首歌（說故事的創作歌手、密集填詞的說唱、建立在歌詞節奏上的流行鉤句）；藝術家不打算親自出鏡（新人發行、匿名項目）；目標是在 TikTok 上引發跟唱熱潮；或作為敘事 MV 製作期間的首日發行。經典範例包括：D.A. Pennebaker 為 Bob Dylan 拍攝的〈Subterranean Homesick Blues〉卡片丟擲（1965 年）、Bruce Gowers 的 Queen〈Bohemian Rhapsody〉歌詞疊加傳統、Fatima Robinson 執導的 Meghan Trainor〈All About That Bass〉、Ariana Grande 由 BBNG 動畫製作的〈Confessions〉，以及 Ian Sherman 的逐字動畫師工作。Genius 的豎屏歌詞內容已訓練整整一代人期待逐字的視覺強調。說唱尤其受益——視覺讓密集的歌詞在初聽時更易理解。"
+      },
+      {
+        "heading": "Tunee 提示技巧",
+        "body": "為每條視頻選定單一排版系統：一種字體、兩個字重、一個強調色。「Helvetica Neue Bold，白字黑底，鉤句字以洋紅色強調」。指定動態語言：「逐字以音節出現，下一段落時淡出」或「整行從左至右滑入」。如果有導演參考，就引用：「Kyle Cooper 片頭序列的能量」或「David Carson 拼貼排版」。避免使用籠統的「動態文字」——排版設計才是整個工藝的核心。"
+      }
+    ]
+  }
 }

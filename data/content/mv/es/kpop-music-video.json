@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical K-pop para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical K-pop usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL K-POP",
+    "h2": "El video de K-pop es el formato visual más ingenierizado de la música",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el K-pop",
+        "body": "Los MVs de K-pop se construyen como arquitectura. Cada decorado es personalizado, cada cambio de vestuario está mapeado a una sección de la canción, cada movimiento de cámara se coreografía junto al baile. La mezcla siempre tiene al menos tres capas: coreografía sobre un decorado, planos narrativos con beats argumentales, y tomas de concepto donde los miembros aparecen en entornos individuales estilizados. Los mundos cromáticos cambian drásticamente a lo largo de los cuatro minutos. La simetría es ley durante el estribillo. La asimetría regresa en los versos para mantener el ojo en movimiento."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'Super Shy' y 'Ditto' de NewJeans, moldeados por la directora creativa de ADOR Min Hee-jin y filmados por Shin Woo-seok de Naive Production, definen la corriente naturalista actual: paletas más suaves, menos espectáculo, más carácter. El 'Drama' de Aespa, dirigido por Sun Choi, va en la dirección opuesta: diseño de producción maximalista, construcción de mundos y ediciones densas. El 'Blood Sweat & Tears' de BTS sigue siendo el techo para la ambición narrativa. El 'How You Like That' de BLACKPINK, dirigido por Seo Hyun-seung, demuestra cómo hacer que cuatro integrantes y un decorado se sientan como un evento global. 'Tomboy' de (G)I-DLE y 'God's Menu' de Stray Kids, junto con la cinematografía liderada por coreografía de Beasts and Natives Alike, completan el vocabulario actual."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Planifica cuatro mundos, no uno. Esboza el decorado del estribillo, el entorno del verso, la sala de concepto del puente y el espacio del outro — luego da un prompt a Tunee para cada uno con paleta de color explícita y cambio de vestuario. El encuadre simétrico en el drop del estribillo es innegociable. Para la sección de baile, nombra la formación: 'apertura en V hasta una línea, golpe de cuatro tiempos en diamante'. Las tomas de concepto en solitario deben leerse como editoriales de moda, no como fotogramas del grupo."
+      }
+    ]
+  }
 }

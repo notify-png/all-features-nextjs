@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videoclips de música de actuación de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible vía navegador web en desktop y móvil, así que puedes crear videoclips de música de actuación desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV DE ACTUACIÓN",
+    "h2": "El video de actuación es el formato que el algoritmo sigue premiando",
+    "sections": [
+      {
+        "heading": "Qué es el MV de actuación",
+        "body": "El videoclip de actuación es la banda o el artista tocando la canción a cámara — puede ser en un estudio, en un tejado, en un almacén vacío, en una prueba de sonido. Distinto del MV de concierto (que implica público y recinto), el MV de actuación es controlado, a menudo en una sola localización, centrado en el acto de tocar. El formato tiene el historial más largo en MTV: la mayoría de los videos de principios de los 80 eran actuaciones con una envolvente narrativa mínima. También domina en NPR Tiny Desk, los Take Away Shows de La Blogotheque y Jam in the Van."
+      },
+      {
+        "heading": "Cuándo usarlo",
+        "body": "El MV de actuación es la opción correcta para bandas donde la musicalidad es el punto (jazz, jam bands, metal técnico, cualquier cosa con intérpretes virtuosos), para versiones acústicas despojadas de éxitos pop, para grabaciones en directo donde audio y video se sincronizan, y para cualquier artista cuya marca sea la autenticidad antes que la producción. Canon de directores: el trabajo en blanco y negro austero de Anton Corbijn para U2 y Joy Division (Atmosphere, One), las películas de actuación de los Foo Fighters de Adam Berg, Mathias Andersson para actos indie suecos, los Take Away Shows de Vincent Moon para La Blogotheque, el formato NPR Tiny Desk de Bob Boilen. También es el formato que el algoritmo de YouTube sigue exponiendo bien: el contenido de actuación de larga duración tiene menos competencia que el MV narrativo y mayor tiempo de visualización por subida."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica el espacio y la configuración de luz como en un rodaje real: 'loft industrial, banda completa en el lateral izquierdo del escenario, cobertura con tres cámaras, luces prácticas de tungsteno cálido, sin geles de color'. Elige un lenguaje de cámara: 'planos generales fijos más travelling lento sobre los instrumentos' o 'todo en mano, con montura de hombro, cortes intuitivos'. Añade 'sin público visible' para mantenerlo como actuación-no-concierto. Tunee puede adaptar el estilo de cámara al género: el jazz se beneficia de las retenciones lentas, el punk de los cortes rápidos."
+      }
+    ]
+  }
 }

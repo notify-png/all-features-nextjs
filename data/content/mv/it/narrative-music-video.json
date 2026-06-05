@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale narrativo da confrontare?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale narrativo utilizzando prompt diversi o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULL'NARRATIVE MV",
+    "h2": "Gli MV narrativi sono cortometraggi, e le regole del cinema si applicano",
+    "sections": [
+      {
+        "heading": "Cosa richiede l'MV narrativo",
+        "body": "Il music video narrativo racconta una storia nel corso della durata del brano — personaggi con almeno un arco, un'ambientazione che ha un significato, beat che si risolvono prima del bridge o dell'outro. Il formato tratta il brano come la colonna sonora e il visivo come un cortometraggio di 3-4 minuti. La disciplina mutuata dal cinema: una premessa chiara nei primi 15 secondi, una svolta attorno al punto di metà, un'immagine finale che ricontestualizza ciò che è venuto prima. I music video che riescono in questo sembrano trailer di un film che non esiste."
+      },
+      {
+        "heading": "Quando usarlo",
+        "body": "L'MV narrativo è la scelta giusta per i brani che già raccontano una storia (Bruce Springsteen, country, rap narrativo), per i singoli ancora del ciclo dell'album dove il budget si concentra su un pezzo di dichiarazione, per gli artisti che costruiscono un brand cinematografico. Il canone dei registi: This Is America di Hiro Murai per Childish Gambino, Praise You di Spike Jonze per Fatboy Slim e Sabotage per i Beastie Boys, Bohemian Rhapsody dei Queen di Bruce Gowers (1975) come origine del formato, Ride di Anthony Mandler per Lana Del Rey, Sam Pilling per The Weeknd, il lavoro di Michel Gondry con Bjork e White Stripes. È il formato che i premi prendono sul serio — il VMA Video of the Year pende verso il narrativo. Il trade-off è costo e tempo, entrambi che Tunee comprime drasticamente."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Struttura il prompt per sezione del brano, non per inquadratura: 'strofa 1: protagonista solo in appartamento, luce mattutina, mano tenuta lentamente; pre-ritornello: lascia l'edificio, il colore si raffredda; ritornello: campo largo sull'autostrada deserta, ora d'oro'. Tunee può interpretare il prompting per sezione del brano. Fai riferimento a un solo regista per un linguaggio unificato: 'Hiro Murai per l'intero video' batte i riferimenti misti per sezione. Pianifica prima l'immagine finale e lavora a ritroso — l'MV narrativo si giudica dal finale."
+      }
+    ]
+  }
 }

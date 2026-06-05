@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu vídeo de música retrô?",
       "a": "O Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a IA sincronizará automaticamente ao seu vídeo de música retrô."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV RETRÔ",
+    "h2": "Retrô é uma década, não um clima — escolha uma",
+    "sections": [
+      {
+        "heading": "A era importa mais do que a palavra",
+        "body": "Retrô é inútil como rótulo único porque cada década tinha um visual diferente. Anos 1970: película Kodak quente, anamórfico suave, colares largos, amarelos de station-wagon. Anos 1980: vídeo Betacam, sangramento cromático de VHS, gráficos neon no preto, estética de bumper da MTV. Anos 1990: Hi-8 granulado, jeans desbotado e flanela, o grain de filme indie de Kids e Clerks. Anos 2000: digital inicial, ruído de vídeo supernítido, estilo de foto da era do MySpace. Escolher a década errada para a sua referência é o fracasso de IA-retrô mais comum."
+      },
+      {
+        "heading": "De onde vem esse visual",
+        "body": "Referências específicas por era: Days of Being Wild de Wong Kar-wai para o Hong Kong dos anos 1970, Boogie Nights de Paul Thomas Anderson para autenticidade de película, todo o catálogo MTV 1981-1989 para vídeo dos anos 80 de verdade, The Virgin Suicides de Sofia Coppola para o sonho suburbano dos anos 70, Kids de Larry Clark para 16mm bruto dos anos 90, Drive (2011) de Nicolas Winding Refn para o revival synth dos anos 80, os volumes da Awesome Mix de Guardians of the Galaxy de James Gunn. A estética grindhouse de Quentin Tarantino em Death Proof. Artistas específicos de VHS: o trabalho de fita degradada de David Firth, a cena inicial de vaporwave no YouTube. O modelo retrô do Tunee treina cada década como uma combinação distinta de película e formato, não borrada em 'parece antigo'."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Sempre nomeie o ano e o formato: '1978, Kodak Vision 250D, anamórfico, contraste suave' ou '1986, Betacam SP, aberração cromática nos realces, linhas de varredura'. Especifique o tipo de grain de filme ou ruído de vídeo — eles parecem completamente diferentes. Figurino e adereços corretos para o período importam; 'roupa retrô' é vago, 'camisa de poliéster de colarinho largo, calça jeans boca de sino' é específico. Misturar décadas é ótimo para o surrealismo, mas sinalize: 'neon dos anos 80 anacrônico sobre película dos anos 70'."
+      }
+    ]
+  }
 }

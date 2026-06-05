@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem X / Twitter Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Lyrics- und Untertitel-Overlay-Optionen. Gib einfach deine Lyrics ein und wähle einen Textstil, die KI synchronisiert sie automatisch zu deinem X / Twitter Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR TWITTER",
+    "h2": "X/Twitter-Video startet stumm — der erste Frame muss die Arbeit übernehmen, die normalerweise der Ton erledigt",
+    "sections": [
+      {
+        "heading": "Die Format-Beschränkung, für die niemand gestaltet",
+        "body": "Video auf X wird im Feed automatisch ohne Ton abgespielt. Der User muss aktiv zum Einschalten tippen. Das bedeutet: deine ersten 2 Sekunden konkurrieren nicht mit anderen Videos, sondern mit Stille — und die meisten Musikvideos verlassen sich darauf, dass der Sound den Einstieg trägt. Die Lösung: gestalte den ersten Frame so, dass er visuell alleine hält, und füge in der ersten Sekunde einen gecaptionten Hook (Lyric, Künstlername, Songtitel) ein, damit der stumme Zuschauer sofort weiß, was er sieht."
+      },
+      {
+        "heading": "Seitenverhältnis und Länge im Überblick",
+        "body": "X erlaubt 16:9, 1:1 und 9:16, aber 16:9 beansprucht auf dem Desktop die meiste Feed-Fläche, wo noch immer ein großer Teil des Musik-Discovery-Traffics stattfindet. 1:1 gewinnt auf mobilen Timelines. Das 2-Minuten-20-Sekunden-Upload-Cap (für Nicht-Bezahl-Accounts) ist selten die bindende Beschränkung — die meisten Musikvideo-Clips auf X sind 30 bis 60 Sekunden lang und als Teaser strukturiert, der auf die volle Version auf YouTube verweist. Behandle X als Trailer-Fläche, nicht als Ziel."
+      },
+      {
+        "heading": "Tunees Twitter-Preset und der Doppel-Export",
+        "body": "Wähle X/Twitter und du bekommst zwei Ausgaben: einen 16:9 1080p-Schnitt mit eingebrannter Eröffnungs-Caption (Künstler + Song, erste 1,5 Sekunden, entfernbar) für Desktop-Feeds und eine 1:1 1080p-Version für mobilorientierte Antworten und Zitat-Tweets. Beide liegen unter 50 MB, um Xs Upload-Cap ohne Rekomprimierung zu überstehen. Der Ton ist auf dem Master etwas lauter gemischt, um die Lautstärke-Normalisierung der Plattform auszugleichen, die niedriger läuft als bei Spotify oder YouTube."
+      }
+    ]
+  }
 }

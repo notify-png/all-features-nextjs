@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de San Valentín para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de San Valentín usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV DE SAN VALENTÍN",
+    "h2": "Un video de San Valentín que no es una tarjeta con una foto peor",
+    "sections": [
+      {
+        "heading": "Por qué un MV de San Valentín supera a las flores",
+        "body": "La economía de regalos de San Valentín está agotada: flores, chocolate, reserva de restaurante, repetir. Un MV de 60 segundos musicalizado con tu canción compartida rompe ese patrón sin ser caro ni ostentoso. Es el regalo que se vuelve a ver en marzo, que se envía de nuevo en el aniversario y que se guarda en una carpeta privada en lugar de tirarse con el envoltorio. Para las parejas a distancia es especialmente potente: hace el trabajo de estar presente cuando no puedes."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Los videógrafos románticos se ciñen a un vocabulario pequeño: manos encontrándose a través de una mesa, la silueta a contraluz en una ventana, el desayuno en la cama a medio comer en plano general, el primer plano de una nota manuscrita, el zoom lento en una sonrisa a mitad de risa. Los referentes cinematográficos: la estética cálida en naranja de Her de Spike Jonze filmada por Hoyte van Hoytema, el final del jardín de flores de Notting Hill de Richard Curtis, el montaje de matrimonio de la primera parte de UP de Pete Docter en Pixar, el encuadre del restaurante de noodles de In the Mood for Love de Wong Kar-wai, las películas de San Valentín de Hallmark Channel. Los planos cliché (rosas rojas, velas, corazones) funcionan mejor cuando son periféricos: la vela está en el bokeh, no en el sujeto. Especifica esa jerarquía y el MV se lee como íntimo en lugar de como una tarjeta de felicitación."
+      },
+      {
+        "heading": "Conviértelo en el regalo",
+        "body": "Envíalo a las 6 de la mañana del 14 de febrero, antes de que el día empiece a llenarse de entregas y reservas. Tunee renderiza el vertical para el mensaje de la mañana, el cuadrado para la publicación opcional pública y el panorámico para el eventual revisionado en el salón en el aniversario."
+      }
+    ]
+  }
 }

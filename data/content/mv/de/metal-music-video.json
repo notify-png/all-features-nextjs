@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Metal-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Metal-Musikvideos mit verschiedenen Prompts oder Style-Einstellungen generieren und dann die Version auswählen, die am besten zu Ihrer Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER METAL",
+    "h2": "Metal-Videos verdienen sich ihr Gewicht durch körperlichen Einsatz",
+    "sections": [
+      {
+        "heading": "So sieht Metal aus",
+        "body": "Metal-MVs sind meist um Live-Performance herum aufgebaut — die Band spielt wirklich, der Schweiß fliegt wirklich, die Bassdrum bewegt sichtbar die Kamera. Die Beleuchtung ist hart und kontrastreich: ein einzelner weißer Lichtstrahl auf dem Sänger vor einem schwarzen Nichts, roter Wash über der Rhythmusgitarre. Drehorte tendieren zu verlassenem Industriegelände, nächtlichen Wäldern oder pechschwarzem Soundstage. Zeitlupe wird punktuell eingesetzt — fast immer am Schlagzeuger oder bei einem einzelnen Sprung. Der Bildrahmen ist meist gedrängt, nicht minimalistisch."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Sleep Tokens 'Chokehold', unter der Regie von Phil Mucci, hat die moderne Metal-MV-Ästhetik mit maskierter Anonymität und ritueller Inszenierung neu definiert. Bring Me the Horizons 'DiE4u' trägt den filmischen Erzählanspruch weiter, während Gojiras 'Amazonia' Landschaft als Maßstab nutzt. Spiritbox' 'Holy Roller', Lorna Shores 'To the Hellfire' und Knocked Looses 'Suffocate' runden das aktuelle Vokabular ab. Ältere Referenzpunkte — Tools 'Schism' und Slipknots 'Duality' — lehren das Genre noch immer, wie man Abstraktes körperlich spürbar macht. Mathias Anderssons Arbeit mit Ghost verlängert die rituelle Linie weiter. Die Konstante: Die Band ist der Rahmen, nicht die Dekoration."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Beschreibe zuerst den Ort, dann die visuelle Behandlung. 'Leeres Betonlager, einzelne Glühbirne an der Decke, Band in engem Halbkreis, Schlagzeug hinten in der Mitte' gibt Tunee etwas, das mit Absicht gerendert werden kann. Dann Atmosphäre schichten: 'dichter Dunst, hartes Streiflicht von der Bühnenlinken, kein Füllicht'. Zeitlupe nur an Aufprallpunkten einfordern — beim Breakdown, beim letzten Schrei. Tunee kommt mit dunklen Szenen besser zurecht, wenn du die wenigen Lichtquellen explizit benennst, statt nach 'stimmungsvoller Beleuchtung' zu fragen."
+      }
+    ]
+  }
 }

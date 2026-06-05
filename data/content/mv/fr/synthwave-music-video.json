@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un clip vidéo Synthwave pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre clip vidéo Synthwave en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU SYNTHWAVE",
+    "h2": "Le synthwave est un son qui a besoin d'être vu",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le synthwave",
+        "body": "Le synthwave est le seul genre avec son identité visuelle intégrée. Né de l'obsession des années 2010 pour la science-fiction et la nostalgie néon des années 80 — Drive, Stranger Things, Hotline Miami — son esthétique est plus codifiée que la musique elle-même. Les incontournables : dégradés violet profond vers magenta, horizons de grille rétro qui s'enfuient dans la vapeur, silhouettes de palmiers contre des couchers de soleil en dégradé, voitures chromées, ciels fissurés par les éclairs. Si le spectateur ne ressent pas la vibration chaude d'un VHS analogique dans les trois premières secondes, quelque chose ne va pas."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Quand les réalisateurs briefent des MV synthwave, ils citent les mêmes références : « Sunset » de The Midnight, « Outatime » de FM-84, les visuels live de Carpenter Brut, le court-métrage « Kung Fury », « 2K12 » de Magdalena Bay, et « Turbo Killer » de Seth Ickerman pour Carpenter Brut — encore la vitrine de réalisation définitive du genre. Le fil conducteur n'est pas l'artiste — c'est le langage du cadre : horizons larges, zoom lent sur des lignes de grille qui s'éloignent, silhouettes de personnages jamais éclairées en plein, titres en chrome avec bevel subtil. Le modèle synthwave de Tunee est entraîné sur ce vocabulaire exact, de sorte que des prompts comme « lignes de scan VHS analogiques sur une skyline néon » atterrissent là où les réalisateurs pointeraient une vraie équipe."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Ne combattez pas les clichés du synthwave — embrassez-les. Spécifiez l'ordre des couches : premier plan (artiste, voiture, palmier), plan intermédiaire (grille néon ou coucher de soleil), arrière-plan (ciel violet fissuré avec éclairs lointains). Associez les couleurs explicitement : « magenta et cyan, aucun ton chaud ». Puis ajoutez un anachronisme qui brise le charme — un satellite crashé, un panneau publicitaire qui glitche — pour garder la boucle intéressante au-delà du premier refrain. Le résultat se lit comme composé, pas généré."
+      }
+    ]
+  }
 }

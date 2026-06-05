@@ -39,5 +39,23 @@
       "q": "Puis-je créer une vidéoclip musicale Photo to MV sans aucune expérience en montage vidéo?",
       "a": "Oui — l'IA de Tunee gère toute la production vidéo automatiquement. Téléchargez simplement votre audio ou entrez une invite texte, choisissez un style Photo to MV, et l'IA génère votre vidéo en quelques minutes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "PHOTO VERS MV",
+    "h2": "Transformez un dossier de photos en un clip qui se monte vraiment",
+    "sections": [
+      {
+        "heading": "Pourquoi la plupart des outils photo-vers-vidéo produisent des diaporamas",
+        "body": "La catégorie a mauvaise réputation pour une raison : « photo vers vidéo » signifie généralement un pan-and-zoom Ken Burns sur chaque image, un fondu enchaîné, et une musique libre en dessous. C'est l'esthétique du DVD de mariage, et elle ne survit pas dans un feed où TikTok coupe toutes les 1,5 secondes. La solution n'est pas un pack de transitions plus sophistiqué — c'est animer la photo elle-même pour que chaque image fixe devienne un plan en mouvement, puis couper entre ces plans sur le beat."
+      },
+      {
+        "heading": "Ce que Tunee fait avec vos images",
+        "body": "Uploadez jusqu'à 20 photos (shots de concert, coulisses, polaroïds, n'importe quoi) et Tunee traite chaque image comme une graine de génération, pas comme un frame final. Chaque photo reçoit un court passage de mouvement — un push en parallaxe, un dolly tracké sur le sujet, un léger arc de caméra — et les clips obtenus sont montés sur votre morceau. Les visages restent cohérents. Le pan de DVD de mariage a disparu. Ce que vous récupérez se lit vraiment comme du footage, pas comme des images fixes avec une transition Hollywood Edge entre elles."
+      },
+      {
+        "heading": "Quand ce workflow gagne",
+        "body": "Trois cas d'usage frappent fort : les artistes avec une belle archive photo mais sans budget vidéo, les vidéos hommage où le matériau source est des tirages vieux de plusieurs décennies, et les récaps de tournée où le photographe de route a fait 5 000 images fixes et zéro clip. Glissez-les dans Tunee, choisissez le morceau, optez pour le 9:16 ou le 16:9, et les photos font le travail que le footage fait d'habitude. L'export est court — 60 à 90 secondes — parce que c'est la durée à laquelle ce procédé reste convaincant."
+      }
+    ]
+  }
 }

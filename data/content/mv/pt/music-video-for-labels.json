@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe Music Labels para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe Music Labels usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA GRAVADORAS",
+    "h2": "Gravadoras precisam de conteúdo visual no volume de um rollout de álbum, não no ritmo de um único vídeo",
+    "sections": [
+      {
+        "heading": "O problema real do lado da gravadora",
+        "body": "Um rollout de álbum moderno precisa de 30 a 50 ativos de vídeo: o MV do single principal, 11 lyric videos para as faixas do álbum, 11 Spotify Canvases, cortes verticais de cada refrão para a promoção no TikTok, uma peça de anúncio de turnê, conteúdo de bastidores, recortes de entrevistas. Mesmo uma gravadora indie de médio porte tem 8 a 12 artistas no cast rodando esse ciclo simultaneamente. A capacidade da equipe de vídeo é o gargalo — não o orçamento, o calendário. A maioria das gravadoras simplesmente não entrega os ativos, e o algoritmo penaliza consequentemente."
+      },
+      {
+        "heading": "O que as gravadoras podem realmente delegar à IA",
+        "body": "O MV principal do single — ainda uma gravação dirigida. Todo o resto — a camada de conteúdo complementar — é exatamente para o que os pipelines de MV com IA foram construídos. Lyric videos com a identidade visual do álbum, Spotify Canvases que combinam com o artwork, cortes para TikTok que reutilizam a paleta de cores do MV dirigido, pôsteres de turnê animados. A identidade visual do álbum (definida pela gravação do single principal) torna-se um template de prompt que produz os outros 49 ativos em dias, não meses."
+      },
+      {
+        "heading": "Como o Tunee se encaixa no pipeline de uma gravadora",
+        "body": "Faça upload da referência de cor do álbum e dos visuais principais, trave a consistência do personagem do artista em todo o cast, e o Tunee gera a pilha de ativos complementares por lançamento. A equipe controla o MV dirigido e a identidade visual; o Tunee entrega a cauda longa. Para uma gravadora de médio porte rodando 15 lançamentos por ano, essa é a diferença entre rollouts visuais completos em todos os artistas e a realidade atual de metade do cast desaparecendo entre os singles."
+      }
+    ]
+  }
 }

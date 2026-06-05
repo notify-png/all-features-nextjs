@@ -39,5 +39,23 @@
       "q": "¿El generador de videos musicales de Podcasters de Tunee funciona en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en dispositivos móviles, para que puedas crear videos musicales de Podcasters desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA PODCASTERS",
+    "h2": "Los podcasts ahora viven o mueren por el clip que se publica en TikTok",
+    "sections": [
+      {
+        "heading": "Por qué los podcasters necesitan herramientas de videoclip",
+        "body": "El pipeline de descubrimiento de podcasts cambió: nadie encuentra un programa nuevo en Apple Podcasts. Lo encuentran a partir de un clip de 60 segundos en TikTok o YouTube Shorts con la frase más citable con subtítulos automáticos sobre la cara del presentador. Ese clip necesita el pulimiento visual que la señal de cámara cruda no tiene: etalonaje, subtítulos sincronizados a la sílaba, B-roll cortado contra el diálogo, música de fondo que no haga que el programa sea marcado por copyright. Es un flujo de trabajo de videoclip aplicado a contenido de talking-head."
+      },
+      {
+        "heading": "Lo que funciona para los clips de promo de podcast",
+        "body": "Plano de dos con el presentador y el invitado cortado a planos individuales en el remate. Subtítulos automáticos en una sans-serif condensada limpia, animados palabra-por-palabra. B-roll (una foto de archivo de lo que se está discutiendo, un clip rápido de película, un gráfico) insertado en el sustantivo que se está diciendo. Música de fondo instrumental suave bajo la conversación, atenuada cuando los hablantes se ponen expresivos. De 30 a 60 segundos de duración, gancho en los primeros 2 segundos, terminar en la línea más citada, no en el punto de parada más lógico."
+      },
+      {
+        "heading": "Cómo gestiona Tunee el preset de podcaster",
+        "body": "Sube el audio de tu podcast, marca el segmento a recortar, y Tunee genera los subtítulos, selecciona B-roll de tu biblioteca visual o genera nuevos planos, añade una pista instrumental que no interfiera con la voz, y exporta en 9:16 para TikTok/Shorts más 1:1 para el Feed de Instagram. El clip parece un contenido diseñado, no una grabación en pantalla de tu sesión de Riverside. Promo de episodio, 10 minutos de trabajo."
+      }
+    ]
+  }
 }

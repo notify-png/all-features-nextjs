@@ -39,5 +39,23 @@
       "q": "¿Puedo crear un video musical Photo to MV sin experiencia en edición de video?",
       "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo sube tu audio o ingresa un prompt de texto, elige un estilo Photo to MV, y la IA genera tu video en minutos."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "FOTO AL MV",
+    "h2": "Convierte una carpeta de fotos en un videoclip que realmente corta",
+    "sections": [
+      {
+        "heading": "Por qué la mayoría de las herramientas de foto-a-video producen slideshows",
+        "body": "El género tiene mala reputación por una razón: 'foto a video' normalmente significa un Ken Burns de paneo-y-zoom en cada imagen fija, un fundido cruzado y una pista sin derechos de autor debajo. Es la estética del DVD de bodas, y no sobrevive en un feed donde TikTok corta cada 1,5 segundos. La solución no es un pack de transiciones más sofisticado — es animar la foto en sí para que cada imagen fija se convierta en un plato en movimiento y luego cortar entre platos al ritmo."
+      },
+      {
+        "heading": "Qué hace Tunee con tus imágenes fijas",
+        "body": "Sube hasta 20 fotos (planos de concierto, detrás de cámaras, polaroids, lo que sea) y Tunee trata cada una como una semilla de generación, no como un fotograma final. Cada foto recibe un pase de movimiento corto — un empuje de paralaje, un travelling con seguimiento del sujeto, un arco de cámara sutil — y los clips resultantes se cortan a tu canción. Los rostros mantienen coherencia. El paneo de DVD desaparece. Lo que obtienes de vuelta se lee de verdad como metraje, no como imágenes fijas con una transición de Hollywood Edge entre ellas."
+      },
+      {
+        "heading": "Cuándo este flujo de trabajo gana",
+        "body": "Tres casos de uso aterrizan con fuerza: artistas con un fuerte archivo fotográfico pero sin presupuesto de video, videos tributo donde el material fuente son impresiones de hace décadas, y reels de resumen de gira donde el fotógrafo de carretera tomó 5.000 imágenes fijas y ningún clip. Échalas a Tunee, elige la canción, selecciona 9:16 o 16:9, y las fotos hacen el trabajo que normalmente hace el metraje. La salida es corta — de 60 a 90 segundos — porque esa es la duración en la que este truco sigue siendo convincente."
+      }
+    ]
+  }
 }

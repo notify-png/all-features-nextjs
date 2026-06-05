@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Lo-fi di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile via browser web su desktop e mobile, così puoi creare video musicali Lo-fi da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL LO-FI",
+    "h2": "Il video lo-fi è una stanza in cui vuoi studiare",
+    "sections": [
+      {
+        "heading": "Come appare il lo-fi",
+        "body": "Le visuals lo-fi sono l'inverso della tradizione del music video: nessun performer, nessuna narrativa, nessun taglio. Una singola scena in loop — di solito una stanza animata, una scrivania, una finestra con la pioggia — scorre per ore dietro la musica. La palette cromatica è smorzata: beige caldo, blu polverosi, rosa soffusi al tramonto. La figura, se c'è, è animata nello stile dello Studio Ghibli di fine anni '90 con un tocco di illustrazione giapponese moderna. Il movimento è minimo: uno scodinzolo, il vapore da una tazza, una pagina che gira."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "Lo stream YouTube di Lofi Girl — animato da Juan Pablo Machado, la cui studentessa alla scrivania e la finestra sul panorama di Parigi sono diventati l'ancora del formato — rimane il template visivo. I loop precedenti di ChilledCow, l'estetica 'Twilight' di Idealism e la collezione Anime Vibe su YouTube completano il canone. Gli sfondi dipinti a mano dello Studio Ghibli, in particolare le scene di studio di 'Whisper of the Heart' di Hayao Miyazaki e le stanze del casale in 'Spirited Away', sono la fonte non dichiarata. Il ritmo del piano tranquillo di Joe Hisaishi si abbina perfettamente al tempo del genere. La regola: niente dovrebbe mai interrompere l'attenzione dell'ascoltatore dal proprio compito."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Progetta per la permanenza, non per la progressione. Chiedi a Tunee una sola scena con tre o quattro piccoli loop di movimento — la pioggia sulla finestra, il vapore che sale dal caffè, un gatto che respira, un ventilatore che gira. Specifica l'ora del giorno e lasciala fissa: 'tardo pomeriggio, luce dorata da sinistra, lampada accesa'. Evita completamente i movimenti di camera. L'intero punto è che lo spettatore dimentica l'esistenza del video. Punta al silenzio visivo, poi aggiungi un piccolo dettaglio che premia un secondo sguardo."
+      }
+    ]
+  }
 }

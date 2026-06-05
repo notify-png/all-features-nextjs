@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Musikvideo für Bands hinzu?",
       "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitel-Überlagerungen. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil aus – die KI synchronisiert sie automatisch mit Ihrem Musikvideo für Bands."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR BANDS",
+    "h2": "Bands brauchen Performance-Material, das sie sich nicht immer wieder neu leisten können",
+    "sections": [
+      {
+        "heading": "Das eigentliche Band-MV-Problem",
+        "body": "Ein Quartett für ein vollständiges Performance-MV braucht mindestens fünf Personen (Band plus Kameramann), einen Drehort, ein Multicam-Setup und einen Tag. Das ergibt nach Colorgrading 2.000 bis 8.000 Euro — für einen Song, der vielleicht 12.000 Streams zieht. Die Rechnung geht nur für unterschriebene Acts auf, weshalb die meisten unabhängigen Bands jahrelang dieselben zwei Performance-Videos im Rotation halten. Die Lücke, die ein KI-Tool füllt, ist nicht der Ersatz von Live-Performance-Material — es füllt das Album-Rollout zwischen den einmaligen echten Drehs."
+      },
+      {
+        "heading": "Shots, die der Band-MV-Kanon tatsächlich nutzt",
+        "body": "Nah an der linken Hand des Gitarristen auf einem Akkordwechsel. Schlagzeug von oben während eines Fills. Sänger-Halbnahaufnahme mit hartem Gegenlicht auf einem hohen Ton. Weitwinklige Rückfahrt beim letzten Chorus, die ein leeres Venue enthüllt. Performance-MVs brauchen keine Erzählung — sie brauchen die vier oder fünf Shots, die, eng geschnitten, eine Band wie eine Band aussehen lassen. Tunees Band-Modell ist auf diesen Kanon trainiert, sodass Prompts wie 'Vierköpfige Band auf kleiner Bühne, einzelne Keylight, kein Publikum, 16-mm-Korn' genau landen."
+      },
+      {
+        "heading": "Wo Tunee in den Release-Zyklus einer Band passt",
+        "body": "Bei einer Single-Veröffentlichung hast du ein echtes Video. Für das Album bleiben noch 11 weitere Tracks, die visuelle Assets für das Rollout brauchen — Lyric-Videos, Performance-Loops für Instagram, vertikale Schnitte für TikTok-Promo, Spotify Canvas für jeden Track. Hier verdient Tunee seinen Platz: nicht als Ersatz für das gedrehte Video, sondern als Generator der 30 ergänzenden Assets, die der Algorithmus heute verlangt, weil ein einziges Video längst nicht mehr reicht."
+      }
+    ]
+  }
 }

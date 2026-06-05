@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe de Metal para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de Metal usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se encaixa em sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE METAL",
+    "h2": "O videoclipe de metal conquista seu peso pelo compromisso físico",
+    "sections": [
+      {
+        "heading": "Como é o visual do metal",
+        "body": "Os MVs de metal geralmente são construídos em torno de performance ao vivo — a banda tocando de verdade, suor voando de verdade, o bumbo visivelmente movendo a câmera. A iluminação é dura e contrastada: um único feixe de luz branca sobre o vocalista contra um vazio negro, banho de vermelho sobre a seção rítmica. As locações se inclinam para o industrial abandonado, floresta à noite, ou um palco totalmente negro. O slow motion é usado cirurgicamente, quase sempre no baterista ou num único salto. O quadro costuma estar cheio, não minimalista."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Chokehold' do Sleep Token, dirigido por Phil Mucci, redefiniu a estética do MV de metal moderno com anonimato mascarado e encenação ritualística. O 'DiE4u' do Bring Me the Horizon carrega a ambição narrativa cinematográfica, enquanto o 'Amazonia' do Gojira usa a paisagem como escala. O 'Holy Roller' do Spiritbox, o 'To the Hellfire' do Lorna Shore e o 'Suffocate' do Knocked Loose completam o vocabulário atual. Referências mais antigas — o 'Schism' do Tool e o 'Duality' do Slipknot — ainda ensinam o gênero como fazer o abstrato parecer físico. O trabalho de Mathias Andersson com Ghost estende ainda mais a linhagem ritualística. A constante: a banda é o quadro, não a decoração."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Especifique o espaço antes do tratamento visual. 'Galpão de concreto vazio, uma única lâmpada no teto, banda em semicírculo fechado, baterista no centro ao fundo' dá ao Tunee algo para renderizar com intenção. Depois acrescente atmosfera: 'névoa pesada, luz de contorno dura vinda da esquerda do palco, sem luz de preenchimento'. Peça slow motion apenas em pontos de impacto — o breakdown, o grito final. O Tunee lida melhor com cenas escuras quando você nomeia as poucas fontes de luz explicitamente, em vez de pedir 'iluminação sombria'."
+      }
+    ]
+  }
 }

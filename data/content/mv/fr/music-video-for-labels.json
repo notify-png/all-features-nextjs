@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale pour label à comparer?",
       "a": "Oui. Vous pouvez générer plusieurs variantes de votre vidéo musicale pour label en utilisant différentes descriptions textuelles ou paramètres de style, puis sélectionner la version qui convient le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR LABELS",
+    "h2": "Les labels ont besoin de contenu visuel au volume d'un rollout d'album, pas au rythme d'un single",
+    "sections": [
+      {
+        "heading": "Le vrai problème côté label",
+        "body": "Un rollout d'album moderne nécessite 30 à 50 assets vidéo : le MV du single principal, 11 lyric videos pour les titres de l'album, 11 Spotify Canvas, des cuts verticaux de chaque refrain pour la promo TikTok, un teaser de tournée, du contenu backstage, des résumés d'interviews. Même un label indépendant de taille moyenne compte 8 à 12 artistes au roster qui tournent simultanément sur ce cycle. La capacité de l'équipe vidéo est le goulot d'étranglement — pas le budget, le calendrier. La plupart des labels ne livrent tout simplement pas les assets, et l'algorithme sanctionne en conséquence."
+      },
+      {
+        "heading": "Ce que les labels peuvent réellement déléguer à l'IA",
+        "body": "Le MV principal du single — c'est encore un tournage dirigé. Tout le reste — la couche de contenu complémentaire — est exactement ce pour quoi les pipelines IA MV sont conçus. Lyric videos avec l'identité visuelle de l'album, Spotify Canvas qui reprend l'artwork, cuts TikTok qui réutilisent la palette du MV dirigé, affiches de tournée animées. L'identité visuelle de l'album (posée par le tournage du single principal) devient un template de prompt qui produit les 49 autres assets en quelques jours, pas en plusieurs mois."
+      },
+      {
+        "heading": "Comment Tunee s'intègre dans le pipeline d'un label",
+        "body": "Téléversez la référence colorimétrique de l'album et les visuels clés, verrouillez la cohérence des personnages de l'artiste sur l'ensemble du roster, et Tunee génère le pack d'assets complémentaires pour chaque sortie. L'équipe contrôle le MV dirigé et l'identité visuelle ; Tunee livre la longue traîne. Pour un label de taille moyenne gérant 15 sorties par an, c'est la différence entre des rollouts visuels complets sur chaque artiste et la réalité actuelle où la moitié du roster disparaît entre deux singles."
+      }
+    ]
+  }
 }

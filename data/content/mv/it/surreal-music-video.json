@@ -39,5 +39,23 @@
       "q": "Posso generare multiple versioni di un video musicale surreale per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale surreale utilizzando prompt diversi o impostazioni di stile, poi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL SURREAL MV",
+    "h2": "Il video surreale ha bisogno di una logica interna per funzionare davvero",
+    "sections": [
+      {
+        "heading": "Cosa separa il surreale dal casuale",
+        "body": "Surreale non significa 'cose strane a caso'. La pipa di Magritte e gli orologi di Dalì funzionano perché la maestria pittorica è convenzionale — luce pulita, materiali reali, composizione tradizionale — mentre un elemento viola la fisica o la scala. Il contrasto è ciò che lo rende onirico. Il surreale AI-generated fallisce spesso andando casuale ovunque, che il cervello legge come glitch piuttosto che come sogno. La regola: scegli una cosa impossibile per inquadratura e renderizza tutto il resto con realismo documentaristico attorno ad essa."
+      },
+      {
+        "heading": "Da dove viene questo look",
+        "body": "Lista di riferimenti: Salvador Dalí e René Magritte per il canone pittorico, Meshes of the Afternoon di Maya Deren, Eraserhead di David Lynch, Mulholland Drive e le sequenze della Black Lodge di Twin Peaks, gli effetti pratici di Eternal Sunshine di Michel Gondry (più i suoi video per Bjork), Being John Malkovich e Her di Spike Jonze, I'm Thinking of Ending Things di Charlie Kaufman. Video musicali: i pezzi Bachelorette e Hunter di Bjork diretti da Gondry, il catalogo di OK Go co-diretto da Damian Kulash (Here It Goes Again), Donkey Rhubarb di Aphex Twin diretto da Chris Cunningham. Il modello surreale di Tunee è addestrato a mantenere un elemento impossibile mentre renderizza il resto come fotoreale, la formula che funziona davvero."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Struttura i prompt come 'scena realistica + un elemento impossibile': 'cucina fotoreale, luce morbida dalla finestra, lavandino riempito di pesci rossi galleggianti dove dovrebbe esserci l'acqua'. Non rompere l'illuminazione o la scala sul lato realistico — la logica onirica viene dal contrasto. Fai riferimento al regista della dream logic se ne hai uno: 'slow zoom lynchiano, stanza leggermente troppo lunga rispetto alle sue proporzioni'. Evita 'surreale e onirico' come aggettivi; spingono verso il caos."
+      }
+    ]
+  }
 }

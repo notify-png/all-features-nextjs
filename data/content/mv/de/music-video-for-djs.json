@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees DJ-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über den Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie DJ-Musikvideos von jedem Gerät aus ohne Softwareinstallation erstellen können."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR DJS",
+    "h2": "DJ-Visuals sind keine Musikvideos — sie sind Festival-Projektion, auf Klein-Format skaliert",
+    "sections": [
+      {
+        "heading": "Warum das DJ-MV ein eigenes Format ist",
+        "body": "DJs singen den Song nicht, haben den Song nicht so geschrieben wie ein Singer-Songwriter es täte, und sind selten durchgehend auf der Kamera. Ein DJ-MV, das versucht, ein narratives Künstler-Video zu sein, floppt meistens. Was funktioniert, ist die Festival-Screen-Ästhetik auf YouTube-Maß herunterskaliert: abstrakte Motion Graphics, Mainstage-artige Visualizer, drop-synchronisierte Lichtexplosionen, gelegentliche Cuts zum DJ hinter den Decks für Identifikation. Denk an Anymes visuelle Sets, deadmau5' Cube-Projektionen, Eric Prydz' HOLO. Visuelle Dimension, nicht narrative Tiefe."
+      },
+      {
+        "heading": "Wie der Drop aussehen muss",
+        "body": "Jedes DJ-MV steht und fällt mit dem Drop. Die 8 bis 16 Bars davor sollen visuell aufbauen — Farbsättigung kriecht hoch, Kamerabewegungen beschleunigen, der Bildausschnitt wird enger. Der Drop selbst ist die visuelle Auflösung: ein harter Schnitt auf den weitesten, hellsten, kinetischsten Shot im Video, für die ersten 4 Bars gehalten, bevor Cuts zurückkehren. Triffst du diesen einen Moment, kann der Rest des Videos aus Loops bestehen; verfehlst du ihn, fühlen sich selbst großartige Visuals unter einem großartigen Drop flach an."
+      },
+      {
+        "heading": "Wie Tunee den Drop einbaut",
+        "body": "Der Audio-Analysator markiert den Drop automatisch (Energiespitze + Tempo-Bestätigung + Strukturcue), und Sage kartiert den visuellen Aufbau so, dass er darauf landet. Das DJ-Preset neigt zu Abstraktion und Architektur statt zu charaktergetriebenen Inhalten — weniger Gesichter, mehr Geometrie, die Palette auf Festival-Screen-Helligkeit begrenzt. Die Ausgabe ist 16:9 für Venue-Playback-Dateien (ja, du kannst das MP4 deinem VJ für Live-Shows übergeben) plus 9:16 für Social. Dieselbe Generierung, beide Flächen."
+      }
+    ]
+  }
 }

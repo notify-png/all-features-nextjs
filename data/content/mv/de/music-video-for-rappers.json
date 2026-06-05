@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Rappers-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, daher kannst du Rappers-Musikvideos von jedem Gerät aus erstellen, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR RAPPER",
+    "h2": "Das Rap-MV ist das visuell am stärksten codierte Genre der Musik",
+    "sections": [
+      {
+        "heading": "Warum Rap-Videos wie Rap-Videos aussehen",
+        "body": "Hip-Hop-Video hat mehr Konventionen als jedes andere Genre — mit großem Abstand. Drill hat seine spezifische Bildsprache (Handheld, Weitwinkel, Außenaufnahmen bei Nacht, Fisheye auf den Rapper, Crew-Shots aus niedrigen Winkeln — sieh Pop Smokes Welcome to the Party, den Headie One-Katalog). Trap hat seine eigene (Atlantas Strip-Club-Neon, Zeitlupe-Geld, Low-Rider-Tracking-Shots, Dave Meyers' und Cole Bennetts Grammatik). Die Konventionen existieren, weil das Publikum sie liest — brich zu viele davon und das Video liest sich nicht mehr als das Genre, das es sein soll."
+      },
+      {
+        "heading": "Was der Kanon tatsächlich liefert",
+        "body": "Der Rapper spielt in der ersten Strophe direkt in die Kamera — Nah auf den Lippen für die Punchlines, weiter auf den Körper für den Flow. Lifestyle-B-Roll gegen die Performance geschnitten: Autos, Schmuck, Locations, die als Territory gelesen werden. Der Crew-Shot, immer. Ein Ortswechsel für die zweite Strophe als Größensignal. Bridge oder letzter Hook bekommt den Wide-Shot, den Rauch, die Zeitlupe. Die visuelle Hierarchie eines Rap-MVs ist so fest wie die Verse-Hook-Verse-Hook-Struktur des Songs."
+      },
+      {
+        "heading": "Wie Tunees Rap-Preset das Genre liest",
+        "body": "Tunees Modell ist auf den echten visuellen Kanon trainiert — Drill, Trap, Boom-Bap, Melodic, UK Rap haben jeweils eigene Modellpfade. Wähl das Subgenre und die Defaults verschieben sich: Drill geht zu Nacht-Exterior-Handheld, Trap zu Neon-und-Zeitlupe, Melodic zu warmem Kinofilm. Vertikal 9:16 für den TikTok-Promo, 16:9 für den YouTube-Upload, beide aus derselben Generierung. Die Performance-Shots bleiben charakter-konsistent, sodass es wie der Künstler liest — nicht wie ein generisches KI-Gesicht."
+      }
+    ]
+  }
 }

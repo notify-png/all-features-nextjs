@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Performance-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Performance-Musikvideos von jedem Gerät aus ohne Softwareinstallation erstellen können."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS PERFORMANCE-MV",
+    "h2": "Performance-Video ist das Format, das der Algorithmus noch immer belohnt",
+    "sections": [
+      {
+        "heading": "Was Performance-MV ist",
+        "body": "Das Performance-Musikvideo zeigt die Band oder den Künstler beim Spielen des Songs vor der Kamera — ob inszeniert im Studio, auf einem Rooftop, in einem leeren Lagerhaus oder beim Soundcheck. Unterschieden von Konzert-MVs (die ein Publikum und eine Venue implizieren) ist das Performance-MV kontrolliert, oft an einem einzigen Ort, fokussiert auf den Akt des Spielens. Das Format hat die längste Geschichte bei MTV — die meisten frühen 80er-Videos waren Performance mit minimaler Erzählumrahmung. Es dominiert auch NPR Tiny Desk, La Blogothèques Take Away Shows, Jam in the Van."
+      },
+      {
+        "heading": "Wann man es einsetzt",
+        "body": "Performance-MV ist die richtige Wahl für Bands, bei denen die Musikerschaft das Entscheidende ist (Jazz, Jam-Bands, technischer Metal, alles mit Virtuosen-Spielern), für abgespeckte Akustikversionen von Pop-Hits, für Live-off-the-floor-Aufnahmen mit synchronem Audio und Video sowie für jeden Künstler, dessen Marke auf Authentizität statt Produktion basiert. Regie-Kanon: Anton Corbijns karges Schwarz-Weiß für U2 und Joy Division (Atmosphere, One), Adam Bergs Foo-Fighters-Performance-Filme, Mathias Andersson für schwedische Indie-Acts, Vincent Moons La Blogothèque Take Away Shows, Bob Boilens NPR Tiny Desk-Format. Es ist auch das Format, das YouTubes Algorithmus noch immer gut ausspielt — langformatige Performance-Inhalte haben weniger Konkurrenz als narrative MVs und höhere Watch Time pro Upload."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Beschreibe Ort und Licht-Setup wie bei einem echten Dreh: 'Industrielles Loft, Gesamtband Bühnenseite links, Drei-Kamera-Abdeckung, warme Wolfram-Praktiklichter, keine farbigen Gels'. Eine Kamerasprache wählen: 'gesperrte Weits plus langsames Dolly nah an Instrumente' oder 'alles Handheld, Schulterschwung, intuitive Schnitte'. 'Kein sichtbares Publikum' hinzufügen, um es als Performance statt als Konzert zu halten. Tunee kann Kamerastil dem Genre anpassen — Jazz profitiert von langsamen Halteframes, Punk von schnellen Schnitten."
+      }
+    ]
+  }
 }

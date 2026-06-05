@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi video musical para X / Twitter?",
       "a": "Tunee ofrece opciones integradas de overlay de letras y subtítulos. Simplemente ingresa tus letras, elige un estilo de texto, y la IA las sincronizará con tu video musical para X / Twitter automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA TWITTER",
+    "h2": "El video en X/Twitter se reproduce en silencio automáticamente — el primer fotograma tiene que hacer el trabajo que normalmente hace el audio",
+    "sections": [
+      {
+        "heading": "La restricción del formato que nadie diseña pensando en ella",
+        "body": "El video en X se reproduce en el feed sin sonido. El usuario tiene que pulsar activamente para activar el audio. Lo que significa que tus primeros 2 segundos compiten no contra otros videos sino contra el silencio — y la mayoría de los videoclips dependen del audio para sostener la apertura. La solución: diseña el primer fotograma para que sea visualmente impactante por sí solo, y añade un hook con subtítulos (letra, nombre del artista, título de la canción) en el primer segundo para que el espectador en silencio sepa qué está viendo."
+      },
+      {
+        "heading": "Las matemáticas del formato y la duración",
+        "body": "X permite 16:9, 1:1 y 9:16, pero el 16:9 ocupa más espacio en el feed de escritorio, donde todavía ocurre una parte importante del tráfico de descubrimiento musical. El 1:1 gana en los timelines móviles. El límite de subida de 2 minutos y 20 segundos (para cuentas sin pago) rara vez es la restricción determinante: la mayoría de los clips de videoclip en X duran entre 30 y 60 segundos, estructurados como un teaser que enlaza a la versión completa en YouTube. Trata X como la superficie de tráiler, no como el destino."
+      },
+      {
+        "heading": "El preset de Twitter de Tunee y la exportación dual",
+        "body": "Elige X/Twitter y obtienes dos salidas: un corte de 1080p en 16:9 con una leyenda de apertura integrada (artista + canción, primeros 1,5 segundos, eliminable) para los feeds de escritorio, y una versión de 1080p en 1:1 para respuestas y citas pensadas para móvil. Ambas están por debajo de los 50 MB para superar el límite de subida de X sin recompresión. El audio está mezclado ligeramente más fuerte en el máster para compensar la normalización de volumen de la plataforma, que funciona a un nivel más bajo que Spotify o YouTube."
+      }
+    ]
+  }
 }

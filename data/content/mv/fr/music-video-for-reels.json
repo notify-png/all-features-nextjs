@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale Instagram Reels à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variantes de votre vidéo musicale Instagram Reels en utilisant différentes demandes ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR REELS",
+    "h2": "Reels récompense la finition visuelle plus que la nouveauté brute",
+    "sections": [
+      {
+        "heading": "Pourquoi Reels mérite sa propre réflexion",
+        "body": "L'audience d'Instagram est plus âgée et plus habituée aux codes de marque que celle de TikTok. Les utilisateurs de Reels tolèrent une ouverture plus lente, mais ils sont moins indulgents envers les contenus à faible valeur de production — la plateforme reste aspirationnelle par défaut. Le plafond de 90 secondes vous laisse plus de place pour un couplet et un refrain, et la bibliothèque musicale native signifie que vous pouvez uploader votre titre comme audio Reels pour que d'autres créateurs l'utilisent — c'est le vrai levier de distribution pour les musiciens sur cette plateforme."
+      },
+      {
+        "heading": "Les conventions qui gagnent sur Reels",
+        "body": "Étalonnage soigné, composition délibérée, overlays de paroles en typographie sans-serif propre, transitions qui marquent le beat sans se donner en spectacle. L'esthétique Reels emprunte davantage au film de mode qu'au chaos TikTok — pensez aux vidéos de Daniel Caesar, aux rollouts visuels de Steve Lacy, à la façon dont FKA Twigs traite chaque frame comme un still. Vertical 9:16, accroche à la 5e seconde, mais les 5 premières secondes peuvent mériter cette accroche avec une montée en tension."
+      },
+      {
+        "heading": "L'export Reels de Tunee et le levier audio",
+        "body": "Le préréglage Reels sort du 9:16 en 1080p, 90 secondes max, avec la piste audio exportée séparément en MP3 que vous pouvez uploader comme Audio Reels. C'est là que se trouve le multiplicateur — votre vidéo est vue une fois, votre audio est utilisé par 50 autres créateurs qui renvoient vers vous. Tunee génère également un cut « teaser » de 30 secondes en parallèle du Reel complet pour le cross-posting en Story, de sorte qu'une seule génération alimente trois surfaces de distribution."
+      }
+    ]
+  }
 }

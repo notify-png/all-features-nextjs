@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Spotify Canvas di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali Spotify Canvas da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER SPOTIFY CANVAS",
+    "h2": "Canvas dura da 3 a 8 secondi. Deve andare in loop. E non può avere audio proprio",
+    "sections": [
+      {
+        "heading": "Cos'è davvero Canvas",
+        "body": "Spotify Canvas è il video in loop verticale che scorre dietro una traccia nella schermata Now Playing — da 3 a 8 secondi, 9:16, nessun audio nativo (il brano è l'audio). Il formato è un loop, il che significa che il primo e l'ultimo frame devono corrispondere in modo pulito, altrimenti l'utente vede un taglio duro ogni 8 secondi. La maggior parte delle etichette carica ancora una copertina statica perché realizzare un loop di 8 secondi senza interruzioni senza un editor richiede più lavoro di quanto vogliano fare."
+      },
+      {
+        "heading": "Cosa funziona in 8 secondi",
+        "body": "Tre format dominano: un ritratto al rallenty che va in loop su un'espressione tenuta, una texture astratta (fumo, acqua, inchiostro nel latte) dove il punto di loop è invisibile, o un singolo movimento ripetuto (un disco che gira, una mano che batte il ritmo, una tenda che respira) che è già ciclico. Qualsiasi elemento narrativo è sbagliato per il formato — lo spettatore non ha contesto audio e ha solo 8 secondi. Atmosfera, non storia."
+      },
+      {
+        "heading": "Come Tunee esegue il rendering per Canvas",
+        "body": "Scegli il preset Canvas e il generatore si limita a una singola inquadratura coerente, massimo 8 secondi, con il primo e l'ultimo frame forzati a corrispondere. Nessun taglio all'interno del clip. L'output è 9:16 a 720p (spec Canvas), MP4, sotto 8MB. La stessa generazione di partenza produce anche un fermo immagine della copertina dell'album così puoi aggiornare l'artwork insieme al Canvas in un unico upload su Spotify for Artists."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale Retro?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale Retro."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU MV RÉTRO",
+    "h2": "Rétro, c'est une décennie, pas une ambiance — choisissez-en une",
+    "sections": [
+      {
+        "heading": "L'époque compte plus que le mot",
+        "body": "Rétro est inutile comme étiquette unique parce que chaque décennie avait un look différent. Années 70 : pellicule Kodak chaude, anamorphique doux, grands cols, jaunes de break familial. Années 80 : vidéo Betacam, saignement chromatique VHS, graphismes néon sur fond noir, esthétique bumper MTV. Années 90 : Hi-8 granuleux, jean délavé et flanelle, grain de film indé de Kids et Clerks. Années 2000 : numérique précoce, bruit vidéo trop net, style photo façon MySpace. Choisir la mauvaise décennie pour votre référence est l'erreur la plus courante dans l'IA-rétro."
+      },
+      {
+        "heading": "D'où vient ce look",
+        "body": "Repères spécifiques à chaque époque : Days of Being Wild de Wong Kar-wai pour le Hong Kong des années 70, Boogie Nights de Paul Thomas Anderson pour l'authenticité pellicule, tout le catalogue MTV 1981-1989 pour la vraie vidéo 80s, The Virgin Suicides de Sofia Coppola pour le rêve suburban 70s, Kids de Larry Clark pour le 16mm brut 90s, Drive (2011) de Nicolas Winding Refn pour le revival synthwave 80s, les Awesome Mix de Guardians of the Galaxy de James Gunn. L'esthétique grindhouse de Quentin Tarantino dans Death Proof. Artistes VHS : le travail à bandes dégradées de David Firth, la première scène vaporwave YouTube. Le modèle rétro de Tunee entraîne chaque décennie comme une combinaison stock-et-format distincte, pas un flou d'ensemble « à l'air vieux »."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Indiquez toujours l'année et le format : « 1978, Kodak Vision 250D, anamorphique, contraste doux » ou « 1986, Betacam SP, aberration chromatique sur les hautes lumières, lignes de balayage ». Spécifiez le type de grain pellicule ou de bruit vidéo — ils sont totalement différents visuellement. Les costumes et accessoires de l'époque comptent ; « tenue rétro » est vague, « chemise en polyester à large col, denim à pattes d'éléphant » est précis. Mélanger les décennies est acceptable pour le surréalisme, mais précisez-le : « néon 80s anachronique sur pellicule 70s »."
+      }
+    ]
+  }
 }

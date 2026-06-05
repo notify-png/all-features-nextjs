@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de vídeos de música reggaeton de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en móvil, para que puedas crear vídeos de música reggaeton desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL REGGAETON",
+    "h2": "El video de reggaeton vive donde el dembow y la pista de baile se encuentran",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el reggaeton",
+        "body": "Los MVs de reggaeton combinan la energía de club con la especificidad del barrio. El ritmo de dembow dicta el montaje: tres tiempos y medio, corte duro, repite. Las localizaciones alternan entre azoteas, interiores de club con baño magenta y escenas callejeras que hacen referencia específicamente a San Juan, Medellín o Miami. El vestuario es de vanguardia: streetwear de diseñador, joyería de impacto, a veces alta costura en entornos inesperados. El baile es participativo antes que coreografiado: gente moviéndose con la canción, no actuando para la cámara."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'Mi Gente' de J Balvin, dirigido por Daniel Durán, construyó la escala visual a la que opera ahora el reggaeton. El 'Yo Perreo Sola' de Bad Bunny, dirigido por Stillz, volcó las expectativas sobre quién protagoniza un MV de reggaeton. El 'Hawai' de Maluma trae el brazo narrativo cinematográfico. El 'Gasolina' de Daddy Yankee sigue siendo el texto fundacional al que responde cada nuevo video. El 'TQG' de Karol G con Shakira, el 'Normal' de Feid y Anuel AA llevan el lenguaje visual actual, mientras que el trabajo de dirección en colaboración de Colin Tilley para el género sigue siendo el estándar de la industria. La constante: localizaciones reales, la moda como identidad, coreografía que se lee como movimiento natural."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Temporiza el montaje explícitamente con el patrón de dembow: 'cortes cada tres tiempos y medio a lo largo del estribillo, sostén el puente durante ocho compases'. Especifica dos localizaciones contrastantes y rota entre ellas — 'azotea al atardecer y club subterráneo a las 2 de la mañana' crea el arco día-y-noche que premia el género. El cambio de vestuario entre localizaciones debe ser dramático. Tunee maneja bien la paleta de club magenta-y-ámbar cuando nombras ambos colores y el nivel de neblina."
+      }
+    ]
+  }
 }

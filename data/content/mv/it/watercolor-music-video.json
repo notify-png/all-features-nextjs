@@ -39,5 +39,23 @@
       "q": "Come posso aggiungere testi o sottotitoli al mio videoclip musicale acquerello?",
       "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'AI sincronizzerà automaticamente il tuo videoclip musicale acquerello."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULL'MV ACQUERELLO",
+    "h2": "L'acquerello su schermo richiede di mantenere la carta visibile",
+    "sections": [
+      {
+        "heading": "Come appare davvero l'acquerello",
+        "body": "Tre elementi definiscono lo stile: la texture della carta visibile sotto la campitura, il pooling del colore ai bordi della pennellata, il bleeding morbido del bagnato su bagnato. L'acquerello AI fallisce quando leviga questi elementi invece di preservarli. I frame acquerello autentici non interpolano in modo fluido — ribollono tra cel disegnati a mano a 12fps. Loving Vincent ha dimostrato quanto questo approccio possa essere potente su larga scala."
+      },
+      {
+        "heading": "Da dove viene questo look",
+        "body": "Loving Vincent (2017) di Dorota Kobiela e Hugh Welchman rimane il riferimento cinematografico definitivo. Gli sfondi dipinti a mano di Kazuo Oga per Studio Ghibli (My Neighbor Totoro, Princess Mononoke) fissano lo standard per l'acquerello naturalistico. I paesaggi marini di J.M.W. Turner, i concept-art in acquerello di Miyazaki, World of Tomorrow di Don Hertzfeldt e Sword in the Stone di Disney completano il pantheon. Tra gli illustratori: Quentin Blake per Roald Dahl, Maurice Sendak. Nell'area music-video: Glen Keane e Tomm Moore (Cartoon Saloon — The Secret of Kells, Wolfwalkers)."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Includi sempre la texture della carta nel prompt — senza questo dettaglio il risultato sembra digitale. Specifica il boil rate: 'hand-painted boil, 12fps frame replacement, not smooth tween'. Lavora con una palette ristretta di 3-5 colori massimo. Aggancia lo stile a un pittore specifico: 'Turner sky wash' o 'Kazuo Oga forest background' danno a Tunee un ancoraggio stilistico preciso che l'AI gestisce molto meglio di un'istruzione generica."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um clipe musical de letras para MV para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu clipe musical de letras para MV usando diferentes prompts ou configurações de estilo, e então selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LETRAS PARA MV",
+    "h2": "Quando as letras são o roteiro, o vídeo se escreve sozinho",
+    "sections": [
+      {
+        "heading": "Por que a letra JÁ É o storyboard",
+        "body": "Os compositores já sabem disso — uma boa letra é decupada antes de virar uma música. 'Atravessei o deserto num carro sem nome' é um plano aberto. 'Ela virou devagar' é um plano médio com um giro de cabeça. Lyric videos que apenas flutuam texto sobre um fundo abstrato ignoram o fato de que cada linha já é uma instrução visual. Um pipeline de letras-para-MV deveria ler essas instruções, não colar as palavras num gradiente."
+      },
+      {
+        "heading": "O que o Tunee faz com sua folha de letras",
+        "body": "Cole as letras com timestamps aproximados (ou apenas o texto completo — o Tunee alinha automaticamente ao áudio) e o Sage mapeia cada linha para um plano. Substantivos concretos viram visuais de estabelecimento, verbos de ação viram movimentos de câmera, linhas de refrão repetidas reutilizam o plano principal para que o refrão se leia visualmente como refrão. Você ainda pode ter tipografia na tela se quiser — mas a tipografia fica dentro de uma cena, não por cima de uma."
+      },
+      {
+        "heading": "A dica de prompt que muda o resultado",
+        "body": "Não parafraseie suas letras em um prompt separado. A letra já é específica; o prompt deve ser a moldura estética ao redor dela. Experimente assim: letras no campo de letras, depois uma linha de prompt para o mundo ('Tóquio dos anos 1970, chuva, reflexos de neon nas poças'), uma para a câmera ('câmera na mão, 35mm, profundidade rasa'), uma para o personagem ('30 e poucos anos, jaqueta de couro, nunca mostrado de frente'). O Tunee cuida dos cortes linha por linha; você cuida do visual."
+      }
+    ]
+  }
 }

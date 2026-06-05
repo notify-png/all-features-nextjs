@@ -39,5 +39,23 @@
       "q": "Le générateur de clips musicaux de performance de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur et mobile, vous pouvez donc créer des clips musicaux de performance à partir de n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU MV DE PERFORMANCE",
+    "h2": "La vidéo de performance est le format que l'algorithme récompense encore",
+    "sections": [
+      {
+        "heading": "Ce qu'est le MV de performance",
+        "body": "La vidéo musicale de performance, c'est le groupe ou l'artiste qui joue le morceau à l'écran — dans un studio, sur un rooftop, dans un entrepôt vide, pendant une balance. Distinct du MV de concert (qui implique un public et une salle), le MV de performance est contrôlé, souvent dans un lieu unique, centré sur l'acte de jouer. Le format a la plus longue histoire sur MTV — la plupart des premières vidéos des années 80 étaient de la performance avec un habillage narratif minimal. Il domine également dans NPR Tiny Desk, les Take Away Shows de La Blogotheque, et Jam in the Van."
+      },
+      {
+        "heading": "Quand l'utiliser",
+        "body": "Le MV de performance est le bon choix pour les groupes dont la musicianship est l'essentiel (jazz, groupes jam, metal technique, tout avec des instrumentistes virtuoses), pour les versions acoustiques dépouillées de tubes pop, pour les enregistrements live-off-the-floor où audio et vidéo se synchronisent, et pour tout artiste dont la marque repose sur l'authenticité. Canon des réalisateurs : le travail stark en noir et blanc d'Anton Corbijn pour U2 et Joy Division (Atmosphere, One), les films de performance Foo Fighters d'Adam Berg, Mathias Andersson pour les actes indie suédois, les Take Away Shows de Vincent Moon pour La Blogotheque, le format Tiny Desk de Bob Boilen pour NPR. C'est aussi le format que l'algorithme YouTube fait encore bien remonter — le contenu de performance longue durée a moins de concurrence que le MV narratif et un temps de visionnage par upload plus élevé."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Spécifiez le lieu et la configuration lumineuse comme pour un vrai tournage : « loft industriel, scène côté cour avec le groupe complet, couverture trois caméras, lumières tungstène chaudes, pas de gels colorés ». Choisissez un langage caméra : « plans larges fixes plus dolly lent serré sur les instruments » ou « tout caméra portée, épaulière, coupes intuitives ». Ajoutez « aucun public visible » pour rester en performance et non en concert. Tunee peut adapter le style de caméra au genre — le jazz bénéficie de plans longs, le punk de coupes rapides."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Posso creare un video musicale Photo to MV senza alcuna esperienza di video editing?",
       "a": "Sì — l'AI di Tunee gestisce automaticamente tutta la produzione video. Carica semplicemente il tuo audio o inserisci un prompt di testo, scegli uno stile Photo to MV e l'AI genera il tuo video in pochi minuti."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "PHOTO TO MV",
+    "h2": "Trasforma una cartella di foto in un music video che taglia davvero",
+    "sections": [
+      {
+        "heading": "Perché la maggior parte degli strumenti photo-to-video produce slideshow",
+        "body": "Il genere ha una cattiva reputazione per una ragione: 'da foto a video' di solito significa pan-and-zoom Ken Burns su ogni still, un cross-fade, e una traccia royalty-free sotto. È l'estetica da DVD di matrimonio, e non sopravvive su un feed dove TikTok taglia ogni 1,5 secondi. La soluzione non è un pacchetto di transizioni più raffinato — è animare la foto stessa in modo che ogni still diventi una plate in movimento, poi tagliare tra le plate sul beat."
+      },
+      {
+        "heading": "Cosa fa Tunee con le tue foto",
+        "body": "Carica fino a 20 foto (scatti di concerti, dietro le quinte, polaroid, qualsiasi cosa) e Tunee tratta ognuna come un seed di generazione, non come un frame finale. Ogni foto riceve un breve pass di movimento — un push in parallasse, un dolly con tracking del soggetto, un leggero arco di camera — e i clip risultanti vengono tagliati sul tuo brano. I volti rimangono coerenti. Il pan da DVD è scomparso. Quello che ottieni si legge davvero come filmato, non come still con una transizione Hollywood Edge tra di esse."
+      },
+      {
+        "heading": "Quando questo workflow vince",
+        "body": "Tre casi d'uso funzionano alla grande: artisti con un solido archivio fotografico ma senza budget video, video tributo dove il materiale di partenza sono stampe vecchie di decenni, e recap di tour dove il fotografo di strada ha scattato 5.000 still e zero clip. Caricali su Tunee, scegli il brano, scegli 9:16 o 16:9, e le foto fanno il lavoro che di solito fa il filmato. L'output è breve — 60-90 secondi — perché è la lunghezza in cui questo trucco rimane convincente."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um vídeo de música para Instagram Reels para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu vídeo de música Instagram Reels usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA REELS",
+    "h2": "O Reels recompensa polimento visual mais do que novidade bruta",
+    "sections": [
+      {
+        "heading": "Por que o Reels é uma conversa à parte",
+        "body": "O público do Instagram é mais velho e mais treinado em marcas do que o do TikTok. Os usuários de Reels toleram uma abertura mais lenta, mas são menos tolerantes com material de baixa qualidade de produção — a plataforma ainda é aspiracional por padrão. O limite de 90 segundos significa que você tem mais espaço para um verso e um refrão, e a biblioteca de músicas nativa significa que você pode fazer upload da sua faixa como um áudio de Reels e deixar outros criadores usá-la, o que é a jogada de distribuição real para músicos nessa plataforma."
+      },
+      {
+        "heading": "Convenções que vencem no Reels",
+        "body": "Color grade deliberado, composição cuidadosa, sobreposições de letras em tipografia sans-serif limpa, transições que seguem a batida sem gritá-lo. A estética do Reels toma mais emprestado do filme de moda do que do caos do TikTok — pense nos vídeos de Daniel Caesar, nos rollouts visuais de Steve Lacy, no jeito como FKA Twigs trata cada frame como uma fotografia. Vertical 9:16, gancho até a marca de 5 segundos, mas os primeiros 5 segundos podem ganhar esse gancho com uma construção."
+      },
+      {
+        "heading": "O export para Reels do Tunee e a jogada de áudio",
+        "body": "O preset Reels gera 9:16 em 1080p, máximo de 90 segundos, com a trilha sonora exportada separadamente como um MP3 que você pode carregar como Áudio do Reels. Esse é o multiplicador — seu vídeo é reproduzido uma vez, seu áudio é usado por 50 outros criadores que marcam de volta. O Tunee também gera um corte 'teaser' de 30 segundos ao lado do Reel completo para crossposting como Story, então uma única geração alimenta três superfícies de distribuição."
+      }
+    ]
+  }
 }

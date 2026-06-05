@@ -39,5 +39,23 @@
       "q": "Funziona con qualsiasi genere musicale, o solo con il pop?",
       "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre al pop. Puoi generare video musicali per pop, hip-hop, musica classica e decine di altri stili utilizzando la stessa piattaforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL POP",
+    "h2": "Il video pop fissa il tetto di budget per tutti gli altri generi",
+    "sections": [
+      {
+        "heading": "Come appare il pop",
+        "body": "Gli MV pop offrono la maggiore densità produttiva del formato. Set personalizzati multipli, archi di guardaroba completi, fili narrativi, crew di coreografia, a volte color grading da film. L'artista è il centro di ogni composizione a meno che non venga deliberatamente sottratto per ragioni narrative. I mondi cromatici cambiano per sezione ma sempre al servizio dell'arco emotivo del brano. Il pop è l'unico genere in cui il pubblico accetta un video di quattro minuti che costa per minuto più di un film Marvel, purché l'hook funzioni."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Bejeweled' e 'Anti-Hero' di Taylor Swift, entrambi diretti da Swift con la lunga influenza di Joseph Kahn sul suo catalogo, mostrano la narrazione su scala. 'Vampire' e 'bad idea right?' di Olivia Rodrigo, diretti da Petra Collins, dimostrano che un singolo concetto con totale commitment batte lo spettacolo. 'Houdini' di Dua Lipa riporta la coreografia al centro del pop. 'Espresso' di Sabrina Carpenter, diretta da Bardia Zeinali, fa rivivere la tradizione più leggera del set-piece, mentre il lavoro di Dave Meyers per Travis Scott e Kendrick Lamar rimane il gold standard del settore. Il filo conduttore è l'intenzionalità — ogni frame è stato discusso da dieci persone."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Tratta l'arco narrativo del brano come lo scheletro dello storyboard. Chiedi a Tunee set distinti per sezione: camera da letto nella strofa, corridoio nel pre-ritornello, palco nel ritornello, rooftop nel bridge. Il guardaroba deve cambiare con il mondo. Nomina l'era a cui miri — 'palette candy mid-anni 2010 di Katy Perry' o 'teatralità pastello attuale di Sabrina Carpenter' — così i riferimenti visivi atterrano. Simmetria sul drop del ritornello. Chiudi sempre su un singolo frame iconico che il pubblico possa ancora visualizzare una settimana dopo."
+      }
+    ]
+  }
 }

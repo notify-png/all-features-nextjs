@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi video musical de Apple Music?",
       "a": "Tunee ofrece opciones de superposición de letras y subtítulos integradas. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu video musical de Apple Music automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA APPLE MUSIC",
+    "h2": "Los videos de Apple Music son un formato distinto a todo lo demás",
+    "sections": [
+      {
+        "heading": "Qué pide Apple en realidad",
+        "body": "Apple Music tiene tres superficies de video: el videoclip estándar (entregado a través del distribuidor del artista, normalmente 16:9 en 1080p o 4K), Motion Lyrics (un formato vertical centrado en las letras que anima cada línea mientras suena la canción) y Spatial Video para Vision Pro (con mapeado de profundidad 3D, en 9:16 o 16:9, actualmente una superficie pequeña pero en crecimiento). Los estándares son más estrictos que los de YouTube: el QC de Apple rechaza de verdad los videos que no cumplen las especificaciones técnicas."
+      },
+      {
+        "heading": "Lo que Motion Lyrics premia",
+        "body": "Motion Lyrics es el formato que más sellos desaprovechan. Es vertical, se reproduce a pantalla completa en iPhone, y Apple lo curadilla editorialmente en playlists. El canon visual es sutil: un fondo texturizado único (grano de película, degradado, partículas lentas), texto de letra en una tipografía que coincide con la identidad del álbum, animación línea-por-línea que aterriza en la sílaba. No al estilo karaoke con palabras resaltadas, sino revelaciones a nivel de línea sincronizadas con las entradas vocales."
+      },
+      {
+        "heading": "Cómo gestiona Tunee los formatos de Apple",
+        "body": "El preset de Apple Music genera tres entregables desde una sola producción: 16:9 en 4K para el slot de MV estándar, un corte de Motion Lyrics en 9:16 con revelaciones de línea temporizadas sobre tu fondo elegido, y un MP4 con mapa de profundidad listo para Spatial en la superficie de Vision Pro. Los tres cumplen las especificaciones para la subida a través del distribuidor de Apple. El timing de la letra reutiliza la alineación que Tunee ya hace para el flujo de trabajo de letras-a-MV, así que no tienes que marcar los tiempos de la canción dos veces."
+      }
+    ]
+  }
 }

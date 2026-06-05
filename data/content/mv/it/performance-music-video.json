@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali performance di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali performance da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULL'PERFORMANCE MV",
+    "h2": "Il video performance è il formato che l'algoritmo premia ancora",
+    "sections": [
+      {
+        "heading": "Cos'è l'MV performance",
+        "body": "Il music video performance è la band o l'artista che suona il brano in camera — può essere in studio, su un rooftop, in un magazzino vuoto, a un soundcheck. Distinto dall'MV concerto (che implica pubblico e venue), l'MV performance è controllato, spesso in una singola location, concentrato sull'atto del suonare. Il formato ha la storia più lunga nella tradizione MTV — la maggior parte dei video degli anni '80 erano performance con un contorno narrativo minimo. È anche dominante su NPR Tiny Desk, i Take Away Shows di La Blogotheque, Jam in the Van."
+      },
+      {
+        "heading": "Quando usarlo",
+        "body": "L'MV performance è la scelta giusta per le band in cui la maestria musicale è il punto centrale (jazz, jam band, metal tecnico, qualsiasi cosa con musicisti virtuosi), per versioni acustiche stripped di hit pop, per registrazioni live-in-the-floor dove audio e video si sincronizzano, e per qualsiasi artista il cui brand è l'autenticità sopra la produzione. Canone dei registi: il lavoro stark in bianco e nero di Anton Corbijn per U2 e Joy Division (Atmosphere, One), i film performance di Adam Berg per i Foo Fighters, Mathias Andersson per gli atti indie svedesi, i Take Away Shows di Vincent Moon per La Blogotheque, il format NPR Tiny Desk di Bob Boilen. È anche il formato che l'algoritmo di YouTube valorizza bene — il contenuto performance di lunga durata ha meno concorrenza degli MV narrativi e più watch time per upload."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Specifica il venue e il setup luci come in una vera ripresa: 'loft industriale, palco a tutta banda a sinistra, copertura con tre camere, luci pratiche al tungsteno calde, nessun gel colorato'. Scegli un linguaggio di camera: 'campi larghi fissi più dolly lento su strumenti' oppure 'tutto a mano, montaggio su spalla, tagli intuitivi'. Aggiungi 'nessun pubblico visibile' per mantenerlo performance e non concerto. Tunee può abbinare lo stile di camera al genere — il jazz beneficia di lunghi hold, il punk di tagli veloci."
+      }
+    ]
+  }
 }

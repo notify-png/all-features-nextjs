@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales verticales de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en computadora y móvil, para que puedas crear videos musicales verticales desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV VERTICAL",
+    "h2": "Lo vertical no es un recorte — es una composición diferente",
+    "sections": [
+      {
+        "heading": "Qué requiere realmente lo vertical",
+        "body": "El videoclip vertical es una composición nativa para móvil en 9:16 diseñada para TikTok, Instagram Reels, YouTube Shorts y Spotify Canvas. El error es rodar en horizontal y recortar: lo vertical exige un encuadre de sujeto único centrado, acción que ocurra de arriba a abajo en lugar de de izquierda a derecha, y ediciones ritmadas para la atención del scroll con el pulgar. El primer fotograma tiene que detener el scroll en menos de un segundo. El tercio inferior frecuentemente aloja espacio para subtítulos. El formato tiene su propio lenguaje ahora, distinto del horizontal."
+      },
+      {
+        "heading": "Cuándo usarlo",
+        "body": "El MV vertical es innegociable para cualquier lanzamiento en 2026: cada single necesita un corte vertical. Casos de uso específicos: promo de lanzamiento en TikTok (frecuentemente el mayor canal de descubrimiento del single), Reels y Shorts donde el horizontal aparece con bandas negras e ignorado, Spotify Canvas de 8 segundos en bucle, vallas publicitarias verticales en Times Square y el Shibuya Crossing de Tokio, anuncios en el feed. Creadores nativos verticales dignos de citar: el formato de reacción silenciosa de Khaby Lame, el encuadre danza-primero de Charli D'Amelio, las revelaciones de retrato de Devon Rodriguez. Artistas cuyas carreras se construyeron primero en vertical: Doja Cat, Olivia Rodrigo, la carrera de TikTok de Old Town Road de Lil Nas X, Ice Spice. Las campañas verticales Shot on iPhone de Apple y la pieza de Vertical Cinema Driving Home for Christmas demuestran que el formato no es un atajo. Lo vertical es ahora el formato primario, no el secundario."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Compone para 9:16 desde el principio: 'encuadre vertical 9:16, sujeto único centrado, la acción se mueve de arriba a abajo (figura que sube, partículas que caen)'. Pon el hook en primer plano: 'primeros 2 segundos: primer plano extremo, color intenso, movimiento'. Reserva el 15% inferior para la seguridad de los subtítulos: 'ningún detalle crítico en el 15% inferior del encuadre'. Tunee renderiza 9:16, 16:9 y 1:1 desde una sola generación, así que un único prompt cubre TikTok, YouTube e Instagram cuadrado sin volver a rodar."
+      }
+    ]
+  }
 }

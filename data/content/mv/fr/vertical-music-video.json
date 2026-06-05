@@ -39,5 +39,23 @@
       "q": "Le générateur de vertical music video de Tunee fonctionne-t-il sur mobile?",
       "a": "Tunee est entièrement accessible via navigateur web sur desktop et mobile, vous permettant de créer des vertical music videos depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU MV VERTICAL",
+    "h2": "Vertical, ce n'est pas un recadrage — c'est une composition différente",
+    "sections": [
+      {
+        "heading": "Ce que le vertical exige vraiment",
+        "body": "La vidéo musicale verticale est une composition mobile-first en 9:16 conçue pour TikTok, Instagram Reels, YouTube Shorts et Spotify Canvas. L'erreur classique est de filmer en horizontal et de recadrer — le vertical exige un cadrage centré sur un sujet unique, une action qui se développe de haut en bas plutôt que de gauche à droite, et des montages cadencés pour l'attention du pouce qui scrolle. La première frame doit arrêter le scroll en une seconde. Le tiers inférieur accueille souvent les sous-titres. Le format a maintenant son propre langage, distinct de l'horizontal."
+      },
+      {
+        "heading": "Quand l'utiliser",
+        "body": "Le MV vertical est non négociable pour toute sortie en 2026 — chaque single a besoin d'un cut vertical. Cas d'usage spécifiques : promo TikTok du jour de sortie (souvent le principal canal de découverte du single), Reels et Shorts où l'horizontal est mis en boîte aux lettres et ignoré, boucles Spotify Canvas de 8 secondes, panneaux verticaux à Times Square et au carrefour de Shibuya à Tokyo, publicités in-feed. Créateurs natifs verticaux de référence : le format de réaction silencieuse de Khaby Lame, le cadrage dance-first de Charli D'Amelio, les révélations de portrait de Devon Rodriguez. Artistes dont les carrières ont été construites vertical-first : Doja Cat, Olivia Rodrigo, le run TikTok Old Town Road de Lil Nas X, Ice Spice. Les campagnes Shot on iPhone d'Apple et la pièce Vertical Cinema Driving Home for Christmas prouvent que le format n'est pas un artifice. Le vertical est désormais le format primaire, pas le secondaire."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Composez pour le 9:16 dès le départ : « cadre vertical 9:16, sujet unique centré, action de haut en bas (figure qui monte, particules qui tombent) ». Front-loadez l'accroche : « 2 premières secondes : gros plan extrême, couleur tranchée, mouvement ». Réservez les 15 % inférieurs pour la sécurité des sous-titres : « aucun détail critique dans les 15 % inférieurs du cadre ». Tunee génère du 9:16, du 16:9 et du 1:1 depuis une seule génération, couvrant TikTok, YouTube et le carré Instagram sans re-tourner."
+      }
+    ]
+  }
 }

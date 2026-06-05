@@ -39,5 +39,23 @@
       "q": "Como faço para adicionar letras ou legendas ao meu videoclipe de Banda?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente com seu videoclipe de Banda."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA BANDAS",
+    "h2": "Bandas precisam de material de performance que não podem continuar regravando",
+    "sections": [
+      {
+        "heading": "O problema real do MV de banda",
+        "body": "Um quarteto fazendo um MV de performance completo precisa de no mínimo cinco pessoas (a banda mais o operador de câmera), um espaço, um setup multicâmera e um dia inteiro. Isso custa entre R$ 10.000 e R$ 40.000 quando a pós-produção está incluída — para uma música que talvez consiga 12.000 streams. A conta só fecha para artistas com contrato, e é por isso que a maioria das bandas independentes fica girando os mesmos dois vídeos de performance por anos. A lacuna que uma ferramenta de IA preenche não é substituir o material de performance ao vivo — é cobrir o rollout do álbum entre a única gravação real que você pode pagar."
+      },
+      {
+        "heading": "Planos que o cânone do MV de banda realmente usa",
+        "body": "Fechado na mão esquerda do guitarrista numa mudança de acorde. A câmera aérea no baterista durante um fill. O vocalista em plano médio com uma luz de contorno dura num agudo. Um recuo para um plano aberto durante o refrão final que revela um espaço vazio. MVs de performance não precisam de narrativa — precisam dos quatro ou cinco planos que, bem cortados, fazem uma banda parecer uma banda. O modelo de banda do Tunee foi treinado nesse cânone, então prompts como 'quarteto num palco pequeno, uma luz principal, sem plateia, grain de 16mm' chegam onde um DP chegaria."
+      },
+      {
+        "heading": "Onde o Tunee se encaixa no ciclo de lançamentos da banda",
+        "body": "No lançamento do single, você tem um vídeo de verdade. O álbum tem mais 11 faixas que precisam de conteúdo visual para preencher o rollout — lyric videos, loops de performance para o Instagram, cortes verticais para a promoção no TikTok, Spotify Canvas para cada faixa. É aí que o Tunee vale seu peso: não substituindo o vídeo dirigido, mas gerando os 30 ativos complementares que o algoritmo exige agora que um único vídeo não é mais suficiente."
+      }
+    ]
+  }
 }

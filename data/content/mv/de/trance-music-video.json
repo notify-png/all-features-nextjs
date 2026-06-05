@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Trance-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du Trance-Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER TRANCE",
+    "h2": "Trance-Video ist das Festival-Mainstage, von innen des Aufbaus gefilmt",
+    "sections": [
+      {
+        "heading": "Wie Trance aussieht",
+        "body": "Trance-MVs sind fast immer Live-Aufnahmen: Mainstage-Shots, Drohnenüberflüge über Menschenmassen, der DJ silhouettiert gegen ein volles Bühnen-Rig im Moment des Drops. Farbe wird von tiefem Blau und Weiß dominiert, mit heißen Pink- oder Grün-Laserintrusionen an Höhepunkten. Erhobene Hände, Feuerwerk, Rauchkanonen. Der Aufbau bekommt Teleobjektiv-Menge-Nahaufnahmen in Zeitlupe; der Drop bekommt den breiten Bühnen-Shot mit voll geöffneten Lasern. Keine Erzählung — das Video ist das Event."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Above & Beyonds 'Group Therapy'-Live-Aufnahmen von Anjunabeach und Madison Square Garden definieren das moderne Trance-MV-Format. Armin van Buurens 'A State of Trance'-Eventfilme setzen den Maßstab für Skalierung, und Anjunabeats' internes Livestream-Team hat die charakteristische Kamerasprache des Genres aufgebaut. ASOT-Festival-Aufnahmen, Dreamstate und Tomorrowlands offizielle Mainstage-Schnitte — insbesondere Martin Garrix' 'Animals'-Mainstage-Aufnahme — füllen den visuellen Kanon. Frühere Referenzpunkte — Tiestos 'Adagio for Strings' live im Olympiastadion und Paul van Dyks Mainstage-Footage — lehren noch immer, wie ein emotionaler Drop zu filmen ist. Der gemeinsame Instinkt: der Menge vertrauen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Die Struktur des Songs auf Kamerapositionen abbilden, bevor man promptet. Aufbau: Teleobjektiv-Menge-Nahaufnahmen, langsames Zoom-In. Drop: breiter Bühnen-Shot, Laser voll aktiv, Drohnen-Reveal des gesamten Publikums. Breakdown: zurück zu Gesichtern, oft in Zeitlupe. Das Bühnen-Rig spezifizieren: 'dreißig Moving Heads, vier Lasereinheiten, sechs CO2-Kanonen, volles Pyro-Rig entlang der hinteren Bühnenkante'. Tunee rendert Massenszenen überzeugender, wenn du die Venue-Kapazität nennst."
+      }
+    ]
+  }
 }

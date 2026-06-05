@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale R&B?",
       "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI li sincronizzerà al tuo video musicale R&B automaticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULL'R&B",
+    "h2": "Il video R&B rende visibile un'emozione solo attraverso la luce",
+    "sections": [
+      {
+        "heading": "Come appare l'R&B",
+        "body": "Gli MV R&B moderni sono essenzialmente cortometraggi con musica. L'illuminazione porta la maggior parte del lavoro emotivo: ombre profonde, una singola lampada pratica, luce al neon che filtra attraverso una finestra, luce di candela. Le correzioni cromatiche spingono verso il caldo saturo o il freddo desaturato, raramente verso il neutro. Le composizioni sono statiche — la camera è paziente, spesso bloccata o su un dolly lento. L'artista è spesso solo nel frame anche quando il brano parla di qualcun altro. Il guardaroba è ricco di texture: seta, pelle, maglia."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "Le run 'Dawn FM' e 'After Hours' di The Weeknd, ancorate dalla storica collaborazione visiva con Anthony Mandler, sono masterclass nel mood-come-stile. 'Snooze' e 'Kill Bill' di SZA dimostrano che l'R&B narrativo funziona ancora quando la luce lo guadagna. 'Nikes' di Frank Ocean, diretto da Tyrone Lebon, ha fissato l'asticella dell'R&B come film sperimentale. 'Cellophane' di FKA Twigs, diretto da Andrew Thomas Huang, e il lavoro di Hiro Murai con Childish Gambino ('This Is America') estendono la forma. 'Damage' di H.E.R., diretto da Calmatic, e le visual di 'A Seat at the Table' di Solange portano avanti l'ambizione della direzione artistica. La regola condivisa: atmosfera sopra la trama, sempre."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Nomina le tue fonti di luce esplicitamente e limitale a due o tre. 'Singolo lampione al sodio attraverso una tenda sottile, una lampada pratica sul comodino, nessun fill' dà a Tunee il vincolo di cui ha bisogno per renderizzare il mood. Tieni l'artista solo nel frame a meno che una seconda persona non sia critica. Take lunghi nelle strofe, leggermente più brevi nell'hook — ma mai il taglio rapido del pop. La correzione cromatica deve essere decisa subito: 'calore ambra' o 'notte teal-e-magenta' ma mai entrambe."
+      }
+    ]
+  }
 }

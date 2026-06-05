@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um vídeo de música soul para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu vídeo de música soul usando diferentes prompts ou configurações de estilo e depois selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE SOUL",
+    "h2": "O vídeo de soul carrega calor da mesma forma que um disco carrega grain",
+    "sections": [
+      {
+        "heading": "Como é o visual do soul",
+        "body": "Os MVs de soul se situam no registro visual de uma gravação ao vivo de madrugada. Luz de tungstênio quente, instrumentos reais, roupas vintage que não parecem fantasia. O cantor está geralmente num quadro fechado para os versos, depois recuado para revelar uma banda durante os refrões. A cor se inclina para âmbar, marrom, ocre, com um acento ocasional em tom de joalheria. A textura é tudo: veludo, vinil, madeira, latão. A câmera se move devagar quando se move. O público é sugerido, mas raramente mostrado — essas parecem sessões de estúdio, não shows."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Untitled (How Does It Feel)' de D'Angelo, dirigido por Paul Hunter, é a maior realização do formato — plano único, sujeito único, luz única. O setup ao vivo de 'Tyrone' de Erykah Badu provou que o vídeo de performance pode parecer sagrado. O 'Coming Home' de Leon Bridges construiu a linguagem visual moderna do revival soul: paleta tonal dos anos 1960 sem figurino literal do período. O 'Damage' da H.E.R., dirigido por Calmatic, e o 'Tints' de Anderson .Paak estendem esse calor até a década atual. Tank and the Bangas trazem energia soul teatral e de grupo para o momento. O tecido conjuntivo: calor, contenção e uma recusa de parecer digital."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Especifique a era do calor que você quer. 'Estética do Stax Records do final dos anos 60 — tungstênio quente, paredes revestidas de madeira, microfone RCA vintage no quadro' dá ao Tunee um período de referência sem forçar uma pastiche. Mantenha o figurino um nível mais contemporâneo para que não pareça uma fantasia. Planos longos no cantor para os versos, quadros levemente mais amplos para os refrões para mostrar a banda. Evite completamente tons de azul frio — o soul vive na metade quente do espectro e fica confuso quando forçado para o frio."
+      }
+    ]
+  }
 }

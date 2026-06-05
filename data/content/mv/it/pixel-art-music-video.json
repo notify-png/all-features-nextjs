@@ -39,5 +39,23 @@
       "q": "Il generatore AI di video musicali in Pixel Art di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali in Pixel Art da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL PIXEL-ART MV",
+    "h2": "La pixel art ha regole, e violarle si vede",
+    "sections": [
+      {
+        "heading": "Cosa richiede davvero la vera pixel art",
+        "body": "La pixel art non è un filtro — è una disciplina. La vera pixel art viene disegnata alla risoluzione nativa (spesso 320x180 o meno) con una palette limitata a mano (16, 32 o 64 colori). L'anti-aliasing viene fatto a mano con pixel di valore intermedio. Il dithering crea gradienti su palette discrete. Gli sprite animano su cicli di 4-8 frame. Quando l'AI la finge attraverso downscaling e posterizzazione, l'occhio coglie immediatamente l'incoerenza — i colori derivano, i bordi vibrano tra i frame, il pattern di dithering non si affianca."
+      },
+      {
+        "heading": "Da dove viene questo look",
+        "body": "La base di riferimento: i giochi SNES-era di Square (Chrono Trigger, Final Fantasy VI), le palette forzate del Game Boy Color, il lavoro di revival moderno — Celeste di Maddy Thorson, Stardew Valley di Eric Barone, Owlboy di D-Pad Studio, l'HD-2D layer mixing di Octopath Traveler di Square Enix. Pixel artist da citare: le città isometriche di eBoy, i cicli di animazione di Paul Robertson, i tutorial indie di Pedro Medeiros, il surrealismo a blocchi di David OReilly. Adiacente al music video: l'intero catalogo chiptune di Anamanaguchi, gli MV vaporwave di Saint Pepsi, le visualizzazioni della colonna sonora di FEZ di Phil Fish ad opera di Disasterpeace. Il modello pixel-art di Tunee è addestrato a bassa risoluzione nativa così l'output è pixel-locked, non sfumato e quantizzato."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Indica sempre la risoluzione e il conteggio della palette: '320x180 pixel art nativo, palette di 32 colori, nessun anti-aliasing eccetto quello posizionato a mano'. Fai riferimento all'era: 'stile SNES, profondità di colore di Chrono Trigger' o 'Game Boy Color, quattro colori per tile'. Specifica il dithering esplicitamente: 'dithering Bayer per i gradienti, nessuna fusione morbida'. Evita di mescolare la pixel art con elementi foto-realistici — il contrasto sembra un bug, non una scelta di stile."
+      }
+    ]
+  }
 }

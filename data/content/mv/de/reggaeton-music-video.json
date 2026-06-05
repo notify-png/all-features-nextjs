@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Reggaeton-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Reggaeton-Musikvideos von jedem Gerät erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER REGGAETON",
+    "h2": "Reggaeton-Video lebt dort, wo Dembow und Tanzfläche aufeinandertreffen",
+    "sections": [
+      {
+        "heading": "Wie Reggaeton aussieht",
+        "body": "Reggaeton-MVs verbinden Club-Energie mit Viertel-Spezifität. Der Dembow-Rhythmus diktiert den Schnitt — dreieinhalb Beats, harter Schnitt, wiederholen. Locations wechseln zwischen Rooftops, Club-Interiors mit Magenta-Wash und Street-Szenen, die explizit auf San Juan, Medellín oder Miami verweisen. Kleidung ist modebewusst: Designer-Streetwear, auffälliger Schmuck, manchmal volle Couture in unerwarteten Settings. Tanz ist partizipativ statt choreografiert — Menschen bewegen sich mit dem Song, performen nicht für die Kamera."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "J Balvins 'Mi Gente', Regie Daniel Duran, baute die visuelle Skalierung auf, in der Reggaeton heute operiert. Bad Bunnys 'Yo Perreo Sola', Regie Stillz, kehrte die Erwartungen um, wer ein Reggaeton-MV frontet. Malumas 'Hawai' bringt den kinematischen Erzählarm. Daddy Yankees 'Gasolina' bleibt der Gründungstext, auf den jedes neuere Video antwortet. Karol Gs 'TQG' mit Shakira, Feids 'Normal' und Anuel AA tragen die aktuelle visuelle Sprache, während Colin Tilleys Crossover-Regie-Arbeit für das Genre die Industrie-Standardoption bleibt. Die Konstante: echte Locations, Mode als Identität, Choreografie, die als natürliche Bewegung liest."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Den Schnitt explizit zum Dembow-Muster takten: 'Schnitte alle dreieinhalb Beats im gesamten Chorus, Bridge für acht Bars halten'. Zwei kontrastierende Locations spezifizieren und zwischen ihnen rotieren — 'Rooftop bei Sonnenuntergang und unterirdischer Club um 2 Uhr nachts' schafft den Tag-Nacht-Bogen, den das Genre belohnt. Der Kostümwechsel zwischen den Locations sollte dramatisch sein. Tunee handhabt die Magenta-und-Amber-Club-Palette gut, wenn du beide Farben und das Dunstlevel benennst."
+      }
+    ]
+  }
 }

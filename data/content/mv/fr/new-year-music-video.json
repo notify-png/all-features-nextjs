@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un vidéoclip Nouvel An à comparer?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip Nouvel An en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE MV DU NOUVEL AN",
+    "h2": "Une vidéo bilan d'année qui n'est pas générée automatiquement par une appli",
+    "sections": [
+      {
+        "heading": "Pourquoi votre propre MV de fin d'année surpasse le Spotify Wrapped",
+        "body": "Chaque plateforme produit désormais un récapitulatif de fin d'année auto-généré — utile, oubliable, et identique pour chaque utilisateur. Un MV personnel de fin d'année est l'antidote : 60 à 90 secondes que vous curez vraiment, scorées sur le morceau qui a défini l'année plutôt que celui que vous avez le plus streamé. Les couples en font des substituts d'anniversaire, les freelances des récaps de portfolio, et les groupes d'amis des envois de groupe-chat le 31 décembre."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les montages de fin d'année vivent sur trois temps récurrents : les transits de voyage (portes d'embarquement, fenêtres de train, tableaux de bord de road-trip), les repas partagés (la table vue du dessus, le toast, le plan serré sur la bougie), et les petites victoires tranquilles (un manuscrit terminé, un cap sportif franchi, une clé dans une nouvelle porte). Les références culturelles sont précises et sonores — le Dick Clark's Rockin' Eve et la tradition de la boule de Times Square depuis 1907, le Jools Holland Hootenanny du 31 décembre sur BBC, les feux d'artifice du Sydney Harbour et du London Eye. Terminer sur un feu d'artifice large ou un baiser de minuit est le mouvement évident — ça fonctionne parce que tout le monde l'attend. Embrassez-le plutôt que de l'éviter."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Résistez à l'envie de faire entrer douze mois de footage dans un seul MV — choisissez trois à cinq moments et laissez-les respirer. Tunee gère mieux le rythme quand on lui donne moins d'ancres mais précises. Un prompt nommant « balcon de Lisbonne, matin de juillet ; salle d'attente maternité, septembre ; rooftop du Nouvel An, décembre » produit un montage plus regardable qu'un brief en liste de puces."
+      }
+    ]
+  }
 }

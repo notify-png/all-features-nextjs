@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees YouTube Shorts Musikvideogenerator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie YouTube Shorts Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR SHORTS",
+    "h2": "YouTube Shorts ist nicht TikTok mit einem anderen Logo — das Publikum schaut anders",
+    "sections": [
+      {
+        "heading": "Was Shorts tatsächlich belohnt",
+        "body": "Die Retention-Kurven von Shorts sind flacher als bei TikTok — Zuschauer geben dir 5 bis 7 Sekunden, bevor sie weiterswischen, nicht 3. Das Shorts-Shelf ist außerdem musik-entdeckungs-lastiger als TikToks For You, das zu Dialogen und Meme-Formaten neigt. Für Musiker ist das die nachsichtigere Kurzform-Plattform: ein Cold Open mit dem Song-Hook funktioniert noch, aber du musst nicht so aggressiv vorladen. 60 Sekunden ist die harte Grenze; 30 bis 45 ist die meistgeschaute Länge."
+      },
+      {
+        "heading": "Konventionen, die von YouTube übertragen",
+        "body": "Da Shorts-Zuschauer oft über den Long-Form-Kanal eines Creators kommen, ist Marken-Konsistenz wichtiger als auf TikTok. Die Farbpalette aus deinem Hauptvideo, derselbe Charakter oder Drehort, dieselbe Typografie im Bild — das schafft eine visuelle Verbindungslinie zwischen dem Short und dem 4-minütigen MV, das er bewirbt. Behandle den Short als Trailer für das volle Video, nicht als eigenständiges Stück mit eigener visueller Identität."
+      },
+      {
+        "heading": "Wie Tunee den Shorts-vs-YouTube-Split handhabt",
+        "body": "Generiere das volle MV einmal, wähle dann den Shorts-Export, und Tunee schneidet es auf 60 Sekunden, re-framt auf 9:16 (mit subjekt-verfolgter Neukompositon, nicht einem Mittelschnitt) und wählt automatisch das stärkste Hook-Segment. Die Audio-Synchronisation bleibt intakt. Du bekommst einen Short, der wirklich aus demselben Video stammt — und das ist genau das, was das Shorts-Shelf zu belohnen gebaut ist."
+      }
+    ]
+  }
 }

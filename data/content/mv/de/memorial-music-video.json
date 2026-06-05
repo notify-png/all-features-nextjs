@@ -39,5 +39,23 @@
       "q": "Funktioniert es mit jedem Musikgenre oder nur mit Gedenkmusik?",
       "a": "Tunee unterstützt eine breite Palette von Genres und visuellen Stilen über Gedenkmusik hinaus. Sie können Musikvideos für Pop, Hip-Hop, Klassik und Dutzende andere Stile mit derselben Plattform generieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS GEDENK-MV",
+    "h2": "Ein Tribut-Video, das wiederholtem Ansehen standhält",
+    "sections": [
+      {
+        "heading": "Warum das Gedenk-MV ein eigenes Format ist",
+        "body": "Beerdigungs-Slideshows entstehen meist in 48 Stunden unter Trauer – oft greift man reflexhaft zu chronologischen Facebook-Fotos und einem einzelnen Klavierstück. Ein durchdachteres MV, Tage oder Wochen später erstellt, wird zu dem Artefakt, zu dem die Familie an Geburtstagen, Jahrestagen und den folgenden Gedenktagen tatsächlich zurückkehrt. Das ist eine andere Aufgabe als die Trauerfeier-Slideshow: weniger umfassend, stärker kuratiert, vertont mit dem Lied, das der Mensch wirklich geliebt hat, statt mit etwas pauschal Getragenem."
+      },
+      {
+        "heading": "Die Einstellungen, die immer funktionieren",
+        "body": "Gedenk-Filmemacher neigen zu einem kleinen, wiederholbaren Vokabular: das Stillleben eines vertrauten Gegenstands (eine Kaffeetasse, die Brille auf einem Buch, eine Gitarre an der Wand), die Nahaufnahme der Handschrift, Hände bei einem Hobby, das Lachfoto von jedem Familientreffen, der Stuhl, auf dem sie immer saßen. Die ästhetischen Referenzen sind leise und konkret – Bill Violas Zeitlupen-Videoinstallationen im Getty und in der Tate Modern, Sigur Rós' „Hoppípolla\" von Arni & Kinski (der Standard für die Trauer-Montage), die Farbpalette von Lana Del Reys „Hope Is a Dangerous Thing\", Don Hertzfeldts „It's Such a Beautiful Day\" für animierte Trauer, Terrence Malicks Standfoto-Schnitte in „The Tree of Life\", gefilmt von Emmanuel Lubezki. Der Instinkt sagt, jedes je gemachte Foto zu verwenden – widerstehe ihm. Fünfzehn konkrete Bilder, gut getaktet, schlagen hundert."
+      },
+      {
+        "heading": "Mach es zum Andenken",
+        "body": "Gedenk-MVs werden nicht wirklich geteilt – sie werden bewahrt. Tunee rendert einen hochauflösenden Master für das Familienarchiv, eine vertikale Version zum privaten Versenden an jene, die nicht dabei sein konnten, und ein 1:1-Format für einen Gedenkpost an dem Tag, der der nächste Geburtstag gewesen wäre."
+      }
+    ]
+  }
 }

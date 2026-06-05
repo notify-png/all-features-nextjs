@@ -39,5 +39,23 @@
       "q": "Kann ich ein Song-to-MV-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
       "a": "Ja – Tunees AI übernimmt alle Videoproduktion automatisch. Laden Sie einfach Ihren Audio hoch oder geben Sie eine Textaufforderung ein, wählen Sie einen Song-to-MV-Stil, und die AI generiert Ihr Video in Minuten."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SONG ZU MV",
+    "h2": "Song hochladen. Das Video zurückbekommen, das er wirklich verdient",
+    "sections": [
+      {
+        "heading": "Was 'Song zu Video' eigentlich bedeuten sollte",
+        "body": "Die Mindestanforderung: die Schnitte landen auf dem Beat, die Energie der Visuals folgt der Energie des Songs, und der Chorus sieht anders aus als die Strophe. Die meisten generischen 'Song zu Video'-Tools scheitern am dritten Punkt — sie wählen einen Vibe und halten ihn drei Minuten lang, was dazu führt, dass das Video unter einem Song, der aufbaut, flach wirkt. Eine echte Song-zu-MV-Pipeline muss zuerst die Struktur des Songs lesen — nicht nur sein Tempo."
+      },
+      {
+        "heading": "Was Tunee extrahiert, bevor es einen Frame generiert",
+        "body": "Lade eine MP3 oder WAV hoch und der Audio-Analysator taggt Tempo, Tonart, Taktart, Downbeats, Vokal-Segmente und Abschnittsgrenzen (Strophe, Pre-Chorus, Chorus, Bridge, Outro). Diese Strukturkarte ist es, was Sage nutzt, um visuelle Vielfalt zu planen: engeres Framing in Strophen, breitere Auflösungen in Chorussen, ein Palettenwechsel auf der Bridge, der größte Shot gespart für den letzten Chorus. Der Song hört auf, 'Audio unter dem Video' zu sein und wird zur Partitur, auf die das Video geschnitten ist."
+      },
+      {
+        "heading": "Der 30-Sekunden-Test",
+        "body": "Bevor du dich auf ein volles Rendering festlegst, generiere die ersten 30 Sekunden und schau sie stumm an. Wenn die Schnitte noch intentional wirken ohne das Audio — wenn es einen visuellen Rhythmus unabhängig vom Song gibt — wird das volle Rendering funktionieren. Wirkt es stumm wie ein zufälliger Reel, nochmal generieren mit engerem Prompt, bevor Credits ausgegeben werden. Tunees Entwurfsdurchlauf ist genau für diesen Check gebaut."
+      }
+    ]
+  }
 }

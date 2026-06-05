@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de video musical de Adoración de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web tanto en desktop como en dispositivos móviles, para que puedas crear videos musicales de Adoración desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA ALABANZA",
+    "h2": "El video de alabanza es su propio género con su propio canon",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene de verdad el video de alabanza",
+        "body": "El canon visual está bien definido: Hillsong, Elevation, Bethel, Maverick City — tipografía centrada en las letras sobre un plano de una congregación en vivo bañada en tungsteno cálido, movimientos lentos de cámara, el líder de alabanza rara vez en el encuadre dominante. Las letras importan porque el público debe cantar, así que el texto en pantalla es innegociable y el diseño tipográfico está más cerca de la maquetación editorial que del cinestismo de un video pop. La estética es de actuación en vivo íntima, no de video pop producido."
+      },
+      {
+        "heading": "Planos y convenciones que funcionan",
+        "body": "Plano general de la congregación con las manos levantadas, desenfocado, luz cálida de los focos del escenario. Plano medio del líder de alabanza, ojos cerrados, en medio de una frase. Inserto de un único feligrés durante el puente — normalmente mayor, normalmente emocionado, intencionalmente no el rostro más atractivo de la sala. El texto de la letra aparece línea-por-línea, centrado, en una serif limpia o sans-serif humanista, con suficiente anticipación para que la congregación lea antes de cantar. Los cortes aterrizan al final de las frases, no en el tiempo del beat."
+      },
+      {
+        "heading": "Cómo gestiona Tunee el preset de alabanza",
+        "body": "El preset de Alabanza prioriza las letras por defecto: cada línea de la canción aparece en pantalla con el timing de revelación línea-por-línea que exige el formato. La capa visual base se inclina hacia planos congregacionales iluminados en cálido y planos suavemente iluminados de instrumentistas, con subidas opcionales de material real de tu iglesia para anclar el material generado en tu comunidad. La salida es 16:9 para proyección en el servicio más 9:16 para los cortes en redes sociales que impulsan la asistencia dominical durante la semana."
+      }
+    ]
+  }
 }

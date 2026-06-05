@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees YouTube-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über den Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie YouTube-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR YOUTUBE",
+    "h2": "YouTube ist die einzige Plattform, auf der das Full-Length-MV noch gewinnt",
+    "sections": [
+      {
+        "heading": "Warum 16:9 und längere Formate hier noch zählen",
+        "body": "Außerhalb von YouTube wurde das Musikvideo auf vertikale 60-Sekunden-Clips komprimiert. Auf YouTube ist das Originalformat noch immer das dominierende — 16:9, 3 bis 5 Minuten, auf einem TV oder Laptop im Hintergrund geschaut. Der Algorithmus der Plattform belohnt Watch Time in Minuten, nicht Retention in Sekunden, was bedeutet: ein 4-minütiges MV mit 60 % Durchschau ist mehr wert als zehn 30-Sekunden-Clips mit 90 %. Die Mathematik spricht dafür, den Song atmen zu lassen."
+      },
+      {
+        "heading": "Wie der YouTube-MV-Kanon aussieht",
+        "body": "Mit einem Cold Intro öffnen (Hiro Murais Childish Gambino-Videos, Dave Meyers' 21 Savage-Schnitte, alles was Cole Bennett für Lyrical Lemonade dreht) — 5 bis 15 Sekunden Szenensetzung vor dem ersten Downbeat. Establishing Wides länger halten als auf TikTok. Die Nahaufnahme verdienen. Mit einem Tag, einer Outro-Card oder einem Smash-Cut zu den Credits enden — der YouTube-Zuschauer ist konditioniert, bis zur Endkarte durchzuhalten."
+      },
+      {
+        "heading": "Tunees YouTube-Preset, konkret",
+        "body": "Wähle YouTube und der Renderer gibt 16:9 in 4K aus, mit längerem Intro-Fenster, längerem durchschnittlichem Schnitt (1,8 Sekunden gegenüber 0,9 für das TikTok-Preset) und einer chapterte Timeline, wenn dein Song klare Abschnitte hat. Upload-fertiges MP4, H.264, Audio in 320 kbps AAC. Thumbnail-Framegrabs an den visuellen Höhepunkten werden automatisch generiert, damit du nicht in der Timeline scrubbst, um den Moment zu finden, der den Klick verkauft."
+      }
+    ]
+  }
 }

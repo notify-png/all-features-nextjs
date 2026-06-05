@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Reggae-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Reggae-Musikvideos mit unterschiedlichen Anfragen oder Stileinstellungen generieren und dann die beste Version für Ihre Vision auswählen."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER REGGAE",
+    "h2": "Reggae-Video verweilt in der Goldenen Stunde und geht nirgendwo hin",
+    "sections": [
+      {
+        "heading": "Wie Reggae aussieht",
+        "body": "Reggae-MVs setzen auf warme Farben, langsame Kamerabewegungen und Außenlicht. Strand bei Sonnenuntergang, Bergstraße, Marktgasse — die Landschaft ist gleichberechtigter Co-Star neben dem Künstler. Rauch ist fast immer im Bild, sanft und diffus. Kleidung ist locker und aus Naturfasern: Leinen, Denim, Rasta-Farben als Akzent statt Uniform. Das Tempo ist geduldig; Reggae-Videos schneiden selten schneller als das Off-Beat-Snare. Gemeinschaft ist sichtbar — Freunde, Familie, Nachbarn tauchen uninszeniert auf."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Bob Marleys 'Redemption Song'-Performance-Footage bleibt der emotionale Maßstab. Damian Marleys 'Welcome to Jamrock' baute das moderne dokumentarische Reggae-MV-Vokabular auf, mit jamaikanischen Filmemachern wie Storm Saulter (Regisseur von 'Sprinter'), die diese Kingston-Street-Tradition in die aktuelle Generation tragen. Chronixx' 'Skankin' Sweet' bringt die Lover's-Rock-Visual-Tradition in die Gegenwart. Koffees 'Toast', Protojes 'Switch It Up' und die Easy Star All-Stars runden den aktuellen Referenzrahmen ab. Der rote Faden ist Locations-Authentizität — Videos, die nicht in einem realen Ort verwurzelt wirken, idealerweise Jamaika oder einem Ort, der die Linie respektiert, klingen hohl."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Die Tageszeit im ersten Satz festlegen und nie brechen. 'Spätnachmittag, eine Stunde vor Sonnenuntergang, warmes orangefarbenes Licht, lange Schatten von Palmen' gibt Tunee eine Basis, die es über mehrere Szenen halten kann. Gemeinschaftsdetails hinzufügen — Kinder am Bildrand spielend, ein älteres Paar auf einer Veranda — um das Visuelle zu erden. Kamerabewegungen sollten langsame Dollys oder Handheld-Walks sein, keine Kranschwenks. Auf dem Off-Beat-Skank schneiden, nicht auf dem Downbeat."
+      }
+    ]
+  }
 }

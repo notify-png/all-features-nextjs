@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Soul-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Soul-Musikvideos unter Verwendung verschiedener Prompts oder Style-Einstellungen generieren und dann die Version wählen, die am besten zu deiner Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER SOUL",
+    "h2": "Soul-Video trägt Wärme wie eine Schallplatte Korn trägt",
+    "sections": [
+      {
+        "heading": "Wie Soul aussieht",
+        "body": "Soul-MVs befinden sich im visuellen Register der spätnächtlichen Live-Aufnahme. Warmes Wolfram-Licht, echte Instrumente, Vintage-Kleidung, die sich nicht wie ein Kostüm anfühlt. Der Sänger ist meist eng gerahmt für die Strophen, dann zurückgezogen, um eine Band während der Choruse zu enthüllen. Die Farbe neigt zu Bernstein, Braun, Ocker, mit gelegentlichem Juwelton-Akzent. Textur ist alles: Samt, Vinyl, Holzmaserung, Messing. Die Kamera bewegt sich langsam, wenn sie sich überhaupt bewegt. Das Publikum ist angedeutet, aber selten gezeigt — das fühlt sich wie Sessions an, nicht wie Konzerte."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "D'Angelos 'Untitled (How Does It Feel)', Regie Paul Hunter, ist die höchste Errungenschaft des Formats — ein einziger Shot, ein einziges Motiv, ein einziges Licht. Erykah Badus 'Tyrone'-Live-Setup bewies, dass Performance-Video sich heilig anfühlen kann. Leon Bridges' 'Coming Home' baute die moderne Soul-Revival-Bildsprache auf: 1960er-Tonpalette ohne wörtliches Periodenkostüm. H.E.R.s 'Damage', Regie Calmatic, und Anderson .Paaks 'Tints' tragen diese Wärme ins aktuelle Jahrzehnt. Tank and the Bangas bringen theatralischen Gruppen-Energie-Soul in die Gegenwart. Das verbindende Gewebe: Wärme, Zurückhaltung und die Weigerung, digital auszusehen."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Die Ära der gewünschten Wärme spezifizieren. 'Late-60s Stax-Records-Studio-Ästhetik — warmes Wolfram, holzvertäfelte Wände, Vintage-RCA-Mikrofon im Bild' gibt Tunee eine Referenzperiode ohne Pastiche zu erzwingen. Kleidung eine Nuance zeitgenössischer halten, damit es sich nicht wie Kostümfilm anfühlt. Lange Takes auf den Sänger-Strophen, etwas breitere Frames für die Choruse, um die Band zu zeigen. Kühle Blautöne vollständig vermeiden — Soul lebt in der warmen Hälfte des Farbspektrums und verliert die Orientierung, wenn es ins Kühle gezwungen wird."
+      }
+    ]
+  }
 }

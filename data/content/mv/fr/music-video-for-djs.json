@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéoclips musicales DJs de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous permettant de créer des vidéoclips musicales DJs depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR DJS",
+    "h2": "Les visuels DJ ne sont pas des clips — ce sont des projections de festival, réduites à l'écran",
+    "sections": [
+      {
+        "heading": "Pourquoi le MV DJ est son propre format",
+        "body": "Un DJ ne chante pas le morceau, ne l'a pas écrit comme le ferait un auteur-compositeur, et apparaît rarement à l'écran d'un bout à l'autre. Un MV DJ qui tente d'être une vidéo narrative d'artiste rate généralement sa cible. Ce qui fonctionne, c'est l'esthétique de l'écran festival ramenée à l'échelle de YouTube : motion graphics abstraits, visualiseurs façon mainstage, explosions de lumière synchronisées sur le drop, coupes occasionnelles sur le DJ derrière les platines pour l'identité. Pensez aux sets visuels d'Anyma, aux projections Cube de deadmau5, aux HOLO d'Eric Prydz. L'échelle visuelle prime sur la profondeur narrative."
+      },
+      {
+        "heading": "À quoi le drop doit ressembler",
+        "body": "Tout MV DJ se joue sur le drop. Les 8 à 16 mesures qui le précèdent doivent monter visuellement — saturation des couleurs qui grimpe, mouvements de caméra qui s'accélèrent, cadrage qui se resserre. Le drop lui-même est la récompense visuelle : une coupe franche sur le plan le plus large, le plus lumineux, le plus cinétique de la vidéo, maintenu pendant les 4 premières mesures avant que les coupes ne reprennent. Réussir ce seul moment suffit à sauver le reste ; le rater rend même les meilleurs visuels ternes sous un grand drop."
+      },
+      {
+        "heading": "Comment Tunee intègre le drop",
+        "body": "L'analyseur audio détecte le drop automatiquement (pic d'énergie + confirmation du tempo + signal structurel), et Sage cartographie la montée visuelle pour atterrir dessus. Le préréglage DJ penche vers l'abstrait et l'architectural plutôt que vers les personnages — moins de visages, plus de géométrie, palette calée sur les lumières vives de festival. L'export donne du 16:9 pour les fichiers de diffusion en venue (oui, vous pouvez remettre le MP4 à votre VJ pour les lives) et du 9:16 pour les réseaux sociaux. Une seule génération, les deux surfaces."
+      }
+    ]
+  }
 }

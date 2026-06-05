@@ -39,5 +39,23 @@
       "q": "Come personalizzare lo stile visivo del mio video musicale Snapchat?",
       "a": "Puoi guidare i visivi utilizzando prompt di testo che descrivono scene, mood e ambientazioni. L'AI di Tunee interpreta il tuo input e genera visivi ispirati all'estetica filtro AR che corrispondono alla tua estetica Snapchat."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER SNAPCHAT",
+    "h2": "Su Snapchat Spotlight, tagli veloci e volti vincono",
+    "sections": [
+      {
+        "heading": "Cosa mostra davvero Spotlight",
+        "body": "Il feed Spotlight di Snapchat è più vicino a un TikTok Gen-Z che al resto di Snapchat — è algoritmico, verticale e premia i replay. Il pubblico è più giovane, il tempo medio di visualizzazione è inferiore a quello di TikTok, e il canone visivo è più caotico: tagli veloci, contenuto face-forward, estetiche da filtro AR, sovrimpressioni di testo nel sans-serif nativo di Snapchat. Gli MV cinematografici raffinati qui sottoperformano. I contenuti grezzi, cinetici e guidati dal personaggio sovraperformano."
+      },
+      {
+        "heading": "Convenzioni che i creator hanno capito",
+        "body": "Tagli sub-secondari nei primi 5 secondi. Il volto dell'artista nel primo frame, non un logo o una title card. Verticale 9:16 con il soggetto inquadrato al centro (la UI di Snapchat mangia il 15% inferiore dello schermo sulla maggior parte dei telefoni — tieni pulita la terza parte inferiore). Testo in sovrimpressione in raffiche brevi, non scorrimento di testi. Il tetto di 60 secondi di Snapchat è rispettato; la maggior parte dei clip musicali virali su Spotlight dura 20-30 secondi."
+      },
+      {
+        "heading": "Il preset Snapchat di Tunee, nello specifico",
+        "body": "Scegli Snapchat e il renderer si orienta verso la grammatica della piattaforma: frequenza di taglio più alta (media 0,6 secondi contro 1,8 del preset YouTube), inquadratura con il soggetto in primo piano, terza parte inferiore riservata alla sicurezza UI, e l'hook restato al secondo 15 per guidare un loop di replay. L'output è MP4 9:16 1080p entro il tetto di 60 secondi di Spotlight. La stessa generazione esporta anche un 1:1 verticale per Snapchat Discover se stai gestendo placement a pagamento."
+      }
+    ]
+  }
 }

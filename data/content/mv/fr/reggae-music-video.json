@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale reggae à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale reggae en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU REGGAE",
+    "h2": "Le clip reggae s'installe dans la lumière de l'heure dorée et refuse d'en partir",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le reggae",
+        "body": "Les MV reggae misent sur les couleurs chaudes, les mouvements de caméra lents et la lumière extérieure. Plage au coucher du soleil, route de montagne, rue de marché — le paysage est co-protagonist avec l'artiste. La fumée est presque toujours dans le cadre, douce et diffuse. Les vêtements sont amples et en fibres naturelles : lin, denim, couleurs rasta utilisées en accent plutôt qu'en uniforme. Le rythme est patient ; les clips reggae coupent rarement plus vite que le contretemps de la caisse claire. La communauté est visible — amis, famille, voisins apparaissent sans mise en scène."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Le footage de performance de « Redemption Song » de Bob Marley reste l'étalon émotionnel. « Welcome to Jamrock » de Damian Marley a construit le vocabulaire du MV reggae style documentaire moderne, les cinéastes jamaïcains comme Storm Saulter (réalisateur de Sprinter) portant cette tradition des rues de Kingston dans la génération actuelle. « Skankin' Sweet » de Chronixx apporte la tradition visuelle du lover's rock dans l'ère actuelle. « Toast » de Koffee, « Switch It Up » de Protoje et Easy Star All-Stars complètent la liste de références actuelles. Le fil conducteur : l'authenticité du lieu — les vidéos qui ne semblent pas enracinées dans un endroit réel, idéalement la Jamaïque ou un lieu qui respecte la lignée, sonnent creux."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Définissez votre heure du jour dès la première phrase et ne la quittez plus. « Fin d'après-midi, une heure avant le coucher du soleil, lumière orange chaude, longues ombres des palmiers » donne à Tunee une base qu'il peut tenir sur plusieurs scènes. Ajoutez des détails de communauté — des enfants qui jouent en bord de cadre, un vieux couple sur une véranda — pour ancrer le visuel. Les mouvements de caméra doivent être des dollys lents ou des marches caméra portée, jamais des glissées de grue. Coupez sur le contretemps du skank, pas sur le temps fort."
+      }
+    ]
+  }
 }

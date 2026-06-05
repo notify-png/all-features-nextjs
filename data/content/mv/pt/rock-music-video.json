@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes de rock do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes de rock de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE ROCK",
+    "h2": "O videoclipe de rock vive ou morre dependendo de a banda parecer uma banda",
+    "sections": [
+      {
+        "heading": "Como é o visual do rock",
+        "body": "Os MVs de rock são em sua maioria orientados à performance, mas os melhores fazem a banda parecer uma unidade, não quatro pessoas na mesma sala. Planos abertos que incluem todos os membros no palco, planos médios que captam contato visual entre o baixista e o baterista, closes de mãos nas cordas. A iluminação é teatral — rigs de palco, estroboscópio, fumaça, contraluz duro que transforma o vocalista em silhueta durante a ponte. O figurino é consistente com a identidade da banda, nunca superestilizado."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'The Pretender' e o 'Walk' do Foo Fighters, dirigidos por Sam Brown com a linhagem anterior do 'Everlong' de Mark Romanek por trás deles, são o blueprint moderno para o ritmo de MV de rock de estádio. O 'Heat Above' do Greta Van Fleet traz imagens do revival de arena dos anos 70 para o quadro atual. O 'Limbo' do Royal Blood prova que um duo pode preencher uma tela se a câmera os respeitar. O 'Lonely Boy' dos The Black Keys, Wolfmother e Highly Suspect completam o vocabulário atual. Textos mais antigos — o 'Bohemian Rhapsody' da Queen, o 'Start Me Up' dos Stones e o trabalho austero de Anton Corbijn com U2 ('One') e Joy Division — ainda ensinam como o carisma de palco realmente aparece na câmera."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Posicione a banda em relação física entre si primeiro. 'Baterista no centro atrás num riser elevado, baixista à esquerda do palco, guitarrista à direita, vocalista na frente do palco' cria uma geometria de palco real que o Tunee pode manter entre os cortes. Adicione iluminação específica: 'contraluz duro vindo do fundo do palco, dois feixes cruzados de vermelho das laterais, névoa'. Corte no acento do snare, não na bumbo. Reserve o plano em câmera lenta para um único momento — geralmente o primeiro beat do segundo refrão."
+      }
+    ]
+  }
 }

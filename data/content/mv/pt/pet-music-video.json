@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu vídeo de música Pet?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu vídeo de música Pet."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DO PET",
+    "h2": "Um vídeo do seu animal que dura mais do que a atenção do algoritmo",
+    "sections": [
+      {
+        "heading": "Por que os MVs de pets valem mais do que mais um TikTok",
+        "body": "O mercado de conteúdo de pets está saturado — um clipe engraçado ganha oito horas de atenção e desaparece. Um MV pontuado de 60 segundos é feito para uma vida mais longa: ele se torna a postagem que ancora o aniversário do pet, o memorial quando a hora chegar anos depois, e o compartilhável que os amigos realmente te mandam de volta. Veterinários e treinadores de cães também usam o formato para recapitulações de fim de ano para os clientes."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Fotógrafos de pets conhecem o cânone: o plano ao nível do chão e dos olhos (nunca fotografe um cachorro de cima), patas num parapeito de janela, o inclinar de cabeça num som fora da câmera, a barriga para cima adormecido, correndo em direção à câmera num campo, o plano de espera pela guia junto à porta. Gatos acrescentam os seus: o pão de gato, a ocupação da pia, a cauda visível saindo de uma caixa, o sentar não solicitado no teclado. Os marcos culturais incluem o Isle of Dogs (2018) em stop-motion de Wes Anderson, o A Dog's Purpose de Lasse Hallström, criadores virais como Doug the Pug (@doug_the_pug), Jiffpom e Nala Cat, além da fotografia de gatos em meados do século de Walter Chandoha na revista LIFE. O modelo do Tunee reconhece esses como um vocabulário, não como filmagem aleatória de pets."
+      },
+      {
+        "heading": "Faça dele o presente",
+        "body": "O uso inesperado: mande o MV para o seu veterinário, seu passeador de cães ou sua cuidadora de pets no fim do ano. É o tipo de pequena coisa que os profissionais de serviço realmente guardam. O Tunee gera vertical para o Story, quadrado para a postagem, e widescreen para o eventual slideshow memorial que você torce para não precisar por um longo tempo."
+      }
+    ]
+  }
 }

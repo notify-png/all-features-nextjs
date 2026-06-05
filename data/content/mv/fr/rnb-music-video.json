@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à mon clip vidéo R&B ?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement à votre clip vidéo R&B."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU R&B",
+    "h2": "Le clip R&B rend une émotion visible par la seule lumière",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le R&B",
+        "body": "Les MV R&B modernes sont essentiellement des courts-métrages avec de la musique. L'éclairage porte l'essentiel du travail émotionnel : ombres profondes, une lampe d'ambiance unique, un halo de néon par une fenêtre, une bougie. Les étalonnages poussent vers le chaud et saturé ou le froid et désaturé, rarement neutres. Les compositions sont fixes — la caméra est patiente, souvent verrouillée ou sur un dolly très lent. L'artiste est seul dans le cadre plus souvent qu'autrement, même quand le morceau parle de quelqu'un d'autre. Les vêtements sont riches en textures : soie, cuir, maille."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "Les runs « Dawn FM » et « After Hours » de The Weeknd, ancrés par la longue collaboration visuelle d'Anthony Mandler, sont des cours magistraux sur l'ambiance comme style. « Snooze » et « Kill Bill » de SZA prouvent que le R&B narratif fonctionne encore quand l'éclairage le mérite. « Nikes » de Frank Ocean, réalisé par Tyrone Lebon, a posé la barre du R&B comme film expérimental. « Cellophane » de FKA Twigs, réalisé par Andrew Thomas Huang, et le travail d'Hiro Murai avec Childish Gambino (« This Is America ») étendent la forme. « Damage » de H.E.R., réalisé par Calmatic, et les visuels d'« A Seat at the Table » de Solange portent l'ambition de direction artistique. La règle partagée : l'ambiance sur l'intrigue, toujours."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Nommez vos sources lumineuses explicitement et limitez-les à deux ou trois. « Unique lampadaire sodium à travers un voilage, une lampe de chevet d'ambiance, sans lumière de remplissage » donne à Tunee la contrainte dont il a besoin pour rendre l'ambiance. Gardez l'artiste seul dans le cadre sauf si une deuxième personne est essentielle. Longs plans sur les couplets, légèrement plus courts sur l'accroche — mais jamais le montage rapide du pop. L'étalonnage doit être décidé tôt : « chaleur ambrée » ou « nuit teal-et-magenta » mais jamais les deux."
+      }
+    ]
+  }
 }

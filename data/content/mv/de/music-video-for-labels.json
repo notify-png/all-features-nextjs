@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Record-Labels-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Record-Labels-Musikvideos mit unterschiedlichen Prompts oder Stileinstellungen generieren und dann die Version auswählen, die am besten zu Ihrer Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR LABELS",
+    "h2": "Labels brauchen visuellen Content im Album-Rollout-Volumen, nicht im Single-Video-Tempo",
+    "sections": [
+      {
+        "heading": "Das eigentliche Label-seitige Problem",
+        "body": "Ein modernes Album-Rollout braucht 30 bis 50 Video-Assets: das MV der Lead-Single, 11 Lyric-Videos für die Album-Tracks, 11 Spotify Canvases, vertikale Schnitte jedes Chorus für TikTok-Promo, ein Tour-Ankündigungs-Stück, Behind-the-Scenes-Content, Interview-Cutdowns. Selbst ein mittelgroßes Indie-Label hat 8 bis 12 Künstler im Roster, die diesen Zyklus gleichzeitig durchlaufen. Die Bandbreite des Video-Teams ist der Engpass — nicht das Budget, der Kalender. Die meisten Labels liefern die Assets schlicht nicht, und der Algorithmus bestraft das entsprechend."
+      },
+      {
+        "heading": "Was Labels tatsächlich an KI delegieren können",
+        "body": "Das primäre MV der Lead-Single — noch immer ein Dreh. Alles andere — die ergänzende Content-Schicht — ist genau das, wofür KI-MV-Pipelines gebaut sind. Lyric-Videos mit der visuellen Identität des Albums, Spotify Canvases, die zum Artwork passen, TikTok-Schnitte, die die Farbpalette des gedrehten MVs wiederverwenden, animierte Tour-Poster. Die visuelle Identität des Albums (festgelegt beim Lead-Single-Dreh) wird zur Prompt-Vorlage, die die restlichen 49 Assets in Tagen statt Monaten produziert."
+      },
+      {
+        "heading": "Wie Tunee in die Pipeline eines Labels passt",
+        "body": "Lade das Farbreferenz-Material und die Key Visuals des Albums hoch, sperr die Charakter-Konsistenz des Künstlers über den Roster und Tunee generiert den ergänzenden Asset-Stack pro Release. Das Team kontrolliert das gedrehte MV und die visuelle Identität; Tunee liefert den Long Tail. Für ein mittelgroßes Label mit 15 Veröffentlichungen pro Jahr ist das der Unterschied zwischen vollständigen visuellen Rollouts für jeden Künstler und der aktuellen Realität, in der die Hälfte des Rosters zwischen Singles im Dunkeln bleibt."
+      }
+    ]
+  }
 }

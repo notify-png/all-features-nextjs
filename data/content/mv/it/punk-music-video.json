@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Punk per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Punk utilizzando prompt o impostazioni di stile diversi, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL PUNK",
+    "h2": "Il video punk mantiene la camera onesta lasciandola ammaccata",
+    "sections": [
+      {
+        "heading": "Come appare il punk",
+        "body": "Gli MV punk rifiutano la perfezione per principio. A mano, spesso girati con qualsiasi camera ci fosse a portata, frequentemente in un venue reale con una folla reale. L'illuminazione è quella che aveva il venue. La band suona a volume pieno; l'operatore di camera chiaramente non ha dormito abbastanza. I tagli sono irregolari, a volte con un unico fotogramma di statica o testo. La folla è parte del frame, spesso il soggetto principale. Non c'è separazione tra performer e pubblico — quella distinzione è la cosa che i video punk cercano di rompere."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Mr. Motivator' degli IDLES è il template moderno — energia della band, colore, zero pretesa. 'Holiday' dei Turnstile e l'intera run 'Glow On', diretta dal membro Brendan Yates con Ian Hurdle, mostrano come far sembrare l'hardcore bello senza ammorbidirlo. 'Big' dei Fontaines D.C. porta la tradizione lirica post-punk nel vocabolario attuale. Marker più datati — 'Smells Like Teen Spirit' dei Nirvana diretta da Samuel Bayer, le riprese di 'London Calling' dei Clash di Pennie Smith, e il successivo lavoro live di Liam Lynch con i Foo Fighters — definiscono ancora come dovrebbe apparire un vero pit in camera. La grammatica: nessun take pulito."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Specifica le dimensioni del venue. 'Stanza in cantina da cento persone, sudore che condensa sul soffitto basso, palco alzato di appena quindici centimetri' dà a Tunee la scala giusta. La folla dovrebbe essere in quasi ogni frame del ritornello, corpi sfocati in primo piano. Evita di chiedere messa a fuoco pulita o inquadratura equilibrata — 'a mano, messa a fuoco mancata, un membro della folla che colpisce l'obiettivo di tanto in tanto' è un vero prompt che funziona. Taglia sul rullante, mai sul downbeat. Il punk vive nel secondo beat, non nel primo."
+      }
+    ]
+  }
 }

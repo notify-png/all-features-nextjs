@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de Trailers de Juegos para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de Trailers de Juegos usando diferentes prompts o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA TRÁILERES DE VIDEOJUEGOS",
+    "h2": "Un tráiler de videojuego con una canción personalizada impacta más que el gameplay con una pista de librería",
+    "sections": [
+      {
+        "heading": "Por qué funcionan los tráileres de juego con música propia",
+        "body": "El género que definió esto es bien conocido: el tráiler 'Believe' de Halo 3, el cinemático 'A Night to Remember' de The Witcher 3, cada pieza de Bethesda en el E3. El patrón es consistente: una pieza musical sólida, visuales cinemáticos que no son gameplay, con lore pero sin desvelar la trama. El tráiler funciona como un videoclip del mundo del juego, lo que es un trabajo fundamentalmente distinto al de un reel de gameplay. Los estudios independientes lo evitan porque el presupuesto musical y el presupuesto cinemático parecen inalcanzables."
+      },
+      {
+        "heading": "El canon del tráiler cinemático",
+        "body": "Construcción lenta hacia la tarjeta de título, un único personaje héroe presentado en silueta, un plano general que vende la escala del mundo, un montaje cortado a la frase musical ascendente, un instante de silencio antes del golpe final, el título del juego y la fecha de lanzamiento como resolución. El ritmo es operístico — más cercano a un tráiler de película que a un videoclip, pero la música realiza el mismo trabajo estructural que haría una voz en un MV normal. El tráiler está moldeado por la canción, no al revés."
+      },
+      {
+        "heading": "Dónde Tunee se gana su lugar en el pipeline",
+        "body": "Genera la partitura a partir del briefing de mood del juego (orquestal, dark synth, coral, post-rock — lo que el mundo pida), genera los visuales cinemáticos a partir de subidas de arte conceptual y un prompt que describe el mundo, monta el tráiler con la estructura de la canción. Los estudios independientes pasan de no tener tráiler a tener una pieza de anuncio presentable en días en lugar de meses. Los estudios AAA usan Tunee para los primeros decks de presentación y demostraciones internas antes de que el equipo cinemático real reciba la luz verde."
+      }
+    ]
+  }
 }

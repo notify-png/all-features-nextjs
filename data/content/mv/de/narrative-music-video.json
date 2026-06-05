@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Narrativ-Musikvideos generieren, um zu vergleichen?",
       "a": "Ja. Du kannst mehrere Varianten deines Narrativ-Musikvideos mit unterschiedlichen Prompts oder Style-Einstellungen generieren und dann die Version wählen, die am besten zu deiner Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS NARRATIVE MV",
+    "h2": "Narrative MVs sind Kurzfilme — und die Regeln des Kinos gelten",
+    "sections": [
+      {
+        "heading": "Was das narrative MV verlangt",
+        "body": "Das narrative Musikvideo erzählt eine Geschichte über die Dauer des Songs — Charaktere mit mindestens einem Bogen, ein bedeutungsvoller Schauplatz, Beats, die bis zur Bridge oder dem Outro eingelöst werden. Das Format behandelt den Song als Partitur und das Visuelle als 3-bis-4-minütigen Kurzfilm. Die Disziplin, die es vom Film entleiht: eine klare Prämisse in den ersten 15 Sekunden, eine Wendung um die Halbzeit, ein Bild am Ende, das alles Vorangegangene recontextualisiert. Musikvideos, die das beherrschen, lesen sich wie Trailer für einen Film, den es nicht gibt."
+      },
+      {
+        "heading": "Wann man es einsetzt",
+        "body": "Narratives MV ist die richtige Wahl für Songs, die bereits eine Geschichte erzählen (Bruce Springsteen, Country, Story-Rap), für Album-Cycle-Anchor-Singles, bei denen das Budget auf ein Statement-Stück konzentriert wird, für Künstler, die eine kinematische Marke aufbauen. Der Regie-Kanon: Hiro Murais This Is America für Childish Gambino, Spike Jonzes Praise You für Fatboy Slim und Sabotage für Beastie Boys, Bruce Gowers Queen Bohemian Rhapsody (1975) als Ursprung des Formats, Anthony Mandlers Lana Del Rey Ride, Sam Pilling für The Weeknd, Michel Gondrys Bjork- und White-Stripes-Arbeiten. Es ist das Format, das Awards ernst nehmen — die VMA Video of the Year tendiert zu Narration. Der Tausch ist Kosten und Zeit, beides komprimiert Tunee dramatisch."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Strukturiere den Prompt nach Song-Abschnitt, nicht nach Shot: 'Strophe 1: Protagonist allein in der Wohnung, Morgenlicht, langsames Handheld; Pre-Chorus: verlässt das Gebäude, Farbe wird kühler; Chorus: Wide-Shot auf leerer Autobahn, Golden Hour'. Tunee kann Song-Abschnitt-Prompting interpretieren. Referenziere einen Regisseur für eine einheitliche Bildsprache: 'Hiro Murai für das gesamte Video' schlägt gemischte Referenzen pro Abschnitt. Plane das finale Bild zuerst und arbeite rückwärts — narratives MV wird am Ende beurteilt."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Cómo personalizo el estilo visual de mi video musical de Snapchat?",
       "a": "Puedes guiar los visuales usando indicadores de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera visuales inspirados en estética de filtros AR que coincidan con tu estética de Snapchat."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA SNAPCHAT",
+    "h2": "En Snapchat Spotlight, los cortes rápidos y las caras ganan",
+    "sections": [
+      {
+        "heading": "Qué surfea realmente Spotlight",
+        "body": "El feed de Spotlight de Snapchat es más cercano a un TikTok de la Generación Z que al resto de Snapchat: es algorítmico, vertical, y premia las reproducciones repetidas. El público es más joven, el tiempo de visualización promedio es más corto que el de TikTok, y el canon visual es más caótico: cortes rápidos, contenido con la cara al frente, estéticas de filtros de AR, superposiciones de texto en la sans-serif nativa de Snapchat. Los MVs cinemáticos y pulidos tienen un bajo rendimiento aquí. El contenido en bruto, cinético y con un personaje protagonista tiene un alto rendimiento."
+      },
+      {
+        "heading": "Convenciones que los creadores descubrieron",
+        "body": "Cortes de menos de un segundo en los primeros 5 segundos. El rostro del artista en el primer fotograma, no un logo ni una tarjeta de título. Vertical 9:16 con el sujeto encuadrado en el centro (la UI de Snapchat se come el 15% inferior de la pantalla en la mayoría de los teléfonos: mantén el tercio inferior limpio). Texto en pantalla en ráfagas cortas, no en scrolls de letras. El límite de 60 segundos de Snapchat se aplica; la mayoría de los clips musicales virales en Spotlight duran entre 20 y 30 segundos."
+      },
+      {
+        "heading": "El preset de Snapchat de Tunee, específicamente",
+        "body": "Elige Snapchat y el renderizador se inclina hacia la gramática de la plataforma: mayor frecuencia de cortes (promedio de 0,6 segundos frente a 1,8 en el preset de YouTube), encuadre del sujeto con la cara al frente, el tercio inferior reservado para la seguridad de la UI, y el hook reenunciado en el segundo 15 para impulsar un bucle de reproducción repetida. La salida es un MP4 de 1080p en 9:16 por debajo del límite de 60 segundos de Spotlight. La misma generación también exporta un 1:1 vertical para Snapchat Discover si estás ejecutando colocación de pago."
+      }
+    ]
+  }
 }

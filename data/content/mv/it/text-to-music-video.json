@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Text to MV di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su dispositivi mobili, quindi puoi creare video musicali Text to MV da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "TEXT TO MV",
+    "h2": "Scrivi una frase. Ottieni un music video con un brano che non esisteva cinque minuti fa",
+    "sections": [
+      {
+        "heading": "Cosa fa davvero il text-to-MV",
+        "body": "Due sistemi AI in esecuzione consecutiva. Il primo è un generatore musicale — il tuo prompt di testo produce una traccia originale strumentale o vocale alla lunghezza e BPM che specifichi. Il secondo è la pipeline MV, alimentata sia dal prompt che dall'audio appena generato. La parte interessante è che il modello video vede il prompt prima che l'audio esista, così il mondo visivo e quello musicale sono progettati per corrispondersi invece di essere il video adattato a posteriori a un brano."
+      },
+      {
+        "heading": "Cosa ti dà Tunee da un solo prompt",
+        "body": "Un unico input di testo — 'una traccia shoegaze lenta sul tornare a casa sotto la pioggia, voce femminile, 80 BPM' — restituisce una traccia audio, un video tagliato da 60 secondi e uno stem scaricabile solo della musica. Puoi rigenerare l'audio senza ri-renderizzare il video, o viceversa. Utile quando il brano funziona ma le visual mancano il segno, o le visual ci prendono perfettamente ma il ritornello merita un secondo passaggio. La maggior parte degli strumenti text-to-MV abbina i due output; Tunee li mantiene deliberatamente separabili."
+      },
+      {
+        "heading": "Dove il text-to-MV batte l'upload-to-MV",
+        "body": "Due scenari. Primo, il prototipaggio: hai un concept video ma ancora nessun brano, e il licensing di un segnaposto è più attrito che generarne uno. Secondo, la velocità dei contenuti: un brand che gestisce una campagna di 30 giorni ha bisogno di 30 video brevi distinti e 30 colonne sonore distinte, e la matematica del licensing non regge. Per i video artisti one-off, upload-your-song rimane il percorso giusto. Per tutto il resto, text-to-MV è il percorso più breve verso il primo frame."
+      }
+    ]
+  }
 }

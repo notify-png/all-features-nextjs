@@ -39,5 +39,23 @@
       "q": "Ele suporta exportar videoclipes musicais realistas em resolução 4K?",
       "a": "Absolutamente. Tunee exporta videoclipes musicais realistas em até 4K de resolução, deixando-os prontos para YouTube, plataformas de streaming e displays de tela grande."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV REALISTA",
+    "h2": "O vídeo foto-realista é sobre contenção, não sobre detalhe",
+    "sections": [
+      {
+        "heading": "O que realista realmente significa",
+        "body": "O videoclipe realista significa que o espectador não pensa se é real — o que é mais difícil do que parece. Os sinais de vídeo gerado que falham no realismo: pele limpa demais (sem poros, sem assimetria), olhos sem os reflexos de luz corretos, mãos com contagem sutil de dedos flutuando, tecido que não dobra sob a gravidade, movimento suave demais (o movimento humano real tem micro-tremor). O realismo documental especificamente significa luz natural, deixas de áudio de fonte disponível no visual, e linguagem corporal não posada."
+      },
+      {
+        "heading": "De onde vem esse visual",
+        "body": "Referências que DPs e diretores de videoclipe realmente citam: o trabalho de luz natural de Emmanuel Lubezki para Terrence Malick (The Tree of Life), o movimento de câmera na mão do Lars von Trier e do Dogme 95, o American Honey e o Fish Tank de Andrea Arnold, o The Florida Project e o Tangerine de Sean Baker para realismo de luz disponível, a cinematografia documental de Errol Morris em The Thin Blue Line, o Nomadland de Chloe Zhao. Específicos para videoclipe: o trabalho de Childish Gambino de Hiro Murai, qualquer coisa que Spike Jonze filmou para os Beastie Boys (Sabotage). Fotografia documental: Alec Soth, Stephen Shore, Nan Goldin. O modelo realista do Tunee é treinado em frames de luz natural com sujeitos imperfeitos e habitados — não polimento comercial brilhante."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Adicione imperfeição explicitamente: 'textura natural de pele com poros, leve assimetria, apenas luz disponível, sem preenchimento'. Especifique hora do dia e clima: 'tarde nublada, luz suave da janela, sem sol direto'. Movimento de câmera na mão: 'câmera no ombro, leve balanço de câmera na mão'. Evite 'fotorrealista' como prompt isolado — isso empurra para o realismo CGI. Use 'realismo natural estilo documentário' em vez disso. O real parece imperfeito; o suave parece renderizado."
+      }
+    ]
+  }
 }

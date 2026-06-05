@@ -39,5 +39,23 @@
       "q": "Comment personnaliser le style visuel de ma vidéo musicale Snapchat ?",
       "a": "Vous pouvez guider les visuels en utilisant des demandes textuelles décrivant des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par l'esthétique du filtre AR qui correspondent à votre esthétique Snapchat."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR SNAPCHAT",
+    "h2": "Sur Snapchat Spotlight, les coupes rapides et les visages gagnent",
+    "sections": [
+      {
+        "heading": "Ce que Spotlight fait réellement remonter",
+        "body": "Le feed Spotlight de Snapchat est plus proche d'un TikTok Gen-Z que du reste de Snapchat — il est algorithmique, vertical, et récompense les relectures. L'audience est plus jeune, le temps de visionnage moyen est plus court que sur TikTok, et le canon visuel est plus chaotique : coupes rapides, contenu face caméra, esthétique filtre AR, overlays de texte dans le sans-serif natif de Snapchat. Les MV cinématiques et soignés sous-performent ici. Le contenu brut, cinétique, centré sur les personnages surperforme."
+      },
+      {
+        "heading": "Les conventions que les créateurs ont identifiées",
+        "body": "Des coupes sous la seconde dans les 5 premières secondes. Le visage de l'artiste dans le premier plan, pas un logo ni un carton-titre. Vertical 9:16 avec le sujet cadré au centre (l'interface de Snapchat mange les 15 % inférieurs de l'écran sur la plupart des téléphones — gardez le tiers inférieur propre). Texte à l'écran en courtes rafales, pas en défilé de paroles. Le plafond de 60 secondes de Snapchat est imposé ; la plupart des clips musicaux viraux sur Spotlight durent 20 à 30 secondes."
+      },
+      {
+        "heading": "Le préréglage Snapchat de Tunee, spécifiquement",
+        "body": "Choisissez Snapchat et le renderer adopte la grammaire de la plateforme : fréquence de coupe plus élevée (0,6 seconde en moyenne contre 1,8 sur le préréglage YouTube), cadrage face caméra, tiers inférieur réservé à la sécurité d'interface, et l'accroche répétée à la marque des 15 secondes pour déclencher une boucle de relecture. Export en 9:16 1080p MP4 sous le plafond de 60 secondes de Spotlight. La même génération exporte également un 1:1 vertical pour Snapchat Discover si vous faites de la diffusion payante."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "它支持以4K分辨率导出恐怖音乐视频吗？",
       "a": "支持。Tunee以高达4K分辨率导出恐怖音乐视频，使其可用于YouTube、流媒体平台和大屏幕显示。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "恐怖 MV 解析",
+    "h2": "恐怖的力量来自你没有拍出来的那部分",
+    "sections": [
+      {
+        "heading": "恐怖视频需要什么",
+        "body": "恐怖是克制胜过奇观的类型。那些真正让人毛骨悚然的画面，往往空旷至极：一条昏暗走廊尽头只有一盏实景灯，一个模糊得看不清面目的身影，一个宽镜头被刻意多停留了一拍。猎奇和血腥是工具，而不是这个类型本身。视觉法则：浓重阴影、细节压入纯黑、手持或固定机位（绝不是平滑的跟镜），色调偏冷或透着病态的黄绿，颗粒感要让人联想到降质的胶片或监控录像。"
+      },
+      {
+        "heading": "这种美学从何而来",
+        "body": "参考片单：A24 的恐怖片系列——Ari Aster 的 Hereditary 与 Midsommar 那种对称宽镜头，Robert Eggers 的 The Witch（VVitch）和 The Lighthouse 里的烛光古典构图，Jordan Peele 的 Get Out 和 Nope 中带有讽刺意味的恐怖取景，Daniel Myrick 的 Blair Witch 式伪纪录片传统，Park Chan-wook 在 Stoker 中克制的静止感。MV 方面：Chris Cunningham 为 Aphex Twin 执导的 Come to Daddy，Mark Romanek 为 Nine Inch Nails 执导的 Closer，以及 Lorn 的 Anvil。游戏参考：Capcom 的《生化危机 2》重制版，Konami 的《寂静岭 2》迷雾。Tunee 的恐怖模型以负空间和低燃构图为核心训练，而非突然惊吓的堆砌。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "明确指定画面里没有什么：「远景深处一个人影，前景无主体，中景留空」。锁定镜头：「固定宽景，无任何运动」或「手持抖动，低帧率」。光源至关重要——「单个实景裸灯泡，顶光，硬阴影」远比「黑暗恐怖」有效。加上胶片质感：「16mm 颗粒感，轻微片门抖动」，以重现模拟恐怖的氛围。镜头停留时间要比你感觉舒适的更长；恐怖需要那个沉默的停顿。"
+      }
+    ]
+  }
 }

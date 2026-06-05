@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Rock-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du Rock-Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER ROCK",
+    "h2": "Rock-Video steht und fällt damit, ob die Band wie eine Band wirkt",
+    "sections": [
+      {
+        "heading": "Wie Rock aussieht",
+        "body": "Rock-MVs sind meist performance-getrieben, aber die besten lassen die Band wie eine Einheit wirken — nicht wie vier Menschen im gleichen Raum. Wide-Shots, die alle Mitglieder auf der Bühne zeigen, Halbnahe-Aufnahmen, die Blickkontakt zwischen Bassist und Schlagzeuger einfangen, Nahaufnahmen von Händen auf Saiten. Die Beleuchtung ist theatralisch — Bühnenrigs, Strobes, Rauch, hartes Gegenlicht, das den Sänger in der Bridge zur Silhouette macht. Das Kostüm ist konsistent mit der Identität der Band, nie überstylt."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Foo Fighters' 'The Pretender' und 'Walk', beide unter der Regie von Sam Brown mit Mark Romaneks früherer 'Everlong'-Linie dahinter, sind die moderne Blaupause für Stadium-Rock-MV-Pacing. Greta Van Fleets 'Heat Above' bringt 70er-Arena-Revival-Bildsprache in den aktuellen Rahmen. Royal Bloods 'Limbo' beweist, dass ein Duo einen Bildschirm füllen kann, wenn die Kamera sie respektiert. The Black Keys' 'Lonely Boy', Wolfmother und Highly Suspect runden das aktuelle Vokabular ab. Ältere Texte — Queens 'Bohemian Rhapsody', die Stones' 'Start Me Up' und Anton Corbijns karges Werk mit U2 ('One') und Joy Division — lehren noch immer, was Bühnenpräsenz auf der Kamera wirklich bedeutet."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Die Band zuerst in ihrer physischen Beziehung zueinander platzieren. 'Schlagzeug hinten in der Mitte auf einem erhöhten Podest, Bassist Bühnenseite links, Gitarrist Bühnenseite rechts, Sänger vorne an der Bühnenlippe' schafft eine echte Bühnengeometrie, die Tunee über Schnitte halten kann. Spezifische Beleuchtung hinzufügen: 'hartes Gegenlicht von hinter der Bühne, zwei rote Kreuzstrahlen von den Seiten, Dunst'. Auf dem Snare-Hit schneiden, nicht auf der Bassdrum. Den Zeitlupen-Shot für einen einzigen Moment reservieren — meist den ersten Beat des zweiten Chorus."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à ma vidéoclip musicale de groupes ?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera avec votre vidéoclip musicale de groupes automatiquement."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR GROUPES",
+    "h2": "Les groupes ont besoin de footage de performance qu'ils ne peuvent pas se permettre de tourner sans cesse",
+    "sections": [
+      {
+        "heading": "Le vrai problème du MV de groupe",
+        "body": "Un quatuor qui veut tourner un MV de performance complet a besoin d'un minimum de cinq personnes (le groupe plus un caméraman), d'un lieu, d'un dispositif multicaméra et d'une journée entière. Comptez entre 2 000 et 8 000 € une fois l'étalonnage terminé — pour un titre qui pourrait générer 12 000 streams. L'équation ne fonctionne que pour les artistes signés, ce qui explique pourquoi la plupart des groupes indépendants recyclent les mêmes deux vidéos de performance pendant des années. Ce qu'un outil IA comble, ce n'est pas le remplacement du footage live — c'est le contenu qui meuble le rollout d'album entre le seul vrai tournage que vous pouvez vous payer."
+      },
+      {
+        "heading": "Les plans que le canon MV de groupe utilise vraiment",
+        "body": "Serré sur la main gauche du guitariste lors d'un changement d'accord. Plongée sur le batteur pendant un fill. Plan mi-corps du chanteur avec un contrejour dur sur une note haute. Recul large sur le refrain final révélant une salle vide. Les MV de performance n'ont pas besoin d'une narration — ils ont besoin des quatre ou cinq plans qui, montés serrés, font ressembler un groupe à un groupe. Le modèle de Tunee est entraîné sur ce canon : des prompts comme « quatre musiciens sur une petite scène, lumière principale unique, pas de public, grain 16mm » atterrissent exactement là où un directeur photo viserait."
+      },
+      {
+        "heading": "Où Tunee s'intègre dans le cycle de sorties du groupe",
+        "body": "Pour le single, vous avez une vraie vidéo. L'album compte 11 autres titres qui ont besoin de contenus visuels pour nourrir le rollout — lyric videos, boucles de performance pour Instagram, cuts verticaux pour la promo TikTok, Spotify Canvas pour chaque morceau. C'est là que Tunee se justifie : pas pour remplacer la vidéo réalisée, mais pour générer les 30 ressources complémentaires que l'algorithme exige désormais, car une seule vidéo ne suffit plus."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um clipe de K-pop para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu clipe de K-pop usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE K-POP",
+    "h2": "O videoclipe de K-pop é o formato visual mais engenhoso da música",
+    "sections": [
+      {
+        "heading": "Como é o visual do K-pop",
+        "body": "Os MVs de K-pop são construídos como arquitetura. Cada set é personalizado, cada troca de figurino é mapeada para uma seção da música, cada movimento de câmera é coreografado junto com a dança. A mistura é sempre de pelo menos três camadas: coreografia no set, cortes narrativos com pontos de virada na história, e takes conceituais onde os membros aparecem em ambientes solo estilizados. Os universos de cor mudam dramaticamente ao longo dos quatro minutos de duração. A simetria é lei durante o refrão. A assimetria retorna nos versos para manter o olho em movimento."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Super Shy' e o 'Ditto' do NewJeans, moldados pela diretora criativa da ADOR Min Hee-jin e filmados por Shin Woo-seok da Naive Production, definem a atual onda naturalista — paletas mais suaves, menos espetáculo, mais personalidade. O 'Drama' do Aespa, dirigido por Sun Choi, vai na direção oposta: design de sets maximalista, construção de mundo, edições densas. O 'Blood Sweat and Tears' do BTS continua sendo o padrão de ambição narrativa. O 'How You Like That' do BLACKPINK, dirigido por Seo Hyun-seung, demonstra como fazer quatro membros e um set parecerem um evento global. O 'Tomboy' do (G)I-DLE e o 'God's Menu' do Stray Kids, junto com a cinematografia liderada pela coreografia do Beasts and Natives Alike, completam o vocabulário atual."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Planeje quatro universos, não um. Esboce o set do refrão, o ambiente do verso, a sala conceitual da ponte e o espaço do outro — depois instrua o Tunee para cada um com paleta de cores explícita e mudança de figurino. Enquadramento simétrico na queda do refrão é inegociável. Para a seção de dança, nomeie a formação: 'abertura em V para uma linha, snap de quatro tempos em diamante'. Os takes de conceito solo devem parecer editoriais de moda, não capturas das cenas em grupo."
+      }
+    ]
+  }
 }

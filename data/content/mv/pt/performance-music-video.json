@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipe de performance da Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes de performance de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV DE PERFORMANCE",
+    "h2": "O vídeo de performance é o formato que o algoritmo ainda recompensa",
+    "sections": [
+      {
+        "heading": "O que é o MV de performance",
+        "body": "O videoclipe de performance é a banda ou o artista tocando a música na câmera — pode ser encenado num estúdio, numa cobertura, num galpão vazio, num soundcheck. Distinto do MV de show (que pressupõe plateia e local), o MV de performance é controlado, geralmente em único local, focado no ato de tocar. O formato tem a mais longa história no MTV — a maioria dos vídeos dos anos 80 era performance com embrulho narrativo mínimo. Também é dominante no NPR Tiny Desk, nos Take Away Shows da La Blogotheque, no Jam in the Van."
+      },
+      {
+        "heading": "Quando usar",
+        "body": "O MV de performance é a escolha certa para bandas onde a musicalidade é o ponto principal (jazz, jam bands, metal técnico, qualquer coisa com músicos virtuosos), para versões acústicas de pop, para gravações ao vivo onde áudio e vídeo estão sincronizados, e para qualquer artista cuja marca é autenticidade em vez de produção. Cânone de diretores: o trabalho austero em preto e branco de Anton Corbijn para U2 e Joy Division (Atmosphere, One), os filmes de performance dos Foo Fighters de Adam Berg, Mathias Andersson para bandas indie suecas, os Take Away Shows de La Blogotheque de Vincent Moon, o formato NPR Tiny Desk de Bob Boilen. É também o formato que o algoritmo do YouTube ainda destaca bem — conteúdo de performance de formato longo tem menos concorrência do que MV narrativo e mais tempo de visualização por upload."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Especifique o espaço e a configuração de luz como uma gravação real: 'loft industrial, banda no palco à esquerda, cobertura de três câmeras, luzes práticas de tungstênio quente, sem géis coloridos'. Escolha uma linguagem de câmera: 'planos abertos fixos mais dolly lento em instrumentos' ou 'tudo câmera na mão, na mão, cortes intuitivos'. Adicione 'nenhuma plateia visível' para manter o tom de performance e não de show. O Tunee pode adaptar o estilo de câmera ao gênero — o jazz se beneficia de planos longos, o punk de cortes rápidos."
+      }
+    ]
+  }
 }

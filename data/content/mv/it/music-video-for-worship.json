@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali di culto di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali di culto da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER IL WORSHIP",
+    "h2": "Il video worship è un genere a sé con il suo canone",
+    "sections": [
+      {
+        "heading": "Come appare davvero il video worship",
+        "body": "Il canone visivo è ben definito: Hillsong, Elevation, Bethel, Maverick City — tipografia centrata sui testi su una ripresa di congregazione live al tungsteno caldo, movimenti lenti di camera, il worship leader raramente il frame dominante. I testi contano perché il pubblico deve cantare insieme, quindi il testo in sovrimpressione è irrinunciabile e il design tipografico è più vicino all'editoria che alla cinetica pop-video. L'estetica è performance live intima, non video pop prodotto."
+      },
+      {
+        "heading": "Inquadrature e convenzioni che funzionano",
+        "body": "Campo largo della congregazione con le mani alzate, fuori fuoco, luce calda dal palco. Piano medio del worship leader, occhi chiusi, a metà frase. Insert di un singolo membro della congregazione durante il bridge — di solito più anziano, di solito emozionato, intenzionalmente non il volto più bello della sala. Il testo dei testi appare riga per riga, centrato, in un serif pulito o humanist sans, con un lead-in sufficiente per permettere alla congregazione di leggere prima di cantare. I tagli atterrano sulla fine della frase, non sul beat."
+      },
+      {
+        "heading": "Come Tunee gestisce il preset worship",
+        "body": "Il preset Worship è centrato sui testi per default — ogni riga del brano appare in sovrimpressione con il timing di rivelazione riga per riga che il formato richiede. Il layer visivo base pende verso inquadrature congregazionali al caldo e frame strumentisti in luce soffusa, con la possibilità di caricare i filmati della tua vera chiesa per ancorare il materiale generato nella tua comunità. L'output è 16:9 per la proiezione in servizio più 9:16 per i tagli social che guidano la frequenza domenicale durante la settimana."
+      }
+    ]
+  }
 }

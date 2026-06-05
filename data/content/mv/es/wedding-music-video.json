@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical de boda para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical de boda usando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se adapte a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV DE BODA",
+    "h2": "Convierte tu canción de boda en un recuerdo que no acabe en un cajón",
+    "sections": [
+      {
+        "heading": "Por qué un MV de boda supera a un slideshow",
+        "body": "El video de boda tiene un problema silencioso: la película oficial es demasiado larga para que los amigos la compartan, el reel del fotógrafo es demasiado genérico para sentirse personal, y el slideshow que hace tu tía es insoportable pasada la segunda diapositiva. Un videoclip de IA de 60 a 90 segundos encaja exactamente en el hueco: lo suficientemente corto para publicar en Instagram a la mañana siguiente, musicalizado con tu primer baile y visualizado alrededor de los momentos que importaron (el anillo, el brindis, la mirada silenciosa durante los votos) en lugar de B-roll de stock."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Los videógrafos de boda conocen el canon: primer plano del anillo con colapso de profundidad de campo, detalle del vestido en luz dorada, la revelación de la novia desde el punto de vista de un progenitor, el primer beso desde el fondo del pasillo, el plano de teleobjetivo del público durante la ovación. El estante de referencias es pequeño pero específico: Steven Bradford y los pioneros de la Cinematic Bride que codificaron el rodaje moderno, los filmes de boda de un solo plano virales de Brett Loudermilk, El otoño en Nueva York de Tarsem Singh para el color saturado, la gramática de producción de Magmod y Vanlife Films que inunda los Vimeo Staff Picks cada temporada, el encuadre de retrato familiar de Annie Leibovitz. Menciona tu pista procesional o de primer baile, nombra tres de estos planos en inglés llano, y el MV está medio storyboarded antes de escribir otra palabra."
+      },
+      {
+        "heading": "Conviértelo en el regalo",
+        "body": "El MV de boda más útil es el que las parejas descubren una semana tarde: envíaselo a quienes no pudieron tomar el avión. Un 9:16 vertical de tu recepción, la canción que definió la noche, exportado al día siguiente, en su bandeja de entrada antes de que recuerden enviar el mensaje de felicitación. Tunee renderiza 9:16, 16:9 y 1:1 desde una sola generación: un único prompt, todos los formatos que espera la bandeja de entrada o el feed."
+      }
+    ]
+  }
 }

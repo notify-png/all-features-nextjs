@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Synthwave-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Synthwave-Musikvideos mit verschiedenen Aufforderungen oder Stileinstellungen generieren und dann die Version auswählen, die am besten zu Ihrer Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER SYNTHWAVE",
+    "h2": "Synthwave ist ein Sound, der gesehen werden muss",
+    "sections": [
+      {
+        "heading": "Wie Synthwave aussieht",
+        "body": "Synthwave ist das einzige Genre, bei dem die visuelle Identität eingebaut ist. Aus der 2010er-Obsession mit 80er-Sci-Fi und neon-getränkter Nostalgie geboren — Drive, Stranger Things, Hotline Miami — ist seine Ästhetik kodifizierter als die Musik selbst. Die Nicht-Verhandelbaren: tiefe Lila-bis-Magenta-Gradienten, rückwärts verlaufende Retro-Gitter-Horizonte, Palmensilhouetten vor Gradient-Sonnenuntergängen, Chrom-Autos, blitzgespaltene Himmel. Wenn der Zuschauer das warme Summen eines analogen VHS nicht innerhalb von drei Sekunden fühlt, stimmt etwas nicht."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Wenn Regisseure Synthwave-MVs briefen, nennen sie dieselben Referenzpunkte: The Midnights 'Sunset', FM-84s 'Outatime', Carpenter Bruts Live-Visuals, den 'Kung Fury'-Kurzfilm, Magdalena Bays '2K12' und Seth Ickermans 'Turbo Killer' für Carpenter Brut — noch immer die definitive Regisseur-Showcase des Genres. Der rote Faden ist nicht der Künstler — es ist die Bildsprache: breite Horizonte, langsamer Zoom auf rückwärts verlaufende Gitterlinien, Charakter-Silhouetten nie voll beleuchtet, Schrift in Chrom mit subtiler Prägung. Tunees Synthwave-Modell ist auf genau dieses Vokabular trainiert, sodass Prompts wie 'analoge VHS-Scan-Lines über einer Neon-Skyline' dort landen, wo Regisseure eine echte Filmcrew hinzeigen würden."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Gegen Synthwaves Klischees nicht ankämpfen — hineinlehnen. Die Ebenenreihenfolge spezifizieren: Vordergrund-Motiv (Künstler, Auto, Palme), Mittelgrund (Neon-Gitter oder Sonnenuntergang), Hintergrund (gerissener lila Himmel mit fernem Blitz). Farben explizit paaren: 'Magenta und Cyan, keine warmen Töne'. Dann eine Anachronismus hinzufügen, der den Zauber bricht — einen abgestürzten Satelliten, eine glitchende Werbetafel — um die Schleife über den ersten Chorus hinaus interessant zu halten. Das Ergebnis liest sich als komponiert, nicht generiert."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Kann ich ein Trap-Musikvideo ohne Videoschnitt-Erfahrung erstellen?",
       "a": "Ja – Tunees KI übernimmt die gesamte Videoproduktion automatisch. Lade einfach dein Audio hoch oder gib einen Text-Prompt ein, wähle einen Trap-Style, und die KI generiert dein Video in wenigen Minuten."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER TRAP",
+    "h2": "Trap-Video ist Atlanta nach Mitternacht — egal wo es gedreht wurde",
+    "sections": [
+      {
+        "heading": "Wie Trap aussieht",
+        "body": "Trap-MVs operieren in einer spezifischen nächtlichen Palette: Straßenlicht-Orange, Tankstellen-Neonlicht, Scheinwerfer, das Blau von Handyscreens. Locations sind Tankstellen, Strip-Mall-Parkplätze, Trap-House-Interiors, ausländische Auto-Interiors. Der Rapper ist meist eng gerahmt, mit ein oder zwei Crew-Mitgliedern sichtbar dahinter. Kleidung ist aktuell — Designer-Hoodies, gestapelte Ketten, frische Sneakers. Der Hi-Hat diktiert die Schnittrate. Rauch ist häufiger als nicht im Bild. Gesichter bleiben auch in Nahaufnahmen teilweise im Schatten."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Futures 'Mask Off', Regie Colin Tilley, baute das moderne Trap-MV-Vokabular auf — Nachtszenen, Auslandsautos, Crew-Shots. Migos' 'Bad and Boujee' kodifizierte das choreografierte-aber-nicht-Tanz-Trap-Visual. 21 Savages 'Bank Account' bringt den minimalen, kontrollierten Bildrahmen-Ansatz, während Travis Scotts 'SICKO MODE', Regie Dave Meyers, die Produktionsdecke anhob. Young Thugs 'Wyclef Jean', Gunna und Lil Baby füllen das Register, mit Cole Bennetts Lyrical-Lemonade-Arbeit, die die YouTube-native visuelle Grammatik kodifiziert. Ältere Referenzen — Three 6 Mafias und OutKasts in Atlanta verwurzelte Videos — bleiben Quellmaterial. Die Konstante: Atlanta als echter Drehort oder herbeigerufener Geist."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Die Tageszeit vor allem anderen festlegen. 'Zwei Uhr morgens, Parkplatz beleuchtet von Natriumstraßenlaterne und den Scheinwerfern eines Autos, Vordergrund-Motiv im Schatten mit nur Streiflicht' gibt Tunee eine Basis, die sich sofort als Trap liest. Das Auto spezifizieren: 'mattes schwarzes Auslandscoupe, Türen oben'. Hi-Hat-getaktete Schnitte im Chorus hinzufügen — drei schnelle Frames hintereinander, dann ein gehaltenes Wide. Sauberem Keylicht widerstehen. Trap lebt im Halbschatten."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funziona con qualsiasi genere musicale, o solo commemorativo?",
       "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre il commemorativo. Puoi generare video musicali per pop, hip-hop, classica e dozzine di altri stili utilizzando la stessa piattaforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL MEMORIAL MV",
+    "h2": "Un video tributo che regge alla visione ripetuta",
+    "sections": [
+      {
+        "heading": "Perché il memorial MV è un formato a sé",
+        "body": "Le presentazioni di diapositive funebri vengono di solito messe insieme in 48 ore sotto il peso del lutto — spesso si limitano a foto cronologiche di Facebook e un singolo brano al pianoforte. Un MV più meditato, realizzato giorni o settimane dopo, diventa il manufatto a cui la famiglia torna davvero nei compleanni, negli anniversari e nelle ricorrenze che seguono. È un lavoro diverso dalla presentazione del servizio: meno esaustivo, più curato, musicato con il brano che la persona amava davvero invece di qualcosa di genericamente mesto."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I filmmaker dei memorial tendono a un piccolo vocabolario ripetibile: la natura morta di un oggetto familiare (una tazza di caffè, gli occhiali su un libro, una chitarra contro un muro), il close-up della scrittura a mano, le mani in un'attività, la foto della risata di ogni riunione, la sedia in cui sedeva sempre. I riferimenti estetici sono quieti e specifici — le installazioni video al rallentatore di Bill Viola al Getty e alla Tate Modern, Hoppípolla di Sigur Rós diretta da Árni & Kínski (il default per i montaggi funebri), la palette di Hope Is a Dangerous Thing di Lana Del Rey, It's Such a Beautiful Day di Don Hertzfeldt per il lutto animato, i cutaway di foto fisse di Terrence Malick in The Tree of Life riprese da Emmanuel Lubezki. L'impulso è di usare ogni foto mai scattata — resistigli. Quindici immagini specifiche, ben ritmato, battono cento."
+      },
+      {
+        "heading": "Rendilo il cimelio",
+        "body": "Gli MV memorial non si condividono davvero — si conservano. Tunee genera un master in alta risoluzione per gli archivi di famiglia, una versione verticale per l'invio privato a chi non ha potuto partecipare, e un formato 1:1 per il post di commemorazione nel giorno del prossimo compleanno che si festeggerà."
+      }
+    ]
+  }
 }

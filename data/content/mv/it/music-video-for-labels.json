@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Record Labels da confrontare?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Record Labels utilizzando diversi prompt o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER LE ETICHETTE",
+    "h2": "Le etichette hanno bisogno di contenuti visivi al volume di un rollout d'album, non al ritmo di un singolo video",
+    "sections": [
+      {
+        "heading": "Il vero problema dal lato dell'etichetta",
+        "body": "Un rollout moderno di un album ha bisogno di 30-50 asset video: l'MV del singolo principale, 11 lyric video per le tracce dell'album, 11 Spotify Canvas, tagli verticali di ogni ritornello per la promo TikTok, un pezzo per l'annuncio del tour, contenuti dietro le quinte, cutdown delle interviste. Anche un'etichetta indie di medie dimensioni ha 8-12 artisti in roster che eseguono questo ciclo contemporaneamente. La bandwidth del team video è il collo di bottiglia — non il budget, il calendario. La maggior parte delle etichette semplicemente non consegna gli asset, e l'algoritmo penalizza di conseguenza."
+      },
+      {
+        "heading": "Cosa le etichette possono davvero delegare all'AI",
+        "body": "L'MV primario del singolo principale — ancora una ripresa diretta. Tutto il resto — il layer di contenuto supplementare — è esattamente ciò per cui le pipeline AI MV sono costruite. Lyric video con l'identità visiva dell'album, Spotify Canvas che corrispondono all'artwork, tagli TikTok che riutilizzano la palette cromatica dell'MV diretto, poster del tour animati. L'identità visiva dell'album (fissata dalla ripresa del singolo principale) diventa un template di prompt che produce gli altri 49 asset in giorni, non in mesi."
+      },
+      {
+        "heading": "Come Tunee si inserisce nella pipeline di un'etichetta",
+        "body": "Carica il riferimento cromatico e i visual chiave dell'album, blocca la coerenza del personaggio dell'artista in tutto il roster, e Tunee genera lo stack di asset supplementari per ogni pubblicazione. Il team controlla l'MV diretto e l'identità visiva; Tunee consegna la long tail. Per un'etichetta di medie dimensioni che gestisce 15 pubblicazioni l'anno, questa è la differenza tra rollout visivi completi per ogni artista e l'attuale realtà in cui metà del roster scompare tra i singoli."
+      }
+    ]
+  }
 }

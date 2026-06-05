@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Valentine's-Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Valentine's-Musikvideos mit verschiedenen Prompts oder Style-Einstellungen generieren und dann die Version wählen, die deiner Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS VALENTINSTAGS-MV",
+    "h2": "Ein Valentinstags-Video, das keine Karte mit schlechterem Foto ist",
+    "sections": [
+      {
+        "heading": "Warum ein Valentinstags-MV Blumen übertrifft",
+        "body": "Die Valentinstags-Geschenk-Ökonomie ist erschöpft — Blumen, Schokolade, Restaurantreservierung, wiederholen. Ein 60-sekündiges MV zum gemeinsamen Song bricht dieses Muster, ohne teuer oder aufwändig zu sein. Es ist das Geschenk, das im März nochmal geschaut wird, am Jahrestag nochmal geschickt wird und in einem privaten Ordner gespeichert statt mit dem Einwickelpapier weggeworfen wird. Für Fernbeziehungen ist es besonders stark — es leistet die Arbeit des Dabeiseins, wenn man nicht dabei sein kann."
+      },
+      {
+        "heading": "Die Shots, die immer funktionieren",
+        "body": "Romantische Videografen halten sich an ein kleines Vokabular: Hände, die sich über einem Tisch begegnen, die hinterleuchtete Silhouette an einem Fenster, das halb aufgegessene Frühstück im Bett-Wide, die handgeschriebene Notiz in Nahaufnahme, der langsame Zoom auf ein Lachen in einer Lachen-Szene. Die cinematischen Referenzpunkte: Spike Jonzes warmorangenes Her-Ästhetik, fotografiert von Hoyte van Hoytema, Richard Curtis' Notting Hill-Blumen-Boden-Ende, Pete Docters UP-Hochzeitsmontage, Wong Kar-wais In-the-Mood-for-Love-Nudelläden-Framing, Hallmark-Channel-Valentinsfilme. Die Klischee-Shots (rote Rosen, Kerzen, Herzen) funktionieren besser wenn sie peripher sind — die Kerze im Bokeh, nicht als Motiv. Diese Hierarchie spezifizieren und das MV liest sich als intim statt als Grußkarte."
+      },
+      {
+        "heading": "Mach es zum Geschenk",
+        "body": "Schick es um 6 Uhr morgens am 14. Februar, bevor der Tag mit Lieferungen und Reservierungen überfüllt wird. Tunee rendert vertikal für die Morgen-Nachricht, quadratisch für den optionalen öffentlichen Post und widescreen für das eventuelle Wohnzimmer-Wiederschauen am Jahrestag."
+      }
+    ]
+  }
 }

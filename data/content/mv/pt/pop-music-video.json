@@ -39,5 +39,23 @@
       "q": "Funciona com qualquer gênero de música, ou apenas Pop?",
       "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Pop. Você pode gerar videoclipes musicais para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE POP",
+    "h2": "O videoclipe de pop define o teto de orçamento para todos os outros gêneros",
+    "sections": [
+      {
+        "heading": "Como é o visual do pop",
+        "body": "Os MVs de pop entregam a maior densidade de produção no formato. Múltiplos sets personalizados, arcos completos de figurino, fios narrativos, equipes de coreografia, às vezes color grading de nível cinematográfico. O artista é o centro de cada composição a menos que seja deliberadamente retirado por razões narrativas. Os universos de cor mudam por seção, mas sempre servem ao arco emocional da música. O pop é o único gênero onde o público aceita um vídeo de quatro minutos que custou mais por minuto do que um filme da Marvel, desde que o gancho funcione."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Bejeweled' e o 'Anti-Hero' de Taylor Swift, dirigidos pela própria Swift com a longa influência de Joseph Kahn em seu catálogo, mostram narrativa em escala. O 'vampire' e o 'bad idea right?' de Olivia Rodrigo, dirigidos por Petra Collins, provam que um único conceito com total comprometimento supera o espetáculo. O 'Houdini' de Dua Lipa traz a coreografia de dança de volta ao centro do pop. O 'Espresso' de Sabrina Carpenter, dirigido por Bardia Zeinali, revive a tradição mais leve das peças encenadas, enquanto o trabalho de Dave Meyers para Travis Scott e Kendrick Lamar permanece o padrão ouro da indústria. O fio condutor é a intencionalidade — cada frame foi discutido por dez pessoas."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Trate o arco narrativo da música como o esqueleto do storyboard. Instrua o Tunee para sets distintos por seção: quarto no verso, corredor no pré-refrão, palco no refrão, cobertura na ponte. O figurino deve mudar com o mundo. Nomeie a era que você está mirando — 'paleta de doces da Katy Perry de meados dos anos 2010' ou 'teatralidade pastel atual da Sabrina Carpenter' — para que as referências visuais acertem. Simetria na queda do refrão. Sempre feche num único frame icônico que o público ainda consiga visualizar uma semana depois."
+      }
+    ]
+  }
 }

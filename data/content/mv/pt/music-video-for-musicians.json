@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu vídeo musical Musicians?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras, escolha um estilo de texto e a IA sincronizará automaticamente ao seu vídeo musical Musicians."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA MÚSICOS",
+    "h2": "O MV de cantor-compositor tem seu próprio cânone silencioso",
+    "sections": [
+      {
+        "heading": "Por que essa categoria não é 'só videoclipes'",
+        "body": "Um MV de cantor-compositor não é um vídeo de performance de banda nem um vídeo pop — é uma terceira coisa. O cânone visual é íntimo: o Kyoto da Phoebe Bridgers, o Holocene do Bon Iver, o Should Have Known Better do Sufjan Stevens. Um único performer, muitas vezes sozinho no quadro, baixa saturação de cor, planos longos, uma paisagem ou interior que diz algo sobre o peso emocional da música. O artista é o sujeito e o local é o segundo personagem. Não há quase nenhuma pirotecnia de edição."
+      },
+      {
+        "heading": "Planos que sempre funcionam para o formato",
+        "body": "Um close no vocalista que se sustenta por um refrão inteiro sem um corte. Um plano aberto que coloca o artista pequeno numa paisagem (uma praia, um campo, uma rodovia vazia). Um plano em câmera na mão de uma tomada única seguindo o artista por trás. Um quadro estático nas mãos ao piano ou violão. O público está ali primeiro pela música e segundo pela atmosfera visual — contenção é a estética, não uma restrição de orçamento."
+      },
+      {
+        "heading": "Onde o Tunee se encaixa no lançamento de um músico independente",
+        "body": "Cantores-compositores independentes tipicamente não conseguem financiar um vídeo de verdade para cada faixa — conseguem financiar um por álbum, talvez dois. O Tunee preenche o restante do rollout: lyric videos com a mesma paleta de cores do vídeo principal, cortes verticais para Reels e TikTok, Spotify Canvases para cada faixa, um pôster de turnê animado com um verso da música. A identidade visual permanece coesa em 12 faixas sem 12 dias de gravação."
+      }
+    ]
+  }
 }

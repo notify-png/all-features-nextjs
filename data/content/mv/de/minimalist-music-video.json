@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Generator für minimalistische Musikvideos auf mobilen Geräten?",
       "a": "Tunee ist vollständig über den Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du minimalistische Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS MINIMALISTISCHE MV",
+    "h2": "Minimalismus ist das schwierigste Briefing, das wirklich aufzugehen",
+    "sections": [
+      {
+        "heading": "Was Minimalismus wirklich ist",
+        "body": "Minimales Video bedeutet nicht 'weniger Zeug' — es ist bewusstes Negativ-Raum-Denken, das ein einziges Motiv in strenger Komposition hält. Apples Produktfilme sind der Maßstab: ein Objekt, Infinity-Curve-Hintergrund, eine Lichtrichtung, Mikrobewegungen, die geduldiger Aufmerksamkeit standhalten. Die Fallen sind erst offensichtlich, nachdem man in sie getappt ist: leerer Raum ohne kompositorischen Rhythmus wirkt billig, nicht raffiniert. Das Motiv muss den Negativ-Raum um sich herum durch kompositorisches Framing, Kantenlicht und bewusst kleine Bewegungen verdienen."
+      },
+      {
+        "heading": "Woher der Look kommt",
+        "body": "Visueller Kanon: Apples Produktfilme (TBWA\\Chiat\\Day) aus der Jony-Ive-Ära, Dieter Rams' Braun-Design-Fotografie, Hiroshi Sugimotos Meereslandschaften, Olafur Eliassons Installationen in der Tate Modern, James Turrells Skyspace-Lichtarbeiten, Wes Andersons symmetrische Zentrierung an ihrem minimalistischen Ende, Apichatpong Weerasethakuls langsame Halteframes in Memoria. Musikvideos: Sigur Rós' Glosoli unter der Regie von Arni & Kinski, Bon Ivers Holocene-Visualisierungen, das Erased-Tapes-Label-Roster (Olafur Arnalds, Nils Frahm). Tunees minimalistisches Modell versteht 'minimalistisch' als kompositorische Zurückhaltung, nicht als entferntes Detail — Oberflächen brauchen noch immer echte materielle Anmutung."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Gib das Negativ-Raum-Verhältnis an: 'Motiv im mittleren Drittel, restliche 80 % leer'. Die Palette auf zwei Werte beschränken: 'Off-White-Hintergrund, einzelnes Objekt in mattem Schwarz'. Die Lichtrichtung präzise benennen: 'Streiflicht von der Kamera-Linken, kein Füllicht'. Bewegungssprache hinzufügen: 'Motiv dreht sich 5 Grad, keine Kamerabewegung'. Die Versuchung, 'noch eine Kleinigkeit' hinzuzufügen, ist groß — widerstehe ihr. Jedes zusätzliche Element kostet die Komposition mehr, als es einbringt."
+      }
+    ]
+  }
 }

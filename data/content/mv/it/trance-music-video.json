@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Trance di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali Trance da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL TRANCE",
+    "h2": "Il video trance è il mainstage del festival filmato dall'interno del build",
+    "sections": [
+      {
+        "heading": "Come appare il trance",
+        "body": "Gli MV trance sono quasi sempre riprese live: inquadrature del mainstage, passaggi con drone sulle folle, il DJ in silhouette contro un rig di palco completo nel momento del drop. Il colore è dominato da blu profondo e bianco con intrusioni di laser rosa caldo o verde durante i picchi. Mani alzate, fuochi d'artificio, cannoni a fumo. Il build-up riceve volti della folla al teleobiettivo in slow motion; il drop riceve l'inquadratura ampia del palco con i laser completamente aperti. Non c'è narrativa — il video è l'evento."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "Le riprese live 'Group Therapy' di Above & Beyond da Anjunabeach e Madison Square Garden definiscono il formato moderno dell'MV trance. I film dell'evento 'A State of Trance' di Armin van Buuren fissano lo standard di scala, e il team livestream interno di Anjunabeats ha costruito la grammatica camera caratteristica del genere. Le registrazioni dei festival ASOT, Dreamstate e i tagli ufficiali del mainstage di Tomorrowland — in particolare la ripresa del mainstage di 'Animals' di Martin Garrix — completano il canone visivo. Punti di riferimento precedenti — 'Adagio for Strings' di Tiesto live all'Olympic Stadium e i filmati del mainstage di Paul van Dyk — insegnano ancora come filmare un drop emotivo. L'istinto condiviso: fidati della folla."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Mappa la struttura del brano alle posizioni della camera prima di scrivere il prompt. Build-up: volti della folla al teleobiettivo, slow zoom in. Drop: inquadratura ampia del palco, laser completamente attivi, rivelazione con drone dell'intero pubblico. Breakdown: ritorno ai volti, spesso al rallenty. Specifica il rig del palco: 'trenta moving head, quattro unità laser, sei cannoni CO2, rig completo di pirotecnia lungo il lato retro del palco'. Tunee renderizza le scene con folle massive in modo più convincente quando nomini la capienza del venue."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali per DJ di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali per DJ da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER I DJ",
+    "h2": "Le visual DJ non sono music video — sono proiezioni festival in scala ridotta",
+    "sections": [
+      {
+        "heading": "Perché l'MV per DJ è un formato a sé",
+        "body": "I DJ non cantano il brano, non l'hanno scritto come farebbe un cantautore, e raramente compaiono in camera per tutta la durata. Un MV per DJ che cerca di essere un video narrativo artistico di solito fallisce. Ciò che funziona è l'estetica dello schermo da festival scalata a YouTube: motion graphic astratte, visualizer in stile mainstage, esplosioni di luce sincronizzate al drop, tagli occasionali al DJ dietro le consolle per l'identità. Pensa ai set visivi di Anyma, alle proiezioni Cube di deadmau5, all'HOLO di Eric Prydz. Scala visiva, non profondità narrativa."
+      },
+      {
+        "heading": "Come deve apparire il drop",
+        "body": "Ogni MV per DJ vive o muore sul drop. Gli 8-16 bar prima di esso dovrebbero costruire visivamente — saturazione del colore in aumento, movimenti di camera in accelerazione, inquadratura che si stringe. Il drop stesso è la ricompensa visiva: un taglio netto sull'inquadratura più ampia, luminosa e cinetica del video, sostenuta per le prime 4 bar prima che i tagli riprendano. Azzecca quel momento e il resto del video può essere loop; mancalo e anche le visual migliori sembrano piatte sotto un grande drop."
+      },
+      {
+        "heading": "Come Tunee costruisce il drop al suo interno",
+        "body": "L'analista audio segnala il drop automaticamente (picco energetico + conferma del tempo + cue strutturale) e Sage mappa la costruzione visiva per atterrare su di esso. Il preset DJ pende verso l'astratto e l'architettonico rispetto al character-driven — meno volti, più geometria, palette bloccata sui brillanti da schermo festival. L'output è 16:9 per i file di riproduzione del venue (sì, puoi consegnare l'MP4 al tuo VJ per i live show) più 9:16 per i social. Stessa generazione, entrambe le superfici."
+      }
+    ]
+  }
 }

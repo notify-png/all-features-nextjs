@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale pour enfants à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale pour enfants en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR ENFANTS",
+    "h2": "Les clips pour enfants ont des règles que les MV adultes n'ont pas — lumineux, simples, sûrs",
+    "sections": [
+      {
+        "heading": "Ce que « vidéo musicale pour enfants » exige vraiment",
+        "body": "La catégorie est dominée par Cocomelon, Pinkfong, Super Simple Songs — et tous partagent un langage visuel : couleurs primaires saturées, design de personnages aux formes arrondies, environnements simples en boucle, paroles chantées clairement avec un renfort visuel littéral (le mot « banane » à l'écran quand le mot « banane » est chanté). L'algorithme YouTube Kids et le COPPA imposent des règles de contenu précises : pas de clignotements rapides, pas d'images effrayantes, pas d'ambiance ambiguë. Les contraintes sont plus strictes que dans tout autre format de MV adulte."
+      },
+      {
+        "heading": "Ce qui fonctionne pour le public de moins de 7 ans",
+        "body": "La répétition est une fonctionnalité, pas un défaut. Le visuel du refrain doit être la même image à chaque fois, pour que l'enfant l'anticipe. Les personnages doivent rester cohérents d'un plan à l'autre — un protagoniste d'aspect différent à chaque couplet perturbe les pré-lecteurs. La fréquence des coupes doit être plus lente que dans les MV adultes — 2 à 3 secondes par plan, pas 0,8. Le comptage, les couleurs, les animaux, les véhicules et les petits récits simples (aller au lit, prendre le petit-déjeuner, visiter le zoo) dominent le canon."
+      },
+      {
+        "heading": "Comment Tunee gère le préréglage enfants",
+        "body": "Le préréglage Enfants verrouille fermement la cohérence des personnages (un personnage généré reste visuellement identique dans chaque plan), impose un tempo de montage plus lent, restreint la palette aux couleurs primaires et secondaires hautement saturées, et soumet le rendu à un filtre de sécurité du contenu qui signale toute ambiguité avant le rendu. L'export est conforme aux spécifications YouTube Kids — 16:9 1080p, métadonnées conformes COPPA, aucun effet de surprise. La même génération exporte également un cut 9:16 pour le feed vertical YouTube Kids."
+      }
+    ]
+  }
 }

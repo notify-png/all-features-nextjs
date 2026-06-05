@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical reggae para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical reggae utilizando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL REGGAE",
+    "h2": "El video de reggae se instala en la hora dorada y se niega a marcharse",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el reggae",
+        "body": "Los MVs de reggae se inclinan hacia el color cálido, los movimientos de cámara lentos y la luz exterior. Playa al atardecer, carretera de montaña, calle del mercado: el paisaje es co-protagonista junto al artista. El humo casi siempre está en el encuadre, suave y difuso. El vestuario es suelto y de fibra natural: lino, denim, colores rasta usados como acento y no como uniforme. El ritmo es paciente; los videos de reggae rara vez cortan más rápido que el contratiempo de la caja. La comunidad es visible — amigos, familia, vecinos aparecen sin haber sido puestos en escena."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El metraje de actuación de 'Redemption Song' de Bob Marley sigue siendo el estándar emocional. El 'Welcome to Jamrock' de Damian Marley construyó el vocabulario moderno del MV de reggae de estilo documental, con cineastas jamaicanos como Storm Saulter (director de 'Sprinter') llevando esa tradición callejera de Kingston a la generación actual. El 'Skankin' Sweet' de Chronixx trae la tradición visual del lovers rock al presente. El 'Toast' de Koffee, el 'Switch It Up' de Protoje y los Easy Star All-Stars completan el conjunto de referencias actuales. El hilo es la autenticidad de la localización: los videos que no se sienten arraigados en un lugar real, preferiblemente Jamaica o algún sitio que respete el linaje, suenan a hueco."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Establece tu hora del día en la primera frase y no la rompas. 'Última hora de la tarde, una hora antes del atardecer, luz naranja cálida, sombras largas de palmeras' le da a Tunee una base que puede sostener a través de múltiples escenas. Añade detalles de comunidad — niños jugando en el borde del encuadre, una pareja mayor en un porche — para anclar el visual. Los movimientos de cámara deben ser travellings lentos o paseos en mano, nunca barridos de grúa. Corta en el contratiempo del ska, no en el tiempo."
+      }
+    ]
+  }
 }

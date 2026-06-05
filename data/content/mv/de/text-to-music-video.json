@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Text-zu-MV-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Text-zu-MV-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "TEXT ZU MV",
+    "h2": "Einen Satz tippen. Ein Musikvideo zurückbekommen mit einem Song, den es vor fünf Minuten noch nicht gab",
+    "sections": [
+      {
+        "heading": "Was Text-zu-MV tatsächlich macht",
+        "body": "Zwei KI-Systeme laufen nacheinander. Das erste ist ein Musikgenerator — dein Text-Prompt produziert einen originalen Instrumental- oder Vokal-Track in der Länge und dem BPM, den du angibst. Das zweite ist die MV-Pipeline, die sowohl den Prompt als auch das gerade generierte Audio bekommt. Das Interessante: das Video-Modell sieht den Prompt, bevor das Audio existiert — damit werden visuelle Welt und musikalische Welt so gestaltet, dass sie übereinstimmen, statt das Video nachträglich einem Song anzupassen."
+      },
+      {
+        "heading": "Was Tunee aus einem Prompt liefert",
+        "body": "Eine einzige Text-Eingabe — 'ein langsamer Shoegaze-Track über das Nachhausefahren im Regen, weibliche Vocals, 80 BPM' — gibt einen Audio-Track zurück, ein 60-sekündiges Video und einen herunterladbaren Stem von nur der Musik. Du kannst das Audio neu generieren, ohne das Video neu zu rendern, oder umgekehrt. Nützlich wenn der Song zündet, aber die Visuals nicht, oder wenn die Visuals es treffen, der Chorus aber einen zweiten Durchgang braucht. Die meisten Text-zu-MV-Tools koppeln die zwei Ausgaben; Tunee lässt sie bewusst trennbar."
+      },
+      {
+        "heading": "Wo Text-zu-MV Upload-zu-MV schlägt",
+        "body": "Zwei Szenarien. Erstens, Prototyping: du hast ein Video-Konzept, aber noch keinen Song, und einen Platzhalter zu lizenzieren kostet mehr Aufwand als einen zu generieren. Zweitens, Content-Velocity: eine Marke, die eine 30-Tage-Kampagne führt, braucht 30 unterschiedliche Kurzvideos und 30 unterschiedliche Soundtracks, und die Lizenzierungsrechnung überlebt das nicht. Für Einzelkünstler-Videos ist Upload-deinen-Song noch immer der richtige Weg. Für alles andere ist Text-zu-MV der kürzere Weg zum ersten Frame."
+      }
+    ]
+  }
 }

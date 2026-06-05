@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un vídeo de música punk para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu vídeo de música punk utilizando diferentes indicaciones o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL PUNK",
+    "h2": "El video de punk mantiene la cámara honesta dejándola magullada",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el punk",
+        "body": "Los MVs de punk rechazan el pulimiento por principio. En mano, a menudo filmados con la cámara que hubiera a mano, frecuentemente en un local real con un público real. La iluminación es la que tenga el local. La banda toca a volumen total; el operador de cámara claramente no ha dormido suficiente. Los cortes son abruptos, a veces intercuts de un solo fotograma de estática o texto. El público es parte del encuadre, a menudo el sujeto principal. No hay separación entre intérprete y público — esa distinción es lo que los videos de punk intentan romper."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'Mr. Motivator' de IDLES es la plantilla moderna: energía de banda, color, sin pretensión. El 'Holiday' de Turnstile y la serie completa de 'Glow On', dirigida por el miembro Brendan Yates con Ian Hurdle, muestran cómo hacer que el hardcore parezca hermoso sin suavizarlo. El 'Big' de Fontaines DC trae el linaje poético del post-punk al vocabulario actual. Los marcadores anteriores — el 'Smells Like Teen Spirit' de Nirvana dirigido por Samuel Bayer, los planos de 'London Calling' de The Clash por Pennie Smith y el trabajo posterior de Liam Lynch en directo con los Foo Fighters — siguen definiendo cómo debe verse un verdadero mosh pit en cámara. La gramática: sin tomas limpias."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica el tamaño del local. 'Sala de sótano para cien personas, sudor condensándose en el techo bajo, escenario apenas elevado seis pulgadas' le da a Tunee la escala correcta. El público debe estar en casi todos los fotogramas del estribillo, cuerpos borrosos en primer plano. Evita pedir un enfoque limpio o encuadres equilibrados: 'en mano, foco fallido, ocasionalmente el objetivo golpea al público' es un prompt real que funciona. Corta en el golpe de caja, nunca en el tiempo. El punk vive en el segundo tiempo, no en el primero."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Reisemusik-Video-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Reisemusik-Videos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS REISE-MV",
+    "h2": "Ein Trip-Recap, der nicht nur Flughafen-Selfies in einer Reihe ist",
+    "sections": [
+      {
+        "heading": "Warum ein Reise-MV einen Foto-Dump schlägt",
+        "body": "Reise-Content hat ein Halbwertzeitproblem: der Dump geht in der Woche der Reise online, Freunde scrollen dran vorbei, und die Reise ist bis Monat zwei unsichtbar. Ein vertontes MV ist das Format, das den Algorithmus überlebt — es wird beim Abendessen herausgezogen wenn die Reise im Gespräch auftaucht, zum Jahrestag an wen auch immer geschickt, mit dem man gereist ist, und als offizieller Rekord der Reise gehalten statt des zufälligen 400-Foto-Albums in iCloud."
+      },
+      {
+        "heading": "Die Shots, die immer funktionieren",
+        "body": "Reise-Cinematografen kehren immer zu denselben Beats zurück: das Flugzeugflügel-Fenster, Hände auf einer Papierkarte, der Hinterkopf beim Hineingehen in einen Markt, Essen von oben, die Hotel-Zimmerfenster-Enthüllung, die Nahaufnahme der lokalen Währung, der breite Transitbahnsteig-Shot. Das Referenzregal ist gut bereist — Anthony Bourdains Parts Unknown auf CNN, Regie Tom Vitale und gefilmt von Zach Zamboni, Casey Neistats Vlog-Schnitte, Sam Kolders Smash-Cut-Transitionsstil, Wong Kar-wais Hotel-Zimmer-Geometrie in In the Mood for Love, Sofia Coppolas Lost-in-Translation-Tokio-Framing. Der beste einzelne Shot jeder Reise ist selten das Wahrzeichen — es ist der ungestellte Moment in einem Café, dessen Namen man nicht aussprechen kann. Tunee mitteilen, welche drei man als Anker haben möchte."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Keine Städte auflisten — das produziert einen Postkarten-Reel. Stattdessen Tunee einen spezifischen sensorischen Anker für jeden Ort geben: 'Tokioter 7-Eleven um 2 Uhr morgens, Neongrün', 'Marrakesh-Dachterrasse Golden Hour, Hände reißen Brot', 'Reykjavíker Tankstelle, Mitternachtssonne'. Das Modell handhabt Orte besser durch Textur als durch Name."
+      }
+    ]
+  }
 }

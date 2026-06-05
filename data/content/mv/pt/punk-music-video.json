@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe punk para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe punk usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE PUNK",
+    "h2": "O vídeo de punk mantém a câmera honesta ao deixá-la machucada",
+    "sections": [
+      {
+        "heading": "Como é o visual do punk",
+        "body": "Os MVs de punk rejeitam o polimento por princípio. Câmera na mão, frequentemente filmados com qualquer câmera disponível, muitas vezes num local real com uma plateia real. A iluminação é a que o local tinha. A banda toca no volume máximo; o operador de câmera claramente não dormiu o suficiente. Os cortes são bruscos, às vezes com intercuts de frame único de estática ou texto. A plateia é parte do quadro, muitas vezes o sujeito principal. Não há separação entre performer e plateia — essa distinção é exatamente o que os vídeos de punk estão tentando quebrar."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Mr. Motivator' do IDLES é o template moderno — energia da banda, cor, sem pretensão. O 'Holiday' do Turnstile e todo o run 'Glow On', dirigido pelo membro Brendan Yates com Ian Hurdle, mostram como fazer o hardcore parecer bonito sem suavizá-lo. O 'Big' do Fontaines DC traz a linhagem poética do pós-punk para o vocabulário atual. Marcos anteriores — o 'Smells Like Teen Spirit' do Nirvana, dirigido por Samuel Bayer, os registros de 'London Calling' do The Clash por Pennie Smith, e o trabalho ao vivo posterior de Liam Lynch com os Foo Fighters — ainda definem como um pit real na câmera deve parecer. A gramática: nenhuma tomada limpa."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Especifique o tamanho do local. 'Porão com capacidade para cem pessoas, suor condensando no teto baixo, palco mal elevado a quinze centímetros do chão' dá ao Tunee a escala certa. A plateia deve estar em quase todos os frames do refrão, corpos borrados em primeiro plano. Evite pedir foco limpo ou enquadramento equilibrado — 'câmera na mão, foco perdido, membro da plateia ocasionalmente bate na lente' é um prompt real que funciona. Corte no acento do snare, nunca no tempo forte. O punk vive no segundo tempo, não no primeiro."
+      }
+    ]
+  }
 }

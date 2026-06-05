@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunee's Worship-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und mobil zugänglich, sodass du Worship-Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR WORSHIP",
+    "h2": "Worship-Video ist ein eigenes Genre mit seinem eigenen Kanon",
+    "sections": [
+      {
+        "heading": "Wie Worship-Video wirklich aussieht",
+        "body": "Der visuelle Kanon ist klar definiert: Hillsong, Elevation, Bethel, Maverick City — Lyric-betonte Typografie über einer Live-Gemeinde-Aufnahme in warmem Wolfram-Licht, langsame Kamerabewegungen, der Worship-Leader selten im dominanten Bildausschnitt. Die Texte sind wichtig, weil das Publikum mitsingen soll — On-Screen-Text ist nicht verhandelbar, und das Type-Design steht dem Verlagswesen näher als der Kinetik eines Pop-Videos. Die Ästhetik ist intime Live-Performance, kein produziertes Pop-Video."
+      },
+      {
+        "heading": "Shots und Konventionen, die funktionieren",
+        "body": "Wide-Shot der Gemeinde mit erhobenen Händen, sanft unscharf, warmes Key-Licht von der Bühnenbeleuchtung. Medium-Shot des Worship-Leaders, Augen geschlossen, mitten in einer Phrase. Insert-Shot eines einzelnen Gemeindemitglieds in der Bridge — meist älter, meist emotional, bewusst nicht das attraktivste Gesicht im Raum. Liedtext erscheint zeilenweise, zentriert, in einem sauberen Serif oder humanistischen Sans-Serif, mit genug Vorlauf, damit die Gemeinde lesen kann, bevor sie singt. Schnitte fallen auf Phrasenenden, nicht auf den Beat."
+      },
+      {
+        "heading": "Wie Tunee das Worship-Preset handhabt",
+        "body": "Das Worship-Preset ist standardmäßig lyric-betont — jede Zeile des Songs erscheint auf dem Bildschirm mit dem zeilenweisen Reveal-Timing, das das Format verlangt. Die visuelle Basisebene tendiert zu warmbeleuchteten Gemeinde-Shots und sanft beleuchteten Instrumentalisten-Frames, mit optionalen Uploads deiner eigenen Kirchenaufnahmen, um das generierte Material in deiner Gemeinschaft zu verankern. Ausgabe ist 16:9 für die Gottesdienstprojektion plus 9:16 für die Social-Schnitte, die die Sonntagsbesuche werktags antreiben."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un videoclip de Año Nuevo para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu videoclip de Año Nuevo usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV DE AÑO NUEVO",
+    "h2": "Un video de fin de año que no está autogenerado por una app",
+    "sections": [
+      {
+        "heading": "Por qué tu propio MV de fin de año supera al Spotify Wrapped",
+        "body": "Todas las plataformas lanzan ahora un resumen anual autogenerado: útil, olvidable e idéntico para cada usuario. Un MV personal de fin de año es el antídoto: de 60 a 90 segundos que curadas tú mismo, musicalizado con la canción que definió el año en lugar de la que más veces reprodujiste. Las parejas los hacen como sustitutos del aniversario, los freelancers los hacen como recapitulaciones de portfolio, y los grupos de amigos los hacen como el envío del chat grupal del 31 de diciembre."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Los montajes de fin de año viven en tres beats repetidos: tránsito de viaje (puertas de aeropuerto, ventanas de tren, salpicaderos en road trips), comidas compartidas (la mesa desde arriba, el brindis, el primer plano de la vela) y pequeñas victorias (un manuscrito terminado, un hito en el gimnasio, una llave en una puerta nueva). El estante de referencias culturales es ruidoso y específico: la Rockin' Eve de Dick Clark y la tradición de la Bola de Times Square desde 1907, el Jools Holland Hootenanny de la BBC el 31 de diciembre, los fuegos artificiales del Puerto de Sídney y el London Eye producidos por el Pyrotechnics Guild International, la escena de medianoche de Cuando Harry conoció a Sally dirigida por Rob Reiner. Cerrar con un plano general de fuegos artificiales o un beso de medianoche es la decisión obvia — funciona porque todo el mundo lo espera. Apóyate en ello en lugar de evitarlo."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Resiste el impulso de meter doce meses de material en un solo MV: elige de tres a cinco momentos y deja que respiren. Tunee gestiona mejor el ritmo cuando se le dan menos anclas específicas. Un prompt que nombre 'balcón en Lisboa, mañana, julio; sala de espera en el hospital, septiembre; azotea de Año Nuevo, diciembre' produce un montaje más disfrutable que un briefing de puntos-clave del año."
+      }
+    ]
+  }
 }

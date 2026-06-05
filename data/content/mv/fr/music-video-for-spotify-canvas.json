@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales Spotify Canvas de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur Web sur ordinateur de bureau et mobile, vous permettant de créer des vidéos musicales Spotify Canvas depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR SPOTIFY CANVAS",
+    "h2": "Canvas dure de 3 à 8 secondes. La boucle doit être parfaite. Et il ne peut pas avoir son propre audio",
+    "sections": [
+      {
+        "heading": "Ce qu'est vraiment Canvas",
+        "body": "Spotify Canvas est la vidéo verticale en boucle qui se joue derrière un titre sur l'écran En écoute — 3 à 8 secondes, 9:16, sans audio natif (le morceau est l'audio). Le format est une boucle, ce qui signifie que la première et la dernière frame doivent se raccorder proprement, sinon l'utilisateur voit une coupe franche toutes les 8 secondes. La plupart des labels uploadent encore une pochette statique parce que réaliser une boucle de 8 secondes parfaitement raccordée sans monteur représente plus de travail qu'ils ne veulent en faire."
+      },
+      {
+        "heading": "Ce qui fonctionne en 8 secondes",
+        "body": "Trois formats dominent : un portrait au ralenti qui boucle sur une expression maintenue, une texture abstraite (fumée, eau, encre dans du lait) où le point de boucle est invisible, ou un mouvement répétitif unique (un disque qui tourne, une main qui bat, un rideau qui respire) déjà cyclique par nature. Tout ce qui est narratif est inadapté au format — le spectateur n'a aucun contexte audio et seulement 8 secondes. Ambiance, pas histoire."
+      },
+      {
+        "heading": "Comment Tunee rend pour Canvas",
+        "body": "Choisissez le préréglage Canvas et le générateur se contraint à un seul plan cohérent, 8 secondes max, avec la première et la dernière frame forcées à se raccorder. Aucune coupe à l'intérieur du clip. Export en 9:16 à 720p (spec Canvas), MP4, sous 8 Mo. La même génération produit également une capture de frame statique pour la pochette de l'album, afin de mettre à jour l'artwork en même temps que le Canvas dans un seul upload sur Spotify for Artists."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un vídeo musical Synthwave para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu vídeo musical Synthwave usando diferentes prompts o configuraciones de estilo, y luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL SYNTHWAVE",
+    "h2": "El synthwave es un sonido que necesita ser visto",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el synthwave",
+        "body": "El synthwave es el único género con su identidad visual integrada de origen. Nacido de la obsesión de los años 2010 con la ciencia-ficción de los 80 y la nostalgia empapada de neón — Drive, Stranger Things, Hotline Miami — su estética está más codificada que la propia música. Los elementos innegociables: degradados profundos de morado a magenta, horizontes de cuadrícula retro que se alejan hacia el vapor, siluetas de palmeras contra atardeceres de degradado, coches cromados, cielos surcados por rayos. Si el espectador no siente el zumbido cálido de un VHS analógico en los primeros tres segundos, algo ha fallado."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Cuando los directores preparan MVs de synthwave citan los mismos referentes: el 'Sunset' de The Midnight, el 'Outatime' de FM-84, los visuales en vivo de Carpenter Brut, el cortometraje 'Kung Fury', el '2K12' de Magdalena Bay y el 'Turbo Killer' de Seth Ickerman para Carpenter Brut — sigue siendo el escaparate definitivo de un director en el género. El hilo no es el artista, sino el lenguaje del encuadre: horizontes amplios, zoom lento sobre líneas de cuadrícula que se alejan, siluetas de personajes nunca iluminadas de frente, tipografía en cromo con un biselado sutil. El modelo synthwave de Tunee está entrenado en este vocabulario exacto, así que prompts como 'líneas de barrido de VHS analógico sobre un skyline de neón' aterrizan donde apuntaría un director real."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "No luches contra los clichés del synthwave: apóyate en ellos. Especifica el orden de las capas: sujeto en primer plano (artista, coche, palmera), cuadrícula de neón o atardecer en el plano medio, cielo morado con relámpagos distantes en el fondo. Empareja colores explícitamente: 'magenta y cian, sin tonos cálidos'. Luego añade un anacronismo que rompa el hechizo — un satélite estrellado, una valla publicitaria con glitch — para mantener el bucle interesante más allá del primer estribillo. El resultado se lee como compuesto, no generado."
+      }
+    ]
+  }
 }

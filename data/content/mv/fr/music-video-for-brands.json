@@ -39,5 +39,23 @@
       "q": "Comment personnaliser le style visuel de ma vidéo musicale de marque?",
       "a": "Vous pouvez guider les visuels en utilisant des prompts texte décrivant des scènes, des ambiances et des décors. L'IA de Tunee interprète votre entrée et génère des visuels inspirés par l'intégration de marque qui correspondent à votre esthétique de marque."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR MARQUES",
+    "h2": "Le contenu vidéo musical brand-safe est une catégorie que les agences sous-facturent",
+    "sections": [
+      {
+        "heading": "Pourquoi les marques ont besoin de MV qui ne sont pas des pubs",
+        "body": "Un spot produit de 30 secondes sur de la musique de bibliothèque se fait zapper. Une vidéo musicale branded de 60 secondes — même produit, morceau original, véritable identité visuelle — se regarde et se partage. La catégorie existe parce que les algorithmes sociaux favorisent le contenu music-first sur le contenu ad-first, et parce que licencier un vrai tube pour une campagne coûte entre 50 000 et 500 000 € avant même d'avoir tourné un plan. Les MV de marque sont la parade : titre original, visuels sur mesure, la marque intégrée comme un personnage et non comme un flash de logo."
+      },
+      {
+        "heading": "Ce qui fonctionne dans le contenu MV de marque",
+        "body": "Le produit comme élément de décor, pas comme protagoniste : la bouteille sur le comptoir dans une vidéo nightlife, la sneaker aux pieds du danseur dans un clip de street dance, le laptop dans un montage café coworking. Les couleurs de la marque tissées dans l'étalonnage. Un morceau original qui correspond à l'identité sonore sans sonner comme un jingle. Le problème des droits disparaît (vous êtes propriétaire du titre), le budget s'effondre d'un ordre de grandeur, et le contenu survit sur TikTok et YouTube sans la fatigue du tag « Sponsorisé »."
+      },
+      {
+        "heading": "Comment Tunee s'intègre dans le workflow d'une équipe de brand content",
+        "body": "Générez le morceau à partir du brief, les visuels à partir des guidelines de la marque, exportez dans tous les formats dont le calendrier social a besoin, et livrez à l'agence en une semaine plutôt qu'en un trimestre. Le workflow text-to-MV de Tunee est conçu pour ça — un prompt, une bande-son originale, une vidéo musicale, aucune réunion de licensing. Le service juridique obtient une chaîne de droits limpide ; l'équipe social obtient du contenu qu'elle peut réellement diffuser sur plusieurs plateformes."
+      }
+    ]
+  }
 }

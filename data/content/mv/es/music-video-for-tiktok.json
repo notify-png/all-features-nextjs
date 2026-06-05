@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales de TikTok de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en computadoras de escritorio y dispositivos móviles, para que puedas crear videos musicales de TikTok desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA TIKTOK",
+    "h2": "En TikTok, los primeros tres segundos deciden si hay un cuarto",
+    "sections": [
+      {
+        "heading": "Lo que el algoritmo premia de verdad",
+        "body": "La página Para Ti de TikTok no se preocupa por la duración completa de tu video: se preocupa por la curva de retención. El porcentaje de visualización a los 3 segundos y la tasa de reproducción repetida son las dos métricas que deciden si tu video se queda en 200 reproducciones o llega a 200.000. Lo que significa que la apertura convencional del MV — construcción lenta, plano general atmosférico, el artista entra en escena en el segundo 0:20 — es suicidio algorítmico. El hook tiene que aterrizar antes de que el pulgar del espectador se aburra."
+      },
+      {
+        "heading": "El punto óptimo de 15 a 60 segundos, estructurado",
+        "body": "Los creadores que publican música en TikTok han convergido en una forma: apertura en frío con el estribillo (o el hook más pegadizo), 5 segundos de identidad visual, vuelta al hook, terminar en un punto de bucle que impulse una reproducción repetida. 30 segundos es la duración más compartida; 60 es el límite antes de que la retención caiga. El vertical 9:16 es innegociable: el contenido con bandas negras se penaliza en el feed."
+      },
+      {
+        "heading": "Cómo exporta Tunee específicamente para TikTok",
+        "body": "Elige el preset de TikTok y Tunee reestructura el montaje: estribillo primero, voz alta en el primer segundo, hook reenunciado en el segundo 15, fotograma final amigable con el bucle. Obtienes 9:16 nativo (no recortado de 16:9, sino recompuesto), 1080p, MP4 por debajo del límite de subida de TikTok, y la pista de audio exportada por separado para que también puedas subirla como sonido de TikTok y dejar que los creadores hagan duet con ella. Dos assets, una generación."
+      }
+    ]
+  }
 }

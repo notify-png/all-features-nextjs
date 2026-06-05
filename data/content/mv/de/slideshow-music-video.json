@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Slideshow-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Slideshow-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS DIASHOW-MV",
+    "h2": "Die Diashow hat ihren Platz — wenn die Fotos der Punkt sind",
+    "sections": [
+      {
+        "heading": "Was ein Diashow-MV ist",
+        "body": "Ein Diashow-Musikvideo ist eine Sequenz von Standbildern (Fotos, gescanntes Filmmaterial, Screenshots), auf einen Song geschnitten mit einfachen Übergängen — Überblendung, Verschiebung, Ken-Burns-Schwenk-und-Zoom. Das Format wird abgetan, weil die meisten schlecht gemacht werden — auto-generierte Übergänge über dreißig zufällige Handyfotos. Gut gemacht ist es kraftvoll: die Up-Eröffnungsmontage ist eine Diashow in Bewegung, die This-Is-Us-Episodenend-Fotosequenzen, die Vimeo-Staff-Picks-Gedenkvideos, die Menschen für Beerdigungen und Hochzeiten erstellen. Die Disziplin ist Kuration — weniger Bilder, länger gehalten."
+      },
+      {
+        "heading": "Wann man es einsetzt",
+        "body": "Diashow-MV ist das richtige Format für Gedenkvideos, Hochzeitsrecaps, Baby-erstes-Jahr-Compilations, Reise-Reels, Schuljahr-Highlight-Reels, Jubiläumsgeschenke. Der cinematische Höhepunkt des Formats ist die Eröffnungsmontage von Pete Docters Up (2009) — verheiratetes Leben in vier Minuten Standbilder-in-Bewegung. Ken Burns' PBS-Dokumentarfilme (The Civil War, Baseball) standardisierten den Schwenk-und-Zoom-Move auf Archivfotos, der jetzt seinen Namen trägt. NBCs This Is Us-Episodenend-Fotosequenzen. Es funktioniert auch für Heritage-Acts, die Archivmaterial veröffentlichen, Fotografen, die Musik veröffentlichen, und jeden, dessen visuelles Archiv fotografisch ist. Das Format eignet sich besser für emotionalen Pop, akustischen Singer-Songwriter und Ambient-Scoring als für energiereiche Genres."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Tunee die Quelle und das Pacing mitteilen: 'zwölf Fotos insgesamt über 90 Sekunden, langsamer Ken-Burns-Zoom auf jedem, sanfte Überblendungsübergänge, keine kinetische Bewegung'. Die Foto-Behandlung spezifizieren: 'subtile Filmkorn-Überlagerung, leichte Entsättigung für älteres Gefühl, keine Instagram-Stil-Filter'. Übergangs-Timing zur Song-Struktur hinzufügen: 'Fotowechsel auf jedem Akkordwechsel, bei Chorus länger halten'. Streng kuratieren — zwölf richtige Fotos schlagen fünfzig zufällige."
+      }
+    ]
+  }
 }

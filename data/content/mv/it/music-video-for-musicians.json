@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale Musicians?",
       "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI sincronizzerà automaticamente il tuo video musicale Musicians."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER I MUSICISTI",
+    "h2": "Il cantautore solista ha il suo canone visivo silenzioso",
+    "sections": [
+      {
+        "heading": "Perché questa categoria non è 'solo music video'",
+        "body": "Un MV da cantautore non è un video performance di band né un video pop — è una terza cosa. Il canone visivo è intimo: Kyoto di Phoebe Bridgers, Holocene di Bon Iver, Should Have Known Better di Sufjan Stevens. Un solo performer, spesso solo nel frame, bassa saturazione cromatica, take lunghi, un paesaggio o un interno che dice qualcosa sul peso emotivo del brano. L'artista è il soggetto e la location è il secondo personaggio. Non ci sono quasi pirotecnie di montaggio."
+      },
+      {
+        "heading": "Inquadrature che funzionano sempre per il formato",
+        "body": "Un close-up sul cantante che regge per un intero ritornello senza un taglio. Un campo largo che colloca l'artista piccolo in un paesaggio (una spiaggia, un campo, un'autostrada deserta). Una ripresa a passo unico a mano libera, seguendo l'artista da dietro. Un frame statico su mani al pianoforte o alla chitarra. Il pubblico è lì per il brano prima e per l'atmosfera visiva dopo — la misura è l'estetica, non un compromesso di budget."
+      },
+      {
+        "heading": "Dove Tunee si inserisce nel rilascio di un musicista in attività",
+        "body": "I cantautori indipendenti tipicamente non riescono a finanziare un vero video per ogni traccia — ne finanziano uno per album, forse due. Tunee riempie il resto del rollout: lyric video con la stessa palette cromatica del video principale, tagli verticali per Reels e TikTok, Spotify Canvas per ogni traccia, un poster del tour animato su un verso del brano. L'identità visiva rimane coesa su 12 tracce senza 12 giorni di riprese."
+      }
+    ]
+  }
 }

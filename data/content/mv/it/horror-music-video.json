@@ -39,5 +39,23 @@
       "q": "Supporta l'esportazione di video musicali Horror in risoluzione 4K?",
       "a": "Assolutamente. Tunee esporta video musicali Horror fino a risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e display a grande schermo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULL'HORROR MV",
+    "h2": "L'horror funziona su ciò che non mostri",
+    "sections": [
+      {
+        "heading": "Cosa richiede il video horror",
+        "body": "L'horror è il genere in cui la misura batte lo spettacolo. I frame che spaventano sono per lo più vuoti: un corridoio buio con una sola luce pratica in fondo, una figura troppo lontana per essere letta chiaramente, un campo lungo tenuto un battito di troppo. Body horror e gore sono strumenti, non il genere. Le regole visive: ombre profonde con i dettagli schiacciati al nero, camera a mano o bloccata (mai in tracking fluido), color grading freddo o verde malsano, grana che suggerisce pellicola degradata o immagini di sorveglianza."
+      },
+      {
+        "heading": "Da dove viene questo look",
+        "body": "Scaffale di riferimento: il catalogo horror di A24 — i campi simmetrici di Ari Aster in Hereditary e Midsommar, i frame a luce di candela di Robert Eggers in The Witch (VVitch) e The Lighthouse, le inquadrature di horror satirico di Jordan Peele in Get Out e Nope, la tradizione found-footage di Daniel Myrick con Blair Witch, la staticità di Park Chan-wook in Stoker. Video musicali: Come to Daddy di Chris Cunningham per Aphex Twin, Closer di Mark Romanek per Nine Inch Nails, Anvil di Lorn. Riferimenti videoludici: il remake di Resident Evil 2 di Capcom, la nebbia di Silent Hill 2 di Konami. Il modello horror di Tunee è addestrato sullo spazio negativo e sul ritmo lento, non sul sovraccarico di jump scare."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Specifica cosa NON è in campo: 'una figura in profondità, nessun soggetto in primo piano, spazio intermedio vuoto'. Blocca la camera: 'campo lungo fisso, nessun movimento' oppure 'camera a mano tremante, bassa frequenza di fotogrammi'. La fonte di luce conta — 'singola lampadina pratica, zenitale, ombra dura' batte 'buio e spaventoso'. Aggiungi la pellicola: '16mm, leggera vibrazione di gate' per la sensazione di horror analogico. Tieni le inquadrature più a lungo di quanto sembri comodo: l'horror ha bisogno della pausa."
+      }
+    ]
+  }
 }

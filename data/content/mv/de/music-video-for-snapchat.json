@@ -39,5 +39,23 @@
       "q": "Wie kann ich den visuellen Stil meines Snapchat-Musikvideos anpassen?",
       "a": "Du kannst die Visuals durch Text-Eingaben steuern, die Szenen, Stimmungen und Settings beschreiben. Tunees KI interpretiert deine Eingabe und generiert AR-Filter-Ästhetik-inspirierte Visuals, die deinem Snapchat-Look entsprechen."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR SNAPCHAT",
+    "h2": "In Snapchat Spotlight gewinnen schnelle Schnitte und Gesichter",
+    "sections": [
+      {
+        "heading": "Was Spotlight tatsächlich zeigt",
+        "body": "Snapchats Spotlight-Feed ist näher an einem Gen-Z-TikTok als am restlichen Snapchat — algorithmisch, vertikal und belohnt Rewatches. Das Publikum ist jünger, die durchschnittliche Watchtime kürzer als bei TikTok, und der visuelle Kanon ist chaotischer: schnelle Schnitte, gesichtsbetonter Content, AR-Filter-Ästhetik, Textoverlays in Snapchats nativem Sans-Serif. Polierte kinematische MVs schneiden hier schlecht ab. Rohes, kinetisches, charakterbasiertes Content schneidet besser ab."
+      },
+      {
+        "heading": "Konventionen, die Creator herausgefunden haben",
+        "body": "Untersekündige Schnitte in den ersten 5 Sekunden. Das Gesicht des Künstlers im ersten Frame, kein Logo oder Titelkarte. Vertikal 9:16 mit dem Motiv mittig gerahmt — Snapchats UI frisst auf den meisten Handys das untere 15 % des Bildschirms, also das untere Drittel frei halten. On-Screen-Text in kurzen Schüben, keine Lyric-Läufe. Snapchats 60-Sekunden-Cap wird durchgesetzt; die meisten viralen Spotlight-Musikclips sind 20 bis 30 Sekunden lang."
+      },
+      {
+        "heading": "Tunees Snapchat-Preset, konkret",
+        "body": "Wähle Snapchat und der Renderer neigt zur Grammatik der Plattform: höhere Schnittfrequenz (Durchschnitt 0,6 Sekunden gegenüber 1,8 beim YouTube-Preset), gesichtsbetonte Motivführung, unteres Drittel für UI-Sicherheit reserviert, und der Hook wird an der 15-Sekunden-Marke wiederholt, um eine Rewatch-Schleife anzutreiben. Ausgabe ist 9:16 1080p MP4 unter Spotlights 60-Sekunden-Cap. Dieselbe Generierung exportiert auch ein vertikales 1:1 für Snapchat Discover, falls du bezahlte Platzierung schaltest."
+      }
+    ]
+  }
 }

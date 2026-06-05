@@ -39,5 +39,23 @@
       "q": "Fonctionne-t-il avec n'importe quel genre musical, ou uniquement le Pop ?",
       "a": "Tunee prend en charge un large éventail de genres et de styles visuels au-delà du Pop. Vous pouvez générer des clips vidéo musicaux pour la pop, le hip-hop, la musique classique et des dizaines d'autres styles en utilisant la même plateforme."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU POP",
+    "h2": "Le clip pop fixe le plafond budgétaire de tous les autres genres",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le pop",
+        "body": "Les MV pop offrent la densité de production la plus élevée du format. Plusieurs décors sur mesure, arcs vestimentaires complets, fils narratifs, équipes de chorégraphie, parfois un étalonnage digne d'un long-métrage. L'artiste est au centre de chaque composition sauf délibérément mis en retrait pour des raisons narratives. Les univers colorimétriques changent par section mais servent toujours l'arc émotionnel du morceau. Le pop est le seul genre où le public accepte une vidéo de quatre minutes qui a coûté plus par minute qu'un film Marvel, tant que l'accroche atterrit."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Bejeweled » et « Anti-Hero » de Taylor Swift, tous deux réalisés par Swift avec l'influence de longue date de Joseph Kahn, montrent la narration à grande échelle. « vampire » et « bad idea right? » d'Olivia Rodrigo, réalisés par Petra Collins, prouvent qu'un concept unique exécuté avec engagement surpasse le spectacle. « Houdini » de Dua Lipa remet la chorégraphie de danse au centre du pop. « Espresso » de Sabrina Carpenter, réalisé par Bardia Zeinali, ressuscite la tradition plus légère des set-pieces, tandis que le travail de Dave Meyers pour Travis Scott et Kendrick Lamar reste le gold standard de l'industrie. Le fil conducteur : l'intentionnalité — chaque frame a été débattue par dix personnes."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Traitez l'arc narratif du morceau comme le squelette du storyboard. Promptez Tunee pour des décors distincts par section : chambre-couplet, couloir-pré-refrain, scène-refrain, rooftop-pont. Le costume doit changer avec l'univers. Nommez l'époque que vous ciblez — « palette bonbon Katy Perry mi-2010s » ou « théâtralité pastel Sabrina Carpenter actuelle » — pour que les références visuelles atterrissent. Symétrie sur le drop du refrain. Fermez toujours sur un frame iconique unique que le public peut encore visualiser une semaine plus tard."
+      }
+    ]
+  }
 }

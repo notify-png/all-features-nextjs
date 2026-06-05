@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale per matrimoni per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale per matrimoni utilizzando prompt diversi o impostazioni di stile diverse, poi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL WEDDING MV",
+    "h2": "Trasforma la canzone del matrimonio in un ricordo che non resta nel cassetto",
+    "sections": [
+      {
+        "heading": "Perché un wedding MV batte una slideshow",
+        "body": "Il film ufficiale è troppo lungo da condividere, il reel del fotografo troppo generico, la slideshow della zia inguardabile. Un MV AI da 60-90 secondi occupa lo spazio vuoto tra questi tre formati: abbastanza corto da postare su Instagram la mattina dopo, sincronizzato sul brano del primo ballo, costruito intorno ai momenti che hanno davvero contato."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "Il close-up dell'anello con il collasso del fuoco, il dettaglio dell'abito nella luce dorata, la rivelazione della sposa dal punto di vista dei genitori, il primo bacio dall'in fondo alla navata, l'inquadratura con teleobiettivo della folla durante l'ovazione. I riferimenti: i pionieri del Cinematic Bride come Steven Bradford, i film one-shot virali di Brett Loudermilk, The Fall di Tarsem Singh, Magmod e Vanlife Films, i ritratti di famiglia di Annie Leibovitz."
+      },
+      {
+        "heading": "Rendilo il regalo",
+        "body": "L'MV di matrimonio più utile è quello che invii a chi non è riuscito a esserci. Il 9:16 verticale del ricevimento, con la canzone che ha definito la serata, esportato il giorno dopo. Tunee genera 9:16, 16:9 e 1:1 da un'unica generazione — così il ricordo funziona sul messaggio del mattino, sul post pubblico e sul grande schermo in salotto all'anniversario."
+      }
+    ]
+  }
 }

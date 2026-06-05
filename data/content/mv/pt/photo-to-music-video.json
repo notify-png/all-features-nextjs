@@ -39,5 +39,23 @@
       "q": "Posso criar um vídeo de música Photo to MV sem qualquer experiência em edição de vídeo?",
       "a": "Sim — a IA do Tunee cuida de toda a produção de vídeo automaticamente. Apenas faça upload de seu áudio ou digite um prompt de texto, escolha um estilo Photo to MV, e a IA gera seu vídeo em minutos."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "FOTO PARA MV",
+    "h2": "Transforme uma pasta de fotos num videoclipe que realmente corta",
+    "sections": [
+      {
+        "heading": "Por que a maioria das ferramentas de foto-para-vídeo produz slideshows",
+        "body": "O gênero tem má reputação por uma razão: 'foto para vídeo' geralmente significa pan-e-zoom estilo Ken Burns em cada still, um crossfade e uma trilha royalty-free por baixo. É a estética do DVD de casamento, e ela não sobrevive num feed onde o TikTok corta a cada 1,5 segundo. A solução não é um pacote de transições mais sofisticado — é animar a própria foto para que cada still se torne um plano em movimento, depois cortar entre esses planos na batida."
+      },
+      {
+        "heading": "O que o Tunee faz com as suas fotos",
+        "body": "Faça upload de até 20 fotos (fotos de show, bastidores, polaroids, qualquer coisa) e o Tunee trata cada uma como uma semente de geração, não como um frame final. Cada foto recebe um passe de movimento curto — um push com paralaxe, um dolly com rastreamento do sujeito, um arco de câmera sutil — e os clipes resultantes são cortados para a sua música. Os rostos permanecem consistentes. O pan estilo DVD de casamento desaparece. O que você recebe de volta realmente parece material filmado, não stills com uma transição Hollywood Edge entre eles."
+      },
+      {
+        "heading": "Quando esse fluxo de trabalho vence",
+        "body": "Três casos de uso funcionam muito bem: artistas com um arquivo de fotos forte mas sem orçamento para vídeo, vídeos tributo onde o material-fonte são impressões de décadas atrás, e recapitulações de turnê onde o fotógrafo de estrada tirou 5.000 stills e zero clipes. Jogue-os no Tunee, escolha a música, selecione 9:16 ou 16:9, e as fotos fazem o trabalho que o material filmado normalmente faria. O resultado é curto — de 60 a 90 segundos — porque é o tamanho em que esse truque permanece convincente."
+      }
+    ]
+  }
 }

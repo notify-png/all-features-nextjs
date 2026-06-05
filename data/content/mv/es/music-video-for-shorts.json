@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales de YouTube Shorts de Tunee en dispositivos móviles?",
       "a": "Tunee es totalmente accesible a través del navegador web en computadoras de escritorio y dispositivos móviles, por lo que puedes crear videos musicales de YouTube Shorts desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA SHORTS",
+    "h2": "YouTube Shorts no es TikTok con un logo diferente — el público mira de otra manera",
+    "sections": [
+      {
+        "heading": "Qué premia Shorts de verdad",
+        "body": "Las curvas de retención de Shorts son más planas que las de TikTok: los espectadores te dan entre 5 y 7 segundos antes de deslizar, no 3. El shelf de Shorts también se inclina más hacia el descubrimiento musical que el For You de TikTok, que favorece el diálogo y los formatos meme. Para los músicos, esta es la plataforma de formato corto más generosa: una apertura en frío con el hook de la canción sigue funcionando, pero no necesitas ser tan agresivo con el front-loading. 60 segundos es el límite absoluto; de 30 a 45 es la franja más vista."
+      },
+      {
+        "heading": "Convenciones que se trasladan desde YouTube",
+        "body": "Dado que los espectadores de Shorts suelen llegar desde el canal de formato largo de un creador, la coherencia de marca importa más que en TikTok. La paleta del colorista de tu video principal, el mismo personaje o localización, la misma tipografía en pantalla: todo esto crea un hilo visual entre el Short y el MV de 4 minutos que está promocionando. Trata el Short como un tráiler del video completo, no como una pieza de contenido separada con su propia identidad visual."
+      },
+      {
+        "heading": "Cómo gestiona Tunee la división Shorts/YouTube",
+        "body": "Genera el MV completo una vez, luego selecciona la exportación de Shorts y Tunee lo remonta a 60 segundos, reencuadra a 9:16 (con recomposición con seguimiento del sujeto, no un recorte central) y selecciona automáticamente el segmento de hook más potente. La sincronía de audio se mantiene intacta. Obtienes un Short que genuinamente proviene del mismo video, que es exactamente lo que el shelf de Shorts está diseñado para premiar."
+      }
+    ]
+  }
 }

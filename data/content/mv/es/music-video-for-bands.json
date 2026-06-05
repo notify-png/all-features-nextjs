@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi vídeo musical de banda?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y el AI sincronizará automáticamente con tu vídeo musical de banda."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA BANDAS",
+    "h2": "Las bandas necesitan material de actuación que no puedan permitirse seguir rodando",
+    "sections": [
+      {
+        "heading": "El problema real del MV de banda",
+        "body": "Un cuarteto que hace un MV de actuación completo necesita como mínimo cinco personas (la banda más el operador de cámara), un espacio, una configuración multicámara y un día entero. Eso sale entre 2.000 y 8.000 dólares cuando ya está etalonado — para una canción que puede acumular 12.000 reproducciones. La economía solo funciona para artistas firmados, que es por qué la mayoría de las bandas independientes reciclan los mismos dos videos de actuación durante años. El hueco que llena una herramienta de IA no es reemplazar el material de actuación en vivo — es rellenar el lanzamiento del álbum entre el único rodaje real que puedes permitirte."
+      },
+      {
+        "heading": "Los planos que el canon del MV de banda usa de verdad",
+        "body": "Primer plano de la mano izquierda del guitarrista en un cambio de acorde. El batería desde arriba durante un fill. El vocalista en plano medio con una luz de espalda dura en una nota alta. Un tirón hacia atrás durante el último estribillo que revela la sala vacía. Los MVs de actuación no necesitan narrativa — necesitan los cuatro o cinco planos que, bien cortados, hacen que una banda parezca una banda. El modelo de banda de Tunee está entrenado en este canon, así que prompts como 'cuarteto en un escenario pequeño, una luz clave, sin público, grano de 16mm' aterrizan donde lo haría un director de fotografía."
+      },
+      {
+        "heading": "Dónde encaja Tunee en el ciclo de lanzamiento de la banda",
+        "body": "Con el lanzamiento del single, tienes un video real. El álbum tiene 11 canciones más que necesitan assets visuales para completar el lanzamiento: lyric videos, loops de actuación para Instagram, cortes verticales para la promo de TikTok, Spotify Canvas para cada pista. Ahí es donde Tunee se gana su lugar: no reemplazando el video dirigido, sino generando los 30 assets suplementarios que el algoritmo exige ahora que un solo video ya no es suficiente."
+      }
+    ]
+  }
 }

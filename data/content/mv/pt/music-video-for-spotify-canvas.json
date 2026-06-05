@@ -39,5 +39,23 @@
       "q": "O gerador de vídeo de música Spotify Canvas do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, então você pode criar vídeos de música Spotify Canvas de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA SPOTIFY CANVAS",
+    "h2": "O Canvas tem de 3 a 8 segundos. Precisa fazer loop. E não pode ter áudio próprio",
+    "sections": [
+      {
+        "heading": "O que o Canvas realmente é",
+        "body": "O Spotify Canvas é o vídeo vertical em loop que toca atrás de uma faixa na tela Agora Tocando — de 3 a 8 segundos, 9:16, sem áudio nativo (a música é o áudio). O formato é um loop, o que significa que o primeiro e o último frame precisam corresponder com precisão ou o usuário vê um corte duro a cada 8 segundos. A maioria das gravadoras ainda faz upload de uma capa de álbum estática porque acertar um loop transparente de 8 segundos sem editor dá mais trabalho do que vale."
+      },
+      {
+        "heading": "O que funciona em 8 segundos",
+        "body": "Três formatos dominam: um retrato em câmera lenta que faz loop numa expressão sustentada, uma textura abstrata (fumaça, água, tinta no leite) onde o ponto de loop é invisível, ou um único movimento repetido (um disco girando, uma mão batendo, uma cortina respirando) que já é cíclico. Qualquer coisa narrativa está errada para o formato — o espectador não tem contexto de áudio e tem apenas 8 segundos. Humor, não história."
+      },
+      {
+        "heading": "Como o Tunee renderiza para o Canvas",
+        "body": "Escolha o preset Canvas e o gerador se restringe a um único plano coerente, máximo de 8 segundos, com o primeiro e o último frame forçados a combinar. Sem cortes dentro do clipe. A saída é 9:16 em 720p (spec do Canvas), MP4, abaixo de 8MB. A mesma geração de origem produz um quadro estático de capa de álbum para que você possa atualizar o artwork junto com o Canvas em um único upload para o Spotify for Artists."
+      }
+    ]
+  }
 }

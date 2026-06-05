@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à mon clip musical Apple Music ?",
       "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement avec votre clip musical Apple Music."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR APPLE MUSIC",
+    "h2": "Les vidéos Apple Music obéissent à un format à part entière",
+    "sections": [
+      {
+        "heading": "Ce qu'Apple demande réellement",
+        "body": "Apple Music propose trois surfaces vidéo : la vidéo musicale standard (distribuée via le distributeur de l'artiste, généralement en 16:9 1080p ou 4K), Motion Lyrics (un format vertical centré sur les paroles qui anime chaque ligne au fil de la chanson), et Spatial Video pour Vision Pro (profondeur 3D, 9:16 ou 16:9, encore modeste mais en pleine croissance). Les exigences techniques sont plus strictes que celles de YouTube — le contrôle qualité d'Apple rejette réellement des vidéos pour non-conformité aux spécifications."
+      },
+      {
+        "heading": "Ce que Motion Lyrics récompense",
+        "body": "Motion Lyrics est le format que la plupart des labels sous-exploitent. Il est vertical, s'affiche en plein écran sur iPhone, et Apple le met en avant éditorialement dans ses playlists. Le canon visuel est subtil : un arrière-plan texturé unique (grain cinéma, dégradé, particules lentes), le texte des paroles dans une police qui s'aligne sur l'identité de l'album, une animation ligne par ligne qui se cale sur l'entrée des syllabes. Pas de karaoké mot à mot — des révélations ligne entière synchronisées sur les entrées vocales."
+      },
+      {
+        "heading": "Comment Tunee gère les formats Apple",
+        "body": "Le préréglage Apple Music produit trois livrables depuis une seule génération : un 16:9 4K pour le créneau MV standard, un cut Motion Lyrics en 9:16 avec révélations ligne par ligne sur votre fond choisi, et un MP4 avec carte de profondeur Spatial-compatible pour la surface Vision Pro. Les trois sont conformes aux spécifications de téléversement Apple via distributeur. Le timing des paroles réutilise l'alignement que Tunee effectue déjà dans le workflow paroles-vers-MV, vous évitant de tagger le morceau deux fois."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Generator für vertikale Musikvideos auf mobilen Geräten?",
       "a": "Tunee ist vollständig über den Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du von jedem Gerät aus vertikale Musikvideos erstellen kannst – ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS VERTIKALE MV",
+    "h2": "Vertikal ist kein Beschnitt — es ist eine andere Komposition",
+    "sections": [
+      {
+        "heading": "Was vertikal wirklich verlangt",
+        "body": "Vertikales Musikvideo ist mobile-first 9:16-Komposition, designed für TikTok, Instagram Reels, YouTube Shorts und Spotify Canvas. Der Fehler ist, horizontal zu drehen und zu beschneiden — vertikal verlangt Einzelmotiv-Zentrierung, Aktion von oben nach unten statt von links nach rechts, und auf Daumen-Scroll-Aufmerksamkeit getaktete Schnitte. Der erste Frame muss das Scrollen innerhalb einer Sekunde stoppen. Das untere Drittel hält oft Caption-Raum. Das Format hat jetzt seine eigene Sprache, klar unterschieden vom Horizontalen."
+      },
+      {
+        "heading": "Wann man es einsetzt",
+        "body": "Vertikales MV ist für jede Veröffentlichung 2026 nicht verhandelbar — jede Single braucht einen vertikalen Schnitt. Spezifische Anwendungsfälle: TikTok-Release-Day-Promo (oft der wichtigste Discovery-Kanal der Single), Reels und Shorts wo Horizontales letterboxed und ignoriert wird, Spotify Canvas 8-Sekunden-Loops, Vertikale Werbetafeln auf dem Times Square und Tokios Shibuya Crossing, In-Feed-Ads. Native vertikale Creator der Nennung wert: Khaby Lames stilles Reaktionsformat, Charli D'Amelios Tanz-first-Frame, Devon Rodriguez' Portrait-Enthüllungen. Acts, deren Karrieren vertikal-first aufgebaut wurden: Doja Cat, Olivia Rodrigo, Lil Nas X' Old-Town-Road-TikTok-Run, Ice Spice. Apples Shot-on-iPhone-vertikale Kampagnen beweisen, dass das Format kein Hack ist. Vertikal ist jetzt das primäre Format, nicht das sekundäre."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Von Anfang an für 9:16 komponieren: 'vertikaler 9:16-Frame, Einzelmotiv zentriert, Aktion bewegt sich von oben nach unten (Figur steigt auf, Partikel fallen)'. Den Hook vorladen: 'erste 2 Sekunden: extreme Nahaufnahme, harte Farbe, Bewegung'. Das untere 15 % für Caption-Sicherheit reservieren: 'keine kritischen Details im unteren 15 % des Frames'. Tunee rendert 9:16, 16:9 und 1:1 aus einer Generierung — ein einziger Prompt deckt TikTok, YouTube und Instagram Square ohne Neudreh."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéoclips Rock de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur Web sur ordinateur de bureau et mobile, ce qui vous permet de créer des vidéoclips Rock depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU ROCK",
+    "h2": "Le clip rock vit ou meurt selon que le groupe ressemble à un groupe",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le rock",
+        "body": "Les MV rock sont principalement axés sur la performance, mais les meilleurs font sentir que le groupe est une unité, pas quatre personnes dans la même pièce. Plans larges incluant tous les membres sur scène, plans moyens captant le contact visuel entre le bassiste et le batteur, gros plans sur les mains sur les cordes. L'éclairage est théâtral — rigs de scène, stroboscopes, fumée, contre-jour dur qui transforme le chanteur en silhouette pendant le pont. Les vêtements sont cohérents avec l'identité du groupe, jamais surstylistés."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« The Pretender » et « Walk » des Foo Fighters, tous deux réalisés par Sam Brown avec la lignée antérieure de « Everlong » de Mark Romanek, sont le blueprint moderne du rythme de MV rock de stade. « Heat Above » de Greta Van Fleet apporte l'imagerie revival arena 70s dans le cadre actuel. « Limbo » de Royal Blood prouve qu'un duo peut remplir un écran si la caméra les respecte. « Lonely Boy » des Black Keys, Wolfmother et Highly Suspect complètent le vocabulaire actuel. Les textes antérieurs — « Bohemian Rhapsody » de Queen, « Start Me Up » des Stones, et le travail stark d'Anton Corbijn avec U2 (« One ») et Joy Division — enseignent encore à quoi ressemble vraiment le charisme de scène à l'écran."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Placez d'abord le groupe dans ses relations physiques les uns avec les autres. « Batteur au centre fond sur une estrade surélevée, bassiste côté jardin, guitariste côté cour, chanteur sur le bord de la scène » crée une géométrie de scène réelle que Tunee peut tenir d'un plan à l'autre. Ajoutez un éclairage précis : « contre-jour dur depuis l'arrière-scène, deux faisceaux croisés rouges depuis les coulisses, brume ». Coupez sur la caisse claire, pas sur la grosse caisse. Réservez le plan au ralenti pour un seul moment — généralement le premier temps du second refrain."
+      }
+    ]
+  }
 }

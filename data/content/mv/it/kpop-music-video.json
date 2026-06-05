@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale K-pop da confrontare?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale K-pop utilizzando prompt diversi o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL K-POP",
+    "h2": "Il video K-pop è il formato visivo più ingegnerizzato della musica",
+    "sections": [
+      {
+        "heading": "Come appare il K-pop",
+        "body": "Gli MV K-pop sono costruiti come architettura. Ogni set è su misura, ogni cambio d'abito è mappato a una sezione del brano, ogni movimento di camera è coreografato insieme alla danza. Il mix ha sempre almeno tre livelli: coreografia su un set, cutaway narrativi con battute di storia, e scene-concept in cui i membri appaiono in ambienti solisti stilizzati. I mondi cromatici cambiano drasticamente nel corso dei quattro minuti. La simmetria è legge durante il ritornello. L'asimmetria torna nelle strofe per tenere in movimento l'occhio."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Super Shy' e 'Ditto' delle NewJeans, plasmati dalla direttrice creativa di ADOR Min Hee-jin e girati da Shin Woo-seok di Naive Production, definiscono l'ondata naturalista attuale — palette più morbide, meno spettacolo, più carattere. 'Drama' di aespa, diretta da Sun Choi, va nella direzione opposta: set massimalista, world-building, montaggi densi. 'Blood Sweat and Tears' dei BTS rimane il riferimento per l'ambizione narrativa. 'How You Like That' delle BLACKPINK, diretta da Seo Hyun-seung, dimostra come far sembrare quattro membri e un set un evento globale. 'Tomboy' delle (G)I-DLE e 'God's Menu' degli Stray Kids, insieme alla cinematografia guidata dalla coreografia di Beasts and Natives Alike, completano il vocabolario attuale."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Pianifica quattro mondi, non uno. Abbozza il set del ritornello, l'ambiente della strofa, la stanza-concept del bridge e lo spazio dell'outro — poi genera con Tunee ognuno con palette cromatica e cambio d'abito espliciti. L'inquadratura simmetrica sul drop dell'hook è irrinunciabile. Per la sezione di danza, nomina la formazione: 'apertura a V che si trasforma in linea, scatto a quattro battute in diamante'. Le scene-concept soliste dovrebbero leggere come editoriali di moda, non come still delle scene di gruppo."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video musical Neon Noir para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video musical Neon Noir usando diferentes prompts o configuraciones de estilo, y luego seleccionar la versión que mejor se adapte a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV NEON NOIR",
+    "h2": "El neon noir es el primo más tranquilo y peligroso del cyberpunk",
+    "sections": [
+      {
+        "heading": "La distinción del neon noir",
+        "body": "El neon noir se solapa con el cyberpunk en la paleta de color, pero el encuadre es opuesto: cerrado, lento, impulsado por el personaje en lugar de amplio y a escala de ciudad. Piensa en una figura solitaria en un coche aparcado, el neón magenta sangra a través del parabrisas, la lluvia rueda por el cristal en tomas largas. La regla es una fuente de luz por plano, normalmente de color, sosteniendo el encuadre en sombra profunda. El ritmo es fúnebre. La historia está implícita, nunca narrada. Son pinturas de Edward Hopper si Hopper hubiera usado un Cooke Anamorphic."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "El canon es pequeño y específico: Drive (2011) de Nicolas Winding Refn, Only God Forgives y The Neon Demon — el guion de color en rosa y cian del compositor Cliff Martinez es la mitad del look. Heat y Collateral de Michael Mann para el Los Ángeles nocturno. In the Mood for Love y Chungking Express de Wong Kar-wai para el color y la añoranza. Decision to Leave de Park Chan-wook para el encuadre contenido. Videos musicales: el Out of Time de The Weeknd dirigido por Cliqua, el National Anthem de Lana Del Rey dirigido por Anthony Mandler. El modelo neon noir de Tunee está entrenado en retenciones lentas, iluminación de fuente única y retratos de poca profundidad de campo, distinto de la densidad de plano general del cyberpunk."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica cámara lenta: 'plano estático' o 'travelling lento de entrada, 3 segundos por movimiento'. Fija a una sola fuente de luz: 'neón magenta único desde la derecha del encuadre, el resto de la escena en sombra profunda'. Añade 'lluvia en el cristal, primer plano' para la textura característica del género. Encuadra de cerca: 'plano medio-cercano, hombros en el encuadre, cabeza ligeramente recortada'. Evita los planos generales de ciudad: ese es el territorio del cyberpunk. El neon noir es un género de retrato vestido con los colores del cyberpunk."
+      }
+    ]
+  }
 }

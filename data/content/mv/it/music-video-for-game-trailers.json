@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un videoclip musicale Game Trailers per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo videoclip musicale Game Trailers utilizzando diversi prompt o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER TRAILER DI GIOCHI",
+    "h2": "Un trailer di gioco musicato con un brano personalizzato colpisce più forte del gameplay con una traccia di archivio",
+    "sections": [
+      {
+        "heading": "Perché i trailer di giochi musicali funzionano",
+        "body": "Il genere che ha definito questo è ben noto: il trailer 'Believe' di Halo 3, la cinematica 'A Night to Remember' di The Witcher 3, ogni pezzo E3 di Bethesda. Il pattern è costante — un pezzo di musica forte, visual cinematografiche che non mostrano il gameplay, lore in primo piano senza svelare la trama. Il trailer funziona come un music video per il mondo del gioco, il che è una richiesta fondamentalmente diversa da uno sizzle reel di gameplay. Gli studi indie saltano questo perché il budget musicale e quello cinematografico sembrano irraggiungibili."
+      },
+      {
+        "heading": "Il canone del trailer cinematografico",
+        "body": "Build lento fino alla title card, un singolo personaggio eroe presentato in silhouette, un campo largo che vende la scala del mondo, un montaggio tagliato sulla frase musicale in ascesa, un momento di silenzio prima del colpo finale, il titolo del gioco e la data di uscita come risoluzione. Il ritmo è operistico — più vicino a un trailer cinematografico che a un music video, ma la musica svolge lo stesso lavoro strutturale che farebbe una voce in un MV normale. Il trailer è modellato dalla canzone, non il contrario."
+      },
+      {
+        "heading": "Dove Tunee si guadagna il posto nella pipeline",
+        "body": "Genera la colonna sonora dal brief d'atmosfera del gioco (orchestrale, dark synth, corale, post-rock — qualunque cosa il mondo richieda), genera le visual cinematografiche da upload di concept art e un prompt che descrive il mondo, taglia il trailer sulla struttura del brano. Gli studi indie passano dall'assenza di trailer a un pezzo d'annuncio guardabile in giorni invece che in mesi. Gli studi AAA usano Tunee per le prime pitch deck e le demo interne prima che il vero team cinematografico riceva il via libera."
+      }
+    ]
+  }
 }

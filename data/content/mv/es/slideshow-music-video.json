@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales de presentación de diapositivas de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en computadoras de escritorio y dispositivos móviles, por lo que puedes crear videos musicales de presentación de diapositivas desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV SLIDESHOW",
+    "h2": "El slideshow tiene su lugar — cuando las fotos son el punto",
+    "sections": [
+      {
+        "heading": "Qué es un MV slideshow",
+        "body": "El videoclip slideshow es una secuencia de imágenes fijas (fotos, película escaneada, capturas de pantalla) cortadas a una canción con transiciones simples: fundido, empuje, paneo-y-zoom Ken Burns. El formato se descarta porque la mayoría se hacen mal con transiciones autogeneradas sobre treinta fotos aleatorias del móvil. Bien hecho, es poderoso: el montaje inicial de Up es un slideshow en movimiento, las secuencias de fotos al final de episodio de This Is Us, los reels tributo de Vimeo Staff Picks que la gente hace para funerales y bodas. La disciplina es la curación: menos imágenes sostenidas más tiempo."
+      },
+      {
+        "heading": "Cuándo usarlo",
+        "body": "El MV slideshow es el formato correcto para videos memoriales, resúmenes de boda, compilaciones del primer año del bebé, reels de viaje, reels de lo mejor del año escolar, regalos de aniversario. La cota cinemática del formato es el montaje inicial de Up (2009) de Pete Docter — una vida de pareja en cuatro minutos de imágenes-en-movimiento. Los documentales de PBS de Ken Burns (The Civil War, Baseball) estandarizaron el movimiento de paneo-y-zoom sobre fotos de archivo que ahora lleva su nombre. Las secuencias de fotos al final de episodio de NBC's This Is Us. También funciona para actos de herencia que lanzan material de legado, fotógrafos que lanzan música, cualquiera cuyo archivo visual sea fotográfico. El formato se adapta mejor al pop emocional, al cantautor acústico y a la música ambiental que a los géneros de alta energía que necesitan cortes con match de movimiento."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Dile a Tunee la fuente y el ritmo: 'doce fotografías en total a lo largo de 90 segundos, zoom lento Ken Burns en cada una, transiciones con fundido cruzado suave, sin movimiento cinético'. Especifica el tratamiento fotográfico: 'superposición sutil de grano de película, ligera desaturación para dar sensación antigua, sin filtros estilo Instagram'. Añade el timing de transición a la estructura de la canción: 'cambio de foto en cada cambio de acorde, sostén más tiempo en el estribillo'. Curación dura: doce fotos correctas superan a cincuenta aleatorias."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "O gerador de vídeos musicais do YouTube do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e dispositivos móveis, permitindo que você crie vídeos musicais do YouTube de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA YOUTUBE",
+    "h2": "O YouTube é a única plataforma onde o MV na íntegra ainda vence",
+    "sections": [
+      {
+        "heading": "Por que 16:9 e o formato mais longo ainda importam aqui",
+        "body": "Fora do YouTube, o videoclipe foi comprimido em clipes verticais de 60 segundos. No YouTube, o formato original ainda é o dominante — 16:9, de 3 a 5 minutos, assistido numa TV ou laptop de fundo. O algoritmo da plataforma recompensa o tempo de visualização em minutos, não a retenção em segundos, o que significa que um MV de 4 minutos que mantém 60% vale mais do que dez cortes de 30 segundos com 90% de retenção. A matemática favorece deixar a música respirar."
+      },
+      {
+        "heading": "Como é o cânone do MV no YouTube",
+        "body": "Abra com uma intro fria (os vídeos de Childish Gambino de Hiro Murai, os cortes de 21 Savage de Dave Meyers, qualquer coisa que Cole Bennett dirija para o Lyrical Lemonade) — de 5 a 15 segundos de estabelecimento de cena antes da primeira batida. Segure os planos de estabelecimento mais do que você faria no TikTok. Mereça o close. Termine com uma tag, um card de saída ou um corte para os créditos — o espectador do YouTube está condicionado a assistir até o card final."
+      },
+      {
+        "heading": "O preset YouTube do Tunee, especificamente",
+        "body": "Escolha YouTube e o renderizador gera 16:9 em 4K, com uma janela de intro mais longa, duração média de corte mais lenta (1,8 segundos versus 0,9 no preset TikTok), e uma linha do tempo em capítulos se a sua música tem seções claras. MP4 pronto para upload, H.264, áudio em 320 kbps AAC. Quadros de captura de thumbnail nos picos visuais são gerados automaticamente para que você não precise percorrer a linha do tempo tentando encontrar o momento que vende o clique."
+      }
+    ]
+  }
 }

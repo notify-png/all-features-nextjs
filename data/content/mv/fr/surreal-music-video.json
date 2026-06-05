@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéoclip de musique surréaliste pour les comparer?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip de musique surréaliste en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU MV SURRÉALISTE",
+    "h2": "La vidéo surréaliste a besoin d'une logique interne pour vraiment atterrir",
+    "sections": [
+      {
+        "heading": "Ce qui sépare le surréaliste du hasard",
+        "body": "Surréaliste ne signifie pas « des trucs bizards arrivent au hasard ». La pipe de Magritte et les montres de Dali fonctionnent parce que le métier pictural est conventionnel — lumière propre, matières réelles, composition traditionnelle — tandis qu'un seul élément viole la physique ou l'échelle. C'est le contraste qui produit le rêve. Le surréaliste généré par IA échoue souvent en allant dans le hasard partout, ce que le cerveau lit comme un glitch plutôt que comme un rêve. La règle : choisissez une chose impossible par plan et rendez tout le reste avec un réalisme documentaire autour."
+      },
+      {
+        "heading": "D'où vient ce look",
+        "body": "Liste de références : Salvador Dali et René Magritte pour le canon pictural, Meshes of the Afternoon de Maya Deren, Eraserhead de David Lynch, Mulholland Drive et les séquences Black Lodge de Twin Peaks, les effets pratiques d'Eternal Sunshine de Michel Gondry (plus ses vidéos pour Björk), Being John Malkovich et Her de Spike Jonze, I'm Thinking of Ending Things de Charlie Kaufman. Clips musicaux : les pièces de Gondry pour Björk — Bachelorette et Hunter, le catalogue co-réalisé par Damian Kulash pour OK Go (Here It Goes Again), le Donkey Rhubarb d'Aphex Twin par Chris Cunningham. Le modèle surréaliste de Tunee est entraîné pour garder un élément impossible pendant que le reste est rendu en photoréaliste — la formule qui fonctionne vraiment."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Structurez les prompts comme « scène réaliste + un élément impossible » : « cuisine photoréaliste, lumière douce par la fenêtre, évier rempli de poissons rouges flottants à la place de l'eau ». Ne cassez pas l'éclairage ou l'échelle du côté réaliste — la logique du rêve vient du contraste. Référencez l'auteur de la logique onirique si vous avez une cible : « zoom lent lynchien, pièce légèrement trop longue pour ses proportions ». Évitez « surréaliste et onirique » comme adjectifs ; ils poussent vers le chaos."
+      }
+    ]
+  }
 }

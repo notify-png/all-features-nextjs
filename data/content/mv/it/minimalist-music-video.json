@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali minimalisti di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite web browser sia su desktop che su dispositivi mobili, quindi puoi creare video musicali minimalisti da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL MINIMALIST MV",
+    "h2": "Il minimalismo è il brief più difficile da realizzare davvero",
+    "sections": [
+      {
+        "heading": "Cosa significa davvero minimalismo",
+        "body": "Il video minimale non è 'meno roba' — è spazio negativo intenzionale che regge un singolo soggetto con composizione rigorosa. I film di prodotto di Apple sono il riferimento: un oggetto, sfondo a curva infinita, una direzione della luce, micro-movimenti che premiano l'attenzione prolungata. Le trappole sono ovvie solo dopo che ci si è caduti dentro: lo spazio vuoto senza ritmo compositivo si legge come economico, non raffinato. Il soggetto deve guadagnarsi lo spazio negativo attorno a sé attraverso l'inquadratura compositiva, la luce di bordo e il movimento deliberatamente piccolo."
+      },
+      {
+        "heading": "Da dove viene questo look",
+        "body": "Canone visivo: i film di prodotto di Apple (TBWA\\Chiat\\Day) dell'era Jony Ive, la fotografia di design Braun di Dieter Rams, i paesaggi marini di Hiroshi Sugimoto, le installazioni di Olafur Eliasson alla Tate Modern, le opere luminose Skyspace di James Turrell, il centraggio simmetrico di Wes Anderson al suo estremo minimalista, i lunghi fermo immagine di Apichatpong Weerasethakul in Memoria. Video musicali: Glosoli dei Sigur Rós diretta da Árni & Kínski, le visualizzazioni di Holocene di Bon Iver, il roster dell'etichetta Erased Tapes (Olafur Arnalds, Nils Frahm). Il modello minimalista di Tunee tratta 'minimalista' come misura compositiva, non come dettaglio rimosso — le superfici devono ancora avere una risposta materiale reale."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Specifica il rapporto spazio negativo: 'il soggetto occupa il terzo centrale, l'80% circostante è vuoto'. Blocca la palette su due valori: 'sfondo bianco sporco, singolo oggetto in nero opaco'. Nomina la direzione della luce con precisione: 'rim light solo da sinistra della camera, nessun fill'. Aggiungi il linguaggio del movimento: 'il soggetto ruota di 5 gradi, nessun movimento di camera'. La tentazione è di aggiungere 'ancora una cosa' — resistile. Ogni elemento aggiunto costa alla composizione più di quanto apporti."
+      }
+    ]
+  }
 }

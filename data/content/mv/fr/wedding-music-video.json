@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo musicale de mariage à comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo musicale de mariage en utilisant différentes descriptions ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE MV DE MARIAGE",
+    "h2": "Transformez votre chanson de mariage en souvenir qui ne reste pas dans un tiroir",
+    "sections": [
+      {
+        "heading": "Pourquoi un MV de mariage surpasse un diaporama",
+        "body": "La vidéo de mariage a un problème silencieux : le film officiel est trop long pour que les amis le partagent, le reel du photographe est trop générique pour sembler personnel, et le diaporama que votre tante fait est insupportable passée la deuxième diapositive. Un MV IA de 60 à 90 secondes se glisse exactement dans le creux — assez court pour être posté sur Instagram le lendemain matin, scoré sur votre première danse, et visualisé autour des moments qui comptaient (la bague, le toast, le regard silencieux pendant les vœux) plutôt que sur du B-roll générique."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les vidéastes de mariage connaissent le canon : gros plan de la bague avec effondrement de mise au point, détail de la robe en lumière de fin d'après-midi, la révélation de la mariée vue du point de vue d'un parent, le premier baiser depuis le fond de l'allée, le plan télé-objectif sur la foule pendant l'ovation. La référence shelf est petite mais précise — Steven Bradford et les pionniers de Cinematic Bride qui ont codifié le tournage moderne, les films de mariage one-shot viraux de Brett Loudermilk, The Fall de Tarsem Singh pour la couleur saturée, la grammaire de production Magmod et Vanlife Films qui inonde les Vimeo Staff Picks chaque saison, la mise en scène de portraits de famille d'Annie Leibovitz. Donnez votre musique de procession ou de première danse, mentionnez trois de ces plans en français simple, et le MV est à moitié storyboardé avant d'écrire un mot de plus."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "Le MV de mariage le plus utile est celui que les couples comprennent une semaine trop tard : envoyez-le aux personnes qui n'ont pas pu faire le voyage. Un 9:16 vertical de votre réception, la chanson qui a défini la soirée, exporté le lendemain, dans leur boîte mail avant qu'ils se souviennent d'envoyer leurs félicitations. Tunee génère du 9:16, du 16:9 et du 1:1 depuis une seule génération — un seul prompt, chaque format que la boîte mail ou le feed attend."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales YouTube de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur les appareils de bureau et mobiles, vous pouvez donc créer des vidéos musicales YouTube depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR YOUTUBE",
+    "h2": "YouTube est la seule plateforme où le MV format long gagne encore",
+    "sections": [
+      {
+        "heading": "Pourquoi le 16:9 et le format plus long comptent encore ici",
+        "body": "Sur toutes les autres plateformes, le clip musical a été compressé en courts formats verticaux de 60 secondes. Sur YouTube, le format original reste dominant — 16:9, 3 à 5 minutes, regardé sur une télé ou un laptop en fond sonore. L'algorithme de la plateforme récompense le temps de visionnage en minutes, pas la rétention en secondes, ce qui signifie qu'un MV de 4 minutes tenant 60 % d'audience vaut plus que dix clips de 30 secondes en tenant 90 %. Le calcul favorise le fait de laisser respirer le morceau."
+      },
+      {
+        "heading": "À quoi ressemble le canon MV YouTube",
+        "body": "Ouvrez avec une intro froide (les vidéos Childish Gambino d'Hiro Murai, les cuts 21 Savage de Dave Meyers, tout ce que Cole Bennett dirige pour Lyrical Lemonade) — 5 à 15 secondes de mise en scène avant le premier temps fort. Tenez les plans larges d'établissement plus longtemps que vous ne le feriez sur TikTok. Méritez le gros plan. Terminez avec un tag, un carton de fin, ou un smash cut sur le générique — le spectateur YouTube est conditionné à regarder jusqu'à la fin de l'écran."
+      },
+      {
+        "heading": "Le préréglage YouTube de Tunee, spécifiquement",
+        "body": "Choisissez YouTube et le renderer sort du 16:9 en 4K, avec une fenêtre d'intro plus longue, une durée de coupe moyenne plus lente (1,8 seconde contre 0,9 pour le préréglage TikTok), et une timeline chapitée si votre morceau a des sections clairement définies. MP4 prêt à l'upload, H.264, audio à 320 kbps AAC. Des captures de frames aux pics visuels sont générées automatiquement pour la miniature, vous évitant de parcourir la timeline pour trouver le moment qui vend le clic."
+      }
+    ]
+  }
 }

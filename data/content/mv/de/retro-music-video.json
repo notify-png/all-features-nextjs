@@ -39,5 +39,23 @@
       "q": "Wie füge ich Liedtexte oder Untertitel zu meinem Retro-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Optionen für Liedtext- und Untertitelüberlagerung. Geben Sie einfach Ihre Liedtexte ein und wählen Sie einen Textstil aus, und die KI synchronisiert sie automatisch mit Ihrem Retro-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS RETRO-MV",
+    "h2": "Retro ist ein Jahrzehnt, kein Vibe — wähle eins",
+    "sections": [
+      {
+        "heading": "Die Ära zählt mehr als das Wort",
+        "body": "Retro ist als einzelnes Label nutzlos, weil jedes Jahrzehnt einen anderen Look hatte. 1970er: warmes Kodak-Filmmaterial, weiche Anamorphose, breite Kragen, Kombilack-Gelb. 1980er: Betacam-Video, chromatisches VHS-Bleeding, Neon-auf-Schwarz-Grafiken, MTV-Bumper-Ästhetik. 1990er: körniges Hi-8, ausgewaschene Jeans und Flanell, das Indie-Film-Korn von Kids und Clerks. 2000er: frühes Digital, überscharfes Videorauschen, MySpace-Ära-Foto-Styling. Die falsche Ära für deine Referenz zu nehmen ist der häufigste KI-Retro-Fehler."
+      },
+      {
+        "heading": "Woher der Look kommt",
+        "body": "Ären-spezifische Referenzpunkte: Wong Kar-wais Days of Being Wild für 1970er Hongkong, Paul Thomas Andersons Boogie Nights für Filmmaterial-Authentizität, der gesamte MTV-Katalog 1981–1989 für echtes 80er-Video, Sofia Coppolas The Virgin Suicides für den 70er-Vorstadt-Traum, Larry Clarks Kids für rohes 90er 16mm, Nicolas Winding Refns Drive (2011) für das 80er-Synth-Revival, James Gunns Guardians of the Galaxy Awesome-Mix-Volumes. Quentin Tarantinos Grindhouse-Ästhetik in Death Proof. VHS-spezifische Künstler: David Firths degradiertes Tape-Werk, die frühe YouTube-Vaporwave-Szene. Tunees Retro-Modell trainiert jedes Jahrzehnt als eigene Filmmaterial-und-Format-Kombination, nicht verwischt zu 'alt wirkend'."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Immer Jahr und Format benennen: '1978, Kodak Vision 250D, Anamorphose, weicher Kontrast' oder '1986, Betacam SP, chromatische Aberration auf Highlights, Scan-Lines'. Den Film-Korn- oder Video-Rausch-Typ spezifizieren — sie sehen völlig unterschiedlich aus. Epochengerechte Kleidung und Requisiten sind wichtig; 'Retro-Outfit' ist vage, 'breitkrempiges Polyester-Hemd, Schlaghosen-Denim' ist konkret. Jahrzehnte mischen ist für Surrealismus in Ordnung, aber explizit benennen: 'anachronistisches 80er-Neon über 70er-Filmmaterial'."
+      }
+    ]
+  }
 }

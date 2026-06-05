@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe de música narrativa para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de música narrativa usando prompts diferentes ou configurações de estilo, então selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV NARRATIVO",
+    "h2": "MVs narrativos são curtas-metragens, e as regras do cinema se aplicam",
+    "sections": [
+      {
+        "heading": "O que o MV narrativo exige",
+        "body": "O videoclipe narrativo conta uma história ao longo da duração da música — personagens com pelo menos um arco, um cenário que diz algo, beats que se pagam até a ponte ou o outro. O formato trata a música como a trilha e o visual como um curta-metragem de 3 a 4 minutos. A disciplina emprestada do cinema: uma premissa clara nos primeiros 15 segundos, uma virada por volta do ponto médio, uma imagem no final que recontextualiza tudo o que veio antes. Os videoclipes que acertam nesse formato parecem trailers de um filme que não existe."
+      },
+      {
+        "heading": "Quando usar",
+        "body": "O MV narrativo é a escolha certa para músicas que já contam uma história (Bruce Springsteen, country, rap narrativo), para singles âncora do ciclo de álbum onde o orçamento se concentra em uma peça declaratória, para artistas construindo uma marca cinematográfica. O cânone de diretores: o This Is America de Childish Gambino de Hiro Murai, o Praise You do Fatboy Slim e o Sabotage dos Beastie Boys de Spike Jonze, o Bohemian Rhapsody da Queen de Bruce Gowers (1975) como origem do formato, o Ride de Lana Del Rey de Anthony Mandler, Sam Pilling para The Weeknd, o trabalho de Michel Gondry com Björk e White Stripes. É o formato que os prêmios levam a sério — o VMA de Vídeo do Ano se inclina para o narrativo. A contrapartida é custo e tempo, os dois dos quais o Tunee comprime dramaticamente."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Estruture o prompt por seção da música, não por plano: 'verso 1: protagonista sozinho no apartamento, luz da manhã, câmera na mão lenta; pré-refrão: sai do prédio, cor esfria; refrão: plano aberto na estrada vazia, hora dourada'. O Tunee consegue interpretar prompts por seção. Referencie um diretor para uma linguagem unificada: 'Hiro Murai para o vídeo inteiro' bate referências mistas por seção. Planeje a imagem final primeiro e trabalhe de trás para frente — o MV narrativo é julgado pelo final."
+      }
+    ]
+  }
 }

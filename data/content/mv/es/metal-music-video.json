@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un vídeo de música metal para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu vídeo de música metal usando diferentes prompts o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL METAL",
+    "h2": "El video de metal gana su peso a través del compromiso físico",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el metal",
+        "body": "Los MVs de metal suelen construirse alrededor de la actuación en directo: la banda tocando de verdad, el sudor volando de verdad, el bombo moviendo visiblemente la cámara. La iluminación es dura y contrastada: un único haz de luz blanca sobre el vocalista contra un fondo negro absoluto, lavado rojo sobre la sección rítmica. Las localizaciones se decantan por lo industrial abandonado, el bosque de noche o el negro puro del soundstage. La cámara lenta se usa con precisión quirúrgica, casi siempre sobre el batería o en un único salto. El encuadre suele estar cargado, nunca minimalista."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'Chokehold' de Sleep Token, dirigido por Phil Mucci, redefinió la estética del MV de metal moderno con su anonimato enmascarado y su puesta en escena ritual. El 'DiE4u' de Bring Me the Horizon lleva la ambición narrativa cinematográfica, mientras que el 'Amazonia' de Gojira usa el paisaje como escala. El 'Holy Roller' de Spiritbox, el 'To the Hellfire' de Lorna Shore y el 'Suffocate' de Knocked Loose completan el vocabulario actual. Las referencias más antiguas — 'Schism' de Tool y 'Duality' de Slipknot — siguen enseñándole al género cómo hacer que lo abstracto se sienta físico. El trabajo de Mathias Andersson con Ghost extiende aún más el linaje ritual. La constante: la banda es el encuadre, no la decoración."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica el espacio antes del tratamiento visual. 'Almacén de hormigón vacío, una sola bombilla cenital, banda en semicírculo compacto, batería al centro del fondo' le da a Tunee algo que renderizar con intención. Luego añade atmósfera: 'niebla densa, luz de borde dura desde el lateral izquierdo del escenario, sin relleno'. Pide cámara lenta solo en los puntos de impacto: el breakdown, el grito final. Tunee maneja mejor las escenas oscuras cuando nombras explícitamente las pocas fuentes de luz, en lugar de pedir una 'iluminación dramática'."
+      }
+    ]
+  }
 }

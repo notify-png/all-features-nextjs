@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe Apple Music?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Basta inserir suas letras e escolher um estilo de texto, e a AI sincronizará automaticamente com seu videoclipe Apple Music."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA APPLE MUSIC",
+    "h2": "Os vídeos para Apple Music são um formato diferente de todos os outros",
+    "sections": [
+      {
+        "heading": "O que a Apple realmente pede",
+        "body": "A Apple Music tem três superfícies de vídeo: o videoclipe padrão (entregue via distribuidora do artista, geralmente 16:9 em 1080p ou 4K), o Motion Lyrics (um formato vertical com foco nas letras que anima cada linha conforme a música toca) e o Spatial Video para Vision Pro (com mapeamento de profundidade 3D, 9:16 ou 16:9, atualmente uma superfície pequena mas em crescimento). Os padrões são mais rígidos do que os do YouTube — o controle de qualidade da Apple rejeita vídeos com especificações técnicas incorretas."
+      },
+      {
+        "heading": "O que o Motion Lyrics recompensa",
+        "body": "O Motion Lyrics é o formato que a maioria das gravadoras subutiliza. É vertical, toca em tela cheia no iPhone, e a Apple o curadoria editorialmente em playlists. O cânone visual é sutil: um único fundo texturizado (grain de filme, gradiente, partícula lenta), texto da letra em uma fonte que corresponde à identidade do álbum, animação linha por linha que coincide com a sílaba. Não é o estilo karaokê com destaque palavra por palavra — são revelações por linha, sincronizadas com as entradas vocais."
+      },
+      {
+        "heading": "Como o Tunee lida com os formatos da Apple",
+        "body": "O preset Apple Music gera três entregas a partir de uma única geração: 16:9 4K para o slot de MV padrão, um corte Motion Lyrics 9:16 com revelações de linha sincronizadas sobre o fundo escolhido, e um MP4 com mapa de profundidade pronto para Spatial para a superfície do Vision Pro. Os três são conformes com as especificações de upload da distribuidora da Apple. O timing das letras reutiliza o alinhamento que o Tunee já faz no fluxo de trabalho de letras-para-MV, então você não precisa marcar a música duas vezes."
+      }
+    ]
+  }
 }

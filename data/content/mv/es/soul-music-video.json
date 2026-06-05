@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un video de música soul para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu video de música soul usando diferentes indicaciones o configuraciones de estilo, luego seleccionar la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL SOUL",
+    "h2": "El video de soul lleva calidez igual que un disco lleva grano",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el soul",
+        "body": "Los MVs de soul se sitúan en el registro visual de una grabación en directo de madrugada. Luz de tungsteno cálida, instrumentos reales, ropa vintage que no parece un disfraz. El cantante suele estar en un encuadre cerrado durante los versos, luego se abre para revelar a la banda durante los estribillos. El color se inclina hacia el ámbar, el marrón, el ocre, con algún acento de tono joya ocasional. La textura lo es todo: terciopelo, vinilo, grano de madera, latón. La cámara se mueve lentamente cuando se mueve. El público está implícito pero rara vez visible: estos parecen sesiones de grabación, no conciertos."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'Untitled (How Does It Feel)' de D'Angelo, dirigido por Paul Hunter, es el mayor logro del formato: plano único, sujeto único, luz única. La configuración en directo de 'Tyrone' de Erykah Badu demostró que el video de actuación puede sentirse sagrado. El 'Coming Home' de Leon Bridges construyó el lenguaje visual del revival del soul moderno: paleta tonal de los 60 sin vestuario literal de época. El 'Damage' de H.E.R., dirigido por Calmatic, y el 'Tints' de Anderson .Paak extienden esa calidez hasta la década actual. Tank and the Bangas llevan la energía soul teatral y de grupo al presente. El tejido conjuntivo: calidez, contención y una negativa a parecer digital."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica la era de calidez que buscas. 'Estética de estudio Stax Records de finales de los 60 — tungsteno cálido, paredes revestidas de madera, micrófono RCA vintage en el encuadre' le da a Tunee un período de referencia sin imponer la parodia. Mantén el vestuario un paso contemporáneo para que no parezca un juego de roles. Tomas largas en los versos del cantante, encuadres ligeramente más abiertos para los estribillos que muestren a la banda. Evita por completo los tonos azules fríos: el soul vive en la mitad cálida del espectro y se confunde cuando se fuerza en frío."
+      }
+    ]
+  }
 }

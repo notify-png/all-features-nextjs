@@ -39,5 +39,23 @@
       "q": "¿Cómo añado letras o subtítulos a mi vídeo musical de Músicos?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA las sincronizará con tu vídeo musical de Músicos automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA MÚSICOS",
+    "h2": "El MV de cantautor tiene su propio canon silencioso",
+    "sections": [
+      {
+        "heading": "Por qué esta categoría no es 'simplemente videoclips'",
+        "body": "Un MV de cantautor no es un video de actuación de banda ni un video pop — es una tercera cosa. El canon visual es íntimo: el Kyoto de Phoebe Bridgers, el Holocene de Bon Iver, el Should Have Known Better de Sufjan Stevens. Un solo intérprete, a menudo solo en el plano, baja saturación de color, tomas largas, un paisaje o interior que dice algo sobre el peso emocional de la canción. El artista es el sujeto y la localización es el segundo personaje. Casi no hay pirotecnia de edición."
+      },
+      {
+        "heading": "Planos que siempre funcionan para el formato",
+        "body": "Un primer plano del vocalista que se sostiene durante todo un estribillo sin un corte. Un plano general que coloca al artista pequeño en un paisaje (una playa, un campo, una carretera vacía). Una toma de seguimiento a paso, en mano, siguiendo al artista desde atrás. Un encuadre estático sobre manos en un piano o guitarra. El público está ahí por la canción en primer lugar y por la atmósfera visual en segundo — la contención es la estética, no un compromiso de presupuesto."
+      },
+      {
+        "heading": "Dónde encaja Tunee en el lanzamiento de un músico en activo",
+        "body": "Los cantautores independientes normalmente no pueden financiar un video real para cada pista — pueden financiar uno por álbum, quizás dos. Tunee rellena el resto del lanzamiento: lyric videos con la misma paleta de color que el video principal, cortes verticales para Reels y TikTok, Spotify Canvases para cada pista, un poster de gira animado con un verso de la canción. La identidad visual se mantiene coherente a lo largo de 12 canciones sin 12 días de rodaje."
+      }
+    ]
+  }
 }

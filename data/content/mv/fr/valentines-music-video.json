@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un vidéoclip Saint-Valentin pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip Saint-Valentin en utilisant différentes demandes ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE MV DE LA SAINT-VALENTIN",
+    "h2": "Une vidéo de Saint-Valentin qui n'est pas une carte avec une photo encore pire",
+    "sections": [
+      {
+        "heading": "Pourquoi un MV de Saint-Valentin surpasse les fleurs",
+        "body": "L'économie des cadeaux de Saint-Valentin est épuisée — fleurs, chocolats, réservation de restaurant, en boucle. Un MV de 60 secondes scoré sur votre chanson commune brise ce schéma sans être coûteux ni ostentatoire. C'est le cadeau qu'on re-regarde en mars, qu'on renvoie à l'anniversaire, et qu'on sauvegarde dans un dossier privé plutôt que de jeter avec l'emballage. Pour les couples à distance, il est particulièrement fort — il fait le travail d'être là quand vous ne pouvez pas."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les vidéastes romantiques s'en tiennent à un petit vocabulaire : les mains qui se retrouvent sur une table, la silhouette à contre-jour dans une fenêtre, le plan large du petit-déjeuner au lit à moitié mangé, le gros plan du mot manuscrit, le zoom lent sur un sourire en plein rire. Les références cinématiques : l'esthétique orange chaude de Her de Spike Jonze filmé par Hoyte van Hoytema, le finale fleurs-sur-le-sol de Notting Hill de Richard Curtis, le montage mariage du premier acte de Up de Pete Docter chez Pixar, le cadrage de la boutique de nouilles dans In the Mood for Love de Wong Kar-wai, les films de la Chaîne Hallmark pour la Saint-Valentin. Les plans clichés (roses rouges, bougies, cœurs) fonctionnent mieux en arrière-plan — la bougie dans le bokeh, pas en sujet. Spécifiez cette hiérarchie et le MV se lit comme intime plutôt que comme une carte de vœux."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "Envoyez-le à 6 h du matin le 14 février, avant que la journée ne se remplisse de livraisons et de réservations. Tunee rend du vertical pour le message du matin, du carré pour le post optionnel public, et du grand écran pour le re-visionnage en salon lors de l'anniversaire."
+      }
+    ]
+  }
 }

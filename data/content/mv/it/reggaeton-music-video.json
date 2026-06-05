@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Reggaeton di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali Reggaeton da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL REGGAETON",
+    "h2": "Il video reggaeton vive dove il dembow e la pista da ballo si incontrano",
+    "sections": [
+      {
+        "heading": "Come appare il reggaeton",
+        "body": "Gli MV reggaeton combinano l'energia da club con la specificità del quartiere. Il ritmo dembow detta il montaggio — tre beat e mezzo, taglio duro, ripeti. Le location alternano tra rooftop, interni di club con lavaggio magenta e scene di strada che fanno riferimento specifico a San Juan, Medellín o Miami. Il guardaroba è fashion-forward: streetwear di design, gioielli di dichiarazione, a volte couture completa in contesti inaspettati. La danza è partecipativa piuttosto che coreografata — persone che si muovono con il brano, non che si esibiscono per la camera."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Mi Gente' di J Balvin, diretta da Daniel Duran, ha costruito la scala visiva a cui oggi opera il reggaeton. 'Yo Perreo Sola' di Bad Bunny, diretta da Stillz, ha ribaltato le aspettative su chi guida un MV reggaeton. 'Hawai' di Maluma porta il braccio narrativo cinematografico. 'Gasolina' di Daddy Yankee rimane il testo fondante a cui ogni video più recente risponde. 'TQG' di Karol G con Shakira, 'Normal' di Feid e Anuel AA portano avanti il linguaggio visivo attuale, mentre il lavoro di direzione crossover di Colin Tilley per il genere rimane il default del settore. La costante: location reali, moda come identità, coreografia che si legge come movimento naturale."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Sincronizza esplicitamente il montaggio al pattern dembow: 'tagli ogni tre beat e mezzo per tutto il ritornello, tieni il bridge per otto bar'. Specifica due location contrastanti e ruota tra di esse — 'rooftop al tramonto e club sotterraneo alle 2 di notte' crea l'arco giorno-e-notte che il genere premia. Il cambio di guardaroba tra le location deve essere drammatico. Tunee gestisce bene la palette club magenta-e-ambra quando nomini entrambi i colori e il livello di foschia."
+      }
+    ]
+  }
 }

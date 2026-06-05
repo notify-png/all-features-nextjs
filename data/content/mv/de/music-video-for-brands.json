@@ -39,5 +39,23 @@
       "q": "Wie personalisiere ich den visuellen Stil meines Brands-Musikvideos?",
       "a": "Sie können die Visuals mit Textvorschlägen steuern, die Szenen, Stimmungen und Einstellungen beschreiben. Die KI von Tunee interpretiert Ihre Eingabe und generiert Visuals, die von Markenintegration inspiriert sind und Ihrem Brands-Ästhetik entsprechen."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR MARKEN",
+    "h2": "Markensichere Musikvideo-Inhalte sind eine Kategorie, die Agenturen zu billig verkaufen",
+    "sections": [
+      {
+        "heading": "Warum Marken MVs brauchen, die keine Werbespots sind",
+        "body": "Ein 30-sekündiger Produktspot mit Bibliotheksmusik wird weggeskippt. Ein 60-sekündiges Marken-Musikvideo — dasselbe Produkt, eigener Track, echte visuelle Identität — wird geschaut und geteilt. Die Kategorie existiert, weil die sozialen Algorithmen musikorientierte Inhalte gegenüber werbungsorientierten bevorzugen und weil das Lizenzieren eines echten Hits für eine Kampagne 50.000 bis 500.000 Euro kostet, bevor auch nur ein Frame gedreht ist. Marken-MVs sind der Ausweg: eigener Song, eigene Visuals, die Marke als Charakter integriert statt als Logo-Flash."
+      },
+      {
+        "heading": "Was in Marken-MV-Content funktioniert",
+        "body": "Produkt als Szenenelement, nicht als Mittelpunkt: die Flasche an der Bar in einem Nachtleben-Video, der Sneaker am Fuß des Tänzers in einem Streetdance-Stück, der Laptop im Coworking-Café-Montage. Markenfarben ins Colorgrading eingewoben. Ein eigener Song, der zur Audio-Identität der Marke passt, ohne wie ein Jingle zu klingen. Das Freigabeproblem entfällt (du besitzt den Song), das Budget schrumpft um eine Größenordnung und der Content überlebt auf TikTok und YouTube ohne 'Anzeige'-Ermüdung."
+      },
+      {
+        "heading": "Wie Tunee in den Workflow eines Brand-Content-Teams passt",
+        "body": "Generiere den Song aus dem Briefing, generiere die Visuals aus den Brand-Guidelines, exportiere in jedem Seitenverhältnis, das der Social-Kalender braucht, und liefere in einer Woche statt in einem Quartal. Tunees Text-to-MV-Workflow ist dafür gebaut — ein Prompt, ein eigener Soundtrack, ein Musikvideo, kein Lizenzierungsgespräch. Die Rechtsabteilung bekommt eine saubere Eigentumskette; das Social-Team bekommt Content, den sie tatsächlich auf mehreren Plattformen schalten können."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales minimalistas de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en dispositivos móviles, para que puedas crear videos musicales minimalistas desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV MINIMALISTA",
+    "h2": "El minimalismo es el briefing más difícil de ejecutar de verdad",
+    "sections": [
+      {
+        "heading": "Qué es realmente el minimalismo",
+        "body": "El video minimalista no es 'menos cosas' — es espacio negativo intencional que sostiene un único sujeto con una composición rigurosa. Las películas de producto de Apple son el referente: un objeto, fondo curvo infinito, una dirección de luz, micro-movimientos que recompensan la atención sostenida. Las trampas solo son obvias después de caer en ellas: el espacio vacío sin ritmo compositivo se lee como barato, no como refinado. El sujeto tiene que ganarse el espacio negativo a su alrededor a través del encuadre, la iluminación de borde y el movimiento deliberadamente pequeño."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "Canon visual: las películas de producto de Apple (TBWA\\Chiat\\Day) de la era de Jony Ive, la fotografía de diseño Braun de Dieter Rams, los paisajes marinos de Hiroshi Sugimoto, las instalaciones de Olafur Eliasson en la Tate Modern, las obras de luz Skyspace de James Turrell, el centrado simétrico de Wes Anderson en su extremo minimalista, las largas retenciones de Apichatpong Weerasethakul en Memoria. Videos musicales: el Glosoli de Sigur Rós dirigido por Arni & Kinski, las visualizaciones de Holocene de Bon Iver, el catálogo del sello Erased Tapes (Olafur Arnalds, Nils Frahm). El modelo minimalista de Tunee trata 'minimalista' como contención compositiva, no como detalle eliminado: las superficies siguen necesitando respuesta material real."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Especifica la proporción de espacio negativo: 'el sujeto ocupa el tercio central, el 80% restante vacío'. Fija la paleta en dos valores: 'fondo blanco roto, objeto único en negro mate'. Nombra la dirección de la luz con precisión: 'luz de borde desde la izquierda de cámara solamente, sin relleno'. Añade lenguaje de movimiento: 'el sujeto rota 5 grados, sin movimiento de cámara'. La tentación es añadir 'una cosa más' — resístela. Cada elemento añadido le cuesta más a la composición de lo que aporta."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines surrealen Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines surrealen Musikvideos mit verschiedenen Anweisungen oder Stil-Einstellungen generieren und dann die Version auswählen, die am besten zu deiner Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS SURREALE MV",
+    "h2": "Surreales Video braucht eine innere Logik, damit es wirklich landet",
+    "sections": [
+      {
+        "heading": "Was Surreales von Zufälligem trennt",
+        "body": "Surreal bedeutet nicht 'zufällig seltsame Dinge passieren'. Magrittes Pfeife und Dalís Uhren funktionieren, weil das gemalte Handwerk konventionell ist — sauberes Licht, echte Materialien, traditionelle Komposition — während ein Element die Physik oder Skalierung verletzt. Der Kontrast ist es, was es traumhaft macht. KI-generiertes Surreales scheitert oft, indem es überall zufällig wird, was das Gehirn als Fehler statt als Traum liest. Die Regel: ein unmögliches Element pro Shot wählen und alles andere mit dokumentarischem Realismus drumherum rendern."
+      },
+      {
+        "heading": "Woher der Look kommt",
+        "body": "Die Referenzliste: Salvador Dalí und René Magritte für den malerischen Kanon, Maya Derens Meshes of the Afternoon, David Lynchs Eraserhead, Mulholland Drive und die Twin-Peaks-Black-Lodge-Sequenzen, Michel Gondrys Eternal-Sunshine-Praktikeffekte (plus seine Bjork-Videos), Spike Jonzes Being John Malkovich und Her, Charlie Kaufmans I'm Thinking of Ending Things. Musikvideos: Gondry-dirigierte Bjork-Stücke Bachelorette und Hunter, OK Gos Damian-Kulash-co-dirigierter Katalog (Here It Goes Again), Chris Cunninghams Aphex-Twin-Donkey-Rhubarb. Tunees surreales Modell ist darauf trainiert, ein Element unmöglich zu halten, während der Rest fotorealistisch gerendert wird — die Formel, die tatsächlich funktioniert."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Prompts als 'realistische Szene + ein unmögliches Element' strukturieren: 'fotoreale Küche, weiches Fensterlicht, Spüle gefüllt mit schwimmenden Goldfischen wo Wasser sein sollte'. Das Licht oder die Skalierung auf der realistischen Seite nicht brechen — die Traumlogik kommt aus dem Kontrast. Den Traumlogik-Auteur referenzieren, falls ein Ziel vorhanden: 'Lynchsches langsames Zoom-In, Raum etwas zu lang für seine Proportionen'. 'Surreal und traumhaft' als Adjektive vermeiden — sie treiben zu Chaos."
+      }
+    ]
+  }
 }

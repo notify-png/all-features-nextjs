@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéoclips Reggaeton de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur desktop et mobile, vous pouvez donc créer des vidéoclips Reggaeton depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU REGGAETON",
+    "h2": "Le clip reggaeton vit là où le dembow et la piste de danse se rencontrent",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le reggaeton",
+        "body": "Les MV reggaeton combinent l'énergie du club avec la spécificité du quartier. Le rythme dembow dicte le montage — trois temps et demi, coupe franche, répétition. Les lieux alternent entre rooftops, intérieurs de club baignés de magenta et scènes de rue qui font explicitement référence à San Juan, Medellín ou Miami. Les vêtements sont avant-gardistes : streetwear de créateur, bijoux statement, parfois de la haute couture dans des contextes inattendus. La danse est participative plutôt que chorégraphiée — les gens bougent avec le morceau, sans performer pour la caméra."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Mi Gente » de J Balvin, réalisé par Daniel Duran, a construit l'échelle visuelle à laquelle le reggaeton opère désormais. « Yo Perreo Sola » de Bad Bunny, réalisé par Stillz, a inversé les attentes sur qui dirige un MV reggaeton. « Hawai » de Maluma apporte le bras narratif cinématique. « Gasolina » de Daddy Yankee reste le texte fondateur auquel chaque nouvelle vidéo répond. « TQG » de Karol G avec Shakira, « Normal » de Feid et Anuel AA portent le langage visuel actuel, tandis que le travail de direction crossover de Colin Tilley pour le genre reste la valeur par défaut de l'industrie. La constante : vrais lieux, la mode comme identité, chorégraphie qui se lit comme un mouvement naturel."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Chronométrez le montage explicitement sur le pattern dembow : « coupes toutes les trois mesures et demie pendant le refrain, tenez le pont huit mesures ». Spécifiez deux lieux contrastés et alternez entre eux — « rooftop au coucher du soleil et club souterrain à 2 h du matin » crée l'arc jour-et-nuit que le genre récompense. Le changement vestimentaire entre les lieux doit être spectaculaire. Tunee gère bien la palette club magenta-et-ambre quand vous nommez les deux couleurs et le niveau de brume."
+      }
+    ]
+  }
 }

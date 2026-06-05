@@ -39,5 +39,23 @@
       "q": "¿Puedo generar múltiples versiones de un videoclip de letras a MV para comparar?",
       "a": "Sí. Puedes generar varias variaciones de tu videoclip de letras a MV usando diferentes indicaciones o configuraciones de estilo, luego selecciona la versión que mejor se ajuste a tu visión."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LETRAS AL MV",
+    "h2": "Cuando las letras son el guion, el video se escribe solo",
+    "sections": [
+      {
+        "heading": "Por qué la letra ya ES el storyboard",
+        "body": "Los compositores ya lo saben: una buena letra está planificada en planos antes de ser una canción. 'Conduje por el desierto en un coche sin nombre' es un plano general. 'Ella se giró despacio' es un plano medio con un movimiento de cabeza. Los lyric videos que solo flotan texto sobre un fondo abstracto ignoran el hecho de que cada línea ya es una instrucción visual. Un pipeline de letras-a-MV debe leer esas instrucciones, no pegar las palabras sobre un degradado."
+      },
+      {
+        "heading": "Qué hace Tunee con tu hoja de letras",
+        "body": "Pega las letras con marcas de tiempo aproximadas (o simplemente el texto completo — Tunee lo alinea al audio automáticamente) y Sage mapea cada línea a un plano. Los sustantivos concretos se convierten en visuales de establecimiento, los verbos de acción se convierten en movimientos de cámara, las líneas de estribillo repetidas reutilizan el plato principal para que el estribillo se lea visualmente como un estribillo. Aún puedes tener tipografía en pantalla si la quieres, pero la tipografía se asienta dentro de una escena, no encima de ella."
+      },
+      {
+        "heading": "El tip de prompting que cambia el resultado",
+        "body": "No parafrasees tus letras en un prompt separado. La letra ya es específica; el prompt debe ser el marco estético que la rodea. Prueba esto: letras en el campo de letras, luego una línea de prompt para el mundo ('Tokio en los años 70, lluvia, reflejos de neón en los charcos'), una para la cámara ('cámara en mano, 35mm, poca profundidad de campo') y una para el personaje ('treintañero, chaqueta de cuero, nunca mostrado de cuerpo entero'). Tunee gestiona los cortes línea-por-línea; tú gestionas el look."
+      }
+    ]
+  }
 }

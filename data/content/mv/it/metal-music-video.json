@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale metal per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale metal usando prompt diversi o impostazioni di stile diverse, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL METAL",
+    "h2": "Il video metal guadagna il suo peso attraverso l'impegno fisico",
+    "sections": [
+      {
+        "heading": "Come appare il metal",
+        "body": "Gli MV metal sono di solito costruiti attorno alla performance live — la band che suona davvero, il sudore che vola davvero, la grancassa che muove visibilmente la camera. L'illuminazione è dura e contrastata: un singolo fascio bianco sul cantante contro un vuoto nero, un lavaggio rosso sulla sezione ritmica. Le location tendono all'industriale abbandonato, alla foresta di notte, o a un palco puro nel buio. Il rallenty è usato con precisione chirurgica, quasi sempre sul batterista o su un singolo salto. Il frame è di solito affollato, non minimale."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Chokehold' degli Sleep Token, diretto da Phil Mucci, ha ridefinito l'estetica moderna dell'MV metal con l'anonimato mascherato e la messa in scena rituale. 'DiE4u' dei Bring Me the Horizon porta l'ambizione narrativa cinematografica, mentre 'Amazonia' dei Gojira usa il paesaggio come scala. 'Holy Roller' degli Spiritbox, 'To the Hellfire' dei Lorna Shore e 'Suffocate' dei Knocked Loose completano il vocabolario attuale. Punti di riferimento più datati — 'Schism' dei Tool e 'Duality' degli Slipknot — insegnano ancora al genere come rendere l'astratto fisico. Il lavoro di Mathias Andersson con Ghost estende ulteriormente la tradizione rituale. La costante: la band è il frame, non la decorazione."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Specifica il venue prima del trattamento visivo. 'Magazzino di cemento vuoto, singola lampadina a piombo, band in un semicerchio stretto, batterista al centro in fondo' dà a Tunee qualcosa da renderizzare con intenzione. Poi stratifica l'atmosfera: 'foschia pesante, luce dura dal lato sinistro del palco, nessun fill'. Chiedi il rallenty solo nei punti d'impatto — il breakdown, l'urlo finale. Tunee gestisce meglio le scene scure quando nomini esplicitamente le poche fonti di luce, piuttosto che chiedere 'luci atmosferiche'."
+      }
+    ]
+  }
 }

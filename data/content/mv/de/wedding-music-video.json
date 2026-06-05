@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Hochzeitsmusik-Videos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Hochzeitsmusik-Videos mit unterschiedlichen Prompts oder Stil-Einstellungen generieren und dann die Version wählen, die Ihrer Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS HOCHZEITS-MV",
+    "h2": "Mach aus deinem Hochzeitssong ein Erinnerungsstück, das nicht in einer Schublade landet",
+    "sections": [
+      {
+        "heading": "Warum ein Hochzeits-MV eine Diashow übertrifft",
+        "body": "Hochzeitsvideo hat ein stilles Problem: der offizielle Film ist zu lang, um ihn unter Freunden zu teilen, die Fotosammlung des Fotografen ist zu generisch, um persönlich zu wirken, und die Diashow, die deine Tante erstellt, ist nach der zweiten Folie unwatchbar. Ein 60 bis 90-sekündiges KI-Musikvideo sitzt genau in der Lücke — kurz genug, um es am Morgen danach auf Instagram zu posten, vertont mit eurem ersten Tanz, und visualisiert rund um Momente, die zählten (der Ring, der Toast, der stille Blick während des Gelöbnisses) statt generischem B-Roll."
+      },
+      {
+        "heading": "Die Shots, die immer funktionieren",
+        "body": "Hochzeits-Videografen kennen den Kanon: Ring-Nahaufnahme mit Tiefenschärfe-Kollaps, Kleider-Detail im Goldenen Stunden-Licht, die Enthüllung der Braut aus dem POV eines Elternteils, der erste Kuss vom hinteren Ende des Ganges, der Teleobjektiv-Mengen-Shot beim Applaus. Das Referenzregal ist klein aber spezifisch — Steven Bradford und die Cinematic-Bride-Pioniere, die das moderne Shooting kodifizierten, Brett Loudermilks virale One-Shot-Hochzeitsfilme, Tarsem Singhs The Fall für gesättigte Farben, die Magmod- und Vanlife-Films-Produktionsgrammatik, Annie Leibovitz' Familienportrait-Staging. Lass das Standesamts- oder First-Dance-Lied laufen, nenne drei dieser Shots auf Deutsch und das MV ist halb gestoryboarded, bevor du ein weiteres Wort schreibst."
+      },
+      {
+        "heading": "Mach es zum Geschenk",
+        "body": "Das nützlichste Hochzeits-MV ist das, das Paare eine Woche zu spät entdecken: an die schicken, die nicht anreisen konnten. Ein 9:16-Vertikal deines Empfangs, der Song der die Nacht definiert hat, am Tag danach exportiert, in ihrem Posteingang bevor sie daran denken, Glückwünsche zu schicken. Tunee rendert 9:16, 16:9 und 1:1 aus einer Generierung — ein Prompt, jedes Format, das Posteingang oder Feed erwartet."
+      }
+    ]
+  }
 }

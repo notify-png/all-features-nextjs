@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de vídeos musicales de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en equipos de escritorio y dispositivos móviles, para que puedas crear vídeos musicales de YouTube desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA YOUTUBE",
+    "h2": "YouTube es la única plataforma donde el MV de duración completa sigue ganando",
+    "sections": [
+      {
+        "heading": "Por qué el 16:9 y el formato más largo siguen importando aquí",
+        "body": "Fuera de YouTube, el videoclip ha sido comprimido en clips verticales de 60 segundos. En YouTube, el formato original sigue siendo el dominante: 16:9, de 3 a 5 minutos, visto en un televisor o portátil de fondo. El algoritmo de la plataforma premia el tiempo de visualización en minutos, no la retención en segundos, lo que significa que un MV de 4 minutos que retiene el 60% vale más que diez cortes de 30 segundos que retienen el 90%. Las matemáticas favorecen dejar que la canción respire."
+      },
+      {
+        "heading": "Qué aspecto tiene el canon del MV de YouTube",
+        "body": "Abrir con una intro en frío (los videos de Childish Gambino de Hiro Murai, los cortes de 21 Savage de Dave Meyers, cualquier cosa que Cole Bennett dirija para Lyrical Lemonade) — de 5 a 15 segundos de establecimiento de escena antes del primer tiempo. Sostener los planos generales más tiempo que en TikTok. Ganarse el primer plano. Terminar con una cola, una tarjeta de salida o un corte a los créditos: el espectador de YouTube está condicionado a ver hasta el final."
+      },
+      {
+        "heading": "El preset de YouTube de Tunee, específicamente",
+        "body": "Elige YouTube y el renderizador genera 16:9 a 4K, con una ventana de intro más larga, una duración promedio de plano más lenta (1,8 segundos frente a 0,9 para el preset de TikTok) y una línea de tiempo con capítulos si tu canción tiene secciones claras. MP4 listo para subir, H.264, audio a 320 kbps AAC. Los fotogramas de miniatura en los picos visuales se generan automáticamente para que no tengas que buscar en la línea de tiempo el momento que vende el clic."
+      }
+    ]
+  }
 }

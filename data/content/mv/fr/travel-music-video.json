@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéo musicale de voyage de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur les appareils de bureau et mobiles, vous permettant de créer des vidéos musicales de voyage depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE MV DE VOYAGE",
+    "h2": "Un récap de voyage qui n'est pas juste des selfies d'aéroport à la queue leu leu",
+    "sections": [
+      {
+        "heading": "Pourquoi un MV de voyage surpasse le photo dump",
+        "body": "Le contenu de voyage a un problème de durée de vie : le dump est posté la semaine du voyage, les amis scrollent, et le voyage devient invisible à partir du deuxième mois. Un MV scoré est le format qui survit à l'algorithme — on le ressort lors des dîners quand le voyage revient en conversation, on l'envoie à ceux avec qui on a voyagé à l'anniversaire du trip, et il devient l'archive officielle plutôt que l'album aléatoire de 400 photos dans iCloud."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les cinéastes de voyage reviennent toujours aux mêmes temps forts : l'aile d'avion par le hublot, les mains sur une carte papier, le dos du sujet qui entre dans un marché, la nourriture vue du dessus, la révélation depuis la fenêtre de l'hôtel, le gros plan de monnaie locale, le plan large de quai de transport. La référence shelf est rodée — Parts Unknown d'Anthony Bourdain sur CNN réalisé par Tom Vitale et filmé par Zach Zamboni, les cuts vlog de Casey Neistat, le style de transition smash-cut de Sam Kolder, la géométrie des chambres d'hôtel de Wong Kar-wai dans In the Mood for Love, le cadrage Tokyo de Lost in Translation de Sofia Coppola filmé par Lance Acord. Le meilleur plan de n'importe quel voyage n'est rarement le monument — c'est le moment non posé dans un café dont vous ne savez pas prononcer le nom. Dites à Tunee lequel des trois que vous voulez ancrer."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Ne listez pas des villes — ça produit un reel de cartes postales. Donnez plutôt à Tunee une ancre sensorielle précise pour chaque lieu : « 7-Eleven de Tokyo à 2 h, vert fluorescent », « rooftop de Marrakech à l'heure dorée, mains qui déchirent du pain », « station-service de Reykjavik, soleil de minuit ». Le modèle gère les lieux mieux par la texture que par le nom."
+      }
+    ]
+  }
 }

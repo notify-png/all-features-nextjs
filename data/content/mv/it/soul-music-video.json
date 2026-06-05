@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Soul per confrontarle?",
       "a": "Sì. Puoi generare diverse varianti del tuo video musicale Soul utilizzando diversi prompt o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL SOUL",
+    "h2": "Il video soul porta il calore come un disco porta la grana",
+    "sections": [
+      {
+        "heading": "Come appare il soul",
+        "body": "Gli MV soul si collocano nel registro visivo della registrazione live di tarda serata. Luce al tungsteno calda, strumenti reali, abiti vintage che non sembrano costumi. Il cantante è di solito in campo stretto per le strofe, poi tirato indietro a rivelare la band durante i ritornelli. Il colore pende verso l'ambra, il marrone, l'ocra, con l'occasionale accento in tinta gioiello. La texture è tutto: velluto, vinile, venatura del legno, ottone. La camera si muove lentamente quando si muove. Il pubblico è implicito ma raramente mostrato — queste sembrano session, non concerti."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Untitled (How Does It Feel)' di D'Angelo, diretto da Paul Hunter, è il massimo risultato del formato — singola inquadratura, singolo soggetto, singola luce. Il setup live 'Tyrone' di Erykah Badu ha dimostrato che il video performance può sembrare sacro. 'Coming Home' di Leon Bridges ha costruito il moderno linguaggio visivo del revival soul: palette tonale anni '60 senza costume letteralmente d'epoca. 'Damage' di H.E.R., diretto da Calmatic, e 'Tints' di Anderson .Paak estendono quel calore nel decennio attuale. Tank and the Bangas portano l'energia soul teatrale di gruppo nel momento. Il tessuto connettivo: calore, misura, e il rifiuto di sembrare digitale."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Specifica l'era di calore che desideri. 'Estetica studio Stax Records tarda anni '60 — tungsteno caldo, pareti rivestite in legno, microfono RCA vintage nel frame' dà a Tunee un periodo di riferimento senza forzare la parodia. Mantieni il guardaroba di un gradino contemporaneo così non sembra un gioco in costume. Take lunghi del cantante nelle strofe, frame leggermente più ampi per i ritornelli per mostrare la band. Evita completamente i toni blu freddi — il soul vive nella metà calda dello spettro e si confonde se forzato verso il freddo."
+      }
+    ]
+  }
 }

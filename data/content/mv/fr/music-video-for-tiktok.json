@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales TikTok de Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur et mobile, vous permettant de créer des vidéos musicales TikTok depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR TIKTOK",
+    "h2": "Sur TikTok, les trois premières secondes décident s'il y en aura une quatrième",
+    "sections": [
+      {
+        "heading": "Ce que l'algorithme récompense vraiment",
+        "body": "La page For You de TikTok ne s'intéresse pas à la durée totale de votre vidéo — elle s'intéresse à la courbe de rétention. Le taux de visionnage à 3 secondes et le taux de relecture sont les deux métriques qui décident si votre vidéo s'arrête à 200 vues ou grimpe à 200 000. Ce qui signifie que l'ouverture classique d'un MV — montée lente, large atmosphérique, l'artiste entre à 0:20 — est un suicide algorithmique. L'accroche doit atterrir avant que le pouce du spectateur ne s'ennuie."
+      },
+      {
+        "heading": "Le sweet spot 15-60 secondes, structuré",
+        "body": "Les créateurs qui publient de la musique sur TikTok ont convergé vers une forme : ouverture froide sur le refrain (ou l'accroche la plus entraînante), 5 secondes d'identité visuelle, retour sur l'accroche, fin sur un point de boucle qui favorise la relecture. 30 secondes au total est la durée la plus partagée ; 60 secondes est le plafond au-delà duquel la rétention chute. Le 9:16 vertical est non négociable — le contenu en letterbox est pénalisé dans le feed."
+      },
+      {
+        "heading": "Comment Tunee exporte spécifiquement pour TikTok",
+        "body": "Choisissez le préréglage TikTok et Tunee restructure le montage : refrain en premier, voix en avant dès la première seconde, accroche répétée à la marque des 15 secondes, frame finale propice à la boucle. Vous obtenez du 9:16 natif (pas recadré depuis du 16:9 — recomposé), 1080p, MP4 sous le plafond d'upload TikTok, et la piste audio exportée séparément pour l'uploader comme son TikTok et permettre aux créateurs de le duet. Deux assets, une seule génération."
+      }
+    ]
+  }
 }

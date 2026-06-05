@@ -39,5 +39,23 @@
       "q": "Unterstützt es den Export realistischer Musikvideos in 4K-Auflösung?",
       "a": "Absolut. Tunee exportiert realistische Musikvideos in bis zu 4K-Auflösung, wodurch sie bereit für YouTube, Streaming-Plattformen und großformatige Displays sind."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS REALISTISCHE MV",
+    "h2": "Fotoreales Video handelt von Zurückhaltung, nicht von Detail",
+    "sections": [
+      {
+        "heading": "Was realistisch wirklich bedeutet",
+        "body": "Realistisches Musikvideo bedeutet, dass der Zuschauer nicht darüber nachdenkt, ob es real ist — was schwieriger ist als es klingt. Die Verräter von generiertem Video, das an Realismus scheitert: zu saubere Haut (keine Poren, keine Asymmetrie), Augen ohne korrekte Glanzlichter, Hände mit subtilen Finger-Anzahl-Abweichungen, Stoff, der sich nicht unter Schwerkraft faltet, Bewegung die zu glatt ist (echte menschliche Bewegung hat Mikro-Zittern). Dokumentarfilm-Realismus bedeutet konkret: natürliches Licht, verfügbare Tonquellen-Cues im Bild und nicht gestellte Körpersprache."
+      },
+      {
+        "heading": "Woher der Look kommt",
+        "body": "Referenzen, die DPs und Musikvideo-Regisseure tatsächlich nennen: Emmanuel Lubezkis Naturlicht-Arbeit für Terrence Malick (The Tree of Life), Lars von Trier und die Disziplin der Dogme-95-Bewegung, Andrea Arnolds American Honey und Fish Tank, Sean Bakers The Florida Project und Tangerine für Available-Light-Realismus, Errol Morris' Dokumentar-Cinematografie in The Thin Blue Line, Chloe Zhaos Nomadland. Musikvideo-spezifisch: Hiro Murais Childish-Gambino-Arbeit, alles was Spike Jonze für die Beastie Boys (Sabotage) gefilmt hat. Dokumentarfotografie: Alec Soth, Stephen Shore, Nan Goldin. Tunees realistisches Modell trainiert auf Naturlicht-Frames mit unvollkommenen, gelebten Motiven — nicht hochglänzendem Werbe-Finish."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Unvollkommenheit explizit hinzufügen: 'natürliche Hauttextur mit Poren, leichte Asymmetrie, nur verfügbares Licht, kein Füllicht'. Tageszeit und Wetter spezifizieren: 'bewölkter Nachmittag, weiches Fensterlicht, keine direkte Sonne'. Handheld-Bewegung: 'schultergestützte Kamera, subtiles Handheld-Schwingen'. 'Photorealistic' als nackten Prompt vermeiden — das drängt zu CGI-Realismus. Stattdessen 'dokumentarischer, natürlicher Realismus' verwenden. Real liest sich als unvollkommen; Glätte liest sich als gerendert."
+      }
+    ]
+  }
 }

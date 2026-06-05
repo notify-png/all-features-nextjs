@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes minimalistas do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador da web em desktop e mobile, para que você possa criar videoclipes minimalistas de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV MINIMALISTA",
+    "h2": "O minimalismo é o briefing mais difícil de realmente executar",
+    "sections": [
+      {
+        "heading": "O que minimalismo realmente é",
+        "body": "Vídeo minimalista não é 'menos coisas' — é espaço negativo intencional sustentando um único sujeito com composição rigorosa. Os filmes de produto da Apple são o padrão: um objeto, fundo infinito, uma direção de luz, micro-movimentos que recompensam atenção sustentada. As armadilhas só ficam óbvias depois que você cai nelas: espaço vazio sem ritmo composicional parece barato, não refinado. O sujeito precisa merecer o espaço negativo ao redor de si através de enquadramento composicional, iluminação de contorno e movimento deliberadamente pequeno."
+      },
+      {
+        "heading": "De onde vem esse visual",
+        "body": "O cânone visual: os filmes de produto da Apple (TBWA\\Chiat\\Day) da era Jony Ive, a fotografia de design de produto Braun de Dieter Rams, as paisagens marinhas de Hiroshi Sugimoto, as instalações de Olafur Eliasson na Tate Modern, as obras de luz Skyspace de James Turrell, o enquadramento simétrico de Wes Anderson em seu lado mais minimalista, os planos lentos de Apichatpong Weerasethakul em Memoria. Videoclipes: o Glosoli do Sigur Rós dirigido por Arni & Kinski, as visualizações do Holocene do Bon Iver, o roster do selo Erased Tapes (Olafur Arnalds, Nils Frahm). O modelo minimalista do Tunee trata 'minimalista' como contenção composicional, não como detalhe removido — as superfícies ainda precisam de resposta material real."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Especifique a proporção de espaço negativo: 'sujeito ocupa o terço central, 80% ao redor vazio'. Fixe a paleta em dois valores: 'fundo off-white, objeto único em preto fosco'. Nomeie a direção da luz com precisão: 'luz de contorno vinda da esquerda da câmera apenas, sem preenchimento'. Adicione linguagem de movimento: 'sujeito rotaciona 5 graus, sem movimento de câmera'. A tentação é adicionar 'mais uma coisa' — resista. Cada elemento acrescentado custa à composição mais do que adiciona."
+      }
+    ]
+  }
 }

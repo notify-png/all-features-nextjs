@@ -39,5 +39,23 @@
       "q": "Supporta l'esportazione di video musicali J-pop in risoluzione 4K?",
       "a": "Assolutamente. Tunee esporta video musicali J-pop fino a risoluzione 4K, rendendoli pronti per YouTube, piattaforme di streaming e display a schermo grande."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL J-POP",
+    "h2": "Il video J-pop si muove alla velocità dell'attenzione stessa",
+    "sections": [
+      {
+        "heading": "Come appare il J-pop",
+        "body": "Il ritmo dell'MV J-pop è più veloce di quasi qualsiasi equivalente pop occidentale — durata media dell'inquadratura di tre secondi, a volte meno. I set sono grafici e codificati per colore in base alla sezione, spesso cambiando completamente tra strofa e ritornello. La coreografia è precisa ma espressiva, non militare come nel K-pop. L'influenza dell'anime si vede nel framing: linee di velocità, frame d'impatto, improvvisi zoom su un singolo occhio. Il guardaroba punta allo streetwear oppure a uno stile teatrale, raramente nel mezzo."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Idol' di Yoasobi (opening di Oshi no Ko) mostra il picco attuale — tagli veloci, tie-in anime, blocchi di scene codificati per colore. 'Kaiju no Hanauta' di Vaundy dimostra che un solo performer in ambienti cangianti può reggerla. 'Usseewa' di Ado e le visuals di One Piece Film: Red si appoggiano pienamente all'animazione. 'Hakujitsu' dei King Gnu usa una palette smorzata e un ritmo lento per rompere le regole. La discendenza dei lyric video di Eve con il regista Tomohito Tatemiya (OP di Mahoutsukai no Yome), 'Inferno' dei Mrs. GREEN APPLE e 'Pretender' di Official HIGE DANdism completano il set di riferimenti moderni. Il regista Hideto Yamada e il team visivo di Yoasobi ancòrano la precisione — ogni frame composto, nulla è accidentale."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Dividi il brano in sezioni prima di scrivere il prompt. La prima strofa potrebbe essere una camera pastello; il pre-ritornello un corridoio in blu freddo; il ritornello un palco rosso saturo con l'intera crew di ballo. Di' a Tunee di cambiare palette a ogni cambio di sezione. Specifica la durata delle inquadrature: 'tagli da due secondi per tutto il ritornello, tieni il bridge per sei'. Aggiungi un elemento di grammatica anime per ritornello — un close-up improvviso sulle mani, un fermo immagine, uno screen-shake. Il genere premia l'ambizione visiva."
+      }
+    ]
+  }
 }

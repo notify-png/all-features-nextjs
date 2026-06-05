@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Lyrics to MV per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Lyrics to MV utilizzando prompt o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LYRICS TO MV",
+    "h2": "Quando i testi sono la sceneggiatura, il video si scrive da solo",
+    "sections": [
+      {
+        "heading": "Perché il testo È lo storyboard",
+        "body": "I cantautori lo sanno già — un bel testo è uno shot list prima ancora di essere una canzone. 'Ho guidato nel deserto in un'auto senza nome' è un campo lungo. 'Si girò lentamente' è un piano medio con una testa che ruota. I lyric video che fanno fluttuare il testo su uno sfondo astratto ignorano il fatto che ogni riga è già un'istruzione visiva. Una pipeline lyrics-to-MV dovrebbe leggere quelle istruzioni, non incollare le parole su un gradiente."
+      },
+      {
+        "heading": "Cosa fa Tunee con il tuo foglio testi",
+        "body": "Incolla i testi con timestamp approssimativi (o solo il testo completo — Tunee lo allinea automaticamente all'audio) e Sage mappa ogni riga a un'inquadratura. I sostantivi concreti diventano visual di stabilimento, i verbi d'azione diventano movimenti di camera, le righe di ritornello ripetute riutilizzano l'immagine principale così che il ritornello si legga come tale anche visivamente. Puoi comunque avere la tipografia in sovraimpressione se vuoi — ma la tipografia si trova dentro una scena, non sopra di essa."
+      },
+      {
+        "heading": "Il consiglio per il prompt che cambia tutto",
+        "body": "Non parafrasare i tuoi testi in un prompt separato. Il testo è già specifico; il prompt dovrebbe essere la cornice estetica attorno ad esso. Prova così: i testi nel campo testi, poi una riga di prompt per il mondo ('Tokyo anni '70, pioggia, riflessi al neon nelle pozzanghere'), una per la camera ('a mano, 35mm, profondità di campo ridotta'), una per il personaggio ('poco più di 30 anni, giacca di pelle, mai ripreso di faccia'). Tunee gestisce i tagli riga per riga; tu gestisci il look."
+      }
+    ]
+  }
 }

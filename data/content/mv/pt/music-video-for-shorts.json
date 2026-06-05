@@ -39,5 +39,23 @@
       "q": "O gerador de vídeos de música YouTube Shorts do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e dispositivos móveis, então você pode criar vídeos de música YouTube Shorts de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA SHORTS",
+    "h2": "O YouTube Shorts não é TikTok com logo diferente — o público assiste de forma diferente",
+    "sections": [
+      {
+        "heading": "O que o Shorts realmente recompensa",
+        "body": "As curvas de retenção do Shorts são mais planas do que as do TikTok — os espectadores dão a você de 5 a 7 segundos antes de deslizar, não 3. A prateleira do Shorts também se inclina mais para descoberta de música do que o For You do TikTok, que favorece formatos de diálogo e meme. Para músicos, esta é a plataforma de formato curto mais indulgente: uma abertura direta com o gancho da música ainda funciona, mas você não precisa ser tão agressivo no início. 60 segundos é o limite rígido; 30 a 45 é a faixa mais assistida."
+      },
+      {
+        "heading": "Convenções que se traduzem do YouTube",
+        "body": "Como os espectadores de Shorts muitas vezes chegam pelo canal de conteúdo longo de um criador, a consistência da marca importa mais do que no TikTok. A paleta do colorista do seu vídeo principal, o mesmo personagem ou locação, a mesma tipografia na tela — esses elementos criam um fio visual entre o Short e o MV de 4 minutos que ele está promovendo. Trate o Short como um trailer do vídeo completo, não como um conteúdo independente com sua própria identidade visual."
+      },
+      {
+        "heading": "Como o Tunee lida com a divisão Shorts vs. YouTube",
+        "body": "Gere o MV completo uma vez, depois selecione o export para Shorts e o Tunee recorta para 60 segundos, reformata para 9:16 (com recomposição com rastreamento do sujeito, não um crop central), e escolhe o segmento de gancho mais forte automaticamente. A sincronização de áudio permanece intacta. Você obtém um Short que genuinamente veio do mesmo vídeo, que é exatamente o que a prateleira do Shorts foi construída para recompensar."
+      }
+    ]
+  }
 }

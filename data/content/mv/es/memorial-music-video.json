@@ -39,5 +39,23 @@
       "q": "¿Funciona con cualquier género de música, o solo conmemorativo?",
       "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá de conmemorativo. Puedes generar videos musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV MEMORIAL",
+    "h2": "Un video tributo que aguanta ser visto una y otra vez",
+    "sections": [
+      {
+        "heading": "Por qué el MV memorial es su propio formato",
+        "body": "Los slideshows de funerales suelen montarse en 48 horas bajo el peso del duelo: normalmente consisten en fotos de Facebook en orden cronológico y una pista de piano genérica. Un MV más elaborado, hecho días o semanas después, se convierte en el objeto al que la familia realmente vuelve en los cumpleaños, los aniversarios y los días del año que siguen. Es un trabajo diferente al del slideshow del servicio: menos exhaustivo, más curado, musicalizado con la canción que la persona realmente amaba en lugar de algo genéricamente sombrío."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Los cineastas de videos memoriales tienden a un vocabulario pequeño y repetible: la naturaleza muerta de un objeto familiar (una taza de café, unas gafas sobre un libro, una guitarra apoyada en la pared), el primer plano de una letra manuscrita, manos en una afición, la foto de la risa de cada reunión, la silla en la que siempre se sentaba. Las referencias estéticas son tranquilas y específicas: las instalaciones de video en cámara lenta de Bill Viola en el Getty y la Tate Modern, el Hoppipolla de Sigur Rós dirigido por Arni & Kinski (el estándar del montaje fúnebre), la paleta de Hope Is a Dangerous Thing de Lana Del Rey, el It's Such a Beautiful Day de Don Hertzfeldt para el duelo animado, los cortes de fotos fijas de Terrence Malick en The Tree of Life filmados por Emmanuel Lubezki. El instinto es usar todas las fotos jamás tomadas — resístelo. Quince imágenes específicas, bien dosificadas, superan a un centenar."
+      },
+      {
+        "heading": "Conviértelo en el recuerdo",
+        "body": "Los MVs memoriales no se comparten realmente — se guardan. Tunee renderiza un máster en alta resolución para los archivos familiares, una versión vertical para enviar de forma privada a quienes no pudieron estar presentes, y un formato 1:1 para una publicación de homenaje en el que hubiera sido el próximo cumpleaños."
+      }
+    ]
+  }
 }

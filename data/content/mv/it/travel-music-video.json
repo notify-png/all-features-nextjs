@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Travel di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali Travel da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL TRAVEL MV",
+    "h2": "Un recap di viaggio che non è solo selfie in aeroporto in fila",
+    "sections": [
+      {
+        "heading": "Perché un travel MV batte un photo dump",
+        "body": "I contenuti di viaggio hanno un problema di emivita: il dump va su durante la settimana del viaggio, gli amici ci scorrono sopra, e il viaggio diventa invisibile entro il secondo mese. Un MV con colonna sonora è il formato che sopravvive all'algoritmo — viene tirato fuori alle cene quando il viaggio torna nella conversazione, inviato a chi era con te all'anniversario, e conservato come il documento ufficiale del viaggio piuttosto che l'album casuale delle 400 foto su iCloud."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I cinematografi di viaggio tornano sempre agli stessi beat: l'ala dell'aereo dal finestrino, le mani su una mappa di carta, la nuca che entra in un mercato, il cibo dall'alto, la rivelazione dalla finestra dell'hotel, il close-up della valuta locale, il campo largo del marciapiede della metropolitana. Lo scaffale di riferimento è ben frequentato — Parts Unknown di Anthony Bourdain su CNN diretto da Tom Vitale e girato da Zach Zamboni, i tagli del vlog di Casey Neistat, lo stile di transizione smash-cut di Sam Kolder, la geometria della camera d'hotel di Wong Kar-wai in In the Mood for Love, l'inquadratura di Tokyo di Lost in Translation di Sofia Coppola ripresa da Lance Acord. Il singolo scatto migliore di qualsiasi viaggio è raramente il monumento — è il momento non in posa in un caffè che non riesci a pronunciare. Di' a Tunee su quali tre di questi vuoi ancorare."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Non elencare le città — produce un reel da cartolina. Dai invece a Tunee un ancoraggio sensoriale specifico per ogni location: 'Tokyo 7-Eleven alle 2 di notte, verde fluorescente', 'terrazza di Marrakech ora d'oro, mani che strappano il pane', 'stazione di servizio di Reykjavik, sole di mezzanotte'. Il modello gestisce meglio i luoghi attraverso la texture che attraverso il nome."
+      }
+    ]
+  }
 }

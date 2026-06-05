@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales Lo-fi de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web tanto en escritorio como en dispositivos móviles, para que puedas crear videos musicales lo-fi desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL LO-FI",
+    "h2": "El video lo-fi es una habitación en la que quieres estudiar",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el lo-fi",
+        "body": "Los visuales lo-fi son la inversión de la tradición del videoclip: sin intérprete, sin narrativa, sin cortes. Una escena en bucle — normalmente una habitación animada, un escritorio, una ventana con lluvia — acompaña la música durante horas. La paleta de color es apagada: tostados cálidos, azules polvorientos, rosas suaves al atardecer. La figura, si la hay, está animada al estilo del Studio Ghibli de finales de los noventa con un toque de ilustración japonesa contemporánea. El movimiento es mínimo: el movimiento de una cola, vapor de una taza, el giro de una página."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "La transmisión de YouTube de Lofi Girl — animada por Juan Pablo Machado, cuya estudiante en el escritorio y la ventana con vistas a París se convirtieron en el ancla visual del formato — sigue siendo la plantilla visual. Los loops anteriores de ChilledCow, la estética 'Twilight' de Idealism y la colección Anime Vibe en YouTube completan el canon. Los fondos del Studio Ghibli, especialmente las escenas de estudio de 'Susurros del corazón' y las habitaciones del balneario de 'El viaje de Chihiro' de Hayao Miyazaki, son la fuente no declarada. El tempo de piano tranquilo de Joe Hisaishi se ajusta perfectamente al ritmo del género. La regla: nada debe interrumpir nunca la atención del oyente hacia su propia tarea."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Diseña para la permanencia, no para la progresión. Dale a Tunee una sola escena con tres o cuatro pequeños bucles de movimiento: lluvia en la ventana, vapor subiendo del café, un gato respirando, un ventilador girando. Especifica la hora del día y que permanezca: 'última hora de la tarde, luz dorada desde la izquierda, lámpara encendida'. Evita los movimientos de cámara por completo. El objetivo es que el espectador olvide que el video existe. Apunta al silencio visual y añade un detalle minúsculo que recompense una segunda mirada."
+      }
+    ]
+  }
 }

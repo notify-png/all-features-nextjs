@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videos musicales Text to MV de Tunee en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web tanto en desktop como en dispositivos móviles, por lo que puedes crear videos musicales Text to MV desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "TEXTO AL MV",
+    "h2": "Escribe una frase. Obtén un videoclip con una canción que no existía hace cinco minutos",
+    "sections": [
+      {
+        "heading": "Qué hace realmente el texto-a-MV",
+        "body": "Dos sistemas de IA corriendo uno tras otro. El primero es un generador de música: tu prompt de texto produce una pista instrumental o vocal original con la duración y el BPM que especifiques. El segundo es el pipeline de MV, que recibe tanto el prompt como el audio recién generado. La parte interesante es que el modelo de video ve el prompt antes de que el audio exista, así que el mundo visual y el musical están diseñados para encajar en lugar de que el video sea adaptado a posteriori a una canción."
+      },
+      {
+        "heading": "Qué te da Tunee desde un solo prompt",
+        "body": "Una única entrada de texto — 'una pista de shoegaze lento sobre volver a casa bajo la lluvia, voz femenina, 80 BPM' — devuelve una pista de audio, un video cortado de 60 segundos y un stem descargable solo de la música. Puedes regenerar el audio sin rerenderizar el video, o viceversa. Útil cuando la canción llega pero los visuales fallan, o los visuales la clavan pero el estribillo necesita una segunda pasada. La mayoría de las herramientas de texto-a-MV acoplan las dos salidas; Tunee las mantiene deliberadamente separables."
+      },
+      {
+        "heading": "Dónde el texto-a-MV supera al upload-a-MV",
+        "body": "Dos escenarios. Primero, prototipado: tienes un concepto visual pero aún no tienes la canción, y licenciar un placeholder supone más fricción que generar uno. Segundo, velocidad de contenido: una marca que ejecuta una campaña de 30 días necesita 30 videos cortos distintos y 30 bandas sonoras distintas, y las matemáticas de las licencias no sobreviven a eso. Para videos de artistas individuales, upload-tu-canción sigue siendo la ruta correcta. Para todo lo demás, texto-a-MV es el camino más corto al primer fotograma."
+      }
+    ]
+  }
 }

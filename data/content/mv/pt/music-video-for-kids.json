@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe infantil para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe infantil usando diferentes prompts ou configurações de estilo, e então selecionar a versão que melhor se ajusta à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA CRIANÇAS",
+    "h2": "Videoclipes infantis têm regras que os MVs adultos não têm — brilhante, simples e seguro",
+    "sections": [
+      {
+        "heading": "O que 'videoclipe infantil' realmente exige",
+        "body": "A categoria é dominada por Cocomelon, Pinkfong e Super Simple Songs — e todos compartilham uma linguagem visual: cores primárias saturadas, design de personagens arredondado, ambientes simples em loop, letras cantadas com clareza e reforço visual literal (a palavra 'banana' na tela quando a palavra 'banana' é cantada). O algoritmo do YouTube Kids e as regras do COPPA impõem regras de conteúdo específicas: sem estroboscopia rápida, sem imagens assustadoras, sem atmosferas ambíguas. As restrições são mais rígidas do que em qualquer formato de MV adulto."
+      },
+      {
+        "heading": "O que funciona para o público de até 7 anos",
+        "body": "A repetição é um recurso, não um defeito. O visual do refrão deve ser o mesmo plano base toda vez para que a criança o antecipe. Os personagens devem ter consistência visual entre os cortes (um protagonista com aparência diferente a cada verso confunde os pré-leitores). A frequência de cortes deve ser mais lenta do que nos MVs adultos — 2 a 3 segundos por plano, não 0,8. Contagem, cores, animais, veículos e narrativas simples (ir dormir, comer o café da manhã, visitar o zoológico) dominam o cânone de conteúdo."
+      },
+      {
+        "heading": "Como o Tunee lida com o preset infantil",
+        "body": "O preset Infantil trava fortemente a consistência dos personagens (um personagem gerado mantém aparência visualmente idêntica em todos os planos), impõe um ritmo de corte mais lento, restringe a paleta a cores primárias e secundárias de alta saturação, e direciona o resultado por um filtro de segurança de conteúdo que sinaliza qualquer coisa ambígua antes da renderização. A saída é conforme com o YouTube Kids — 16:9 1080p, metadados seguros para o COPPA, sem momentos de susto. A mesma geração também exporta um corte 9:16 para o feed vertical do YouTube Kids."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali verticali di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali verticali da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULL'MV VERTICALE",
+    "h2": "Il verticale non è un crop — è una composizione diversa",
+    "sections": [
+      {
+        "heading": "Cosa richiede davvero il verticale",
+        "body": "Il formato 9:16 è nativamente pensato per TikTok, Reels, Shorts e Canvas. L'errore più comune è girare in orizzontale e tagliare dopo: il risultato tradisce subito l'approccio. Il soggetto principale va centrato, l'azione si sviluppa dall'alto verso il basso, i tagli seguono il ritmo dello scroll. Il primo frame deve bloccare il pollice entro un secondo. Il terzo inferiore è riservato allo spazio per i sottotitoli."
+      },
+      {
+        "heading": "Quando usarlo",
+        "body": "Nel 2026 è non negoziabile per qualsiasi release. Il promo del giorno di uscita su TikTok, i Reels e gli Shorts, lo Spotify Canvas, i billboard verticali — tutti richiedono 9:16 nativo. I creator che hanno costruito il loro linguaggio in verticale: Khaby Lame, Charli D'Amelio, Devon Rodriguez. Gli artisti che hanno scelto il verticale come formato primario: Doja Cat, Olivia Rodrigo, Lil Nas X, Ice Spice. Le campagne 'Shot on iPhone' di Apple hanno normalizzato il verticale anche nel cinema. È ormai il formato principale."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Componi per il 9:16 dall'inizio, non come adattamento successivo. Anticipa il hook nei primissimi frame. Lascia libero il 15% inferiore del frame per la safety zone dei sottotitoli. Tunee genera 9:16, 16:9 e 1:1 da un'unica generazione — non devi scegliere prima, ma impostare la composizione verticale come base garantisce che tutti i formati funzionino."
+      }
+    ]
+  }
 }

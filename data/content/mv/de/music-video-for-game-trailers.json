@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Game-Trailer-Musikvideos generieren, um diese zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Game-Trailer-Musikvideos mit verschiedenen Prompts oder Stil-Einstellungen generieren und dann die Version auswählen, die deiner Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR SPIELETRAILER",
+    "h2": "Ein Spieletrailer, der auf einen eigenen Song trifft, schlägt härter als Gameplay mit Bibliothekstrack",
+    "sections": [
+      {
+        "heading": "Warum musikgetriebene Spieletrailer funktionieren",
+        "body": "Das Genre, das dies definiert hat, ist wohlbekannt: der Halo 3 'Believe'-Trailer, das Witcher 3 'A Night to Remember'-Kinematic, jeder Bethesda-E3-Auftritt. Das Muster ist konsistent — starke Musik, kinematische Visuals ohne Gameplay, Lore-vorwärts ohne den Plot auszuplaudern. Der Trailer funktioniert als Musikvideo für die Spielwelt, was eine grundlegend andere Aufgabe ist als ein Gameplay-Sizzle-Reel. Indie-Studios überspringen das, weil Musik- und Kinematics-Budget unerreichbar wirken."
+      },
+      {
+        "heading": "Der Kinematics-Trailer-Kanon",
+        "body": "Langsamer Aufbau bis zur Titelkarte, ein einzelner Held-Charakter im Silhouettenintro, ein Wide-Shot, der die Welt in ihrer Skalierung verkauft, eine Montage getaktet auf die aufsteigende musikalische Phrase, ein Beat Stille vor dem finalen Hit, der Spieltitel und das Release-Datum als Auflösung. Das Pacing ist opernhaft — näher an einem Filmtrailer als an einem Musikvideo, aber die Musik leistet dieselbe strukturelle Arbeit, die in einem normalen MV eine Vocals-Spur übernehmen würde. Der Trailer wird durch den Song geformt, nicht andersherum."
+      },
+      {
+        "heading": "Wo Tunee seinen Platz in der Pipeline verdient",
+        "body": "Generiere die Partitur aus dem Mood-Briefing des Spiels (orchestral, Dark Synth, choral, Post-Rock — was auch immer die Welt fordert), generiere die kinematischen Visuals aus Concept-Art-Uploads und einem Prompt, der die Welt beschreibt, und schneide den Trailer auf die Struktur des Songs. Indie-Studios kommen von keinem Trailer zu einem vorzeigbaren Announce-Stück in Tagen statt Monaten. AAA-Studios nutzen Tunee für frühe Pitch-Decks und interne Demos, bevor das echte Kinematics-Team grünes Licht bekommt."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee 的像素藝術音樂視頻生成器是否支援行動設備？",
       "a": "Tunee 在桌面和行動設備上均可透過網頁瀏覽器完全存取，您可以在任何設備上建立像素藝術音樂視頻，無需安裝軟體。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於像素藝術 MV",
+    "h2": "像素藝術有它的規則，違反規則一眼看穿",
+    "sections": [
+      {
+        "heading": "真正的像素藝術需要什麼",
+        "body": "像素藝術不是一個濾鏡——它是一門紀律。真正的像素藝術以原生解析度繪製（通常為 320x180 或更小），使用手動限定的色板（16、32 或 64 色）。反鋸齒以中間值像素手工完成。抖動在離散色板上製造漸層。角色以 4 至 8 幀週期動畫。當 AI 通過縮小圖像和色調分離來模仿時，眼睛會立即察覺到不一致——顏色漂移、邊緣在幀與幀之間閃爍、抖動圖案無法平鋪。"
+      },
+      {
+        "heading": "這個視覺風格的源頭",
+        "body": "參考基礎：SNES 時代的 Square 遊戲（《Chrono Trigger》、《Final Fantasy VI》）、Game Boy Color 的強制色板、現代復興作品——Maddy Thorson 的《Celeste》、Eric Barone 的《Stardew Valley》、D-Pad Studio 的《Owlboy》、Square Enix 的《Octopath Traveler》HD-2D 圖層混合。值得點名的像素藝術家：eBoy 的等距城市、Paul Robertson 的動畫週期、Pedro Medeiros 的獨立教程、David OReilly 的方塊式超現實主義。音樂視頻相關：Anamanaguchi 的整個 Chiptune 目錄、Saint Pepsi 的 Vaporwave MV、Phil Fish 的《FEZ》原聲帶視覺化作品由 Disasterpeace 製作。Tunee 的像素藝術模型以原生低解析度訓練，輸出是像素鎖定的，而非模糊後量化的。"
+      },
+      {
+        "heading": "Tunee 提示技巧",
+        "body": "永遠說明解析度和色板數量：「320x180 原生像素藝術，32 色色板，僅手工放置的反鋸齒」。參考年代：「SNES 時代，《Chrono Trigger》色深」或「Game Boy Color，四色磚塊」。明確指定抖動：「漸層使用 Bayer 抖動，不使用平滑混合」。避免將像素藝術與照片寫實元素混用——這種對比讀起來像錯誤，而非風格選擇。"
+      }
+    ]
+  }
 }

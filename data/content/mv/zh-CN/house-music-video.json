@@ -39,5 +39,23 @@
       "q": "Tunee的House音乐视频生成器支持移动设备吗？",
       "a": "Tunee完全支持桌面和移动设备的网页浏览器访问，你可以从任何设备创建House音乐视频，无需安装软件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "House 音乐 MV 解析",
+    "h2": "House MV 的本质是把舞池的感受原封不动地端出来",
+    "sections": [
+      {
+        "heading": "House 视觉长什么样",
+        "body": "House 的生命属于一个固定场所——俱乐部、仓库、音乐节帐篷。好的 House MV 尊重这一点。镜头往往置身人群之中，镜头高度与肩膀齐平，头顶的灯光代替了摄影指导。频闪、激光、烟雾、汗水。DJ 很少出现超过几秒——重点是整个空间，而非某个人。色调偏向洋红-青色-琥珀的渲染，并在 drop 时不时炸出一片纯白过曝。"
+      },
+      {
+        "heading": "真正有效的参考作品",
+        "body": "Daft Punk 的《Around the World》——由 Michel Gondry 执导——至今仍是 House MV 以编舞呈现音乐的金标准。Disclosure 的《Latch》（featuring Sam Smith，由 Bo Mirosseni 执导）建立了现代双人舞动的视觉模板；他们与 Stink Studios 的系列合作定义了这对组合的整体视觉身份。Fred again.. 的 Boiler Room 现场证明了一台摄像机加上真实人群，完胜任何精心搭建的舞台。Honey Dijon 的现场捕捉、Peggy Gou 的《Nanga Eboko》、Frankie Knuckles 的历史档案影像，以及 Romy 的个人 MV，展示了 House 的视觉宽度。贯穿其中的共同点是诚实——那些假装自己不是「一个房间里有音乐」的 House MV，往往不到一年就过时了。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "把灯光装置当作画面中的角色来处理。向 Tunee 提示具体的灯具型号：「顶部洋红色 PAR 灯，两台摇头灯将青色光扫过后墙，薄雾浓到足以看见光束」。人体应当是局部的——一只举起的手、一个后脑勺、一张在频闪灯下呈现的侧脸——几乎从不拍全身。让镜头语言跟随 build-up、breakdown 和 drop 的节奏流动。House MV 的致命失误，就是把 breakdown 当成一段普通的主歌来拍。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Funciona con cualquier género de música, o solo con música latina?",
       "a": "Tunee admite una amplia gama de géneros y estilos visuales más allá del latino. Puedes generar videoclips musicales para pop, hip-hop, clásica y docenas de otros estilos usando la misma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL LATIN",
+    "h2": "El video latino lleva moda, geografía y ritmo con el mismo peso",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el Latin",
+        "body": "Los MVs latinos mezclan la energía de club del reggaeton con el drama del flamenco y las grabaciones al aire libre del pop regional mexicano. El vestuario es el canal más expresivo: alta costura mezclada con streetwear, detalles en oro y referencias culturales llevadas con intención. Los escenarios van desde paisajes costeros hasta azoteas urbanas y paisajes oníricos construidos. La cámara casi nunca se queda quieta: rodea, eleva, oscila. Los cortes van al ritmo de la percusión, lo que significa ediciones apretadas sobre el ritmo de dembow y silencios sostenidos en los momentos melódicos."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'Tití Me Preguntó' de Bad Bunny, dirigido por su colaborador habitual Stillz, muestra cómo mezclar la realidad del barrio puertorriqueño con el pulimento de un film de moda. El 'Saoko' de Rosalía y la era completa de Motomami es una masterclass de escenificación desnuda: paredes blancas, motocicletas, plena entrega al concepto. El 'PROVENZA' de Karol G definió una paleta de pop latino más suave y dorada, mientras que 'Ella Baila Sola' de Peso Pluma introdujo el regional mexicano en el panorama global. Maluma, Feid y los trabajos de colaboración dirigidos por Colin Tilley llevan el género hacia adelante por distintos caminos. La regla compartida: la cultura aparece como escenario, nunca como disfraz."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Ancla en un lugar real antes que en cualquier otra cosa. 'Azotea en San Juan al atardecer, palmeras visibles, océano distante' le da a Tunee una base sobre la que puede apoyarse la moda y la coreografía. Especifica los detalles del vestuario — 'cadenas de oro, camiseta blanca, pantalones de lino anchos' — con el mismo nivel de detalle que la locación. Cortes ajustados al dembow en los estribillos, luego deja correr un plano largo durante un verso para crear contraste. El género premia tanto la densidad como la respiración."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee 的極簡音樂視頻生成器在移動設備上能使用嗎？",
       "a": "Tunee 在桌面和移動設備的網絡瀏覽器上完全可用，因此您可以從任何設備製作極簡音樂視頻，無需安裝軟件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於極簡 MV",
+    "h2": "極簡主義是最難真正做到位的創作要求",
+    "sections": [
+      {
+        "heading": "極簡主義真正的定義",
+        "body": "極簡視頻不是「東西少」——它是刻意的負空間，以嚴謹的構圖托住單一主體。Apple 的產品影片是基準：一件物件、無縫曲面背景、一個光線方向、細微到值得持續凝視的動作。陷阱在事後才顯而易見：缺乏構圖節奏的空白讀起來是廉價，而非精煉。主體必須靠構圖取景、邊緣補光和刻意細小的動作，才能撐起周圍的負空間。"
+      },
+      {
+        "heading": "這個視覺風格的源頭",
+        "body": "視覺參考：Jony Ive 時代 TBWA\\Chiat\\Day 製作的 Apple 產品影片、Dieter Rams 的 Braun 設計攝影、Hiroshi Sugimoto 的海景、Olafur Eliasson 在 Tate Modern 的裝置、James Turrell 的 Skyspace 光線作品、Wes Anderson 的極簡端對稱構圖、Apichatpong Weerasethakul 在《記憶》中的慢速凝視。音樂視頻：Arni & Kinski 執導的 Sigur Rós〈Glosoli〉、Bon Iver 的〈Holocene〉視覺化作品，以及 Erased Tapes 廠牌旗下藝人（Olafur Arnalds、Nils Frahm）的作品。Tunee 的極簡模型將「極簡」理解為構圖上的克制，而非去除細節——物件表面仍需呈現真實的質感反應。"
+      },
+      {
+        "heading": "Tunee 提示技巧",
+        "body": "指定負空間比例：「主體佔據畫面中央三分之一，周圍 80% 留空」。將調色板鎖定為兩個色調：「米白色背景，單一物件使用啞光黑」。精確命名光線方向：「僅鏡頭左側有側光，無補光」。加入動作語言：「主體旋轉 5 度，鏡頭不動」。誘惑永遠是「再加一樣東西」——克制它。每添加一個元素，對構圖造成的損耗都遠超其帶來的增益。"
+      }
+    ]
+  }
 }

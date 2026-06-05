@@ -39,5 +39,23 @@
       "q": "Il generatore AI di video house di Tunee funziona su dispositivi mobile?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che mobile, quindi puoi creare video musicali house da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULL'HOUSE",
+    "h2": "I video house traducono la pista da ballo senza abbandonarla",
+    "sections": [
+      {
+        "heading": "Come appare l'house",
+        "body": "La house vive in un unico ambiente per la maggior parte della notte: il club, il warehouse, il tendone del festival. I buoni video house rispettano questo. La camera è spesso dentro la folla, l'obiettivo all'altezza delle spalle, le luci in alto a fare da cinematografia. Strobo, laser, fumo, sudore. Il DJ appare raramente per più di qualche secondo — il protagonista è la sala, non la figura. I colori tendono verso un lavaggio magenta-ciano-ambra, con l'occasionale sovrabbondanza di bianco puro sul drop."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Around the World' dei Daft Punk diretta da Michel Gondry rimane il gold standard dell'house come coreografia. 'Latch' dei Disclosure con Sam Smith (diretta da Bo Mirosseni) ha costruito il moderno template dei corpi in coppia; le loro collaborazioni più ampie con Stink Studios hanno definito l'identità visiva del duo. I tagli del Boiler Room di Fred again.. hanno dimostrato che una sola camera e una folla vera battono qualsiasi set costruito. Le riprese live di Honey Dijon, 'Nanga Eboko' di Peggy Gou, i filmati d'archivio di Frankie Knuckles e i video solisti di Romy mostrano l'ampiezza visiva. Il filo conduttore è l'onestà — i video house che fingono di essere qualcosa di diverso da una sala con della musica sembrano già invecchiati dopo un anno."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Tratta il rig di luci come un personaggio. Suggerisci a Tunee le fixture specifiche: 'par can zenitali in magenta, due moving head che spazzano il ciano sulla parete di fondo, foschia abbastanza densa da rendere visibili i fasci'. I corpi dovrebbero essere parziali — una mano alzata, la nuca, un profilo contro uno strobo — quasi mai inquadrature complete. Sincronizza la camera con il build, la breakdown, il drop. I video house muoiono quando trattano la breakdown come un verso."
+      }
+    ]
+  }
 }

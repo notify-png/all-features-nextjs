@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe R&B?",
       "a": "Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente digitar suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente ao seu videoclipe R&B."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE R&B",
+    "h2": "O vídeo de R&B torna um sentimento visível apenas através da luz",
+    "sections": [
+      {
+        "heading": "Como é o visual do R&B",
+        "body": "Os MVs modernos de R&B são essencialmente curtas-metragens com música. A iluminação carrega a maior parte do trabalho emocional: sombras profundas, uma única lâmpada prática, respingos de neon através de uma janela, luz de vela. Os color grades empurram para quente e saturado ou frio e dessaturado, raramente neutro. As composições são paradas — a câmera é paciente, muitas vezes fixada ou num dolly lento. O artista está sozinho no quadro mais vezes do que não, mesmo quando a música é sobre outra pessoa. O figurino é rico em textura: seda, couro, tricô."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "Os runs 'Dawn FM' e 'After Hours' de The Weeknd, ancorados pela longa colaboração visual com Anthony Mandler, são aulas magistrais de humor-como-estilo. O 'Snooze' e o 'Kill Bill' da SZA provam que o R&B narrativo ainda funciona quando a iluminação o merece. O 'Nikes' de Frank Ocean, dirigido por Tyrone Lebon, estabeleceu o padrão de R&B como filme experimental. O 'Cellophane' de FKA Twigs, dirigido por Andrew Thomas Huang, e o trabalho de Hiro Murai com Childish Gambino ('This Is America') estendem a forma. O 'Damage' da H.E.R., dirigido por Calmatic, e os visuais de 'A Seat at the Table' da Solange carregam a ambição de direção de arte. A regra compartilhada: humor acima de trama, sempre."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Nomeie suas fontes de luz explicitamente e limite-as a duas ou três. 'Única luz de sódio através de uma cortina de voile, uma luminária prática de cabeceira, sem preenchimento' dá ao Tunee a restrição de que precisa para renderizar o humor. Mantenha o artista sozinho no quadro a menos que uma segunda pessoa seja crítica. Planos longos nos versos, levemente mais curtos no gancho — mas nunca os cortes rápidos do pop. O color grade deve ser decidido cedo: 'calor âmbar' ou 'noite teal e magenta', nunca os dois."
+      }
+    ]
+  }
 }

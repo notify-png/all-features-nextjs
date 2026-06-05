@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un vidéoclip Neon Noir pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéoclip Neon Noir en utilisant différentes demandes ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU MV NEON-NOIR",
+    "h2": "Le néon-noir est le cousin plus silencieux et plus dangereux du cyberpunk",
+    "sections": [
+      {
+        "heading": "La distinction néon-noir",
+        "body": "Le néon-noir chevauche le cyberpunk sur la palette de couleurs, mais le cadrage est à l'opposé : serré, lent, centré sur les personnages plutôt que large et à l'échelle d'une ville. Pensez à une silhouette solitaire dans une voiture garée, un néon magenta qui saigne à travers le pare-brise, la pluie qui roule sur le verre en longs plans. La règle : une seule source lumineuse par plan, généralement colorée, tenant le cadre dans une ombre profonde. Le rythme est funèbre. L'histoire est suggérée, jamais racontée. Ce sont des tableaux d'Edward Hopper si Hopper avait utilisé une Cooke anamorphique."
+      },
+      {
+        "heading": "D'où vient ce look",
+        "body": "Le canon est petit et précis : Drive (2011) de Nicolas Winding Refn, Only God Forgives et The Neon Demon — la direction colorimétrique rose-et-cyan du compositeur Cliff Martinez constitue la moitié du look. Heat et Collateral de Michael Mann pour le Los Angeles nocturne. In the Mood for Love et Chungking Express de Wong Kar-wai pour la couleur et la mélancolie. Decision to Leave de Park Chan-wook pour le cadrage retenu. Clips musicaux : Out of Time de The Weeknd dirigé par Cliqua, National Anthem de Lana Del Rey par Anthony Mandler. Le modèle néon-noir de Tunee est entraîné sur des plans lents, un éclairage source unique et une portraiture avec faible profondeur de champ — distinct de la densité grand-angle du cyberpunk."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Spécifiez une caméra lente : « plan fixe » ou « dolly avant lent, 3 secondes par mouvement ». Verrouillez sur une seule source lumineuse : « néon magenta unique venant de cadre-droite, reste de la scène dans une ombre profonde ». Ajoutez « pluie sur le verre, premier plan » pour la texture signature du genre. Cadrez serré : « mi-gros plan, épaules dans le cadre, tête légèrement recadrée ». Évitez les plans larges de ville — c'est le territoire du cyberpunk. Le néon-noir est un genre de portrait portant les couleurs du cyberpunk."
+      }
+    ]
+  }
 }

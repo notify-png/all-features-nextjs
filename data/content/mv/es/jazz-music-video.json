@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi videoclip de Jazz?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu videoclip de Jazz automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL JAZZ",
+    "h2": "El jazz en pantalla le pide a la cámara que escuche primero",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el jazz",
+        "body": "Los videos de jazz se ruedan frecuentemente en blanco y negro, no por nostalgia, sino porque el color compite con la música. La cámara suele buscar a un músico a la vez — el saxofonista en pleno solo, la mano izquierda del contrabajista pulsando las cuerdas — y se queda. Humo, techos bajos, el fondo de una sala abarrotada. Cuando aparece el color, es el ámbar de las luces de tungsteno sobre madera oscura. El público suele ser visible, pero nunca el protagonista. El movimiento es pausado, a menudo un solo travelling lento a través del escenario."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Los directos de Robert Glasper en el Blue Note y su sesión en NPR Tiny Desk marcan el listón moderno para la captación íntima del jazz. 'Black Gold' de Esperanza Spalding equilibra composición y carácter. Las grabaciones de 'We Like It Here' de Snarky Puppy cambiaron la manera de filmar a una banda al situar al público dentro del estudio. 'Truth' y 'Street Fighter Mas' de Kamasi Washington funcionan tanto como película de concierto como como ensayo visual, mientras que la tradición documental del Jazz at Lincoln Center bajo la batuta de Wynton Marsalis sostiene el canon institucional. Las piezas de larga duración de Christian Scott aTunde Adjuah amplían aún más la forma. El instinto compartido: confiar en los músicos. La música no necesita ayuda."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Construye la sala antes que la banda. 'Club en un sótano, techo bajo, pared de ladrillo al fondo del escenario, dos velas en la mesa, un foco sobre el piano' le da a Tunee la base correcta. Luego especifica a quién seguir: 'la cámara sostiene la trompeta durante el solo, enfoca al batería al final de la frase'. Pide tomas largas y resiste el impulso de cortar en cada cambio. Los prompts en blanco y negro funcionan especialmente bien: Tunee gestiona mejor el rango tonal que el color complejo en condiciones de poca luz."
+      }
+    ]
+  }
 }

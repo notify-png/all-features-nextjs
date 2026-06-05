@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Podcasters-Musikvideo-Generator auf mobilen Geräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Podcasters-Musikvideos von jedem Gerät aus ohne Softwareinstallation erstellen können."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR PODCASTER",
+    "h2": "Podcasts stehen und fallen heute mit dem Clip, der auf TikTok gepostet wird",
+    "sections": [
+      {
+        "heading": "Warum Podcaster Musikvideo-Tools brauchen",
+        "body": "Die Podcast-Discovery-Pipeline hat sich verändert: Niemand findet heute eine neue Show mehr in Apple Podcasts. Man findet sie über einen 60-sekündigen Clip auf TikTok oder YouTube Shorts — mit der eingängigsten Zeile als Auto-Caption über das Gesicht des Hosts. Dieser Clip braucht visuelle Qualität, die das Rohkamera-Material nicht liefert — Colorgrading, auf die Silbe getaktete Captions, B-Roll zum Dialog geschnitten, Musik darunter, die die Show nicht per Copyright-Anspruch sperrt. Es ist ein Musikvideo-Workflow, auf Talking-Head-Content angewendet."
+      },
+      {
+        "heading": "Was bei Podcast-Promo-Clips funktioniert",
+        "body": "Zwei-Schuss von Host und Gast, gegen Einzelaufnahmen beim Pointen-Moment geschnitten. Auto-Captions in einem sauberen, schmalen Sans-Serif, Wort für Wort animiert. B-Roll (ein Archivfoto des besprochenen Themas, ein kurzer Filmclip, eine Grafik) eingefügt bei dem Substantiv, das gerade genannt wird. Sanfte instrumentale Musik unter dem Gespräch, gedämpft wenn die Sprecher lauter werden. 30 bis 60 Sekunden lang, Hook in den ersten 2 Sekunden, Ende auf der prägnantesten Zeile — nicht auf der logischsten Stelle."
+      },
+      {
+        "heading": "Wie Tunee das Podcaster-Preset handhabt",
+        "body": "Lade das Podcast-Audio hoch, markiere das zu schneidende Segment, und Tunee generiert Captions, wählt B-Roll aus deiner visuellen Bibliothek oder generiert neue Shots, legt einen instrumentalen Track ein, der die Sprache nicht überlagert, und exportiert 9:16 für TikTok/Shorts sowie 1:1 für Instagram Feed. Der Clip sieht aus wie ein gestaltetes Inhaltsstück — nicht wie eine Rohaufzeichnung deiner Riverside-Session. Episode-Promo, 10 Minuten Arbeit."
+      }
+    ]
+  }
 }

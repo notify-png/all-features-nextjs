@@ -39,5 +39,23 @@
       "q": "¿Funciona con cualquier género de música, o solo pop?",
       "a": "Tunee soporta una amplia gama de géneros y estilos visuales más allá del pop. Puedes generar videoclips musicales para pop, hip-hop, clásico y docenas de otros estilos usando la misma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL POP",
+    "h2": "El video pop establece el techo de presupuesto para todos los demás géneros",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el pop",
+        "body": "Los MVs de pop ofrecen la mayor densidad de producción del formato. Múltiples decorados personalizados, arcos de vestuario completos, hilos narrativos, equipos de coreografía, a veces un etalonaje digno de una película de largo. El artista es el centro de cada composición salvo cuando se retiene deliberadamente por razones narrativas. Los mundos cromáticos cambian por sección pero siempre sirven al arco emocional de la canción. El pop es el único género donde el público acepta un video de cuatro minutos que costó más por minuto que una película de Marvel, siempre que el hook aterrice."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'Bejeweled' y 'Anti-Hero' de Taylor Swift, ambos dirigidos por Swift con la influencia de larga data de Joseph Kahn en su catálogo, muestran la narración a escala. El 'vampire' y 'bad idea right?' de Olivia Rodrigo, dirigidos por Petra Collins, demuestran que un concepto único con pleno compromiso supera al espectáculo. El 'Houdini' de Dua Lipa devuelve la coreografía al centro del pop. El 'Espresso' de Sabrina Carpenter, dirigido por Bardia Zeinali, revive la tradición más ligera de los set-pieces, mientras que el trabajo de Dave Meyers para Travis Scott y Kendrick Lamar sigue siendo el estándar de oro de la industria. El hilo conductor es la intencionalidad: cada fotograma ha sido discutido por diez personas."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Trata el arco narrativo de la canción como el esqueleto del storyboard. Dale a Tunee decorados distintos por sección: dormitorio para el verso, pasillo para el pre-estribillo, escenario para el estribillo, azotea para el puente. El vestuario debe cambiar con el mundo. Nombra la era a la que apuntas — 'paleta de caramelos de Katy Perry de mediados de los 2010' o 'teatralidad pastel actual de Sabrina Carpenter' — para que las referencias visuales aterricen. Simetría en el drop del estribillo. Cierra siempre con un único fotograma icónico que el público pueda seguir imaginando una semana después."
+      }
+    ]
+  }
 }

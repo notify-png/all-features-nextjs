@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale reggae da confrontare?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale reggae utilizzando prompt diversi o impostazioni di stile, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL REGGAE",
+    "h2": "Il video reggae si ferma nell'ora d'oro e si rifiuta di andarsene",
+    "sections": [
+      {
+        "heading": "Come appare il reggae",
+        "body": "Gli MV reggae puntano su colori caldi, movimenti lenti di camera e luce all'aperto. Spiaggia al tramonto, strada di montagna, via del mercato — il paesaggio è co-protagonista con l'artista. Il fumo è quasi sempre in campo, morbido e diffuso. Il guardaroba è ampio e in fibre naturali: lino, denim, colori rasta usati come accento piuttosto che come uniforme. Il ritmo è paziente; i video reggae tagliano raramente più veloce dell'off-beat del rullante. La comunità è visibile — amici, famiglia, vicini compaiono senza essere messi in scena."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "Il filmato della performance di 'Redemption Song' di Bob Marley rimane lo standard emotivo. 'Welcome to Jamrock' di Damian Marley ha costruito il vocabolario moderno dell'MV reggae in stile documentario, con i filmmaker giamaicani come Storm Saulter (regista di 'Sprinter') che portano avanti la tradizione delle strade di Kingston nell'attuale generazione. 'Skankin' Sweet' di Chronixx porta la tradizione visiva del lover's rock nell'era attuale. 'Toast' di Koffee, 'Switch It Up' di Protoje e gli Easy Star All-Stars completano il set di riferimenti attuali. Il filo conduttore è l'autenticità della location — i video che non sembrano radicati in un posto reale, idealmente la Giamaica o un luogo che rispetta la tradizione, suonano falsi."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Fissa l'ora del giorno nella prima frase e non cambiarla mai. 'Tardo pomeriggio, un'ora prima del tramonto, luce arancione calda, lunghe ombre delle palme' dà a Tunee una base che può mantenere su più scene. Aggiungi dettagli di comunità — bambini che giocano sul bordo del frame, una coppia anziana su un portico — per ancorare il visivo. I movimenti di camera devono essere dolly lenti o camminate a mano, mai riprese con la gru. Taglia sull'off-beat skank, non sul downbeat."
+      }
+    ]
+  }
 }

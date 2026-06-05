@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'un clip vidéo Punk pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre clip vidéo Punk en utilisant différentes invites ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU PUNK",
+    "h2": "Le clip punk garde la caméra honnête en la gardant meurtrie",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le punk",
+        "body": "Les MV punk rejettent le polish par principe. Caméra portée, souvent tournée avec la caméra disponible, fréquemment dans une vraie salle avec un vrai public. L'éclairage est celui que la salle avait. Le groupe joue à plein volume ; le caméraman n'a clairement pas assez dormi. Les coupes sont en dents de scie, parfois des intercoupures d'une seule frame sur du bruit ou du texte. Le public fait partie du cadre, souvent le sujet principal. Il n'y a pas de séparation entre performer et audience — cette distinction est précisément ce que les vidéos punk cherchent à briser."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Mr. Motivator » d'IDLES est le template moderne — énergie de groupe, couleur, sans prétention. « Holiday » de Turnstile et l'ensemble du run « Glow On », réalisés par le membre Brendan Yates avec Ian Hurdle, montrent comment rendre le hardcore beau sans l'adoucir. « Big » de Fontaines DC apporte la lignée poétique post-punk dans le vocabulaire actuel. Des repères antérieurs — « Smells Like Teen Spirit » de Nirvana réalisé par Samuel Bayer, les tournages « London Calling » des Clash par Pennie Smith, et le travail live ultérieur de Liam Lynch avec les Foo Fighters — définissent encore à quoi ressemble un vrai pit à l'écran. La grammaire : aucune prise propre."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Précisez la taille de la salle. « Salle de sous-sol de cent personnes, condensation sur le plafond bas, scène à peine surélevée de quinze centimètres » donne à Tunee la bonne échelle. Le public doit apparaître dans presque chaque plan de refrain, corps flous au premier plan. Évitez de demander une mise au point nette ou un cadrage équilibré — « caméra portée, mise au point ratée, un spectateur dans le champ bouscule l'optique » est un vrai prompt qui fonctionne. Coupez sur la caisse claire, jamais sur le temps fort. Le punk vit sur le deuxième temps, pas sur le premier."
+      }
+    ]
+  }
 }

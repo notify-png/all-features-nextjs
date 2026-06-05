@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees Music Visualizer Video Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass Sie Music Visualizer Videos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER MUSIC VISUALIZER",
+    "h2": "Visualizer sind abstraktes Video mit einer einzigen Aufgabe: dem Song zuhören",
+    "sections": [
+      {
+        "heading": "Was ein Visualizer ist",
+        "body": "Music Visualizer ist das Format, in dem das Visuelle audio-reaktive abstrakte Bewegung ohne Erzählung, Charakter oder Ort ist — pure Reaktion auf Frequenz und Amplitude. Die Linie führt von Oskar Fischingers abstrakten Filmen der 1930er über die Winamp-Ära der 90er bis zu den heutigen Spotify Canvas-Loops und YouTube-Release-Day-Visualizern. Die Aufgabe ist es, Hörern etwas zum Anschauen zu geben, das mit dem Song atmet, oft als Placeholder-Visual auf einem YouTube-Upload oder als Spotifys loopende vertikale Grafik."
+      },
+      {
+        "heading": "Wann man ihn einsetzt",
+        "body": "Visualizer sind das richtige Format für instrumentelle und elektronische Releases, Lo-Fi-Hip-Hop-Streams, Spotify Canvas (8-Sekunden-Vertikalschleifen für jeden Track), YouTube-Release-Day-Uploads als Alternative zu einem statischen Bild, und überall dort, wo schnelles Liefern wichtiger ist als Narration. Die Toolchain-Referenzen: Andrew Kramers Video Copilot, Trapcode Particular von Peder Norrby, Robert Hodgins Trail-Generativkunst, Beeples Cinema 4D-Dailies. Acts, die Marken auf Visualizer-Ästhetik aufgebaut haben: Lorn, Bonobo, Tychos ISO50-Designarbeit, das Lofi Girl / ChilledCow-YouTube-Ökosystem. Wer monatlich Singles veröffentlicht, braucht eine Visualizer-Pipeline."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Sag Tunee das Format explizit: 'loopende 8-Sekunden-Spotify Canvas, 9:16 vertikal, nahtlose Schleife'. Das reaktive Element spezifizieren: 'Partikeldichte reagiert auf Bassfrequenzen, Farbwechsel bei Hochton-Transienten'. Wähle eine einzige Bewegungsprimitive — Fluid, Partikel, Geometrie oder Oszilloskop — nicht alle vier. Füge 'subtile Bewegung, hält für Wiederschauen' für Canvas hinzu; 'großer Aufbau passend zum Arrangement' für die volle YouTube-Länge. Tunee rendert 16:9 und 9:16 aus einer Generierung, du bekommst YouTube und Canvas in einem Durchgang."
+      }
+    ]
+  }
 }

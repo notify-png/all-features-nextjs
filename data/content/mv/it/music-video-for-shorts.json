@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali YouTube Shorts di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video musicali YouTube Shorts da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER I SHORTS",
+    "h2": "YouTube Shorts non è TikTok con un logo diverso — il pubblico guarda in modo diverso",
+    "sections": [
+      {
+        "heading": "Cosa premiano davvero gli Shorts",
+        "body": "Le curve di retention degli Shorts sono più piatte di TikTok — gli spettatori ti danno 5-7 secondi prima di scorrere, non 3. Lo shelf degli Shorts è anche più orientato alla scoperta musicale rispetto al For You di TikTok, che pende verso dialogo e format meme. Per i musicisti, questa è la piattaforma short-form più indulgente: un cold open con l'hook del brano funziona ancora, ma non hai bisogno di essere così aggressivo in apertura. 60 secondi è il tetto rigido; 30-45 è la fascia più vista."
+      },
+      {
+        "heading": "Convenzioni che si trasferiscono da YouTube",
+        "body": "Poiché gli spettatori degli Shorts spesso arrivano dal canale long-form di un creator, la coerenza del brand conta più che su TikTok. La palette del colorista del tuo video principale, lo stesso personaggio o location, la stessa tipografia in sovrimpressione — questi creano un filo visivo tra lo Short e l'MV di 4 minuti che sta promuovendo. Tratta lo Short come un trailer per il video completo, non come un pezzo di contenuto separato con la propria identità visiva."
+      },
+      {
+        "heading": "Come Tunee gestisce la divisione Shorts vs YouTube",
+        "body": "Genera l'MV completo una volta, poi scegli l'export Shorts e Tunee lo ritaglia a 60 secondi, lo ricadra a 9:16 (con ricomposizione tracciata sul soggetto, non un crop centrale) e sceglie automaticamente il segmento hook più forte. La sincronizzazione audio rimane intatta. Ottieni uno Short che è genuinamente uscito dallo stesso video, che è esattamente ciò che lo shelf degli Shorts è costruito per premiare."
+      }
+    ]
+  }
 }

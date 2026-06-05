@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali con slideshow di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali con slideshow da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULLO SLIDESHOW MV",
+    "h2": "Lo slideshow ha il suo posto — quando le foto sono il punto",
+    "sections": [
+      {
+        "heading": "Cos'è uno slideshow MV",
+        "body": "Il music video slideshow è una sequenza di still (foto, film scannerizzato, screenshot) tagliata su un brano con transizioni semplici — dissolvenza, push, pan-and-zoom Ken Burns. Il formato viene snobbato perché la maggior parte viene realizzata male con transizioni auto-generate su trenta foto casuali del telefono. Realizzato bene, è potente: il montaggio di apertura di Up è uno slideshow in movimento, le sequenze di foto di fine episodio di This Is Us, i reels tributo di Vimeo Staff Picks che le persone fanno per funerali e matrimoni. La disciplina è la curation — meno immagini tenute più a lungo."
+      },
+      {
+        "heading": "Quando usarlo",
+        "body": "Lo slideshow MV è il formato giusto per i video memoriali, i recap di matrimoni, le compilation del primo anno di vita, i reel di viaggio, i highlight dell'anno scolastico, i regali di anniversario. Il watermark cinematografico del formato è il montaggio di apertura di Up di Pete Docter (2009) — la vita coniugale in quattro minuti di still-in-movimento. I documentari PBS di Ken Burns (The Civil War, Baseball) hanno standardizzato il movimento pan-and-zoom sulle foto d'archivio che ora porta il suo nome. Le sequenze di foto di fine episodio di This Is Us su NBC. Funziona anche per gli atti del patrimonio che pubblicano materiale legacy, i fotografi che pubblicano musica, chiunque il cui archivio visivo sia fotografico. Il formato si adatta meglio al pop emotivo, al cantautore acustico e alla colonna sonora ambient che ai generi ad alta energia che richiedono match-cut in movimento."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Di' a Tunee la fonte e il ritmo: 'dodici fotografie totali in 90 secondi, slow zoom Ken Burns su ognuna, transizioni soft cross-fade, nessun movimento cinetico'. Specifica il trattamento fotografico: 'overlay leggero di grana cinematografica, leggera desaturazione per un aspetto più datato, nessun filtro in stile Instagram'. Aggiungi il timing delle transizioni alla struttura del brano: 'cambio foto a ogni cambio di accordo, tieni più a lungo sul ritornello'. Cura molto — dodici foto giuste battono cinquanta casuali."
+      }
+    ]
+  }
 }

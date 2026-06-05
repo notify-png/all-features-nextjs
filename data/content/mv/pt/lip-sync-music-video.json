@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe com Lip Sync para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe com Lip Sync usando diferentes prompts ou configurações de estilo, e depois selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV DE LIP SYNC",
+    "h2": "O lip sync é o formato de MV mais silenciosamente difícil",
+    "sections": [
+      {
+        "heading": "O que o vídeo de lip sync exige",
+        "body": "O lip sync parece simples — o performer faz biquinho com as palavras para a câmera — mas é o formato com menor margem para erro. O público acompanha o alinhamento labial-vocal de forma inconsciente, e qualquer desvio de alguns frames tira a pessoa da experiência completamente. A boca precisa corresponder ao posicionamento das consoantes (B/P/M fecham completamente, F/V encostam o lábio inferior nos dentes, as vogais abrem de formas diferentes). Além da sincronia, o formato precisa de interesse visual de um único sujeito por toda a duração da música — o que depende principalmente de iluminação, variações de enquadramento e energia do performer."
+      },
+      {
+        "heading": "Quando usar",
+        "body": "O MV de lip sync é a escolha certa quando o rosto e a presença do artista sustentam a música (Lana Del Rey, The Weeknd, Adele), quando o orçamento é pequeno e um local mais um performer é a limitação, ao lançar um single onde o foco é a melodia vocal, ou para conteúdo de close de rosto voltado para o TikTok. Os exemplos canônicos do formato: o 7/11 da Beyoncé, dirigido pela própria Beyoncé; o Sorry do Justin Bieber, dirigido por Parris Goebel; o Chandelier da Sia, coreografado por Ryan Heffington com Maddie Ziegler; a cultura do lip sync battle do RuPaul's Drag Race; os mood-films de moda de Hedi Slimane e Nicolas Ghesquière. Os diretores continuam descartando como 'só um vídeo de performance' — por isso é subestimado."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Ao gerar lip sync com o Tunee, fixe a posição do performer e adicione variação de iluminação ao longo da música: 'plano médio fechado, performer centralizado no quadro; iluminação muda de azul frio no verso para âmbar quente no refrão'. Especifique a prioridade da forma dos lábios: 'alinhamento preciso de consoantes, lábios fechados para B/P/M nesses fonemas'. Adicione um adereço ou mudança de figurino por seção para criar capítulos visuais. Mantenha a distância da câmera consistente — alternar entre aberto e fechado no lip sync quebra o encanto."
+      }
+    ]
+  }
 }

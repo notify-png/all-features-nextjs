@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à mon vidéoclip musical pour animaux de compagnie?",
       "a": "Tunee offre des options intégrées de superposition de paroles et de sous-titres. Il vous suffit d'entrer vos paroles et de choisir un style de texte, et l'IA les synchronisera automatiquement avec votre vidéoclip musical pour animaux de compagnie."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "LE MV ANIMALIER",
+    "h2": "Une vidéo de votre animal qui reste regardable après que l'algorithme l'a oubliée",
+    "sections": [
+      {
+        "heading": "Pourquoi les MV animaliers valent plus qu'un énième TikTok",
+        "body": "Le marché du contenu animalier est saturé — un clip amusant attire huit heures d'attention puis disparaît. Un MV scoré de 60 secondes est conçu pour une vie plus longue : il devient le post qui ancre l'anniversaire de l'animal, le mémorial le moment venu des années plus tard, et le partage que des amis vous renvoient vraiment. Les vétérinaires et les éducateurs canins utilisent aussi le format pour leurs récapitulatifs de fin d'année avec leurs clients."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours",
+        "body": "Les photographes animaliers connaissent le canon : le plan à hauteur du sol (ne jamais filmer un chien de dessus), les pattes sur le rebord de fenêtre, le hochement de tête sur un son hors-champ, le ventre en l'air endormi, la course vers la caméra dans un champ, le plan d'attente devant la porte avec la laisse. Les chats ajoutent les leurs : le pain, l'occupation de l'évier, la queue seule visible depuis une boîte, le clavier squatté sans prévenir. Les références culturelles incluent l'Isle of Dogs en stop-motion de Wes Anderson (2018), A Dog's Purpose de Lasse Hallström, les créateurs viraux comme Doug the Pug (@doug_the_pug), Jiffpom, et Nala Cat, ainsi que la photographie de chats mi-siècle de Walter Chandoha dans LIFE. Le modèle de Tunee reconnaît ces éléments comme un vocabulaire, pas comme du footage animalier aléatoire."
+      },
+      {
+        "heading": "Faites-en le cadeau",
+        "body": "L'usage inattendu : envoyez le MV à votre vétérinaire, votre dog-walker ou votre pet-sitter en fin d'année. C'est le genre de petite attention que les soignants gardent vraiment. Tunee sort du vertical pour la Story, du carré pour le post, et du grand écran pour le diaporama mémoriel que vous espérez ne pas avoir besoin avant longtemps."
+      }
+    ]
+  }
 }

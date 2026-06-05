@@ -39,5 +39,23 @@
       "q": "Funktioniert es mit jeder Musikrichtung oder nur mit Pop?",
       "a": "Tunee unterstützt ein breites Spektrum von Genres und visuellen Stilen jenseits von Pop. Du kannst Musikvideos für Pop, Hip-Hop, Klassik und Dutzende anderer Stile auf der gleichen Plattform generieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER POP",
+    "h2": "Pop-Video setzt das Budget-Ceiling für jedes andere Genre",
+    "sections": [
+      {
+        "heading": "Wie Pop aussieht",
+        "body": "Pop-MVs liefern die höchste Produktionsdichte im Format. Mehrere maßgeschneiderte Sets, vollständige Kostüm-Bögen, Erzähllinien, Choreografie-Crews, manchmal Spielfilm-Colorgrading. Der Künstler ist der Mittelpunkt jeder Komposition, außer wenn er für Erzählzwecke bewusst zurückgehalten wird. Farbwelten wechseln pro Abschnitt, dienen aber immer dem emotionalen Bogen des Songs. Pop ist das einzige Genre, bei dem das Publikum ein vierminütiges Video akzeptiert, das pro Minute mehr gekostet hat als ein Marvel-Film — solange der Hook zieht."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Taylor Swifts 'Bejeweled' und 'Anti-Hero', beide unter Swifts Regie mit Joseph Kahns langjährigem Einfluss auf ihren Katalog, zeigen Storytelling im großen Maßstab. Olivia Rodrigos 'vampire' und 'bad idea right?', Regie Petra Collins, beweisen, dass ein einziges Konzept mit vollem Einsatz Spektakel schlägt. Dua Lipas 'Houdini' bringt Tanz-Choreografie zurück in den Mittelpunkt des Pop. Sabrina Carpenters 'Espresso', Regie Bardia Zeinali, belebt die leichtere Set-Piece-Tradition, während Dave Meyers' Arbeit für Travis Scott und Kendrick Lamar der Gold-Standard der Industrie bleibt. Der verbindende Faden ist Intentionalität — jeder Frame wurde von zehn Personen diskutiert."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Behandle den narrativen Bogen des Songs als Skelett des Storyboards. Tunee für unterschiedliche Sets pro Abschnitt prompten: Strophe-Schlafzimmer, Pre-Chorus-Flur, Chorus-Bühne, Bridge-Rooftop. Kostüm sollte sich mit der Welt verändern. Die Ära benennen, auf die man zielt — 'Mitte-2010er Katy-Perry-Candy-Palette' oder 'aktuelle Sabrina-Carpenter-Pastell-Theatralik' — damit die visuellen Referenzen landen. Symmetrie beim Chorus-Drop. Immer mit einem einzigen ikonischen Frame abschließen, den das Publikum eine Woche später noch vor Augen hat."
+      }
+    ]
+  }
 }

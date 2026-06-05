@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Vaporwave-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Lyrics- und Untertitel-Overlay-Optionen. Geben Sie einfach deine Lyrics ein und wähle einen Textstil – die KI synchronisiert sie automatisch mit deinem Vaporwave-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER VAPORWAVE",
+    "h2": "Vaporwave-Video ist Konsumkultur, die in Echtzeit zerfällt",
+    "sections": [
+      {
+        "heading": "Wie Vaporwave aussieht",
+        "body": "Vaporwave-Visuals plünderten Konsumbilder der späten 80er und frühen 90er — Einkaufszentren, griechische Statuen, Windows-95-Interfaces, japanische Werbung, Palmen auf Kreditkarten-Logos — und liefen sie durch bewusste VHS-Degradierung. Farbpalette ist Pastell-Pink und Cyan mit gelegentlichem krankhaftem Grün. Text erscheint in japanischen Kanji und Chrom-Effekt-Englisch. Kompositionen sind langsame Zooms oder statische Long Takes. Nichts sollte so aussehen, als wäre es im aktuellen Jahrzehnt entstanden. Der gesamte Punkt ist Zeitversetzung."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "Macintosh Plus' 'Floral Shoppe' (Vektroids Projekt) Cover und die damit verbundenen fan-gemachten YouTube-Visuals definierten die gesamte Ästhetik in einem einzigen Bild — die Helios-von-Pergamon-Büste vor Pink und Cyan-Kanji. Die Simpsonwave-Edits der Mitte-2010er, pionierhaft von YouTuber Lucien Hughes, verbreiteten die visuelle Grammatik an ein breiteres Publikum. Saint Pepsi, Blank Banshees 'B:/ Start Up' und das AI-Lossy-Kollektiv liefern die musikalischen visuellen Begleiter. Das gemeinsame Quellmaterial: Gebrauchtladen-VHS-Kassetten, spätabendliche Kabel-Shopping-Kanäle, verlassene Einkaufszentrum-Fotografie von Künstlern wie Seph Lawless. Neuere Videos, die Vaporwave sein wollen, ohne diese Degradierung zu ehren, wirken wie Kostüm-Shop statt konzeptuell."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Drei Ären von Konsumbildern in einem Frame schichten. 'Griechische Marmorstatue im Vordergrund, 1995-Windows-Desktop-Wallpaper als Hintergrund, japanische Soda-Werbung links schwebend'. Die VHS-Behandlung als separate Prompt-Schicht spezifizieren: 'Tracking-Linien, Chroma-Bleeding, gelegentliche Aussetzer'. Farbe muss sanftes Pastell-Pink und Cyan sein, mit einem Off-Ton für Spannung. Bewegung sollte ein einzelner langsamer Zoom über die gesamte Szene sein, keine Schnitte. Tunee handhabt statische surreale Kompositionen besser als die meisten Generatoren, wenn du explizite Objektplatzierung gibst."
+      }
+    ]
+  }
 }

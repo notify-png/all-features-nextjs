@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale Vaporwave?",
       "a": "Tunee offre opzioni integrate per sovrapposizioni di testi e sottotitoli. Semplicemente inserisci i tuoi testi e scegli uno stile di testo, e l'AI sincronizzerà automaticamente il tuo video musicale vaporwave."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL VAPORWAVE",
+    "h2": "Il video vaporwave è la cultura consumista che decade in tempo reale",
+    "sections": [
+      {
+        "heading": "Come appare il vaporwave",
+        "body": "Il vaporwave ha saccheggiato l'immaginario consumer di fine anni Ottanta e inizio Novanta — centri commerciali, statue greche, interfacce di Windows 95, pubblicità giapponese, palme — il tutto filtrato attraverso la degradazione VHS. La palette è pastello: rosa e ciano dominano, con testo in kanji giapponese e chrome in inglese. Il movimento preferito è lo slow zoom prolungato o il piano fisso lungo, mai il montaggio frenetico."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "La copertina di 'Floral Shoppe' di Macintosh Plus e i video YouTube dei fan hanno definito l'estetica originale. I montaggi Simpsonwave, Saint Pepsi e 'B:/ Start Up' di Blank Banshee restano punti di partenza essenziali, così come il collettivo AI Lossy. Le fonti visive di riferimento sono le videocassette VHS dei mercatini dell'usato, i canali shopping notturni via cavo anni Novanta e la fotografia di centri commerciali abbandonati di Seph Lawless."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Stratifica tre ere dell'immaginario consumer in un unico frame — non una alla volta. Specifica il trattamento VHS separatamente dagli altri effetti. Il colore deve essere pastello morbido: rosa e ciano, niente saturazione alta. Il movimento ideale è un singolo slow zoom continuo sull'intera scena, senza tagli intermedi. Resistere alla tentazione di tagliare: il vaporwave respira nel tempo lungo."
+      }
+    ]
+  }
 }

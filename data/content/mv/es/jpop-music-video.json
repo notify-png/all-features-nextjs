@@ -39,5 +39,23 @@
       "q": "¿Admite exportar vídeos musicales J-pop en resolución 4K?",
       "a": "Absolutamente. Tunee exporta vídeos musicales J-pop en resolución de hasta 4K, dejándolos listos para YouTube, plataformas de streaming y pantallas de gran tamaño."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL J-POP",
+    "h2": "El video de J-pop se mueve a la velocidad de la atención misma",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el J-pop",
+        "body": "El ritmo de montaje de los MVs de J-pop es más rápido que casi cualquier equivalente occidental — un plano promedio de tres segundos, a veces menos. Los decorados son gráficos y codificados por color según la sección, cambiando completamente entre el verso y el estribillo. La coreografía es precisa pero expresiva, no milimétrica como en el K-pop. La influencia del anime se nota en el encuadre: líneas de velocidad, fotogramas de impacto, zooms súbitos sobre un único ojo. El vestuario se inclina hacia la moda urbana o hacia lo teatralmente estilizado, rara vez a medias."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "El 'Idol' de Yoasobi (apertura de Oshi no Ko), con la dirección creativa de Min Hee-jin de ADOR y grabado por Shin Woo-seok de Naive Production, muestra la cima actual: cortes rápidos, tie-in de anime, bloques de escenas codificados por color. 'Kaiju no Hanauta' de Vaundy demuestra que un intérprete único en entornos cambiantes puede sostenerlo todo. 'Usseewa' de Ado y los visuales de One Piece Film: Red se inclinan completamente hacia la animación. 'Hakujitsu' de King Gnu usa paleta apagada y tensión lenta para romper las reglas. La línea de lyric-videos de Eve con el director Tomohito Tatemiya, 'Inferno' de Mrs. GREEN APPLE y 'Pretender' de Official HIGE DANdism completan el conjunto de referencias modernas. Cada fotograma está compuesto, nunca es accidental."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Divide la canción en secciones antes de escribir el prompt. El primer verso puede ser un dormitorio en pastel; el pre-estribillo, un pasillo en azul frío; el estribillo, un escenario rojo saturado con el equipo completo de baile. Dile a Tunee que cambie la paleta en cada transición de sección. Especifica la duración de los planos: 'cortes de dos segundos a lo largo del estribillo, sostén el puente durante seis'. Añade un elemento de gramática anime por estribillo: un primer plano súbito sobre las manos, un fotograma congelado, una sacudida de pantalla. El género premia la ambición visual."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe de Ano Novo para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de Ano Novo usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se encaixa na sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DE ANO NOVO",
+    "h2": "Um vídeo de retrospectiva do ano que não foi gerado automaticamente por um app",
+    "sections": [
+      {
+        "heading": "Por que o seu próprio MV de fim de ano supera o Spotify Wrapped",
+        "body": "Todas as plataformas agora lançam um resumo de fim de ano gerado automaticamente — útil, esquecível e idêntico para cada usuário. Um MV pessoal de fim de ano é o antídoto: de 60 a 90 segundos que você realmente curadoria, pontuado pela música que definiu o ano em vez daquela que você mais ouviu. Casais os fazem como substitutos do aniversário de relacionamento, freelancers os fazem como resumos de portfólio, e grupos de amigos os fazem como o envio do grupo de fim de ano no dia 31 de dezembro."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Os cortes de fim de ano vivem em três beats repetidos: trânsito de viagem (portões de aeroporto, janelas de trem, dashboards de road trip), refeições compartilhadas (a mesa de cima, o brinde, o close da vela) e vitórias silenciosas (um manuscrito terminado, uma conquista na academia, uma chave numa porta nova). A referência cultural é barulhenta e específica — a tradição do Rockin' Eve de Dick Clark e a queda da bola da Times Square desde 1907, o Jools Holland Hootenanny da BBC em 31 de dezembro, os fogos do Porto de Sydney e do London Eye. Fechar com um plano aberto de fogos de artifício ou um beijo à meia-noite é o movimento óbvio — funciona porque todo mundo espera. Abrace em vez de evitar."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Resista à tentação de comprimir doze meses de material em um único MV — escolha de três a cinco momentos e deixe-os respirar. O Tunee lida melhor com o ritmo quando recebe menos âncoras específicas. Um prompt nomeando 'varanda em Lisboa de manhã, julho; sala de espera do hospital em setembro; cobertura de Ano Novo em dezembro' produz um corte mais assistível do que um briefing cheio de marcadores do ano."
+      }
+    ]
+  }
 }

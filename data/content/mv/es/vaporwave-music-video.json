@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi videoclip vaporwave?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu videoclip vaporwave automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL VAPORWAVE",
+    "h2": "El video de vaporwave es la cultura de consumo decayendo en tiempo real",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el vaporwave",
+        "body": "Los visuales de vaporwave saquearon la imaginería del consumidor de finales de los 80 y principios de los 90 — centros comerciales, estatuas griegas, interfaces de Windows 95, publicidad japonesa, palmeras en logos de tarjetas de crédito — y los pasaron por una degradación deliberada de VHS. La paleta de color es rosa pastel y cian con algún verde enfermizo ocasional. El texto aparece en kanji japonés e inglés con efecto cromo. Las composiciones son zooms lentos o planos estáticos largos. Nada debe parecer hecho en la década actual. El objetivo entero es la dislocación en el tiempo."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "La portada de 'Floral Shoppe' de Macintosh Plus (proyecto de Vektroid) y los visuales de YouTube creados por fans definieron toda la estética en una sola imagen: el busto del Helios de Pérgamo sobre kanji rosa y cian. Las ediciones Simpsonwave de mediados de los 2010, pioneras por el youtuber Lucien Hughes, difundieron la gramática visual a un público más amplio. Saint Pepsi, el 'B:/ Start Up' de Blank Banshee y el colectivo AI Lossy proporcionan los compañeros visuales de la música. El material fuente compartido: cintas de VHS de tiendas de segunda mano, canales de compra por cable de madrugada, fotografía de centros comerciales abandonados de artistas como Seph Lawless. Los videos más nuevos que intentan ser vaporwave sin rendir homenaje a esa decadencia tienden a parecer una disfraces de tienda de temporada en lugar de conceptuales."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Combina tres eras de imaginería de consumo en un solo plano. 'Busto de mármol griego en primer plano, fondo de papel tapiz de Windows 1995, anuncio de refresco japonés flotando a la izquierda'. Especifica el tratamiento de VHS como una capa separada de prompt: 'líneas de seguimiento, sangrado de croma, dropout ocasional'. El color debe ser rosa pastel suave y cian con un tono discordante para crear tensión. El movimiento debe ser un único zoom lento a través de toda la escena, nunca cortes. Tunee maneja mejor las composiciones surrealistas estáticas que la mayoría de los generadores cuando le das una colocación explícita de objetos."
+      }
+    ]
+  }
 }

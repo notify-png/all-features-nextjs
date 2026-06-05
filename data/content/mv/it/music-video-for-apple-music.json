@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale per Apple Music?",
       "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi, scegli uno stile di testo, e l'AI li sincronizzerà automaticamente al tuo video musicale Apple Music."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER APPLE MUSIC",
+    "h2": "I video per Apple Music sono un formato diverso da tutti gli altri",
+    "sections": [
+      {
+        "heading": "Cosa chiede davvero Apple",
+        "body": "Apple Music ha tre superfici video: il music video standard (distribuito tramite il distributore dell'artista, di solito 16:9 1080p o 4K), Motion Lyrics (un formato verticale centrato sui testi che anima ogni riga mentre il brano scorre) e Spatial Video per Vision Pro (mappato in profondità 3D, 9:16 o 16:9, attualmente una superficie piccola ma in crescita). Gli standard sono più severi di quelli di YouTube — il QC di Apple rifiuta davvero i video per specifiche tecniche mancate."
+      },
+      {
+        "heading": "Cosa premia Motion Lyrics",
+        "body": "Motion Lyrics è il formato che la maggior parte delle etichette sottoutilizza. È verticale, si riproduce a schermo intero su iPhone e Apple lo cura editorialmente nelle playlist. Il canone visivo è sottile: un singolo sfondo con texture (grana cinematografica, gradiente, particella lenta), testo dei testi in un carattere che corrisponde all'identità dell'album, animazione riga per riga che atterra sulla sillaba. Non evidenziazioni di parole in stile karaoke — rivelazioni a livello di riga sincronizzate agli ingressi vocali."
+      },
+      {
+        "heading": "Come Tunee gestisce i formati Apple",
+        "body": "Il preset Apple Music produce tre output da una sola generazione: 16:9 4K per lo slot MV standard, un taglio Motion Lyrics 9:16 con rivelazioni di righe temporizzate sullo sfondo scelto, e un MP4 depth-map pronto per Spatial Video per la superficie Vision Pro. Tutti e tre sono conformi alle specifiche per il caricamento sui distributori Apple. Il timing dei testi riutilizza l'allineamento che Tunee già esegue per il workflow lyrics-to-MV, così il brano non viene taggato due volte."
+      }
+    ]
+  }
 }

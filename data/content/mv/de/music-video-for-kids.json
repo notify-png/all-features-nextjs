@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Kindermusik-Videos erstellen, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Kindermusik-Videos mit verschiedenen Prompts oder Stileinstellungen erstellen und dann die Version wählen, die deiner Vision am besten entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR KINDER",
+    "h2": "Kinder-Musikvideos haben Regeln, die Erwachsenen-MVs nicht kennen — hell, einfach, sicher",
+    "sections": [
+      {
+        "heading": "Was 'Kinder-Musikvideo' wirklich verlangt",
+        "body": "Die Kategorie wird von Cocomelon, Pinkfong und Super Simple Songs dominiert — und alle teilen eine visuelle Sprache: gesättigte Grundfarben, abgerundetes Charakter-Design, einfache Loop-Umgebungen, klar gesungene Liedtexte mit visueller Wortwörtlichkeit (das Wort 'Banane' erscheint auf dem Bildschirm, wenn das Wort 'Banane' gesungen wird). Sowohl der YouTube Kids-Algorithmus als auch COPPA schreiben spezifische Content-Regeln vor: kein schnelles Flackern, keine beängstigenden Bilder, keine unklare Stimmung. Die Einschränkungen sind enger als bei jedem anderen Erwachsenen-MV-Format."
+      },
+      {
+        "heading": "Was für die Unter-7-Audience funktioniert",
+        "body": "Wiederholung ist ein Feature, kein Fehler. Der Chorus-Visual sollte jedes Mal derselbe Shot sein, damit das Kind ihn antizipiert. Charaktere sollten über Cuts hinweg modellkonsistent bleiben — ein von Strophe zu Strophe anders aussehender Hauptcharakter verwirrt Leseanfänger. Die Schnittfrequenz sollte langsamer sein als bei Erwachsenen-MVs — 2 bis 3 Sekunden pro Shot, nicht 0,8. Zählen, Farben, Tiere, Fahrzeuge und einfache Erzählungen (ins Bett gehen, Frühstücken, den Zoo besuchen) dominieren den Content-Kanon."
+      },
+      {
+        "heading": "Wie Tunee das Kids-Preset handhabt",
+        "body": "Das Kids-Preset setzt Charakter-Konsistenz streng durch (ein generierter Charakter bleibt über jeden Shot hinweg optisch identisch), erzwingt ein langsameres Schnitt-Tempo, beschränkt die Palette auf hochgesättigte Primär- und Sekundärfarben und leitet die Ausgabe durch einen Content-Safety-Filter, der alles Zweideutige vor dem Rendern markiert. Die Ausgabe entspricht YouTube Kids-Spezifikationen — 16:9 1080p, COPPA-sichere Metadaten, keine Schreckmomente. Dieselbe Generierung exportiert auch einen 9:16-Schnitt für den vertikalen YouTube Kids-Feed."
+      }
+    ]
+  }
 }

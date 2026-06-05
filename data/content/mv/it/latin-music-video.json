@@ -39,5 +39,23 @@
       "q": "Funziona con qualsiasi genere musicale, o solo con il latin?",
       "a": "Tunee supporta un'ampia gamma di generi e stili visivi oltre il latin. Puoi generare video musicali per pop, hip-hop, classica e dozzine di altri stili usando la stessa piattaforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SULLA LATIN",
+    "h2": "Il video Latin porta moda, geografia e ritmo con lo stesso peso",
+    "sections": [
+      {
+        "heading": "Come appare la Latin",
+        "body": "Gli MV Latin mescolano l'energia da club della reggaeton con il dramma del flamenco e le riprese all'aperto del pop regionale messicano. Il guardaroba è il canale più rumoroso — couture mescolata con streetwear, dettagli dorati, riferimenti culturali indossati con intenzione. Le ambientazioni si muovono tra paesaggi costieri, terrazze urbane e dreamscape costruiti. La camera raramente si ferma: gira, si sposta, oscilla. I montaggio segue la percussione, il che significa tagli stretti sul ritmo dembow e respiri trattenuti durante i momenti melodici."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'Tití Me Preguntó' di Bad Bunny, diretta dal suo storico collaboratore Stillz, mostra come mescolare la realtà del quartiere portoricano con la lucidità del fashion film. 'Saoko' di Rosalía e l'intera era Motomami è una masterclass in allestimento essenziale — pareti bianche, moto, impegno totale nel concetto. 'PROVENZA' di Karol G ha definito una palette Latin pop più morbida e dorata, mentre 'Ella Baila Sola' di Peso Pluma ha portato il regional Mexicano nel contesto globale. Maluma, Feid e il lavoro di crossover diretto da Colin Tilley portano avanti il genere su binari diversi. La regola condivisa: la cultura appare come scenario, mai come costume."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Àncora il tutto in un luogo reale prima di qualsiasi altra cosa. 'Rooftop a San Juan al tramonto, palme visibili, oceano lontano' dà a Tunee una base su cui moda e coreografia possono appoggiarsi. Specifica i dettagli del guardaroba — 'catene d'oro, canotta bianca, pantaloni di lino larghi' — con lo stesso livello di dettaglio della location. Taglia stretto sul dembow nei ritornelli, poi lascia girare un'inquadratura lunga durante una strofa per contrasto. Il genere premia sia la densità che il respiro."
+      }
+    ]
+  }
 }

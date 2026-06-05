@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale Jazz?",
       "a": "Tunee offre opzioni integrate per sovrapporre testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'IA li sincronizzerà automaticamente al tuo video musicale Jazz."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL JAZZ",
+    "h2": "Il jazz sullo schermo chiede alla camera di ascoltare prima",
+    "sections": [
+      {
+        "heading": "Come appare il jazz",
+        "body": "I video jazz sono spesso in bianco e nero non per nostalgia, ma perché il colore compete con la musica. La camera tende a trovare un musicista alla volta — il sassofonista nel mezzo di un assolo, la mano sinistra del contrabbassista che cammina — e a restare. Fumo, soffitti bassi, il fondo di una sala affollata. Quando il colore appare è ambra al tungsteno su legno scuro. Il pubblico è di solito visibile ma non è mai il soggetto. Il movimento è paziente, spesso un singolo lento dolly attraverso il palco."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "I tagli live di Robert Glasper al Blue Note e la sua NPR Tiny Desk session fissano il limite moderno per la ripresa jazz intima. 'Black Gold' di Esperanza Spalding bilancia composizione e carattere. I film registrati di 'We Like It Here' degli Snarky Puppy hanno cambiato il modo di filmare le band mettendo il pubblico dentro lo studio. 'Truth' e 'Street Fighter Mas' di Kamasi Washington funzionano sia come film-concerto che come saggio visivo, mentre la tradizione documentaristica del Jazz at Lincoln Center sotto Wynton Marsalis porta avanti il canone istituzionale. I pezzi performativi di lunga durata di Christian Scott aTunde Adjuah estendono ulteriormente la forma. L'istinto condiviso: fidati dei musicisti. La musica non ha bisogno di aiuto."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Costruisci la sala prima della band. 'Club sotterraneo, soffitto basso, muro di mattoni dietro il palco, due candele sui tavoli, un unico spot sul piano' dà a Tunee la base giusta. Poi specifica cosa seguire: 'la camera tiene la tromba durante l'assolo, mette a fuoco il batterista alla fine della frase'. Chiedi take lunghi e resisti all'impulso di tagliare a ogni cambiamento. I prompt in bianco e nero funzionano particolarmente bene — Tunee gestisce meglio la gamma tonale che il colore complesso in bassa luce."
+      }
+    ]
+  }
 }

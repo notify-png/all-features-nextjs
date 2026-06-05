@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Instagram Reels Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Du kannst mehrere Variationen deines Instagram Reels Musikvideos mit verschiedenen Prompts oder Stil-Einstellungen generieren und dann die Version wählen, die am besten zu deiner Vision passt."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR REELS",
+    "h2": "Reels belohnt visuellen Schliff über rohe Originalität",
+    "sections": [
+      {
+        "heading": "Warum Reels ein eigenes Gespräch ist",
+        "body": "Instagrams Publikum ist älter und markenbewusster als das von TikTok. Reels-User verzeihen einen etwas langsameren Einstieg, sind aber weniger nachsichtig gegenüber Low-Production-Value — die Plattform ist von Natur aus aspirationell. Die 90-Sekunden-Grenze gibt mehr Raum für eine Strophe und einen Chorus, und die native Musikbibliothek bedeutet, dass du deinen Track als Reels-Audio hochladen und andere Creator nutzen lassen kannst — das ist der eigentliche Verbreitungs-Hebel für Musiker auf dieser Plattform."
+      },
+      {
+        "heading": "Konventionen, die auf Reels gewinnen",
+        "body": "Colorgrading, bewusste Komposition, Lyric-Overlays in sauberem Sans-Serif, Übergänge, die den Beat treffen ohne damit zu prahlen. Die Reels-Ästhetik leiht sich mehr vom Fashion-Film als vom TikTok-Chaos — denk an Daniel Caesars Videos, Steve Lacys visuelle Rollouts, die Art wie FKA Twigs jeden Frame wie ein Standbild behandelt. Vertikal 9:16, Hook bis zur 5-Sekunden-Marke, aber die ersten 5 Sekunden können diesen Hook mit einem Aufbau verdienen."
+      },
+      {
+        "heading": "Tunees Reels-Export und der Audio-Hebel",
+        "body": "Das Reels-Preset gibt 9:16 in 1080p aus, maximal 90 Sekunden, mit dem Audio-Track separat als MP3 exportiert, den du als Reels-Audio hochladen kannst. Das ist der Multiplikator — dein Video wird einmal abgespielt, dein Audio wird von 50 anderen Creatorn verwendet, die zurücktaggen. Tunee generiert auch einen 30-sekündigen 'Teaser'-Schnitt neben dem vollen Reel für Cross-Posting als Story — eine Generierung bespielt also drei Verteilungsflächen."
+      }
+    ]
+  }
 }

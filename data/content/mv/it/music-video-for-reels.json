@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale per Instagram Reels da confrontare?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Instagram Reels utilizzando prompt diversi o impostazioni di stile differenti, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER I REELS",
+    "h2": "I Reels premiano la qualità visiva rispetto alla novità grezza",
+    "sections": [
+      {
+        "heading": "Perché i Reels sono una conversazione a parte",
+        "body": "Il pubblico di Instagram è più anziano e più abituato ai brand rispetto a quello di TikTok. Gli utenti di Reels tollerano un'apertura più lenta, ma sono meno indulgenti con filmati di bassa qualità produttiva — la piattaforma è ancora di default aspirazionale. Il tetto dei 90 secondi significa che hai più spazio per una strofa e un ritornello, e la libreria musicale nativa significa che puoi caricare il tuo brano come audio Reels e lasciare che altri creator lo utilizzino, che è la vera mossa di distribuzione per i musicisti su questa piattaforma."
+      },
+      {
+        "heading": "Convenzioni che vincono sui Reels",
+        "body": "Color grade, composizione deliberata, overlay dei testi in carattere sans-serif pulito, transizioni che seguono il beat senza urlarlo. L'estetica Reels prende in prestito più dal fashion film che dal caos di TikTok — pensa ai video di Daniel Caesar, ai rollout visivi di Steve Lacy, al modo in cui FKA Twigs tratta ogni frame come una still. Verticale 9:16, hook entro 5 secondi, ma i primi 5 secondi possono guadagnare quell'hook con un build."
+      },
+      {
+        "heading": "L'export Reels di Tunee e il gioco audio",
+        "body": "Il preset Reels produce 9:16 a 1080p, massimo 90 secondi, con la traccia audio esportata separatamente come MP3 che puoi caricare come Reels Audio. Questo è il moltiplicatore — il tuo video viene riprodotto una volta, la tua audio viene usata da altri 50 creator che taggano a ritroso. Tunee genera anche un taglio 'teaser' di 30 secondi accanto al Reel completo per la cross-pubblicazione come Storia, così una sola generazione alimenta tre superfici di distribuzione."
+      }
+    ]
+  }
 }

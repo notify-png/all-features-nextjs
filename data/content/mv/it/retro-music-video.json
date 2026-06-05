@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale Retro?",
       "a": "Tunee offre opzioni integrate di overlay di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'IA li sincronizzerà automaticamente al tuo video musicale Retro."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL RETRO MV",
+    "h2": "Il retro è un decennio, non un'atmosfera — scegline uno",
+    "sections": [
+      {
+        "heading": "L'epoca conta più della parola",
+        "body": "Retro è inutile come etichetta unica perché ogni decennio aveva un look diverso. Anni '70: pellicola Kodak calda, anamorphic morbido, colletti larghi, gialli da station-wagon. Anni '80: video Betacam, sanguinamento cromatico VHS, grafica neon su nero, estetica bumper MTV. Anni '90: Hi-8 granulosa, denim lavato e flanella, la grana del film indie di Kids e Clerks. Anni 2000: early digital, rumore video ipernetto, stile fotografico era MySpace. Scegliere il decennio sbagliato per il proprio riferimento è il fallimento AI-retro più comune."
+      },
+      {
+        "heading": "Da dove viene questo look",
+        "body": "Touchstone per era: Days of Being Wild di Wong Kar-wai per Hong Kong anni '70, Boogie Nights di Paul Thomas Anderson per l'autenticità della pellicola, l'intero catalogo MTV 1981-1989 per il vero video anni '80, The Virgin Suicides di Sofia Coppola per il sogno suburbano anni '70, Kids di Larry Clark per il 16mm grezzo anni '90, Drive (2011) di Nicolas Winding Refn per il revival synth anni '80, i volumi dell'Awesome Mix di Guardians of the Galaxy di James Gunn. L'estetica grindhouse di Quentin Tarantino in Death Proof. Artisti VHS-specific: il lavoro a nastro degradato di David Firth, la prima scena vaporwave di YouTube. Il modello retro di Tunee addestra ogni decennio come una combinazione distinta di stock-e-formato, non sfumata in un generico 'aspetto vecchio'."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Indica sempre l'anno e il formato: '1978, Kodak Vision 250D, anamorphic, contrasto morbido' oppure '1986, Betacam SP, aberrazione cromatica sulle alte luci, linee di scansione'. Specifica il tipo di grana cinematografica o rumore video — hanno un aspetto completamente diverso. Il guardaroba e gli oggetti di scena coerenti con il periodo contano; 'abito retro' è vago, 'camicia a colletto largo in poliestere, jeans a zampa' è specifico. Mescolare i decenni va bene per il surrealismo, ma segnalalo: 'neon anni '80 anacronistico su pellicola anni '70'."
+      }
+    ]
+  }
 }

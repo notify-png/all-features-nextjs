@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales de Culte Tunee fonctionne-t-il sur les appareils mobiles ?",
       "a": "Tunee est entièrement accessible via navigateur web sur ordinateur de bureau et mobile, vous permettant de créer des vidéos musicales de Culte depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR CULTE",
+    "h2": "La vidéo de louange est son propre genre avec son propre canon",
+    "sections": [
+      {
+        "heading": "À quoi ressemble vraiment la vidéo de culte",
+        "body": "Le canon visuel est bien défini : Hillsong, Elevation, Bethel, Maverick City — une typographie centrée sur les paroles sur un plan de congrégation live éclairée à la lumière tungstène chaude, mouvements de caméra lents, le leader de louange rarement dominant dans le cadre. Les paroles comptent parce que l'audience est censée chanter avec, donc le texte à l'écran est non négociable, et le design typographique se rapproche davantage de l'édition que du dynamisme d'un clip pop. L'esthétique est celle d'une performance live intime, pas d'une production pop travaillée."
+      },
+      {
+        "heading": "Les plans et conventions qui fonctionnent",
+        "body": "Plan large de la congrégation les mains levées, flou de mise au point doux, lumière chaude venant des projecteurs de scène. Plan moyen du leader de louange, yeux fermés, en milieu de phrase. Insert d'un seul fidèle pendant le pont — souvent plus âgé, souvent ému, intentionnellement pas le plus photogénique de la salle. Le texte des paroles apparaît ligne par ligne, centré, dans un serif propre ou un humaniste sans-serif, avec suffisamment d'avance pour que la congrégation lise avant de chanter. Les coupes tombent sur les fins de phrase, pas sur le temps."
+      },
+      {
+        "heading": "Comment Tunee gère le préréglage culte",
+        "body": "Le préréglage Culte est centré sur les paroles par défaut — chaque ligne du morceau apparaît à l'écran avec le timing de révélation ligne par ligne qu'exige le format. La couche visuelle de base penche vers des plans de congrégation éclairés chaleureusement et des instrumentistes dans une lumière douce, avec la possibilité d'uploader le vrai footage de votre église pour ancrer le contenu généré dans votre communauté. Export en 16:9 pour la projection en service, plus en 9:16 pour les cuts sociaux qui alimentent l'affluence du dimanche tout au long de la semaine."
+      }
+    ]
+  }
 }

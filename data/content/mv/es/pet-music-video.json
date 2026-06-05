@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi video musical de mascotas?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA sincronizará automáticamente tu video musical de mascotas."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "EL MV DE MASCOTAS",
+    "h2": "Un video de mascota que aguanta después de que el algoritmo lo olvide",
+    "sections": [
+      {
+        "heading": "Por qué los MVs de mascotas valen más que otro TikTok",
+        "body": "El mercado de contenido de mascotas está saturado: un clip gracioso recibe ocho horas de atención y desaparece. Un MV de 60 segundos musicalizado está construido para una vida más larga: se convierte en la publicación que ancla el aniversario de la mascota, el memorial cuando llegue el momento años después, y el contenido que los amigos te devuelven de verdad. Los veterinarios y los entrenadores de perros también usan el formato para los resúmenes de fin de año de sus clientes."
+      },
+      {
+        "heading": "Los planos que siempre funcionan",
+        "body": "Los fotógrafos de mascotas conocen el canon: el plano a nivel del suelo (nunca fotografíes a un perro desde arriba), patas en el alféizar de una ventana, el ladeado de cabeza ante un sonido fuera de cámara, el reposo panza-arriba completamente relajado, el correr hacia la cámara en un campo abierto, el plano esperando con la correa junto a la puerta. Los gatos añaden los suyos propios: la posición de hogaza, la ocupación del fregadero, solo la cola visible asomando de una caja, la sentada espontánea en el teclado. Los referentes culturales incluyen el Isle of Dogs (2018) de stop-motion de Wes Anderson, el A Dog's Purpose de Lasse Hallström, creadores virales como Doug the Pug (@doug_the_pug), Jiffpom y Nala Cat, más la fotografía de gatos de mediados de siglo de Walter Chandoha en la revista LIFE. El modelo de Tunee reconoce todo esto como un vocabulario, no como material de mascota aleatorio."
+      },
+      {
+        "heading": "Conviértelo en el regalo",
+        "body": "El caso de uso inesperado: envía el MV a tu veterinario, a tu paseador de perros o a tu cuidador de mascotas al final del año. Es el pequeño detalle que los trabajadores de servicio realmente guardan. Tunee genera el formato vertical para la Story, cuadrado para la publicación y panorámico para el eventual slideshow memorial que esperas no necesitar en mucho tiempo."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "¿Cómo añado letras o subtítulos a mi videoclip musical acuarela?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA los sincronizará con tu videoclip musical acuarela automáticamente."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV DE ACUARELA",
+    "h2": "La acuarela en pantalla requiere mantener el papel visible",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene de verdad la acuarela",
+        "body": "La acuarela real tiene tres señas de identidad: la textura del papel visible bajo el lavado, el pooling de color de borde duro donde el pigmento se secó en el límite, y el sangrado suave del húmedo sobre húmedo donde los colores se encuentran mientras aún están mojados. La acuarela de IA falla cuando suaviza todo esto en un look genérico de 'pintado': igual con el movimiento: los fotogramas de acuarela real no hacen tween suavemente, hierven entre celdas pintadas a mano a 12fps. La película Loving Vincent demostró cuán poderoso se ve esto cuando se lleva a pleno compromiso."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "Canon de referencias: el Loving Vincent (2017) de Dorota Kobiela y Hugh Welchman para la animación de pintura completa, los fondos pintados a mano de Kazuo Oga en el Studio Ghibli en Mi vecino Totoro y Princess Mononoke de Hayao Miyazaki, los paisajes marinos de J.M.W. Turner para el lavado atmosférico, las propias acuarelas de arte conceptual de Miyazaki, el World of Tomorrow de Don Hertzfeldt para el minimalismo de línea-y-lavado, el trabajo multiplano de Disney en La espada en la piedra bajo Wolfgang Reitherman. Ilustradores de libros infantiles: el tinta-y-lavado suelto de Quentin Blake para Roald Dahl, la pintura tramada de Maurice Sendak. Adyacente al videoclip: la era dibujada a mano de Glen Keane en Disney, el Secret of Kells y los Wolfwalkers del Cartoon Saloon de Tomm Moore. El modelo de acuarela de Tunee se entrena en textura de papel real y animación de boil, no en filtros de pintura digital."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Incluye siempre la textura del papel en el prompt: 'papel de acuarela de grano fino visible a través del lavado, pooling de pigmento de borde duro, sangrado húmedo-sobre-húmedo en los bordes de color'. Especifica la velocidad del boil: 'boil pintado a mano, reemplazo de fotogramas a 12fps, sin tween suave'. Elige una paleta de tres a cinco colores como máximo: la acuarela real está limitada por lo que hay mojado en la paleta. Referencia a un pintor: 'lavado de cielo de Turner' o 'fondo de bosque de Kazuo Oga' dirige el modelo con precisión."
+      }
+    ]
+  }
 }

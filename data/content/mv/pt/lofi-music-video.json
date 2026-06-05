@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipe lo-fi da Tunee funciona em dispositivos móveis?",
       "a": "A Tunee é totalmente acessível via navegador web em desktop e mobile, então você pode criar videoclipes lo-fi de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE LO-FI",
+    "h2": "O vídeo lo-fi é um cômodo onde você quer estudar",
+    "sections": [
+      {
+        "heading": "Como é o visual lo-fi",
+        "body": "Os visuais lo-fi são o inverso da tradição do videoclipe: sem performer, sem narrativa, sem cortes. Uma única cena em loop — geralmente um quarto animado, uma mesa, uma janela com chuva — toca por horas atrás da música. A paleta de cores é contida: tons quentes de bege, azuis empoeirados, rosa suave ao anoitecer. O personagem, quando existe, é animado no estilo dos estúdios japoneses do final dos anos 90, com um toque de ilustração japonesa contemporânea. O movimento é mínimo: o balançar de um rabo, vapor de uma xícara, uma página virada."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O stream do YouTube da Lofi Girl — animado por Juan Pablo Machado, cuja estudante sentada à mesa e a janela com o horizonte de Paris se tornaram a âncora do formato — permanece como o modelo visual. Os loops anteriores da ChilledCow, a estética 'Twilight' da Idealism e a coleção Anime Vibe no YouTube completam o cânone. Os fundos do Studio Ghibli, especialmente as cenas de estudo de 'Whisper of the Heart' e os quartos da casa de banho de 'Spirited Away', de Hayao Miyazaki, são a fonte não declarada. O ritmo pausado do piano de Joe Hisaishi se encaixa perfeitamente no tempo do gênero. A regra: nada deve jamais interromper a atenção do ouvinte em sua própria tarefa."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Projete para permanência, não para progressão. Instrua o Tunee para uma cena com três ou quatro pequenos loops de movimento — chuva na janela, vapor subindo do café, um gato respirando, um ventilador girando. Especifique o horário do dia e mantenha-o: 'fim de tarde, luz dourada pela esquerda, luminária acesa'. Evite movimentos de câmera completamente. O ponto central é que o espectador se esqueça de que o vídeo existe. Mire no silêncio visual e, em seguida, adicione um detalhe minúsculo que recompense um segundo olhar."
+      }
+    ]
+  }
 }

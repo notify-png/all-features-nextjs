@@ -39,5 +39,23 @@
       "q": "¿Admite la exportación de vídeos musicales realistas en resolución 4K?",
       "a": "Absolutamente. Tunee exporta vídeos musicales realistas en resolución de hasta 4K, haciéndolos listos para YouTube, plataformas de streaming y pantallas grandes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL MV REALISTA",
+    "h2": "El video foto-real se basa en la contención, no en el detalle",
+    "sections": [
+      {
+        "heading": "Qué significa realista de verdad",
+        "body": "El videoclip realista significa que el espectador no piensa en si es real — lo cual es más difícil de lo que suena. Los indicios del video generado que fracasa en el realismo: piel demasiado limpia (sin poros, sin asimetría), ojos que no tienen los catchlights correctos, manos con un ligero desplazamiento en el número de dedos, tela que no se pliega bajo la gravedad, movimiento demasiado suave (el movimiento humano real tiene microtremblor). El realismo de estética documental significa específicamente luz natural, señales de audio de fuentes disponibles en el visual y lenguaje corporal no posado."
+      },
+      {
+        "heading": "De dónde viene el look",
+        "body": "Referencias que citan realmente los DPs y directores de videoclips: el trabajo de luz natural de Emmanuel Lubezki para Terrence Malick (The Tree of Life), la disciplina con cámara en mano del movimiento Dogme 95 de Lars von Trier, American Honey y Fish Tank de Andrea Arnold, The Florida Project y Tangerine de Sean Baker para el realismo de luz disponible, la cinematografía documental de Errol Morris en The Thin Blue Line, el Nomadland de Chloe Zhao. Específicos del videoclip: el trabajo de Hiro Murai con Childish Gambino, cualquier cosa que Spike Jonze rodara para los Beastie Boys (Sabotage). Fotografía documental: Alec Soth, Stephen Shore, Nan Goldin. El modelo realista de Tunee está entrenado en fotogramas de luz natural con sujetos imperfectos y vividos, no en el pulimiento comercial brillante."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Añade la imperfección explícitamente: 'textura de piel natural con poros, ligera asimetría, solo luz disponible, sin relleno'. Especifica la hora del día y el tiempo: 'tarde nublada, luz suave de ventana, sin sol directo'. Movimiento con cámara en mano: 'cámara con montura de hombro, ligero vaivén en mano'. Evita 'fotorrealista' como prompt genérico: empuja hacia el realismo CGI. Usa 'realismo natural de estilo documental' en su lugar. Lo real se lee como imperfecto; la suavidad se lee como renderizado."
+      }
+    ]
+  }
 }

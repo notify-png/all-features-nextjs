@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale Synthwave per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale Synthwave utilizzando prompt diversi o impostazioni di stile diversi, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL SYNTHWAVE",
+    "h2": "Il synthwave è un suono che ha bisogno di essere visto",
+    "sections": [
+      {
+        "heading": "Come appare il synthwave",
+        "body": "Il synthwave è l'unico genere con la sua identità visiva già integrata. Nato dall'ossessione degli anni 2010 per la fantascienza anni '80 e la nostalgia al neon — Drive, Stranger Things, Hotline Miami — la sua estetica è più codificata della musica stessa. I non-negoziabili: gradienti profondi dal viola al magenta, orizzonti con griglie retrò che si allontanano nel vapore, silhouette di palme contro tramonti a gradiente, auto cromate, cieli spaccati dalla folgore. Se lo spettatore non sente il caldo ronzio di un VHS analogico entro tre secondi, qualcosa non va."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "Quando i registi fanno il brief per gli MV synthwave citano gli stessi punti di riferimento: 'Sunset' di The Midnight, 'Outatime' di FM-84, le visual live di Carpenter Brut, il cortometraggio 'Kung Fury', '2K12' di Magdalena Bay e 'Turbo Killer' di Seth Ickerman per Carpenter Brut — ancora la vetrina definitiva del regista del genere. Il filo non è l'artista — è il linguaggio del frame: orizzonti ampi, slow zoom su linee di griglia che si allontanano, silhouette di personaggi mai illuminate di pieno, testo in chrome con un leggero bevel. Il modello synthwave di Tunee è addestrato su questo esatto vocabolario, così i prompt come 'scan lines VHS analogiche su un skyline al neon' atterrano dove un'intera crew di riprese punterebbe una vera camera."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Non combattere i cliché del synthwave — abbracciabili. Specifica l'ordine dei layer: soggetto in primo piano (artista, auto, palma), sfondo medio (griglia al neon o tramonto), sfondo (cielo viola screpolato con fulmini lontani). Abbina i colori esplicitamente: 'magenta e ciano, nessun tono caldo'. Poi aggiungi un'anacronismo che spezza l'incantesimo — un satellite schiantato, un cartellone glitchato — per mantenere il loop interessante oltre il primo ritornello. Il risultato si legge come composto, non come generato."
+      }
+    ]
+  }
 }

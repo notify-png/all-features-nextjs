@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali Rock di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che su mobile, quindi puoi creare video musicali Rock da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUL ROCK",
+    "h2": "Il video rock vive o muore in base a quanto la band sembra una band",
+    "sections": [
+      {
+        "heading": "Come appare il rock",
+        "body": "Gli MV rock sono per lo più guidati dalla performance, ma i migliori fanno sentire la band come un'unità, non come quattro persone nella stessa stanza. Campi larghi che includono tutti i membri sul palco, frame medi che colgono il contatto visivo tra il bassista e il batterista, close-up delle mani sulle corde. L'illuminazione è teatrale — rig di palco, strobo, fumo, retroilluminazione dura che trasforma il cantante in silhouette durante il bridge. Il guardaroba è coerente con l'identità della band, mai troppo stilizzato."
+      },
+      {
+        "heading": "Riferimenti che funzionano davvero",
+        "body": "'The Pretender' e 'Walk' dei Foo Fighters, entrambi diretti da Sam Brown con la tradizione di 'Everlong' di Mark Romanek alle spalle, sono il modello moderno per il ritmo dell'MV rock da stadio. 'Heat Above' dei Greta Van Fleet porta le immagini del revival arena anni '70 nel frame attuale. 'Limbo' dei Royal Blood dimostra che un duo può riempire uno schermo se la camera li rispetta. 'Lonely Boy' dei The Black Keys, Wolfmother e Highly Suspect completano il vocabolario attuale. Testi più datati — 'Bohemian Rhapsody' dei Queen, 'Start Me Up' degli Stones e il lavoro stark di Anton Corbijn con U2 ('One') e Joy Division — insegnano ancora come appare davvero il carisma sul palco in camera."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Posiziona prima la band in relazione fisica tra loro. 'Batterista al centro in fondo su un riser rialzato, bassista a sinistra del palco, chitarrista a destra, cantante sul proscenio' crea una geometria di palco reale che Tunee può mantenere tra i tagli. Aggiungi illuminazione specifica: 'retroilluminazione dura dal fondo del palco, due fasci incrociati di rosso dalle quinte, foschia'. Taglia sul rullante, non sul kick. Riserva la ripresa al rallenty a un solo momento — di solito il primo beat del secondo ritornello."
+      }
+    ]
+  }
 }

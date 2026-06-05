@@ -39,5 +39,23 @@
       "q": "Comment ajouter des paroles ou des sous-titres à ma vidéo musicale Musicians ?",
       "a": "Tunee offre des options de superposition de paroles et de sous-titres intégrées. Entrez simplement vos paroles et choisissez un style de texte, et l'IA les synchronisera automatiquement à votre vidéo musicale Musicians."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR MUSICIENS",
+    "h2": "Le MV de l'auteur-compositeur a son propre canon intimiste",
+    "sections": [
+      {
+        "heading": "Pourquoi cette catégorie n'est pas « juste des clips »",
+        "body": "Un MV d'auteur-compositeur n'est ni une vidéo de performance de groupe ni un clip pop — c'est une troisième chose. Le canon visuel est intime : Kyoto de Phoebe Bridgers, Holocene de Bon Iver, Should Have Known Better de Sufjan Stevens. Un interprète, souvent seul à l'écran, saturation des couleurs réduite, longs plans, un paysage ou un intérieur qui dit quelque chose du poids émotionnel du morceau. L'artiste est le sujet et le lieu est le second personnage. Les pyrotechnies de montage sont quasi absentes."
+      },
+      {
+        "heading": "Les plans qui fonctionnent toujours dans ce format",
+        "body": "Un gros plan sur le chanteur qui tient tout un refrain sans coupe. Un plan large qui place l'artiste en petit dans un paysage (une plage, un champ, une route déserte). Un plan-séquence en travelling, caméra à l'épaule, suivant l'artiste par derrière. Un cadre fixe sur des mains au piano ou à la guitare. Le public est là pour le morceau d'abord et l'atmosphère visuelle ensuite — la retenue est l'esthétique, pas un compromis budgétaire."
+      },
+      {
+        "heading": "Où Tunee s'intègre dans la sortie d'un musicien indépendant",
+        "body": "Les auteurs-compositeurs indépendants ne peuvent généralement pas financer une vraie vidéo pour chaque titre — peut-être une par album, deux au mieux. Tunee comble le reste du rollout : lyric videos avec la même palette que la vidéo principale, cuts verticaux pour Reels et TikTok, Spotify Canvas pour chaque morceau, une affiche de tournée animée sur une strophe du titre. L'identité visuelle reste cohérente sur 12 titres sans 12 jours de tournage."
+      }
+    ]
+  }
 }

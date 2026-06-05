@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéos musicales Rappers de Tunee fonctionne-t-il sur les appareils mobiles?",
       "a": "Tunee est entièrement accessible via navigateur web sur bureau et mobile, ce qui vous permet de créer des vidéos Rappers à partir de n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV POUR RAPPEURS",
+    "h2": "Le clip rap est le genre le plus codifié visuellement de la musique",
+    "sections": [
+      {
+        "heading": "Pourquoi les vidéos rap ressemblent à des vidéos rap",
+        "body": "Le clip hip-hop a plus de conventions que tout autre genre, de loin. Le drill a son propre langage de cadre (caméra portée, grand angle, extérieurs nuit, fish-eye sur le rappeur, plans du crew en contre-plongée — voir Welcome to the Party de Pop Smoke, le catalogue de Headie One). Le trap a le sien (néon de strip-club d'Atlanta, ralenti money, tracking de lowrider, la grammaire de Dave Meyers et Cole Bennett). Ces conventions existent parce que le public les lit — en enfreindre trop et la vidéo ne se lit plus comme le genre qu'elle est censée représenter."
+      },
+      {
+        "heading": "Ce que le canon livre vraiment",
+        "body": "Le rappeur face caméra dès le premier couplet — serré sur les lèvres pour les punchlines, plus large sur le corps pour montrer le flow. B-roll lifestyle monté contre la performance : voitures, bijoux, lieux qui signifient le territoire. Le plan du crew, toujours. Un changement de lieu pour le second couplet pour signaler l'envergure. Le pont ou le refrain final reçoit le plan large, la fumée, le ralenti. La hiérarchie visuelle d'un MV rap est aussi fixée que la structure couplet-refrain-couplet-refrain du morceau."
+      },
+      {
+        "heading": "Comment le préréglage rap de Tunee lit le genre",
+        "body": "Le modèle de Tunee est entraîné sur le vrai canon visuel — drill, trap, boom-bap, mélodique, rap UK, chacun a son propre chemin de modèle. Choisissez le sous-genre et les paramètres par défaut changent : la drill part sur l'extérieur nuit caméra portée, le trap sur le néon et le ralenti, le mélodique sur le cinématique chaleureux. Vertical 9:16 pour la promo TikTok, 16:9 pour l'upload YouTube, les deux depuis la même génération. Les plans de performance maintiennent la cohérence du personnage pour que l'artiste soit reconnaissable, sans visage IA générique."
+      }
+    ]
+  }
 }

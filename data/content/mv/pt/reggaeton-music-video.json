@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes de Reggaeton da Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, permitindo criar videoclipes de Reggaeton de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE REGGAETON",
+    "h2": "O vídeo de reggaeton vive onde o dembow e a pista de dança se encontram",
+    "sections": [
+      {
+        "heading": "Como é o visual do reggaeton",
+        "body": "Os MVs de reggaeton combinam energia de clube com especificidade de bairro. O ritmo do dembow dita a edição — três tempos e meio, corte duro, repetir. As locações alternam entre coberturas, interiores de clube com banho de magenta e cenas de rua que fazem referência especificamente a San Juan, Medellín ou Miami. O figurino é orientado para a moda: streetwear de grife, joias marcantes, às vezes alta costura em configurações inesperadas. A dança é participativa, não coreografada — pessoas se movendo com a música, não performando para a câmera."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Mi Gente' do J Balvin, dirigido por Daniel Duran, construiu a escala visual com que o reggaeton opera hoje. O 'Yo Perreo Sola' do Bad Bunny, dirigido por Stillz, virou as expectativas de quem protagoniza um MV de reggaeton. O 'Hawai' do Maluma traz o braço da narrativa cinematográfica. O 'Gasolina' do Daddy Yankee permanece o texto fundacional que todos os vídeos mais recentes respondem. O 'TQG' da Karol G com Shakira, o 'Normal' do Feid e Anuel AA carregam a linguagem visual atual, enquanto o trabalho de direção crossover de Colin Tilley para o gênero permanece o padrão da indústria. A constante: locações reais, moda como identidade, coreografia que parece movimento natural."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Sincronize a edição explicitamente com o padrão do dembow: 'cortes a cada três tempos e meio ao longo do refrão, segure a ponte por oito compassos'. Especifique duas locações contrastantes e alterne entre elas — 'cobertura ao pôr do sol e clube subterrâneo às 2 da manhã' cria o arco dia-e-noite que o gênero recompensa. A mudança de figurino entre as locações deve ser dramática. O Tunee lida bem com a paleta de clube magenta e âmbar quando você nomeia as duas cores e o nível de névoa."
+      }
+    ]
+  }
 }

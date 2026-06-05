@@ -39,5 +39,23 @@
       "q": "¿Cómo personalizo el estilo visual de mi video musical Brands?",
       "a": "Puedes guiar los elementos visuales utilizando prompts de texto que describan escenas, estados de ánimo y configuraciones. La IA de Tunee interpreta tu entrada y genera elementos visuales inspirados en integración de marca que coincidan con tu estética Brands."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA MARCAS",
+    "h2": "El contenido de video musical compatible con marcas es una categoría que las agencias cobran por debajo de su valor",
+    "sections": [
+      {
+        "heading": "Por qué las marcas necesitan MVs que no sean anuncios",
+        "body": "Un spot de producto de 30 segundos con música de librería se saltea. Un videoclip de marca de 60 segundos — mismo producto, canción personalizada, identidad visual real — se ve y se comparte. La categoría existe porque los algoritmos sociales premian el contenido música-primero sobre el contenido anuncio-primero, y porque licenciar un éxito real para una campaña cuesta entre 50.000 y 500.000 dólares antes de rodar un solo plano. Los MVs de marca son la alternativa: canción original, visuales personalizados, la marca integrada como un personaje y no como un destello de logo."
+      },
+      {
+        "heading": "Lo que funciona en el contenido de MV de marca",
+        "body": "El producto como elemento de escena, no como protagonista: la botella en la barra de un video de vida nocturna, la zapatilla en el pie del bailarín en una pieza de danza urbana, el portátil en un montaje de café de coworking. Los colores de la marca tejidos en el etalonaje. Una canción personalizada que encaja con la identidad sonora de la marca sin sonar a jingle. El problema de los derechos desaparece (eres el dueño de la canción), el presupuesto se reduce un orden de magnitud, y el contenido sobrevive en TikTok y YouTube sin la fatiga del 'Patrocinado'."
+      },
+      {
+        "heading": "Cómo encaja Tunee en el flujo de trabajo de un equipo de contenido de marca",
+        "body": "Genera la canción a partir del briefing, genera los visuales a partir de las guías de marca, exporta en cada formato que necesite el calendario social, entrega a la agencia en una semana en lugar de en un trimestre. El flujo de trabajo texto-a-MV de Tunee está construido para esto: un prompt, una banda sonora personalizada, un videoclip, sin reunión de licencias. El equipo legal obtiene una cadena de propiedad limpia; el equipo social obtiene contenido que puede publicar en múltiples plataformas."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes musicais TikTok Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e dispositivos móveis, para que você possa criar videoclipes musicais TikTok de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA TIKTOK",
+    "h2": "No TikTok, os primeiros três segundos decidem se vai ter um quarto",
+    "sections": [
+      {
+        "heading": "O que o algoritmo realmente recompensa",
+        "body": "A página Para Você do TikTok não se importa com a duração completa do seu vídeo — ela se importa com a curva de retenção. A taxa de watch-through em 3 segundos e a taxa de revisita são as duas métricas que decidem se o seu vídeo para em 200 visualizações ou chega a 200.000. O que significa que a abertura convencional de MV — construção lenta, plano atmosférico aberto, artista entra aos 0:20 — é suicídio algorítmico. O gancho precisa chegar antes que o polegar do espectador se canse."
+      },
+      {
+        "heading": "O intervalo ideal de 15 a 60 segundos, estruturado",
+        "body": "Os criadores que postam música no TikTok convergiram para uma estrutura: abertura direta com o refrão (ou o gancho mais cativante), 5 segundos de identidade visual, retorno ao gancho, fim num ponto de loop que gera revisita. 30 segundos no total é a duração mais compartilhada; 60 é o limite antes de a retenção cair. Vertical 9:16 é inegociável — conteúdo com letterbox é penalizado no feed."
+      },
+      {
+        "heading": "Como o Tunee exporta especificamente para o TikTok",
+        "body": "Escolha o preset TikTok e o Tunee reestrutura o corte: refrão primeiro, vocais em destaque no primeiro segundo, gancho reenunciado na marca de 15 segundos, frame final amigável para loop. Você obtém 9:16 nativo (não recortado de 16:9 — recomposto), 1080p, MP4 abaixo do limite de upload do TikTok, e a trilha sonora exportada separadamente para que você também possa enviá-la como um som do TikTok e deixar criadores duetarem. Dois ativos, uma geração."
+      }
+    ]
+  }
 }

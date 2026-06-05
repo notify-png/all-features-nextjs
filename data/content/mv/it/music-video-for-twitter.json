@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale X / Twitter?",
       "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile di testo, e l'AI sincronizzerà automaticamente il tutto al tuo video musicale X / Twitter."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER TWITTER",
+    "h2": "Il video su X/Twitter parte in riproduzione senza audio — il primo frame deve fare il lavoro che normalmente fa l'audio",
+    "sections": [
+      {
+        "heading": "Il vincolo di formato che nessuno progetta",
+        "body": "Il video su X si riproduce automaticamente nel feed senza audio. L'utente deve toccare attivamente per togliere il muto. Il che significa che i tuoi primi 2 secondi competono non contro altri video ma contro il silenzio — e la maggior parte dei music video si affida all'audio per reggere l'apertura. La soluzione: progetta il primo frame in modo che sia visivamente d'impatto da solo, e aggiungi un hook con didascalia (testo, nome dell'artista, titolo del brano) nel primo secondo così lo spettatore senza audio sa cosa sta guardando."
+      },
+      {
+        "heading": "Matematica di formato e durata",
+        "body": "X consente 16:9, 1:1 e 9:16, ma il 16:9 occupa più spazio nel feed su desktop, dove una buona fetta del traffico di music discovery accade ancora. L'1:1 vince sulle timeline mobile. Il tetto di upload di 2 minuti e 20 secondi (per gli account non a pagamento) è raramente il vincolo limitante — la maggior parte dei clip video musicali su X dura 30-60 secondi, strutturata come un teaser con link alla versione completa su YouTube. Tratta X come la superficie trailer, non come la destinazione."
+      },
+      {
+        "heading": "Il preset Twitter di Tunee e il doppio export",
+        "body": "Scegli X/Twitter e ottieni due output: un taglio 16:9 1080p con una didascalia di apertura bruciata (artista + brano, primi 1,5 secondi, rimovibile) per i feed desktop, e una versione 1:1 1080p per risposte e quote-tweet mobile-first. Entrambi sono sotto 50MB per superare il cap di upload di X senza ricompressione. L'audio è mixato leggermente più alto sul master per compensare la normalizzazione del volume della piattaforma, che gira più in basso di Spotify o YouTube."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Kann ich ein Foto-zu-MV-Musikvideo ohne Videobearbeitungserfahrung erstellen?",
       "a": "Ja – Tunees KI übernimmt die gesamte Videoproduktion automatisch. Lade einfach dein Audio hoch oder gib einen Text-Prompt ein, wähle einen Foto-zu-MV-Stil, und die KI generiert dein Video in Minuten."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "FOTO ZU MV",
+    "h2": "Verwandle einen Ordner voller Fotos in ein Musikvideo, das wirklich schneidet",
+    "sections": [
+      {
+        "heading": "Warum die meisten Foto-zu-Video-Tools Diashows produzieren",
+        "body": "Das Genre hat aus gutem Grund einen schlechten Ruf: 'Foto zu Video' bedeutet meist Ken-Burns-Schwenk-und-Zoom auf jedem Standbild, eine Überblendung und ein lizenzfreier Track darunter. Das ist die Hochzeits-DVD-Ästhetik — und sie überlebt auf einem Feed nicht, bei dem TikTok alle 1,5 Sekunden schneidet. Die Lösung ist kein ausgefeilteres Transitions-Paket — es ist, das Foto selbst zu animieren, sodass jedes Standbild zu einer bewegten Plate wird, und dann zwischen Plates auf den Beat zu schneiden."
+      },
+      {
+        "heading": "Was Tunee mit deinen Standbildern macht",
+        "body": "Lade bis zu 20 Fotos hoch (Konzertaufnahmen, Behind-the-Scenes, Polaroids, alles) und Tunee behandelt jedes als Generierungs-Seed, nicht als finalen Frame. Jedes Foto bekommt einen kurzen Bewegungs-Pass — einen Parallax-Push, ein subjekt-verfolgtes Dolly, einen subtilen Kamerabogen — und die resultierenden Clips werden auf deinen Song geschnitten. Gesichter bleiben konsistent. Das Hochzeits-DVD-Schwenken ist weg. Was du zurückbekommst, liest sich wirklich als Footage, nicht als Standbilder mit einem Hollywood-Edge-Transition dazwischen."
+      },
+      {
+        "heading": "Wann dieser Workflow gewinnt",
+        "body": "Drei Use Cases landen hart: Künstler mit starkem Fotoarchiv aber ohne Video-Budget, Erinnerungsvideos, bei denen das Quellmaterial jahrzehntealte Drucke sind, und Tour-Recap-Reels, bei denen der Konzertfotograf 5.000 Standbilder geschossen hat und null Clips. In Tunee einladen, den Song wählen, 9:16 oder 16:9 auswählen, und die Fotos übernehmen die Arbeit, die sonst Footage leistet. Die Ausgabe ist kurz — 60 bis 90 Sekunden — weil das die Länge ist, bei der dieser Trick überzeugend bleibt."
+      }
+    ]
+  }
 }

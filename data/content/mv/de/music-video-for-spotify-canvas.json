@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunee's Spotify Canvas Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Webbrowser auf Desktop und Mobilgeräten zugänglich, sodass du Spotify Canvas Musikvideos von jedem Gerät aus erstellen kannst, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR SPOTIFY CANVAS",
+    "h2": "Canvas ist 3 bis 8 Sekunden. Es muss loopen. Und es darf keinen eigenen Ton haben",
+    "sections": [
+      {
+        "heading": "Was Canvas eigentlich ist",
+        "body": "Spotify Canvas ist das loopende vertikale Video, das hinter einem Track auf dem Now-Playing-Bildschirm läuft — 3 bis 8 Sekunden, 9:16, kein eigener Ton (der Song ist der Ton). Das Format ist eine Schleife, was bedeutet, dass erster und letzter Frame sauber übereinstimmen müssen, sonst sieht der User alle 8 Sekunden einen harten Schnitt. Die meisten Labels laden noch immer ein statisches Album-Cover hoch, weil eine nahtlose 8-Sekunden-Schleife ohne Editor mehr Arbeit ist, als sie investieren wollen."
+      },
+      {
+        "heading": "Was in 8 Sekunden funktioniert",
+        "body": "Drei Formate dominieren: ein Zeitlupen-Portrait, das auf einem gehaltenen Gesichtsausdruck schleiht, eine abstrakte Textur (Rauch, Wasser, Tinte in Milch), bei der der Loop-Punkt unsichtbar ist, oder eine einzelne sich wiederholende Bewegung (ein rotierendes Vinyl, eine schlagende Hand, ein atmendes Vorhang), die bereits zyklisch ist. Alles Narrative ist falsch für das Format — der Zuschauer hat keinen Audio-Kontext und nur 8 Sekunden. Stimmung, nicht Geschichte."
+      },
+      {
+        "heading": "Wie Tunee für Canvas rendert",
+        "body": "Wähle das Canvas-Preset und der Generator begrenzt sich auf einen einzigen kohärenten Shot, maximal 8 Sekunden, mit erzwungenem Abgleich von erstem und letztem Frame. Kein Schnitt innerhalb des Clips. Ausgabe ist 9:16 in 720p (Canvas-Spec), MP4, unter 8 MB. Dieselbe Quellgenerierung liefert auch einen statischen Album-Cover-Framegrab, damit du Artwork und Canvas in einem Upload zu Spotify for Artists aktualisieren kannst."
+      }
+    ]
+  }
 }

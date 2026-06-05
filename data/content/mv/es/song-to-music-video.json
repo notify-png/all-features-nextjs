@@ -39,5 +39,23 @@
       "q": "¿Puedo crear un video musical de Canción a MV sin ninguna experiencia en edición de video?",
       "a": "Sí — la IA de Tunee maneja toda la producción de video automáticamente. Solo carga tu audio o ingresa una indicación de texto, elige un estilo de Canción a MV, y la IA genera tu video en minutos."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "CANCIÓN AL MV",
+    "h2": "Sube la canción. Recibe a cambio el video que la canción se merece",
+    "sections": [
+      {
+        "heading": "Qué debería significar 'canción a video'",
+        "body": "El mínimo aceptable: los cortes aterrizan en el beat, la energía de los visuales sigue la energía de la canción, y el estribillo parece visualmente diferente al verso. La mayoría de las herramientas genéricas de 'canción a video' fallan en el tercer punto: eligen un ambiente y se quedan con él tres minutos, que es cómo obtienes un video que se siente plano bajo una canción que construye. Un pipeline real de canción-a-MV necesita leer primero la estructura de la canción, no solo su tempo."
+      },
+      {
+        "heading": "Qué extrae Tunee antes de generar un fotograma",
+        "body": "Sube un MP3 o WAV y el analizador de audio etiqueta tempo, clave, compás, tiempos fuertes, segmentos vocales y límites de sección (verso, pre-estribillo, estribillo, puente, outro). Ese mapa estructural es lo que Sage usa para planificar la variedad visual: encuadres más cerrados en los versos, aperturas más amplias en los estribillos, un cambio de paleta en el puente, el plano más impactante guardado para el último estribillo. La canción deja de ser 'audio bajo el video' y empieza a ser la partitura a la que se corta el video."
+      },
+      {
+        "heading": "El test de los 30 segundos",
+        "body": "Antes de comprometerte con un renderizado completo, genera los primeros 30 segundos y míralo sin sonido. Si los cortes siguen pareciendo intencionales sin el audio — si hay ritmo visual independiente de la canción — el renderizado completo funcionará. Si en silencio parece un reel aleatorio, regenera con un prompt más ajustado antes de gastar los créditos. El pase de borrador de Tunee está construido exactamente para esta verificación."
+      }
+    ]
+  }
 }

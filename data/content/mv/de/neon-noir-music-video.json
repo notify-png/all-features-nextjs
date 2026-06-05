@@ -39,5 +39,23 @@
       "q": "Kann ich mehrere Versionen eines Neon Noir Musikvideos generieren, um sie zu vergleichen?",
       "a": "Ja. Sie können mehrere Variationen Ihres Neon Noir Musikvideos mit unterschiedlichen Prompts oder Style-Einstellungen generieren und dann die Version auswählen, die Ihrer Vision entspricht."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER DAS NEON-NOIR-MV",
+    "h2": "Neon Noir ist Cyberpunks leiserer, gefährlicherer Cousin",
+    "sections": [
+      {
+        "heading": "Die Neon-Noir-Unterscheidung",
+        "body": "Neon Noir überschneidet sich mit Cyberpunk in der Farbpalette, aber das Framing ist das Gegenteil: eng, langsam, charaktergetrieben statt weit und stadtmaßstäblich. Denk an eine einsame Figur in einem geparkten Auto, Magenta-Neon, das durch die Windschutzscheibe blutet, Regen, der in langen Takes über Glas läuft. Die Regel: eine Lichtquelle pro Shot, meist farbig, den Frame in tiefem Schatten haltend. Das Tempo ist getragen. Die Geschichte ist angedeutet, nie erzählt. Es sind Edward-Hopper-Gemälde — wenn Hopper ein Cooke Anamorphic benutzt hätte."
+      },
+      {
+        "heading": "Woher der Look kommt",
+        "body": "Der Kanon ist klein und spezifisch: Nicolas Winding Refns Drive (2011), Only God Forgives und The Neon Demon — das Pink-und-Cyan-Farbskript von Komponist Cliff Martinez ist die halbe Optik. Michael Manns Heat und Collateral für nächtliches L.A. Wong Kar-wais In the Mood for Love und Chungking Express für Farbe und Sehnsucht. Park Chan-wooks Decision to Leave für zurückhaltendes Framing. Musikvideos: The Weeknds Out of Time, Regie Cliqua, Lana Del Reys National Anthem, Regie Anthony Mandler. Tunees Neon-Noir-Modell ist auf langsame Halteframes, Einzelquellen-Beleuchtung und Flachwert-Portraiture trainiert — klar unterschieden von Cyberpunks Wide-Shot-Dichte."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Langsame Kamera spezifizieren: 'statischer Frame' oder 'langsames Dolly-In, 3 Sekunden pro Bewegung'. Auf eine Lichtquelle beschränken: 'einzelnes Magenta-Neon von der Frame-rechten, restliche Szene tiefer Schatten'. Füge 'Regen auf Glas, Vordergrund' für die charakteristische Textur des Genres hinzu. Eng rahmen: 'Halbnahe, Schultern im Bild, Kopf leicht abgeschnitten'. Wide-City-Shots vermeiden — das ist Cyberpunks Territorium. Neon Noir ist ein Portrait-Genre in Cyberpunk-Farben."
+      }
+    ]
+  }
 }

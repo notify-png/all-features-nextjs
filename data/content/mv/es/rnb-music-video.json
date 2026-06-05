@@ -39,5 +39,23 @@
       "q": "¿Cómo agrego letras o subtítulos a mi videoclip de R&B?",
       "a": "Tunee ofrece opciones integradas de superposición de letras y subtítulos. Simplemente ingresa tus letras y elige un estilo de texto, y la IA sincronizará automáticamente tu videoclip de R&B."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL R&B",
+    "h2": "El video de R&B hace visible un sentimiento solo a través de la luz",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el R&B",
+        "body": "Los MVs de R&B moderno son esencialmente cortometrajes con música. La iluminación carga con la mayor parte del trabajo emocional: sombras profundas, una única lámpara práctica, el derrame de neón por una ventana, luz de velas. El etalonaje empuja hacia el cálido y saturado o el frío y desaturado, rara vez neutro. Las composiciones son estáticas: la cámara es paciente, a menudo fija o sobre un travelling lento. El artista está solo en el encuadre con más frecuencia que no, incluso cuando la canción habla de otra persona. El vestuario es de textura rica: seda, cuero, punto."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Las etapas 'Dawn FM' y 'After Hours' de The Weeknd, ancladas en la larga colaboración visual con Anthony Mandler, son clases magistrales de estado de ánimo como estilo. El 'Snooze' y 'Kill Bill' de SZA demuestran que el R&B narrativo sigue funcionando cuando la iluminación lo justifica. El 'Nikes' de Frank Ocean, dirigido por Tyrone Lebon, puso el listón del R&B como cine experimental. El 'Cellophane' de FKA Twigs, dirigido por Andrew Thomas Huang, y el trabajo de Hiro Murai con Childish Gambino ('This Is America') extienden la forma. El 'Damage' de H.E.R., dirigido por Calmatic, y los visuales de 'A Seat at the Table' de Solange llevan la ambición de la dirección artística. La regla compartida: el estado de ánimo siempre por encima de la trama."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Nombra tus fuentes de luz explícitamente y limítalas a dos o tres. 'Única farola de sodio a través de una cortina semitransparente, una lámpara práctica de mesilla, sin relleno' le da a Tunee la restricción que necesita para renderizar estado de ánimo. Mantén al artista solo en el encuadre salvo que una segunda persona sea imprescindible. Tomas largas en los versos, ligeramente más cortas en el hook, pero nunca el corte rápido del pop. El etalonaje debe decidirse pronto: 'calidez ámbar' o 'noche teal-y-magenta', pero nunca ambos."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Come aggiungo testi o sottotitoli al mio video musicale per band?",
       "a": "Tunee offre opzioni integrate di sovrapposizione di testi e sottotitoli. Inserisci semplicemente i tuoi testi e scegli uno stile, e l'AI li sincronizzerà automaticamente al tuo video musicale per band."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER LE BAND",
+    "h2": "Le band hanno bisogno di filmati live che non possono permettersi di girare continuamente",
+    "sections": [
+      {
+        "heading": "Il vero problema degli MV per band",
+        "body": "Un quartetto che gira un MV performance completo ha bisogno di almeno cinque persone (band più operatore camera), un venue, un setup multicamera e una giornata intera. Sono tra i 2.000 e gli 8.000 dollari una volta completato il color grading — per un brano che potrebbe totalizzare 12.000 stream. L'economia funziona solo per le band sotto contratto, motivo per cui la maggior parte delle band indipendenti ricicla gli stessi due video performance per anni. Il vuoto che uno strumento AI colma non è la sostituzione dei filmati live — è il riempimento del rollout dell'album tra l'unica vera sessione di riprese che puoi permetterti."
+      },
+      {
+        "heading": "Le inquadrature che il canone dell'MV per band usa davvero",
+        "body": "Stretto sulla mano sinistra del chitarrista su un cambio di accordo. Batterista dall'alto durante un fill. Cantante a mezzo busto con una luce dura alle spalle su una nota alta. Campo lungo di apertura durante l'ultimo ritornello che rivela un venue vuoto. Gli MV performance non hanno bisogno di narrativa — hanno bisogno delle quattro o cinque inquadrature che, tagliate stretto, fanno sembrare una band una band. Il modello band di Tunee è addestrato su questo canone, così i prompt come 'quattro elementi su un piccolo palco, singola luce chiave, nessun pubblico, grana 16mm' atterrano dove lo farebbe un direttore della fotografia."
+      },
+      {
+        "heading": "Dove Tunee si inserisce nel ciclo di pubblicazione della band",
+        "body": "Per il singolo, hai un video vero. L'album ha altri 11 brani che necessitano di asset visivi per riempire il rollout — lyric video, loop performance per Instagram, tagli verticali per la promo TikTok, Spotify Canvas per ogni traccia. È qui che Tunee guadagna il suo posto: non sostituendo il video diretto, ma generando i 30 asset supplementari che l'algoritmo oggi richiede, ora che un solo video non basta più."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Funktioniert Tunees TikTok-Musikvideo-Generator auf Mobilgeräten?",
       "a": "Tunee ist vollständig über Web-Browser auf Desktop und Mobilgeräten zugänglich, sodass Sie TikTok-Musikvideos von jedem Gerät aus erstellen können, ohne Software zu installieren."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV FÜR TIKTOK",
+    "h2": "Auf TikTok entscheiden die ersten drei Sekunden, ob es eine vierte gibt",
+    "sections": [
+      {
+        "heading": "Was der Algorithmus tatsächlich belohnt",
+        "body": "TikToks For You-Seite interessiert sich nicht für die volle Länge deines Videos — sie interessiert sich für die Retention-Kurve. Die Watchthrough-Rate bei 3 Sekunden und die Rewatch-Rate sind die zwei Metriken, die entscheiden, ob dein Video bei 200 Views stehen bleibt oder auf 200.000 pusht. Das bedeutet: der klassische MV-Einstieg — langsamer Aufbau, atmosphärischer Wide-Shot, Künstler kommt bei 0:20 ins Bild — ist algorithmischer Selbstmord. Der Hook muss landen, bevor der Daumen des Zuschauers gelangweilt wird."
+      },
+      {
+        "heading": "Der 15-bis-60-Sekunden-Sweetspot, strukturiert",
+        "body": "Creator, die Musik auf TikTok posten, haben sich auf eine Form geeinigt: Cold Open mit dem Chorus (oder dem eingängigsten Hook), 5 Sekunden visuelle Identität, zurück zum Hook, Ende an einem Loop-Punkt, der einen Rewatch antreibt. 30 Sekunden gesamt ist die meistgeteilte Länge; 60 ist die Grenze, ab der die Retention einbricht. Vertikal 9:16 ist nicht verhandelbar — Letterbox-Content wird im Feed abgestraft."
+      },
+      {
+        "heading": "Wie Tunee speziell für TikTok exportiert",
+        "body": "Wähle das TikTok-Preset und Tunee restrukturiert den Schnitt: Chorus zuerst, Vocals in der ersten Sekunde nach oben, Hook an der 15-Sekunden-Marke wiederholt, loop-freundlicher Abschluss-Frame. Du bekommst natives 9:16 (nicht aus 16:9 gecroppt — neu komponiert), 1080p, MP4 unter TikToks Upload-Limit, und den Audio-Track separat exportiert, damit du ihn auch als TikTok Sound hochladen kannst und Creator ihn als Duett nutzen können. Zwei Assets, eine Generierung."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee 的音樂視覺化音樂視頻生成器在移動設備上工作嗎？",
       "a": "Tunee 可通過桌面和移動設備上的網絡瀏覽器完全訪問，因此您可以從任何設備創建音樂視覺化音樂視頻，無需安裝軟件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於音樂視覺化",
+    "h2": "視覺化效果是抽象視頻，只有一個任務：讓人回聽",
+    "sections": [
+      {
+        "heading": "音樂視覺化是什麼",
+        "body": "音樂視覺化是一種視覺格式，畫面是對頻率和振幅作出回應的抽象動態效果，沒有敘事、沒有角色、沒有場景——純粹對聲音的即時反應。這個傳統脈絡從 Oskar Fischinger 的 30 年代抽象影片，延伸至 90 年代的 Winamp 視覺化時代，直到今天的 Spotify Canvas 循環和 YouTube 發行當天的視覺化視頻。它的任務是讓聽眾在視覺上有所憑藉——畫面隨歌曲的呼吸而動，常作為 YouTube 上傳時的過渡畫面，或 Spotify 的循環豎屏封面藝術。"
+      },
+      {
+        "heading": "適合使用的時機",
+        "body": "視覺化效果最適合純器樂和電子音樂發行、Lo-Fi 嘻哈直播、Spotify Canvas（每首曲目的 8 秒豎屏循環）、YouTube 避免靜態圖片的發行當天上傳，以及任何交貨速度比敘事性更重要的場合。美學傳承從 Oskar Fischinger 延伸至 90 年代 Winamp，再到今天的 Canvas。工具鏈典籍：Andrew Kramer 的 Video Copilot、Peder Norrby 的 Trapcode Particular、Robert Hodgin 的 Trail 生成藝術、Beeple 的 Cinema 4D 每日作品。以視覺化美學建立品牌的藝術家：Lorn、Bonobo、Tycho 的 ISO50 設計工作，以及 Juan Pablo Machado 製作動畫的 Lofi Girl / ChilledCow YouTube 生態系統。每月都在發行單曲的藝術家需要一套視覺化生產流程。"
+      },
+      {
+        "heading": "Tunee 提示技巧",
+        "body": "明確告訴 Tunee 格式：「8 秒循環 Spotify Canvas，9:16 豎屏，無縫循環」。指定反應元素：「粒子密度回應低頻，高頻瞬態觸發顏色切換」。選擇一種動態原型——流體、粒子、幾何體或示波器——而非四者並用。Canvas 加入「微妙動作，適合重複觀看」；完整時長 YouTube 版本加入「配合編曲結構的大型積累」。Tunee 從一次生成同時渲染 16:9 和 9:16，一步到位覆蓋 YouTube 和 Canvas。"
+      }
+    ]
+  }
 }

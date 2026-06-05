@@ -39,5 +39,23 @@
       "q": "¿Funciona el generador de videoclips de Raperos de Tunee en dispositivos móviles?",
       "a": "Tunee es totalmente accesible a través del navegador web en computadora de escritorio y dispositivos móviles, así que puedes crear videoclips de Raperos desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA RAPPERS",
+    "h2": "El MV de rap es el género más codificado visualmente en la música",
+    "sections": [
+      {
+        "heading": "Por qué los videos de rap parecen videos de rap",
+        "body": "El video de hip-hop tiene más convenciones que cualquier otro género, por mucho. El drill tiene su propio lenguaje de planos (cámara en mano, gran angular, exteriores nocturnos, ojo de pez sobre el rapero, planos del crew desde ángulos bajos — ver el Welcome to the Party de Pop Smoke, el catálogo de Headie One). El trap tiene el suyo propio (neón de club de Atlanta, ralentí con dinero, planos de seguimiento con lowrider, la gramática de Dave Meyers y Cole Bennett). Las convenciones existen porque el público las lee: romper demasiadas y el video deja de funcionar como el género que se supone que debe ser."
+      },
+      {
+        "heading": "Lo que el canon realmente entrega",
+        "body": "El rapero actuando directamente a cámara en el primer verso — primer plano en los labios para los remates, más abierto en el cuerpo para el flow. B-roll de estilo de vida cortado contra la actuación: coches, joyas, localizaciones que se leen como territorio. El plano del crew, siempre. Un cambio de localización para el segundo verso para indicar escala. El puente o el último hook recibe el plano general, el humo, la cámara lenta. La jerarquía visual de un MV de rap es tan fija como la estructura verso-hook-verso-hook de la canción."
+      },
+      {
+        "heading": "Cómo lee el preset de rap de Tunee el género",
+        "body": "El modelo de Tunee está entrenado en el canon visual real: drill, trap, boom-bap, melódico y rap del Reino Unido tienen cada uno sus propios caminos de modelo. Elige el subgénero y los valores predeterminados cambian: el drill va a exterior nocturno en mano, el trap va a neón y ralentí, el melódico va a cinemático cálido. Vertical 9:16 para la promo de TikTok, 16:9 para la subida a YouTube, ambos desde la misma generación. Los planos de actuación mantienen la coherencia del personaje para que se lea como el artista, no como una cara de IA genérica."
+      }
+    ]
+  }
 }

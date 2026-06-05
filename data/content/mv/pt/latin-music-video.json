@@ -39,5 +39,23 @@
       "q": "Funciona com qualquer gênero de música, ou apenas Latino?",
       "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de Latino. Você pode gerar videoclipes para pop, hip-hop, música clássica e dezenas de outros estilos usando a mesma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE LATINO",
+    "h2": "O videoclipe latino carrega moda, geografia e ritmo com o mesmo peso",
+    "sections": [
+      {
+        "heading": "Como é o visual do Latino",
+        "body": "Os MVs latinos misturam a energia de clube do reggaeton com o drama do flamenco e as gravações ao ar livre do pop regional mexicano. O figurino é o canal mais ruidoso — alta costura misturada com streetwear, detalhes dourados, referências culturais usadas com intenção. Os cenários transitam entre paisagens costeiras, telhados urbanos e cenografias oníricas. A câmera raramente fica parada; ela circula, sobe, balança. As edições seguem a percussão, o que significa cortes precisos no ritmo do dembow e pausas retidas durante os momentos melódicos."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Tití Me Preguntó' do Bad Bunny, dirigido por seu colaborador de longa data Stillz, mostra como misturar a realidade do bairro porto-riquenho com o polimento de um filme de moda. O 'Saoko' da Rosalía e toda a era Motomami é uma aula magistral de encenação despojada — paredes brancas, motocicletas, total entrega ao conceito. O 'PROVENZA' da Karol G definiu uma paleta de pop latino mais suave e dourada ao pôr do sol, enquanto o 'Ella Baila Sola' do Peso Pluma trouxe o regional mexicano para a cena global. Maluma, Feid e os trabalhos de crossover dirigidos por Colin Tilley levam o gênero adiante em diferentes frentes. A regra compartilhada: a cultura aparece como cenário, nunca como fantasia."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Ancore-se em um lugar real antes de qualquer coisa. 'Cobertura em San Juan ao pôr do sol, palmeiras visíveis, oceano ao fundo' dá ao Tunee uma base sobre a qual moda e coreografia podem se apoiar. Especifique detalhes do figurino — 'correntes douradas, camiseta branca, calça de linho larga' — com o mesmo nível de detalhe que o local. Corte firme no dembow nos refrões, depois deixe um plano longo correr durante um verso como contraste. O gênero recompensa tanto a densidade quanto o respiro."
+      }
+    ]
+  }
 }

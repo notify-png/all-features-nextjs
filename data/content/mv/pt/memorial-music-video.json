@@ -39,5 +39,23 @@
       "q": "Funciona com qualquer gênero de música, ou apenas memorial?",
       "a": "Tunee suporta uma ampla gama de gêneros e estilos visuais além de memorial. Você pode gerar vídeos musicais para pop, hip-hop, clássico e dezenas de outros estilos usando a mesma plataforma."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV MEMORIAL",
+    "h2": "Um vídeo tributo que resiste às revisitas ao longo dos anos",
+    "sections": [
+      {
+        "heading": "Por que o MV memorial é um formato próprio",
+        "body": "Os slideshows de velório são geralmente feitos às pressas em 48 horas sob o peso do luto — costumam recorrer a fotos cronológicas do Facebook e uma única trilha de piano. Um MV mais elaborado, feito dias ou semanas depois, torna-se o artefato ao qual a família realmente retorna nos aniversários, nas datas marcadas e nos marcos anuais que se seguem. É um trabalho diferente do slideshow do velório: menos abrangente, mais curado, pontuado pela música que a pessoa realmente amava, não por algo genericamente melancólico."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Os cineastas de tributos tendem a um vocabulário pequeno e repetível: a natureza morta de um objeto familiar (uma xícara de café, óculos sobre um livro, um violão encostado na parede), o close da letra manuscrita, as mãos em um hobby, a foto da gargalhada em cada reunião de família, a cadeira onde ela sempre sentava. As referências estéticas são silenciosas e específicas — as instalações de vídeo em câmera lenta de Bill Viola no Getty e na Tate Modern, o Hoppipolla do Sigur Rós dirigido por Arni & Kinski (o padrão das montagens de despedida), a paleta de Hope Is a Dangerous Thing de Lana Del Rey, o It's Such a Beautiful Day de Don Hertzfeldt para o luto animado, os cortes de fotos estáticas de Terrence Malick em The Tree of Life, filmado por Emmanuel Lubezki. O instinto é usar cada foto já tirada — resista. Quinze imagens específicas, bem cadenciadas, superam cem."
+      },
+      {
+        "heading": "Faça dele o presente que fica",
+        "body": "Os MVs memoriais não são realmente compartilhados — são guardados. O Tunee renderiza um master em alta resolução para os arquivos da família, uma versão vertical para envio privado a quem não pôde comparecer, e um 1:1 para uma postagem memorial no que teria sido o próximo aniversário."
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Posso creare un video musicale Song to MV senza alcuna esperienza di editing video?",
       "a": "Sì — l'AI di Tunee gestisce automaticamente tutta la produzione video. Semplicemente carica il tuo audio o inserisci un prompt di testo, scegli uno stile Song to MV, e l'AI genera il tuo video in pochi minuti."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SONG TO MV",
+    "h2": "Carica il brano. Ottieni il video che il brano merita davvero",
+    "sections": [
+      {
+        "heading": "Cosa dovrebbe significare 'da brano a video'",
+        "body": "Il minimo sindacale: i tagli atterrano sul beat, l'energia dei visual segue l'energia del brano, e il ritornello appare diverso dalla strofa. La maggior parte degli strumenti generici 'song to video' fallisce nel terzo punto — scelgono un'atmosfera e la mantengono per tre minuti, il che produce un video che sembra piatto sotto un brano che si sviluppa. Una vera pipeline song-to-MV deve leggere prima la struttura del brano, non solo il suo tempo."
+      },
+      {
+        "heading": "Cosa Tunee estrae prima di generare un frame",
+        "body": "Carica un MP3 o WAV e l'analista audio tagga tempo, tonalità, metrica, downbeat, segmenti vocali e confini di sezione (strofa, pre-ritornello, ritornello, bridge, outro). Quella mappa strutturale è ciò che Sage usa per pianificare la varietà visiva: inquadratura più stretta nelle strofe, rilasci più ampi nei ritornelli, un cambio di palette nel bridge, l'inquadratura più grande riservata all'ultimo ritornello. Il brano smette di essere 'audio sotto il video' e inizia a essere la colonna sonora su cui il video è tagliato."
+      },
+      {
+        "heading": "Il test dei 30 secondi",
+        "body": "Prima di impegnarti per un render completo, genera i primi 30 secondi e guardali in muto. Se i tagli sembrano ancora intenzionali senza l'audio — se c'è un ritmo visivo indipendente dal brano — il render completo funzionerà. Se in muto sembra un reel casuale, rigenera con un prompt più preciso prima di spendere i crediti. Il pass di bozza di Tunee è costruito esattamente per questo controllo."
+      }
+    ]
+  }
 }

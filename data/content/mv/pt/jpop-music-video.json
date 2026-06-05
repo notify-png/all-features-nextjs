@@ -39,5 +39,23 @@
       "q": "Suporta exportação de videoclipes J-pop em resolução 4K?",
       "a": "Absolutamente. O Tunee exporta videoclipes J-pop em resolução até 4K, deixando-os prontos para YouTube, plataformas de streaming e telas grandes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE J-POP",
+    "h2": "O videoclipe de J-pop se move na velocidade da própria atenção",
+    "sections": [
+      {
+        "heading": "Como é o visual do J-pop",
+        "body": "O ritmo de cortes num videoclipe de J-pop é mais acelerado do que em qualquer equivalente pop ocidental — média de três segundos por plano, às vezes menos. Os sets são gráficos e codificados por cores de acordo com cada seção da música, mudando completamente entre o verso e o refrão. A coreografia é precisa, mas expressiva — nada de rigidez militar como no K-pop. A influência do anime aparece no enquadramento: linhas de velocidade, quadros de impacto, zoom repentino num único olho. O figurino tende ao streetwear estilizado ou ao teatral, raramente algo intermediário."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Idol' do Yoasobi (abertura de Oshi no Ko) mostra o pico atual — cortes rápidos, integração com anime, blocos de cenas codificados por cor. O 'Kaiju no Hanauta' do Vaundy prova que um único artista em ambientes alternados consegue sustentar a narrativa visual. O 'Usseewa' da Ado e os visuais de One Piece Film: Red mergulham no totalmente animado. O 'Hakujitsu' do King Gnu usa paleta contida e progressão lenta para quebrar as regras. A linhagem de lyric-videos da Eve com o diretor Tomohito Tatemiya (abertura de Mahoutsukai no Yome), o 'Inferno' do Mrs. GREEN APPLE e o 'Pretender' do Official HIGE DANdism completam o repertório moderno. O diretor Hideto Yamada e a equipe visual do Yoasobi ancoram a precisão — cada frame composto com intenção, nada por acaso."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Divida a música em seções antes de criar o prompt. O primeiro verso pode ser um quarto em tons pastel; o pré-refrão, um corredor em azul frio; o refrão, um palco saturado de vermelho com toda a equipe de dança. Instrua o Tunee a trocar a paleta a cada quebra de seção. Especifique a duração dos planos: 'cortes de dois segundos ao longo do refrão, segure a ponte por seis'. Adicione um elemento da gramática do anime por refrão — um close súbito nas mãos, um frame congelado, um tremor de tela. O gênero recompensa ambição visual."
+      }
+    ]
+  }
 }

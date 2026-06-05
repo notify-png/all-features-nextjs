@@ -39,5 +39,23 @@
       "q": "O gerador de vídeo de música Podcasters da Tunee funciona em dispositivos móveis?",
       "a": "A Tunee é totalmente acessível via navegador da web tanto em desktop quanto em celular, para que você possa criar vídeos de música Podcasters de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA PODCASTERS",
+    "h2": "Podcasts agora vivem ou morrem pelo clipe postado no TikTok",
+    "sections": [
+      {
+        "heading": "Por que podcasters precisam de ferramentas de videoclipe",
+        "body": "O pipeline de descoberta de podcasts mudou: ninguém mais encontra um programa novo no Apple Podcasts. As pessoas encontram a partir de um clipe de 60 segundos no TikTok ou no YouTube Shorts com a linha mais citável em closed captions sobre o rosto do apresentador. Esse clipe precisa de um polimento visual que o feed de câmera bruta não tem — color grading, legendas sincronizadas com a sílaba, B-roll cortado contra o diálogo, música de fundo que não faça o programa ser sinalizado por direitos autorais. É um fluxo de trabalho de videoclipe aplicado ao conteúdo de talking-head."
+      },
+      {
+        "heading": "O que funciona para clipes de promoção de podcast",
+        "body": "Tomada de dois com apresentador e convidado, cortada para planos individuais na fala mais marcante. Legendas automáticas em uma sans-serif condensada limpa, animadas palavra por palavra. B-roll (uma foto de arquivo sobre o que está sendo discutido, um clipe rápido de filme, um gráfico) inserido no substantivo sendo dito. Música instrumental suave de fundo sob a conversa, baixada quando os falantes ficam mais altos. Entre 30 e 60 segundos de duração, gancho nos primeiros 2 segundos, termine na linha mais citável, não no ponto de parada mais lógico."
+      },
+      {
+        "heading": "Como o Tunee lida com o preset para podcasters",
+        "body": "Faça upload do áudio do seu podcast, marque o segmento para clipar, e o Tunee gera as legendas, escolhe B-roll da sua biblioteca visual ou gera novos planos, insere uma trilha instrumental que não compete com a fala, e exporta 9:16 para TikTok/Shorts mais 1:1 para o feed do Instagram. O clipe parece um conteúdo projetado, não uma gravação bruta da sua sessão no Riverside. Promoção de episódio: 10 minutos de trabalho."
+      }
+    ]
+  }
 }

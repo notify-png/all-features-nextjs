@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe surreal para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe surreal usando prompts diferentes ou configurações de estilo, e então selecionar a versão que melhor se encaixa em sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV SURREAL",
+    "h2": "O vídeo surreal precisa de lógica interna para realmente funcionar",
+    "sections": [
+      {
+        "heading": "O que separa surreal de aleatório",
+        "body": "Surreal não é 'coisas estranhas aleatórias acontecendo'. O cachimbo de Magritte e os relógios de Dalí funcionam porque o trabalho pictórico é convencional — luz limpa, materiais reais, composição tradicional — enquanto um elemento viola a física ou a escala. O contraste é o que o torna onírico. O surreal gerado por IA muitas vezes falha por ser aleatório em todo lugar, o que o cérebro lê como falha em vez de sonho. A regra: escolha uma coisa impossível por plano e renderize tudo ao redor com realismo documental."
+      },
+      {
+        "heading": "De onde vem esse visual",
+        "body": "Lista de referências: Salvador Dalí e René Magritte para o cânone pictórico, Meshes of the Afternoon de Maya Deren, Eraserhead de David Lynch, Mulholland Drive e as sequências da Black Lodge de Twin Peaks, os efeitos práticos de Eternal Sunshine de Michel Gondry (além de seus vídeos para Björk), Being John Malkovich e Her de Spike Jonze, I'm Thinking of Ending Things de Charlie Kaufman. Videoclipes: as peças de Björk de Gondry Bachelorette e Hunter, o catálogo co-dirigido por Damian Kulash dos Ok Go (Here It Goes Again), o Donkey Rhubarb do Aphex Twin de Chris Cunningham. O modelo surreal do Tunee é treinado para manter um elemento impossível enquanto renderiza o restante como foto-real — a fórmula que realmente funciona."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Estruture prompts como 'cena realista + um elemento impossível': 'cozinha foto-real, luz suave da janela, pia cheia de peixinhos dourados flutuando onde deveria haver água'. Não quebre a iluminação ou a escala no lado realista — a lógica onírica vem do contraste. Referencie o realizador de lógica onírica se você tiver um alvo: 'zoom lento estilo Lynchiano, quarto levemente grande demais para suas proporções'. Evite 'surreal e onírico' como adjetivos; eles empurram para o caos."
+      }
+    ]
+  }
 }

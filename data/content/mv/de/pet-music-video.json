@@ -39,5 +39,23 @@
       "q": "Wie füge ich Lyrics oder Untertitel zu meinem Haustier-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Optionen für Lyrics- und Untertitel-Overlays. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil, und die KI synchronisiert sie automatisch zu Ihrem Haustier-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "DAS HAUSTIER-MV",
+    "h2": "Ein Haustier-Video, das auch dann noch hält, wenn der Algorithmus es längst vergessen hat",
+    "sections": [
+      {
+        "heading": "Warum Haustier-MVs mehr wert sind als ein weiteres TikTok",
+        "body": "Der Haustier-Content-Markt ist gesättigt — ein witziger Clip bekommt acht Stunden Aufmerksamkeit und verschwindet dann. Ein vertontes 60-Sekunden-MV ist für ein längeres Leben gebaut: es wird zum Post, der zum Jahrestag des Haustiers verankert, zum Denkmal wenn die Zeit irgendwann kommt, und zum Teiler, den Freunde wirklich an dich zurückschicken. Tierärzte und Hundetrainer nutzen das Format auch für Jahresend-Recaps ihrer Klienten."
+      },
+      {
+        "heading": "Die Shots, die immer funktionieren",
+        "body": "Tierfotografen kennen den Kanon: der Augenhöhe-Bodenschuss (nie auf einen Hund herabschauen), Pfoten auf einer Fensterbank, das Kopfneigen auf ein Geräusch außerhalb der Kamera, das tief schlafende Bauchoben-Liegen, das Auf-die-Kamera-Zurennen auf einem Feld, der Warten-am-Eingang-Schuss mit Leine. Katzen fügen ihre eigene hinzu: die Laib-Position, die Waschbecken-Besetzung, der nur-durch-eine-Schachtel-sichtbare-Schwanz, der unaufgeforderte Tastatur-Auftritt. Die kulturellen Referenzen: Wes Andersons Stop-Motion Isle of Dogs (2018), Lasse Hallströms A Dog's Purpose, Viral-Creator wie Doug the Pug (@doug_the_pug), Jiffpom und Nala Cat sowie Walter Chandohas Mitte-Jahrhundert-Katzenfotografie im LIFE-Magazin. Tunees Modell erkennt diese als Vokabular, nicht als zufälliges Haustier-Footage."
+      },
+      {
+        "heading": "Mach es zum Geschenk",
+        "body": "Der unerwartete Anwendungsfall: Schick das MV am Jahresende an deinen Tierarzt, deinen Hundeausführer oder deine Tiersitterin. Es ist die Art kleines Ding, das Dienstleistende wirklich aufheben. Tunee gibt vertikal für die Story aus, quadratisch für den Post und widescreen für die eventuelle Gedächtnis-Diashow, die du hoffentlich noch lange nicht brauchst."
+      }
+    ]
+  }
 }

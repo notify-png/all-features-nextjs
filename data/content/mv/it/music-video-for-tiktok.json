@@ -39,5 +39,23 @@
       "q": "Il generatore di video musicali TikTok di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web sia su desktop che mobile, così puoi creare video musicali TikTok da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PER TIKTOK",
+    "h2": "Su TikTok, i primi tre secondi decidono se ce ne sarà un quarto",
+    "sections": [
+      {
+        "heading": "Cosa premia davvero l'algoritmo",
+        "body": "Il For You di TikTok non si preoccupa della durata completa del tuo video — si preoccupa della curva di retention. Il watch-through a 3 secondi e il tasso di replay sono le due metriche che decidono se il tuo video si ferma a 200 visualizzazioni o arriva a 200.000. Il che significa che la classica apertura dell'MV — build lento, campo largo atmosferico, l'artista entra in scena al secondo 0:20 — è un suicidio algoritmico. L'hook deve atterrare prima che il pollice dello spettatore si annoi."
+      },
+      {
+        "heading": "Il sweet spot dei 15-60 secondi, strutturato",
+        "body": "I creator che pubblicano musica su TikTok hanno convergito su una forma: cold-open con il ritornello (o l'hook più accattivante), 5 secondi di identità visiva, ritorno all'hook, chiusura su un loop-point che spinge il replay. 30 secondi in totale è la lunghezza più condivisa; 60 è il tetto prima che la retention cali. Il 9:16 verticale è non negoziabile — i contenuti letterboxed vengono penalizzati nel feed."
+      },
+      {
+        "heading": "Come Tunee esporta specificamente per TikTok",
+        "body": "Scegli il preset TikTok e Tunee ristruttura il taglio: ritornello prima, voce in su nel primo secondo, hook restato al secondo 15, frame finale loop-friendly. Ottieni 9:16 nativo (non ritagliato da 16:9 — ricomposto), 1080p, MP4 sotto il cap di upload di TikTok, e la traccia audio esportata separatamente così puoi caricarla anche come suono TikTok e lasciare che i creator ci facciano un duetto. Due asset, una generazione."
+      }
+    ]
+  }
 }

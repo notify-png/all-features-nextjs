@@ -39,5 +39,23 @@
       "q": "Wie füge ich Texte oder Untertitel zu meinem R&B-Musikvideo hinzu?",
       "a": "Tunee bietet integrierte Optionen für Lyrik- und Untertitel-Overlays. Geben Sie einfach Ihre Lyrics ein und wählen Sie einen Textstil, und die KI synchronisiert sie automatisch zu Ihrem R&B-Musikvideo."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "ÜBER R&B",
+    "h2": "R&B-Video macht ein Gefühl allein durch Licht sichtbar",
+    "sections": [
+      {
+        "heading": "Wie R&B aussieht",
+        "body": "Moderne R&B-MVs sind im Grunde Kurzfilme mit Musik. Das Licht trägt den Großteil der emotionalen Arbeit: tiefe Schatten, eine einzelne Praktiklampe, Neon-Überschwang durch ein Fenster, Kerzenlicht. Colorgrading treibt Richtung warm und gesättigt oder kalt und entsättigt, selten neutral. Kompositionen sind still — die Kamera ist geduldig, oft gesperrt oder auf einem langsamen Dolly. Der Künstler ist häufiger allein im Bild, selbst wenn der Song von jemand anderem handelt. Kleidung ist texturreich: Seide, Leder, Strick."
+      },
+      {
+        "heading": "Referenzpunkte, die tatsächlich funktionieren",
+        "body": "The Weeknds 'Dawn FM'- und 'After Hours'-Runs, verankert durch Anthony Mandlers langjährige visuelle Zusammenarbeit, sind Meisterklassen in Stimmung als Stil. SZAs 'Snooze' und 'Kill Bill' beweisen, dass narratives R&B noch funktioniert, wenn das Licht es verdient. Frank Oceans 'Nikes', Regie Tyrone Lebon, hat die Messlatte für R&B als Experimentalfilm gesetzt. FKA Twigs' 'Cellophane', Regie Andrew Thomas Huang, und Hiro Murais Arbeit mit Childish Gambino ('This Is America') erweitern das Format. H.E.R.s 'Damage', Regie Calmatic, und Solanges 'A Seat at the Table'-Visuals tragen den Art-Direction-Ehrgeiz. Die gemeinsame Regel: Stimmung vor Plot, immer."
+      },
+      {
+        "heading": "Prompting-Tipp für Tunee",
+        "body": "Lichtquellen explizit benennen und auf zwei oder drei begrenzen. 'Einzelnes Natrium-Straßenlicht durch einen Voile-Vorhang, eine Praktik-Nachttischlampe, kein Füllicht' gibt Tunee die Beschränkung, die es für das Rendern von Stimmung braucht. Den Künstler allein im Bild lassen, außer eine zweite Person ist entscheidend. Lange Takes auf den Strophen, etwas kürzere auf dem Hook — aber nie das schnelle Schneiden des Pop. Das Colorgrading früh entscheiden: 'Bernstein-Wärme' oder 'Teal-und-Magenta-Nacht' — aber nie beides."
+      }
+    ]
+  }
 }

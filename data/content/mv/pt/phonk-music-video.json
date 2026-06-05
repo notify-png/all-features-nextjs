@@ -39,5 +39,23 @@
       "q": "O gerador de vídeos de Phonk da Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e mobile, então você pode criar vídeos de Phonk de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE PHONK",
+    "h2": "O vídeo de phonk funciona na fumaça de pneus e nos fantasmas do Memphis",
+    "sections": [
+      {
+        "heading": "Como é o visual do phonk",
+        "body": "Os visuais de phonk pegaram a estética das mixtapes de rap de Memphis dos anos 1990, passaram pelo TikTok e adicionaram carros de drift. O visual é fortemente comprimido: neon distorcido, erros de rastreamento de VHS, fantasmas de frame, vermelhos estourados. Figuras mascaradas aparecem constantemente — balaclavas, máscaras de demônio, silhuetas anônimas. Carros são centrais, quase sempre de lado. A cor é dominada por vermelho e preto com intrusões ocasionais de verde ácido ou rosa choque. Sobreposições de texto em fontes craqueladas de influência cirílica frequentemente aparecem sobre a ação."
+      },
+      {
+        "heading": "Referências que realmente funcionam",
+        "body": "O 'Murder in My Mind' do Kordhell, autoproduzido como a maioria dos visuais de phonk, estabeleceu o template moderno com imagens focadas em carros e cheias de máscaras. O 'Trouble' do PLUSMA, MoneySamuel e Pharaoh vêm da cena de phonk russa que moldou a estética atual. O 'Close Eyes' do DVRST levou a linguagem de drift e distorção a um bilhão de visualizações, e o 'Sahara' do Hensonn codificou o subgênero do drift no deserto. Influências anteriores vão direto ao 'Tear Da Club Up' do Three 6 Mafia e à arte das mixtapes do DJ Screw. O fio condutor: tratamento lo-fi agressivo de cada frame, mais uma recusa total de mostrar um rosto limpo."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Abrace a degradação. Instrua o Tunee para 'ruído VHS pesado, aberração cromática nas bordas, realces vermelhos estourados, pulo de frame a cada dois segundos'. Especifique o carro logo de início — 'coupé de tração traseira em pleno drift, fumaça de pneu preenchendo o terço inferior'. Os rostos devem estar obscurecidos ou parciais. Adicione texto no estilo cirílico no canto do frame para autenticidade. Não peça resultado limpo. O phonk que parece renderizado de forma limpa perde o que o gênero representa."
+      }
+    ]
+  }
 }

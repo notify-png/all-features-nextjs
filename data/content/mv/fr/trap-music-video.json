@@ -39,5 +39,23 @@
       "q": "Puis-je créer une vidéo Trap sans aucune expérience de montage vidéo ?",
       "a": "Oui — l'IA de Tunee gère automatiquement toute la production vidéo. Téléchargez simplement votre audio ou entrez un prompt texte, choisissez un style Trap, et l'IA génère votre vidéo en quelques minutes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU TRAP",
+    "h2": "Le clip trap, c'est Atlanta après minuit, peu importe où il a été tourné",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le trap",
+        "body": "Les MV trap opèrent dans une palette nocturne précise : orange de lampadaire à sodium, fluorescent de station-service, phares de voiture, bleu des écrans de téléphone. Les lieux sont des stations-service, des parkings de galeries marchandes, des intérieurs de trap houses, des habitacles de voitures étrangères. Le rappeur est généralement en plan serré avec un ou deux membres du crew visibles derrière. Les vêtements sont actuels — sweats de créateur, chaînes superposées, sneakers propres. La charleston dicte le rythme des coupes. La fumée est dans le cadre plus souvent qu'autrement. Les visages restent partiellement dans l'ombre même en gros plan."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Mask Off » de Future, réalisé par Colin Tilley, a construit le vocabulaire moderne du MV trap — scènes nocturnes, voitures étrangères, plans de crew. « Bad and Boujee » des Migos a codifié le visuel trap chorégraphié-mais-pas-dansé. « Bank Account » de 21 Savage apporte l'approche minimale à cadre contrôlé, tandis que « SICKO MODE » de Travis Scott, réalisé par Dave Meyers, a relevé le plafond de production. Young Thug avec « Wyclef Jean », Gunna et Lil Baby complètent le registre, le travail Lyrical Lemonade de Cole Bennett codifiant la grammaire visuelle native YouTube. Les références antérieures — les vidéos d'Atlanta ancrées de Three 6 Mafia et OutKast — restent du matériau source. La constante : Atlanta comme lieu réel ou esprit invoqué."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Verrouillez votre heure du jour avant tout le reste. « 2 h du matin, parking éclairé par un lampadaire à sodium et les phares d'une seule voiture, sujet au premier plan dans l'ombre avec seulement une lumière de contour » donne à Tunee une base qui se lit comme trap immédiatement. Spécifiez la voiture : « coupé étranger mat noir, portes levées ». Ajoutez des coupes rythmées sur la charleston dans le refrain — trois frames rapides d'affilée, puis un large tenu. Résistez à la lumière principale propre. Le trap vit dans la demi-ombre."
+      }
+    ]
+  }
 }

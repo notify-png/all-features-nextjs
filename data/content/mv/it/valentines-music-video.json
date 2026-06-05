@@ -39,5 +39,23 @@
       "q": "Posso generare più versioni di un video musicale di San Valentino per confrontarle?",
       "a": "Sì. Puoi generare diverse variazioni del tuo video musicale di San Valentino utilizzando prompt o impostazioni di stile diversi, quindi selezionare la versione che meglio si adatta alla tua visione."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "IL VALENTINE'S MV",
+    "h2": "Un video di San Valentino che non è un biglietto con una foto peggiore",
+    "sections": [
+      {
+        "heading": "Perché un Valentine's MV batte i fiori",
+        "body": "L'economia del regalo di San Valentino è esausta — fiori, cioccolata, prenotazione al ristorante, si ricomincia. Un MV da 60 secondi musicato sulla vostra canzone condivisa rompe questo schema senza essere costoso o ostentato. È il regalo che viene riguardato a marzo, inviato di nuovo all'anniversario, e salvato in una cartella privata piuttosto che buttato con la carta regalo. Per le coppie a distanza è particolarmente potente — fa il lavoro di esserci quando non puoi."
+      },
+      {
+        "heading": "Le inquadrature che funzionano sempre",
+        "body": "I videomaker romantici si attengono a un piccolo vocabolario: le mani che si incontrano attraverso un tavolo, la silhouette controluce in una finestra, il primo piano del toast a letto mezzo mangiato, il close-up del biglietto scritto a mano, lo slow-zoom su un sorriso a metà risata. I touchstone cinematografici: l'estetica arancione caldo di Her di Spike Jonze ripresa da Hoyte van Hoytema, il finale dei fiori sul pavimento di Notting Hill di Richard Curtis, il montaggio matrimoniale del primo atto di UP di Pete Docter, l'inquadratura del ristorante di noodle di In the Mood for Love di Wong Kar-wai, i film di San Valentino di Hallmark Channel. Le inquadrature cliché (rose rosse, candele, cuori) funzionano meglio quando sono periferiche — la candela è nel bokeh, non nel soggetto. Specifica questa gerarchia e l'MV si legge come intimo piuttosto che da biglietto di auguri."
+      },
+      {
+        "heading": "Rendilo il regalo",
+        "body": "Invialo alle 6 del mattino del 14 febbraio, prima che la giornata si riempia di consegne e prenotazioni. Tunee renderizza verticale per il messaggio mattutino, quadrato per il post opzionale pubblico, e widescreen per l'eventuale riguardata in salotto all'anniversario."
+      }
+    ]
+  }
 }

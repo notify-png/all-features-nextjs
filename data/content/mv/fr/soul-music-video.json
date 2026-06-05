@@ -39,5 +39,23 @@
       "q": "Puis-je générer plusieurs versions d'une vidéo de musique Soul pour les comparer ?",
       "a": "Oui. Vous pouvez générer plusieurs variations de votre vidéo de musique Soul en utilisant différents prompts ou paramètres de style, puis sélectionner la version qui correspond le mieux à votre vision."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "À PROPOS DU SOUL",
+    "h2": "Le clip soul porte la chaleur comme un vinyle porte le grain",
+    "sections": [
+      {
+        "heading": "À quoi ressemble le soul",
+        "body": "Les MV soul se situent dans le registre visuel de l'enregistrement live tard dans la nuit. Lumière tungstène chaude, vrais instruments, vêtements vintage qui ne font pas costume. Le chanteur est généralement en plan serré pour les couplets, puis élargi pour révéler le groupe pendant les refrains. La colorimétrie tend vers l'ambre, le brun, l'ocre, avec quelques accents ton-bijou. La texture est tout : velours, vinyle, bois, laiton. La caméra se déplace lentement quand elle se déplace. Le public est suggéré mais rarement montré — ces clips ressemblent à des sessions, pas à des concerts."
+      },
+      {
+        "heading": "Les références qui fonctionnent vraiment",
+        "body": "« Untitled (How Does It Feel) » de D'Angelo, réalisé par Paul Hunter, est la réalisation la plus haute du format — plan unique, sujet unique, lumière unique. La mise en scène live d'« Tyrone » d'Erykah Badu a prouvé que la vidéo de performance pouvait se sentir sacrée. « Coming Home » de Leon Bridges a construit le langage visuel du revival soul moderne : palette tonale des années 1960 sans costume littéralement d'époque. « Damage » de H.E.R., réalisé par Calmatic, et « Tints » d'Anderson .Paak étendent cette chaleur dans la décennie actuelle. Tank and the Bangas apportent une énergie soul de groupe et théâtrale au moment. Le tissu conjonctif : chaleur, retenue, et refus de sembler numérique."
+      },
+      {
+        "heading": "Conseil de prompt pour Tunee",
+        "body": "Précisez l'époque de chaleur que vous voulez. « Esthétique studio Stax Records fin années 60 — tungstène chaud, murs lambrissés bois, micro RCA vintage dans le cadre » donne à Tunee une période de référence sans forcer le pastiche. Gardez le costume un cran contemporain pour que ça ne ressemble pas à du cosplay. Longs plans sur les couplets du chanteur, cadres légèrement plus larges pour les refrains pour montrer le groupe. Évitez totalement les tons bleus froids — le soul vit dans la moitié chaude du spectre et se perd quand on le force dans le froid."
+      }
+    ]
+  }
 }

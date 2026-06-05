@@ -39,5 +39,23 @@
       "q": "Il generatore di video music visualizer di Tunee funziona su dispositivi mobili?",
       "a": "Tunee è completamente accessibile tramite browser web su desktop e mobile, quindi puoi creare video music visualizer da qualsiasi dispositivo senza installare software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SUI MUSIC VISUALIZER",
+    "h2": "I visualizer sono video astratti con un solo compito: ascoltare di ritorno",
+    "sections": [
+      {
+        "heading": "Cos'è un visualizer",
+        "body": "Il music visualizer è il formato in cui il visivo è un movimento astratto audio-reattivo senza narrativa, personaggi o luoghi — pura risposta a frequenza e ampiezza. La genealogia va dai film astratti di Oskar Fischinger degli anni '30 attraverso l'era Winamp degli anni '90 fino agli odierni loop Spotify Canvas e visualizer da giorno di pubblicazione su YouTube. Il compito è dare agli ascoltatori qualcosa da guardare che respiri con il brano, spesso come schermo di attesa su un upload YouTube o come arte verticale in loop di Spotify."
+      },
+      {
+        "heading": "Quando usarlo",
+        "body": "I visualizer sono il formato giusto per le pubblicazioni strumentali ed elettroniche, gli stream lo-fi hip-hop, Spotify Canvas (loop verticali di 8 secondi su ogni traccia), gli upload da giorno di pubblicazione su YouTube che superano l'immagine statica, e qualsiasi situazione in cui pubblicare velocemente conta più della narrativa. La genealogia estetica va da Oskar Fischinger attraverso il Winamp degli anni '90 fino al Canvas di oggi. Il toolkit canonico: Video Copilot di Andrew Kramer, Trapcode Particular di Peder Norrby, l'arte generativa Trail di Robert Hodgin, le dailies Cinema 4D di Beeple. Artisti che hanno costruito brand sull'estetica visualizer: Lorn, Bonobo, il lavoro di design ISO50 di Tycho, l'ecosistema YouTube Lofi Girl / ChilledCow animato da Juan Pablo Machado. Chiunque pubblichi singoli mensili ha bisogno di una pipeline per visualizer."
+      },
+      {
+        "heading": "Consigli per i prompt su Tunee",
+        "body": "Di' a Tunee esplicitamente il formato: 'loop Spotify Canvas da 8 secondi, 9:16 verticale, loop senza interruzioni'. Specifica l'elemento reattivo: 'densità delle particelle risponde alle basse, il colore cambia sui transient degli acuti'. Scegli una primitiva di movimento — fluido, particella, geometria o oscilloscopio — non tutte e quattro. Aggiungi 'movimento sottile, regge per la visione ripetuta' per il Canvas; 'grande build che segue l'arrangiamento' per YouTube a formato completo. Tunee esegue il rendering 16:9 e 9:16 da una sola generazione, così ottieni YouTube e Canvas in un solo passaggio."
+      }
+    ]
+  }
 }

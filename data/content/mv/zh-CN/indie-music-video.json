@@ -39,5 +39,23 @@
       "q": "我能否生成多个独立音乐视频版本进行对比？",
       "a": "可以。你可以使用不同的提示或风格设置生成多个独立音乐视频版本，然后选择最符合你愿景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "Indie MV 解析",
+    "h2": "Indie MV 是把预算不足变成一种风格",
+    "sections": [
+      {
+        "heading": "Indie 视觉长什么样",
+        "body": "Indie MV 的视觉语法脱胎于限制：一台摄像机、一个场景、一个彻底贯彻到底的古怪创意。低保真质感——VHS 溢色、过期胶片、过曝高光——如今是主动的美学选择，而非硬件条件约束。艺术家的眼神通常略显漫不经心或隐隐带着一丝自嘲，从不刻意用力。构图松散而不对称。服装看起来像是从二手店淘来的，哪怕实际上并非如此。最好的 Indie MV 像是某个朋友某个周六随手拍出来的东西。"
+      },
+      {
+        "heading": "真正有效的参考作品",
+        "body": "Tame Impala 的《The Less I Know the Better》——由 Canada 执导——是该类型的天花板：单一概念、单一场景、全情投入。Spike Jonze 为 Arcade Fire（《The Suburbs》）和 MGMT（《Time to Pretend》）拍摄的 MV 代表了艺术化的一端；Michel Gondry 与 The White Stripes 合作的《Fell in Love with a Girl》至今仍是里程碑。Mac DeMarco 在家拍摄的 MV 证明一台网络摄像头加一个后院足以支撑一段职业生涯。Arctic Monkeys 那一批以 Tranquility Base 旅馆为主题的 MV，在不失「懒散」气质的前提下注入了电影野心。Snail Mail、Soccer Mommy、Alvvays，以及 Mitski 的《Nobody》，共享着同一种「摄像机是室友」的能量。连接这一切的是克制，以及拒绝把这个类型太当回事。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "选定一个创意，然后停止往里加东西。「艺术家在后院的儿童充气泳池里坐满整首歌，三分钟内缓慢推进」——这比任何复杂的概念都更 Indie。当你指定了镜头规格，Tunee 在处理单一稳定场景时表现极佳——「35mm 定焦，柔和的自然光，轻微过曝」。主动欢迎小失误：麦克风杆意外入画、路过的一辆车。精细打磨会比一首糟糕的歌更快杀死这种风格。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes de Rappers do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador da web em desktop e mobile, então você pode criar videoclipes de Rappers em qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MV PARA RAPPERS",
+    "h2": "O MV de rap é o gênero mais codificado visualmente da música",
+    "sections": [
+      {
+        "heading": "Por que os vídeos de rap parecem vídeos de rap",
+        "body": "O videoclipe de hip-hop tem mais convenções do que qualquer outro gênero, de longe. O drill tem sua linguagem de quadro específica (câmera na mão, lente grande-angular, exteriores noturnos, olho de peixe no rapper, takes da crew de ângulos baixos — veja o Welcome to the Party do Pop Smoke, o catálogo do Headie One). O trap tem a sua própria (neon de casa de strip em Atlanta, dinheiro em câmera lenta, tracking shots de lowrider, gramática de Dave Meyers e Cole Bennett). As convenções existem porque o público as lê — quebre muitas delas e o vídeo não lê como o gênero que deveria ser."
+      },
+      {
+        "heading": "O que o cânone realmente entrega",
+        "body": "O rapper se apresentando diretamente para a câmera no primeiro verso — fechado nos lábios para as rimas mais fortes, mais aberto no corpo para o flow. B-roll de estilo de vida cortado contra a performance: carros, joias, locações que leem como território. O takes da crew, sempre. Uma mudança de locação para o segundo verso para indicar escala. A ponte ou gancho final recebe o plano aberto, a fumaça, o câmera lenta. A hierarquia visual de um MV de rap é tão fixada quanto a estrutura verso-gancho-verso-gancho da música."
+      },
+      {
+        "heading": "Como o preset de rap do Tunee lê o gênero",
+        "body": "O modelo do Tunee foi treinado no cânone visual real — drill, trap, boom-bap, melódico, UK rap têm cada um seus próprios caminhos no modelo. Escolha o subgênero e os padrões mudam: drill vai para exterior noturno câmera na mão, trap vai para neon-e-câmera-lenta, melódico vai para cinema quente. Vertical 9:16 para a promoção no TikTok, 16:9 para o upload no YouTube, os dois da mesma geração. Os takes de performance mantêm consistência visual do personagem para que leia como o artista, não um rosto genérico de IA."
+      }
+    ]
+  }
 }

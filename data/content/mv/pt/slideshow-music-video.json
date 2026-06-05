@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes de slideshow do Tunee funciona em dispositivos móveis?",
       "a": "O Tunee é totalmente acessível via navegador web em desktop e mobile, para que você possa criar videoclipes de slideshow de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV SLIDESHOW",
+    "h2": "O slideshow tem seu lugar — quando as fotos são o ponto principal",
+    "sections": [
+      {
+        "heading": "O que é um MV slideshow",
+        "body": "O videoclipe slideshow é uma sequência de stills (fotos, filme digitalizado, screenshots) cortados para uma música com transições simples — fade, push, pan-e-zoom estilo Ken Burns. O formato é descartado porque a maioria é feita mal com transições geradas automaticamente sobre trinta fotos aleatórias do celular. Bem feito, é poderoso: a montagem de abertura de Up é um slideshow em movimento, as sequências de foto de fim de episódio de This Is Us, os vídeos tributo do Vimeo Staff Picks que as pessoas fazem para velórios e casamentos. A disciplina é curadoria — menos imagens, retidas por mais tempo."
+      },
+      {
+        "heading": "Quando usar",
+        "body": "O MV slideshow é o formato certo para vídeos memoriais, recapitulações de casamento, compilações do primeiro ano do bebê, reels de viagem, reels de destaque do ano escolar, presentes de aniversário. O ponto alto cinematográfico do formato é a montagem de abertura de Up (2009) de Pete Docter — vida conjugal em quatro minutos de stills em movimento. Os documentários PBS de Ken Burns (The Civil War, Baseball) padronizaram o movimento de pan-e-zoom em fotos de arquivo que hoje carrega seu nome. As sequências de foto de fim de episódio de This Is Us da NBC. Também funciona para artistas consagrados lançando material legado, fotógrafos lançando músicas, qualquer pessoa cujo arquivo visual é fotográfico. O formato combina melhor com pop emocional, cantor-compositor acústico e trilha ambiente do que com gêneros de alta energia que precisam de cortes sincronizados com movimento."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Diga ao Tunee a fonte e o ritmo: 'doze fotografias no total em 90 segundos, zoom lento estilo Ken Burns em cada uma, transições suaves de crossfade, sem movimento cinético'. Especifique o tratamento da foto: 'sobreposição sutil de grain de filme, leve dessaturação para sensação mais antiga, sem filtros estilo Instagram'. Adicione tempo de transição à estrutura da música: 'troca de foto a cada mudança de acorde, segure mais tempo no refrão'. Faça curadoria firme — doze fotos certas superam cinquenta aleatórias."
+      }
+    ]
+  }
 }

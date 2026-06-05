@@ -39,5 +39,23 @@
       "q": "Puis-je créer une vidéoclip Song to MV sans aucune expérience en montage vidéo?",
       "a": "Oui — l'AI de Tunee gère automatiquement la production vidéo complète. Il vous suffit de télécharger votre audio ou d'entrer une invite texte, de choisir un style Song to MV, et l'AI génère votre vidéo en quelques minutes."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "MORCEAU VERS MV",
+    "h2": "Uploadez le morceau. Recevez la vidéo qu'il mérite vraiment",
+    "sections": [
+      {
+        "heading": "Ce que « morceau vers vidéo » devrait signifier",
+        "body": "Le minimum attendu : les coupes tombent sur le beat, l'énergie des visuels suit l'énergie du morceau, et le refrain a l'air différent du couplet. La plupart des outils génériques « morceau vers vidéo » ratent le troisième point — ils choisissent une ambiance et la maintiennent pendant trois minutes, ce qui produit une vidéo plate sous un morceau qui monte. Un vrai pipeline morceau-vers-MV doit d'abord lire la structure du morceau, pas seulement son tempo."
+      },
+      {
+        "heading": "Ce que Tunee extrait avant de générer la première frame",
+        "body": "Uploadez un MP3 ou un WAV et l'analyseur audio tague le tempo, la tonalité, la mesure, les temps forts, les segments vocaux et les frontières de sections (couplet, pré-refrain, refrain, pont, outro). Cette carte structurelle est ce que Sage utilise pour planifier la variété visuelle : cadrage plus serré dans les couplets, relâchements plus larges dans les refrains, un glissement de palette sur le pont, le plus grand plan réservé pour le refrain final. Le morceau cesse d'être « l'audio sous la vidéo » et devient la partition sur laquelle la vidéo est montée."
+      },
+      {
+        "heading": "Le test des 30 secondes",
+        "body": "Avant de valider un rendu complet, générez les 30 premières secondes et regardez-les sans le son. Si les coupes semblent encore intentionnelles sans l'audio — s'il y a un rythme visuel indépendant du morceau — le rendu complet fonctionnera. Si en muet ça ressemble à un reel aléatoire, régénérez avec un prompt plus précis avant de dépenser les crédits. Le pass d'ébauche de Tunee est conçu exactement pour cette vérification."
+      }
+    ]
+  }
 }

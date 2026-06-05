@@ -39,5 +39,23 @@
       "q": "Le générateur de vidéoclips texte en MV de Tunee fonctionne-t-il sur les appareils mobiles?",
       "a": "Tunee est entièrement accessible via navigateur web sur les appareils de bureau et mobiles, vous pouvez donc créer des vidéoclips texte en MV depuis n'importe quel appareil sans installer de logiciel."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "TEXTE VERS MV",
+    "h2": "Tapez une phrase. Obtenez un clip musical avec un morceau qui n'existait pas il y a cinq minutes",
+    "sections": [
+      {
+        "heading": "Ce que le text-to-MV fait vraiment",
+        "body": "Deux systèmes IA qui tournent l'un après l'autre. Le premier est un générateur de musique — votre prompt textuel produit un instrumental ou un titre vocal original à la durée et au BPM que vous spécifiez. Le second est le pipeline MV, alimenté à la fois par le prompt et l'audio fraîchement généré. Ce qui est intéressant, c'est que le modèle vidéo voit le prompt avant que l'audio existe, de sorte que l'univers visuel et l'univers musical sont conçus pour se correspondre plutôt que la vidéo soit adaptée rétroactivement à un morceau."
+      },
+      {
+        "heading": "Ce que Tunee vous donne depuis un seul prompt",
+        "body": "Une seule entrée texte — « un titre shoegaze lent sur le trajet de retour sous la pluie, voix féminine, 80 BPM » — retourne une piste audio, une vidéo de 60 secondes montée, et un stem téléchargeable de la musique seule. Vous pouvez régénérer l'audio sans re-rendre la vidéo, ou vice versa. Utile quand le morceau est réussi mais que les visuels ratent, ou quand les visuels sont parfaits mais que le refrain mérite un second passage. La plupart des outils text-to-MV couplent les deux sorties ; Tunee les garde délibérément séparables."
+      },
+      {
+        "heading": "Où le text-to-MV surpasse l'upload-to-MV",
+        "body": "Deux scénarios. D'abord, le prototypage : vous avez un concept vidéo mais pas encore de morceau, et licencier un placeholder représente plus de friction que d'en générer un. Ensuite, la vélocité de contenu : une marque qui gère une campagne de 30 jours a besoin de 30 courtes vidéos distinctes et de 30 bandes-son distinctes, et les calculs de licensing ne survivent pas à cette échelle. Pour les vidéos one-shot d'artistes, l'upload de votre morceau reste le bon parcours. Pour tout le reste, le text-to-MV est le chemin le plus court vers la première frame."
+      }
+    ]
+  }
 }

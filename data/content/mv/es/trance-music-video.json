@@ -39,5 +39,23 @@
       "q": "¿El generador de videos de música Trance de Tunee funciona en dispositivos móviles?",
       "a": "Tunee es completamente accesible a través del navegador web en escritorio y móvil, para que puedas crear videos de música Trance desde cualquier dispositivo sin instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE EL TRANCE",
+    "h2": "El video de trance es el mainstage del festival filmado desde dentro del build",
+    "sections": [
+      {
+        "heading": "Qué aspecto tiene el trance",
+        "body": "Los MVs de trance son casi siempre de captura en vivo: planos del mainstage, pasadas de dron sobre el público, el DJ silueteado contra una torre escénica completa en el momento del drop. El color está dominado por el azul profundo y el blanco con intrusiones de láser rosa intenso o verde durante los picos. Manos levantadas, fuegos artificiales, cañones de humo. El build-up recibe rostros del público con teleobjetivo en cámara lenta; el drop recibe el plano general del escenario con los láseres completamente abiertos. No hay narrativa: el video es el evento."
+      },
+      {
+        "heading": "Referencias que realmente funcionan",
+        "body": "Las capturas en vivo de Above & Beyond en 'Group Therapy' en Anjunabeach y el Madison Square Garden definen el formato moderno del MV de trance. Las películas de eventos de 'A State of Trance' de Armin van Buuren establecen el estándar de escala, y el equipo de livestream in-house de Anjunabeats ha construido la gramática de cámara característica del género. Las grabaciones del festival ASOT, Dreamstate y los cortes oficiales del mainstage de Tomorrowland — en particular la captura en mainstage de 'Animals' de Martin Garrix — completan el canon visual. Los referentes anteriores — el 'Adagio for Strings' de Tiesto en vivo en el Estadio Olímpico y el metraje de mainstage de Paul van Dyk — siguen enseñando cómo filmar un drop emocional. El instinto compartido: confía en el público."
+      },
+      {
+        "heading": "Tip de prompting para Tunee",
+        "body": "Mapea la estructura de la canción a posiciones de cámara antes de escribir el prompt. Build-up: rostros del público con teleobjetivo, zoom lento hacia ellos. Drop: plano general del escenario, láseres completamente activos, revelación de dron del público completo. Breakdown: regreso a los rostros, frecuentemente en cámara lenta. Especifica el equipo escénico: 'treinta focos móviles, cuatro unidades de láser, seis cañones de CO2, equipo completo de pirotecnia a lo largo del borde trasero del escenario'. Tunee renderiza escenas de multitudes masivas de forma más convincente cuando nombras la capacidad del recinto."
+      }
+    ]
+  }
 }
