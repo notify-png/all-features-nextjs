@@ -538,12 +538,14 @@ export async function generateMetadata(
       title,
       description: content.meta_description,
       siteName: 'Tunee',
+      images: [{ url: `${BASE_URL}/assets/features/cover.jpg`, width: 1200, height: 630, alt: title }],
     },
     twitter: {
       card: 'summary_large_image',
       site: '@tuneeai',
       title,
       description: content.meta_description,
+      images: [`${BASE_URL}/assets/features/cover.jpg`],
     },
   }
 }
@@ -996,7 +998,7 @@ export default async function LocaleSlugPage(
       <Footer />
 
       {/* Schema JSON-LD */}
-      <SchemaScripts cfg={cfg} content={content} />
+      <SchemaScripts cfg={cfg} content={content} locale={locale} />
 
       {/* Client-side effects — runs on mount AND on every Next.js client-side navigation.
           Replaces what used to be an inline <script>, which didn't fire on Link navigations

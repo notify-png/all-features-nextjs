@@ -7,21 +7,39 @@ const PARENT = '/features/music-video-generator'
 interface Props {
   cfg: MvConfig
   content: MvContent
+  locale: string
 }
 
-export default function SchemaScripts({ cfg, content }: Props) {
+function pageUrl(locale: string, slug: string): string {
+  return locale === 'en'
+    ? `${BASE_URL}${PARENT}/${slug}`
+    : `${BASE_URL}/${locale}${PARENT}/${slug}`
+}
+
+function parentUrl(locale: string): string {
+  return locale === 'en'
+    ? `${BASE_URL}${PARENT}`
+    : `${BASE_URL}/${locale}${PARENT}`
+}
+
+function homeUrl(locale: string): string {
+  return locale === 'en' ? BASE_URL : `${BASE_URL}/${locale}`
+}
+
+export default function SchemaScripts({ cfg, content, locale }: Props) {
   const { slug } = cfg
   const genre = cfg.genre_name
 
   const ratingCount = 800 + (strHash(slug) % 900)
   const ratingValue = ratingCount % 3 === 0 ? '4.7' : ratingCount % 3 === 1 ? '4.8' : '4.9'
 
+  // SoftwareApplication — always points to canonical (English) URL
   const softwareApp = {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
     name: `Tunee AI ${genre} Music Video Generator`,
     description: content.direct_answer,
-    url: `${BASE_URL}/en${PARENT}/${slug}`,
+    url: `${BASE_URL}${PARENT}/${slug}`,
     applicationCategory: 'MultimediaApplication',
     operatingSystem: 'Any',
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
@@ -30,16 +48,6 @@ export default function SchemaScripts({ cfg, content }: Props) {
       ratingValue,
       ratingCount: String(ratingCount),
     },
-  }
-
-  const faqPage = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    mainEntity: content.faqs.map(f => ({
-      '@type': 'Question',
-      name: f.q,
-      acceptedAnswer: { '@type': 'Answer', text: f.a },
-    })),
   }
 
   const howTo = {
@@ -73,16 +81,29 @@ export default function SchemaScripts({ cfg, content }: Props) {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: `${BASE_URL}/en` },
-      { '@type': 'ListItem', position: 2, name: 'Music Video Generator', item: `${BASE_URL}/en${PARENT}` },
-      { '@type': 'ListItem', position: 3, name: `${genre} Music Video`, item: `${BASE_URL}/en${PARENT}/${slug}` },
+      { '@type': 'ListItem', position: 1, name: 'Home', item: homeUrl(locale) },
+      { '@type': 'ListItem', position: 2, name: 'Music Video Generator', item: parentUrl(locale) },
+      { '@type': 'ListItem', position: 3, name: `${genre} Music Video`, item: pageUrl(locale, slug) },
     ],
   }
+
+  const hasFaqs = Array.isArray(content.faqs) && content.faqs.length > 0
+  const faqPage = hasFaqs ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: content.faqs.map(f => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  } : null
 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareApp) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqPage) }} />
+      {faqPage && (
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqPage) }} />
+      )}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(howTo) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
     </>
