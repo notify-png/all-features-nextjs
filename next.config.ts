@@ -4,8 +4,10 @@ import createNextIntlPlugin from "next-intl/plugin";
 const withNextIntl = createNextIntlPlugin("./src/i18n/request.ts");
 
 const nextConfig: NextConfig = {
-  // assetPrefix removed: assets served from same origin as pages (www.tunee.ai)
-  // Pointing to a Vercel subdomain caused cross-origin asset loading in production
+  // assetPrefix: all-features-nextjs-new is reverse-proxied from tunee.ai at /features/...
+  // CSS/JS bundles live on the Vercel deployment; assetPrefix forces the browser to load
+  // them from the correct origin instead of looking on tunee.ai which doesn't have them.
+  assetPrefix: "https://all-features-nextjs-main.vercel.app",
   async redirects() {
     return [
       {
