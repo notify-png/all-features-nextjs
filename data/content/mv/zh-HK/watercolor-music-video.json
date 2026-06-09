@@ -39,5 +39,23 @@
       "q": "我如何在水彩音樂影片中添加歌詞或字幕？",
       "a": "Tunee提供內置的歌詞和字幕覆蓋選項。只需輸入你的歌詞並選擇文字風格，AI將自動將它們同步到你的水彩音樂影片。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於水彩風 MV",
+    "h2": "螢幕上的水彩感，關鍵在於讓紙張保持可見",
+    "sections": [
+      {
+        "heading": "水彩真正的樣子",
+        "body": "真正的水彩有三個特徵：顏料渲染下的紙張紋理可見、顏料在乾燥邊界積聚形成的硬邊色塊，以及顏料未乾時濕接濕產生的柔和滲化。AI 水彩在把這些特徵磨平成泛泛的繪畫感時就失敗了——動態也是如此：真實的水彩畫面不是平滑的補間動畫，而是在 12fps 的手繪格之間「沸騰」跳動。Loving Vincent 這部電影完整實踐了這一點，展示了這樣做有多震撼。"
+      },
+      {
+        "heading": "這種美學從何而來",
+        "body": "參考正典：Dorota Kobiela 與 Hugh Welchman 的 Loving Vincent（2017）代表全幅油畫動畫、賀伯雄（Kazuo Oga）為宮崎駿的《龍貓》與《魔法公主》手繪的 Studio Ghibli 背景、J.M.W. Turner 的海景畫代表大氣渲染、宮崎駿本人的概念水彩稿、Don Hertzfeldt 的 World of Tomorrow 代表線條加渲染的極簡主義、Wolfgang Reitherman 執導的 The Sword in the Stone 時迪士尼的多層鏡頭工藝。童書插畫師：Quentin Blake 為 Roald Dahl 作品繪製的疏放墨線加渲染、Maurice Sendak 的交叉排線畫。音樂視頻周邊：Glen Keane 的手繪迪士尼時代、Tomm Moore 的卡通沙龍 Secret of Kells 與 Wolfwalkers。Tunee 的水彩模型以真實紙張紋理與沸騰動畫為訓練基礎，而非數碼油漆濾鏡。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "提示詞裡永遠包含紙張紋理：「可見冷壓水彩紙紋，硬邊顏料積聚，顏色邊界濕接濕滲化」。指定沸騰速率：「手繪沸騰感，12fps 逐格替換，非平滑補間」。最多選三到五個顏色——真正的水彩受限於調色盤上的顏料。引用一位畫家：「Turner 天空渲染」或「Kazuo Oga 森林背景」能精準引導模型。"
+      }
+    ]
+  }
 }

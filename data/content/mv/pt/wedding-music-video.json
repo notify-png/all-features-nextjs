@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe de casamento para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe de casamento usando diferentes prompts ou configurações de estilo, depois selecionar a versão que melhor se ajusta à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DE CASAMENTO",
+    "h2": "Transforme a música do seu casamento em uma lembrança que não fica guardada em uma gaveta",
+    "sections": [
+      {
+        "heading": "Por que um MV de casamento supera um slideshow",
+        "body": "O vídeo de casamento tem um problema silencioso: o filme oficial é longo demais para os amigos compartilharem, o reel do fotógrafo é genérico demais para parecer pessoal, e o slideshow que a sua tia faz é insuportável depois do segundo slide. Um MV de IA de 60 a 90 segundos ocupa exatamente essa lacuna — curto o suficiente para postar no Instagram na manhã seguinte, com trilha da sua valsa de abertura, e visualizado em torno dos momentos que importaram (o anel, o brinde, o olhar silencioso durante os votos) em vez de B-roll genérico."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Cinegrafistas de casamento conhecem o cânone: close no anel com colapso de profundidade de campo, detalhe do vestido na luz do golden hour, a revelação da noiva do ponto de vista dos pais, o primeiro beijo filmado do fundo do corredor, o plano com teleobjetiva da plateia durante a ovação. A prateleira de referências é pequena mas específica — Steven Bradford e os pioneiros da Cinematic Bride que codificaram a filmagem moderna, os filmes virais de casamento em plano único de Brett Loudermilk, As Mil e Uma Noites de Tarsem Singh pela cor saturada, a gramática de produção da Magmod e Vanlife Films que inundam os Vimeo Staff Picks todo ano, o trabalho de composição de retrato de família de Annie Leibovitz. Mencione a trilha da procissão ou da valsa de abertura, cite três desses planos em linguagem simples, e o MV já está metade do storyboard antes de você escrever mais uma palavra."
+      },
+      {
+        "heading": "Transforme isso no presente",
+        "body": "O MV de casamento mais útil é aquele que os noivos descobrem uma semana depois: envie para as pessoas que não conseguiram viajar. Um vertical 9:16 da sua recepção, a música que definiu a noite, exportado no dia seguinte, na caixa de entrada deles antes que lembrem de mandar uma mensagem de parabéns. O Tunee renderiza 9:16, 16:9 e 1:1 a partir de uma única geração — um prompt, todos os formatos que a caixa de entrada ou o feed esperam."
+      }
+    ]
+  }
 }

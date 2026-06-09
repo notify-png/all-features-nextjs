@@ -39,5 +39,23 @@
       "q": "Como adiciono letras ou legendas ao meu videoclipe aquarela?",
       "a": "A Tunee oferece opções integradas de sobreposição de letras e legendas. Simplesmente insira suas letras e escolha um estilo de texto, e a IA sincronizará automaticamente com seu videoclipe aquarela."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "SOBRE MV AQUARELA",
+    "h2": "Aquarela na tela exige manter o papel visível",
+    "sections": [
+      {
+        "heading": "Como a aquarela realmente se parece",
+        "body": "A aquarela real tem três assinaturas: a textura do papel visível sob a lavagem, o acúmulo de cor com bordas duras onde o pigmento secou na borda, e o sangramento suave do wet-on-wet onde as cores se encontram ainda úmidas. A aquarela gerada por IA falha quando suaviza tudo isso em um visual genérico de pintura — o mesmo vale para o movimento: frames de aquarela real não fazem tween suave, eles fervem entre cels pintados à mão a 12fps. O filme Loving Vincent provou o quão poderoso isso fica quando executado com total comprometimento."
+      },
+      {
+        "heading": "De onde vem o estilo",
+        "body": "O cânone de referência: Loving Vincent (2017) de Dorota Kobiela e Hugh Welchman para animação full-paint, os cenários pintados à mão por Kazuo Oga no Studio Ghibli nos filmes Meu Vizinho Totoro e Princesa Mononoke de Hayao Miyazaki, as marinhas atmosféricas de J.M.W. Turner para lavagem atmosférica, os próprios aquarelas conceituais de Miyazaki, World of Tomorrow de Don Hertzfeldt para o minimalismo de linha e lavagem, o trabalho multiplane da Disney em A Espada Era a Lei sob Wolfgang Reitherman. Ilustradores de livros infantis: o nanquim e lavagem solto de Quentin Blake para Roald Dahl, a pintura de hachura cruzada de Maurice Sendak. Adjacente a videoclipe: a era Disney desenhada à mão de Glen Keane, Secret of Kells e Wolfwalkers da Cartoon Saloon de Tomm Moore. O modelo de aquarela do Tunee é treinado em textura de papel real e animação boil, não em filtros de pintura digital."
+      },
+      {
+        "heading": "Dica de prompt para o Tunee",
+        "body": "Sempre inclua a textura do papel no prompt: 'papel de aquarela cold-press visível através da lavagem, acúmulo de pigmento com borda dura, sangramento wet-on-wet nas bordas de cor'. Especifique a taxa de boil: 'boil pintado à mão, substituição de frame a 12fps, sem tween suave'. Escolha uma paleta de três a cinco cores no máximo — a aquarela real é limitada pelo que está úmido na paleta. Referencie um pintor: 'lavagem de céu de Turner' ou 'fundo de floresta de Kazuo Oga' direciona o modelo com precisão."
+      }
+    ]
+  }
 }

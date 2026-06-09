@@ -39,5 +39,23 @@
       "q": "我可以生成超現實音樂影片的多個版本進行比較嗎？",
       "a": "可以。您可以使用不同的提示或風格設定生成超現實音樂影片的多個變體，然後選擇最符合您願景的版本。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於超現實 MV",
+    "h2": "超現實視頻需要內在邏輯，才能真正成立",
+    "sections": [
+      {
+        "heading": "超現實與隨機的分野",
+        "body": "超現實不等於「隨便發生一堆奇怪的事」。Magritte 的煙斗和 Dali 的時鐘之所以有效，是因為繪畫技法本身是傳統的——乾淨的光線、真實的材質、古典的構圖——只有一個元素違反了物理或比例。這種對比才是夢境感的來源。AI 生成的超現實常常失敗，因為到處都是隨機元素，大腦讀到的是故障而非夢境。法則只有一條：每個鏡頭選定一件不可能的事，周圍的一切用紀錄片式的寫實感來渲染。"
+      },
+      {
+        "heading": "這種美學從何而來",
+        "body": "參考名單：Salvador Dali 與 Rene Magritte 代表繪畫正典，Maya Deren 的 Meshes of the Afternoon，David Lynch 的 Eraserhead、Mulholland Drive 以及 Twin Peaks Black Lodge 序列，Michel Gondry 的 Eternal Sunshine 實體特效（加上他為 Bjork 執導的視頻），Spike Jonze 的 Being John Malkovich 與 Her，Charlie Kaufman 的 I'm Thinking of Ending Things。音樂視頻：Gondry 執導的 Bjork 作品 Bachelorette 與 Hunter、OK Go 由 Damian Kulash 共同執導的目錄（Here It Goes Again）、Chris Cunningham 為 Aphex Twin 拍攝的 Donkey Rhubarb。Tunee 的超現實模型被訓練為保持一個元素不可能成立，同時把其餘部分渲染成寫實感——這才是真正有效的公式。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "將提示詞組織為「寫實場景 + 一件不可能的事」：「寫實廚房，柔和窗光，水槽中浮著金魚，水應在的地方」。不要破壞寫實部分的光線或比例——夢境邏輯來自對比。如果有目標感覺，可以引用夢境邏輯導演：「Lynch 式緩慢推鏡，房間的縱深比例略長」。避免把「surreal and dreamlike」用作形容詞——它們會把畫面推向混亂。"
+      }
+    ]
+  }
 }

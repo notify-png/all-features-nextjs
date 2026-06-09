@@ -39,5 +39,23 @@
       "q": "我如何在 R&B 音樂影片中添加歌詞或字幕？",
       "a": "Tunee 提供內建歌詞和字幕疊加選項。只需輸入您的歌詞並選擇文字風格，AI 就會自動將其同步到您的 R&B 音樂影片。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 R&B",
+    "h2": "R&B MV 單憑光線就能讓一種感覺變得可見",
+    "sections": [
+      {
+        "heading": "R&B MV 的視覺語言",
+        "body": "現代 R&B MV 本質上是配樂的短片。燈光承擔了絕大部分的情感工作：深沉的陰影、一盞孤立的檯燈、從窗外溢入的霓虹光，燭光。調色往往推向暖而飽和，或冷而去飽和，鮮少保持中性。構圖沉靜——攝影機從容，常常固定或做緩慢的推軌。藝人在鏡頭中單獨出現的頻率，往往高於歌曲本身所描寫的對象。服裝質感豐富：絲綢、皮革、針織。"
+      },
+      {
+        "heading": "真正有效的參考範本",
+        "body": "The Weeknd 的 'Dawn FM' 與 'After Hours' 系列（以 Anthony Mandler 長期視覺合作為錨點）是以氛圍為風格的大師課。SZA 的 'Snooze' 與 'Kill Bill' 證明了敘事型 R&B 在燈光到位時仍然有效。Frank Ocean 的 'Nikes'（導演 Tyrone Lebon）確立了 R&B 作為實驗電影的標準。FKA Twigs 的 'Cellophane'（導演 Andrew Thomas Huang）以及 Hiro Murai 與 Childish Gambino 合作的 'This Is America' 拓展了這一形式的邊界。H.E.R. 的 'Damage'（導演 Calmatic）與 Solange 的 'A Seat at the Table' 視覺系列承載著藝術指導的野心。共同法則：氛圍永遠優先於情節。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "明確指出你的光源，並把它們限制在兩到三個。「一盞鈉燈透過薄紗窗簾，一盞床頭檯燈，無補光」——這樣的限制能讓 Tunee 渲染出所需的氛圍。除非另一個人對敘事至關重要，否則保持藝人獨自入鏡。主歌用長鏡頭，副歌稍微緊湊——但永遠不要像流行 MV 那樣快速切換。調色方向應在一開始確定：「琥珀暖調」或「青藍夜色」，但兩者不應並存。"
+      }
+    ]
+  }
 }

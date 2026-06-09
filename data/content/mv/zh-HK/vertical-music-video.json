@@ -39,5 +39,23 @@
       "q": "Tunee 的豎屏音樂視頻生成器是否可在移動設備上使用？",
       "a": "Tunee 可在桌面和移動設備的網頁瀏覽器上完全訪問，因此您可以從任何設備上建立豎屏音樂視頻，無需安裝軟件。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於豎版 MV",
+    "h2": "豎版不是裁切——而是一套不同的構圖方式",
+    "sections": [
+      {
+        "heading": "豎版真正需要的是什麼",
+        "body": "豎版音樂視頻是以 9:16 手機優先構圖設計的格式，適用於 TikTok、Instagram Reels、YouTube Shorts 與 Spotify Canvas。常見的錯誤是先拍橫版再裁切——豎版要求以單一主體居中的構圖方式、動作沿上下方向展開而非左右、剪切節奏配合拇指滑動的注意力。第一格畫面必須在一秒內留住觀眾。畫面下方三分之一通常留給字幕空間。這個格式現在已有自己獨立的語言，與橫版截然不同。"
+      },
+      {
+        "heading": "何時使用豎版",
+        "body": "豎版 MV 在 2026 年的任何發行中都是不可選擇的——每首單曲都需要一個豎版剪輯。具體使用場景：TikTok 發行日推廣（往往是單曲最大的發現渠道）、橫版在 Reels 與 Shorts 中被加上黑邊後被忽視的問題、Spotify Canvas 8 秒循環、時代廣場與東京澀谷路口的豎版廣告牌、信息流廣告。值得引用的原生豎版創作者：Khaby Lame 的無聲反應格式、Charli D'Amelio 的舞蹈優先構圖、Devon Rodriguez 的人像揭示。建立在豎版優先上的藝人職業生涯：Doja Cat、Olivia Rodrigo、Lil Nas X 的 Old Town Road TikTok 爆發、Ice Spice。Apple 的 Shot on iPhone 豎版活動以及 Vertical Cinema 的 Driving Home for Christmas 短片證明這個格式不是取巧。豎版現在是主要格式，不是次要的。"
+      },
+      {
+        "heading": "Tunee 提示技巧",
+        "body": "從一開始就為 9:16 構圖：「豎版 9:16 畫面，單一主體居中，動作沿上下方向展開（人物上升、粒子飄落）」。前置鉤子：「開頭兩秒：極致特寫，強烈色彩，動態感」。留出畫面底部 15% 的字幕安全區：「畫面下方 15% 無關鍵細節」。Tunee 從一次生成同時輸出 9:16、16:9 和 1:1，一個提示詞涵蓋 TikTok、YouTube 和 Instagram 方形，無需重新拍攝。"
+      }
+    ]
+  }
 }

@@ -39,5 +39,23 @@
       "q": "Tunee 的迷幻音樂視頻生成器可以在行動設備上使用嗎？",
       "a": "Tunee 可透過網頁瀏覽器在桌面和行動設備上完全訪問，因此您可以從任何設備創建迷幻音樂視頻，無需安裝軟體。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於迷幻舞曲",
+    "h2": "Trance MV 是從 build-up 內部拍攝的主舞台現場",
+    "sections": [
+      {
+        "heading": "Trance MV 的視覺語言",
+        "body": "Trance MV 幾乎全為現場捕捉：主舞台全景、無人機飛越觀眾、DJ 在 drop 瞬間的剪影映在整套燈光裝置前。色彩以深藍與白為主調，峰值時刻有粉紅或綠色雷射的侵入。雙手舉起、煙火、煙霧炮。Build-up 段落用長焦鏡頭以慢動作捕捉觀眾面孔；drop 時切到雷射全開的舞台全景。沒有敘事——視頻本身就是現場。"
+      },
+      {
+        "heading": "真正有效的參考範本",
+        "body": "Above & Beyond 在 Anjunabeach 與 Madison Square Garden 的 'Group Therapy' 現場影像定義了現代 trance MV 格式。Armin van Buuren 的 'A State of Trance' 活動影片設立了規模標準，Anjunabeats 的內部直播團隊建立了這一類型的標誌性攝影語法。ASOT 音樂節錄像、Dreamstate，以及 Tomorrowland 官方主舞台剪輯——尤其是 Martin Garrix 的 'Animals' 主舞台影像——填完了視覺正典。更早的座標——Tiesto 在奧林匹克體育場的 'Adagio for Strings' 現場以及 Paul van Dyk 的主舞台影像——至今仍在教人如何拍攝一個情感性的 drop。共同的直覺：信任觀眾。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "在提示詞中先把歌曲結構對應到攝影機位置。Build-up：長焦觀眾面孔，緩慢推進。Drop：舞台全景，雷射全開，無人機拉升揭露完整觀眾規模。Breakdown：回到面孔，通常是慢動作。指定舞台裝置：「三十個動態燈頭、四台雷射裝置、六把 CO₂ 炮、完整焰火裝置沿著後舞台邊緣排列」。當你指定場館容量時，Tunee 能更有說服力地渲染大規模觀眾場景。"
+      }
+    ]
+  }
 }

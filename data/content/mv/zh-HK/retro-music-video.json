@@ -39,5 +39,23 @@
       "q": "如何向我的復古音樂影片添加歌詞或字幕？",
       "a": "Tunee 提供內建歌詞和字幕疊加選項。只需輸入您的歌詞並選擇文字風格，AI 將自動將其與您的復古音樂影片同步。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於復古 MV",
+    "h2": "復古是某個年代，不是一種氛圍——請選清楚",
+    "sections": [
+      {
+        "heading": "年代比「復古」這個詞更重要",
+        "body": "「復古」作為單一標籤毫無用處，因為每個年代的面貌截然不同。1970 年代：暖色柯達膠片，柔和變形鏡頭，寬領，舊旅行車的黃褐色調。1980 年代：Betacam 錄像，VHS 色彩溢出，黑底霓虹圖形，MTV 片頭美學。1990 年代：粗粒 Hi-8，水洗牛仔和法蘭絨，《Kids》與《Clerks》那種獨立電影顆粒感。2000 年代：早期數碼，過度銳化的視頻噪點，MySpace 時代的照片造型。把年代搞錯是 AI 復古失敗最常見的原因。"
+      },
+      {
+        "heading": "這種美學從何而來",
+        "body": "各年代的具體座標：王家衛的《阿飛正傳》代表 1970 年代香港、Paul Thomas Anderson 的 Boogie Nights 代表膠片質感的真實性、1981 至 1989 年整個 MTV 目錄代表真正的 80 年代視頻、Sofia Coppola 的 The Virgin Suicides 代表 70 年代郊區夢境、Larry Clark 的 Kids 代表原生 90 年代 16mm、Nicolas Winding Refn 的 Drive（2011）代表 80 年代合成器復興、James Gunn 的 Guardians of the Galaxy Awesome Mix 系列。Quentin Tarantino 在 Death Proof 中的 grindhouse 美學。VHS 專屬藝術家：David Firth 的劣化錄像帶作品，早期 YouTube vaporwave 場景。Tunee 的復古模型把每個年代作為獨立的膠片格式組合來訓練，而不是模糊地統一成「舊感覺」。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "永遠同時標注年份與格式：「1978 年，Kodak Vision 250D，變形鏡頭，柔和對比」或「1986 年，Betacam SP，高光色差，掃描線」。指定膠片顆粒還是視頻噪點的類型——兩者看起來截然不同。符合年代的服裝與道具很重要；「復古造型」過於模糊，「寬領聚酯衫、喇叭牛仔褲」才夠具體。混搭年代做超現實感完全可以，但要說清楚：「80 年代霓虹疊加在 70 年代膠片之上」。"
+      }
+    ]
+  }
 }

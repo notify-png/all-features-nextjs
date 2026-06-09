@@ -39,5 +39,23 @@
       "q": "수채화 음악 비디오에 가사나 자막을 어떻게 추가하나요?",
       "a": "Tunee는 기본 가사 및 자막 오버레이 옵션을 제공합니다. 가사를 입력하고 텍스트 스타일을 선택하면 AI가 이를 수채화 음악 비디오에 자동으로 동기화합니다."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "수채화 뮤직비디오",
+    "h2": "화면 속 수채화는 종이 질감이 살아있어야 합니다",
+    "sections": [
+      {
+        "heading": "수채화가 실제로 어떻게 보이는가",
+        "body": "진짜 수채화에는 세 가지 특징이 있습니다. 워시 아래로 보이는 종이 질감, 안료가 경계에서 건조될 때 생기는 하드 엣지 색 풀링, 그리고 두 색이 아직 촉촉할 때 만나는 웻온웻의 부드러운 번짐. AI 수채화는 이것들을 일반적인 페인팅 룩으로 매끄럽게 처리할 때 실패합니다 — 모션도 마찬가지입니다. 진짜 수채화 프레임은 매끄럽게 트윈되지 않고, 12fps의 손으로 그린 셀 사이에서 끓습니다. Loving Vincent 영화는 이것을 완전히 구현했을 때 얼마나 강력한지 증명했습니다."
+      },
+      {
+        "heading": "이 룩의 출처",
+        "body": "레퍼런스 정전: 풀 페인트 애니메이션에는 Dorota Kobiela와 Hugh Welchman의 Loving Vincent (2017), Hayao Miyazaki의 My Neighbor Totoro와 Princess Mononoke 전반에 걸친 Kazuo Oga의 스튜디오 Ghibli 손그림 배경, 대기적 워시에는 J.M.W. Turner의 바다 풍경화, Miyazaki 본인의 콘셉트아트 수채화, 라인앤워시 미니멀리즘에는 Don Hertzfeldt의 World of Tomorrow, Wolfgang Reitherman 감독 하에 Disney의 The Sword in the Stone 멀티플레인 작업. 어린이책 일러스트레이터: Roald Dahl을 위한 Quentin Blake의 루즈한 잉크앤워시, Maurice Sendak의 크로스해칭 페인트. 뮤직비디오 인접: Glen Keane의 손그림 Disney 시대, Tomm Moore의 Cartoon Saloon Secret of Kells와 Wolfwalkers. Tunee의 수채화 모델은 디지털 페인트 필터가 아닌 실제 종이 질감과 보일 애니메이션으로 학습했습니다."
+      },
+      {
+        "heading": "Tunee 프롬프팅 팁",
+        "body": "항상 프롬프트에 종이 질감을 포함하세요. '콜드프레스 수채화 용지가 워시 아래로 보임, 하드 엣지 안료 풀링, 색상 경계의 웻온웻 번짐'. 보일 속도를 명시하세요. '12fps 프레임 교체, 손그림 보일, 매끄러운 트윈 금지'. 최대 3~5가지 색 팔레트를 선택하세요 — 진짜 수채화는 팔레트 위에 젖어있는 것에 제한됩니다. 화가 한 명을 레퍼런스하세요. 'Turner 하늘 워시'나 'Kazuo Oga 숲 배경'이 모델을 정확하게 유도합니다."
+      }
+    ]
+  }
 }

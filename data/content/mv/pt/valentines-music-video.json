@@ -39,5 +39,23 @@
       "q": "Posso gerar múltiplas versões de um videoclipe para o Dia de São Valentim para comparar?",
       "a": "Sim. Você pode gerar várias variações do seu videoclipe para o Dia de São Valentim usando diferentes prompts ou configurações de estilo, então selecionar a versão que melhor se adequa à sua visão."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "O MV DE NAMORADOS",
+    "h2": "Um vídeo de Dia dos Namorados que não é um cartão com uma foto pior",
+    "sections": [
+      {
+        "heading": "Por que um MV de Namorados supera as flores",
+        "body": "A economia de presentes do Dia dos Namorados está esgotada — flores, chocolate, reserva de restaurante, repetir. Um MV de 60 segundos com a música de vocês quebra esse padrão sem ser caro ou exibicionista. É o presente que é revisto em março, reenviado no aniversário e salvo em uma pasta privada em vez de jogado fora com o papel de embrulho. Para casais à distância é especialmente poderoso — faz o trabalho de estar presente quando você não pode."
+      },
+      {
+        "heading": "Os planos que sempre funcionam",
+        "body": "Cinegrafistas de romance se apegam a um vocabulário enxuto: as mãos se encontrando por cima de uma mesa, a silhueta contraluz em uma janela, o café da manhã meio comido na cama em plano aberto, o close na bilhete escrito à mão, o zoom lento em um sorriso no meio de uma gargalhada. As referências cinematográficas: a estética laranja-quente de Her de Spike Jonze, filmado por Hoyte van Hoytema, o final do tapete de flores de Notting Hill de Richard Curtis, a montagem de casamento do primeiro ato de UP de Pete Docter na Pixar, o enquadramento da lanchonete de macarrão em In the Mood for Love de Wong Kar-wai, os filmes de Dia dos Namorados da Hallmark Channel. Os planos clichê (rosas vermelhas, velas, corações) funcionam melhor quando periféricos — a vela está no bokeh, não no sujeito. Especifique essa hierarquia e o MV se lê como íntimo em vez de cartão de felicitações."
+      },
+      {
+        "heading": "Transforme isso no presente",
+        "body": "Envie às 6h da manhã de 14 de fevereiro, antes que o dia comece a se encher com entregas e reservas. O Tunee renderiza no formato vertical para a mensagem de manhã, quadrado para o post público opcional e widescreen para a eventual revisão na sala de estar no aniversário."
+      }
+    ]
+  }
 }

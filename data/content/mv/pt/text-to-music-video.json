@@ -39,5 +39,23 @@
       "q": "O gerador de videoclipes Text to MV do Tunee funciona em dispositivos móveis?",
       "a": "Tunee é totalmente acessível via navegador web em desktop e dispositivos móveis, para que você possa criar videoclipes Text to MV de qualquer dispositivo sem instalar software."
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "TEXTO PARA MV",
+    "h2": "Digite uma frase. Receba um videoclipe com uma música que não existia cinco minutos atrás",
+    "sections": [
+      {
+        "heading": "O que o text-to-MV está realmente fazendo",
+        "body": "Dois sistemas de IA rodando em sequência. O primeiro é um gerador de música — seu prompt de texto produz uma faixa instrumental ou vocal original na duração e no BPM que você especifica. O segundo é o pipeline de MV, alimentado tanto com o prompt quanto com o áudio recém-gerado. A parte interessante é que o modelo de vídeo vê o prompt antes que o áudio exista, então o mundo visual e o mundo musical são projetados para combinar em vez de o vídeo ser adaptado depois de uma música já feita."
+      },
+      {
+        "heading": "O que o Tunee entrega a partir de um único prompt",
+        "body": "Um único input de texto — 'uma faixa shoegaze lenta sobre dirigir para casa na chuva, vocais femininos, 80 BPM' — retorna uma faixa de áudio, um corte de vídeo de 60 segundos e um stem para download apenas da música. Você pode regenerar o áudio sem re-renderizar o vídeo, ou vice-versa. Útil quando a música acerta mas os visuais erram, ou os visuais acertam mas o refrão precisa de uma segunda passagem. A maioria das ferramentas de text-to-MV acopla as duas saídas; o Tunee deliberadamente as mantém separáveis."
+      },
+      {
+        "heading": "Onde o text-to-MV supera o upload-para-MV",
+        "body": "Dois cenários. Primeiro, prototipagem: você tem um conceito de vídeo mas ainda não tem uma música, e licenciar um placeholder é mais atrito do que gerar um. Segundo, velocidade de conteúdo: uma marca rodando uma campanha de 30 dias precisa de 30 vídeos curtos distintos e 30 trilhas distintas, e a matemática de licenciamento não sobrevive a isso. Para vídeos de artista únicos, o upload da sua música ainda é a rota certa. Para todo o resto, o text-to-MV é o caminho mais curto até o primeiro frame."
+      }
+    ]
+  }
 }

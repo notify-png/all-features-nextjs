@@ -39,5 +39,23 @@
       "q": "我可以在沒有任何視頻編輯經驗的情況下創作Trap音樂視頻嗎？",
       "a": "可以——Tunee的AI會自動處理所有視頻製作工作。只需上傳您的音頻或輸入文字提示，選擇Trap風格，AI即可在幾分鐘內生成您的視頻。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於 Trap",
+    "h2": "Trap MV 是午夜後的 Atlanta，不管它在哪裡拍攝",
+    "sections": [
+      {
+        "heading": "Trap MV 的視覺語言",
+        "body": "Trap MV 運作在一套特定的夜間色板之中：路燈橙、便利店日光燈白、頭燈光，以及手機螢幕的藍光。場景是加油站、購物中心停車場、trap house 室內、豪車車廂。Rapper 通常緊湊入鏡，身後一兩個成員隱約可見。服裝走在當下——設計師連帽衛衣、層疊鏈條、新款球鞋。hi-hat 決定切換頻率。鏡頭裡幾乎隨時都有煙霧。即使是特寫鏡頭，臉部也保持在半陰影之中。"
+      },
+      {
+        "heading": "真正有效的參考範本",
+        "body": "Future 的 'Mask Off'（導演 Colin Tilley）建立了現代 trap MV 詞彙——夜景、豪車、成員合拍。Migos 的 'Bad and Boujee' 確立了「有編排感但不像舞蹈」的 trap 視覺風格。21 Savage 的 'Bank Account' 帶來極簡、受控構圖的方式，而 Travis Scott 的 'SICKO MODE'（導演 Dave Meyers）把製作上限拉高了一個層次。Young Thug 的 'Wyclef Jean'、Gunna 與 Lil Baby 補全了這一類型的質感，Cole Bennett 的 Lyrical Lemonade 作品系統化了原生於 YouTube 的視覺語法。更早的參考——Three 6 Mafia 以及 OutKast 扎根 Atlanta 的視頻——仍然是源頭素材。始終不變的：Atlanta 作為真實取景地，或作為召喚的精神所在。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "在其他一切之前先鎖定時間。「凌晨兩點，停車場由鈉燈路燈與一輛車的頭燈照亮，前景主體在陰影中僅有輪廓光」——這個基調能讓 Tunee 立刻讀出 trap 的感覺。指定車型：「啞光黑進口跑車，剪刀門打開」。副歌加入 hi-hat 節拍的快速切換——連續三個快速畫面，然後一個停頓的全景。抵制乾淨的主光。Trap 活在半陰影之中。"
+      }
+    ]
+  }
 }

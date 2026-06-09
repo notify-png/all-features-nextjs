@@ -39,5 +39,23 @@
       "q": "是否支持以 4K 解析度輸出寫實音樂視頻？",
       "a": "當然支持。Tunee 可將寫實音樂視頻輸出至 4K 解析度，適合在 YouTube、串流平台和大屏幕顯示器上播放。"
     }
-  ]
+  ],
+  "narrative": {
+    "eyebrow": "關於寫實風 MV",
+    "h2": "真正的寫實感來自克制，而非細節堆砌",
+    "sections": [
+      {
+        "heading": "「寫實」究竟是什麼",
+        "body": "寫實風音樂視頻的標準是：觀眾根本不會去想它是否真實——而這比聽起來難得多。AI 生成視頻在寫實感上常見的破綻：皮膚過於潔淨（無毛孔、無不對稱）、眼睛的反光點位置不正確、手部有微妙的手指數量偏差、布料不隨重力下垂、動作過於流暢（真實的人體動作帶有細微的抖動）。紀錄片風格的寫實感尤其需要：自然光、視覺中呈現環境音源的線索，以及未經刻意擺拍的肢體語言。"
+      },
+      {
+        "heading": "這種美學從何而來",
+        "body": "攝影師與音樂視頻導演實際引用的參考：Emmanuel Lubezki 為 Terrence Malick 拍攝的自然光作品（The Tree of Life）、Lars von Trier 與 Dogme 95 運動的手持紀律、Andrea Arnold 的 American Honey 與 Fish Tank、Sean Baker 的 The Florida Project 與 Tangerine、Errol Morris 的 The Thin Blue Line、Chloe Zhao 的 Nomadland。音樂視頻方向：Hiro Murai 為 Childish Gambino 拍攝的系列、Spike Jonze 為 Beastie Boys 拍攝的作品（Sabotage）。紀錄片攝影：Alec Soth、Stephen Shore、Nan Goldin。Tunee 的寫實模型以自然光畫面與不完美、有生活感的主體為訓練基礎——而非光鮮的商業拋光。"
+      },
+      {
+        "heading": "在 Tunee 中的提示技巧",
+        "body": "明確加入不完美元素：「自然皮膚紋理含毛孔、輕微不對稱、僅用現有光、無補光」。指定時間與天氣：「陰天下午，柔和窗光，無直射陽光」。手持動感：「肩扛攝影機，細微手持晃動」。避免用「photorealistic」作為單一提示詞——它會把畫面推向 CGI 質感。改用「documentary-style natural realism」。真實感等於不完美；過度流暢等於渲染感。"
+      }
+    ]
+  }
 }
