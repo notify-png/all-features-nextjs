@@ -520,7 +520,9 @@ export async function generateMetadata(
     'x-default': `${BASE_URL}/features/music-video-generator/${slug}`,
   }
   for (const loc of ALL_LOCALES) {
-    languageAlternates[loc] = `${BASE_URL}/${loc}/features/music-video-generator/${slug}`
+    languageAlternates[loc] = loc === 'en'
+      ? `${BASE_URL}/features/music-video-generator/${slug}`
+      : `${BASE_URL}/${loc}/features/music-video-generator/${slug}`
   }
 
   return {
