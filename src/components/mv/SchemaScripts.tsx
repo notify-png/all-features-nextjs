@@ -1,5 +1,4 @@
 import { MvConfig, MvContent } from '@/lib/mv/data'
-import { strHash } from '@/lib/mv/slugHelpers'
 
 const BASE_URL = 'https://www.tunee.ai'
 const PARENT = '/features/music-video-generator'
@@ -30,10 +29,8 @@ export default function SchemaScripts({ cfg, content, locale }: Props) {
   const { slug } = cfg
   const genre = cfg.genre_name
 
-  const ratingCount = 800 + (strHash(slug) % 900)
-  const ratingValue = ratingCount % 3 === 0 ? '4.7' : ratingCount % 3 === 1 ? '4.8' : '4.9'
-
-  // SoftwareApplication — always points to canonical (English) URL
+  // SoftwareApplication — always points to canonical (English) URL.
+  // aggregateRating intentionally omitted — synthetic values risk a rich-results manual action.
   const softwareApp = {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
@@ -43,11 +40,6 @@ export default function SchemaScripts({ cfg, content, locale }: Props) {
     applicationCategory: 'MultimediaApplication',
     operatingSystem: 'Any',
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
-    aggregateRating: {
-      '@type': 'AggregateRating',
-      ratingValue,
-      ratingCount: String(ratingCount),
-    },
   }
 
   const howTo = {

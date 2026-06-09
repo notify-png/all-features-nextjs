@@ -50,7 +50,7 @@ import AiSingerComparisonSection from "@/components/sections/ai-singer/AiSingerC
 import AiSingerExportFormatsSection from "@/components/sections/ai-singer/AiSingerExportFormatsSection";
 import AiSingerFAQSection from "@/components/sections/ai-singer/AiSingerFAQSection";
 import AiSingerCTASection from "@/components/sections/ai-singer/AiSingerCTASection";
-import { buildPageMetadata } from "@/lib/seo/metadata";
+import { buildPageMetadata, buildLanguageAlternates, SITE_URL } from "@/lib/seo/metadata";
 
 type Params = {
   locale: string;
@@ -121,15 +121,23 @@ export async function generateMetadata({
   if (!isSupportedSlug(slug)) return {};
   const t = await getTranslations({ locale });
   const keys = META_KEY_BY_SLUG[slug];
-  return buildPageMetadata(PATH_BY_SLUG[slug], {
+  const engPath = PATH_BY_SLUG[slug];
+  // Canonical points to the current-locale URL; hreflang alternates use the English base path.
+  const localePath = locale === "en" ? engPath : `/${locale}${engPath}`;
+  const canonical = `${SITE_URL}${localePath}`;
+  return {
     title: t(keys.title),
     description: t(keys.description),
+    alternates: {
+      canonical,
+      languages: buildLanguageAlternates(engPath),
+    },
     openGraph: {
       title: t(keys.title),
       description: t(keys.description),
-      url: `https://www.tunee.ai${PATH_BY_SLUG[slug]}`,
+      url: canonical,
     },
-  });
+  };
 }
 
 const JSON_LD_BY_SLUG: Record<Slug, Record<string, unknown>> = {
