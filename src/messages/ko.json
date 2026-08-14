@@ -28,7 +28,7 @@
     "copyright": "Copyright© {year} Tunee"
   },
   "Common": {
-    "generateNow": "지금 생성!",
+    "generateNow": "무료로 체험하기",
     "startFreeNow": "무료로 시작",
     "poweredBy": "지원 모델",
     "frequentlyAskedQuestions": "자주 묻는 질문",
@@ -50,8 +50,8 @@
   "Meta": {
     "featuresIndexTitle": "AI 기능 | 음악 및 영상 제작 도구",
     "featuresIndexDescription": "Tunee의 모든 AI 기능을 확인하세요: 음악 생성, 뮤직비디오 제작, 립싱크, AI 댄싱, 모션 컨트롤 등. AI 크리에이티브 콘텐츠를 위한 올인원 플랫폼.",
-    "musicVideoGeneratorTitle": "최고의 AI 뮤직비디오 생성기 | AI로 뮤직비디오 만들기",
-    "musicVideoGeneratorDescription": "Tunee로 당신의 음악을 AI 뮤직비디오로 변환하세요. 오디오 업로드, 스타일 선택, 몇 분 만에 프로 수준의 뮤직비디오 완성.",
+    "musicVideoGeneratorTitle": "무료 AI 뮤직비디오 생성기 | 노래를 영상으로 변환",
+    "musicVideoGeneratorDescription": "Tunee의 AI 뮤직비디오 생성기로 노래를 영상으로 바꿔보세요. Tunee에서 만든 노래를 선택하거나 오디오를 업로드해 몇 분 만에 온라인 영상을 만들 수 있습니다.",
     "lipSyncTitle": "최고의 AI 립싱크 영상 생성기 | Tunee",
     "lipSyncDescription": "Tunee의 AI 립싱크 기술로 어떤 인물 사진이든 노래하는 캐릭터로 변환하세요. 촬영 없이 음악에 완벽하게 동기화된 입 모양 생성.",
     "aiDancingTitle": "최고의 AI 댄싱 영상 생성기 | 사진에서 AI 댄스",
@@ -62,9 +62,9 @@
     "aiSingerDescription": "독특한 목소리, 스타일, 개성을 가진 AI 싱어를 만드세요. 오리지널 곡, 커버, 퍼포먼스를 몇 분 만에 생성, 녹음 스튜디오 필요 없음."
   },
   "Hero": {
-    "mvgLine1": "최고의 AI",
-    "mvgLine2": "뮤직비디오 생성",
-    "mvgSubtitle": "Tunee의 AI 뮤직비디오 생성기로 당신의 음악을 영화 같은 비주얼로 변환하세요. 카메라도, 스태프도 필요 없는 순수한 창작의 마법.",
+    "mvgLine1": "노래를 단 몇 분 만에",
+    "mvgLine2": "뮤직비디오로",
+    "mvgSubtitle": "오디오를 업로드하거나 Tunee에서 만든 노래를 선택한 뒤, Tunee와 대화하며 편집 기술 없이 몇 분 만에 영화 같은 뮤직비디오를 만들어보세요.",
     "lipSyncLine1": "최고의 AI",
     "lipSyncLine2": "립싱크 영상",
     "lipSyncSubtitle": "어떤 인물 사진이든 노래하는 캐릭터로 변환하세요. Tunee의 AI 립싱크 기술이 촬영 없이 음악에 완벽 동기화된 입 모양을 만듭니다.",

@@ -28,7 +28,7 @@
     "copyright": "Copyright© {year} Tunee"
   },
   "Common": {
-    "generateNow": "Generate Now!",
+    "generateNow": "Try It for Free",
     "startFreeNow": "Start Free Now",
     "poweredBy": "Powered by",
     "frequentlyAskedQuestions": "Frequently Asked Questions",
@@ -50,8 +50,8 @@
   "Meta": {
     "featuresIndexTitle": "AI Features | Music & Video Creation Tools",
     "featuresIndexDescription": "Explore all Tunee AI features: music generation, music video creation, lip sync, AI dancing, motion control, and more. The all-in-one platform for AI creative content.",
-    "musicVideoGeneratorTitle": "Best AI Music Video Generator | Create Music Videos with AI",
-    "musicVideoGeneratorDescription": "Transform your music into stunning AI-generated music videos with Tunee. Upload audio, choose your style, and generate professional music videos in minutes.",
+    "musicVideoGeneratorTitle": "Free AI Music Video Generator | Turn Songs into Videos",
+    "musicVideoGeneratorDescription": "Turn songs into music videos with Tunee's AI music video generator. Choose a Tunee song or upload audio, then create your video online in minutes.",
     "lipSyncTitle": "Best AI Lip Sync Video Generator | Tunee",
     "lipSyncDescription": "Transform any portrait into a singing character with Tunee's AI lip sync technology. Create perfectly synchronized mouth movements for your music — no filming required.",
     "aiDancingTitle": "Best AI Dancing Video Generator | AI Dance from Photo",
@@ -62,9 +62,9 @@
     "aiSingerDescription": "Create your own AI singer with unique voice, style, and personality. Generate original songs, covers, and performances in minutes — no recording studio required."
   },
   "Hero": {
-    "mvgLine1": "Best AI for",
-    "mvgLine2": "Music Video Generation",
-    "mvgSubtitle": "Transform your music into stunning cinematic visuals with Tunee's AI music video generator. No camera, no crew, just pure creative magic.",
+    "mvgLine1": "Turn Songs into",
+    "mvgLine2": "Music Videos in Minutes",
+    "mvgSubtitle": "Upload your audio or choose a Tunee song, then chat with Tunee to create a cinematic music video in minutes—no editing skills required.",
     "lipSyncLine1": "Best AI for",
     "lipSyncLine2": "Lip Sync Video",
     "lipSyncSubtitle": "Transform any portrait into a singing character. Tunee's AI lip sync technology creates perfectly synchronized mouth movements for your music — no filming required.",

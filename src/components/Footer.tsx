@@ -67,7 +67,7 @@ const Footer = () => {
   const t = useTranslations("Footer");
 
   return (
-    <footer>
+    <footer data-sticky-cta-stop>
       <div
         className="bg-[hsl(var(--footer-dark))] flex flex-col"
         style={{ height: "620px" }}

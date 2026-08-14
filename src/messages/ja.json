@@ -28,7 +28,7 @@
     "copyright": "Copyright© {year} Tunee"
   },
   "Common": {
-    "generateNow": "今すぐ生成！",
+    "generateNow": "無料で試す",
     "startFreeNow": "無料で始める",
     "poweredBy": "提供モデル",
     "frequentlyAskedQuestions": "よくある質問",
@@ -50,8 +50,8 @@
   "Meta": {
     "featuresIndexTitle": "AI機能 | 音楽・動画制作ツール",
     "featuresIndexDescription": "Tunee AIのすべての機能を見る：音楽生成、ミュージックビデオ作成、リップシンク、AIダンス、モーションコントロールなど。AIクリエイティブのオールインワン・プラットフォーム。",
-    "musicVideoGeneratorTitle": "最高のAIミュージックビデオ生成 | AIで音楽ビデオを作成",
-    "musicVideoGeneratorDescription": "あなたの音楽をAIで魅力的なミュージックビデオに変換。音声をアップロードしてスタイルを選ぶだけで、数分でプロ品質のビデオが完成します。",
+    "musicVideoGeneratorTitle": "無料AIミュージックビデオ生成ツール | 曲を動画に変換",
+    "musicVideoGeneratorDescription": "TuneeのAIミュージックビデオ生成ツールで曲を動画に変換。Tuneeで作成した曲を選ぶか音声をアップロードして、数分でオンライン動画を作成できます。",
     "lipSyncTitle": "最高のAIリップシンク動画生成 | Tunee",
     "lipSyncDescription": "TuneeのAIリップシンク技術で、どんなポートレートも歌うキャラクターに変換。撮影不要で、音楽に合わせて口の動きを完璧に同期。",
     "aiDancingTitle": "最高のAIダンス動画生成 | 写真からAIダンス",
@@ -62,9 +62,9 @@
     "aiSingerDescription": "独自の声・スタイル・個性を持つAIシンガーを作成。オリジナル曲、カバー、パフォーマンスを数分で生成 — 録音スタジオは不要です。"
   },
   "Hero": {
-    "mvgLine1": "最高のAI",
-    "mvgLine2": "ミュージックビデオ生成",
-    "mvgSubtitle": "あなたの音楽をTuneeのAIミュージックビデオジェネレーターで映画のような映像に変換。カメラもクルーも不要、純粋な創造の魔法だけ。",
+    "mvgLine1": "曲を",
+    "mvgLine2": "数分でミュージックビデオに",
+    "mvgSubtitle": "音声をアップロードするかTuneeで作成した曲を選び、Tuneeと対話しながら、編集スキル不要で数分以内に映画のようなミュージックビデオを作成できます。",
     "lipSyncLine1": "最高のAI",
     "lipSyncLine2": "リップシンク動画",
     "lipSyncSubtitle": "どんなポートレートも歌うキャラクターに。TuneeのAIリップシンク技術が、撮影なしで音楽に完璧に同期した口の動きを生成します。",

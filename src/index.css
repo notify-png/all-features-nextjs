@@ -191,15 +191,75 @@
     letter-spacing: -0.02em;
   }
 
+  .music-video-hero-title {
+    font-size: 100px;
+  }
+
+  .music-video-hero-title--medium {
+    font-size: 80px;
+  }
+
+  .music-video-hero-title--long {
+    font-size: 64px;
+  }
+
+  .music-video-hero-title--ja {
+    font-size: 88px;
+  }
+
+  .music-video-hero-title--ru {
+    font-size: 72px;
+  }
+
   @media (max-width: 1024px) {
     .hero-title {
       font-size: 80px;
+    }
+
+    .music-video-hero-title {
+      font-size: 68px;
+    }
+
+    .music-video-hero-title--medium {
+      font-size: 56px;
+    }
+
+    .music-video-hero-title--long {
+      font-size: 44px;
+    }
+
+    .music-video-hero-title--ja {
+      font-size: 64px;
+    }
+
+    .music-video-hero-title--ru {
+      font-size: 52px;
     }
   }
 
   @media (max-width: 640px) {
     .hero-title {
       font-size: 48px;
+    }
+
+    .music-video-hero-title {
+      font-size: 37px;
+    }
+
+    .music-video-hero-title--medium {
+      font-size: 30px;
+    }
+
+    .music-video-hero-title--long {
+      font-size: 25px;
+    }
+
+    .music-video-hero-title--ja {
+      font-size: 25px;
+    }
+
+    .music-video-hero-title--ru {
+      font-size: 21px;
     }
   }
 
@@ -310,4 +370,3 @@
     animation: scroll-left-slow 20s linear infinite;
   }
 }
-

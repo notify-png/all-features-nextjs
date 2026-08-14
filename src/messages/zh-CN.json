@@ -28,7 +28,7 @@
     "copyright": "Copyright© {year} Tunee"
   },
   "Common": {
-    "generateNow": "立即生成！",
+    "generateNow": "免费试用",
     "startFreeNow": "免费开始",
     "poweredBy": "模型支持",
     "frequentlyAskedQuestions": "常见问题",
@@ -50,8 +50,8 @@
   "Meta": {
     "featuresIndexTitle": "AI 功能 | 音乐与视频创作工具",
     "featuresIndexDescription": "探索 Tunee 全部 AI 功能：音乐生成、音乐视频创作、口型同步、AI 舞蹈、动作控制等。AI 创意内容的一站式平台。",
-    "musicVideoGeneratorTitle": "最佳 AI 音乐视频生成器 | 用 AI 创作音乐视频",
-    "musicVideoGeneratorDescription": "用 Tunee 把你的音乐转化为令人惊艳的 AI 音乐视频。上传音频、选择风格，几分钟生成专业级音乐视频。",
+    "musicVideoGeneratorTitle": "免费 AI 音乐视频生成器 | 将歌曲转换为视频",
+    "musicVideoGeneratorDescription": "使用 Tunee AI 音乐视频生成器将歌曲转换成视频。选择在 Tunee 生成的歌曲或上传音频，几分钟内即可在线生成视频。",
     "lipSyncTitle": "最佳 AI 口型同步视频生成器 | Tunee",
     "lipSyncDescription": "用 Tunee 的 AI 口型同步技术，把任何肖像变成会唱歌的角色。无需实拍，自动生成与音乐完美同步的口型动画。",
     "aiDancingTitle": "最佳 AI 舞蹈视频生成器 | 从照片生成 AI 舞蹈",
@@ -62,9 +62,9 @@
     "aiSingerDescription": "创建拥有独特音色、风格和个性的 AI 歌手。几分钟生成原创歌曲、翻唱和演出,无需录音棚。"
   },
   "Hero": {
-    "mvgLine1": "最佳 AI",
-    "mvgLine2": "音乐视频生成",
-    "mvgSubtitle": "用 Tunee 的 AI 音乐视频生成器,把你的音乐变成震撼的电影级画面。无需相机、无需团队,只剩纯粹的创作魔法。",
+    "mvgLine1": "几分钟内将歌曲变成",
+    "mvgLine2": "音乐视频",
+    "mvgSubtitle": "上传音频或选择在 Tunee 生成的歌曲，与 Tunee 对话，几分钟内即可生成电影感音乐视频，无需剪辑技能。",
     "lipSyncLine1": "最佳 AI",
     "lipSyncLine2": "口型同步视频",
     "lipSyncSubtitle": "把任何肖像变成会唱歌的角色。Tunee 的 AI 口型同步技术为你的音乐生成完美同步的口型动作 —— 无需实拍。",

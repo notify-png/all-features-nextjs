@@ -28,7 +28,7 @@
     "copyright": "Copyright© {year} Tunee"
   },
   "Common": {
-    "generateNow": "立即生成！",
+    "generateNow": "免費試用",
     "startFreeNow": "免費開始",
     "poweredBy": "模型支援",
     "frequentlyAskedQuestions": "常見問題",
@@ -50,8 +50,8 @@
   "Meta": {
     "featuresIndexTitle": "AI 功能 | 音樂與影片創作工具",
     "featuresIndexDescription": "探索 Tunee 全部 AI 功能：音樂生成、音樂影片創作、口型同步、AI 舞蹈、動作控制等。AI 創意內容一站式平台。",
-    "musicVideoGeneratorTitle": "最佳 AI 音樂影片生成器 | 用 AI 創作音樂影片",
-    "musicVideoGeneratorDescription": "用 Tunee 把你的音樂變成驚艷的 AI 音樂影片。上傳音訊、選擇風格,幾分鐘生成專業級音樂影片。",
+    "musicVideoGeneratorTitle": "免費 AI 音樂影片生成器 | 將歌曲轉換成影片",
+    "musicVideoGeneratorDescription": "使用 Tunee AI 音樂影片生成器將歌曲轉換成影片。選擇在 Tunee 生成的歌曲或上傳音訊，幾分鐘內即可在線生成影片。",
     "lipSyncTitle": "最佳 AI 口型同步影片生成器 | Tunee",
     "lipSyncDescription": "用 Tunee 的 AI 口型同步技術,把任何人像變成會唱歌的角色。無需實拍,自動生成與音樂完美同步的口型動畫。",
     "aiDancingTitle": "最佳 AI 舞蹈影片生成器 | 從相片生成 AI 舞蹈",
@@ -62,9 +62,9 @@
     "aiSingerDescription": "建立擁有獨特音色、風格和個性的 AI 歌手。幾分鐘生成原創歌曲、翻唱和演出,無需錄音室。"
   },
   "Hero": {
-    "mvgLine1": "最佳 AI",
-    "mvgLine2": "音樂影片生成",
-    "mvgSubtitle": "用 Tunee 的 AI 音樂影片生成器,把你的音樂變成震撼的電影級畫面。無需相機、無需團隊,只剩純粹的創作魔法。",
+    "mvgLine1": "幾分鐘內將歌曲變成",
+    "mvgLine2": "音樂影片",
+    "mvgSubtitle": "上傳音訊或選擇在 Tunee 生成的歌曲，與 Tunee 對話，幾分鐘內即可生成電影感音樂影片，無需剪輯技能。",
     "lipSyncLine1": "最佳 AI",
     "lipSyncLine2": "口型同步影片",
     "lipSyncSubtitle": "把任何人像變成會唱歌的角色。Tunee 的 AI 口型同步技術為你的音樂生成完美同步的口型動作 —— 無需實拍。",

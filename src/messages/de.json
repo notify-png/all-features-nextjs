@@ -28,7 +28,7 @@
     "copyright": "Copyright© {year} Tunee"
   },
   "Common": {
-    "generateNow": "Jetzt generieren!",
+    "generateNow": "Kostenlos testen",
     "startFreeNow": "Jetzt kostenlos starten",
     "poweredBy": "Unterstützt von",
     "frequentlyAskedQuestions": "Häufige Fragen",
@@ -50,8 +50,8 @@
   "Meta": {
     "featuresIndexTitle": "KI-Funktionen | Tools für Musik- und Videoproduktion",
     "featuresIndexDescription": "Entdecken Sie alle KI-Funktionen von Tunee: Musikgenerierung, Musikvideo-Erstellung, Lippensynchronisation, KI-Tanzen, Bewegungssteuerung und mehr. Die All-in-One-Plattform für KI-Kreativinhalte.",
-    "musicVideoGeneratorTitle": "Bester KI-Musikvideo-Generator | Musikvideos mit KI erstellen",
-    "musicVideoGeneratorDescription": "Verwandeln Sie Ihre Musik mit Tunee in beeindruckende KI-generierte Musikvideos. Audio hochladen, Stil wählen und professionelle Musikvideos in Minuten erstellen.",
+    "musicVideoGeneratorTitle": "Kostenloser KI-Musikvideo-Generator | Songs in Videos verwandeln",
+    "musicVideoGeneratorDescription": "Verwandeln Sie Songs mit Tunees KI-Musikvideo-Generator in Videos. Wählen Sie einen in Tunee erstellten Song oder laden Sie Audio hoch und erstellen Sie Ihr Video in Minuten.",
     "lipSyncTitle": "Bester KI-Lippensynchronisations-Generator | Tunee",
     "lipSyncDescription": "Verwandeln Sie jedes Porträt mit Tunees KI-Lippensynchronisation in eine singende Figur. Perfekt synchronisierte Mundbewegungen zu Ihrer Musik — ganz ohne Dreh.",
     "aiDancingTitle": "Bester KI-Tanzvideo-Generator | KI-Tanz aus Foto",
@@ -62,9 +62,9 @@
     "aiSingerDescription": "Erschaffen Sie Ihren eigenen KI-Sänger mit einzigartiger Stimme, Stil und Persönlichkeit. Originale Songs, Coverversionen und Performances in Minuten — ohne Tonstudio."
   },
   "Hero": {
-    "mvgLine1": "Die beste KI für",
-    "mvgLine2": "Musikvideo-Generierung",
-    "mvgSubtitle": "Verwandeln Sie Ihre Musik mit Tunees KI-Musikvideo-Generator in beeindruckende cineastische Bilder. Keine Kamera, kein Team, nur reine kreative Magie.",
+    "mvgLine1": "Songs in Minuten",
+    "mvgLine2": "in Musikvideos verwandeln",
+    "mvgSubtitle": "Laden Sie Ihr Audio hoch oder wählen Sie einen in Tunee erstellten Song und erstellen Sie im Dialog mit Tunee in Minuten ein cineastisches Musikvideo – ganz ohne Schnittkenntnisse.",
     "lipSyncLine1": "Die beste KI für",
     "lipSyncLine2": "Lippensynchron-Video",
     "lipSyncSubtitle": "Verwandeln Sie jedes Porträt in eine singende Figur. Tunees KI-Lippensynchronisation erzeugt perfekt synchronisierte Mundbewegungen zu Ihrer Musik — ohne Dreh.",

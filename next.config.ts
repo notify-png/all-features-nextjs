@@ -7,7 +7,10 @@ const nextConfig: NextConfig = {
   // assetPrefix: all-features-nextjs-new is reverse-proxied from tunee.ai at /features/...
   // CSS/JS bundles live on the Vercel deployment; assetPrefix forces the browser to load
   // them from the correct origin instead of looking on tunee.ai which doesn't have them.
-  assetPrefix: "https://all-features-nextjs-main.vercel.app",
+  assetPrefix:
+    process.env.NODE_ENV === "production"
+      ? "https://all-features-nextjs-main.vercel.app"
+      : undefined,
   async redirects() {
     return [
       {

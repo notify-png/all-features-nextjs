@@ -28,7 +28,7 @@
     "copyright": "Copyright© {year} Tunee"
   },
   "Common": {
-    "generateNow": "Générer maintenant !",
+    "generateNow": "Essayer gratuitement",
     "startFreeNow": "Commencer gratuitement",
     "poweredBy": "Propulsé par",
     "frequentlyAskedQuestions": "Questions fréquentes",
@@ -50,8 +50,8 @@
   "Meta": {
     "featuresIndexTitle": "Fonctionnalités IA | Outils de création musicale et vidéo",
     "featuresIndexDescription": "Découvrez toutes les fonctionnalités de Tunee AI : génération musicale, création de clips, synchronisation labiale, danse IA, contrôle de mouvement et plus. La plateforme tout-en-un pour le contenu créatif IA.",
-    "musicVideoGeneratorTitle": "Meilleur générateur de clips musicaux IA | Créez avec l'IA",
-    "musicVideoGeneratorDescription": "Transformez votre musique en superbes clips générés par IA avec Tunee. Téléchargez votre audio, choisissez votre style et créez des clips professionnels en quelques minutes.",
+    "musicVideoGeneratorTitle": "Générateur gratuit de clips musicaux IA | Transformez vos chansons en vidéos",
+    "musicVideoGeneratorDescription": "Transformez vos chansons en clips avec le générateur IA de Tunee. Choisissez un morceau créé dans Tunee ou importez votre audio et créez votre vidéo en quelques minutes.",
     "lipSyncTitle": "Meilleur générateur de vidéos en synchronisation labiale IA | Tunee",
     "lipSyncDescription": "Transformez tout portrait en personnage chantant grâce à la technologie IA de Tunee. Mouvements de bouche parfaitement synchronisés avec votre musique — sans aucun tournage.",
     "aiDancingTitle": "Meilleur générateur de vidéos de danse IA | Danse IA à partir d'une photo",
@@ -62,9 +62,9 @@
     "aiSingerDescription": "Créez votre propre chanteur IA avec une voix, un style et une personnalité uniques. Générez chansons originales, reprises et performances en quelques minutes — sans studio d'enregistrement."
   },
   "Hero": {
-    "mvgLine1": "La meilleure IA pour",
-    "mvgLine2": "la génération de clips musicaux",
-    "mvgSubtitle": "Transformez votre musique en visuels cinématographiques saisissants avec le générateur de clips musicaux IA de Tunee. Pas de caméra, pas d'équipe, juste de la pure magie créative.",
+    "mvgLine1": "Transformez vos chansons en",
+    "mvgLine2": "clips musicaux en quelques minutes",
+    "mvgSubtitle": "Importez votre audio ou choisissez un morceau créé dans Tunee, puis échangez avec Tunee pour créer un clip cinématographique en quelques minutes, sans montage.",
     "lipSyncLine1": "La meilleure IA pour",
     "lipSyncLine2": "la vidéo en synchronisation labiale",
     "lipSyncSubtitle": "Transformez tout portrait en personnage chantant. La technologie de synchronisation labiale IA de Tunee crée des mouvements de bouche parfaitement synchronisés avec votre musique — sans tournage.",

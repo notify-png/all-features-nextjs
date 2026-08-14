@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -9,13 +9,25 @@ import { useLocale, useTranslations } from "next-intl";
 import { DEFAULT_LOCALE } from "@/i18n/routing";
 
 const aiModels = [
-  "Nano Banana Pro",
-  "Seedream 4.5",
-  "InfiniteTalk",
-  "Kling Avatar 2.0",
-  "Kling O1",
-  "Kling 2.6",
-  "Seedance 1.5 Pro",
+  "ACE Step v1.5",
+  "Seedance 2.0",
+  "Kling 3.0",
+  "Kling 3.0 Omni",
+  "Lyria 3 Pro",
+  "Nanobanana 2",
+  "Wan 2.7",
+  "Kimi K2.6",
+  "GPT Image 2.0",
+  "Deepseek V4 Pro",
+  "DeepSeek V4 Flash",
+  "GPT 5.4",
+  "Qwen3.7-Plus",
+  "Seedance 2.0 Mini",
+  "GPT 5.6 Luna",
+  "Gemini 3.6 Flash",
+  "Seedance 2.5",
+  "MiniMax H3",
+  "Tempolor v4.7",
 ];
 
 import demoAnimeMv from "@/assets/demo-anime-mv.mp4";
@@ -62,10 +74,73 @@ const FeatureHeroSection = () => {
   const tBc = useTranslations("Breadcrumb");
   const tCommon = useTranslations("Common");
   const tCommonPB = useTranslations("Common");
+  const titleLine1 = tHero("mvgLine1");
+  const titleLine2 = tHero("mvgLine2");
+  const longestTitleLine = Math.max(
+    Array.from(titleLine1).length,
+    Array.from(titleLine2).length,
+  );
+  const titleLengthClass =
+    longestTitleLine >= 29
+      ? "music-video-hero-title--long"
+      : longestTitleLine >= 25
+        ? "music-video-hero-title--medium"
+        : "";
   const [isPaused, setIsPaused] = useState(false);
   const [unmutedId, setUnmutedId] = useState<string | null>(null);
   const [loadedVideos, setLoadedVideos] = useState<Set<string>>(new Set());
   const [playingVideos, setPlayingVideos] = useState<Set<string>>(new Set());
+  const [isInlineCtaVisible, setIsInlineCtaVisible] = useState(false);
+  const [isStickyCtaStopVisible, setIsStickyCtaStopVisible] = useState(false);
+  const [hasObservedInlineCtas, setHasObservedInlineCtas] = useState(false);
+
+  useEffect(() => {
+    const inlineCtas = Array.from(
+      document.querySelectorAll<HTMLElement>("[data-inline-cta]"),
+    );
+    if (!inlineCtas.length) {
+      setHasObservedInlineCtas(true);
+      return;
+    }
+
+    const visibleInlineCtas = new Set<Element>();
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            visibleInlineCtas.add(entry.target);
+          } else {
+            visibleInlineCtas.delete(entry.target);
+          }
+        });
+        setIsInlineCtaVisible(visibleInlineCtas.size > 0);
+        setHasObservedInlineCtas(true);
+      },
+      { threshold: 0.35 },
+    );
+
+    const stickyCtaStop = document.querySelector<HTMLElement>(
+      "[data-sticky-cta-stop]",
+    );
+    const stopObserver = stickyCtaStop
+      ? new IntersectionObserver(
+          ([entry]) => setIsStickyCtaStopVisible(entry.isIntersecting),
+          { threshold: 0 },
+        )
+      : null;
+
+    inlineCtas.forEach((cta) => observer.observe(cta));
+    if (stickyCtaStop && stopObserver) stopObserver.observe(stickyCtaStop);
+
+    return () => {
+      observer.disconnect();
+      stopObserver?.disconnect();
+    };
+  }, []);
+
+  const shouldHideStickyCta =
+    !hasObservedInlineCtas || isInlineCtaVisible || isStickyCtaStopVisible;
 
   const handleVideoLoaded = useCallback((key: string) => {
     setLoadedVideos((prev) => new Set(prev).add(key));
@@ -206,7 +281,7 @@ const FeatureHeroSection = () => {
 
       {/* Hero Content */}
       <div className="relative z-10 section-container pt-6 md:pt-10 lg:pt-12 pb-4">
-        <div className="text-center max-w-5xl mx-auto">
+        <div className="text-center max-w-6xl mx-auto">
           {/* Title */}
           <motion.h1
             initial={{ opacity: 0, y: 30 }}
@@ -216,11 +291,12 @@ const FeatureHeroSection = () => {
               delay: 0.1,
               ease: [0.25, 0.1, 0.25, 1],
             }}
-            className="hero-title text-foreground mb-4"
+            className={`hero-title music-video-hero-title ${titleLengthClass} music-video-hero-title--${locale} text-foreground mb-4`}
           >
-            {tHero("mvgLine1")}
-            <br />
-            <span className="gradient-text">{tHero("mvgLine2")}</span>
+            <span className="block whitespace-nowrap">{titleLine1}</span>
+            <span className="gradient-text block whitespace-nowrap">
+              {titleLine2}
+            </span>
           </motion.h1>
 
           {/* Subtitle */}
@@ -269,6 +345,7 @@ const FeatureHeroSection = () => {
       <div className="relative z-10 section-container py-6">
         <div className="text-center">
           <motion.div
+            data-inline-cta
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{
@@ -328,6 +405,34 @@ const FeatureHeroSection = () => {
           </motion.div>
         </div>
       </div>
+
+      <motion.div
+        initial={false}
+        animate={{
+          opacity: shouldHideStickyCta ? 0 : 1,
+          y: shouldHideStickyCta ? 16 : 0,
+        }}
+        transition={{ duration: 0.2 }}
+        className="fixed inset-x-0 bottom-4 z-50 flex justify-center px-4 pointer-events-none"
+        aria-hidden={shouldHideStickyCta}
+      >
+        <Button
+          size="lg"
+          className={`h-14 w-[calc(100%-7rem)] max-w-sm px-6 text-lg font-display rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 shadow-2xl md:w-auto md:px-16 ${
+            shouldHideStickyCta
+              ? "pointer-events-none"
+              : "pointer-events-auto"
+          }`}
+          asChild
+        >
+          <a
+            href="https://www.tunee.ai/sign-up"
+            tabIndex={shouldHideStickyCta ? -1 : undefined}
+          >
+            {tCommon("generateNow")}
+          </a>
+        </Button>
+      </motion.div>
 
       <style>{`
         @keyframes scroll-left-demo {
