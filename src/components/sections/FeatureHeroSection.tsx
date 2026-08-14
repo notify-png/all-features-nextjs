@@ -363,7 +363,7 @@ const FeatureHeroSection = () => {
             >
               <Button
                 size="lg"
-                className="h-16 px-16 text-xl font-display rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 shadow-2xl"
+                className="h-16 px-16 text-xl font-poppins font-medium rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 shadow-2xl"
                 asChild
               >
                 <a href="https://www.tunee.ai/sign-up">{tCommon("generateNow")}</a>
@@ -418,7 +418,7 @@ const FeatureHeroSection = () => {
       >
         <Button
           size="lg"
-          className={`h-14 w-[calc(100%-7rem)] max-w-sm px-6 text-lg font-display rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 shadow-2xl md:w-auto md:px-16 ${
+          className={`w-[calc(100%-7rem)] max-w-sm rounded-full px-8 gap-2 font-poppins font-medium bg-primary text-primary-foreground hover:bg-primary/90 shadow-2xl md:w-auto ${
             shouldHideStickyCta
               ? "pointer-events-none"
               : "pointer-events-auto"
