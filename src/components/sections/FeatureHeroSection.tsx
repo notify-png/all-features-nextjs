@@ -154,7 +154,7 @@ const FeatureHeroSection = () => {
           src={feature.image}
           alt={label}
           fill
-          quality={100}
+          unoptimized
           sizes="(min-width: 768px) 300px, 250px"
           className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
         />
