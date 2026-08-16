@@ -1,10 +1,11 @@
 "use client";
 
-import { useState, useCallback, useEffect } from "react";
+import { useState, useEffect } from "react";
+import Image, { type StaticImageData } from "next/image";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
-import { ChevronRight, Volume2, VolumeX, Play } from "lucide-react";
+import { ChevronRight } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
 import { DEFAULT_LOCALE } from "@/i18n/routing";
 
@@ -30,36 +31,38 @@ const aiModels = [
   "Tempolor v4.7",
 ];
 
-import demoAnimeMv from "@/assets/demo-anime-mv.mp4";
-import demoTheWeekend from "@/assets/demo-the-weekend.mp4";
-import demoScifiMv from "@/assets/demo-scifi-mv.mp4";
-import demoGirlGroup from "@/assets/demo-girl-group.mp4";
-import demoBlankSpace2 from "@/assets/demo-blank-space-2.mp4";
+import lipSyncImage from "@/assets/mv-features/lip-sync.webp";
+import visionFilmImage from "@/assets/mv-features/vision-film.webp";
+import characterDesignImage from "@/assets/mv-features/character-design.webp";
+import lyricStoryImage from "@/assets/mv-features/lyric-story.webp";
+import mvCloneImage from "@/assets/mv-features/mv-clone.webp";
+import animePvImage from "@/assets/mv-features/anime-pv.webp";
+import toonImage from "@/assets/mv-features/3d-toon.webp";
+import motionControlImage from "@/assets/mv-features/motion-control.webp";
 
-import coverGirlGroupImg from "@/assets/covers/girl-group.jpg";
-import coverTheWeekendImg from "@/assets/covers/the-weekend.jpg";
-import coverScifiImg from "@/assets/covers/scifi.jpg";
-import coverAnimeImg from "@/assets/covers/anime.jpg";
-import coverBlankSpaceImg from "@/assets/covers/blank-space.jpg";
+type HeroFeature = {
+  image: StaticImageData;
+  labelKey:
+    | "mvFeatureLipSync"
+    | "mvFeatureVisionFilm"
+    | "mvFeatureCharacterDesign"
+    | "mvFeatureLyricStory"
+    | "mvFeatureClone"
+    | "mvFeatureAnimePv"
+    | "mvFeature3dToon"
+    | "mvFeatureMotionControl";
+  isNew?: boolean;
+};
 
-const demoVideos = [
-  {
-    id: 1,
-    src: demoGirlGroup as unknown as string,
-    poster: coverGirlGroupImg.src,
-  },
-  {
-    id: 2,
-    src: demoTheWeekend as unknown as string,
-    poster: coverTheWeekendImg.src,
-  },
-  { id: 3, src: demoScifiMv as unknown as string, poster: coverScifiImg.src },
-  { id: 4, src: demoAnimeMv as unknown as string, poster: coverAnimeImg.src },
-  {
-    id: 5,
-    src: demoBlankSpace2 as unknown as string,
-    poster: coverBlankSpaceImg.src,
-  },
+const heroFeatures: HeroFeature[] = [
+  { image: lipSyncImage, labelKey: "mvFeatureLipSync" },
+  { image: visionFilmImage, labelKey: "mvFeatureVisionFilm" },
+  { image: characterDesignImage, labelKey: "mvFeatureCharacterDesign", isNew: true },
+  { image: lyricStoryImage, labelKey: "mvFeatureLyricStory" },
+  { image: mvCloneImage, labelKey: "mvFeatureClone", isNew: true },
+  { image: animePvImage, labelKey: "mvFeatureAnimePv" },
+  { image: toonImage, labelKey: "mvFeature3dToon", isNew: true },
+  { image: motionControlImage, labelKey: "mvFeatureMotionControl" },
 ];
 
 const localizePath = (href: string, locale: string) =>
@@ -74,6 +77,7 @@ const FeatureHeroSection = () => {
   const tBc = useTranslations("Breadcrumb");
   const tCommon = useTranslations("Common");
   const tCommonPB = useTranslations("Common");
+  const tMvg = useTranslations("MVG");
   const titleLine1 = tHero("mvgLine1");
   const titleLine2 = tHero("mvgLine2");
   const longestTitleLine = Math.max(
@@ -87,9 +91,6 @@ const FeatureHeroSection = () => {
         ? "music-video-hero-title--medium"
         : "";
   const [isPaused, setIsPaused] = useState(false);
-  const [unmutedId, setUnmutedId] = useState<string | null>(null);
-  const [loadedVideos, setLoadedVideos] = useState<Set<string>>(new Set());
-  const [playingVideos, setPlayingVideos] = useState<Set<string>>(new Set());
   const [isInlineCtaVisible, setIsInlineCtaVisible] = useState(false);
   const [isStickyCtaStopVisible, setIsStickyCtaStopVisible] = useState(false);
   const [hasObservedInlineCtas, setHasObservedInlineCtas] = useState(false);
@@ -142,91 +143,29 @@ const FeatureHeroSection = () => {
   const shouldHideStickyCta =
     !hasObservedInlineCtas || isInlineCtaVisible || isStickyCtaStopVisible;
 
-  const handleVideoLoaded = useCallback((key: string) => {
-    setLoadedVideos((prev) => new Set(prev).add(key));
-  }, []);
-
-  const handleToggleMute = useCallback(
-    (videoEl: HTMLVideoElement, key: string) => {
-      if (unmutedId === key) {
-        videoEl.muted = true;
-        setUnmutedId(null);
-      } else {
-        document
-          .querySelectorAll<HTMLVideoElement>("[data-demo-video]")
-          .forEach((v) => {
-            v.muted = true;
-          });
-        videoEl.muted = false;
-        setUnmutedId(key);
-      }
-    },
-    [unmutedId],
-  );
-
-  const handlePlay = useCallback((e: React.MouseEvent, key: string) => {
-    e.stopPropagation();
-    const container = e.currentTarget.closest("[data-card]");
-    const videoEl = container?.querySelector("video");
-    if (videoEl) {
-      videoEl.play();
-      setPlayingVideos((prev) => new Set(prev).add(key));
-    }
-  }, []);
-
-  const renderCard = (video: (typeof demoVideos)[0], keyPrefix: string) => {
-    const key = `${keyPrefix}-${video.id}`;
-    const isUnmuted = unmutedId === key;
-    const isLoaded = loadedVideos.has(key);
-    const isPlaying = playingVideos.has(key);
-
+  const renderFeatureCard = (feature: HeroFeature, keyPrefix: string) => {
+    const label = tMvg(feature.labelKey);
     return (
       <div
-        key={key}
-        data-card
-        className="flex-shrink-0 w-[280px] md:w-[320px] aspect-video rounded-2xl overflow-hidden bg-muted group cursor-pointer relative"
-        onClick={(e) => {
-          if (!isPlaying) return;
-          const videoEl = e.currentTarget.querySelector("video");
-          if (videoEl) handleToggleMute(videoEl, key);
-        }}
+        key={`${keyPrefix}-${feature.labelKey}`}
+        className="group relative aspect-video w-[250px] flex-shrink-0 overflow-hidden rounded-2xl bg-muted md:w-[300px]"
       >
-        {/* Poster cover shown until user clicks play */}
-        {(!isLoaded || !isPlaying) && (
-          <div className="absolute inset-0 z-[2]">
-            <img
-              src={video.poster}
-              alt=""
-              className="absolute inset-0 w-full h-full object-cover"
-            />
-            {/* Play button */}
-            {isLoaded && (
-              <button
-                onClick={(e) => handlePlay(e, key)}
-                className="absolute inset-0 flex items-center justify-center"
-              >
-                <div className="w-14 h-14 rounded-full bg-black/50 backdrop-blur-sm flex items-center justify-center text-white hover:bg-black/70 hover:scale-110 transition-all duration-300">
-                  <Play size={24} fill="white" />
-                </div>
-              </button>
-            )}
-          </div>
-        )}
-        <video
-          data-demo-video
-          src={video.src}
-          className="w-full h-full object-cover transition-all duration-500 group-hover:scale-105"
-          loop
-          muted
-          playsInline
-          preload="auto"
-          onLoadedData={() => handleVideoLoaded(key)}
+        <Image
+          src={feature.image}
+          alt={label}
+          fill
+          quality={100}
+          sizes="(min-width: 768px) 300px, 250px"
+          className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
         />
-        {/* Mute indicator on hover */}
-        {isPlaying && (
-          <div className="absolute bottom-3 right-3 w-8 h-8 rounded-full bg-black/40 backdrop-blur-sm flex items-center justify-center text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-[3]">
-            {isUnmuted ? <Volume2 size={14} /> : <VolumeX size={14} />}
-          </div>
+        <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-transparent to-transparent" />
+        <span className="absolute bottom-3 left-4 font-display text-sm font-medium uppercase tracking-wide text-white/80 drop-shadow-sm md:text-base">
+          {label}
+        </span>
+        {feature.isNew && (
+          <span className="absolute right-3 top-3 rounded-md bg-primary/85 px-2 py-0.5 font-poppins text-[10px] font-medium text-white/90 backdrop-blur-sm">
+            {tMvg("mvFeatureNew")}
+          </span>
         )}
       </div>
     );
@@ -335,8 +274,8 @@ const FeatureHeroSection = () => {
               animationPlayState: isPaused ? "paused" : "running",
             }}
           >
-            {demoVideos.map((video) => renderCard(video, "first"))}
-            {demoVideos.map((video) => renderCard(video, "second"))}
+            {heroFeatures.map((feature) => renderFeatureCard(feature, "first"))}
+            {heroFeatures.map((feature) => renderFeatureCard(feature, "second"))}
           </div>
         </div>
       </div>

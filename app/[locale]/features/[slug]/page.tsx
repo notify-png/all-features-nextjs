@@ -10,7 +10,6 @@ import MvExploreSection from "@/components/sections/mv-generator/MvExploreSectio
 import { getMvCategories, MV_CATEGORY_ORDER } from "@/lib/mv/categories";
 import WhyChooseSection from "@/components/sections/WhyChooseSection";
 import HowItWorksSection from "@/components/sections/HowItWorksSection";
-import InputMethodsSection from "@/components/sections/InputMethodsSection";
 import WhoUsesSection from "@/components/sections/WhoUsesSection";
 import ComparisonSection from "@/components/sections/ComparisonSection";
 import ExportFormatsSection from "@/components/sections/ExportFormatsSection";
@@ -208,7 +207,6 @@ const FeatureBySlug = ({ slug, locale }: { slug: Slug; locale: string }) => {
         <WhyChooseSection />
         <MvExploreSection categories={mvCategories} locale={locale} />
         <HowItWorksSection />
-        <InputMethodsSection />
         <WhoUsesSection />
         <ComparisonSection />
         <ExportFormatsSection />
