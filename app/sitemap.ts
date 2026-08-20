@@ -1,60 +1,43 @@
 import type { MetadataRoute } from "next";
-import { buildLanguageAlternates, SITE_URL } from "@/lib/seo/metadata";
-import { FEATURE_SITEMAP_PATHS } from "@/lib/seo/feature-pages";
-import { getAllSlugs } from "@/lib/mv/data";
+import { SITE_URL } from "@/lib/seo/metadata";
+import { FEATURE_SITEMAP_PAGES } from "@/lib/seo/feature-pages";
+import { getAvailableContentLocales, getIndexableConfigs } from "@/lib/mv/data";
+import { DEFAULT_LOCALE, LOCALES } from "@/i18n/routing";
 
-const MV_LOCALES = ['en', 'es', 'ja', 'ko', 'ru', 'fr', 'de', 'pt', 'it', 'zh-HK', 'zh-CN']
+const localizedUrl = (locale: string, path: string) =>
+  locale === DEFAULT_LOCALE ? `${SITE_URL}${path}` : `${SITE_URL}/${locale}${path}`;
 
-function mvLanguageAlternates(slug: string): Record<string, string> {
-  const base = `/features/music-video-generator/${slug}`
-  const langs: Record<string, string> = {
-    'x-default': `${SITE_URL}${base}`,
-    'en': `${SITE_URL}${base}`,
-  }
-  for (const loc of MV_LOCALES) {
-    if (loc !== 'en') {
-      langs[loc] = `${SITE_URL}/${loc}/features/music-video-generator/${slug}`
-    }
-  }
-  return langs
-}
+const languageAlternates = (path: string, locales: readonly string[]) => ({
+  "x-default": localizedUrl(DEFAULT_LOCALE, path),
+  ...Object.fromEntries(locales.map(locale => [locale, localizedUrl(locale, path)])),
+});
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // ── Existing feature pages ──
-  const featureEntries: MetadataRoute.Sitemap = FEATURE_SITEMAP_PATHS.map((path) => ({
-    url: `${SITE_URL}${path}`,
-    lastModified: new Date(),
-    changeFrequency: "monthly",
-    priority: path === "/features" ? 0.8 : 0.7,
-    alternates: {
-      languages: buildLanguageAlternates(path),
-    },
-  }));
+  const featureEntries: MetadataRoute.Sitemap = FEATURE_SITEMAP_PAGES
+    .filter(page => page.published && page.indexable)
+    .flatMap(page => LOCALES.map(locale => ({
+      url: localizedUrl(locale, page.path),
+      ...(page.updatedAt ? { lastModified: page.updatedAt } : {}),
+      changeFrequency: "monthly" as const,
+      priority: page.path === "/features" ? 0.8 : 0.7,
+      alternates: { languages: languageAlternates(page.path, LOCALES) },
+    })));
 
   // ── MV landing pages: one entry per locale per slug ──
-  const slugs = getAllSlugs()
   const mvEntries: MetadataRoute.Sitemap = []
 
-  for (const slug of slugs) {
-    const alts = mvLanguageAlternates(slug)
+  for (const config of getIndexableConfigs()) {
+    const path = `/features/music-video-generator/${config.slug}`
+    const locales = getAvailableContentLocales(config.slug, LOCALES)
+    const alts = languageAlternates(path, locales)
 
-    // English (canonical, no prefix)
-    mvEntries.push({
-      url: `${SITE_URL}/features/music-video-generator/${slug}`,
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.7,
-      alternates: { languages: alts },
-    })
-
-    // Non-English locales
-    for (const loc of MV_LOCALES) {
-      if (loc === 'en') continue
+    for (const locale of locales) {
       mvEntries.push({
-        url: `${SITE_URL}/${loc}/features/music-video-generator/${slug}`,
-        lastModified: new Date(),
+        url: localizedUrl(locale, path),
+        ...(config.updatedAt ? { lastModified: config.updatedAt } : {}),
         changeFrequency: "monthly",
-        priority: 0.6,
+        priority: locale === DEFAULT_LOCALE ? 0.7 : 0.6,
         alternates: { languages: alts },
       })
     }

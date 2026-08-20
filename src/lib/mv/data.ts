@@ -5,6 +5,9 @@ const SEO_DIR = path.join(process.cwd(), 'data')
 
 export interface MvConfig {
   slug: string
+  published?: boolean
+  indexable?: boolean
+  updatedAt?: string
   parent: string
   category: string
   genre_name: string
@@ -59,6 +62,21 @@ export function getAllSlugs(): string[] {
   return fs.readdirSync(configsDir)
     .filter(f => f.endsWith('.json'))
     .map(f => f.replace('.json', ''))
+}
+
+export function getIndexableConfigs(): MvConfig[] {
+  return getAllSlugs()
+    .map(getConfig)
+    .filter(config => config.published !== false && config.indexable !== false)
+}
+
+export function getAvailableContentLocales(slug: string, locales: readonly string[]): string[] {
+  return locales.filter(locale => {
+    const filePath = locale === 'en'
+      ? path.join(SEO_DIR, 'content', 'mv', `${slug}.json`)
+      : path.join(SEO_DIR, 'content', 'mv', locale, `${slug}.json`)
+    return fs.existsSync(filePath)
+  })
 }
 
 export function getConfig(slug: string): MvConfig {
