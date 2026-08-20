@@ -84,11 +84,25 @@ export const FEATURE_PAGE_METADATA: Record<string, Metadata> = {
 
 export const featuresIndexMetadata = featuresIndex;
 
-export const FEATURE_SITEMAP_PATHS = [
-  "/features",
-  "/features/music-video-generator",
-  "/features/lip-sync",
-  "/features/ai-dancing",
-  "/features/ai-singer",
-  "/features/motion-control",
-] as const;
+export type FeatureSitemapPage = {
+  path: string;
+  published: boolean;
+  indexable: boolean;
+  updatedAt?: string;
+};
+
+/**
+ * Source of truth for top-level feature pages that may appear in the sitemap.
+ * Set published/indexable to false to remove a page on the next deployment.
+ * Only set updatedAt when it is the real content update time.
+ */
+export const FEATURE_SITEMAP_PAGES: readonly FeatureSitemapPage[] = [
+  { path: "/features", published: true, indexable: true },
+  { path: "/features/music-video-generator", published: true, indexable: true },
+  { path: "/features/lip-sync", published: true, indexable: true },
+  { path: "/features/ai-dancing", published: true, indexable: true },
+  { path: "/features/ai-singer", published: true, indexable: true },
+  { path: "/features/motion-control", published: true, indexable: true },
+];
+
+export const FEATURE_SITEMAP_PATHS = FEATURE_SITEMAP_PAGES.map(({ path }) => path);
