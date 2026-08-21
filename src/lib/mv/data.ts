@@ -35,6 +35,7 @@ export interface MvNarrative {
 }
 
 export interface MvContent {
+  meta_title?: string
   direct_answer: string
   meta_description: string
   prompts: string[]
