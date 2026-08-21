@@ -98,7 +98,9 @@ const Header = () => {
             >
               <img
                 src={tuneeLogo.src ?? (tuneeLogo as unknown as string)}
-                alt="Tunee"
+                alt="Tunee logo"
+                width={36}
+                height={36}
                 className="w-full h-full object-cover"
               />
             </motion.div>
@@ -108,7 +110,10 @@ const Header = () => {
           </Link>
 
           {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center gap-1 absolute left-1/2 -translate-x-1/2">
+          <nav
+            aria-label="Primary navigation"
+            className="hidden lg:flex items-center gap-1 absolute left-1/2 -translate-x-1/2"
+          >
             {NAV_ITEMS.map((item) => {
               const label = t(item.labelKey);
               const isActive = !item.external && canonicalPath === item.href;
@@ -299,7 +304,10 @@ const Header = () => {
             transition={{ duration: 0.2 }}
             className="lg:hidden bg-background/95 backdrop-blur-xl border-b border-border overflow-hidden"
           >
-            <nav className="section-container py-6 flex flex-col gap-1">
+            <nav
+              aria-label="Mobile navigation"
+              className="section-container py-6 flex flex-col gap-1"
+            >
               {NAV_ITEMS.map((item, index) => {
                 const label = t(item.labelKey);
                 return (

@@ -42,7 +42,7 @@ const PAGE_CSS = `
   --surface-2: #F5F5F7;
   --t1: #0A0A0B;
   --t2: #4B4B52;
-  --t3: #86868B;
+  --t3: #66666B;
   --t4: #B8B8BD;
   --line: rgba(0,0,0,.06);
   --line-h: rgba(0,0,0,.10);
@@ -486,7 +486,8 @@ const PAGE_CSS = `
   aspect-ratio: 4 / 3; background: var(--surface-2); overflow: hidden;
   border-bottom: 1px solid var(--line);
 }
-.mvs .producer-shot img {
+.mvs .producer-shot img,
+.mvs .producer-shot video {
   width: 100%; height: 100%; object-fit: cover; display: block;
 }
 .mvs .producer-body { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
@@ -565,6 +566,9 @@ export default async function LocaleSlugPage(
   const MV_PARENT = locale === 'en'
     ? '/features/music-video-generator'
     : `/${locale}/features/music-video-generator`
+  const canonical = locale === 'en'
+    ? `${BASE_URL}/features/music-video-generator/${slug}`
+    : `${BASE_URL}/${locale}/features/music-video-generator/${slug}`
 
   const genre = cfg.genre_name
   const accent = cfg.color_accent
@@ -573,14 +577,11 @@ export default async function LocaleSlugPage(
   const vk = cfg.visual_keywords || []
   const mw = cfg.mood_words || []
 
-  // Some slugs (Wedding, Baby, Valentine's) use very light/pastel accents
-  // (#F8F0E3 cream, #87CEEB sky-blue, etc). White text on those bgs
-  // disappears. Compute a darker derivative for any spot that needs
-  // contrast (button text, copy buttons, section numbers, CTA banner text)
-  // while keeping the original accent for gradients/dots/backgrounds.
+  // Preserve the configured accent for decorative gradients, while using a
+  // darker same-hue variant anywhere the color carries text or button contrast.
   const accentLum = hexLuminance(accent)
   const isPastelAccent = accentLum > 0.65
-  const accentDeep = isPastelAccent ? darkenHex(accent, 0.55) : accent
+  const accentDeep = darkenHex(accent, isPastelAccent ? 0.55 : 0.35)
   const ctaTextColor = isPastelAccent ? '#1a1a1a' : '#fff'
   const ctaSubTextColor = isPastelAccent ? 'rgba(0,0,0,.65)' : 'rgba(255,255,255,.85)'
 
@@ -604,6 +605,30 @@ export default async function LocaleSlugPage(
     cat.includes('Viral') ||
     cat.includes('For Who') ||
     slug.startsWith('music-video-for-')
+  const workflowVideoSchema = isNonGenre
+    ? [
+        {
+          '@context': 'https://schema.org',
+          '@type': 'VideoObject',
+          name: `${genre} AI music video workflow`,
+          description: `See how Tunee builds a ${genre} music video from visual assets and a generated storyboard.`,
+          thumbnailUrl: publicAssetUrl('/workflow/visual-assets-poster.webp'),
+          uploadDate: '2026-08-17',
+          contentUrl: publicAssetUrl('/workflow/visual-assets.mp4'),
+          embedUrl: canonical,
+        },
+        {
+          '@context': 'https://schema.org',
+          '@type': 'VideoObject',
+          name: `${genre} AI music video storyboard`,
+          description: `Preview the Tunee storyboard workflow for a ${genre} music video.`,
+          thumbnailUrl: publicAssetUrl('/workflow/storyboard-poster.webp'),
+          uploadDate: '2026-08-17',
+          contentUrl: publicAssetUrl('/workflow/storyboard.mp4'),
+          embedUrl: canonical,
+        },
+      ]
+    : null
   const h = strHash(slug)
   const champ = CHAMPION[h % CHAMPION.length]
 
@@ -616,10 +641,23 @@ export default async function LocaleSlugPage(
 
   return (
     <>
+      {workflowVideoSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(workflowVideoSchema) }}
+        />
+      )}
       <style dangerouslySetInnerHTML={{ __html: PAGE_CSS }} />
+      <a
+        href="#main-content"
+        className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-md focus:bg-white focus:px-4 focus:py-2 focus:text-black focus:shadow-lg"
+      >
+        Skip to main content
+      </a>
       <Header />
 
-      <div
+      <main
+        id="main-content"
         className="mvs"
         style={
           {
@@ -635,7 +673,7 @@ export default async function LocaleSlugPage(
       >
         <div className="wrap">
           {/* Breadcrumb */}
-          <nav className="bc">
+          <nav className="bc" aria-label="Breadcrumb">
             <Link href={locale === 'en' ? '/' : `/${locale}`}>{t.breadcrumbHome}</Link>
             <span>›</span>
             <a href={MV_PARENT}>{t.breadcrumbMvGen}</a>
@@ -741,11 +779,15 @@ export default async function LocaleSlugPage(
                 </div>
                 <div className="producer-card rv rv-3">
                   <div className="producer-shot">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={publicAssetUrl("/workflow/visual-assets.gif")}
-                      alt={t.producerStep3Title}
-                      loading="lazy"
+                    <video
+                      src={publicAssetUrl("/workflow/visual-assets.mp4")}
+                      poster={publicAssetUrl("/workflow/visual-assets-poster.webp")}
+                      aria-label={t.producerStep3Title}
+                      autoPlay
+                      muted
+                      loop
+                      playsInline
+                      preload="none"
                       width={800}
                       height={600}
                     />
@@ -758,11 +800,15 @@ export default async function LocaleSlugPage(
                 </div>
                 <div className="producer-card rv rv-4">
                   <div className="producer-shot">
-                    {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
-                      src={publicAssetUrl("/workflow/storyboard.gif")}
-                      alt={t.producerStep4Title}
-                      loading="lazy"
+                    <video
+                      src={publicAssetUrl("/workflow/storyboard.mp4")}
+                      poster={publicAssetUrl("/workflow/storyboard-poster.webp")}
+                      aria-label={t.producerStep4Title}
+                      autoPlay
+                      muted
+                      loop
+                      playsInline
+                      preload="none"
                       width={800}
                       height={600}
                     />
@@ -994,7 +1040,7 @@ export default async function LocaleSlugPage(
             </a>
           </div>
         </div>
-      </div>
+      </main>
 
       <Footer />
 

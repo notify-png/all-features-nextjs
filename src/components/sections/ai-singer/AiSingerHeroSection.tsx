@@ -40,6 +40,8 @@ const AiSingerHeroSection = () => {
               <img
                 src={imgSrc(tuneeLogo)}
                 alt="Tunee"
+                width={32}
+                height={32}
                 className="w-8 h-8 rounded-full object-cover"
               />
               <span className="text-foreground font-poppins font-semibold text-lg">

@@ -120,7 +120,7 @@ export const MODEL_PAGES = [
       name: "Kling Motion 2.6",
       type: "Motion Control",
       desc: "Precise control, native audio generation",
-      img: publicAssetUrl("/assets/models/kling-motion.jpg"),
+      img: publicAssetUrl("/assets/models/kling-motion.webp"),
     },
     {
       name: "Kling Avatar 2.0",

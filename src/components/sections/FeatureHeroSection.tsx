@@ -153,10 +153,11 @@ const FeatureHeroSection = () => {
         <Image
           src={feature.image}
           alt={label}
-          fill
+          width={feature.image.width}
+          height={feature.image.height}
           unoptimized
           sizes="(min-width: 768px) 300px, 250px"
-          className="object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+          className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-transparent to-transparent" />
         <span className="absolute bottom-3 left-4 font-display text-sm font-medium uppercase tracking-wide text-white/80 drop-shadow-sm md:text-base">
@@ -345,33 +346,22 @@ const FeatureHeroSection = () => {
         </div>
       </div>
 
-      <motion.div
-        initial={false}
-        animate={{
-          opacity: shouldHideStickyCta ? 0 : 1,
-          y: shouldHideStickyCta ? 16 : 0,
-        }}
-        transition={{ duration: 0.2 }}
-        className="fixed inset-x-0 bottom-4 z-50 flex justify-center px-4 pointer-events-none"
-        aria-hidden={shouldHideStickyCta}
-      >
-        <Button
-          size="lg"
-          className={`w-[calc(100%-7rem)] max-w-sm rounded-full px-8 gap-2 font-poppins font-medium bg-primary text-primary-foreground hover:bg-primary/90 shadow-2xl md:w-auto ${
-            shouldHideStickyCta
-              ? "pointer-events-none"
-              : "pointer-events-auto"
-          }`}
-          asChild
+      {!shouldHideStickyCta && (
+        <motion.div
+          initial={{ opacity: 0, y: 16 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.2 }}
+          className="fixed inset-x-0 bottom-4 z-50 flex justify-center px-4 pointer-events-none"
         >
-          <a
-            href="https://www.tunee.ai/sign-up"
-            tabIndex={shouldHideStickyCta ? -1 : undefined}
+          <Button
+            size="lg"
+            className="pointer-events-auto w-[calc(100%-7rem)] max-w-sm rounded-full px-8 gap-2 font-poppins font-medium bg-primary text-primary-foreground hover:bg-primary/90 shadow-2xl md:w-auto"
+            asChild
           >
-            {tCommon("generateNow")}
-          </a>
-        </Button>
-      </motion.div>
+            <a href="https://www.tunee.ai/sign-up">{tCommon("generateNow")}</a>
+          </Button>
+        </motion.div>
+      )}
 
       <style>{`
         @keyframes scroll-left-demo {

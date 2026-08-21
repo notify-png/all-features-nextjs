@@ -90,7 +90,7 @@ const AiDancingWhoUsesSection = () => {
                       whileTap={{ scale: 0.98 }}
                       transition={{ type: "spring", stiffness: 400, damping: 17 }}
                     >
-                      <Link href="https://www.tunee.ai/sign-up" target="_blank">
+                      <Link href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
                         <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-8">
                           {t("whoCta")}
                         </Button>

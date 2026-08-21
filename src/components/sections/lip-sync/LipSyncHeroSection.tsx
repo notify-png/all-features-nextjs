@@ -6,8 +6,9 @@ import { ArrowRight, Volume2, VolumeX } from "lucide-react";
 import { useState, useRef } from "react";
 import { useTranslations } from "next-intl";
 import Breadcrumb from "@/components/Breadcrumb";
-import tuneePortraitImg from "@/assets/lip-sync/tunee-portrait.png";
+import tuneePortraitImg from "@/assets/lip-sync/tunee-portrait.webp";
 import _tuneeDemo from "@/assets/lip-sync/tunee-demo.mp4";
+import tuneeDemoPoster from "@/assets/posters/lip-sync-demo.webp";
 const tuneePortrait = tuneePortraitImg.src;
 const tuneeDemo = _tuneeDemo as unknown as string;
 
@@ -158,11 +159,14 @@ const LipSyncHeroSection = () => {
                 <video
                   ref={videoRef}
                   src={tuneeDemo}
+                  poster={tuneeDemoPoster.src}
+                  width={1920}
+                  height={1080}
                   loop
                   muted
                   autoPlay
                   playsInline
-                  preload="auto"
+                  preload="metadata"
                   className="w-full h-full object-cover"
                 />
                 {/* Mute indicator on hover */}
@@ -186,7 +190,15 @@ const LipSyncHeroSection = () => {
                 <div className="relative w-28 h-32 md:w-36 md:h-40 rounded-xl overflow-hidden border-2 border-white shadow-xl bg-white flex items-center justify-center">
                   {/* Top edge shadow like paper curl */}
                   <div className="absolute top-0 left-0 right-0 h-4 bg-gradient-to-b from-black/8 to-transparent z-10 rounded-t-xl" />
-                  <img src={tuneePortrait} alt="Before - static portrait" className="w-full h-full object-contain" />
+                  <img
+                    src={tuneePortrait}
+                    alt="Before - static portrait"
+                    width={896}
+                    height={1200}
+                    loading="lazy"
+                    decoding="async"
+                    className="w-full h-full object-contain"
+                  />
                 </div>
               </div>
             </motion.div>

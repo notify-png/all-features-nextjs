@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import { Clock3, MessageCircle, PanelsTopLeft } from "lucide-react";
 import { useTranslations } from "next-intl";
 import whyChooseWorkspaceDemo from "@/assets/why-choose-workspace-demo.mp4";
+import whyChooseWorkspacePoster from "@/assets/posters/music-video-workspace.webp";
 
 const WhyChooseSection = () => {
   const t = useTranslations("MVG");
@@ -68,13 +69,16 @@ const WhyChooseSection = () => {
             <div className="relative aspect-[8/5] overflow-hidden rounded-[1.35rem] bg-black">
               <video
                 src={whyChooseWorkspaceDemo as unknown as string}
+                poster={whyChooseWorkspacePoster.src}
+                width={1440}
+                height={900}
                 className="absolute inset-0 h-full w-full bg-black object-contain"
                 aria-label={t("whyTitle")}
                 autoPlay
                 muted
                 loop
                 playsInline
-                preload="auto"
+                preload="metadata"
               />
             </div>
           </div>

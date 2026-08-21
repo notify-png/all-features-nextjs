@@ -82,7 +82,7 @@ const AiDancingHeroSection = () => {
                 className="h-14 px-10 text-base font-display rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 shadow-2xl"
                 asChild
               >
-                <Link href="https://www.tunee.ai/sign-up" target="_blank">
+                <Link href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
                   {t("aiDancingCta")}
                 </Link>
               </Button>

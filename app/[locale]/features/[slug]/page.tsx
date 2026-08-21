@@ -49,7 +49,13 @@ import AiSingerComparisonSection from "@/components/sections/ai-singer/AiSingerC
 import AiSingerExportFormatsSection from "@/components/sections/ai-singer/AiSingerExportFormatsSection";
 import AiSingerFAQSection from "@/components/sections/ai-singer/AiSingerFAQSection";
 import AiSingerCTASection from "@/components/sections/ai-singer/AiSingerCTASection";
-import { buildPageMetadata, buildLanguageAlternates, SITE_URL } from "@/lib/seo/metadata";
+import {
+  buildLanguageAlternates,
+  FEATURES_SOCIAL_IMAGE,
+  normalizeMetaDescription,
+  SITE_URL,
+} from "@/lib/seo/metadata";
+import { publicAssetUrl } from "@/lib/publicAssetUrl";
 
 type Params = {
   locale: string;
@@ -124,17 +130,28 @@ export async function generateMetadata({
   // Canonical points to the current-locale URL; hreflang alternates use the English base path.
   const localePath = locale === "en" ? engPath : `/${locale}${engPath}`;
   const canonical = `${SITE_URL}${localePath}`;
+  const title = t(keys.title);
+  const description = normalizeMetaDescription(t(keys.description));
   return {
-    title: t(keys.title),
-    description: t(keys.description),
+    title,
+    description,
     alternates: {
       canonical,
       languages: buildLanguageAlternates(engPath),
     },
     openGraph: {
-      title: t(keys.title),
-      description: t(keys.description),
+      type: "website",
+      siteName: "Tunee",
+      title,
+      description,
       url: canonical,
+      images: [{ url: FEATURES_SOCIAL_IMAGE, width: 1200, height: 630, alt: title }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [FEATURES_SOCIAL_IMAGE],
     },
   };
 }
@@ -194,6 +211,39 @@ const JSON_LD_BY_SLUG: Record<Slug, Record<string, unknown>> = {
     url: "https://www.tunee.ai/features/ai-singer",
     offers: { "@type": "Offer", price: "0", priceCurrency: "USD" },
     publisher: { "@type": "Organization", name: "Tunee", url: "https://www.tunee.ai" },
+  },
+};
+
+const VIDEO_JSON_LD_BY_SLUG: Partial<Record<Slug, Record<string, unknown>>> = {
+  "music-video-generator": {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: "Tunee AI Music Video Generator workspace demo",
+    description: "See how Tunee turns a song into an AI-generated music video.",
+    thumbnailUrl: publicAssetUrl("/assets/posters/music-video-workspace.webp"),
+    uploadDate: "2026-08-17",
+    duration: "PT17S",
+    embedUrl: `${SITE_URL}/features/music-video-generator`,
+  },
+  "lip-sync": {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: "Tunee AI Lip Sync demo",
+    description: "See a static portrait transformed into a synchronized singing performance.",
+    thumbnailUrl: publicAssetUrl("/assets/posters/lip-sync-demo.webp"),
+    uploadDate: "2026-08-17",
+    duration: "PT9S",
+    embedUrl: `${SITE_URL}/features/lip-sync`,
+  },
+  "ai-singer": {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    name: "Tunee AI Singer showcase",
+    description: "Watch an example performance created with Tunee AI Singer.",
+    thumbnailUrl: publicAssetUrl("/assets/posters/ai-singer-demo-1.webp"),
+    uploadDate: "2026-08-17",
+    duration: "PT4S",
+    embedUrl: `${SITE_URL}/features/ai-singer`,
   },
 };
 
@@ -299,11 +349,23 @@ export default async function LocalizedFeaturePage({
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(JSON_LD_BY_SLUG[slug]) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(
+            VIDEO_JSON_LD_BY_SLUG[slug]
+              ? [JSON_LD_BY_SLUG[slug], VIDEO_JSON_LD_BY_SLUG[slug]]
+              : JSON_LD_BY_SLUG[slug],
+          ),
+        }}
       />
       <div className="min-h-screen bg-background text-foreground">
+        <a
+          href="#main-content"
+          className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-md focus:bg-background focus:px-4 focus:py-2 focus:text-foreground focus:shadow-lg"
+        >
+          Skip to main content
+        </a>
         <Header />
-        <main>
+        <main id="main-content">
           <FeatureBySlug slug={slug} locale={locale} />
         </main>
         <Footer />

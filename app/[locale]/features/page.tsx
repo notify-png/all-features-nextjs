@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { setRequestLocale, getTranslations } from "next-intl/server";
 import FeaturesPageContent from "@/components/pages/FeaturesPageContent";
-import { routing, LOCALES } from "@/i18n/routing";
+import { routing, LOCALES, DEFAULT_LOCALE } from "@/i18n/routing";
 import { buildPageMetadata } from "@/lib/seo/metadata";
 
 export function generateStaticParams() {
@@ -16,15 +16,19 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale });
-  return buildPageMetadata("/features", {
-    title: t("Meta.featuresIndexTitle"),
-    description: t("Meta.featuresIndexDescription"),
-    openGraph: {
+  const canonicalPath = locale === DEFAULT_LOCALE ? "/features" : `/${locale}/features`;
+  return buildPageMetadata(
+    "/features",
+    {
       title: t("Meta.featuresIndexTitle"),
       description: t("Meta.featuresIndexDescription"),
-      url: "https://www.tunee.ai/features",
+      openGraph: {
+        title: t("Meta.featuresIndexTitle"),
+        description: t("Meta.featuresIndexDescription"),
+      },
     },
-  });
+    canonicalPath,
+  );
 }
 
 const jsonLd = {

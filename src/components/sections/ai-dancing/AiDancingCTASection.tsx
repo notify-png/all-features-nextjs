@@ -39,7 +39,7 @@ const AiDancingCTASection = () => {
                 className="rounded-full px-8 gap-2 group bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300"
                 asChild
               >
-                <Link href="https://www.tunee.ai/sign-up" target="_blank">
+                <Link href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
                   {t("primary")}
                   <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
                 </Link>
@@ -56,7 +56,7 @@ const AiDancingCTASection = () => {
                 className="rounded-full px-8 border-foreground/30 text-foreground hover:bg-foreground hover:text-background transition-all duration-300"
                 asChild
               >
-                <Link href="https://www.tunee.ai/pricing" target="_blank">
+                <Link href="https://www.tunee.ai/pricing" target="_blank" rel="noopener noreferrer">
                   {t("secondary")}
                 </Link>
               </Button>

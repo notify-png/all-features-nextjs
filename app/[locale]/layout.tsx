@@ -6,6 +6,7 @@ import { getMessages, setRequestLocale } from "next-intl/server";
 import "@/index.css";
 import Providers from "../providers";
 import { routing, LOCALES } from "@/i18n/routing";
+import { FEATURES_SOCIAL_IMAGE } from "@/lib/seo/metadata";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -33,11 +34,14 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Tunee",
     locale: "en_US",
+    images: [{ url: FEATURES_SOCIAL_IMAGE, width: 1200, height: 630, alt: "Tunee AI Features" }],
   },
   twitter: {
     card: "summary_large_image",
     site: "@tunee_ai",
+    images: [FEATURES_SOCIAL_IMAGE],
   },
+  icons: { icon: "/favicon.ico" },
   robots: {
     index: true,
     follow: true,
