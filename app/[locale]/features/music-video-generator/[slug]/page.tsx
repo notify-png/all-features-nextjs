@@ -514,7 +514,8 @@ export async function generateMetadata(
     ? `${BASE_URL}/features/music-video-generator/${slug}`
     : `${BASE_URL}/${locale}/features/music-video-generator/${slug}`
   const genrePrefix = cfg.genre_name.toUpperCase().startsWith('AI ') ? '' : 'AI '
-  const title = `${genrePrefix}${cfg.genre_name} Music Video Generator | Tunee`
+  const generatedTitle = `${genrePrefix}${cfg.genre_name} Music Video Generator | Tunee`
+  const title = content.meta_title ?? generatedTitle
 
   const languageAlternates: Record<string, string> = {
     'x-default': `${BASE_URL}/features/music-video-generator/${slug}`,
@@ -526,7 +527,7 @@ export async function generateMetadata(
   }
 
   return {
-    title,
+    title: content.meta_title ? { absolute: title } : title,
     description: content.meta_description,
     alternates: {
       canonical,
