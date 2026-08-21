@@ -202,23 +202,30 @@ const FeatureCarousel = () => {
       </div>
 
       <button
+        type="button"
         onClick={goLeft}
+        aria-label="Previous feature"
         className="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-20 w-10 h-10 rounded-full bg-white/90 shadow-lg flex items-center justify-center hover:bg-white transition-colors"
       >
         <ArrowRight className="w-5 h-5 text-foreground rotate-180" />
       </button>
       <button
+        type="button"
         onClick={goRight}
+        aria-label="Next feature"
         className="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-20 w-10 h-10 rounded-full bg-white/90 shadow-lg flex items-center justify-center hover:bg-white transition-colors"
       >
         <ArrowRight className="w-5 h-5 text-foreground" />
       </button>
 
       <div className="flex items-center justify-center gap-1.5 mt-6">
-        {allFeatures.map((_, index) => (
+        {allFeatures.map((feature, index) => (
           <button
             key={index}
+            type="button"
             onClick={() => setActiveIndex(index)}
+            aria-label={`Show ${feature.name}`}
+            aria-current={index === activeIndex ? "true" : undefined}
             className={`w-2 h-2 rounded-full transition-all duration-300 ${
               index === activeIndex
                 ? "bg-primary w-6"
@@ -334,23 +341,30 @@ const FeaturedModelsCarousel = () => {
         </div>
 
         <button
+          type="button"
           onClick={goLeft}
+          aria-label="Previous model"
           className="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-20 w-10 h-10 rounded-full bg-white/90 shadow-lg flex items-center justify-center hover:bg-white transition-colors"
         >
           <ArrowRight className="w-5 h-5 text-foreground rotate-180" />
         </button>
         <button
+          type="button"
           onClick={goRight}
+          aria-label="Next model"
           className="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-20 w-10 h-10 rounded-full bg-white/90 shadow-lg flex items-center justify-center hover:bg-white transition-colors"
         >
           <ArrowRight className="w-5 h-5 text-foreground" />
         </button>
 
         <div className="flex items-center justify-center gap-1.5 mt-6">
-          {ALL_MODELS.map((_, index) => (
+          {ALL_MODELS.map((model, index) => (
             <button
               key={index}
+              type="button"
               onClick={() => setActiveIndex(index)}
+              aria-label={`Show ${model.name}`}
+              aria-current={index === activeIndex ? "true" : undefined}
               className={`w-2 h-2 rounded-full transition-all duration-300 ${
                 index === activeIndex
                   ? "bg-primary w-6"

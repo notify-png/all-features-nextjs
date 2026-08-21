@@ -91,7 +91,11 @@ const AiSingerHeroSection = () => {
             </div>
 
             {/* Mobile Menu */}
-            <button className="md:hidden text-foreground">
+            <button
+              type="button"
+              className="md:hidden text-foreground"
+              aria-label="Open navigation menu"
+            >
               <Menu className="w-6 h-6" />
             </button>
           </div>

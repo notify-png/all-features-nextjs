@@ -158,6 +158,7 @@ const Header = () => {
           <div className="hidden lg:flex items-center gap-3">
             <div className="relative" ref={langRef}>
               <button
+                type="button"
                 onClick={() => setLangOpen(!langOpen)}
                 className="p-2 rounded-md text-foreground hover:bg-foreground/10 transition-colors"
                 aria-label="Change language"
@@ -213,6 +214,7 @@ const Header = () => {
           <div className="lg:hidden flex items-center gap-1">
             <div className="relative" ref={langOpen && !isOpen ? langRef : undefined}>
               <button
+                type="button"
                 onClick={() => {
                   setLangOpen(!langOpen);
                   setIsOpen(false);
@@ -267,9 +269,11 @@ const Header = () => {
             </div>
 
             <motion.button
+              type="button"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="p-2 rounded-lg hover:bg-foreground/10 transition-colors"
+              aria-label={isOpen ? "Close navigation menu" : "Open navigation menu"}
               onClick={() => {
                 setIsOpen(!isOpen);
                 setLangOpen(false);
