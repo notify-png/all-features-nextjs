@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { motion } from "framer-motion";
 
 // Import demo videos (Next.js webpack asset/resource returns url string)
@@ -35,6 +35,57 @@ const demoVideos = [
   { id: 9, src: _demo9 as unknown as string, poster: poster9.src },
 ];
 
+type DemoVideo = (typeof demoVideos)[number];
+
+const LazyShowcaseVideo = ({ video }: { video: DemoVideo }) => {
+  const videoRef = useRef<HTMLVideoElement>(null);
+  const [shouldLoad, setShouldLoad] = useState(false);
+  const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    const element = videoRef.current;
+    if (!element) return;
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        setIsVisible(entry.isIntersecting);
+        if (entry.isIntersecting) setShouldLoad(true);
+      },
+      { rootMargin: "200px 0px", threshold: 0.05 },
+    );
+
+    observer.observe(element);
+    return () => observer.disconnect();
+  }, []);
+
+  useEffect(() => {
+    const element = videoRef.current;
+    if (!element || !shouldLoad) return;
+
+    if (isVisible) {
+      void element.play().catch(() => undefined);
+    } else {
+      element.pause();
+    }
+  }, [isVisible, shouldLoad]);
+
+  return (
+    <video
+      ref={videoRef}
+      src={shouldLoad ? video.src : undefined}
+      poster={video.poster}
+      width={626}
+      height={834}
+      preload="none"
+      aria-label={`AI Singer showcase example ${video.id}`}
+      className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+      loop
+      muted
+      playsInline
+    />
+  );
+};
+
 const AiSingerShowcaseSection = () => {
   const [isPaused, setIsPaused] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
@@ -68,18 +119,7 @@ const AiSingerShowcaseSection = () => {
               key={`first-${video.id}`}
               className="flex-shrink-0 w-[280px] md:w-[320px] aspect-[9/16] rounded-2xl overflow-hidden bg-card group cursor-pointer"
             >
-              <video
-                src={video.src}
-                poster={video.poster}
-                width={834}
-                height={1112}
-                preload="metadata"
-                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                loop
-                muted
-                playsInline
-                autoPlay
-              />
+              <LazyShowcaseVideo video={video} />
             </div>
           ))}
           {/* Duplicate set for seamless loop */}
@@ -88,18 +128,7 @@ const AiSingerShowcaseSection = () => {
               key={`second-${video.id}`}
               className="flex-shrink-0 w-[280px] md:w-[320px] aspect-[9/16] rounded-2xl overflow-hidden bg-card group cursor-pointer"
             >
-              <video
-                src={video.src}
-                poster={video.poster}
-                width={834}
-                height={1112}
-                preload="metadata"
-                className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                loop
-                muted
-                playsInline
-                autoPlay
-              />
+              <LazyShowcaseVideo video={video} />
             </div>
           ))}
         </div>

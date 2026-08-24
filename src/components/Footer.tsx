@@ -210,7 +210,7 @@ const Footer = () => {
                   );
                 })}
               </div>
-              <p className="text-white/40 text-sm font-poppins">
+              <p className="text-white/60 text-sm font-poppins">
                 {t("copyright", { year: new Date().getFullYear() })}
               </p>
             </div>
