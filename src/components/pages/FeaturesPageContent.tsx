@@ -77,6 +77,7 @@ const CarouselCard = ({
       <div className="absolute top-0 right-0 w-2/3 h-2/3 opacity-[0.06]">
         <Icon className="w-full h-full text-white" />
       </div>
+      <div className="absolute inset-0 bg-black/30" aria-hidden="true" />
       <div className="absolute inset-0 flex flex-col justify-end p-5">
         <div className="flex items-center gap-2 mb-2">
           <Icon className="w-5 h-5 text-white/70" />
@@ -84,7 +85,7 @@ const CarouselCard = ({
             {feature.name}
           </h3>
         </div>
-        <p className="font-poppins text-white/50 text-xs leading-relaxed line-clamp-2">
+        <p className="font-poppins text-white/85 text-xs leading-relaxed line-clamp-2">
           {feature.description}
         </p>
         {isActive && (
@@ -146,7 +147,7 @@ const FeatureCarousel = () => {
     const scale = 1 - absDiff * 0.1;
     const translateX = diff * 220;
     const translateZ = -absDiff * 80;
-    const opacity = 1 - absDiff * 0.2;
+    const opacity = 1 - absDiff * 0.05;
     const zIndex = 10 - absDiff;
 
     return {
@@ -202,23 +203,30 @@ const FeatureCarousel = () => {
       </div>
 
       <button
+        type="button"
         onClick={goLeft}
+        aria-label="Previous feature"
         className="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-20 w-10 h-10 rounded-full bg-white/90 shadow-lg flex items-center justify-center hover:bg-white transition-colors"
       >
         <ArrowRight className="w-5 h-5 text-foreground rotate-180" />
       </button>
       <button
+        type="button"
         onClick={goRight}
+        aria-label="Next feature"
         className="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-20 w-10 h-10 rounded-full bg-white/90 shadow-lg flex items-center justify-center hover:bg-white transition-colors"
       >
         <ArrowRight className="w-5 h-5 text-foreground" />
       </button>
 
       <div className="flex items-center justify-center gap-1.5 mt-6">
-        {allFeatures.map((_, index) => (
+        {allFeatures.map((feature, index) => (
           <button
             key={index}
+            type="button"
             onClick={() => setActiveIndex(index)}
+            aria-label={`Show ${feature.name}`}
+            aria-current={index === activeIndex ? "true" : undefined}
             className={`w-2 h-2 rounded-full transition-all duration-300 ${
               index === activeIndex
                 ? "bg-primary w-6"
@@ -274,9 +282,9 @@ const FeaturedModelsCarousel = () => {
 
   return (
     <div className="relative z-10 w-full mt-16">
-      <h3 className="text-sm font-poppins font-medium text-foreground/50 uppercase tracking-wider mb-6 text-center">
+      <h2 className="text-sm font-poppins font-medium text-foreground/50 uppercase tracking-wider mb-6 text-center">
         {t("featuredModels")}
-      </h3>
+      </h2>
 
       <div className="relative">
         <div
@@ -311,6 +319,10 @@ const FeaturedModelsCarousel = () => {
                   <img
                     src={model.img}
                     alt={model.name}
+                    width={240}
+                    height={320}
+                    loading="lazy"
+                    decoding="async"
                     className="absolute inset-0 w-full h-full object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-transparent" />
@@ -320,9 +332,9 @@ const FeaturedModelsCarousel = () => {
                     </span>
                   </div>
                   <div className="absolute bottom-0 left-0 right-0 p-4">
-                    <h4 className="text-white font-barlow font-semibold text-base">
+                    <h3 className="text-white font-barlow font-semibold text-base">
                       {model.name}
-                    </h4>
+                    </h3>
                     <p className="text-white/70 text-xs font-poppins mt-1 leading-snug">
                       {model.desc}
                     </p>
@@ -334,23 +346,30 @@ const FeaturedModelsCarousel = () => {
         </div>
 
         <button
+          type="button"
           onClick={goLeft}
+          aria-label="Previous model"
           className="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 z-20 w-10 h-10 rounded-full bg-white/90 shadow-lg flex items-center justify-center hover:bg-white transition-colors"
         >
           <ArrowRight className="w-5 h-5 text-foreground rotate-180" />
         </button>
         <button
+          type="button"
           onClick={goRight}
+          aria-label="Next model"
           className="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 z-20 w-10 h-10 rounded-full bg-white/90 shadow-lg flex items-center justify-center hover:bg-white transition-colors"
         >
           <ArrowRight className="w-5 h-5 text-foreground" />
         </button>
 
         <div className="flex items-center justify-center gap-1.5 mt-6">
-          {ALL_MODELS.map((_, index) => (
+          {ALL_MODELS.map((model, index) => (
             <button
               key={index}
+              type="button"
               onClick={() => setActiveIndex(index)}
+              aria-label={`Show ${model.name}`}
+              aria-current={index === activeIndex ? "true" : undefined}
               className={`w-2 h-2 rounded-full transition-all duration-300 ${
                 index === activeIndex
                   ? "bg-primary w-6"
@@ -381,8 +400,14 @@ export default function FeaturesPageContent() {
 
   return (
     <div className="min-h-screen bg-white relative">
+      <a
+        href="#main-content"
+        className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-md focus:bg-white focus:px-4 focus:py-2 focus:text-foreground focus:shadow-lg"
+      >
+        Skip to main content
+      </a>
       <Header />
-      <main>
+      <main id="main-content">
         {/* Hero Section */}
         <div
           className="relative flex flex-col items-center overflow-hidden bg-white"
@@ -421,9 +446,9 @@ export default function FeaturesPageContent() {
               className="mb-24"
             >
               <div className="mb-12 text-center">
-                <h3 className="text-sm font-poppins font-medium text-foreground/50 uppercase tracking-wider">
+                <h2 className="text-sm font-poppins font-medium text-foreground/50 uppercase tracking-wider">
                   {t("allFeatures")}
-                </h3>
+                </h2>
               </div>
               <FeatureCarousel />
             </motion.section>

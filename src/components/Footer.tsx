@@ -82,6 +82,10 @@ const Footer = () => {
                   (tuneeLogoWhite as unknown as string)
                 }
                 alt="Tunee"
+                width={1800}
+                height={600}
+                loading="lazy"
+                decoding="async"
                 className="h-[120px] md:h-[160px] lg:h-[200px] w-auto mx-auto object-contain"
               />
             </Link>

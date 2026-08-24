@@ -28,6 +28,10 @@ const AiSingerFooter = () => {
                 <img
                   src={imgSrc(tuneeLogo)}
                   alt="Tunee"
+                  width={32}
+                  height={32}
+                  loading="lazy"
+                  decoding="async"
                   className="w-8 h-8 rounded-full object-cover"
                 />
                 <span className="text-white font-poppins font-semibold text-lg">

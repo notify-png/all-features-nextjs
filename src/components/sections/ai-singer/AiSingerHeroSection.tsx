@@ -40,6 +40,8 @@ const AiSingerHeroSection = () => {
               <img
                 src={imgSrc(tuneeLogo)}
                 alt="Tunee"
+                width={32}
+                height={32}
                 className="w-8 h-8 rounded-full object-cover"
               />
               <span className="text-foreground font-poppins font-semibold text-lg">
@@ -91,7 +93,11 @@ const AiSingerHeroSection = () => {
             </div>
 
             {/* Mobile Menu */}
-            <button className="md:hidden text-foreground">
+            <button
+              type="button"
+              className="md:hidden text-foreground"
+              aria-label="Open navigation menu"
+            >
               <Menu className="w-6 h-6" />
             </button>
           </div>
