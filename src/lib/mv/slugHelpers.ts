@@ -84,8 +84,14 @@ export function getLead(cfg: MvConfig, content: MvContent, t: UIStrings): string
 export function getSiblings(slug: string, allSlugs: string[], n = 3): string[] {
   const others = allSlugs.filter(s => s !== slug)
   const h = strHash(slug)
-  const seen = new Set<string>()
-  const picks: string[] = []
+  const relatedOverrides: Record<string, string[]> = {
+    'lyric-video': ['lyrics-to-music-video'],
+    'metal-music-video': ['rock-music-video'],
+  }
+  const picks = (relatedOverrides[slug] ?? [])
+    .filter(candidate => others.includes(candidate))
+    .slice(0, n)
+  const seen = new Set(picks)
 
   for (let i = 0; i < n + 10; i++) {
     const c = others[(h + i * 7) % others.length]

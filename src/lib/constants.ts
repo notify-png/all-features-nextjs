@@ -44,7 +44,7 @@ export const FOOTER_FEATURE_ITEMS = [
     labelKey: "featureMusicVideo",
     href: "https://www.tunee.ai/features/music-video-generator",
   },
-  { labelKey: "featureAiSinger", href: "https://www.tunee.ai/virtual-artist" },
+  { labelKey: "featureAiSinger", href: "/features/ai-singer" },
   { labelKey: "featureLipSync", href: "https://www.tunee.ai/features/lip-sync" },
   { labelKey: "featureAiDancing", href: "https://www.tunee.ai/features/ai-dancing" },
   {
