@@ -282,7 +282,7 @@ const FeaturedModelsCarousel = () => {
 
   return (
     <div className="relative z-10 w-full mt-16">
-      <h2 className="text-sm font-poppins font-medium text-foreground/50 uppercase tracking-wider mb-6 text-center">
+      <h2 className="text-sm font-poppins font-medium text-foreground/60 uppercase tracking-wider mb-6 text-center">
         {t("featuredModels")}
       </h2>
 
@@ -446,7 +446,7 @@ export default function FeaturesPageContent() {
               className="mb-24"
             >
               <div className="mb-12 text-center">
-                <h2 className="text-sm font-poppins font-medium text-foreground/50 uppercase tracking-wider">
+                <h2 className="text-sm font-poppins font-medium text-foreground/60 uppercase tracking-wider">
                   {t("allFeatures")}
                 </h2>
               </div>
