@@ -4,32 +4,8 @@ import { useState, useEffect } from "react";
 import Image, { type StaticImageData } from "next/image";
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import Link from "next/link";
-import { ChevronRight } from "lucide-react";
 import { useLocale, useTranslations } from "next-intl";
-import { DEFAULT_LOCALE } from "@/i18n/routing";
-
-const aiModels = [
-  "ACE Step v1.5",
-  "Seedance 2.0",
-  "Kling 3.0",
-  "Kling 3.0 Omni",
-  "Lyria 3 Pro",
-  "Nanobanana 2",
-  "Wan 2.7",
-  "Kimi K2.6",
-  "GPT Image 2.0",
-  "Deepseek V4 Pro",
-  "DeepSeek V4 Flash",
-  "GPT 5.4",
-  "Qwen3.7-Plus",
-  "Seedance 2.0 Mini",
-  "GPT 5.6 Luna",
-  "Gemini 3.6 Flash",
-  "Seedance 2.5",
-  "MiniMax H3",
-  "Tempolor v4.7",
-];
+import MvAgentPromptMock from "@/components/sections/mv-generator/MvAgentPromptMock";
 
 import lipSyncImage from "@/assets/mv-features/lip-sync.webp";
 import visionFilmImage from "@/assets/mv-features/vision-film.webp";
@@ -65,18 +41,10 @@ const heroFeatures: HeroFeature[] = [
   { image: motionControlImage, labelKey: "mvFeatureMotionControl" },
 ];
 
-const localizePath = (href: string, locale: string) =>
-  locale === DEFAULT_LOCALE || !href.startsWith("/")
-    ? href
-    : `/${locale}${href === "/" ? "" : href}`;
-
 const FeatureHeroSection = () => {
   const locale = useLocale();
   const tHero = useTranslations("Hero");
-  const tNav = useTranslations("Nav");
-  const tBc = useTranslations("Breadcrumb");
   const tCommon = useTranslations("Common");
-  const tCommonPB = useTranslations("Common");
   const tMvg = useTranslations("MVG");
   const titleLine1 = tHero("mvgLine1");
   const titleLine2 = tHero("mvgLine2");
@@ -148,7 +116,7 @@ const FeatureHeroSection = () => {
     return (
       <div
         key={`${keyPrefix}-${feature.labelKey}`}
-        className="group relative aspect-video w-[250px] flex-shrink-0 overflow-hidden rounded-2xl bg-muted md:w-[300px]"
+        className="group relative aspect-[2/1] w-[220px] flex-shrink-0 overflow-hidden rounded-2xl bg-muted md:w-[270px]"
       >
         <Image
           src={feature.image}
@@ -156,11 +124,11 @@ const FeatureHeroSection = () => {
           width={feature.image.width}
           height={feature.image.height}
           unoptimized
-          sizes="(min-width: 768px) 300px, 250px"
+          sizes="(min-width: 768px) 270px, 220px"
           className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-transparent to-transparent" />
-        <span className="absolute bottom-3 left-4 font-display text-sm font-medium uppercase tracking-wide text-white/80 drop-shadow-sm md:text-base">
+        <span className="absolute bottom-3 left-4 font-display text-lg font-bold uppercase tracking-wide text-white drop-shadow-md md:bottom-4 md:left-5 md:text-2xl">
           {label}
         </span>
         {feature.isNew && (
@@ -173,7 +141,7 @@ const FeatureHeroSection = () => {
   };
 
   return (
-    <section className="relative min-h-screen overflow-hidden">
+    <section className="relative overflow-hidden">
       {/* Background gradient */}
       <div className="absolute inset-0 z-0 bg-white">
         <div
@@ -188,39 +156,8 @@ const FeatureHeroSection = () => {
         />
       </div>
 
-      {/* Breadcrumb */}
-      <div className="relative z-10 section-container pt-24 pb-2">
-        <nav>
-          <ol className="flex items-center gap-2 text-sm font-poppins">
-            <li>
-              <a
-                href="https://www.tunee.ai"
-                className="text-muted-foreground hover:text-foreground transition-colors"
-              >
-                {tBc("home")}
-              </a>
-            </li>
-            <li className="flex items-center gap-2">
-              <ChevronRight className="w-4 h-4 text-muted-foreground/50" />
-              <Link
-                href={localizePath("/features", locale)}
-                className="text-muted-foreground hover:text-foreground transition-colors"
-              >
-                {tNav("features")}
-              </Link>
-            </li>
-            <li className="flex items-center gap-2">
-              <ChevronRight className="w-4 h-4 text-muted-foreground/50" />
-              <span className="font-medium text-foreground">
-                {tCommon("musicVideoGenerator")}
-              </span>
-            </li>
-          </ol>
-        </nav>
-      </div>
-
       {/* Hero Content */}
-      <div className="relative z-10 section-container pt-6 md:pt-10 lg:pt-12 pb-4">
+      <div className="relative z-10 section-container pb-2 pt-24 md:pt-24 lg:pt-28">
         <div className="text-center max-w-6xl mx-auto">
           {/* Title */}
           <motion.h1
@@ -231,7 +168,7 @@ const FeatureHeroSection = () => {
               delay: 0.1,
               ease: [0.25, 0.1, 0.25, 1],
             }}
-            className={`hero-title music-video-hero-title ${titleLengthClass} music-video-hero-title--${locale} text-foreground mb-4`}
+            className={`hero-title music-video-hero-title ${titleLengthClass} music-video-hero-title--${locale} text-foreground mb-5`}
           >
             <span className="block whitespace-nowrap">{titleLine1}</span>
             <span className="gradient-text block whitespace-nowrap">
@@ -239,24 +176,39 @@ const FeatureHeroSection = () => {
             </span>
           </motion.h1>
 
-          {/* Subtitle */}
-          <motion.p
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{
-              duration: 0.8,
-              delay: 0.2,
-              ease: [0.25, 0.1, 0.25, 1],
-            }}
-            className="body-text text-lg md:text-xl max-w-3xl mx-auto mb-6 leading-relaxed"
-          >
-            {tHero("mvgSubtitle")}
-          </motion.p>
         </div>
       </div>
 
+      {/* Interactive agent prompt mock */}
+      <motion.div
+        initial={{ opacity: 0, y: 24 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{
+          duration: 0.8,
+          delay: 0.3,
+          ease: [0.25, 0.1, 0.25, 1],
+        }}
+        className="relative z-30 mb-4"
+      >
+        <MvAgentPromptMock />
+      </motion.div>
+
+      {/* Supporting copy stays visible but yields the visual focus to the prompt. */}
+      <motion.p
+        initial={{ opacity: 0, y: 18 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{
+          duration: 0.7,
+          delay: 0.38,
+          ease: [0.25, 0.1, 0.25, 1],
+        }}
+        className="body-text relative z-10 mx-auto mb-7 max-w-2xl px-6 text-center text-sm leading-relaxed text-muted-foreground md:text-base"
+      >
+        {tHero("mvgSubtitle")}
+      </motion.p>
+
       {/* Scrolling Demo Gallery */}
-      <div className="relative z-10 mb-6">
+      <div className="relative z-10 mb-3">
         <div
           className="relative"
           onMouseEnter={() => setIsPaused(true)}
@@ -268,7 +220,7 @@ const FeatureHeroSection = () => {
 
           {/* Scrolling Container */}
           <div
-            className="flex gap-4 md:gap-6"
+            className="flex gap-3 md:gap-5"
             style={{
               width: "max-content",
               animation: "scroll-left-demo 35s linear infinite",
@@ -281,8 +233,8 @@ const FeatureHeroSection = () => {
         </div>
       </div>
 
-      {/* CTA + Powered by */}
-      <div className="relative z-10 section-container py-6">
+      {/* CTA */}
+      <div className="relative z-10 section-container py-3">
         <div className="text-center">
           <motion.div
             data-inline-cta
@@ -311,38 +263,6 @@ const FeatureHeroSection = () => {
             </motion.div>
           </motion.div>
 
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.8, delay: 0.5 }}
-            className="relative overflow-hidden py-4"
-          >
-            <div className="flex items-center justify-center gap-2 mb-3">
-              <span className="text-muted-foreground text-sm font-light">
-                {tCommonPB("poweredBy")}
-              </span>
-            </div>
-            <div className="relative overflow-hidden mx-auto max-w-3xl">
-              <div className="absolute left-0 top-0 bottom-0 w-20 bg-gradient-to-r from-white to-transparent z-10" />
-              <div className="absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-white to-transparent z-10" />
-              <div
-                className="flex animate-scroll-left-slow"
-                style={{ width: "max-content" }}
-              >
-                {[...aiModels, ...aiModels, ...aiModels].map((model, index) => (
-                  <div
-                    key={`${model}-${index}`}
-                    className="flex items-center gap-3 px-5"
-                  >
-                    <span className="text-muted-foreground font-medium text-sm whitespace-nowrap">
-                      {model}
-                    </span>
-                    <span className="w-1 h-1 rounded-full bg-muted-foreground/50" />
-                  </div>
-                ))}
-              </div>
-            </div>
-          </motion.div>
         </div>
       </div>
 

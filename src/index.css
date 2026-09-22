@@ -192,7 +192,7 @@
   }
 
   .music-video-hero-title {
-    font-size: 100px;
+    font-size: 88px;
   }
 
   .music-video-hero-title--medium {
@@ -217,7 +217,7 @@
     }
 
     .music-video-hero-title {
-      font-size: 68px;
+      font-size: 60px;
     }
 
     .music-video-hero-title--medium {
@@ -243,7 +243,7 @@
     }
 
     .music-video-hero-title {
-      font-size: 37px;
+      font-size: 34px;
     }
 
     .music-video-hero-title--medium {
@@ -260,6 +260,25 @@
 
     .music-video-hero-title--ru {
       font-size: 21px;
+    }
+  }
+
+  @media (max-width: 360px) {
+    .music-video-hero-title {
+      font-size: 29px;
+    }
+
+    .music-video-hero-title--medium {
+      font-size: 27px;
+    }
+
+    .music-video-hero-title--long,
+    .music-video-hero-title--ja {
+      font-size: 23px;
+    }
+
+    .music-video-hero-title--ru {
+      font-size: 19px;
     }
   }
 

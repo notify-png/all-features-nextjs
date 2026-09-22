@@ -19,7 +19,7 @@ const WhoUsesSection = () => {
   const activeContent = tabs.find((tab) => tab.id === activeTab)!;
 
   return (
-    <section className="section-padding bg-secondary/50">
+    <section className="section-padding bg-secondary/50 max-lg:pt-12">
       <div className="section-container">
         <motion.h2
           initial={{ opacity: 0, y: 30 }}
@@ -48,7 +48,7 @@ const WhoUsesSection = () => {
           className="mt-12"
         >
           <div className="flex flex-col lg:flex-row gap-8 max-w-5xl mx-auto lg:items-stretch">
-            <div className="flex flex-row lg:flex-col justify-between gap-2 lg:w-48 flex-shrink-0">
+            <div className="grid min-w-0 grid-cols-2 gap-2 sm:grid-cols-4 lg:flex lg:w-48 lg:flex-col lg:flex-shrink-0">
               {tabs.map((tab) => (
                 <motion.button
                   key={tab.id}
@@ -56,7 +56,7 @@ const WhoUsesSection = () => {
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
                   transition={{ type: "spring", stiffness: 400, damping: 17 }}
-                  className={`flex-1 px-4 py-3 rounded-xl text-sm font-medium transition-all duration-300 text-left flex items-center ${
+                  className={`min-w-0 flex-1 px-4 py-3 rounded-xl text-sm font-medium transition-all duration-300 text-left flex items-center ${
                     activeTab === tab.id
                       ? "bg-foreground text-primary-foreground shadow-lg"
                       : "bg-card border border-border text-muted-foreground hover:text-foreground hover:border-foreground/30"

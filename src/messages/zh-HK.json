@@ -196,6 +196,16 @@
     "tech5": "情感 AI"
   },
   "MVG": {
+    "homeMvEyebrow": "MV 工作室",
+    "homeMvHeadingLine1": "視覺化你的音樂",
+    "homeMvHeadingLine2": "幾秒內完成。",
+    "homeMvBody": "好音樂配上好視覺效果會傳播得更遠。Tunee 將任何曲目轉化為電影級音樂影片，配上令人驚艷的 AI 生成視覺效果——脫穎而出，隨時可分享。",
+    "homeMvCta": "立即製作你的 MV",
+    "homeCharacterEyebrow": "AI 角色",
+    "homeCharacterHeadingLine1": "為你的音樂賦予面孔，",
+    "homeCharacterHeadingLine2": "聲音和身份。",
+    "homeCharacterBody": "打造一個讓你的音樂栩栩如生的 AI 音樂角色。創建一個一致的形象——擁有獨特的外觀、聲音和故事——並發布內容，自動增長你的受眾。",
+    "homeCharacterCta": "創建你自己的角色",
     "whyTitle": "為何選擇 Tunee 的音樂影片生成器",
     "why1Title": "透過對話創作與編輯一切",
     "why1Desc": "與 Tunee 對話即可創作和編輯歌曲、概念、腳本、分鏡、場景和完整音樂影片。使用 Tunee App，走到哪裡都能繼續創作。",

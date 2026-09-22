@@ -102,7 +102,7 @@ const MvExploreSection = ({ categories, locale }: Props) => {
   let globalIdx = 0;
 
   return (
-    <section className="section-padding bg-background">
+    <section className="section-padding bg-secondary/50 max-lg:pt-12">
       <style dangerouslySetInnerHTML={{ __html: DOT_KEYFRAMES }} />
       <div className="section-container">
         {/* Section header — centered */}

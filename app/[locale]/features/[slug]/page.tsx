@@ -5,14 +5,12 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { routing, LOCALES } from "@/i18n/routing";
 import FeatureHeroSection from "@/components/sections/FeatureHeroSection";
-import MvQuickJumpStrip from "@/components/sections/mv-generator/MvQuickJumpStrip";
 import MvExploreSection from "@/components/sections/mv-generator/MvExploreSection";
-import { getMvCategories, MV_CATEGORY_ORDER } from "@/lib/mv/categories";
+import HomeFeatureRows from "@/components/sections/mv-generator/HomeFeatureRows";
+import { getMvCategories } from "@/lib/mv/categories";
 import WhyChooseSection from "@/components/sections/WhyChooseSection";
-import HowItWorksSection from "@/components/sections/HowItWorksSection";
 import WhoUsesSection from "@/components/sections/WhoUsesSection";
 import ComparisonSection from "@/components/sections/ComparisonSection";
-import ExportFormatsSection from "@/components/sections/ExportFormatsSection";
 import FAQSection from "@/components/sections/FAQSection";
 import CTASection from "@/components/sections/CTASection";
 import LipSyncHeroSection from "@/components/sections/lip-sync/LipSyncHeroSection";
@@ -253,15 +251,13 @@ const FeatureBySlug = ({ slug, locale }: { slug: Slug; locale: string }) => {
     return (
       <>
         <FeatureHeroSection />
-        <MvQuickJumpStrip categoryIds={MV_CATEGORY_ORDER} />
         <WhyChooseSection />
-        <MvExploreSection categories={mvCategories} locale={locale} />
-        <HowItWorksSection />
+        <HomeFeatureRows />
         <WhoUsesSection />
         <ComparisonSection />
-        <ExportFormatsSection />
         <FAQSection />
-        <CTASection />
+        <CTASection backgroundClassName="bg-background" compactOnMobile />
+        <MvExploreSection categories={mvCategories} locale={locale} />
       </>
     );
   }

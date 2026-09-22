@@ -15,7 +15,7 @@ const WhyChooseSection = () => {
   ];
 
   return (
-    <section className="relative overflow-hidden bg-background section-padding">
+    <section className="relative overflow-hidden bg-background section-padding max-lg:pb-12">
       <div className="pointer-events-none absolute inset-0">
         <div className="absolute left-1/2 top-10 h-[420px] w-[720px] -translate-x-1/2 rounded-full bg-[radial-gradient(circle,rgba(124,100,255,0.18),rgba(255,255,255,0)_68%)] blur-2xl" />
       </div>

@@ -6,10 +6,10 @@ import { ArrowRight } from "lucide-react";
 import Link from "next/link";
 import { useTranslations } from "next-intl";
 
-const CTASection = () => {
+const CTASection = ({ backgroundClassName = "bg-secondary", compactOnMobile = false }: { backgroundClassName?: string; compactOnMobile?: boolean }) => {
   const t = useTranslations("CTA");
   return (
-    <section className="section-padding bg-secondary">
+    <section className={`section-padding ${backgroundClassName} ${compactOnMobile ? "max-lg:py-12" : ""}`}>
       <div className="section-container">
         <motion.div
           initial={{ opacity: 0, y: 40 }}

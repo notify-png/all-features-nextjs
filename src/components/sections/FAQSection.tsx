@@ -23,7 +23,7 @@ const FAQSection = () => {
   ];
 
   return (
-    <section className="section-padding bg-background">
+    <section className="section-padding bg-secondary/50 max-lg:pb-12">
       <div className="section-container">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

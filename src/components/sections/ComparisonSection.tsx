@@ -16,7 +16,7 @@ const ComparisonSection = () => {
   ];
 
   return (
-    <section className="section-padding bg-background">
+    <section className="section-padding overflow-x-clip bg-background">
       <div className="section-container">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
