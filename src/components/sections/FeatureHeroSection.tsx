@@ -160,52 +160,27 @@ const FeatureHeroSection = () => {
       <div className="relative z-10 section-container pb-2 pt-24 md:pt-24 lg:pt-28">
         <div className="text-center max-w-6xl mx-auto">
           {/* Title */}
-          <motion.h1
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{
-              duration: 0.8,
-              delay: 0.1,
-              ease: [0.25, 0.1, 0.25, 1],
-            }}
+          <h1
             className={`hero-title music-video-hero-title ${titleLengthClass} music-video-hero-title--${locale} text-foreground mb-5`}
           >
             <span className="block whitespace-nowrap">{titleLine1}</span>
             <span className="gradient-text block whitespace-nowrap">
               {titleLine2}
             </span>
-          </motion.h1>
+          </h1>
 
         </div>
       </div>
 
       {/* Interactive agent prompt mock */}
-      <motion.div
-        initial={{ opacity: 0, y: 24 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{
-          duration: 0.8,
-          delay: 0.3,
-          ease: [0.25, 0.1, 0.25, 1],
-        }}
-        className="relative z-30 mb-4"
-      >
+      <div className="relative z-30 mb-4">
         <MvAgentPromptMock />
-      </motion.div>
+      </div>
 
       {/* Supporting copy stays visible but yields the visual focus to the prompt. */}
-      <motion.p
-        initial={{ opacity: 0, y: 18 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{
-          duration: 0.7,
-          delay: 0.38,
-          ease: [0.25, 0.1, 0.25, 1],
-        }}
-        className="body-text relative z-10 mx-auto mb-7 max-w-2xl px-6 text-center text-sm leading-relaxed text-muted-foreground md:text-base"
-      >
+      <p className="body-text relative z-10 mx-auto mb-7 max-w-2xl px-6 text-center text-sm leading-relaxed text-muted-foreground md:text-base">
         {tHero("mvgSubtitle")}
-      </motion.p>
+      </p>
 
       {/* Scrolling Demo Gallery */}
       <div className="relative z-10 mb-3">
@@ -236,15 +211,8 @@ const FeatureHeroSection = () => {
       {/* CTA */}
       <div className="relative z-10 section-container py-3">
         <div className="text-center">
-          <motion.div
+          <div
             data-inline-cta
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{
-              duration: 0.8,
-              delay: 0.4,
-              ease: [0.25, 0.1, 0.25, 1],
-            }}
             className="mb-8"
           >
             <motion.div
@@ -261,7 +229,7 @@ const FeatureHeroSection = () => {
                 <a href="https://www.tunee.ai/sign-up">{tCommon("generateNow")}</a>
               </Button>
             </motion.div>
-          </motion.div>
+          </div>
 
         </div>
       </div>
