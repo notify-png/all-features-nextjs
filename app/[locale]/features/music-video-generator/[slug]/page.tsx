@@ -515,7 +515,10 @@ export async function generateMetadata(
     ? `${BASE_URL}/features/music-video-generator/${slug}`
     : `${BASE_URL}/${locale}/features/music-video-generator/${slug}`
   const genrePrefix = cfg.genre_name.toUpperCase().startsWith('AI ') ? '' : 'AI '
-  const generatedTitle = `${genrePrefix}${cfg.genre_name} Music Video Generator | Tunee`
+  // 后缀由 app/[locale]/layout.tsx 的 title template（`%s | Tunee`）统一加。
+  // 这里再带一次会输出「… | Tunee | Tunee」——下面那个 absolute 分支本该绕过 template，
+  // 但 100 个 content 文件没有一个带 meta_title，真分支从未执行过。
+  const generatedTitle = `${genrePrefix}${cfg.genre_name} Music Video Generator`
   const title = content.meta_title ?? generatedTitle
 
   const languageAlternates: Record<string, string> = {
