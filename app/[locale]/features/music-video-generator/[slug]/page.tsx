@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import { notFound } from 'next/navigation'
 import { setRequestLocale } from 'next-intl/server'
 import { LOCALES } from '@/i18n/routing'
 import { getAllSlugs, getConfig, getContent, getImageCache } from '@/lib/mv/data'
@@ -499,6 +500,21 @@ const PAGE_CSS = `
 .mvs .producer-card-desc { font-size: 13px; color: var(--t2); line-height: 1.55; }
 `
 
+/* 只服务 generateStaticParams 枚举出来的那 1100 个页。
+ *
+ * 默认的 dynamicParams = true 会让没列进去的 slug 走动态渲染，而 getConfig /
+ * getContent 都是直接 fs.readFileSync，文件不存在就抛 ENOENT——没有 catch、
+ * 也没有 notFound()，结果是 500 而不是 404。打错的 URL、失效的外链都会命中。
+ *
+ * 500 对 SEO 比 404 糟：Google 判定为服务器临时故障，保留索引并反复重抓，
+ * 持续消耗抓取预算；404 才是「这个页不存在」。
+ *
+ * 这里的 slug 是读 data/configs/mv/ 目录派生的，generateStaticParams 已经枚举
+ * 了全部，所以关掉动态参数正好表达「只有这些」，也一并盖住两个 ENOENT 点。
+ * 同站的 features/[slug] 用的是 isSupportedSlug + notFound()——那条路由的 slug
+ * 是代码里硬编码的枚举，场景不同。tunee-nextjs 的两个同类路由都用本方案。 */
+export const dynamicParams = false
+
 // generateStaticParams — 11 locales × 100 slugs = 1100 pages
 export async function generateStaticParams() {
   const slugs = getAllSlugs()
@@ -509,6 +525,12 @@ export async function generateMetadata(
   { params }: { params: Promise<{ locale: string; slug: string }> }
 ): Promise<Metadata> {
   const { locale, slug } = await params
+  /* dynamicParams = false 只拦住 URL 里带 locale 段的路径（/zh-CN/…）。英文路径
+     由 next-intl 的 localePrefix: "as-needed" 从 /features/… 重写成 /en/…，
+     重写进来的请求绕过那个检查，仍会走到下面的 readFileSync 并抛 ENOENT → 500。
+     实测：/zh-CN/…/no-such-xyz 得到 404，而 /features/…/no-such-xyz 得到 500。 */
+  if (!getAllSlugs().includes(slug)) notFound()
+
   const cfg = getConfig(slug)
   const content = getContent(slug, locale)
   const canonical = locale === 'en'
@@ -560,6 +582,12 @@ export default async function LocaleSlugPage(
 ) {
   const { locale, slug } = await params
   setRequestLocale(locale)
+  /* dynamicParams = false 只拦住 URL 里带 locale 段的路径（/zh-CN/…）。英文路径
+     由 next-intl 的 localePrefix: "as-needed" 从 /features/… 重写成 /en/…，
+     重写进来的请求绕过那个检查，仍会走到下面的 readFileSync 并抛 ENOENT → 500。
+     实测：/zh-CN/…/no-such-xyz 得到 404，而 /features/…/no-such-xyz 得到 500。 */
+  if (!getAllSlugs().includes(slug)) notFound()
+
   const cfg = getConfig(slug)
   const content = getContent(slug, locale)
   const imageCache = getImageCache()
