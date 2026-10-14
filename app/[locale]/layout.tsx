@@ -45,9 +45,12 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    // 允许搜索结果与 Google 探索用大图预览；不声明时只给缩略图
+    "max-image-preview": "large",
     googleBot: {
       index: true,
       follow: true,
+      "max-image-preview": "large",
     },
   },
 };
