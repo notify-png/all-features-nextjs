@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
 import { LOCALES, DEFAULT_LOCALE } from "@/i18n/routing";
+import { publicAssetUrl } from "@/lib/publicAssetUrl";
 
 export const SITE_URL = "https://www.tunee.ai";
-export const FEATURES_SOCIAL_IMAGE = `${SITE_URL}/assets/features/cover.jpg`;
+// 主站同款品牌图（client/src/assets/images/tunee-share.webp 转 JPG，1200×630）。
+// 原 /assets/features/cover.jpg 实际只有 800×512，却声明成 1200×630。
+// 走 publicAssetUrl：/assets 由主站之外的网关转发、规则不可见，public 资源按本仓库惯例取部署地址
+export const FEATURES_SOCIAL_IMAGE = publicAssetUrl("/og/tunee-share.jpg");
 
 export function normalizeMetaDescription(value: string, maxLength = 155): string {
   const compact = value.replace(/\s+/g, " ").trim();

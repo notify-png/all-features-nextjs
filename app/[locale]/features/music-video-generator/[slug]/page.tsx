@@ -17,6 +17,7 @@ import {
   strHash,
 } from '@/lib/mv/slugHelpers'
 import { getT } from '@/lib/mv/i18n'
+import { FEATURES_SOCIAL_IMAGE } from '@/lib/seo/metadata'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import GenProcess from '@/components/mv/GenProcess'
@@ -565,14 +566,14 @@ export async function generateMetadata(
       title,
       description: content.meta_description,
       siteName: 'Tunee',
-      images: [{ url: `${BASE_URL}/assets/features/cover.jpg`, width: 1200, height: 630, alt: title }],
+      images: [{ url: FEATURES_SOCIAL_IMAGE, width: 1200, height: 630, alt: title }],
     },
     twitter: {
       card: 'summary_large_image',
       site: '@tuneeai',
       title,
       description: content.meta_description,
-      images: [`${BASE_URL}/assets/features/cover.jpg`],
+      images: [FEATURES_SOCIAL_IMAGE],
     },
   }
 }
