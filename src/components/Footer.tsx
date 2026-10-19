@@ -75,7 +75,8 @@ const Footer = () => {
         <div className="section-container flex-1 flex flex-col justify-center">
           {/* Logo */}
           <div className="text-center mb-6">
-            <Link href="/" className="inline-block">
+            {/* eslint-disable-next-line @next/next/no-html-link-for-pages -- "/" is the tunee.ai homepage, served by another app; <Link> would prefetch it as RSC */}
+            <a href="/" className="inline-block">
               <img
                 src={
                   tuneeLogoWhite.src ??
@@ -88,7 +89,7 @@ const Footer = () => {
                 decoding="async"
                 className="h-[120px] md:h-[160px] lg:h-[200px] w-auto mx-auto object-contain"
               />
-            </Link>
+            </a>
           </div>
 
           {/* Links Row */}

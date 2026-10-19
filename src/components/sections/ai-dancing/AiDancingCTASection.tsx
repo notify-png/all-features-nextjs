@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import Link from "next/link";
 import { useTranslations } from "next-intl";
 
 const AiDancingCTASection = () => {
@@ -39,10 +38,10 @@ const AiDancingCTASection = () => {
                 className="rounded-full px-8 gap-2 group bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300"
                 asChild
               >
-                <Link href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
                   {t("primary")}
                   <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
-                </Link>
+                </a>
               </Button>
             </motion.div>
             <motion.div
@@ -56,9 +55,9 @@ const AiDancingCTASection = () => {
                 className="rounded-full px-8 border-foreground/30 text-foreground hover:bg-foreground hover:text-background transition-all duration-300"
                 asChild
               >
-                <Link href="https://www.tunee.ai/pricing" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.tunee.ai/pricing" target="_blank" rel="noopener noreferrer">
                   {t("secondary")}
-                </Link>
+                </a>
               </Button>
             </motion.div>
           </div>
