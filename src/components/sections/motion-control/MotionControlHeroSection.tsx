@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Move, Layers, Wand2 } from "lucide-react";
 import { useTranslations } from "next-intl";
-import Link from "next/link";
 import Breadcrumb from "@/components/Breadcrumb";
 
 const aiModels = [
@@ -109,9 +108,9 @@ const MotionControlHeroSection = () => {
                 className="h-14 px-10 text-base font-display rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 shadow-2xl"
                 asChild
               >
-                <Link href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
                   {t("motionControlCta")}
-                </Link>
+                </a>
               </Button>
             </motion.div>
           </motion.div>

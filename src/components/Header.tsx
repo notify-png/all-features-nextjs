@@ -87,7 +87,7 @@ const Header = () => {
       <div className="section-container">
         <div className="flex items-center justify-between h-[72px]">
           {/* Logo */}
-          <Link
+          <a
             href="https://www.tunee.ai"
             className="flex items-center gap-2.5 group"
           >
@@ -107,7 +107,7 @@ const Header = () => {
             <span className="font-barlow font-semibold text-xl tracking-tight text-foreground">
               Tunee
             </span>
-          </Link>
+          </a>
 
           {/* Desktop Navigation */}
           <nav

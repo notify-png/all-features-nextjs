@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { useTranslations } from "next-intl";
 import Breadcrumb from "@/components/Breadcrumb";
-import Link from "next/link";
 
 const aiModels = [
   "Seedance 1.5 Pro",
@@ -82,9 +81,9 @@ const AiDancingHeroSection = () => {
                 className="h-14 px-10 text-base font-display rounded-full bg-primary text-primary-foreground hover:bg-primary/90 transition-all duration-300 shadow-2xl"
                 asChild
               >
-                <Link href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
                   {t("aiDancingCta")}
-                </Link>
+                </a>
               </Button>
             </motion.div>
           </motion.div>

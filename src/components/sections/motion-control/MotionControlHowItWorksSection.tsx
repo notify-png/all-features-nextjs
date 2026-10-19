@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import Link from "next/link";
 import { useTranslations } from "next-intl";
 
 const MotionControlHowItWorksSection = () => {
@@ -77,7 +76,7 @@ const MotionControlHowItWorksSection = () => {
             whileTap={{ scale: 0.98 }}
             transition={{ type: "spring", stiffness: 400, damping: 17 }}
           >
-            <Link href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
               <Button
                 size="lg"
                 className="rounded-full px-8 gap-2 group bg-primary text-primary-foreground hover:bg-primary/90"
@@ -85,7 +84,7 @@ const MotionControlHowItWorksSection = () => {
                 {t("howCta")}
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
               </Button>
-            </Link>
+            </a>
           </motion.div>
         </motion.div>
       </div>

@@ -706,7 +706,7 @@ export default async function LocaleSlugPage(
         <div className="wrap">
           {/* Breadcrumb */}
           <nav className="bc" aria-label="Breadcrumb">
-            <Link href={locale === 'en' ? '/' : `/${locale}`}>{t.breadcrumbHome}</Link>
+            <a href={locale === 'en' ? '/' : `/${locale}`}>{t.breadcrumbHome}</a>
             <span>›</span>
             <a href={MV_PARENT}>{t.breadcrumbMvGen}</a>
             <span>›</span>

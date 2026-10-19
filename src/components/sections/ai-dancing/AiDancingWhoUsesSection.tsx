@@ -3,7 +3,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import Link from "next/link";
 import { useTranslations } from "next-intl";
 
 const AiDancingWhoUsesSection = () => {
@@ -90,11 +89,11 @@ const AiDancingWhoUsesSection = () => {
                       whileTap={{ scale: 0.98 }}
                       transition={{ type: "spring", stiffness: 400, damping: 17 }}
                     >
-                      <Link href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
+                      <a href="https://www.tunee.ai/sign-up" target="_blank" rel="noopener noreferrer">
                         <Button className="bg-primary text-primary-foreground hover:bg-primary/90 rounded-full px-8">
                           {t("whoCta")}
                         </Button>
-                      </Link>
+                      </a>
                     </motion.div>
                   </div>
                 </motion.div>

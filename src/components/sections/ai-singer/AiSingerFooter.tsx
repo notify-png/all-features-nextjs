@@ -21,7 +21,7 @@ const AiSingerFooter = () => {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-12">
             {/* Brand */}
             <div className="col-span-2 md:col-span-1">
-              <Link
+              <a
                 href={localizePath("/", locale)}
                 className="flex items-center gap-2 mb-4"
               >
@@ -37,7 +37,7 @@ const AiSingerFooter = () => {
                 <span className="text-white font-poppins font-semibold text-lg">
                   Tunee
                 </span>
-              </Link>
+              </a>
               <p className="text-white/60 text-sm leading-relaxed font-poppins">
                 Next-Gen AI Agent for Creative Production
               </p>

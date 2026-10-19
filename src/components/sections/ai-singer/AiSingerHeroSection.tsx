@@ -36,7 +36,7 @@ const AiSingerHeroSection = () => {
         <div className="section-container">
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
-            <Link href={localizePath("/", locale)} className="flex items-center gap-2">
+            <a href={localizePath("/", locale)} className="flex items-center gap-2">
               <img
                 src={imgSrc(tuneeLogo)}
                 alt="Tunee"
@@ -47,7 +47,7 @@ const AiSingerHeroSection = () => {
               <span className="text-foreground font-poppins font-semibold text-lg">
                 Tunee
               </span>
-            </Link>
+            </a>
 
             {/* Desktop Nav */}
             <div className="hidden md:flex items-center gap-8">
