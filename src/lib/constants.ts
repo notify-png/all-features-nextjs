@@ -59,7 +59,7 @@ export const FOOTER_POLICY_ITEMS = [
 ] as const;
 
 export const FOOTER_OTHER_ITEMS = [
-  { labelKey: "otherFeedback", href: "https://forum.tunee.ai" },
+  { labelKey: "otherFeedback", href: "https://www.tunee.ai/feedback" },
   { labelKey: "otherFAQ", href: "https://www.tunee.ai/faq" },
 ] as const;
 
