@@ -7,6 +7,7 @@ import "@/index.css";
 import Providers from "../providers";
 import { routing, LOCALES } from "@/i18n/routing";
 import { FEATURES_SOCIAL_IMAGE } from "@/lib/seo/metadata";
+import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -98,6 +99,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Providers>{children}</Providers>
         </NextIntlClientProvider>
+        <GoogleAnalytics />
       </body>
     </html>
   );
