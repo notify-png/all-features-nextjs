@@ -1,4 +1,5 @@
 import { MvConfig, MvContent } from '@/lib/mv/data'
+import { getT } from '@/lib/mv/i18n'
 
 const BASE_URL = 'https://www.tunee.ai'
 const PARENT = '/features/music-video-generator'
@@ -29,8 +30,18 @@ export default function SchemaScripts({ cfg, content, locale }: Props) {
   const { slug } = cfg
   const genre = cfg.genre_name
 
+  // 和页面上可见的那条面包屑同源（page.tsx 也是 getT(locale)），所以两者
+  // 逐字一致。不要改用 next-intl：Common.musicVideoGenerator 的措辞和这里
+  // 不一样（ru 是「Генератор музыкальных видео」vs 可见的「…клипов」）。
+  const t = getT(locale)
+
   // SoftwareApplication — always points to canonical (English) URL.
   // aggregateRating intentionally omitted — synthetic values risk a rich-results manual action.
+  //
+  // name 保持英文：这个站 100 个 slug 里有 28 个的 genre_name 不是曲风名
+  // （"With Subtitles"、"Free MV Generator"、"DJs"、"Apple Music"…），
+  // 套任何本地化模板都会出事——es/pt 的「de X」在它们上面语义就是错的
+  // （"Generador de videos musicales de With Subtitles"）。先修根因再谈本地化。
   const softwareApp = {
     '@context': 'https://schema.org',
     '@type': 'SoftwareApplication',
@@ -73,9 +84,9 @@ export default function SchemaScripts({ cfg, content, locale }: Props) {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: homeUrl(locale) },
-      { '@type': 'ListItem', position: 2, name: 'Music Video Generator', item: parentUrl(locale) },
-      { '@type': 'ListItem', position: 3, name: `${genre} Music Video`, item: pageUrl(locale, slug) },
+      { '@type': 'ListItem', position: 1, name: t.breadcrumbHome, item: homeUrl(locale) },
+      { '@type': 'ListItem', position: 2, name: t.breadcrumbMvGen, item: parentUrl(locale) },
+      { '@type': 'ListItem', position: 3, name: t.breadcrumbGenre(genre), item: pageUrl(locale, slug) },
     ],
   }
 
